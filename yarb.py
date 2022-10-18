@@ -89,9 +89,11 @@ def parseThread(url: str, proxy_url=''):
             d = entry.get('published_parsed')
             if not d:
                 d = entry.updated_parsed
+            today = datetime.date.today()
             yesterday = datetime.date.today() + datetime.timedelta(-1)
             pubday = datetime.date(d[0], d[1], d[2])
-            if pubday == yesterday:
+            # 昨天或者今天发布的
+            if pubday == yesterday or pubday == today:
                 item = {entry.title: entry.link}
                 print(item)
                 result |= item
