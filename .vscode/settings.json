@@ -1,0 +1,16 @@
+{
+    "gitConfigUser.profiles": [
+        {
+            "label": "lvcn",
+            "userName": "lvcn",
+            "email": "asdf10@139.com",
+            "selected": false
+        },
+        {
+            "label": "anaer",
+            "email": "a._-0@139.com",
+            "userName": "anaer",
+            "selected": true
+        }
+    ]
+}

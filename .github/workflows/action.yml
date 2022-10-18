@@ -1,6 +1,6 @@
 # https://docs.github.com/cn/actions/automating-builds-and-tests/building-and-testing-python
 
-name: Update dailynews
+name: Update dailyNews
 
 # 国际标准时间2点（北京时间10点）
 on:
@@ -34,12 +34,13 @@ jobs:
       - name: Commit
         run: |
           git diff
-          git config --global user.email firmianay@gmail.com
-          git config --global user.name firmianay
+          git config --global user.name "$GITHUB_ACTOR"
+          git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git add archive today.md
-          git commit -m "每日安全资讯（`date +'%Y-%m-%d'`）"
+          git commit -m "每日资讯（`date +'%Y-%m-%d'`）"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+          # github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+          branch: main
