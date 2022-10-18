@@ -25,7 +25,7 @@ def update_today(data: list=[]):
     """更新today"""
     root_path = Path(__file__).absolute().parent
     data_path = root_path.joinpath('temp_data.json')
-    today_path = root_path.joinpath('today.md')
+    today_path = root_path.joinpath('README.md')
     archive_path = root_path.joinpath(f'archive/{today.split("-")[0]}/{today}.md')
 
     if not data and data_path.exists():
