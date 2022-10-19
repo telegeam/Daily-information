@@ -2,10 +2,10 @@
 
 name: Update dailyNews
 
-# 国际标准时间2点（北京时间10点）
+# 国际标准时间1点（北京时间9点）
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch:
   push:
     branches: [main]
