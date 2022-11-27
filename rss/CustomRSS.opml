@@ -95,8 +95,6 @@
             xmlUrl="https://fangyuanxiaozhan.com/feed/" htmlUrl="https://fangyuanxiaozhan.com"/>
       <outline text="V2方圆" title="V2方圆" type="rss" 
             xmlUrl="https://v2fy.com/feed/" htmlUrl="https://v2fy.com"/>
-      <outline text="疫情" title="疫情" type="rss" 
-            xmlUrl="https://www.reddit.com/search.rss?q=%E7%96%AB%E6%83%85&amp;type=link&amp;limit=20&amp;sort=new" htmlUrl="https://www.reddit.com/search?q=%E7%96%AB%E6%83%85&amp;type=link&amp;limit=20&amp;sort=new"/>
       <outline text="萌叔 » Feed" title="萌叔 » Feed" type="rss" 
             xmlUrl="https://vearne.cc/feed" htmlUrl="https://vearne.cc"/>
       <outline text="沙雕新闻" title="沙雕新闻" type="rss" 
@@ -259,8 +257,6 @@
   <outline title="通道" text="通道">
       <outline text="某不科学的DIYgod - Telegram 频道" title="某不科学的DIYgod - Telegram 频道" type="rss" 
             xmlUrl="https://rsshub.app/telegram/channel/awesomeDIYgod" htmlUrl="https://t.me/s/awesomeDIYgod"/>
-      <outline text="RSSHub 布告栏 - Telegram 频道" title="RSSHub 布告栏 - Telegram 频道" type="rss" 
-            xmlUrl="https://rsshub.app/telegram/channel/awesomeRSSHub" htmlUrl="https://t.me/s/awesomeRSSHub"/>
       <outline text="杂货屋频道 - Telegram 频道" title="杂货屋频道 - Telegram 频道" type="rss" 
             xmlUrl="https://rsshub.app/telegram/channel/agintme" htmlUrl="https://t.me/s/agintme"/>
       <outline text="三联生活周刊" title="三联生活周刊" type="rss" 
