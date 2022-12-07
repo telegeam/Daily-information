@@ -131,8 +131,6 @@
             xmlUrl="http://www.feed43.com/8078656626535244.xml" htmlUrl="https://opensource.microsoft.com/"/>
       <outline text="马小帮" title="马小帮" type="rss" 
             xmlUrl="https://www.maxiaobang.com/feed" htmlUrl="https://www.maxiaobang.com"/>
-      <outline text="反斗限免" title="反斗限免" type="rss" 
-            xmlUrl="http://free.apprcn.com/feed/" htmlUrl="https://free.apprcn.com"/>
       <outline text="精品MAC应用分享" title="精品MAC应用分享" type="rss" 
             xmlUrl="https://xclient.info/feed" htmlUrl="https://xclient.info/"/>
   </outline>
