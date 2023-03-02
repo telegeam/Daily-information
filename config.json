@@ -9,6 +9,10 @@
             "enabled": true,
             "filename": "CustomRSS.opml"
         },
+        "InoreaderFeeds": {
+            "enabled": true,
+            "filename": "InoreaderFeeds.xml"
+        },
         "CyberSecurityRSS": {
             "enabled": false,
             "url": "https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/CyberSecurityRSS.opml",
