@@ -32,12 +32,17 @@ def update_today(data: list=[]):
         with open(data_path, 'r') as f1:
             data = json.load(f1)
 
+    unique = []
     archive_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(today_path, 'w+') as f1, open(archive_path, 'w+') as f2:
+    with open(today_path, 'w+', encoding='utf-8-sig') as f1, open(archive_path, 'w+', encoding='utf-8-sig') as f2:
         content = f'# 每日资讯（{today}）\n\n'
-        for item in data:
-            (feed, value), = item.items()
-            content += f'- {feed}\n'
+        for (feed, link, value) in data:
+            # 根据link去重, 可能rss链接不同, 实际是同一个站点
+            if link in unique:
+                print(link, '已存在')
+                continue
+            unique.append(link)
+            content += f'- [{feed}]({link})\n'
             for title, url in value.items():
                 content += f'  - [{title}]({url})\n'
         f1.write(content)
@@ -80,11 +85,13 @@ def parseThread(url: str, proxy_url=''):
     }
 
     title = ''
+    link = ''
     result = {}
     try:
         r = requests.get(url, timeout=10, headers=headers, verify=False, proxies=proxy)
         r = feedparser.parse(r.content)
         title = r.feed.title
+        link = r.feed.link
         for entry in r.entries:
             d = entry.get('published_parsed')
             if not d:
@@ -101,7 +108,7 @@ def parseThread(url: str, proxy_url=''):
     except Exception as e:
         Color.print_failed(f'[-] failed: {url}')
         print(e)
-    return title, result
+    return title, link, result
 
 
 def init_bot(conf: dict, proxy_url=''):
@@ -146,7 +153,7 @@ def init_rss(conf: dict, update: bool=False, proxy_url=''):
     for rss in rss_list:
         (_, value), = rss.items()
         try:
-            rss = listparser.parse(open(value).read())
+            rss = listparser.parse(open(value, encoding='utf-8-sig').read())
             for feed in rss.feeds:
                 url = feed.url.strip().rstrip('/')
                 short_url = url.split('://')[-1].split('www.')[-1]
@@ -193,10 +200,9 @@ def job(args):
         with ThreadPoolExecutor(100) as executor:
             tasks.extend(executor.submit(parseThread, url, proxy_rss) for url in feeds)
             for task in as_completed(tasks):
-                title, result = task.result()            
+                title, link, result = task.result()            
                 if result:
-                    numb += len(result.values())
-                    results.append({title: result})
+                    results.append(task.result())
         Color.print_focus(f'[+] {len(results)} feeds, {numb} articles')
 
         # temp_path = root_path.joinpath('temp_data.json')
