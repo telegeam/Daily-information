@@ -19,7 +19,7 @@ import requests
 requests.packages.urllib3.disable_warnings()
 
 today = datetime.datetime.now().strftime("%Y-%m-%d")
-
+filterWords = []
 
 def update_today(data: list=[]):
     """更新today"""
@@ -31,6 +31,8 @@ def update_today(data: list=[]):
     if not data and data_path.exists():
         with open(data_path, 'r') as f1:
             data = json.load(f1)
+
+    print("过滤词:",filterWords)
 
     unique = []
     archive_path.parent.mkdir(parents=True, exist_ok=True)
@@ -44,6 +46,9 @@ def update_today(data: list=[]):
             unique.append(link)
             content += f'- [{feed}]({link})\n'
             for title, url in value.items():
+                if any(word in title for word in filterWords):
+                    print(title, '包含过滤词')
+                    continue
                 content += f'  - [{title}]({url})\n'
         f1.write(content)
         f2.write(content)
@@ -183,11 +188,15 @@ def job(args):
         config_path = Path(args.config).expanduser().absolute()
     else:
         config_path = root_path.joinpath('config.json')
-    with open(config_path) as f:
+    with open(config_path, encoding='utf-8-sig') as f:
         conf = json.load(f)
 
     proxy_rss = conf['proxy']['url'] if conf['proxy']['rss'] else ''
     feeds = init_rss(conf['rss'], args.update, proxy_rss)
+    # print('filterWords', conf['filterWords'])
+    # 修改全局变量 需要先使用global声明下
+    global filterWords
+    filterWords = conf['filterWords'] if conf['filterWords'] else []
 
     results = []
     if args.test:
