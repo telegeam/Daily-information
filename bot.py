@@ -271,9 +271,8 @@ class telegramBot:
     @staticmethod
     def parse_results(results: list):
         text_list = []
-        for result in results:
-            (feed, value), = result.items()
-            text = f'<b>{feed}</b>\n'
+        for (feed, url, value) in results:
+            text = f'<a href="{url}">{feed}</a>\n'
             for idx, (title, link) in enumerate(value.items()):
                 text += f'{idx+1}. <a href="{link}">{title}</a>\n'
             text_list.append(text.strip())
