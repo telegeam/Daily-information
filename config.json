@@ -75,10 +75,10 @@
             "key": "xxxxxxxxxx"
         },
         "telegram":{
-            "enabled": false,
+            "enabled": true,
             "secrets": "TELEGRAM_KEY",
-            "chat_id": ["-799557100"],
-            "key": "xxxxxxxxxx"
+            "chat_id": ["-1001835551887"],
+            "key": "6057891113:AAE8sNuCwTWKNTaIgMAl9RTqYs5YYrUPE-c"
         },
         "mail": {
             "enabled": false,
