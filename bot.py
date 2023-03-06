@@ -255,9 +255,10 @@ class telegramBot:
     https://core.telegram.org/bots/api
     """
     def __init__(self, key, chat_id: list, proxy_url='') -> None:
-        proxy = telegram.utils.request.Request(proxy_url=proxy_url)
+        #proxy = telegram.utils.request.Request(proxy_url=proxy_url)
         self.chat_id = chat_id
-        self.bot = telegram.Bot(token=key, request=proxy)
+        #self.bot = telegram.Bot(token=key, request=proxy)
+        self.bot = telegram.Bot(token=key)
 
     def test_connect(self):
         try:
