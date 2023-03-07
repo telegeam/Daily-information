@@ -279,6 +279,7 @@ class telegramBot:
             for idx, (title, link) in enumerate(value.items()):
                 text += f'{idx+1}. <a href="{link}">{title}</a>\n'
             text_list.append(text.strip())
+            break
         return text_list
 
     def send(self, text_list: list):
@@ -290,7 +291,7 @@ class telegramBot:
                 for id in self.chat_id:
                     try:
                         #self.bot.send_message(chat_id=id, text=text, parse_mode='HTML')
-                        asyncio.run(sendMsg(id, text))
+                        asyncio.run(self.sendMsg(id, text))
                         Color.print_success(f'[+] telegramBot 发送成功 {id}')
                     except Exception as e:
                         Color.print_failed(f'[-] telegramBot 发送失败 {id}')
