@@ -269,7 +269,7 @@ class telegramBot:
         
     async def sendMsg(self, chat_id, text):
         async with self.bot:
-            print(await self.bot.send_message(chat_id=chat_id, text = text))
+            print(await self.bot.send_message(chat_id=chat_id, text = text, parse_mode='HTML'))
 
     @staticmethod
     def parse_results(results: list):
@@ -279,7 +279,6 @@ class telegramBot:
             for idx, (title, link) in enumerate(value.items()):
                 text += f'{idx+1}. <a href="{link}">{title}</a>\n'
             text_list.append(text.strip())
-            break
         return text_list
 
     def send(self, text_list: list):
