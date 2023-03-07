@@ -269,7 +269,7 @@ class telegramBot:
         
     async def sendMsg(chat_id, text):
         async with self.bot:
-            print(await self.bot.send_message(chat_id=chat_id, text = text, parse_mode='HTML'))
+            print(await self.bot.send_message(chat_id=chat_id, text = text))
 
     @staticmethod
     def parse_results(results: list):
