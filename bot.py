@@ -2,6 +2,7 @@ import time
 import json
 import yaml
 import telegram
+import asyncio
 import requests
 import smtplib
 import subprocess
@@ -255,9 +256,7 @@ class telegramBot:
     https://core.telegram.org/bots/api
     """
     def __init__(self, key, chat_id: list, proxy_url='') -> None:
-        #proxy = telegram.utils.request.Request(proxy_url=proxy_url)
         self.chat_id = chat_id
-        #self.bot = telegram.Bot(token=key, request=proxy)
         self.bot = telegram.Bot(token=key)
 
     def test_connect(self):
@@ -267,6 +266,10 @@ class telegramBot:
         except Exception as e:
             Color.print_failed('[-] telegramBot 连接失败')
             return False
+        
+    async def sendMsg(chat_id, text):
+        async with self.bot:
+            print(await self.bot.send_message(chat_id=chat_id, text = text, parse_mode='HTML'))
 
     @staticmethod
     def parse_results(results: list):
@@ -286,7 +289,8 @@ class telegramBot:
 
                 for id in self.chat_id:
                     try:
-                        self.bot.send_message(chat_id=id, text=text, parse_mode='HTML')
+                        #self.bot.send_message(chat_id=id, text=text, parse_mode='HTML')
+                        asyncio.run(sendMsg(id, text))
                         Color.print_success(f'[+] telegramBot 发送成功 {id}')
                     except Exception as e:
                         Color.print_failed(f'[-] telegramBot 发送失败 {id}')
