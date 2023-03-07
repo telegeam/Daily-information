@@ -267,7 +267,7 @@ class telegramBot:
             Color.print_failed('[-] telegramBot 连接失败')
             return False
         
-    async def sendMsg(chat_id, text):
+    async def sendMsg(self, chat_id, text):
         async with self.bot:
             print(await self.bot.send_message(chat_id=chat_id, text = text))
 
