@@ -266,6 +266,10 @@ class telegramBot:
         except Exception as e:
             Color.print_failed('[-] telegramBot 连接失败')
             return False
+        
+    async def sendMsg(self, chat_id, text):
+        async with self.bot:
+            print(await self.bot.send_message(chat_id=chat_id, text = text, parse_mode='HTML'))
 
     @staticmethod
     def parse_results(results: list):
@@ -284,7 +288,7 @@ class telegramBot:
                 # print(f'{len(text)} {text[:50]}...{text[-50:]}')
                 for id in self.chat_id:
                     try:
-                        asyncio.run(self.bot.send_message(chat_id=id, text = text, parse_mode='HTML'))
+                        asyncio.run(self.sendMsg(id, text))
                         Color.print_success(f'[+] telegramBot 发送成功 {id}')
                     except Exception as e:
                         Color.print_failed(f'[-] telegramBot 发送失败 {id}')

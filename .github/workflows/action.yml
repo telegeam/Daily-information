@@ -51,3 +51,9 @@ jobs:
         with:
           # github_token: ${{ secrets.MY_GITHUB_TOKEN }}
           branch: main
+
+      - name: 删除历史记录
+        uses: GitRML/delete-workflow-runs@main
+        with:
+          retain_days: 3
+          keep_minimum_runs: 5          
