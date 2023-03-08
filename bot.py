@@ -289,7 +289,6 @@ class telegramBot:
 
                 for id in self.chat_id:
                     try:
-                        #self.bot.send_message(chat_id=id, text=text, parse_mode='HTML')
                         asyncio.run(self.sendMsg(id, text))
                         Color.print_success(f'[+] telegramBot 发送成功 {id}')
                     except Exception as e:

@@ -18,7 +18,6 @@
       <outline text="知乎日报" title="知乎日报" type="rss" xmlUrl="http://feeds.feedburner.com/zhihu-daily" htmlUrl="http://daily.zhihu.com/"/>
       <outline text="博海拾贝 – 博海拾贝" title="博海拾贝 – 博海拾贝" type="rss" xmlUrl="https://bohaishibei.com/post/category/main/feed/" htmlUrl="https://www.bohaishibei.com/"/>
       <outline text="开源中国-资讯" title="开源中国-资讯" type="rss" xmlUrl="https://rsshub.app/oschina/news" htmlUrl="https://www.oschina.net/news/"/>
-      <outline text="青年图摘 - 每天十分钟，开心一整天。" title="青年图摘 - 每天十分钟，开心一整天。" type="rss" xmlUrl="http://www.qingniantuzhai.com/feed" htmlUrl="http://www.qingniantuzhai.com/"/>
     </outline>
     <outline text=" 软件" title=" 软件">
       <outline text="最新限免 / 促销应用" title="最新限免 / 促销应用" type="rss" xmlUrl="https://rsshub.app/appstore/gofans" htmlUrl="https://gofans.cn/"/>
@@ -31,12 +30,9 @@
     <outline text="编程" title="编程">
       <outline text="字节跳动技术团队官方博客" title="字节跳动技术团队官方博客" type="rss" xmlUrl="https://blog.csdn.net/ByteDanceTech/rss/list" htmlUrl="https://blog.csdn.net/ByteDanceTech"/>
       <outline text="有赞技术团队" title="有赞技术团队" type="rss" xmlUrl="https://tech.youzan.com/rss/" htmlUrl="http://tech.youzan.com/"/>
-      <outline text="开发者头条" title="开发者头条" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/toutiao.io.xml" htmlUrl="http://toutiao.io/"/>
       <outline text="美团技术团队" title="美团技术团队" type="rss" xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/feed/"/>
       <outline text="LearnKu 终身编程者的知识社区" title="LearnKu 终身编程者的知识社区" type="rss" xmlUrl="https://learnku.com/feed" htmlUrl="https://learnku.com/"/>
-      <outline text="Readhub / 开发者资讯" title="Readhub / 开发者资讯" type="rss" xmlUrl="https://plink.anyfeeder.com/readhub/technews" htmlUrl="https://readhub.cn/topic/technews"/>
       <outline text="Linux 中国" title="Linux 中国" type="rss" xmlUrl="https://plink.anyfeeder.com/linux.cn" htmlUrl="https://linux.cn/"/>
-      <outline text="开发者头条" title="开发者头条" type="rss" xmlUrl="https://plink.anyfeeder.com/toutiao.io" htmlUrl="http://toutiao.io/"/>
       <outline text="FreeBuf 关注黑客" title="FreeBuf 关注黑客" type="rss" xmlUrl="https://plink.anyfeeder.com/freebuf" htmlUrl="https://www.freebuf.com/"/>
     </outline>
     <outline text="科技" title="科技">
@@ -49,7 +45,6 @@
       <outline text="Solidot" title="Solidot" type="rss" xmlUrl="https://www.solidot.org/index.rss" htmlUrl="http://www.solidot.org/"/>
       <outline text="MIT 科技评论 / 本周热榜" title="MIT 科技评论 / 本周热榜" type="rss" xmlUrl="https://plink.anyfeeder.com/mittrchina/hot" htmlUrl="http://www.mittrchina.com/"/>
       <outline text="Readhub / 每日早报" title="Readhub / 每日早报" type="rss" xmlUrl="https://plink.anyfeeder.com/readhub/daily" htmlUrl="https://readhub.cn/topic/daily"/>
-      <outline text="Readhub / 区块链快讯" title="Readhub / 区块链快讯" type="rss" xmlUrl="https://plink.anyfeeder.com/readhub/blockchain" htmlUrl="https://readhub.cn/topic/blockchain"/>
       <outline text="爱范儿" title="爱范儿" type="rss" xmlUrl="https://plink.anyfeeder.com/ifanr" htmlUrl="https://www.ifanr.com/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
       <outline text="果壳网 / 科学人" title="果壳网 / 科学人" type="rss" xmlUrl="https://plink.anyfeeder.com/guokr/scientific" htmlUrl="https://www.guokr.com/scientific"/>
       <outline text="软餐 - 新鲜软件资讯" title="软餐 - 新鲜软件资讯" type="rss" xmlUrl="https://plink.anyfeeder.com/ruancan" htmlUrl="https://www.ruancan.com/"/>
@@ -61,32 +56,17 @@
     <outline text="新闻" title="新闻">
       <outline text="喷嚏图卦" title="喷嚏图卦" type="rss" xmlUrl="https://plink.anyfeeder.com/pentitugua" htmlUrl="http://dapenti.com/"/>
       <outline text="iDaily 每日环球视野" title="iDaily 每日环球视野" type="rss" xmlUrl="https://plink.anyfeeder.com/idaily/today" htmlUrl="https://docs.rsshub.app/"/>
-      <outline text="求是网" title="求是网" type="rss" xmlUrl="https://plink.anyfeeder.com/qstheory" htmlUrl="http://www.qstheory.cn//v9zhuanqu/toutiao/index.htm"/>
-      <outline text="网易新闻 / 今日关注" title="网易新闻 / 今日关注" type="rss" xmlUrl="https://plink.anyfeeder.com/netease/today" htmlUrl="https://wp.m.163.com/163/html/newsapp/todayFocus/index.html"/>
-      <outline text="喷嚏网 / 铂程斋" title="喷嚏网 / 铂程斋" type="rss" xmlUrl="https://plink.anyfeeder.com/dapenti/xilei" htmlUrl="https://www.dapenti.com/blog/blog.asp?name=xilei"/>
     </outline>
     <outline text="生活" title="生活">
       <outline text="理想生活实验室" title="理想生活实验室" type="rss" xmlUrl="https://plink.anyfeeder.com/toodaylab" htmlUrl="http://www.toodaylab.com/"/>
     </outline>
     <outline text="知识" title="知识">
-      <outline text="知乎日报" title="知乎日报" type="rss" xmlUrl="https://plink.anyfeeder.com/zhihu/daily" htmlUrl="https://daily.zhihu.com/"/>
-      <outline text="简书 / 首页" title="简书 / 首页" type="rss" xmlUrl="https://plink.anyfeeder.com/jianshu/home" htmlUrl="https://www.jianshu.com/"/>
-      <outline text="简书: 热门" title="简书: 热门" type="rss" xmlUrl="https://plink.anyfeeder.com/jianshu/trending/weekly" htmlUrl="https://plink.anyfeeder.com/jianshu/trending/weekly"/>
-      <outline text="人人都是产品经理" title="人人都是产品经理" type="rss" xmlUrl="https://plink.anyfeeder.com/woshipm/popular" htmlUrl="http://www.woshipm.com/"/>
       <outline text="维基百科优良条目" title="维基百科优良条目" type="rss" xmlUrl="https://zh.wikipedia.org/w/api.php?action=featuredfeed&amp;feed=good&amp;feedformat=atom" htmlUrl="https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5"/>
-      <outline text="BBC 英语教学" title="BBC 英语教学" type="rss" xmlUrl="https://plink.anyfeeder.com/bbc/learningenglish" htmlUrl="http://www.bbc.co.uk/learningenglish/chinese/"/>
       <outline text="观止·每日一文" title="观止·每日一文" type="rss" xmlUrl="https://plink.anyfeeder.com/meiriyiwen" htmlUrl="https://meiriyiwen.com/"/>
     </outline>
     <outline text="娱乐" title="娱乐">
       <outline text="豆瓣最受欢迎的影评" title="豆瓣最受欢迎的影评" type="rss" xmlUrl="https://plink.anyfeeder.com/douban/review/movie" htmlUrl="https://movie.douban.com/review/movie_best/"/>
       <outline text="豆瓣最受欢迎的书评" title="豆瓣最受欢迎的书评" type="rss" xmlUrl="https://plink.anyfeeder.com/douban/review/book" htmlUrl="https://book.douban.com/review/book_best/"/>
-    </outline>
-    <outline text="外媒" title="外媒">
-      <outline text="SBS 中文" title="SBS 中文" type="rss" xmlUrl="https://plink.anyfeeder.com/sbs/chinese" htmlUrl="https://www.sbs.com.au/language/mandarin/news/zh-hans"/>
-      <outline text="端传媒 / 最新" title="端传媒 / 最新" type="rss" xmlUrl="https://plink.anyfeeder.com/initium/latest" htmlUrl="https://theinitium.com/channel/latest/"/>
-      <outline text="端传媒 / 深度" title="端传媒 / 深度" type="rss" xmlUrl="https://plink.anyfeeder.com/initium/feature" htmlUrl="https://theinitium.com/channel/feature/"/>
-      <outline text="路透中文" title="路透中文" type="rss" xmlUrl="https://plink.anyfeeder.com/reuters/cn" htmlUrl="http://reuters.com/"/>
-      <outline text="BBC 中文版" title="BBC 中文版" type="rss" xmlUrl="https://plink.anyfeeder.com/bbc/cn" htmlUrl="http://bbc.com/"/>
     </outline>
   </body>
 </opml>

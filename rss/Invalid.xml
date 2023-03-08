@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>无效源</title>
+  </head>
+  <body>
+    <outline text="花花世界" title="花花世界" type="rss"
+      xmlUrl="https://sodue.com/feed" />
+
+    <outline text="有据" title="有据" type="rss"
+      xmlUrl="https://chinafactcheck.com/feed/" htmlUrl="https://chinafactcheck.com" />
+    <outline text="知乎热榜" title="知乎热榜" type="rss"
+      xmlUrl="https://rsshub.app/zhihu/hotlist" htmlUrl="https://www.zhihu.com/billboard" />
+    <outline text="新浪科技" title="新浪科技" type="rss"
+      xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=https%3A%2F%2Ffeedex.net%2Ffeed%2Frss.sina.com.cn%2Ftech%2Frollnews.xml&amp;max=3"
+      htmlUrl="http://tech.sina.com.cn/roll.shtml" />
+    <outline text="MSDN杂志 - 微软技术头条 (by Bravo Yeung)" title="MSDN杂志 - 微软技术头条 (by Bravo Yeung)"
+      type="rss"
+      xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=https%3A%2F%2Ffeed43.com%2F0781432610337857.xml&amp;max=10&amp;summary=1"
+      htmlUrl="https://feed43.com/0781432610337857.xml" />
+    <outline text="推荐文章 - UI 中国" title="推荐文章 - UI 中国" type="rss"
+      xmlUrl="https://rsshub.app/ui-cn/article" htmlUrl="https://www.ui.cn/" />
+    <outline text="Updates" title="Updates" type="rss"
+      xmlUrl="https://developers.google.com/web/updates/rss.xml" />
+    <outline text="Engadget 中文版 RSS Feed" title="Engadget 中文版 RSS Feed" type="rss"
+      xmlUrl="http://cn.engadget.com/rss.xml" />
+    <outline text="MODELCLUB" title="MODELCLUB" type="rss"
+      xmlUrl="http://www.modelclub.cn/rss.php?auth=0" htmlUrl="http://www.modelclub.cn/index.php" />
+    <outline text="胡萝卜周博客" title="胡萝卜周博客" type="rss"
+      xmlUrl="http://www.carrotchou.blog/feed" />
+    <outline text="博客 - 伯乐在线" title="博客 - 伯乐在线" type="rss"
+      xmlUrl="http://blog.jobbole.com/feed/" />
+    <outline text="三秋书屋" title="三秋书屋" type="rss"
+      xmlUrl="https://www.d4j.cn/feed" />
+    <outline text="她和她的猫" title="她和她的猫" type="rss"
+      xmlUrl="https://her-cat.com/rss.xml" />
+    <outline text="冷笑话精选" title="冷笑话精选" type="rss"
+      xmlUrl="https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5cf9a7980cc93bc69d0858a2" />
+    <outline text="维基萌" title="维基萌" type="rss"
+      xmlUrl="https://www.wikimoe.com/rss.php" htmlUrl="https://www.wikimoe.com/" />
+    <outline text="IBM Developer 中国 : 文档库" title="IBM Developer 中国 : 文档库" type="rss"
+      xmlUrl="http://www.ibm.com/developerworks/cn/rss/dwcn_dwtp.rss" />
+    <outline text="VIP影院" title="VIP影院" type="rss"
+      xmlUrl="https://bukaivip.com/rss" />
+    <outline text="云音乐大前端专栏" title="云音乐大前端专栏" type="rss"
+      xmlUrl="https://musicfe.dev/rss" />
+    <outline text="小强的时间管理博客" title="小强的时间管理博客" type="rss"
+      xmlUrl="http://www.gtdlife.com/feed/" htmlUrl="https://www.gtdlife.com" />
+    <outline text="青年图摘 - 每天十分钟，开心一整天。" title="青年图摘 - 每天十分钟，开心一整天。" type="rss"
+      xmlUrl="http://www.qingniantuzhai.com/feed" htmlUrl="https://qingniantuzhai.com/" />
+    <outline text="善用佳软" title="善用佳软" type="rss"
+      xmlUrl="http://feed.xbeta.info/" />
+    <outline text="喷嚏网 / 铂程斋" title="喷嚏网 / 铂程斋" type="rss"
+      xmlUrl="https://plink.anyfeeder.com/dapenti/xilei"
+      htmlUrl="https://www.dapenti.com/blog/blog.asp?name=xilei" />
+    <outline text="网易新闻 / 今日关注" title="网易新闻 / 今日关注" type="rss"
+      xmlUrl="https://plink.anyfeeder.com/netease/today"
+      htmlUrl="https://wp.m.163.com/163/html/newsapp/todayFocus/index.html" />
+    <outline text="简书: 热门" title="简书: 热门" type="rss"
+      xmlUrl="https://plink.anyfeeder.com/jianshu/trending/weekly"
+      htmlUrl="https://plink.anyfeeder.com/jianshu/trending/weekly" />
+    <outline text="BBC 英语教学" title="BBC 英语教学" type="rss"
+      xmlUrl="https://plink.anyfeeder.com/bbc/learningenglish"
+      htmlUrl="http://www.bbc.co.uk/learningenglish/chinese/" />
+    <outline text="端传媒 / 最新" title="端传媒 / 最新" type="rss"
+      xmlUrl="https://plink.anyfeeder.com/initium/latest"
+      htmlUrl="https://theinitium.com/channel/latest/" />
+    <outline text="BBC 中文版" title="BBC 中文版" type="rss" xmlUrl="https://plink.anyfeeder.com/bbc/cn"
+      htmlUrl="http://bbc.com/" />
+    <outline text="Coding.net 博客订阅RSS" title="Coding.net 博客订阅RSS" type="rss"
+      xmlUrl="http://blog.coding.net/blogs/rss" />
+    <outline text="微软亚洲研究院" title="微软亚洲研究院" type="rss"
+      xmlUrl="https://www.msra.cn/feed" htmlUrl="https://www.msra.cn" />
+    <outline text="开发者头条" title="开发者头条" type="rss" xmlUrl="https://plink.anyfeeder.com/toutiao.io"
+      htmlUrl="http://toutiao.io/" />
+    <outline text="阁子" title="阁子" type="rss"
+      xmlUrl="https://newdee.cf/atom.xml" />
+    <outline text="Readhub / 区块链快讯" title="Readhub / 区块链快讯" type="rss"
+      xmlUrl="https://plink.anyfeeder.com/readhub/blockchain"
+      htmlUrl="https://readhub.cn/topic/blockchain" />
+    <outline text="INTJer" title="INTJer" type="rss"
+      xmlUrl="https://arminli.com/feed/" />
+    <outline text="简书 / 首页" title="简书 / 首页" type="rss"
+      xmlUrl="https://plink.anyfeeder.com/jianshu/home" htmlUrl="https://www.jianshu.com/" />
+    <outline text="SBS 中文" title="SBS 中文" type="rss"
+      xmlUrl="https://plink.anyfeeder.com/sbs/chinese"
+      htmlUrl="https://www.sbs.com.au/language/mandarin/news/zh-hans" />
+
+    <outline text="APPDO数字生活指南" title="APPDO数字生活指南" type="rss"
+      xmlUrl="https://simonword.com/feed" htmlUrl="https://simonword.com/" />
+    <outline text="端传媒 / 深度" title="端传媒 / 深度" type="rss"
+      xmlUrl="https://plink.anyfeeder.com/initium/feature"
+      htmlUrl="https://theinitium.com/channel/feature/" />
+    <outline text="路透中文" title="路透中文" type="rss" xmlUrl="https://plink.anyfeeder.com/reuters/cn"
+      htmlUrl="http://reuters.com/" />
+    <outline text="Readhub / 开发者资讯" title="Readhub / 开发者资讯" type="rss"
+      xmlUrl="https://plink.anyfeeder.com/readhub/technews"
+      htmlUrl="https://readhub.cn/topic/technews" />
+    <outline text="知乎日报" title="知乎日报" type="rss" xmlUrl="https://plink.anyfeeder.com/zhihu/daily"
+      htmlUrl="https://daily.zhihu.com/" />
+    <outline text="求是网" title="求是网" type="rss" xmlUrl="https://plink.anyfeeder.com/qstheory"
+      htmlUrl="http://www.qstheory.cn//v9zhuanqu/toutiao/index.htm" />
+    <outline text="人人都是产品经理" title="人人都是产品经理" type="rss"
+      xmlUrl="https://plink.anyfeeder.com/woshipm/popular" htmlUrl="http://www.woshipm.com/" />
+    <outline text="青柠学术" title="青柠学术" type="rss"
+      xmlUrl="https://iseex.github.io/feed" />
+    <outline text="开发者头条" title="开发者头条" type="rss"
+      xmlUrl="http://feedmaker.kindle4rss.com/feeds/toutiao.io.xml" htmlUrl="http://toutiao.io/" />
+  </body>
+</opml>
