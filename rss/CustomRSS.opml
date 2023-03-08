@@ -19,8 +19,6 @@
             xmlUrl="https://upwon.github.io/atom.xml"/>
       <outline text="TechNews 科技新報" title="TechNews 科技新報" type="rss" 
             xmlUrl="http://technews.tw/feed/" htmlUrl="https://technews.tw"/>
-      <outline text="TechWeb 每日热点" title="TechWeb 每日热点" type="rss" 
-            xmlUrl="http://www.techweb.com.cn/rss/hotnews.xml" htmlUrl="http://www.techweb.com.cn/rss/hotnews.xml"/>
       <outline text="APPLEFANS 蘋果迷" title="APPLEFANS 蘋果迷" type="rss" 
             xmlUrl="https://applefans.today/feed/" htmlUrl="https://applefans.today/"/>
       <outline text="果壳 - 科技有意思" title="果壳 - 科技有意思" type="rss" 
@@ -31,8 +29,6 @@
             xmlUrl="https://rss.lilydjwg.me/zhihu_topic/19551894" htmlUrl="https://www.zhihu.com/topic/19551894"/>
       <outline text="吴川斌的博客" title="吴川斌的博客" type="rss" 
             xmlUrl="https://www.mr-wu.cn/feed/" htmlUrl="https://www.mr-wu.cn/"/>
-      <outline text="如有乐享" title="如有乐享" type="rss" 
-            xmlUrl="http://51.ruyo.net/feed/" htmlUrl="https://51.ruyo.net"/>
       <outline text="创业邦-周报" title="创业邦-周报" type="rss" 
             xmlUrl="https://rsshub.app/cyzone/label/%E5%88%9B%E4%B8%9A%E9%82%A6%E5%91%A8%E6%8A%A5" htmlUrl="https://www.cyzone.cn/label/%E5%88%9B%E4%B8%9A%E9%82%A6%E5%91%A8%E6%8A%A5/"/>
       <outline text="抽屉新热榜" title="抽屉新热榜" type="rss" 
@@ -61,8 +57,6 @@
             xmlUrl="https://rsshub.app/jike/topic/55d81b4b60b296e5679785de" htmlUrl="https://m.okjike.com/topics/55d81b4b60b296e5679785de"/>
       <outline text="即刻热门评论精选 - 即刻主题精选" title="即刻热门评论精选 - 即刻主题精选" type="rss" 
             xmlUrl="https://rsshub.app/jike/topic/5762530cf25ffa1200cb0396" htmlUrl="https://m.okjike.com/topics/5762530cf25ffa1200cb0396"/>
-      <outline text="月光博客" title="月光博客" type="rss" 
-            xmlUrl="http://feed.williamlong.info/" htmlUrl="https://www.williamlong.info/"/>
       <outline text="丁香医生" title="丁香医生" type="rss" 
             xmlUrl="http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F"/>
       <outline text="博海拾贝 – 博海拾贝" title="博海拾贝 – 博海拾贝" type="rss" 
@@ -73,12 +67,6 @@
             xmlUrl="https://segmentfault.com/feeds/blogs" htmlUrl="https://segmentfault.com/blogs"/>
       <outline text="王垠的草稿本" title="王垠的草稿本" type="rss" 
             xmlUrl="https://yinwang1.wordpress.com/feed/" htmlUrl="https://yinwang1.wordpress.com"/>
-      <outline text="黑果小兵的部落阁" title="黑果小兵的部落阁" type="rss" 
-            xmlUrl="https://blog.daliansky.net/atom.xml"/>
-      <outline text="张鑫旭-鑫空间-鑫生活" title="张鑫旭-鑫空间-鑫生活" type="rss" 
-            xmlUrl="https://www.zhangxinxu.com/wordpress/feed/" htmlUrl="https://www.zhangxinxu.com/wordpress"/>
-      <outline text="方圆小站" title="方圆小站" type="rss" 
-            xmlUrl="https://fangyuanxiaozhan.com/feed/" htmlUrl="https://fangyuanxiaozhan.com"/>
       <outline text="V2方圆" title="V2方圆" type="rss" 
             xmlUrl="https://v2fy.com/feed/" htmlUrl="https://v2fy.com"/>
       <outline text="萌叔 » Feed" title="萌叔 » Feed" type="rss" 
@@ -91,8 +79,6 @@
             xmlUrl="http://xlrocket.com/feed/" htmlUrl="http://xlrocket.com"/>
       <outline text="軟體玩家" title="軟體玩家" type="rss" 
             xmlUrl="http://feeds.feedburner.com/quicktop" htmlUrl="https://pcrookie.com/"/>
-      <outline text="小众软件" title="小众软件" type="rss" 
-            xmlUrl="https://feeds.appinn.com/appinns/" htmlUrl="https://www.appinn.com"/>
       <outline text="每日精品限免 / 促销应用" title="每日精品限免 / 促销应用" type="rss" 
             xmlUrl="https://rsshub.app/appstore/xianmian" htmlUrl="http://app.so/xianmian/"/>
       <outline text="最新限免 / 促销应用" title="最新限免 / 促销应用" type="rss" 
@@ -107,8 +93,6 @@
             xmlUrl="https://www.naodai.org/feed/" htmlUrl="https://www.naodai.org/"/>
       <outline text="软矿" title="软矿" type="rss" 
             xmlUrl="https://www.rkdot.com/feed/"/>
-      <outline text="最美应用" title="最美应用" type="rss" 
-            xmlUrl="http://zuimeia.com/feed" htmlUrl="http://zuimeia.com/?utm_source=rss&amp;utm_campaign=rss&amp;utm_medium=toutiao"/>
       <outline text="Explore Microsoft open source projects, releases and information - GitHub" title="Explore Microsoft open source projects, releases and information - GitHub" type="rss" 
             xmlUrl="http://www.feed43.com/8078656626535244.xml" htmlUrl="https://opensource.microsoft.com/"/>
       <outline text="马小帮" title="马小帮" type="rss" 
@@ -117,8 +101,6 @@
             xmlUrl="https://xclient.info/feed" htmlUrl="https://xclient.info/"/>
   </outline>
   <outline title="编程" text="编程">
-      <outline text="有赞技术团队" title="有赞技术团队" type="rss" 
-            xmlUrl="https://tech.youzan.com/rss/" htmlUrl="https://tech.youzan.com/"/>
       <outline text="标点符" title="标点符" type="rss" 
             xmlUrl="http://feeds.feedburner.com/biaodianfu" htmlUrl="https://www.biaodianfu.com"/>
       <outline text="奇舞周刊" title="奇舞周刊" type="rss" 
@@ -127,8 +109,6 @@
             xmlUrl="https://blog.csdn.net/ByteDanceTech/rss/list" htmlUrl="https://blog.csdn.net/ByteDanceTech"/>
       <outline text="美团技术团队" title="美团技术团队" type="rss" 
             xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/feed/"/>
-      <outline text="LearnKu 终身编程者的知识社区" title="LearnKu 终身编程者的知识社区" type="rss" 
-            xmlUrl="https://learnku.com/feed" htmlUrl="https://learnku.com"/>
       <outline text="HelloGitHub 月刊" title="HelloGitHub 月刊" type="rss" 
             xmlUrl="https://hellogithub.com/rss" htmlUrl="https://hellogithub.com"/>
       <outline text="开源工场" title="开源工场" type="rss" 
@@ -137,8 +117,6 @@
             xmlUrl="https://wubaiqing.github.io/zaobao/rss.xml" htmlUrl="https://wubaiqing.github.io/zaobao"/>
       <outline text="InfoQ推荐" title="InfoQ推荐" type="rss" 
             xmlUrl="https://rsshub.app/infoq/recommend" htmlUrl="https://www.infoq.cn"/>
-      <outline text="飞冰早报" title="飞冰早报" type="rss" 
-            xmlUrl="https://rsshub.app/jskou/1"/>
       <outline text="我爱计算机视觉" title="我爱计算机视觉" type="rss" 
             xmlUrl="https://www.52cv.net/?feed=rss2" htmlUrl="https://www.52cv.net"/>
       <outline text="知了" title="知了" type="rss" 
@@ -151,16 +129,12 @@
             xmlUrl="http://redstonewill.com/feed/" htmlUrl="https://redstonewill.com"/>
       <outline text="谢乾坤 | Kingname" title="谢乾坤 | Kingname" type="rss" 
             xmlUrl="http://www.kingname.info/atom.xml"/>
-      <outline text="C0reFast记事本" title="C0reFast记事本" type="rss" 
-            xmlUrl="https://www.ichenfu.com/atom.xml"/>
       <outline text="Jiajun的编程随想" title="Jiajun的编程随想" type="rss" 
             xmlUrl="https://jiajunhuang.com/rss" htmlUrl="https://jiajunhuang.com"/>
       <outline text="白宦成" title="白宦成" type="rss" 
             xmlUrl="https://www.ixiqin.com/feed/" htmlUrl="https://www.ixiqin.com"/>
       <outline text="GeeksforGeeks" title="GeeksforGeeks" type="rss" 
             xmlUrl="https://www.geeksforgeeks.org/feed/" htmlUrl="https://www.geeksforgeeks.org"/>
-      <outline text="最新开源资讯" title="最新开源资讯" type="rss" 
-            xmlUrl="https://www.oschina.net/news/rss" htmlUrl="https://www.oschina.net/news/rss"/>
   </outline>
   <outline title="科技" text="科技">
       <outline text="CrazyCodeBoy的技术博客官网" title="CrazyCodeBoy的技术博客官网" type="rss" 
@@ -171,20 +145,12 @@
             xmlUrl="http://blog.csdn.net/lanphaday/rss/list" htmlUrl="https://blog.csdn.net/lanphaday"/>
       <outline text="最新更新 – Solidot" title="最新更新 – Solidot" type="rss" 
             xmlUrl="http://feeds.feedburner.com/solidot" htmlUrl="https://www.solidot.org"/>
-      <outline text="理想生活实验室" title="理想生活实验室" type="rss" 
-            xmlUrl="http://www.toodaylab.com/feed" htmlUrl="http://www.toodaylab.com"/>
-      <outline text="奇客Solidot–传递最新科技情报" title="奇客Solidot–传递最新科技情报" type="rss" 
-            xmlUrl="https://www.solidot.org/index.rss" htmlUrl="https://www.solidot.org"/>
   </outline>
   <outline title="安全" text="安全">
       <outline text="FreeBuf互联网安全新媒体平台" title="FreeBuf互联网安全新媒体平台" type="rss" 
             xmlUrl="http://www.freebuf.com/feed" htmlUrl="https://www.freebuf.com"/>
-      <outline text="安全脉搏" title="安全脉搏" type="rss" 
-            xmlUrl="http://www.secpulse.com/feed" htmlUrl="https://www.secpulse.com"/>
       <outline text="嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com" title="嘶吼 RoarTalk – 回归最本质的信息安全,互联网安全新媒体,4hou.com" type="rss" 
             xmlUrl="http://www.4hou.com/feed/" htmlUrl="https://www.4hou.com"/>
-      <outline text="绿盟科技技术博客" title="绿盟科技技术博客" type="rss" 
-            xmlUrl="http://blog.nsfocus.net/feed/" htmlUrl="http://blog.nsfocus.net"/>
       <outline text="阿里云帮助中心-阿里云，领先的云计算服务提供商" title="阿里云帮助中心-阿里云，领先的云计算服务提供商" type="rss" 
             xmlUrl="https://rsshub.app/aliyun/notice/2" htmlUrl="https://help.aliyun.com/noticelist/9213612.html"/>
       <outline text="先知安全技术社区" title="先知安全技术社区" type="rss" 
@@ -197,8 +163,6 @@
             xmlUrl="https://w2solo.com/topics/feed" htmlUrl="https://w2solo.com/"/>
   </outline>
   <outline title="新闻" text="新闻">
-      <outline text="喷嚏网----阅读、发现和分享：8小时外的健康生活！" title="喷嚏网----阅读、发现和分享：8小时外的健康生活！" type="rss" 
-            xmlUrl="http://www.dapenti.com/blog/rss2.asp" htmlUrl="http://www.dapenti.com"/>
       <outline text="白板报" title="白板报" type="rss" 
             xmlUrl="http://www.baibanbao.net/feed/" htmlUrl="http://wangpei.net"/>
       <outline text="网易新闻 - 全站24小时榜" title="网易新闻 - 全站24小时榜" type="rss" 
@@ -267,8 +231,6 @@
             xmlUrl="https://blog.t9t.io/atom.xml"/>
       <outline text="wenzi" title="wenzi" type="rss" 
             xmlUrl="https://www.xiabingbao.com/atom.xml" htmlUrl="https://www.xiabingbao.com/"/>
-      <outline text="小明明s à domicile" title="小明明s à domicile" type="rss" 
-            xmlUrl="https://www.dongwm.com/atom.xml"/>
       <outline text="但行好事，莫问前程" title="但行好事，莫问前程" type="rss" 
             xmlUrl="https://windard.com/feed.xml" htmlUrl="https://windard.com/"/>
       <outline text="开源实验室" title="开源实验室" type="rss" 
@@ -279,8 +241,6 @@
             xmlUrl="https://dumplingbao.github.io/atom.xml"/>
       <outline text="笨方法学写作" title="笨方法学写作" type="rss" 
             xmlUrl="https://www.cnfeat.com/feed.xml" htmlUrl="http://www.cnfeat.com/"/>
-      <outline text="风雪之隅" title="风雪之隅" type="rss" 
-            xmlUrl="https://www.laruence.com/feed" htmlUrl="https://www.laruence.com"/>
       <outline text="海交史" title="海交史" type="rss" 
             xmlUrl="https://www.haijiaoshi.com/feed" htmlUrl="https://www.haijiaoshi.com"/>
       <outline text="我的小角落" title="我的小角落" type="rss" 

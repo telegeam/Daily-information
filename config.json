@@ -16,7 +16,7 @@
         },
         "InoreaderFeeds": {
             "enabled": true,
-            "filename": "InoreaderFeeds.xml"
+            "filename": "InoreaderFeeds.opml"
         }
     },
 
