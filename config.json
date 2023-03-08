@@ -6,6 +6,10 @@
     },
     "filterWords": ["降价", "特价", "美元", "美金", "直聘", "招募", "罚款"],
     "rss": {
+        "ForTest": {
+            "enabled": false,
+            "filename": "ForTest.opml"
+        },
         "CustomRSS": {
             "enabled": true,
             "filename": "CustomRSS.opml"

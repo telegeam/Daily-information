@@ -261,7 +261,7 @@ class telegramBot:
 
     def test_connect(self):
         try:
-            self.bot.get_me()
+            asyncio.run(self.bot.get_me())
             return True
         except Exception as e:
             Color.print_failed('[-] telegramBot 连接失败')
@@ -285,8 +285,7 @@ class telegramBot:
         limiter = Limiter(RequestRate(20, Duration.MINUTE))     # 频率限制，20条/分钟
         for text in text_list:
             with limiter.ratelimit('identity', delay=True):
-                print(f'{len(text)} {text[:50]}...{text[-50:]}')
-
+                # print(f'{len(text)} {text[:50]}...{text[-50:]}')
                 for id in self.chat_id:
                     try:
                         asyncio.run(self.sendMsg(id, text))

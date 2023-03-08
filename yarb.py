@@ -32,27 +32,15 @@ def update_today(data: list=[]):
         with open(data_path, 'r') as f1:
             data = json.load(f1)
 
-    print("过滤词:",filterWords)
-
-    unique = []
     archive_path.parent.mkdir(parents=True, exist_ok=True)
     with open(today_path, 'w+', encoding='utf-8-sig') as f1, open(archive_path, 'w+', encoding='utf-8-sig') as f2:
         content = f'# 每日资讯（{today}）\n\n'
         for (feed, link, value) in data:
-            # 根据link去重, 可能rss链接不同, 实际是同一个站点
-            if link in unique:
-                print(link, '已存在')
-                continue
-            unique.append(link)
             content += f'- [{feed}]({link})\n'
             for title, url in value.items():
-                if any(word in title for word in filterWords):
-                    print(title, '包含过滤词')
-                    continue
                 content += f'  - [{title}]({url})\n'
         f1.write(content)
         f2.write(content)
-
 
 def update_rss(rss: dict, proxy_url=''):
     """更新订阅源文件"""
@@ -101,14 +89,21 @@ def parseThread(url: str, proxy_url=''):
             d = entry.get('published_parsed')
             if not d:
                 d = entry.updated_parsed
-            today = datetime.date.today()
-            yesterday = datetime.date.today() + datetime.timedelta(-1)
-            pubday = datetime.date(d[0], d[1], d[2])
-            # 昨天或者今天发布的
-            if pubday == yesterday or pubday == today:
+            yesterday = datetime.datetime.today() + datetime.timedelta(-1)
+            # 发布时间为前一天下午6点之后到当前执行时间 
+            # 1. 避免早上执行时 没啥数据 2. 不用全天 避免每天重复数据太多
+            offWorkTime = datetime.datetime.strptime("6:00pm", "%I:%M%p")
+            beginTime = datetime.datetime.combine(yesterday.date(), offWorkTime.time())
+            # 转换日期格式
+            pubday = datetime.datetime(d[0], d[1], d[2], d[3], d[4], d[5])
+
+            if pubday > beginTime:
                 item = {entry.title: entry.link}
                 print(item)
                 result |= item
+                continue
+            # 因rss一般是按时间新->旧排序, 当遇到一条发布时间不满足的情况, 基本可以确定后续都不满足, 直接跳出循环
+            break
         Color.print_success(f'[+] {title}\t{url}\t{len(result.values())}/{len(r.entries)}')
     except Exception as e:
         Color.print_failed(f'[-] failed: {url}')
@@ -211,22 +206,38 @@ def job(args):
             for task in as_completed(tasks):
                 title, link, result = task.result()            
                 if result:
+                    numb += len(result.items())
                     results.append(task.result())
         Color.print_focus(f'[+] {len(results)} feeds, {numb} articles')
 
-        # temp_path = root_path.joinpath('temp_data.json')
-        # with open(temp_path, 'w+') as f:
-        #     f.write(json.dumps(results, indent=4, ensure_ascii=False))
-        #     Color.print_focus(f'[+] temp data: {temp_path}')
+    print("过滤词:",filterWords)
 
-        # 更新today
-        update_today(results)
+    newresults = []
+    uniqueRss = []
+    for (feed, link, value) in results:
+        if link in uniqueRss:
+            print(link, '已存在')
+            continue
+        uniqueRss.append(link)
+
+        newvalue = {}
+        for title, url in value.items():
+            if any(word in title for word in filterWords):
+                print(title, '包含过滤词')
+                continue
+            newvalue |= {title: url}
+
+        if len(newvalue) > 0:
+            newresults.append((feed, link, newvalue))
+
+    # 更新today
+    update_today(newresults)
 
     # 推送文章
     proxy_bot = conf['proxy']['url'] if conf['proxy']['bot'] else ''
     bots = init_bot(conf['bot'], proxy_bot)
     for bot in bots:
-        bot.send(bot.parse_results(results))
+        bot.send(bot.parse_results(newresults))
 
     cleanup()
 
