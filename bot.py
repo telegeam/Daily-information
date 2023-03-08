@@ -261,7 +261,7 @@ class telegramBot:
 
     def test_connect(self):
         try:
-            asyncio.run(self.bot.get_me())
+            self.bot.get_me()
             return True
         except Exception as e:
             Color.print_failed('[-] telegramBot 连接失败')
