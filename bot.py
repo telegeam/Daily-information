@@ -13,6 +13,7 @@ from datetime import datetime
 from pyrate_limiter import Duration, Limiter, RequestRate
 
 from utils import Color
+from utils import Cache
 
 __all__ = ["feishuBot", "wecomBot", "dingtalkBot", "qqBot", "telegramBot", "mailBot"]
 today = datetime.now().strftime("%Y-%m-%d")
@@ -276,9 +277,17 @@ class telegramBot:
         text_list = []
         for (feed, url, value) in results:
             text = f'<a href="{url}">{feed}</a>\n'
+            hasUpdate = False
             for idx, (title, link) in enumerate(value.items()):
-                text += f'{idx+1}. <a href="{link}">{title}</a>\n'
-            text_list.append(text.strip())
+                if (Cache.check_first(link)):
+                    hasUpdate = True
+                    text += f'{idx+1}. <a href="{link}">{title}</a>\n'
+                else:
+                    Color.print_failed(f'[-] tg已发送, 过滤:{title} {link}')
+            text += '\n\n\n'
+            if(hasUpdate):
+                text_list.append(text.strip())
+        Cache.close()
         return text_list
 
     def send(self, text_list: list):

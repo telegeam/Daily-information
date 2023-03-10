@@ -7,5 +7,7 @@ pyyaml
 python-telegram-bot
 PySocks
 pyrate-limiter
+cachetools
 poetry
+shelved_cache
 git+https://github.com/kurtmckee/listparser
