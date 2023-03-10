@@ -284,7 +284,7 @@ class telegramBot:
                     text += f'{idx+1}. <a href="{link}">{title}</a>\n'
                 else:
                     Color.print_failed(f'[-] tg已发送, 过滤:{title} {link}')
-            text += '\n\n\n'
+            text += '\n\n\n 频道:<a href="https://t.me/ya4rb">@ya4rb</a>'
             if(hasUpdate):
                 text_list.append(text.strip())
         Cache.close()
