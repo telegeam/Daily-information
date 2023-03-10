@@ -4,6 +4,8 @@ name: Update dailyNews
 
 # 国际标准时间0:30/10:30（北京时间8:30/18:30）
 on:
+  watch:
+    types: [started]
   schedule:
     - cron: '30 0/8 * * *'
   workflow_dispatch:
