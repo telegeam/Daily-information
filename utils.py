@@ -8,7 +8,7 @@ from cachetools import LRUCache
 # 指定缓存路径为脚本所在目录
 basePath = os.path.dirname(os.path.abspath(__file__))
 filename = basePath + os.sep + "mycache.pc"
-pc = PersistentCache(LRUCache, filename, maxsize=10)
+pc = PersistentCache(LRUCache, filename, maxsize=10000)
 
 class Cache:
     @staticmethod
