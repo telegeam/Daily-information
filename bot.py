@@ -276,7 +276,7 @@ class telegramBot:
     def parse_results(results: list):
         text_list = []
         for (feed, url, value) in results:
-            text = f'<a href="{url}">{feed}</a>\n'
+            text = ''
             hasUpdate = False
             for idx, (title, link) in enumerate(value.items()):
                 if (Cache.check_first(link)):
@@ -284,7 +284,8 @@ class telegramBot:
                     text += f'{idx+1}. <a href="{link}">{title}</a>\n'
                 else:
                     Color.print_failed(f'[-] tg已发送, 过滤:{title} {link}')
-            text += '\n\n\n 频道:<a href="https://t.me/ya4rb">@ya4rb</a>'
+            text += f'\n\n来自: <a href="{url}">{feed}</a>\n'
+            text += '频道: <a href="https://t.me/ya4rb">@ya4rb</a>'
             if(hasUpdate):
                 text_list.append(text.strip())
         Cache.close()
