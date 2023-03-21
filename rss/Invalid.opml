@@ -4,6 +4,10 @@
     <title>无效源</title>
   </head>
   <body>
+      <outline text="黑洞资源笔记" title="黑洞资源笔记" type="rss" 
+            xmlUrl="https://rsshub.app/wechat/tgchannel/tieliu" htmlUrl="https://t.me/s/tieliu"/>
+      <outline text="Bing Images" title="Bing Images" type="rss" 
+            xmlUrl="http://www.bing.com/HPImageArchive.aspx?format=rss&amp;idx=0&amp;n=1&amp;mkt=en-US" htmlUrl="http://bing.com/HPImageArchive.aspx?format=rss"/>
     <outline text="花花世界" title="花花世界" type="rss"
       xmlUrl="https://sodue.com/feed" />
 
