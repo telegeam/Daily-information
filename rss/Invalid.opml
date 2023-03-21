@@ -4,6 +4,28 @@
     <title>无效源</title>
   </head>
   <body>
+    <outline text="FLiNG Trainer" title="FLiNG Trainer" type="rss"
+      xmlUrl="https://flingtrainer.com/feed/" htmlUrl="https://flingtrainer.com/" />
+    <outline text="最好金龟换酒" title="最好金龟换酒" type="rss" xmlUrl="http://fz0512.com/feed"
+      htmlUrl="http://fz0512.com/" />
+    <outline text="思圆笔记 – 促成良性循环" title="思圆笔记 – 促成良性循环" type="rss"
+      xmlUrl="https://hintsnet.com/pimgeek/feed/"
+      htmlUrl="https://hintsnet.com/pimgeek/" />
+    <outline text="Kevin Blog" title="Kevin Blog" type="rss"
+      xmlUrl="http://zhowkev.in/rss" htmlUrl="http://zhowkev.in" />
+    <outline text="icebreaker" title="icebreaker" type="rss"
+      xmlUrl="https://www.icebreaker.top/rss.xml" htmlUrl="https://www.icebreaker.top"
+    />
+    <outline text="Kevin Blog" title="Kevin Blog" type="rss"
+      xmlUrl="https://blog.kevinzhow.com/rss/" htmlUrl="https://blog.kevinzhow.com/"
+    />
+    <outline text="LoRexxar's Blog" title="LoRexxar's Blog" type="rss"
+      xmlUrl="https://lorexxar.cn/atom.xml" htmlUrl="https://lorexxar.cn/"
+    />
+    <outline text="政子的博客" title="政子的博客" type="rss" xmlUrl="https://blog.zhengzi.me/atom.xml"
+      htmlUrl="https://blog.zhengzi.me" />
+    <outline text="思有云" title="思有云" type="rss" xmlUrl="https://www.ioiox.com/feed"
+      htmlUrl="https://www.ioiox.com" />
     <outline text="软矿" title="软矿" type="rss"
       xmlUrl="https://www.rkdot.com/feed/" />
     <outline type="rss" text="Go语言爱好者周刊" title="Go语言爱好者周刊"
