@@ -4,6 +4,8 @@
             <title>Feed Subscriptions</title>
       </head>
       <body>
+            <outline text="省流" title="省流" type="rss" xmlUrl="https://shengliu.substack.com/feed"
+                  htmlUrl="https://shengliu.substack.com" />
             <outline text="透明创业实验" title="透明创业实验" type="rss" xmlUrl="https://blog.t9t.io/atom.xml"
                   htmlUrl="https://blog.t9t.io" />
             <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss"
