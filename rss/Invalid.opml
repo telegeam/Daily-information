@@ -4,6 +4,32 @@
     <title>无效源</title>
   </head>
   <body>
+                  <outline text="TechNews 科技新報" title="TechNews 科技新報" type="rss"
+                        xmlUrl="http://technews.tw/feed/" htmlUrl="https://technews.tw" />
+                  <outline text="APPLEFANS 蘋果迷" title="APPLEFANS 蘋果迷" type="rss"
+                        xmlUrl="https://applefans.today/feed/" htmlUrl="https://applefans.today/" />
+                  <outline text="Apple新闻" title="Apple新闻" type="rss"
+                        xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" />
+      <outline text="开源中国-资讯" title="开源中国-资讯" type="rss" xmlUrl="https://rsshub.app/oschina/news" htmlUrl="https://www.oschina.net/news/"/>
+                  <outline text="机核网" title="机核网" type="rss"
+                        xmlUrl="https://www.gcores.com/rss" htmlUrl="https://www.gcores.com" />
+                  <outline text="游研社" title="游研社" type="rss"
+                        xmlUrl="https://www.yystv.cn/rss/feed" htmlUrl="https://www.yystv.cn" />
+      <outline text="iDaily 每日环球视野" title="iDaily 每日环球视野" type="rss" xmlUrl="https://plink.anyfeeder.com/idaily/today" htmlUrl="https://docs.rsshub.app/"/>
+<outline text="反斗限免 » iOS" title="反斗限免 » iOS" type="rss" xmlUrl="http://free.apprcn.com/category/ios/feed/" htmlUrl="http://free.apprcn.com/"/>
+                  <outline text="cnBeta全文版" title="cnBeta全文版" type="rss"
+                        xmlUrl="http://feeds2.feedburner.com/cnbeta-full"
+                        htmlUrl="https://m.cnbeta.com/" />
+                  <outline text="精品MAC应用分享" title="精品MAC应用分享" type="rss"
+                        xmlUrl="https://xclient.info/feed" htmlUrl="https://xclient.info/" />
+            <outline text="informal" title="informal" type="rss"
+                  xmlUrl="http://informal.top/feed.xml" htmlUrl="http://www.informal.top/"
+            />
+            <outline text="懒得勤快的博客" title="懒得勤快的博客" type="rss" xmlUrl="https://masuit.com/rss"
+                  htmlUrl="https://masuit.com" />
+            <outline text="卢昌海的个人主页" title="卢昌海的个人主页" type="rss"
+                  xmlUrl="https://www.changhai.org/feed.xml" htmlUrl="https://www.changhai.org/"
+            />
     <outline text="FLiNG Trainer" title="FLiNG Trainer" type="rss"
       xmlUrl="https://flingtrainer.com/feed/" htmlUrl="https://flingtrainer.com/" />
     <outline text="最好金龟换酒" title="最好金龟换酒" type="rss" xmlUrl="http://fz0512.com/feed"
