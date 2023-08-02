@@ -16,11 +16,11 @@
       <outline text="辟谣爱好者频道 - Telegram 频道" title="辟谣爱好者频道 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/fightdisinformation" htmlUrl="https://t.me/s/fightdisinformation"/>
       <outline text="知乎日报" title="知乎日报" type="rss" xmlUrl="http://feeds.feedburner.com/zhihu-daily" htmlUrl="http://daily.zhihu.com/"/>
       <outline text="博海拾贝 – 博海拾贝" title="博海拾贝 – 博海拾贝" type="rss" xmlUrl="https://bohaishibei.com/post/category/main/feed/" htmlUrl="https://www.bohaishibei.com/"/>
-      <outline text="开源中国-资讯" title="开源中国-资讯" type="rss" xmlUrl="https://rsshub.app/oschina/news" htmlUrl="https://www.oschina.net/news/"/>
+
     </outline>
     <outline text=" 软件" title=" 软件">
       <outline text="最新限免 / 促销应用" title="最新限免 / 促销应用" type="rss" xmlUrl="https://rsshub.app/appstore/gofans" htmlUrl="https://gofans.cn/"/>
-      <outline text="反斗限免 » iOS" title="反斗限免 » iOS" type="rss" xmlUrl="http://free.apprcn.com/category/ios/feed/" htmlUrl="http://free.apprcn.com/"/>
+      
       <outline text="异次元软件世界" title="异次元软件世界" type="rss" xmlUrl="http://feed.iplaysoft.com/" htmlUrl="http://www.iplaysoft.com/"/>
       <outline text="每日精品限免 / 促销应用" title="每日精品限免 / 促销应用" type="rss" xmlUrl="https://rsshub.app/appstore/xianmian" htmlUrl="http://app.so/xianmian/"/>
       <outline text="AppSo : 让手机更好用的数字生活媒体" title="AppSo : 让手机更好用的数字生活媒体" type="rss" xmlUrl="https://rsshub.app/ifanr/appso" htmlUrl="http://www.ifanr.com/app"/>
@@ -44,7 +44,7 @@
     </outline>
     <outline text="新闻" title="新闻">
       <outline text="喷嚏图卦" title="喷嚏图卦" type="rss" xmlUrl="https://plink.anyfeeder.com/pentitugua" htmlUrl="http://dapenti.com/"/>
-      <outline text="iDaily 每日环球视野" title="iDaily 每日环球视野" type="rss" xmlUrl="https://plink.anyfeeder.com/idaily/today" htmlUrl="https://docs.rsshub.app/"/>
+
     </outline>
     <outline text="生活" title="生活">
       <outline text="理想生活实验室" title="理想生活实验室" type="rss" xmlUrl="https://plink.anyfeeder.com/toodaylab" htmlUrl="http://www.toodaylab.com/"/>
