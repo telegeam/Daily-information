@@ -4,6 +4,8 @@
     <title>无效源</title>
   </head>
   <body>
+            <outline text="蓝卡" title="蓝卡" type="rss" xmlUrl="https://www.lanka.cn/feed/"
+                  htmlUrl="https://www.lanka.cn/" />
                   <outline text="TechNews 科技新報" title="TechNews 科技新報" type="rss"
                         xmlUrl="http://technews.tw/feed/" htmlUrl="https://technews.tw" />
                   <outline text="APPLEFANS 蘋果迷" title="APPLEFANS 蘋果迷" type="rss"
