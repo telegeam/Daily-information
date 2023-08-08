@@ -414,8 +414,7 @@
             />
             <outline text="游魂博客" title="游魂博客" type="rss" xmlUrl="https://www.iyouhun.com/rss.php"
                   htmlUrl="https://www.iyouhun.com/" />
-            <outline text="蓝卡" title="蓝卡" type="rss" xmlUrl="https://www.lanka.cn/feed/"
-                  htmlUrl="https://www.lanka.cn/" />
+
             <outline text="自学路漫漫" title="自学路漫漫" type="rss" xmlUrl="https://blog.fxcdev.com/atom.xml"
                   htmlUrl="https://blog.fxcdev.com" />
             <outline text="空之领域" title="空之领域" type="rss" xmlUrl="https://xsky.me/atom.xml"
