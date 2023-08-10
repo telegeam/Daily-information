@@ -4,6 +4,15 @@
     <title>无效源</title>
   </head>
   <body>
+            <outline text="Debug客栈" title="Debug客栈" type="rss" xmlUrl="https://www.debuginn.cn/feed"
+                  htmlUrl="https://www.debuginn.cn" />
+                          <outline text="透明思考" title="透明思考" type="rss"
+                        xmlUrl="http://gigix.thoughtworkers.org/atom.xml"
+                        htmlUrl="http://gigix.thoughtworkers.org/" />
+                                    <outline text="老周快救我" title="老周快救我" type="rss" xmlUrl="https://zxx.im/feed"
+                  htmlUrl="https://zxx.im" />
+            <outline text="忘归" title="忘归" type="rss" xmlUrl="http://jalan.space/atom.xml"
+                  htmlUrl="http://jalan.space/" />
             <outline text="蓝卡" title="蓝卡" type="rss" xmlUrl="https://www.lanka.cn/feed/"
                   htmlUrl="https://www.lanka.cn/" />
                   <outline text="TechNews 科技新報" title="TechNews 科技新報" type="rss"
