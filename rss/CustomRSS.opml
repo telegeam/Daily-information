@@ -78,8 +78,7 @@
             <outline text="前端工程师 Toweave" title="前端工程师 Toweave" type="rss"
                   xmlUrl="https://toweave.github.io/rss.xml" htmlUrl="https://toweave.github.io"
             />
-            <outline text="老周快救我" title="老周快救我" type="rss" xmlUrl="https://zxx.im/feed"
-                  htmlUrl="https://zxx.im" />
+
             <outline text="MouT.me" title="MouT.me" type="rss" xmlUrl="https://ghost.mout.me/rss/"
                   htmlUrl="https://mout.me" />
             <outline text="diss带码" title="diss带码" type="rss"
@@ -158,8 +157,7 @@
             <outline text="Vivaxy's blog" title="Vivaxy's blog" type="rss"
                   xmlUrl="https://vivaxyblog.github.io/atom.xml"
                   htmlUrl="https://vivaxyblog.github.io" />
-            <outline text="Debug客栈" title="Debug客栈" type="rss" xmlUrl="https://www.debuginn.cn/feed"
-                  htmlUrl="https://www.debuginn.cn" />
+
             <outline text="isaced" title="isaced" type="rss"
                   xmlUrl="http://www.isaced.com/index.xml" htmlUrl="https://www.isaced.com/"
             />
@@ -273,8 +271,7 @@
             <outline text="Jiajun的编程随想" title="Jiajun的编程随想" type="rss"
                   xmlUrl="https://jiajunhuang.com/rss" htmlUrl="https://jiajunhuang.com/"
             />
-            <outline text="忘归" title="忘归" type="rss" xmlUrl="http://jalan.space/atom.xml"
-                  htmlUrl="http://jalan.space/" />
+
             <outline text="贼拉正经的技术博客" title="贼拉正经的技术博客" type="rss"
                   xmlUrl="https://stackoverflow.wiki/blog/rss.xml"
                   htmlUrl="https://www.stackoverflow.wiki/blog/" />
@@ -2244,9 +2241,7 @@
                         htmlUrl="https://blog.lilydjwg.me/" />
                   <outline text="XiaoHui.com" title="XiaoHui.com" type="rss"
                         xmlUrl="https://www.xiaohui.com/rss/" htmlUrl="https://www.xiaohui.com/" />
-                  <outline text="透明思考" title="透明思考" type="rss"
-                        xmlUrl="http://gigix.thoughtworkers.org/atom.xml"
-                        htmlUrl="http://gigix.thoughtworkers.org/" />
+
                   <outline text="DebugUself with DAMA ;-)" title="DebugUself with DAMA ;-)"
                         type="rss" xmlUrl="https://du.101.camp/atom.xml"
                         htmlUrl="https://du.101.camp/" />
