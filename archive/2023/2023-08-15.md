@@ -261,6 +261,7 @@
   - [不敢相信！我没学过繁体字诶，爲什麽能無障礙閱讀?](http://www.guokr.com/article/464372/)
   - [大熊猫安安生日上演萌动吃播，恒安竹π借势呼吁环保与健康](http://www.guokr.com/article/464371/)
   - [外观硬派，实测哈弗猛龙出击](http://www.guokr.com/article/464370/)
+  - [从单品迭代到多价格段布局，云鲸正式发布扫拖机器人J4、J4 Lite](http://www.guokr.com/article/464376/)
 - [沙雕普拉斯 | 沙雕新闻](https://shadiao.plus/feed)
   - [500人微信群499个骗子](https://shadiao.plus/archives/7917)
   - [3人偷渡到缅甸搞诈骗却因文化低被拒收](https://shadiao.plus/archives/7914)
