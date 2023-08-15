@@ -24,7 +24,7 @@ jobs:
           python-version: '3.x'
           cache: "pip"
           cache-dependency-path: "**/requirements.txt"
-          
+
       - name: Install dependencies
         run: pip install -r requirements.txt
 
@@ -33,7 +33,6 @@ jobs:
           FEISHU_KEY: ${{ secrets.FEISHU_KEY }}
           WECOM_KEY: ${{ secrets.WECOM_KEY }}
           DINGTALK_KEY: ${{ secrets.DINGTALK_KEY }}
-          QQ_KEY: ${{ secrets.QQ_KEY }}
           TELEGRAM_KEY: ${{ secrets.TELEGRAM_KEY }}
           MAIL_KEY: ${{ secrets.MAIL_KEY }}
           MAIL_RECEIVER: ${{ secrets.MAIL_RECEIVER }}
@@ -45,7 +44,7 @@ jobs:
           git config --global user.name "$GITHUB_ACTOR"
           git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git add archive README.md
-          git add mycache.*
+          git add rss/rss.db3
           git commit -m "每日资讯（`date +'%Y-%m-%d'`）"
 
       - name: Push changes
@@ -58,4 +57,4 @@ jobs:
         uses: anaer/delete-workflow-runs@main
         with:
           retain_days: 3
-          keep_minimum_runs: 5          
+          keep_minimum_runs: 5

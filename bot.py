@@ -1,6 +1,5 @@
 import time
 import json
-import yaml
 import telegram
 import asyncio
 import requests
@@ -13,9 +12,9 @@ from datetime import datetime
 from pyrate_limiter import Duration, Limiter, RequestRate
 
 from utils import Color
-from utils import Cache
+from db import getArticlesForBot, updateArticlesStatus
 
-__all__ = ["feishuBot", "wecomBot", "dingtalkBot", "qqBot", "telegramBot", "mailBot"]
+__all__ = ["feishuBot", "wecomBot", "dingtalkBot", "telegramBot", "mailBot"]
 today = datetime.now().strftime("%Y-%m-%d")
 
 
@@ -130,76 +129,6 @@ class dingtalkBot:
                     Color.print_failed('[-] dingtalkBot 发送失败')
                     print(r.text)
 
-
-class qqBot:
-    """QQ群机器人
-    https://github.com/Mrs4s/go-cqhttp
-    """
-    cqhttp_path = Path(__file__).absolute().parent.joinpath('cqhttp')
-
-    def __init__(self, group_id: list) -> None:
-        self.server = 'http://127.0.0.1:5700'
-        self.group_id = group_id
-
-    @staticmethod
-    def parse_results(results: list):
-        text_list = []
-        for result in results:
-            (feed, value), = result.items()
-            text = f'[ {feed} ]\n\n'
-            for title, link in value.items():
-                text += f'{title}\n{link}\n\n'
-            text_list.append(text.strip())
-        return text_list
-
-    def send(self, text_list: list):
-        limiter = Limiter(RequestRate(20, Duration.MINUTE))     # 频率限制，20条/分钟
-        for text in text_list:
-            with limiter.ratelimit('identity', delay=True):
-                print(f'{len(text)} {text[:50]}...{text[-50:]}')
-
-                for id in self.group_id:
-                    try:
-                        r = requests.post(f'{self.server}/send_group_msg?group_id={id}&&message={text}')
-                        if r.status_code == 200:
-                            Color.print_success(f'[+] qqBot 发送成功 {id}')
-                        else:
-                            Color.print_failed(f'[-] qqBot 发送失败 {id}')
-                    except Exception as e:
-                        Color.print_failed(f'[-] qqBot 发送失败 {id}')
-                        print(e)
-
-    def start_server(self, qq_id, qq_passwd, timeout=60):
-        config_path = self.cqhttp_path.joinpath('config.yml')
-        with open(config_path, 'r') as f:
-            data = yaml.load(f, Loader=yaml.FullLoader)
-            data['account']['uin'] = int(qq_id)
-            data['account']['password'] = qq_passwd
-        with open(config_path, 'w+') as f:
-            yaml.dump(data, f)
-
-        subprocess.run('cd cqhttp && ./go-cqhttp -d', shell=True)
-
-        timeout = time.time() + timeout
-        while True:
-            try:
-                requests.get(self.server)
-                Color.print_success('[+] qqBot 启动成功')
-                return True
-            except Exception as e:
-                time.sleep(1)
-
-            if time.time() > timeout:
-                qqBot.kill_server()
-                Color.print_failed('[-] qqBot 启动失败')
-                return False
-
-    @classmethod
-    def kill_server(cls):
-        pid_path = cls.cqhttp_path.joinpath('go-cqhttp.pid')
-        subprocess.run(f'cat {pid_path} | xargs kill', stderr=subprocess.DEVNULL, shell=True)
-
-
 class mailBot:
     """邮件机器人
     """
@@ -267,39 +196,31 @@ class telegramBot:
         except Exception as e:
             Color.print_failed('[-] telegramBot 连接失败')
             return False
-        
+
     async def sendMsg(self, chat_id, text):
         async with self.bot:
             print(await self.bot.send_message(chat_id=chat_id, text = text, parse_mode='HTML'))
 
     @staticmethod
     def parse_results(results: list):
-        text_list = []
-        for (feed, url, value) in results:
-            text = ''
-            hasUpdate = False
-            for idx, (title, link) in enumerate(value.items()):
-                if (Cache.check_first(link)):
-                    hasUpdate = True
-                    text += f'{idx+1}. <a href="{link}">{title}</a>\n'
-                else:
-                    Color.print_failed(f'[-] tg已发送, 过滤:{title} {link}')
-            text += f'\n\n来自: <a href="{url}">{feed}</a>\n'
-            text += '频道: <a href="https://t.me/ya4rb">@ya4rb</a>'
-            if(hasUpdate):
-                text_list.append(text.strip())
-        Cache.close()
-        return text_list
+        results = getArticlesForBot()
+        ids = []
+        text = ''
+        for (id, feed_name, feed_url, title, url) in results:
+            ids.append(id)
+            text += f'<a href="{url}">{title}</a>\n'
+        text += '频道: <a href="https://t.me/ya4rb">@ya4rb</a>'
 
-    def send(self, text_list: list):
-        limiter = Limiter(RequestRate(20, Duration.MINUTE))     # 频率限制，20条/分钟
-        for text in text_list:
-            with limiter.ratelimit('identity', delay=True):
-                # print(f'{len(text)} {text[:50]}...{text[-50:]}')
-                for id in self.chat_id:
-                    try:
-                        asyncio.run(self.sendMsg(id, text))
-                        Color.print_success(f'[+] telegramBot 发送成功 {id}')
-                    except Exception as e:
-                        Color.print_failed(f'[-] telegramBot 发送失败 {id}')
-                        print(e)
+        return ids, text
+
+    def send(self, text: str):
+        for id in self.chat_id:
+            try:
+                ids, text = self.parse_results([])
+
+                updateArticlesStatus(ids)
+                asyncio.run(self.sendMsg(id, text))
+                Color.print_success(f'[+] telegramBot 发送成功 {id}')
+            except Exception as e:
+                Color.print_failed(f'[-] telegramBot 发送失败 {id}')
+                print(e)

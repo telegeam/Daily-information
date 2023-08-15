@@ -4,7 +4,7 @@
         "rss": false,
         "bot": false
     },
-    "filterWords": ["降价", "特价", "美元", "美金", "直聘", "招募", "罚款"],
+    "filterWords": ["降价", "特价", "美元", "美金", "直聘", "招募", "罚款", "广告"],
     "rss": {
         "ForTest": {
             "enabled": false,
