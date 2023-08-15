@@ -10,7 +10,7 @@ def getRss():
     cur = conn.cursor()
 
     query_sql = '''
-    SELECT title, xml_url FROM t_rss WHERE status = 1 limit 10
+    SELECT title, xml_url FROM t_rss WHERE status = 1 order by updated_at asc limit 50
     '''
 
     cur.execute(query_sql)
@@ -65,7 +65,10 @@ def addArticles(list):
                     datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
                     toDate(item.published_parsed)
                     ])
-                print("A", title, url)
+
+            cur.execute('''
+            update t_rss set article_num = (select count(*) from t_article b where b.feed_url = ?)
+            ''', [link])
         except Exception as e:
             print(str(e))
 
