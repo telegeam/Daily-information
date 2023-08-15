@@ -269,6 +269,7 @@
   - [今日消费资讯：% ARABICA 深圳和睦家医院店开业、Canada Goose 杭州万象城精品店开业](http://www.toodaylab.com/82136)
   - [MUJI 把一座 111 年历史的日本民居改造成了民宿，你会想去住住看吗？](http://www.toodaylab.com/82137)
   - [今日消费资讯：Stuart Weitzman 发布七夕视觉大片、成都高新极星中心正式开业](http://www.toodaylab.com/82135)
+  - [雷军带来第 4 次年度演讲，还有小米 MIX Fold 3 等新品发布](http://www.toodaylab.com/82140)
 - [知乎每日精选](https://www.zhihu.com/rss)
   - [厨房如何装修才能尽可能地做到「去家务化」？](http://www.zhihu.com/question/613685076/answer/3139928869?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
   - [为什么说有些年轻人做饭是「差生文具多」？](http://www.zhihu.com/question/613685051/answer/3145598134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
