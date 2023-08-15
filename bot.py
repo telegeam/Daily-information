@@ -208,7 +208,7 @@ class telegramBot:
         text = ''
         for (id, feed_name, feed_url, title, url) in results:
             ids.append(id)
-            text += f'<a href="{url}">{title}</a>\n'
+            text += f'<a href="{url}">{id}.{title}</a><br/>\n'
         text += '频道: <a href="https://t.me/ya4rb">@ya4rb</a>'
 
         return ids, text
