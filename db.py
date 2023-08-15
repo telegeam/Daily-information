@@ -104,7 +104,7 @@ def getArticlesForBot():
     cur = conn.cursor()
 
     cur.execute('''
-    select id, feed_name, feed_url, title, url from t_article where status = 0 order by updated_at desc limit 100
+    select id, feed_name, feed_url, title, url from t_article where status = 0 order by updated_at desc limit 20
     ''')
 
     result = cur.fetchall()
