@@ -98,10 +98,7 @@ def parseThread(url: str, proxy_url=''):
             # 转换日期格式
             pubday = datetime.datetime(d[0], d[1], d[2], d[3], d[4], d[5])
 
-            if True:
-            # if pubday > beginTime and pubday < tomorrow:
-                # item = {"title": entry.title, "url":entry.link, "published_at":pubday}
-                # print(item)
+            if pubday > beginTime and pubday < tomorrow:
                 result.append(entry)
                 continue
             # 因rss一般是按时间新->旧排序, 当遇到一条发布时间不满足的情况, 基本可以确定后续都不满足, 直接跳出循环
