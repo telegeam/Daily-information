@@ -75,6 +75,7 @@
   - [如何使用javascript获取淘宝页面的sku价格？](https://segmentfault.com/q/1010000044116557)
   - [git 如何查询出分支2 比 分支1 多出多少个文件？](https://segmentfault.com/q/1010000044116541)
   - [使用vite构建的react项目加载pmx模型异常？](https://segmentfault.com/q/1010000044116589)
+  - [ts提示 找不到名称“localStorage”。ts(2304) ？](https://segmentfault.com/q/1010000044116608)
 - [TechWeb 每日热点推荐 RSS阅读](http://www.techweb.com.cn/rss/hotnews.xml)
   - [百度吉利合作造车“集度”之后添“极越” 二者有何不同？](http://www.techweb.com.cn/viewpoint/2023-08-15/2932033.shtml)
   - [恒大汽车获中东资本5亿美元战投 加速恒驰5量产及新车型研发](http://www.techweb.com.cn/finance/2023-08-15/2932006.shtml)
