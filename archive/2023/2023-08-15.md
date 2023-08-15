@@ -9,6 +9,7 @@
 - [少数派](https://sspai.com)
   - [播客 | 对话笪屹超人：如何成为不一样的科技博主](https://sspai.com/post/82018)
   - [遇见「iPad 笔记课代表」：2023 iPad 电子笔记大赛回顾](https://sspai.com/post/82017)
+  - [社区速递 008 | 夏日好物、基于 Obisidian 的生活记录以及新玩意](https://sspai.com/post/82042)
 - [差评资讯 - 全部](https://chaping.cn/news?cate=)
   - [PICO升级企业应用套件，推出大空间多人互动解决方案](https://chaping.cn/news/139374)
 - [极客公园](http://mainssl.geekpark.net/rss.rss)
