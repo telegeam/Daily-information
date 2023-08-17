@@ -156,6 +156,7 @@
   - [iOS 版 Opera 瀏覽器：引進頂尖 Aria 人工智慧夥伴](https://www.iphonetaiwan.org/2023/08/opera-ios-aria-ai-integration.html)
   - [iPhone 15 大規模生產計畫揭曉，Pro 陣容達 65%](https://www.iphonetaiwan.org/2023/08/iphone-15-series-production-plan.html)
   - [iPhone 15 首次在印度生產，富士康工廠鏖戰印度市場](https://www.iphonetaiwan.org/2023/08/iphone-15-india-manufacturing.html)
+  - [未來蘋果 Vision Pro：用液體鏡片重新定義虛擬現實體驗](https://www.iphonetaiwan.org/2023/08/apple-vision-pro-liquid-lens-vr-innovation.html)
 - [数字尾巴](https://www.dgtle.com/rss/dgtle.xml)
   - [有奖活动丨2023 晒车大汇](http://www.dgtle.com/article-1690233-1.html)
 - [晚点LatePost](https://feedpress.me/wx-postlate)
