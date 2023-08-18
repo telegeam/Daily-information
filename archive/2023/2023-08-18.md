@@ -143,6 +143,7 @@
   - [戴森科技献礼七夕，为TA打造专属纯净领域，呼吸之间感受同频心意](http://www.guokr.com/article/464383/)
   - [“打飞的”不是梦，首架国产载人电动垂直起降飞行器即将首飞](http://www.guokr.com/article/464386/)
   - [“LION AI”大模型平台首发落地，星途星纪元ES首搭强势入局](http://www.guokr.com/article/464390/)
+  - [想当姬发，先得有发](http://www.guokr.com/article/464391/)
 - [煎蛋](http://jandan.net/feed)
   - [Nature：LK-99不是超导体](http://jandan.net/p/113839)
   - [酷研究：计算任意一位π的公式](http://jandan.net/p/113836)
