@@ -146,6 +146,7 @@
   - [实验室带你过周末：2023.8.19 - 8.20 北京篇](http://www.toodaylab.com/82148)
   - [今日消费资讯：“兰蔻沙滩持妆局”在成都太古里亮相、ASICS 推出全新 NAGINO 秋冬系列产品](http://www.toodaylab.com/82145)
   - [Supreme 发布 2023 秋冬系列，同时还在首尔开出了一家新店](http://www.toodaylab.com/82149)
+  - [时隔仅 1 年 MC HotDog 热狗又将带来新专辑，《脏艺术家》即将发行](http://www.toodaylab.com/82150)
 - [知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)
   - [如何评价《崩坏：星穹铁道》新角色桂乃芬？](https://www.zhihu.com/question/617810992)
   - [人类是否无法想象出没见过的东西？](https://www.zhihu.com/question/316680205)
