@@ -68,7 +68,8 @@ def addArticles(list):
 
             cur.execute('''
             update t_rss set article_num = (select count(*) from t_article b where b.feed_url = ?)
-            ''', [link])
+            where xml_url = ?
+            ''', [link, link])
         except Exception as e:
             print(str(e))
 
