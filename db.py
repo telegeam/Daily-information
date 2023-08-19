@@ -10,7 +10,7 @@ def getRss():
     cur = conn.cursor()
 
     query_sql = '''
-    SELECT title, xml_url FROM t_rss WHERE status = 1 order by updated_at asc limit 50
+    SELECT title, xml_url FROM t_rss WHERE status = 1 order by updated_at asc limit 100
     '''
 
     cur.execute(query_sql)
