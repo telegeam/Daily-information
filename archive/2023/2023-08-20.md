@@ -390,6 +390,7 @@
   - [浙江广电：就《中国好声音》引发的争议，将调查核实](https://dig.chouti.com/link/39699583)
   - [常州乳腺专家被查事件：其夫称调查源于检举，住所工作人员称未见“抄家”](https://dig.chouti.com/link/39700088)
   - [《纽约时报》禁止其新闻报道用于人工智能模型训练，考虑起诉 OpenAI](https://dig.chouti.com/link/39693255)
+  - [“马扎大战”出现“光说不练”的故事走向，并不算多么意外，因为这场对决从一开始，就存在一个难以克服的巨大障碍，那就是马斯克的竞技水平。](https://dig.chouti.com/link/39698963)
 - [晚点LatePost](https://feedpress.me/wx-postlate)
   - [小鹏连续负毛利，预计四季度转正；减肥药发力，诺和诺德市值追上 LVMH](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247506615&idx=2&sn=dccc7be8f96a42d238a881561e197c44)
   - [晚点视频丨深入宁德时代，拆解万亿巨头的制造秘密](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247506615&idx=1&sn=769034b7cdb94834f88eb5292841edbe)
