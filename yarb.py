@@ -89,14 +89,11 @@ def parseThread(url: str, proxy_url=''):
             d = entry.get('published_parsed')
             if not d:
                 d = entry.updated_parsed
-            yesterday = datetime.datetime.today() + datetime.timedelta(-1)
-            tomorrow = datetime.datetime.today() + datetime.timedelta(1)
-            # 发布时间为前一天下午6点之后到当前执行时间
-            # 1. 避免早上执行时 没啥数据 2. 不用全天 避免每天重复数据太多
-            offWorkTime = datetime.datetime.strptime("6:00pm", "%I:%M%p")
-            beginTime = datetime.datetime.combine(yesterday.date(), offWorkTime.time())
             # 转换日期格式
             pubday = datetime.datetime(d[0], d[1], d[2], d[3], d[4], d[5])
+
+            beginTime = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+            tomorrow = datetime.datetime.today() + datetime.timedelta(1)
 
             if pubday > beginTime and pubday < tomorrow:
                 result.append(entry)
