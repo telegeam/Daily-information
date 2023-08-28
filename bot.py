@@ -9,8 +9,6 @@ from email.header import Header
 from email.mime.text import MIMEText
 from pathlib import Path
 from datetime import datetime
-from pyrate_limiter import Duration, Limiter, RequestRate
-
 from utils import Color
 from db import getArticlesForBot, updateArticlesStatus
 
@@ -78,21 +76,19 @@ class wecomBot:
         return text_list
 
     def send(self, text_list: list):
-        limiter = Limiter(RequestRate(20, Duration.MINUTE))     # 频率限制，20条/分钟
         for text in text_list:
-            with limiter.ratelimit('identity', delay=True):
-                print(f'{len(text)} {text[:50]}...{text[-50:]}')
+            print(f'{len(text)} {text[:50]}...{text[-50:]}')
 
-                data = {"msgtype": "markdown", "markdown": {"content": text}}
-                headers = {'Content-Type': 'application/json'}
-                url = f'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key={self.key}'
-                r = requests.post(url=url, headers=headers, data=json.dumps(data), proxies=self.proxy)
+            data = {"msgtype": "markdown", "markdown": {"content": text}}
+            headers = {'Content-Type': 'application/json'}
+            url = f'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key={self.key}'
+            r = requests.post(url=url, headers=headers, data=json.dumps(data), proxies=self.proxy)
 
-                if r.status_code == 200:
-                    Color.print_success('[+] wecomBot 发送成功')
-                else:
-                    Color.print_failed('[-] wecomBot 发送失败')
-                    print(r.text)
+            if r.status_code == 200:
+                Color.print_success('[+] wecomBot 发送成功')
+            else:
+                Color.print_failed('[-] wecomBot 发送失败')
+                print(r.text)
 
 
 class dingtalkBot:
@@ -113,21 +109,19 @@ class dingtalkBot:
         return text_list
 
     def send(self, text_list: list):
-        limiter = Limiter(RequestRate(20, Duration.MINUTE))     # 频率限制，20条/分钟
         for (feed, text) in text_list:
-            with limiter.ratelimit('identity', delay=True):
-                print(f'{len(text)} {text[:50]}...{text[-50:]}')
+            print(f'{len(text)} {text[:50]}...{text[-50:]}')
 
-                data = {"msgtype": "markdown", "markdown": {"title": feed, "text": text}}
-                headers = {'Content-Type': 'application/json'}
-                url = f'https://oapi.dingtalk.com/robot/send?access_token={self.key}'
-                r = requests.post(url=url, headers=headers, data=json.dumps(data), proxies=self.proxy)
+            data = {"msgtype": "markdown", "markdown": {"title": feed, "text": text}}
+            headers = {'Content-Type': 'application/json'}
+            url = f'https://oapi.dingtalk.com/robot/send?access_token={self.key}'
+            r = requests.post(url=url, headers=headers, data=json.dumps(data), proxies=self.proxy)
 
-                if r.status_code == 200:
-                    Color.print_success('[+] dingtalkBot 发送成功')
-                else:
-                    Color.print_failed('[-] dingtalkBot 发送失败')
-                    print(r.text)
+            if r.status_code == 200:
+                Color.print_success('[+] dingtalkBot 发送成功')
+            else:
+                Color.print_failed('[-] dingtalkBot 发送失败')
+                print(r.text)
 
 class mailBot:
     """邮件机器人
