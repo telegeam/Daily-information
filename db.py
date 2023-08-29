@@ -88,7 +88,7 @@ def getArticles():
     cur = conn.cursor()
 
 
-    fromDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(days=-1), datetime.time.min)
+    fromDate = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
     toDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(days=1), datetime.time.min)
 
     cur.execute('''
