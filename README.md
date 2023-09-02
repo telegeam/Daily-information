@@ -1,5 +1,7 @@
 ﻿# 每日资讯（2023-09-02）
 
+- [BBC](https://plink.anyfeeder.com/bbc/cn)
+  - [中国抗议福岛核处理水排放、郭台铭参选、中国救市和本周更多重要故事](https://www.bbc.com/zhongwen/simp/press-review-66690367)
 - [IT之家](https://www.ithome.com/rss/)
   - [IBM 获 5470 万英镑订单重返人脸识别市场，2020 年曾宣布关闭该业务](https://www.ithome.com/0/716/430.htm)
   - [高德世界地图上线：基于北斗定位全球，可点亮世界各地足迹](https://www.ithome.com/0/716/429.htm)
@@ -85,3 +87,14 @@
   - [人类仍在演化吗？](https://www.huxiu.com/article/2002571.html?f=rss)
   - [道德消亡与心理健危机：美国人为何变得悲伤而刻薄？](https://www.huxiu.com/article/1990675.html?f=rss)
   - [“让人失去沟通欲望的头像”，何以流行？](https://www.huxiu.com/article/2002052.html?f=rss)
+  - [中国车崛起，特斯拉靠啥反击？](https://www.huxiu.com/article/2001419.html?f=rss)
+  - [SpaceX系列：太空旅行成本革命Part 3](https://www.huxiu.com/article/2004134.html?f=rss)
+  - [早F晚E：成年人的情绪何处安放？](https://www.huxiu.com/article/2002047.html?f=rss)
+  - [“雪王驾到”，通通闪开？](https://www.huxiu.com/article/2001945.html?f=rss)
+  - [边境线上的网红小城，闪的我们睁不开眼](https://www.huxiu.com/article/1998623.html?f=rss)
+  - [是“便宜没好货”？还是花小钱办大事？](https://www.huxiu.com/article/2001486.html?f=rss)
+  - [马斯克传记：人生之巅弄媒体](https://www.huxiu.com/article/2004147.html?f=rss)
+  - [录取率仅为0.5%的高端日企？](https://www.huxiu.com/article/2003712.html?f=rss)
+  - [低碳之下，“液冷时代”要来了？](https://www.huxiu.com/article/2000880.html?f=rss)
+  - [谁在抢GPU？](https://www.huxiu.com/article/2004198.html?f=rss)
+  - [直面争议：深度分析麒麟9000s](https://www.huxiu.com/article/2003368.html?f=rss)
