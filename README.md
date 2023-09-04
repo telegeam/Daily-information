@@ -139,6 +139,10 @@
   - [雨夜行军、打靶训练、发射“迫击炮”……今年的军训有多硬核？](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E9%9B%A8%E5%A4%9C%E8%A1%8C%E5%86%9B%E3%80%81%E6%89%93%E9%9D%B6%E8%AE%AD%E7%BB%83%E3%80%81%E5%8F%91%E5%B0%84%E2%80%9C%E8%BF%AB%E5%87%BB%E7%82%AE%E2%80%9D%E2%80%A6%E2%80%A6%E4%BB%8A%E5%B9%B4%E7%9A%84%E5%86%9B%E8%AE%AD%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%EF%BC%9F)
   - [老张，让人心疼！](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E8%80%81%E5%BC%A0%EF%BC%8C%E8%AE%A9%E4%BA%BA%E5%BF%83%E7%96%BC%EF%BC%81)
   - [最快4天盖好一层楼！这个盖楼神器有多牛？](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%9C%80%E5%BF%AB4%E5%A4%A9%E7%9B%96%E5%A5%BD%E4%B8%80%E5%B1%82%E6%A5%BC%EF%BC%81%E8%BF%99%E4%B8%AA%E7%9B%96%E6%A5%BC%E7%A5%9E%E5%99%A8%E6%9C%89%E5%A4%9A%E7%89%9B%EF%BC%9F)
+- [小道消息](https://plink.anyfeeder.com/weixin/WebNotes)
+  - [差点被裁了](http://weixin.sogou.com/weixin?type=2&query=%E5%B0%8F%E9%81%93%E6%B6%88%E6%81%AF+%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%A3%81%E4%BA%86)
+- [懒得勤快的博客_互联网分享精神](https://masuit.com/rss)
+  - [Windows_右键菜单增强工具_FileMenu_Tools_8.2多语言学习版](https://masuit.com/138)
 - [抽屉新热榜](http://dig.chouti.com/feed.xml)
   - [【95后被推向工厂，陷入打工循环存不下钱】骑行回家后，唐勇受够了无聊，存款的流失也令人恐慌。他决定回深圳继续打工，还在犹豫要不要重回富士康。
 打工是生存的希望，但这群年轻人像进入死循环：赚钱，躺平，钱花完继续打工。而打工本身令人绝望。](https://dig.chouti.com/link/39862312)
