@@ -18,6 +18,8 @@
   - [从充电器发展，看硬件产品经理的能力与机会（上篇）](https://www.woshipm.com/share/5898652.html)
   - [刚入门的产品经理，如何进行需求的收集和整理？](https://www.woshipm.com/share/5898198.html)
   - [中介类行业用户运营指南：定位你的客户，客户全部都跟你的竞品有关](https://www.woshipm.com/share/5898152.html)
+- [央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)
+  - [爆火后，“天津大爷”宣布不跳了！多协会发出倡议](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E7%88%86%E7%81%AB%E5%90%8E%EF%BC%8C%E2%80%9C%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E2%80%9D%E5%AE%A3%E5%B8%83%E4%B8%8D%E8%B7%B3%E4%BA%86%EF%BC%81%E5%A4%9A%E5%8D%8F%E4%BC%9A%E5%8F%91%E5%87%BA%E5%80%A1%E8%AE%AE)
 - [法广](https://plink.anyfeeder.com/rfi/cn)
   - [摩洛哥国王和加蓬总统以前称兄道弟，加蓬政变后摩洛哥重现实保中立](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20230907-%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9B%BD%E7%8E%8B%E5%92%8C%E5%8A%A0%E8%93%AC%E6%80%BB%E7%BB%9F%E4%BB%A5%E5%89%8D%E7%A7%B0%E5%85%84%E9%81%93%E5%BC%9F%EF%BC%8C%E5%8A%A0%E8%93%AC%E6%94%BF%E5%8F%98%E5%90%8E%E6%91%A9%E6%B4%9B%E5%93%A5%E9%87%8D%E7%8E%B0%E5%AE%9E%E4%BF%9D%E4%B8%AD%E7%AB%8B)
   - [欧盟：2023年恐怕将是人类历史上最热的一年](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20230907-%E6%AC%A7%E7%9B%9F-2023%E5%B9%B4%E6%81%90%E6%80%95%E5%B0%86%E6%98%AF%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%83%AD%E7%9A%84%E4%B8%80%E5%B9%B4)
