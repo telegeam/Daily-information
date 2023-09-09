@@ -1,6 +1,16 @@
 ﻿# 每日资讯（2023-09-09）
 
+- [Lei Mao's Log Book](https://leimao.github.io/atom.xml)
+  - [华为芯片 Kirin 9000S](https://leimao.github.io/essay/%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87-Kirin-9000S/)
 - [抽屉新热榜](http://dig.chouti.com/feed.xml)
   - [魔都网红“纸片楼”要拆了？网友：有特色的老房子可否保留？](https://dig.chouti.com/link/39920794)
 - [理想生活实验室](https://www.toodaylab.com/feed)
   - [今日消费资讯：积家发布易烊千玺出镜的全新大片、人头马 X.O 优质香槟区干邑 500ml 装全球首发](http://www.toodaylab.com/82204)
+- [钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)
+  - [Xiaomi Auto Unit Said to Ramp Up Hiring in Pilot Production](https://www.tmtpost.com/6698285.html)
+  - [China Says US Probe into Huawei Chip Will Only Strengthen Chinese Tech Innovation](https://www.tmtpost.com/6699449.html)
+  - [小米汽车，能否在新能源汽车江湖站稳脚跟？](https://www.tmtpost.com/6699130.html)
+  - [Foxconn Said to Deliver India-Made iPhone 15 Days after Global Launch](https://www.tmtpost.com/6697827.html)
+  - [“沉浮”兰世立：湖北首富不值得骄傲，想做纯粹的商人](https://www.tmtpost.com/6699199.html)
+  - [Kweichow Moutai Said to Sell Chili Sauce and Chocolate after Successful Coffee Launch](https://www.tmtpost.com/6697868.html)
+  - [13家银行系基金上半年净利润分化为三大阵营，首尾相差12.31亿](https://www.tmtpost.com/6699098.html)
