@@ -32,6 +32,7 @@
   - [威马汽车借壳上市折戟；华为 Mate X5 和 Mate 60 Pro+ 开启预售；比亚迪调整部分出口车宣传标语](http://www.geekpark.net/news/324454)
 - [理想生活实验室](https://www.toodaylab.com/feed)
   - [今日消费资讯：积家发布易烊千玺出镜的全新大片、人头马 X.O 优质香槟区干邑 500ml 装全球首发](http://www.toodaylab.com/82204)
+  - [实验室带你过周末：2023.9.9 - 9.10 上海篇](http://www.toodaylab.com/82208)
 - [钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)
   - [Xiaomi Auto Unit Said to Ramp Up Hiring in Pilot Production](https://www.tmtpost.com/6698285.html)
   - [China Says US Probe into Huawei Chip Will Only Strengthen Chinese Tech Innovation](https://www.tmtpost.com/6699449.html)
