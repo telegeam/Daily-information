@@ -2,8 +2,12 @@
 
 - [Lei Mao's Log Book](https://leimao.github.io/atom.xml)
   - [华为芯片 Kirin 9000S](https://leimao.github.io/essay/%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87-Kirin-9000S/)
+- [Linux 中国◆开源社区](https://linux.cn/rss.xml)
+  - [新闻 | Linux Lite 6.6 发布：更新了欢迎应用和图标主题](https://linux.cn/article-16173-1.html?utm_source=rss&utm_medium=rss)
 - [抽屉新热榜](http://dig.chouti.com/feed.xml)
   - [魔都网红“纸片楼”要拆了？网友：有特色的老房子可否保留？](https://dig.chouti.com/link/39920794)
+- [极客公园](http://www.geekpark.net/rss)
+  - [威马汽车借壳上市折戟；华为 Mate X5 和 Mate 60 Pro+ 开启预售；比亚迪调整部分出口车宣传标语](http://www.geekpark.net/news/324454)
 - [理想生活实验室](https://www.toodaylab.com/feed)
   - [今日消费资讯：积家发布易烊千玺出镜的全新大片、人头马 X.O 优质香槟区干邑 500ml 装全球首发](http://www.toodaylab.com/82204)
 - [钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)
