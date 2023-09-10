@@ -13,3 +13,6 @@
   - [卢拉对习近平缺席印度G20峰会表示“遗憾”](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20230910-%E5%8D%A2%E6%8B%89%E5%AF%B9%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BC%BA%E5%B8%AD%E5%8D%B0%E5%BA%A6g20%E5%B3%B0%E4%BC%9A%E8%A1%A8%E7%A4%BA-%E9%81%97%E6%86%BE)
 - [理想生活实验室](https://plink.anyfeeder.com/toodaylab)
   - [今日消费资讯：亨利慕时长沙 IFS 店焕新亮相、CASETiFY 推出适配华为 Mate60 系列手机壳](http://www.toodaylab.com/82210)
+- [钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)
+  - [从满心期待到受到群嘲，AI还能改变新闻业吗？](https://www.tmtpost.com/6699982.html)
+  - [儿子超岛掺假，爸爸巴奴买单，但能了事吗？](https://www.tmtpost.com/6699945.html)
