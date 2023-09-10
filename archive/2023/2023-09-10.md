@@ -8,5 +8,8 @@
   - [茅台的定位、奢侈品投资、延迟满足](http://xueqiu.com/3491303582/260708502)
   - [碧桂园服务投资逻辑：商业模式成长性预期收益率](http://xueqiu.com/4583484512/260733329)
   - [【文字回顾】胡崇海：量化投资的归去来](http://xueqiu.com/9243245648/260407639)
+- [法广](https://plink.anyfeeder.com/rfi/cn)
+  - [冯德莱恩：望中方为乌克兰实现公正持久和平发挥积极作用](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20230910-%E5%86%AF%E5%BE%B7%E8%8E%B1%E6%81%A9-%E6%9C%9B%E4%B8%AD%E6%96%B9%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%9E%E7%8E%B0%E5%85%AC%E6%AD%A3%E6%8C%81%E4%B9%85%E5%92%8C%E5%B9%B3%E5%8F%91%E6%8C%A5%E7%A7%AF%E6%9E%81%E4%BD%9C%E7%94%A8)
+  - [卢拉对习近平缺席印度G20峰会表示“遗憾”](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20230910-%E5%8D%A2%E6%8B%89%E5%AF%B9%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BC%BA%E5%B8%AD%E5%8D%B0%E5%BA%A6g20%E5%B3%B0%E4%BC%9A%E8%A1%A8%E7%A4%BA-%E9%81%97%E6%86%BE)
 - [理想生活实验室](https://plink.anyfeeder.com/toodaylab)
   - [今日消费资讯：亨利慕时长沙 IFS 店焕新亮相、CASETiFY 推出适配华为 Mate60 系列手机壳](http://www.toodaylab.com/82210)
