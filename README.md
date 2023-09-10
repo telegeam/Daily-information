@@ -1,9 +1,15 @@
 ﻿# 每日资讯（2023-09-10）
 
+- [36氪](https://plink.anyfeeder.com/36kr)
+  - [在河南农村，和小学生们大声谈论彩礼、月经和性](https://36kr.com/p/2422959831131139?f=rss)
 - [unSafe.sh - 不安全](https://buaq.net/rss.xml)
   - [罗技MX Master2S鼠标无法移动！光标不动失灵解决方法-系统迷](https://buaq.net/go-176637.html)
   - [解决罗技Master 2S鼠标无法移动/光标消失但按键正常问题实录 - 哔哩哔哩](https://buaq.net/go-176636.html)
   - [上月发现的彗星西村本周末肉眼可见](https://buaq.net/go-176638.html)
+- [人民日报](https://plink.anyfeeder.com/weixin/rmrbwx)
+  - [牺牲2天后，他的孩子出生了……](http://weixin.sogou.com/weixin?type=2&query=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5+%E7%89%BA%E7%89%B22%E5%A4%A9%E5%90%8E%EF%BC%8C%E4%BB%96%E7%9A%84%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E4%BA%86%E2%80%A6%E2%80%A6)
+  - [世界首次！祝贺中国科学家](http://weixin.sogou.com/weixin?type=2&query=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5+%E4%B8%96%E7%95%8C%E9%A6%96%E6%AC%A1%EF%BC%81%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6)
+  - [习语 | “人民教师无上光荣”](http://weixin.sogou.com/weixin?type=2&query=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5+%E4%B9%A0%E8%AF%AD%20%7C%20%E2%80%9C%E4%BA%BA%E6%B0%91%E6%95%99%E5%B8%88%E6%97%A0%E4%B8%8A%E5%85%89%E8%8D%A3%E2%80%9D)
 - [今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)
   - [茅台的定位、奢侈品投资、延迟满足](http://xueqiu.com/3491303582/260708502)
   - [碧桂园服务投资逻辑：商业模式成长性预期收益率](http://xueqiu.com/4583484512/260733329)
