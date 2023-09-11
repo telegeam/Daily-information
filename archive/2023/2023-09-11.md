@@ -2,6 +2,10 @@
 
 - [Lei Mao's Log Book](https://leimao.github.io/atom.xml)
   - [Real-Time React Analog Clock](https://leimao.github.io/blog/Real-Time-React-Analog-Clock/)
+- [azhuge233's](https://azhuge233.com/feed)
+  - [Dependabot 的使用](https://azhuge233.com/dependabot-%e7%9a%84%e4%bd%bf%e7%94%a8/)
+- [嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com](https://www.4hou.com/feed)
+  - [SOAR＋沙箱，提高威胁分析和响应处置能力](https://www.4hou.com/posts/QK2L)
 - [潮流周刊](https://weekly.tw93.fun/rss.xml)
   - [第145期 - 小橡皮树](https://weekly.tw93.fun/posts/145-%E5%B0%8F%E6%A9%A1%E7%9A%AE%E6%A0%91/)
 - [虎嗅](https://rss.huxiu.com/)
