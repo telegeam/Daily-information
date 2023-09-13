@@ -47,7 +47,7 @@ jobs:
           git add rss/rss.db3
           git commit -m "每日资讯（`date +'%Y-%m-%d'`）"
           git push origin main
-          cp archive archive1
+          cp -r archive archive1
           
           git checkout archive
           mv -f archive1/* archive/
