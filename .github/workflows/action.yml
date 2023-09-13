@@ -50,7 +50,7 @@ jobs:
           cp -r archive archive1
           
           git checkout archive
-          mv -f archive1/* archive/
+          mv -r -f archive1/* archive/
           git add archive
           git commit -m "每日存档（`date +'%Y-%m-%d'`）"
           git push origin archive
