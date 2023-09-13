@@ -38,7 +38,7 @@ jobs:
           MAIL_RECEIVER: ${{ secrets.MAIL_RECEIVER }}
         run: python3 yarb.py
 
-      - name: Commit
+      - name: Commit & Push
         run: |
           git status
           git config --global user.name "$GITHUB_ACTOR"
@@ -46,16 +46,18 @@ jobs:
           git add README.md
           git add rss/rss.db3
           git commit -m "每日资讯（`date +'%Y-%m-%d'`）"
+          git push origin main
 
           git checkout archive
           git add archive
           git commit -m "每日存档（`date +'%Y-%m-%d'`）"
+          git push origin archive
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          # github_token: ${{ secrets.MY_GITHUB_TOKEN }}
-          branch: main
+      # - name: Push changes
+      #   uses: ad-m/github-push-action@master
+      #   with:
+      #     # github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+      #     branch: main
 
       - name: Delete Workflow Runs
         uses: anaer/delete-workflow-runs@main
