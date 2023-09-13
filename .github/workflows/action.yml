@@ -49,7 +49,7 @@ jobs:
           git push origin main
           cp -r archive archive1
           
-          git checkout archive
+          git checkout -b archive origin/archive
           cp -r -f archive1/* archive/
           git add archive
           git commit -m "每日存档（`date +'%Y-%m-%d'`）"
