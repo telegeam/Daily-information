@@ -365,6 +365,8 @@
 - [游研社](https://www.yystv.cn/rss/feed)
   - [开着机翻看网文的老外已经快被逼疯了](https://www.yystv.cn/p/11145)
   - [游研早报：游戏越火，破产越快，开发者请求玩家不要再安装游戏；《生化危机》《死亡搁浅》《刺客信条》将登陆 iPhone 15](https://www.yystv.cn/p/11144)
+  - [国内画师二创的《装甲核心6》AI娘，正成为海外玩家们的新waifu](https://www.yystv.cn/p/11146)
+  - [逼疯法务的美国忍者，怎么就成了世嘉经典？【社长聊MD】](https://player.bilibili.com/player.html?bvid=1Yh4y1Y7cS&page=1)
 - [理想生活实验室](https://plink.anyfeeder.com/toodaylab)
   - [今日消费资讯：吉卜力高管否认宫崎骏将退休、乐高乐园度假区和腾讯达成战略合作](http://www.toodaylab.com/82216)
 - [白宦成](https://www.ixiqin.com/feed/)
