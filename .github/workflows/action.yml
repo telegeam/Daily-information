@@ -48,8 +48,9 @@ jobs:
           git commit -m "每日资讯（`date +'%Y-%m-%d'`）"
           git push origin main
           cp archive archive1
+          
           git checkout archive
-          cp -rf archive1/* archive/
+          cp -f archive1/* archive/
           git add archive
           git commit -m "每日存档（`date +'%Y-%m-%d'`）"
           git push origin archive
