@@ -388,6 +388,8 @@
   - [中国利用AI散播夏威夷山火阴谋论，对美虚假信息战升温](https://cn.nytimes.com/world/20230913/china-disinformation-ai/?utm_source=RSS)
 - [纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)
   - [中国利用AI散播夏威夷山火阴谋论，对美虚假信息战升温](https://cn.nytimes.com/world/20230913/china-disinformation-ai/dual)
+  - [苹果发布iPhone 15系列，转用USB-C接口](https://cn.nytimes.com/technology/20230913/apple-iphone-15-usb-c/dual)
+  - [“全球南方”领头羊之争，印度向中国发起挑战](https://cn.nytimes.com/world/20230913/india-china-global-south/dual)
 - [虎嗅](https://plink.anyfeeder.com/huxiu)
   - [陨石猎人会梦见消失的彗星吗](https://www.huxiu.com/article/2050035.html?f=rss)
   - [公司用教练取代管理者，能行得通吗？](https://www.huxiu.com/article/2050316.html?f=rss)
