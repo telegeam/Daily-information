@@ -22,7 +22,7 @@ filterWords = []
 
 # 替换圆括号和中括号为空格
 def replace_brackets_with_space(string):
-    replaced_string = string.replace('(', ' ').replace(')', ' ').replace('[', ' ').replace(']', ' ')
+    replaced_string = string.replace('(', ' ').replace(')', ' ').replace('[', ' ').replace(']', ' ').replace('|', ' ')
     return replaced_string
 
 # 处理长字符串
