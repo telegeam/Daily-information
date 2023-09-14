@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-14 03:36:09|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Python中的天文计算开源库](https://xugaoxiang.com/2023/09/14/python-ephem/)|
+|2023-09-14 09:00:00|[机核](https://www.gcores.com/rss)|[你想成为谁的狗？录音笔 Vol. 34](https://www.gcores.com/radios/170874)|
+|2023-09-14 06:04:02|[机核](https://www.gcores.com/rss)|[Unity新收费政策引发强烈反对，多家工作室考虑更换引擎甚至下架游戏](https://www.gcores.com/articles/170870)|
+|2023-09-14 05:38:10|[机核](https://www.gcores.com/rss)|[展示操作方式，《生化危机 4重制版》、《生化危机：村庄》IOS版截图公布](https://www.gcores.com/articles/170866)|
+|2023-09-14 05:24:56|[机核](https://www.gcores.com/rss)|[痊愈之书丨差异与重复中的孩子：痊愈者和朋友的第三次闲谈](https://www.gcores.com/articles/170856)|
+|2023-09-14 04:32:37|[机核](https://www.gcores.com/rss)|[G4G亮相核聚变游戏节，首次独立携扶持作品参展](https://www.gcores.com/articles/170864)|
+|2023-09-14 04:22:52|[机核](https://www.gcores.com/rss)|[《拔天海拓史1&2高清复刻版》现已在NS发售](https://www.gcores.com/articles/170863)|
+|2023-09-14 04:22:25|[机核](https://www.gcores.com/rss)|[《雪人兄弟》新作，《雪人兄弟 WONDERLAND》将于2024年推出](https://www.gcores.com/articles/170858)|
+|2023-09-14 04:01:10|[机核](https://www.gcores.com/rss)|[《枪伞游侠》今日正式登陆PC及NS平台，国区售价58元](https://www.gcores.com/articles/170860)|
+|2023-09-14 02:56:00|[机核](https://www.gcores.com/rss)|[采用BTF 2.0解决方案，华硕B760天选背置主板9月15日推出](https://www.gcores.com/articles/170823)|
+|2023-09-14 02:27:42|[机核](https://www.gcores.com/rss)|[Mojang将于10月16日举行《我的世界》直播活动](https://www.gcores.com/articles/170854)|
+|2023-09-14 02:23:30|[机核](https://www.gcores.com/rss)|[华为秋季全场景新品发布会宣布将于9月25日14:30举行](https://www.gcores.com/articles/170853)|
+|2023-09-14 01:57:40|[机核](https://www.gcores.com/rss)|[欢庆《博德之门3》脱离抢先体验，拉瑞安工作室公布最新动画短片](https://www.gcores.com/articles/170852)|
+|2023-09-14 06:50:17|[少数派](https://plink.anyfeeder.com/sspai)|[下单新 iPhone 前，先来看看外媒真机上手体验](https://sspai.com/post/82939)|
+|2023-09-14 05:11:00|[看理想](https://plink.anyfeeder.com/weixin/ikanlixiang)|[我需要全新的朋友，他们会觉得我有趣｜看理想招人](http://weixin.sogou.com/weixin?type=2&query=%E7%9C%8B%E7%90%86%E6%83%B3+%E6%88%91%E9%9C%80%E8%A6%81%E5%85%A8%E6%96%B0%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8C%E4%BB%96%E4%BB%AC%E4%BC%9A%E8%A7%89%E5%BE%97%E6%88%91%E6%9C%89%E8%B6%A3%EF%BD%9C%E7%9C%8B%E7%90%86%E6%83%B3%E6%8B%9B%E4%BA%BA)|
+|2023-09-14 05:11:00|[看理想](https://plink.anyfeeder.com/weixin/ikanlixiang)|[这本书告诉我们，可以过不服从的生活](http://weixin.sogou.com/weixin?type=2&query=%E7%9C%8B%E7%90%86%E6%83%B3+%E8%BF%99%E6%9C%AC%E4%B9%A6%E5%91%8A%E8%AF%89%E6%88%91%E4%BB%AC%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%BF%87%E4%B8%8D%E6%9C%8D%E4%BB%8E%E7%9A%84%E7%94%9F%E6%B4%BB)|
+|2023-09-14 08:43:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[华为开启大反攻，Mate 60 Pro需求高于预期，下半年出货量提高20%至600万台](https://www.tmtpost.com/6707023.html)|
+|2023-09-14 08:42:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[是苹果“虚标5G”，还是专家业余？](https://www.tmtpost.com/6705931.html)|
+|2023-09-14 08:24:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[瑞幸茅台vs库迪大米，县城咖啡之战的最后赢家是谁？](https://www.tmtpost.com/6705667.html)|
+|2023-09-14 08:23:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[Unity回应：Runtime模式仅针对新安装游戏收取费用，90%以上客户不受影响](https://www.tmtpost.com/6707018.html)|
+|2023-09-14 07:49:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[「网红标签」下的usmile笑容加，要挑战现存供应链的「伪创新」](https://www.tmtpost.com/6703330.html)|
+|2023-09-14 07:48:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[大陆集团慕容特：汽车架构的转型升级不可避免，必须坚定走下去](https://www.tmtpost.com/6706875.html)|
+|2023-09-14 07:43:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[新款岚图FREE出补贴，黄牛趁火打劫](https://www.tmtpost.com/6706262.html)|
+|2023-09-14 07:22:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[【硬科技周报】第36周：钠电正极材料研发制造商“钠远新材”获数千万元融资，自动驾驶卡车公司Stack AV获10亿美元融资](https://www.tmtpost.com/6705598.html)|
+|2023-09-14 07:20:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[9月14日A股分析：沪指涨0.11%，报收3126.55点；沪深两市成交额6658.66亿元，两市超3700只个股下跌](https://www.tmtpost.com/6706895.html)|
+|2023-09-14 07:16:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[9月14日新股速递](https://www.tmtpost.com/6706882.html)|
+|2023-09-14 07:06:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[不止遥遥领先，问界新M7智能安全也是“天花板”？](https://www.tmtpost.com/6706684.html)|
+|2023-09-14 07:05:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[世纪难题——文艺片怎么卖座](https://www.tmtpost.com/6706464.html)|
+|2023-09-14 06:44:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[生鲜电商保卫战：盒马鲜生“进”，叮咚买菜“退”](https://www.tmtpost.com/6706347.html)|
+|2023-09-14 06:43:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[房地产行业如何与数字经济深度融合？  2023 ITValue Summit数字价值年会](https://www.tmtpost.com/6706702.html)|
+|2023-09-14 06:18:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[当顺丰甩掉“丰网”之后](https://www.tmtpost.com/6705839.html)|
+|2023-09-14 06:07:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[华润、中海、保利净利润破百亿，背靠大树真的好乘凉？｜寻找地产新动能](https://www.tmtpost.com/6706722.html)|
+|2023-09-14 06:00:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[综艺想出圈，必配“显眼包”](https://www.tmtpost.com/6706456.html)|
+|2023-09-14 05:45:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[两张图百万GMV，6800元收徒培训，图文带货是真风口还是割韭菜？](https://www.tmtpost.com/6706450.html)|
+|2023-09-14 05:35:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[银行财富管理，告别“躺赚时代”](https://www.tmtpost.com/6706668.html)|
 |2023-09-14 00:51:00|[新华网](https://plink.anyfeeder.com/weixin/newsxinhua)|[国务院国资委研究中心严正声明](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E5%8D%8E%E7%BD%91+%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%9B%BD%E8%B5%84%E5%A7%94%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E)|
 |2023-09-14 08:15:05|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  现在的环境下，程序员们现在以及未来的痛点是什么？](https://www.v2ex.com/t/973793#reply0)|
 |2023-09-14 08:14:59|[V2EX](http://www.v2ex.com/index.xml)|[ 公司运营  精打细算：出海企业如何选择低成本高效率的产品推广渠道](https://www.v2ex.com/t/973792#reply0)|
