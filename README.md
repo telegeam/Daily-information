@@ -2,6 +2,63 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-14 06:05:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大佬们，总感觉 Windows 的字体发虚，有锯齿，怎么解决](https://www.v2ex.com/t/973728#reply5)|
+|2023-09-14 06:13:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[AI 支持的云端开发环境 Google Project IDX 有体验过的吗](https://www.v2ex.com/t/973739#reply0)|
+|2023-09-14 02:37:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[10 年 iPhone 用户换了安卓后一点感想~~~~](https://www.v2ex.com/t/973658#reply101)|
+|2023-09-14 06:10:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[寻找广州全栈开发的团队，基于地图资源的站址管理工具项目](https://www.v2ex.com/t/973734#reply1)|
+|2023-09-14 01:36:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Oracle 数据库最好的连接工具是什么](https://www.v2ex.com/t/973618#reply23)|
+|2023-09-14 13:50:35|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[微软发布Windows 11 Canary Build 25951版 对SMB进行了重大更新](https://buaq.net/go-176966.html)|
+|2023-09-14 13:35:43|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[微软发布Windows 11 Dev Build 23545版 继续修复资源管理器问题](https://buaq.net/go-176967.html)|
+|2023-09-14 12:57:10|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[索尼发布PS5版本更新带来杜比全景声支持及支持高达8TB的固态硬盘](https://buaq.net/go-176968.html)|
+|2023-09-14 12:11:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[PentestGPT：A GPT-empowered penetration testing tool - 郑瀚Andrew](https://buaq.net/go-176965.html)|
+|2023-09-14 11:40:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[容易成为勒索软件攻击目标的13个行业](https://buaq.net/go-176953.html)|
+|2023-09-14 11:35:37|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[专注也需要一个空间：给自己布置一个简易书房角落](https://buaq.net/go-176963.html)|
+|2023-09-14 11:22:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[黑客碟中谍：LockBit 3.0 勒索软件构建器泄露导致出现数百个新变体](https://buaq.net/go-176954.html)|
+|2023-09-14 11:04:41|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[天翼云提供多种等保套餐，护航企业云上安全](https://buaq.net/go-176955.html)|
+|2023-09-14 11:01:42|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[划重点！CISA、FBI、NSA联合发布深度伪造威胁网络安全报告](https://buaq.net/go-176957.html)|
+|2023-09-14 10:52:08|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[腾讯QQ平台被罚100万](https://buaq.net/go-176958.html)|
+|2023-09-14 10:52:05|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[开学季大礼！实用正版软件 6 折起（Listary、MarginNote、Microsoft 365） ，好工具助「荔」学习！](https://buaq.net/go-176964.html)|
+|2023-09-14 10:51:32|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Intel芯片的Mac电脑需注意，新型恶意软件能窃取系统中的各类密码](https://buaq.net/go-176959.html)|
+|2023-09-14 10:46:44|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[警报：新的 Kubernetes 漏洞可对 Windows 端点实施远程攻击](https://buaq.net/go-176960.html)|
+|2023-09-14 10:43:41|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[国家标准《信息安全技术 网络安全保险应用指南》征求意见稿发布](https://buaq.net/go-176961.html)|
+|2023-09-14 10:27:59|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[电信安全正式发布云脉SASE，打造下一代“一体化办公安全平台”](https://buaq.net/go-176956.html)|
+|2023-09-14 09:59:55|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[电信安全正式发布云脉SASE，打造下一代“一体化办公安全平台”](https://buaq.net/go-176950.html)|
+|2023-09-14 09:27:54|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[保障SaaS应用安全的关键要求和检查清单](https://buaq.net/go-176947.html)|
+|2023-09-14 09:00:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[iPhone 15 launch: Wonderlust scammers rear their heads](https://buaq.net/go-176939.html)|
+|2023-09-14 08:52:57|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[派早报：Unity 引擎调整收费模式、华为和小米达成交叉专利许可等](https://buaq.net/go-176949.html)|
+|2023-09-14 08:48:22|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[sentrionic/Valkyrie: A Fullstack Discord Clone using React and Go.](https://buaq.net/go-176945.html)|
+|2023-09-14 06:15:00|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  问一下老司机，以往经验来看，国庆高速堵不堵，第一次开车回老家，麻烦给点经验](https://www.v2ex.com/t/973741#reply0)|
+|2023-09-14 06:14:03|[V2EX](http://www.v2ex.com/index.xml)|[ Apple  鉴于 iphone15 的不同容量的存储价格相差很大，各位会选择多大容量的](https://www.v2ex.com/t/973740#reply0)|
+|2023-09-14 02:37:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[欧盟宣布对中国电动车补贴展开调查](https://cn.nytimes.com/business/20230914/eu-china-electric-vehicles/)|
+|2023-09-14 02:07:03|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中国否认限制公务员使用iPhone，但提及对安全问题担忧](https://cn.nytimes.com/china/20230914/china-apple-iphone-ban/)|
+|2023-09-14 02:26:00|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[新证据！网攻西工大的黑客身份被锁定→](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%96%B0%E8%AF%81%E6%8D%AE%EF%BC%81%E7%BD%91%E6%94%BB%E8%A5%BF%E5%B7%A5%E5%A4%A7%E7%9A%84%E9%BB%91%E5%AE%A2%E8%BA%AB%E4%BB%BD%E8%A2%AB%E9%94%81%E5%AE%9A%E2%86%92)|
+|2023-09-14 03:35:29|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉Cybertruck将进行更多碰撞测试？已被目睹现身碰撞测试实验室附近](https://m.cnbeta.com.tw/view/1383847.htm)|
+|2023-09-14 03:35:15|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[巴菲特投资惠普失利 抛售约550万股股票](https://m.cnbeta.com.tw/view/1383845.htm)|
+|2023-09-14 03:06:54|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[运行Windows 11的下一代微软Surface设备现身FCC](https://m.cnbeta.com.tw/view/1383843.htm)|
+|2023-09-14 03:06:42|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[改版后的TikTok创作者基金从美国扩展到巴西、德国、韩国等地](https://m.cnbeta.com.tw/view/1383841.htm)|
+|2023-09-14 03:06:27|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[所有iPhone 15机型均支持DisplayPort 最高可实现4K HDR视频输出](https://m.cnbeta.com.tw/view/1383833.htm)|
+|2023-09-14 03:06:14|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[华为Mate X5全能折叠屏开售：16GB+1TB顶配16999元](https://m.cnbeta.com.tw/view/1383831.htm)|
+|2023-09-14 03:06:00|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[33寸大屏+超级巡航系统 凯迪拉克新款CT5发布](https://m.cnbeta.com.tw/view/1383829.htm)|
+|2023-09-14 03:05:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[电动汽车直流充电新国标发布 功率提升至800kW](https://m.cnbeta.com.tw/view/1383823.htm)|
+|2023-09-14 03:05:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[英国一双胞胎兄弟驾名爵Cyberster电动车环球冒险 目标中国上海](https://m.cnbeta.com.tw/view/1383821.htm)|
+|2023-09-14 03:05:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iPhone 15的最大卖点，要归功一家日本公司？](https://m.cnbeta.com.tw/view/1383817.htm)|
+|2023-09-14 02:36:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iPhone 15发布后 大容量iPhone 13/14华强北价格出现上涨](https://m.cnbeta.com.tw/view/1383815.htm)|
+|2023-09-14 02:36:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美媒：苹果iPhone 15未能在中国引发轰动](https://m.cnbeta.com.tw/view/1383807.htm)|
+|2023-09-14 02:36:23|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Google开始新一轮“瘦身”计划 招聘团队全球数百人被裁](https://m.cnbeta.com.tw/view/1383805.htm)|
+|2023-09-14 02:36:06|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[欧盟调查中国电动汽车旨在保护汽车产业 特斯拉可能遭殃](https://m.cnbeta.com.tw/view/1383803.htm)|
+|2023-09-14 02:35:55|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[华为秋季全场景新品发布会官宣 Mate60系列或将正式发布](https://m.cnbeta.com.tw/view/1383801.htm)|
+|2023-09-14 02:35:43|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[网易回应员工在出租屋轻生及“因BUG被HR威胁”传言](https://m.cnbeta.com.tw/view/1383799.htm)|
+|2023-09-14 02:35:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[深扒Arm招股书：移动时代的霸主，能否在AI时代延续神话？](https://m.cnbeta.com.tw/view/1383797.htm)|
+|2023-09-14 02:35:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[AI监管立法在望？美参院峰会召集大佬热议](https://m.cnbeta.com.tw/view/1383795.htm)|
+|2023-09-14 02:06:59|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[德国已经允许运营商使用华为和中兴5G技术](https://m.cnbeta.com.tw/view/1383793.htm)|
+|2023-09-14 02:06:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[软银旗下Arm将IPO定价为每股51美元](https://m.cnbeta.com.tw/view/1383791.htm)|
+|2023-09-14 02:06:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[新书曝马斯克早年谈生意被俄罗斯人灌趴下 买火箭讨价还价遭嘲笑](https://m.cnbeta.com.tw/view/1383789.htm)|
+|2023-09-14 02:06:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美参议院召开人工智能峰会 马斯克称可能载入史册](https://m.cnbeta.com.tw/view/1383787.htm)|
+|2023-09-14 02:06:04|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉成空头最爱？连续3个月蝉联美股做空榜“TOP 1”](https://m.cnbeta.com.tw/view/1383785.htm)|
+|2023-09-14 02:05:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克回忆人生至暗时刻：与德普前妻分手 父亲搞了继女 特斯拉被空头包围](https://m.cnbeta.com.tw/view/1383783.htm)|
+|2023-09-14 02:05:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[飘了的李佳琦们 在切片里寻找“最后的意义”](https://m.cnbeta.com.tw/view/1383781.htm)|
+|2023-09-14 03:35:37|[少数派](https://plink.anyfeeder.com/sspai)|[专注也需要一个空间：给自己布置一个简易书房角落](https://sspai.com/post/82326)|
+|2023-09-14 00:52:57|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：Unity 引擎调整收费模式、华为和小米达成交叉专利许可等](https://sspai.com/post/82930)|
 |2023-09-14 00:01:43|[Engadget is a web ma...](http://www.engadget.com/rss.xml)|[PlayStation is hosting a surprise State of Play on September 14](https://www.engadget.com/playstation-is-hosting-a-surprise-state-of-play-on-september-14-000143525.html?src=rss)|
 |2023-09-14 03:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[法国卢瓦尔河畔巴维磨坊 安茹大区标志性风光 - 文化遗产](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7/20230914-%E6%B3%95%E5%9B%BD%E5%8D%A2%E7%93%A6%E5%B0%94%E6%B2%B3%E7%95%94%E5%B7%B4%E7%BB%B4%E7%A3%A8%E5%9D%8A-%E5%AE%89%E8%8C%B9%E5%A4%A7%E5%8C%BA%E6%A0%87%E5%BF%97%E6%80%A7%E9%A3%8E%E5%85%89)|
 |2023-09-14 03:15:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[“忠于我的信念”，法国网球女将科内特拒绝赴华参赛](https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20230914-%E5%BF%A0%E4%BA%8E%E6%88%91%E7%9A%84%E4%BF%A1%E5%BF%B5-%EF%BC%8C%E6%B3%95%E5%9B%BD%E7%BD%91%E7%90%83%E5%A5%B3%E5%B0%86%E7%A7%91%E5%86%85%E7%89%B9%E6%8B%92%E7%BB%9D%E8%B5%B4%E5%8D%8E%E5%8F%82%E8%B5%9B)|
