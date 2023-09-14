@@ -2,6 +2,45 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-14 15:06:38|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[微软紧急安全更新：修复 59 个漏洞，揭秘 2 个积极利用的 0day 漏洞](https://buaq.net/go-176971.html)|
+|2023-09-14 14:33:12|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Mozilla 释出紧急更新修复正被利用的 Firefox 0day](https://buaq.net/go-176972.html)|
+|2023-09-14 14:15:25|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[CISA、FBI、NSA 联合发布深度伪造威胁网络安全报告](https://buaq.net/go-176973.html)|
+|2023-09-14 14:06:18|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Intel 芯片的 Mac 电脑需注意，新型恶意软件能窃取系统中的各类密码](https://buaq.net/go-176974.html)|
+|2023-09-14 13:51:59|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[警报：新的 Kubernetes 漏洞可对 Windows 端点实施远程攻击](https://buaq.net/go-176975.html)|
+|2023-09-14 04:48:29|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[容量电价政策或于年内出台：“火电坑三代”将成为历史](http://xueqiu.com/6843441724/261103907)|
+|2023-09-14 05:08:00|[新智元](https://plink.anyfeeder.com/weixin/AI_era)|[MLPerf放榜，中国AI芯片公司再获世界第一！大模型推理三项冠军，性能超越H100](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+MLPerf%E6%94%BE%E6%A6%9C%EF%BC%8C%E4%B8%AD%E5%9B%BDAI%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E5%86%8D%E8%8E%B7%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%EF%BC%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E4%B8%89%E9%A1%B9%E5%86%A0%E5%86%9B%EF%BC%8C%E6%80%A7%E8%83%BD%E8%B6%85%E8%B6%8AH100)|
+|2023-09-14 05:08:00|[新智元](https://plink.anyfeeder.com/weixin/AI_era)|[GPT-4成功得出P≠NP，陶哲轩预言成真！97轮「苏格拉底式推理」对话破解世界数学难题](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+GPT-4%E6%88%90%E5%8A%9F%E5%BE%97%E5%87%BAP%E2%89%A0NP%EF%BC%8C%E9%99%B6%E5%93%B2%E8%BD%A9%E9%A2%84%E8%A8%80%E6%88%90%E7%9C%9F%EF%BC%8197%E8%BD%AE%E3%80%8C%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95%E5%BC%8F%E6%8E%A8%E7%90%86%E3%80%8D%E5%AF%B9%E8%AF%9D%E7%A0%B4%E8%A7%A3%E4%B8%96%E7%95%8C%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98)|
+|2023-09-14 05:08:00|[新智元](https://plink.anyfeeder.com/weixin/AI_era)|[iPhone15没新意？VERTU新款「第二大脑」Web3手机，打造专属AI智能体](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+iPhone15%E6%B2%A1%E6%96%B0%E6%84%8F%EF%BC%9FVERTU%E6%96%B0%E6%AC%BE%E3%80%8C%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%84%91%E3%80%8DWeb3%E6%89%8B%E6%9C%BA%EF%BC%8C%E6%89%93%E9%80%A0%E4%B8%93%E5%B1%9EAI%E6%99%BA%E8%83%BD%E4%BD%93)|
+|2023-09-14 05:08:00|[新智元](https://plink.anyfeeder.com/weixin/AI_era)|[Nature｜40万年薪太低？！美国2400名博士后集体罢工，科学家专业拉赞助，业余搞科研](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+Nature%EF%BD%9C40%E4%B8%87%E5%B9%B4%E8%96%AA%E5%A4%AA%E4%BD%8E%EF%BC%9F%EF%BC%81%E7%BE%8E%E5%9B%BD2400%E5%90%8D%E5%8D%9A%E5%A3%AB%E5%90%8E%E9%9B%86%E4%BD%93%E7%BD%A2%E5%B7%A5%EF%BC%8C%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%93%E4%B8%9A%E6%8B%89%E8%B5%9E%E5%8A%A9%EF%BC%8C%E4%B8%9A%E4%BD%99%E6%90%9E%E7%A7%91%E7%A0%94)|
+|2023-09-14 05:08:00|[新智元](https://plink.anyfeeder.com/weixin/AI_era)|[「千年外星人木乃伊」登顶热搜！DNA报告显示不属于人类，墨西哥现场直播震惊全世界](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E3%80%8C%E5%8D%83%E5%B9%B4%E5%A4%96%E6%98%9F%E4%BA%BA%E6%9C%A8%E4%B9%83%E4%BC%8A%E3%80%8D%E7%99%BB%E9%A1%B6%E7%83%AD%E6%90%9C%EF%BC%81DNA%E6%8A%A5%E5%91%8A%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%B1%9E%E4%BA%8E%E4%BA%BA%E7%B1%BB%EF%BC%8C%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C)|
+|2023-09-14 04:01:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《长相思》中相柳此生知道小夭对他的心意吗？](https://www.zhihu.com/question/615417972)|
+|2023-09-14 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[华为 5.5G 新进展「完成全部功能测试用例，可支撑 XR 、 AI 等业务需求」，将带来哪些影响？](https://www.zhihu.com/question/621976220)|
+|2023-09-14 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[孩子有没有可能会是妈妈最好的饭搭子，学习搭子，运动搭子？](https://www.zhihu.com/question/617573352)|
+|2023-09-14 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[网攻西工大的黑客身份被锁定，「二次约会」间谍软件由美国国家安全局开发，哪些信息值得关注？](https://www.zhihu.com/question/621977614)|
+|2023-09-14 05:53:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[一文说清消费电子行业的核心投资逻辑](https://www.huxiu.com/article/2053701.html?f=rss)|
+|2023-09-14 05:46:17|[虎嗅](https://plink.anyfeeder.com/huxiu)|[营收腰斩，又一波餐饮店要倒闭？](https://www.huxiu.com/article/2053778.html?f=rss)|
+|2023-09-14 05:45:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[华为Mate 60 Pro一周详细体验](https://www.huxiu.com/article/2050846.html?f=rss)|
+|2023-09-14 05:26:28|[虎嗅](https://plink.anyfeeder.com/huxiu)|[读大学，一分钱一分货？](https://www.huxiu.com/article/2053449.html?f=rss)|
+|2023-09-14 05:25:44|[虎嗅](https://plink.anyfeeder.com/huxiu)|[深圳罗湖老街区，暴雨过境之后](https://www.huxiu.com/article/2051564.html?f=rss)|
+|2023-09-14 05:11:25|[虎嗅](https://plink.anyfeeder.com/huxiu)|[ARM，值500亿美元吗？](https://www.huxiu.com/article/2053055.html?f=rss)|
+|2023-09-14 05:10:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[瑞幸和茅台联名，谁赢了？](https://www.huxiu.com/article/2053030.html?f=rss)|
+|2023-09-14 05:04:42|[虎嗅](https://plink.anyfeeder.com/huxiu)|[这个部位，肿瘤转移率比其他部位高好几倍？罪魁祸首找到了](https://www.huxiu.com/article/2052976.html?f=rss)|
+|2023-09-14 04:50:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[奔驰新电动车，还能收割中产吗？](https://www.huxiu.com/article/2043291.html?f=rss)|
+|2023-09-14 04:18:32|[虎嗅](https://plink.anyfeeder.com/huxiu)|[关于iPhone 15系列的USB-C，你想知道的都在这里](https://www.huxiu.com/article/2051601.html?f=rss)|
+|2023-09-14 04:02:50|[虎嗅](https://plink.anyfeeder.com/huxiu)|[大唐不止是长安](https://www.huxiu.com/article/2052208.html?f=rss)|
+|2023-09-14 04:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[最不适合恋爱结婚的一类人该如何分辨？](https://www.huxiu.com/article/2046329.html?f=rss)|
+|2023-09-14 03:37:14|[虎嗅](https://plink.anyfeeder.com/huxiu)|[周一在亮马河直播卖调酒，现在我们来汇报工作了](https://www.huxiu.com/article/2053456.html?f=rss)|
+|2023-09-14 03:33:13|[虎嗅](https://plink.anyfeeder.com/huxiu)|[存储，怎么看？](https://www.huxiu.com/article/2053071.html?f=rss)|
+|2023-09-14 03:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[最新的“国产苹果”上市了](https://www.huxiu.com/article/2053436.html?f=rss)|
+|2023-09-14 03:25:11|[虎嗅](https://plink.anyfeeder.com/huxiu)|[能让热水沸腾的面料你听过吗？](https://www.huxiu.com/article/2051580.html?f=rss)|
+|2023-09-14 03:23:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[老实人造不好电动车？](https://www.huxiu.com/article/2053421.html?f=rss)|
+|2023-09-14 03:01:31|[虎嗅](https://plink.anyfeeder.com/huxiu)|[新形势下，我国食物安全面临哪些挑战？](https://www.huxiu.com/article/2041093.html?f=rss)|
+|2023-09-14 05:36:00|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[“爸妈，如果我有一天不在了，你们要替我好好活下去”](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E2%80%9C%E7%88%B8%E5%A6%88%EF%BC%8C%E5%A6%82%E6%9E%9C%E6%88%91%E6%9C%89%E4%B8%80%E5%A4%A9%E4%B8%8D%E5%9C%A8%E4%BA%86%EF%BC%8C%E4%BD%A0%E4%BB%AC%E8%A6%81%E6%9B%BF%E6%88%91%E5%A5%BD%E5%A5%BD%E6%B4%BB%E4%B8%8B%E5%8E%BB%E2%80%9D)|
+|2023-09-14 05:36:00|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[广东一地鳄鱼暴雨中出逃！已抓回36条](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%9C%B0%E9%B3%84%E9%B1%BC%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%87%BA%E9%80%83%EF%BC%81%E5%B7%B2%E6%8A%93%E5%9B%9E36%E6%9D%A1)|
+|2023-09-14 06:28:09|[36氪](https://plink.anyfeeder.com/36kr)|[Mobileye创始人Amnon Shashua：能在中国赢，就能在全球赢｜36氪专访](https://36kr.com/p/2431202921615747?f=rss)|
+|2023-09-14 05:58:54|[36氪](https://plink.anyfeeder.com/36kr)|[聚焦中高端功率半导体产品研发，「赛晶半导体」推出车规级HEEV封装SiC模块｜项目报道](https://36kr.com/p/2431230264267394?f=rss)|
+|2023-09-14 05:01:56|[36氪](https://plink.anyfeeder.com/36kr)|[对话IBM：用watsonx和IBM咨询与大模型“交个朋友”｜36氪专访](https://36kr.com/p/2431294350709380?f=rss)|
+|2023-09-14 03:13:39|[36氪](https://plink.anyfeeder.com/36kr)|[智氪   海天酱油是怎么跌落神坛的](https://36kr.com/p/2431206949294465?f=rss)|
 |2023-09-14 06:05:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大佬们，总感觉 Windows 的字体发虚，有锯齿，怎么解决](https://www.v2ex.com/t/973728#reply5)|
 |2023-09-14 06:13:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[AI 支持的云端开发环境 Google Project IDX 有体验过的吗](https://www.v2ex.com/t/973739#reply0)|
 |2023-09-14 02:37:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[10 年 iPhone 用户换了安卓后一点感想~~~~](https://www.v2ex.com/t/973658#reply101)|
