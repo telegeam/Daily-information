@@ -4,7 +4,14 @@
 |---|---|---|
 |2023-09-14 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[直到2023年我使用过的手机](https://leimao.github.io/essay/%E7%9B%B4%E5%88%B02023%E5%B9%B4%E6%88%91%E4%BD%BF%E7%94%A8%E8%BF%87%E7%9A%84%E6%89%8B%E6%9C%BA/)|
 |2023-09-14 03:00:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Not Marching](https://buaq.net/go-176930.html)|
+|2023-09-14 02:21:55|[V2EX](https://v2ex.com/index.xml)|[[问与答] 准备抢十一的票， bypass 是挂了吗？](https://www.v2ex.com/t/973644#reply0)|
+|2023-09-14 02:20:44|[V2EX](https://v2ex.com/index.xml)|[[Apple] iPhone 换电池又涨价了，厨子他凭啥啊](https://www.v2ex.com/t/973642#reply0)|
+|2023-09-14 02:20:33|[V2EX](https://v2ex.com/index.xml)|[[问与答] 有什么好用的 12306 抢票软件么](https://www.v2ex.com/t/973641#reply0)|
+|2023-09-14 02:19:48|[V2EX](https://v2ex.com/index.xml)|[[程序员] 协议注册 outlook 邮箱，要破解验证码吗？](https://www.v2ex.com/t/973640#reply0)|
+|2023-09-14 02:19:03|[V2EX](https://v2ex.com/index.xml)|[[macOS] macOS 14 RC 你们升级了吗？体验如何？](https://www.v2ex.com/t/973639#reply0)|
+|2023-09-14 02:18:42|[V2EX](https://v2ex.com/index.xml)|[[旅行] 中秋国庆假期高铁票你们抢到了么？](https://www.v2ex.com/t/973638#reply0)|
 |2023-09-14 02:12:36|[V2EX](https://v2ex.com/index.xml)|[[OpenAI] wise 卡也被 declined 了](https://www.v2ex.com/t/973637#reply1)|
+|2023-09-14 02:12:36|[V2EX](https://v2ex.com/index.xml)|[[OpenAI] wise 卡也被 declined 了](https://www.v2ex.com/t/973637#reply2)|
 |2023-09-14 02:08:29|[V2EX](https://v2ex.com/index.xml)|[[问与答] safari 和 edge 浏览器，有什么书签同步软件或插件？](https://www.v2ex.com/t/973636#reply0)|
 |2023-09-14 02:06:57|[V2EX](https://v2ex.com/index.xml)|[[Android] 求靠谱敏感词过滤方案](https://www.v2ex.com/t/973635#reply0)|
 |2023-09-14 02:04:11|[V2EX](https://v2ex.com/index.xml)|[[问与答] 有没有一些好的社区网站，天天摸鱼用 V2 有点腻了。。](https://www.v2ex.com/t/973632#reply3)|
@@ -12,12 +19,16 @@
 |2023-09-14 02:01:06|[V2EX](https://v2ex.com/index.xml)|[[问与答] 求 V 友推荐一辆家用车，预算 25-40](https://www.v2ex.com/t/973630#reply0)|
 |2023-09-14 02:01:00|[虎嗅](https://rss.huxiu.com/)|[新能源车价格战真相](https://www.huxiu.com/article/2053021.html?f=rss)|
 |2023-09-14 01:59:55|[嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com](http://www.4hou.com/feed/)|[电信安全正式发布云脉SASE，打造下一代“一体化办公安全平台”](https://www.4hou.com/posts/poP2)|
+|2023-09-14 01:58:52|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[【文字回顾】市场波动加剧，护城河还好吗？](http://xueqiu.com/9243245648/261025757)|
+|2023-09-14 01:58:49|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[【文字回顾】看林乐峰股债巧掘金，选美称重择好股](http://xueqiu.com/9243245648/261024982)|
+|2023-09-14 01:58:48|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[【文字回顾】追求稳健投资 专注大类资产配置](http://xueqiu.com/9243245648/261025460)|
 |2023-09-14 01:58:34|[V2EX](https://v2ex.com/index.xml)|[[OpenAI] 终于可以使用 GPT4 的 API 了](https://www.v2ex.com/t/973629#reply0)|
 |2023-09-14 01:57:38|[V2EX](https://v2ex.com/index.xml)|[[问与答] 镜子里的自己和 iPhone 手机自拍的自己哪个更真实？](https://www.v2ex.com/t/973628#reply10)|
 |2023-09-14 01:57:37|[V2EX](https://v2ex.com/index.xml)|[[OpenAI] gpt 官网又挂了？](https://www.v2ex.com/t/973627#reply0)|
 |2023-09-14 01:56:32|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Version 2.9 of the Mozilla Root Store Policy](https://buaq.net/go-176929.html)|
 |2023-09-14 01:54:22|[V2EX](https://v2ex.com/index.xml)|[[iPhone] iPhone15P 系列应该是视频拍摄友好机型，毕竟可以将手机拍摄的视频直接存储到外接硬盘上](https://www.v2ex.com/t/973626#reply2)|
 |2023-09-14 01:54:12|[V2EX](https://v2ex.com/index.xml)|[[React] web 直播推流思路](https://www.v2ex.com/t/973625#reply2)|
+|2023-09-14 01:53:26|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[N-TOPCon's 危局](http://xueqiu.com/7366539958/260973710)|
 |2023-09-14 01:53:03|[虎嗅](https://rss.huxiu.com/)|[保密是信仰的苹果公司，为啥防不住大家对新iPhone的预测？](https://www.huxiu.com/article/2050859.html?f=rss)|
 |2023-09-14 01:52:37|[V2EX](https://v2ex.com/index.xml)|[[Spotify] 土区 spotify 还有车吗？自带土区账号](https://www.v2ex.com/t/973624#reply0)|
 |2023-09-14 01:48:49|[V2EX](https://v2ex.com/index.xml)|[[问与答] 这个论坛有哪些宝藏节点？](https://www.v2ex.com/t/973621#reply5)|
@@ -28,8 +39,10 @@
 |2023-09-14 01:30:18|[虎嗅](https://rss.huxiu.com/)|[冯小刚之后，再无华谊](https://www.huxiu.com/article/2052987.html?f=rss)|
 |2023-09-14 01:30:00|[虎嗅](https://rss.huxiu.com/)|[航天人才辞职创业，叛逆少年与他的机器人梦](https://www.huxiu.com/article/2050869.html?f=rss)|
 |2023-09-14 01:28:27|[虎嗅](https://rss.huxiu.com/)|[这可能是世界上最简短的悼词](https://www.huxiu.com/article/2050858.html?f=rss)|
+|2023-09-14 01:27:27|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[基民应不应该择时？而是基金能为基民做些什么！](http://xueqiu.com/3336981076/261024420)|
 |2023-09-14 01:27:26|[V2EX](https://v2ex.com/index.xml)|[[问与答] 副屏开发选 Redme 4K 还是 LG UL 650](https://www.v2ex.com/t/973614#reply1)|
 |2023-09-14 01:27:04|[虎嗅](https://rss.huxiu.com/)|[报考人数连续7年减少，日本公务员，为什么不吃香？](https://www.huxiu.com/article/2051088.html?f=rss)|
+|2023-09-14 01:26:48|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[以史为鉴，我们离牛市还有多远](http://xueqiu.com/1130080424/260955137)|
 |2023-09-14 01:26:12|[V2EX](https://v2ex.com/index.xml)|[[问与答] 为什么每次启动 IDEA 都会跳出代理身份验证](https://www.v2ex.com/t/973612#reply4)|
 |2023-09-14 01:25:21|[V2EX](https://v2ex.com/index.xml)|[[问与答] 有睡眠质量差的伙伴么？怎么改善呀](https://www.v2ex.com/t/973610#reply14)|
 |2023-09-14 01:23:16|[V2EX](https://v2ex.com/index.xml)|[[北京] 国庆去那玩，有想法吗？](https://www.v2ex.com/t/973609#reply12)|
@@ -59,6 +72,12 @@
 |2023-09-14 00:37:22|[爱范儿](https://plink.anyfeeder.com/ifanr)|[早报｜华为小米达成全球专利交叉许可协议 / 苹果回应法国宣布禁售 iPhone 12 / 全新问界 M7 上市](https://www.ifanr.com/1562072?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-09-14 00:34:21|[V2EX](https://v2ex.com/index.xml)|[[问与答] 求推荐资讯聚合类 app](https://www.v2ex.com/t/973595#reply8)|
 |2023-09-14 00:34:11|[极客公园](https://plink.anyfeeder.com/geekpark)|[因辐射超标，法国暂停销售 iPhone 12；ARM IPO 估值将达 545 亿美元；QQ 小世界因色情内容被处罚](http://www.geekpark.net/news/324667)|
+|2023-09-14 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[Arm把IPO发行价设在51美元](https://cn.wsj.com/amp/articles/arm%E6%8A%8Aipo%E5%8F%91%E8%A1%8C%E4%BB%B7%E8%AE%BE%E5%9C%A851%E7%BE%8E%E5%85%83-548c3f02)|
+|2023-09-14 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[谷歌将裁减数百个招聘部门职位](https://cn.wsj.com/amp/articles/%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E5%89%8A%E5%87%8F%E6%95%B0%E7%99%BE%E4%B8%AA%E6%8B%9B%E8%81%98%E9%83%A8%E9%97%A8%E7%9A%84%E8%81%8C%E4%BD%8D-9056a21b)|
+|2023-09-14 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[英国石油新任临时CEO计划坚持能源转型计划](https://cn.wsj.com/amp/articles/%E8%8B%B1%E5%9B%BD%E7%9F%B3%E6%B2%B9%E6%96%B0%E4%BB%BB%E4%B8%B4%E6%97%B6ceo%E8%AE%A1%E5%88%92%E5%9D%9A%E6%8C%81%E8%83%BD%E6%BA%90%E8%BD%AC%E5%9E%8B%E8%AE%A1%E5%88%92-7c3239b3)|
+|2023-09-14 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[SpaceX的Starlink去年收入达到14亿美元](https://cn.wsj.com/amp/articles/spacex%E7%9A%84starlink%E5%8E%BB%E5%B9%B4%E6%94%B6%E5%85%A5%E8%BE%BE%E5%88%B014%E4%BA%BF%E7%BE%8E%E5%85%83-c6bc8099)|
+|2023-09-14 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[FTX获准出售超过30亿美元的用户加密货币](https://cn.wsj.com/amp/articles/ftx%E8%8E%B7%E5%87%86%E5%87%BA%E5%94%AE%E8%B6%85%E8%BF%8730%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E7%94%A8%E6%88%B7%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81-c851342b)|
+|2023-09-14 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中东成为全世界的提款机](https://cn.wsj.com/amp/articles/%E4%B8%AD%E4%B8%9C%E6%88%90%E4%B8%BA%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E6%8F%90%E6%AC%BE%E6%9C%BA-4eaab959)|
 |2023-09-14 00:31:14|[虎嗅](https://rss.huxiu.com/)|[当下的市场环境如何？](https://www.huxiu.com/article/2051959.html?f=rss)|
 |2023-09-14 00:31:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[迷失直播间的旅行社：都知道不赚钱，不做又不行](https://www.tmtpost.com/6705469.html)|
 |2023-09-14 00:29:01|[V2EX](https://v2ex.com/index.xml)|[[Apple] iphone12 辐射超标☢️ --来自 iphone12 用户](https://www.v2ex.com/t/973594#reply25)|
@@ -72,6 +91,7 @@
 |2023-09-14 00:07:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[钛媒体科股早知道：基于5G-A网络智能化的咪咕亚运应用首次试点验证成功](https://www.tmtpost.com/6706159.html)|
 |2023-09-14 00:06:33|[V2EX](https://v2ex.com/index.xml)|[[问与答] 雅虎清空了我所有邮件和联系人](https://www.v2ex.com/t/973589#reply1)|
 |2023-09-14 00:06:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[运动伴侣到私人医生，时尚单品到专业设备，Apple Watch发展历史回顾](https://www.tmtpost.com/6704494.html)|
+|2023-09-14 00:03:37|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 | 如果你使用过 “Free Download Manager”，必读！](https://linux.cn/article-16190-1.html?utm_source=rss&utm_medium=rss)|
 |2023-09-13 23:58:40|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[[下载] 谷歌浏览器117.0正式版发布 带来多种样式变化和功能改进](https://buaq.net/go-176927.html)|
 |2023-09-13 23:48:41|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[火狐浏览器推出117.0.1修复WebP图像解析相关高危漏洞 请立即升级](https://buaq.net/go-176928.html)|
 |2023-09-13 23:31:01|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Yakit 食用方法](https://buaq.net/go-176919.html)|
