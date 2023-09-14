@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-14 02:52:05|[小众软件](https://www.appinn.com/feed/)|[开学季大礼！实用正版软件 6 折起（Listary、MarginNote、Microsoft 365） ，好工具助「荔」学习！](https://www.appinn.com/lizhi-202309/)|
 |2023-09-14 01:17:06|[煎蛋](https://plink.anyfeeder.com/jiandan)|[墨西哥UFO专家向国会展示两具外星人尸体](http://jandan.net/p/114204)|
 |2023-09-14 02:59:49|[V2EX](https://www.v2ex.com/index.xml)|[ Apple  iPhone15Pro 无法直接支持 Thunderbolt, 需要加钱买根线?](https://www.v2ex.com/t/973670#reply0)|
 |2023-09-14 02:58:19|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造  开源项目做个小推广，嗯学英语~](https://www.v2ex.com/t/973669#reply0)|
