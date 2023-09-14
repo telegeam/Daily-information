@@ -20,6 +20,18 @@ requests.packages.urllib3.disable_warnings()
 today = datetime.datetime.now().strftime("%Y-%m-%d")
 filterWords = []
 
+# 替换圆括号和中括号为空格
+def replace_brackets_with_space(string):
+    replaced_string = string.replace('(', ' ').replace(')', ' ').replace('[', ' ').replace(']', ' ')
+    return replaced_string
+
+# 处理长字符串
+def truncate_string(string, length = 20):
+    if len(string) <= length:
+        return string
+    else:
+        return string[:length] + '...'
+
 def update_today():
     """更新today"""
     root_path = Path(__file__).absolute().parent
@@ -34,7 +46,9 @@ def update_today():
         content += f'|时间|来源|标题|\n'
         content += f'|---|---|---|\n'
         for (feed, link, title, url, published_at) in data:
-            content += f'|{published_at}|[{feed}]({link})|[{title}]({url})|\n'
+            newfeed = truncate_string(feed)
+            newtitle = replace_brackets_with_space(title)
+            content += f'|{published_at}|[{newfeed}]({link})|[{newtitle}]({url})|\n'
         f1.write(content)
 
     data = getArticles()
@@ -45,7 +59,8 @@ def update_today():
             if(preFeed != feed):
                 preFeed = feed
                 content += f'- [{feed}]({link})\n'
-            content += f'  - [{title}]({url})\n'
+            newtitle = replace_brackets_with_space(title)
+            content += f'  - [{newtitle}]({url})\n'
         f2.write(content)
 
 def update_rss(rss: dict, proxy_url=''):
