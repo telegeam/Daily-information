@@ -31,10 +31,10 @@ def update_today():
     data = getArticlesForReadme()
     with open(today_path, 'w+', encoding='utf-8-sig') as f1:
         content = f'# 每日资讯（{today}）\n\n'
-        content += f'|时间|标题|来源|\n'
+        content += f'|时间|来源|标题|\n'
         content += f'|---|---|---|\n'
         for (feed, link, title, url, published_at) in data:
-            content += f'|{published_at}|[{title}]({url})|[{feed}]({link})|\n'
+            content += f'|{published_at}|[{feed}]({link})|[{title}]({url})|\n'
         f1.write(content)
 
     data = getArticles()
