@@ -87,8 +87,8 @@ def getArticles():
     conn = sqlite3.connect('rss/rss.db3')
     cur = conn.cursor()
 
-
-    fromDate = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    fromDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(hours=-8), datetime.time.min)
+    # fromDate = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
     toDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(days=1), datetime.time.min)
 
     cur.execute('''
@@ -108,9 +108,9 @@ def getArticlesForReadme():
     conn = sqlite3.connect('rss/rss.db3')
     cur = conn.cursor()
 
-
-    # fromDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(hours=-8), datetime.time.min)
-    fromDate = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    # 有些源返回数据是0时区, 所以统一前推8小时
+    fromDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(hours=-8), datetime.time.min)
+    # fromDate = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
     toDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(days=1), datetime.time.min)
 
     cur.execute('''
