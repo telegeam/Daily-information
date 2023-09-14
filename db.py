@@ -10,7 +10,7 @@ def getRss():
     cur = conn.cursor()
 
     query_sql = '''
-    SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY RANDOM() limit 100
+    SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY RANDOM() limit 200
     '''
 
     cur.execute(query_sql)
@@ -70,7 +70,7 @@ def addArticles(list):
             update t_rss set article_num = (select count(*) from t_article b where b.feed_url = ?), updated_at = ?
             where xml_url = ?
             ''', [
-                link, 
+                link,
                 datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
                 link
                 ])
@@ -93,6 +93,27 @@ def getArticles():
 
     cur.execute('''
     select feed_name, feed_url, title, url from t_article where published_at >= ? and published_at < ? order by feed_name
+    ''', [
+        fromDate.strftime('%Y-%m-%d'),
+        toDate.strftime('%Y-%m-%d')
+        ])
+
+    result = cur.fetchall()
+
+    cur.close()
+    conn.close()
+    return result
+
+def getArticlesForReadme():
+    conn = sqlite3.connect('rss/rss.db3')
+    cur = conn.cursor()
+
+
+    fromDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(hours=-8), datetime.time.min)
+    toDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(days=1), datetime.time.min)
+
+    cur.execute('''
+    select feed_name, feed_url, title, url, published_at from t_article where published_at >= ? and published_at < ? order by published_at desc
     ''', [
         fromDate.strftime('%Y-%m-%d'),
         toDate.strftime('%Y-%m-%d')

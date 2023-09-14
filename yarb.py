@@ -12,7 +12,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from bot import *
 from utils import Color, Pattern
-from db import getRss, updateRssInvalid, addArticles, getArticles
+from db import getRss, updateRssInvalid, addArticles, getArticles, getArticlesForReadme
 
 import requests
 requests.packages.urllib3.disable_warnings()
@@ -26,10 +26,19 @@ def update_today():
     today_path = root_path.joinpath('README.md')
     archive_path = root_path.joinpath(f'archive/{today.split("-")[0]}/{today}.md')
 
-    data = getArticles()
-
     archive_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(today_path, 'w+', encoding='utf-8-sig') as f1, open(archive_path, 'w+', encoding='utf-8-sig') as f2:
+
+    data = getArticlesForReadme()
+    with open(today_path, 'w+', encoding='utf-8-sig') as f1:
+        content = f'# 每日资讯（{today}）\n\n'
+        content += f'|时间|标题|来源|\n'
+        content += f'|---|---|---|\n'
+        for (feed, link, title, url, published_at) in data:
+            content += f'|{published_at}|[{title}]({url})|[{feed}]({link})|\n'
+        f1.write(content)
+
+    data = getArticles()
+    with open(archive_path, 'w+', encoding='utf-8-sig') as f2:
         content = f'# 每日资讯（{today}）\n\n'
         preFeed = ''
         for (feed, link, title, url) in data:
@@ -37,7 +46,6 @@ def update_today():
                 preFeed = feed
                 content += f'- [{feed}]({link})\n'
             content += f'  - [{title}]({url})\n'
-        f1.write(content)
         f2.write(content)
 
 def update_rss(rss: dict, proxy_url=''):
