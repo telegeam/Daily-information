@@ -2,6 +2,72 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-15 10:10:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  真心求大家帮我看下这件事情到底严不严重](https://www.v2ex.com/t/974210#reply0)|
+|2023-09-15 10:09:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  有没有经验丰富的老哥说下，如果购买 iPhone 15 ，官方 apple store 、京东、淘宝哪个发货最快。](https://www.v2ex.com/t/974209#reply1)|
+|2023-09-15 10:00:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答   手机  小米相册设置了应用锁，微信还能打开相册，有解决方式拦截吗？](https://www.v2ex.com/t/974208#reply0)|
+|2023-09-15 09:50:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  非程序员岗位，软件本科，刚毕业后做过 2 年移动端开发，菜鸟教程看了一点 python3 基础，现在学 Django，我应该设定多少时间为准，目前在看 Django 的 Tutorial。不以找工作为目标，目前工作需要懂开发。](https://www.v2ex.com/t/974207#reply0)|
+|2023-09-15 09:48:57|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员  把旧博客改新主题了， hugo 换主题是真方便](https://www.v2ex.com/t/974205#reply3)|
+|2023-09-15 09:31:53|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  除了提肛，还有哪些健康好（小）习惯？](https://www.v2ex.com/t/974202#reply1)|
+|2023-09-15 09:31:00|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  各位的手机装了多少个应用？常用的多少？](https://www.v2ex.com/t/974201#reply0)|
+|2023-09-15 09:27:29|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  Firefox 中的可疑插件](https://www.v2ex.com/t/974200#reply0)|
+|2023-09-15 09:24:36|[V2EX](https://www.v2ex.com/index.xml)|[ 推广  新版发布   Cloudpods v3.10.5 和 v3.9.13 正式发布](https://www.v2ex.com/t/974199#reply1)|
+|2023-09-15 09:21:12|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  四通一达邮政等快递，小区总是不送上门！](https://www.v2ex.com/t/974197#reply5)|
+|2023-09-15 09:19:29|[V2EX](https://www.v2ex.com/index.xml)|[ Google  美区家庭 Youtube premium+Google One 2T 去年老车有账单,下车一位补 1 位有空.69/Year](https://www.v2ex.com/t/974196#reply0)|
+|2023-09-15 09:16:02|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone  ProRaw Max， HEIF Max 来了](https://www.v2ex.com/t/974195#reply1)|
+|2023-09-15 09:12:48|[V2EX](https://www.v2ex.com/index.xml)|[ Apple  Magsafe，它改变了充电。](https://www.v2ex.com/t/974194#reply5)|
+|2023-09-15 09:11:05|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作  找个前端兼职的，需要找人帮忙分担一部分的开发工作。](https://www.v2ex.com/t/974193#reply1)|
+|2023-09-15 09:10:33|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题  第一次当小组长，组员不靠谱怎么弄？](https://www.v2ex.com/t/974192#reply13)|
+|2023-09-15 06:40:32|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[开发了一个查看火车票信息、收藏火车票的 App - 车票票](https://w2solo.com/topics/4139)|
+|2023-09-15 04:33:28|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我开发了一个群聊成员无上限的聊天软件，取名：无限群，本周将发布 0.2 版本](https://w2solo.com/topics/4138)|
+|2023-09-15 02:20:45|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #11：商标](https://w2solo.com/topics/4137)|
+|2023-09-15 00:20:52|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 104 期）：开发月收入 1000 美金的 Kindle 小工具](https://w2solo.com/topics/4136)|
+|2023-09-15 09:37:03|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[转债的底在哪里？再下跌，将放弃防守全面进攻](http://xueqiu.com/8849632795/261152704)|
+|2023-09-15 09:10:18|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[ST基础篇：连续涨跌停的底层逻辑](http://xueqiu.com/3293352184/261224664)|
+|2023-09-15 09:07:12|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[解读荷兰光刻机变成光刻厂的SSMBEUV方案](http://xueqiu.com/8715161812/261203559)|
+|2023-09-15 08:54:09|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[不确定中的确定性](http://xueqiu.com/7102683784/261235718)|
+|2023-09-15 08:52:47|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[消费红利指数基金的魅力](http://xueqiu.com/3179670287/261156069)|
+|2023-09-15 08:08:29|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[雪球基金评审团招募！6只科技主题基金邀你来测评](http://xueqiu.com/8152922548/261236418)|
+|2023-09-15 03:43:54|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[煤炭供需浅析](http://xueqiu.com/3081204011/261172949)|
+|2023-09-15 03:26:22|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[【文字回顾】2023下半年黄金投资机会分析](http://xueqiu.com/9243245648/260824169)|
+|2023-09-15 03:26:21|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[【文字回顾】医药调整！到位了吗？](http://xueqiu.com/9243245648/260823386)|
+|2023-09-15 03:25:46|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[晶硅电池的终点](http://xueqiu.com/7366539958/261041052)|
+|2023-09-15 02:22:05|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[为什么欧盟对中国出口电动汽车发起反补贴调查？](http://xueqiu.com/4023320052/261158362)|
+|2023-09-15 07:36:02|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[美参议院财政委员会通过法案，加深与台湾经济联系](https://cn.nytimes.com/usa/20230915/senate-committee-taiwan-double-taxation/dual)|
+|2023-09-15 09:10:47|[Engadget is a web ma...](http://www.engadget.com/rss.xml)|[The US Senate wants answers over Starlink's Ukrainian satellite internet denial](https://www.engadget.com/the-us-senate-wants-answers-over-starlinks-ukrainian-satellite-internet-denial-091047225.html?src=rss)|
+|2023-09-15 08:37:59|[Engadget is a web ma...](http://www.engadget.com/rss.xml)|[Threads now lets you quote posts on the web](https://www.engadget.com/threads-now-lets-you-quote-posts-on-the-web-083759052.html?src=rss)|
+|2023-09-15 06:42:42|[Engadget is a web ma...](http://www.engadget.com/rss.xml)|[Cyberpunk 2077's free 2.0 update arrives September 21](https://www.engadget.com/cyberpunk-2077s-free-20-update-arrives-september-21-064242975.html?src=rss)|
+|2023-09-15 10:00:00|[虎嗅](https://rss.huxiu.com/)|[自损1000，伤敌800，逆周期之王、最烧钱的三星](https://www.huxiu.com/article/2057912.html?f=rss)|
+|2023-09-15 09:52:02|[虎嗅](https://rss.huxiu.com/)|[一个创作者，有1000名死忠粉就能衣食无忧？](https://www.huxiu.com/article/2059062.html?f=rss)|
+|2023-09-15 09:08:14|[虎嗅](https://rss.huxiu.com/)|[花西子“翻车”背后，彩妆国货难在哪？](https://www.huxiu.com/article/2059037.html?f=rss)|
+|2023-09-15 09:00:01|[虎嗅](https://rss.huxiu.com/)|[原子弹真的可以毁灭世界吗？](https://www.huxiu.com/article/2058502.html?f=rss)|
+|2023-09-15 08:52:09|[虎嗅](https://rss.huxiu.com/)|[没背景的普通人，为什么只能选大城市？](https://www.huxiu.com/article/2058489.html?f=rss)|
+|2023-09-15 08:35:56|[虎嗅](https://rss.huxiu.com/)|[淄博鹤岗“爆火”后：做网红拉动不了经济](https://www.huxiu.com/article/2059028.html?f=rss)|
+|2023-09-15 08:06:00|[虎嗅](https://rss.huxiu.com/)|[保姆级指南：大模型prompt的最佳实践](https://www.huxiu.com/article/2058854.html?f=rss)|
+|2023-09-15 08:03:57|[虎嗅](https://rss.huxiu.com/)|[为什么草莓味的食品没啥草莓味？](https://www.huxiu.com/article/2059035.html?f=rss)|
+|2023-09-15 08:00:01|[虎嗅](https://rss.huxiu.com/)|[山东曹县做的棺材，承包了日本人最后的“体面”](https://www.huxiu.com/article/2055098.html?f=rss)|
+|2023-09-15 07:36:00|[虎嗅](https://rss.huxiu.com/)|[大超市关门，会员店崛起？盒马山姆价格战的背后真相](https://www.huxiu.com/article/2058770.html?f=rss)|
+|2023-09-15 07:30:00|[虎嗅](https://rss.huxiu.com/)|[克服死亡恐惧症：3个思路让你远离死亡焦虑](https://www.huxiu.com/article/2050799.html?f=rss)|
+|2023-09-15 07:26:00|[虎嗅](https://rss.huxiu.com/)|[如何“翻译”员工的离职谈话？](https://www.huxiu.com/article/2058510.html?f=rss)|
+|2023-09-15 07:17:56|[虎嗅](https://rss.huxiu.com/)|[如何做预算，让我们在市场里进可攻、退可守？](https://www.huxiu.com/article/2042758.html?f=rss)|
+|2023-09-15 07:07:55|[虎嗅](https://rss.huxiu.com/)|[《芭比》和歌手们撑不起美国经济了](https://www.huxiu.com/article/2055066.html?f=rss)|
+|2023-09-15 07:00:13|[虎嗅](https://rss.huxiu.com/)|[老城更新，应该怎么做？](https://www.huxiu.com/article/2011956.html?f=rss)|
+|2023-09-15 07:00:00|[虎嗅](https://rss.huxiu.com/)|[始祖鸟，如何成为中产烧钱养的顶奢鸟？](https://www.huxiu.com/article/2057948.html?f=rss)|
+|2023-09-15 06:49:00|[虎嗅](https://rss.huxiu.com/)|[“长寿破产”，我们该如何应对？](https://www.huxiu.com/article/2056135.html?f=rss)|
+|2023-09-15 06:44:00|[虎嗅](https://rss.huxiu.com/)|[在街头，遇见野生文案](https://www.huxiu.com/article/2055045.html?f=rss)|
+|2023-09-15 06:38:02|[虎嗅](https://rss.huxiu.com/)|[华为“杀”出重围，谁是最大受益城市？](https://www.huxiu.com/article/2058571.html?f=rss)|
+|2023-09-15 05:11:00|[新智元](https://plink.anyfeeder.com/weixin/AI_era)|[ACL被骂惨！官方被迫低头，发起投票取消匿名政策](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+ACL%E8%A2%AB%E9%AA%82%E6%83%A8%EF%BC%81%E5%AE%98%E6%96%B9%E8%A2%AB%E8%BF%AB%E4%BD%8E%E5%A4%B4%EF%BC%8C%E5%8F%91%E8%B5%B7%E6%8A%95%E7%A5%A8%E5%8F%96%E6%B6%88%E5%8C%BF%E5%90%8D%E6%94%BF%E7%AD%96)|
+|2023-09-15 05:11:00|[新智元](https://plink.anyfeeder.com/weixin/AI_era)|[开源「AI史上最重要闭门会议」！马斯克、小扎等科技大佬齐聚，探讨AI未来](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E5%BC%80%E6%BA%90%E3%80%8CAI%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%87%8D%E8%A6%81%E9%97%AD%E9%97%A8%E4%BC%9A%E8%AE%AE%E3%80%8D%EF%BC%81%E9%A9%AC%E6%96%AF%E5%85%8B%E3%80%81%E5%B0%8F%E6%89%8E%E7%AD%89%E7%A7%91%E6%8A%80%E5%A4%A7%E4%BD%AC%E9%BD%90%E8%81%9A%EF%BC%8C%E6%8E%A2%E8%AE%A8AI%E6%9C%AA%E6%9D%A5)|
+|2023-09-15 05:11:00|[新智元](https://plink.anyfeeder.com/weixin/AI_era)|[虽然3nm，但是挤牙膏？A17 Pro跑分出炉：CPU多核仅提升3.6%](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E8%99%BD%E7%84%B63nm%EF%BC%8C%E4%BD%86%E6%98%AF%E6%8C%A4%E7%89%99%E8%86%8F%EF%BC%9FA17%20Pro%E8%B7%91%E5%88%86%E5%87%BA%E7%82%89%EF%BC%9ACPU%E5%A4%9A%E6%A0%B8%E4%BB%85%E6%8F%90%E5%8D%873.6%25)|
+|2023-09-15 05:11:00|[新智元](https://plink.anyfeeder.com/weixin/AI_era)|[2023搞笑诺奖揭晓！死灵蜘蛛人、斯坦福看菊花马桶，十大人类迷惑行为大赏](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+2023%E6%90%9E%E7%AC%91%E8%AF%BA%E5%A5%96%E6%8F%AD%E6%99%93%EF%BC%81%E6%AD%BB%E7%81%B5%E8%9C%98%E8%9B%9B%E4%BA%BA%E3%80%81%E6%96%AF%E5%9D%A6%E7%A6%8F%E7%9C%8B%E8%8F%8A%E8%8A%B1%E9%A9%AC%E6%A1%B6%EF%BC%8C%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%B1%BB%E8%BF%B7%E6%83%91%E8%A1%8C%E4%B8%BA%E5%A4%A7%E8%B5%8F)|
+|2023-09-15 05:11:00|[新智元](https://plink.anyfeeder.com/weixin/AI_era)|[全面取代Llama 2！Baichuan 2自曝史上最全训练细节](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E5%85%A8%E9%9D%A2%E5%8F%96%E4%BB%A3Llama%202%EF%BC%81Baichuan%202%E8%87%AA%E6%9B%9D%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E8%AE%AD%E7%BB%83%E7%BB%86%E8%8A%82)|
+|2023-09-15 07:10:28|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[汇丰科技证券服务技术部 DevSecOps 负责人周纪海博士确认出席 FCon ，分享大象起舞：国际大型银行数字化转型的挑战和实践](https://www.infoq.cn/article/PZmTlQRpdVimolCBzlNU)|
+|2023-09-15 07:00:20|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[JetBrains 推出独立 Rust IDE](https://www.infoq.cn/article/G4aQNXfcplOmXj9Pivse)|
+|2023-09-15 06:37:17|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[最新估值达430亿美元！Databricks获得超 5 亿美元融资，英伟达参投](https://www.infoq.cn/article/F9Z5HldsTRNSLtTPeO8M)|
+|2023-09-15 05:04:00|[机器之心](http://plink.anyfeeder.com/weixin/almosthuman2014)|[LLM在放射科学中应用潜力如何？数十家研究机构联合测试了31个大模型](http://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83+LLM%E5%9C%A8%E6%94%BE%E5%B0%84%E7%A7%91%E5%AD%A6%E4%B8%AD%E5%BA%94%E7%94%A8%E6%BD%9C%E5%8A%9B%E5%A6%82%E4%BD%95%EF%BC%9F%E6%95%B0%E5%8D%81%E5%AE%B6%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84%E8%81%94%E5%90%88%E6%B5%8B%E8%AF%95%E4%BA%8631%E4%B8%AA%E5%A4%A7%E6%A8%A1%E5%9E%8B)|
+|2023-09-15 05:04:00|[机器之心](http://plink.anyfeeder.com/weixin/almosthuman2014)|[智源开放3亿条语义向量模型训练数据， BGE模型持续迭代更新](http://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83+%E6%99%BA%E6%BA%90%E5%BC%80%E6%94%BE3%E4%BA%BF%E6%9D%A1%E8%AF%AD%E4%B9%89%E5%90%91%E9%87%8F%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%EF%BC%8C%20BGE%E6%A8%A1%E5%9E%8B%E6%8C%81%E7%BB%AD%E8%BF%AD%E4%BB%A3%E6%9B%B4%E6%96%B0)|
+|2023-09-15 05:04:00|[机器之心](http://plink.anyfeeder.com/weixin/almosthuman2014)|[承载22倍于自身重量前行，垂直跳跃59厘米，用爆炸驱动的昆虫机器人来了](http://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83+%E6%89%BF%E8%BD%BD22%E5%80%8D%E4%BA%8E%E8%87%AA%E8%BA%AB%E9%87%8D%E9%87%8F%E5%89%8D%E8%A1%8C%EF%BC%8C%E5%9E%82%E7%9B%B4%E8%B7%B3%E8%B7%8359%E5%8E%98%E7%B1%B3%EF%BC%8C%E7%94%A8%E7%88%86%E7%82%B8%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%98%86%E8%99%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E4%BA%86)|
+|2023-09-15 05:04:00|[机器之心](http://plink.anyfeeder.com/weixin/almosthuman2014)|[传谷歌开始小范围测试Gemini：比训练GPT-4算力大5倍，多模态能力大提升](http://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83+%E4%BC%A0%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%A7%8B%E5%B0%8F%E8%8C%83%E5%9B%B4%E6%B5%8B%E8%AF%95Gemini%EF%BC%9A%E6%AF%94%E8%AE%AD%E7%BB%83GPT-4%E7%AE%97%E5%8A%9B%E5%A4%A75%E5%80%8D%EF%BC%8C%E5%A4%9A%E6%A8%A1%E6%80%81%E8%83%BD%E5%8A%9B%E5%A4%A7%E6%8F%90%E5%8D%87)|
+|2023-09-15 05:04:00|[机器之心](http://plink.anyfeeder.com/weixin/almosthuman2014)|[不再让自己的隐私数据“裸奔”，一种新的身份认证体系出现了](http://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83+%E4%B8%8D%E5%86%8D%E8%AE%A9%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9A%90%E7%A7%81%E6%95%B0%E6%8D%AE%E2%80%9C%E8%A3%B8%E5%A5%94%E2%80%9D%EF%BC%8C%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E4%BD%93%E7%B3%BB%E5%87%BA%E7%8E%B0%E4%BA%86)|
 |2023-09-15 08:40:47|[嘶吼 RoarTalk – 网络安全行业...](https://www.4hou.com/feed)|[国家网络安全宣传周   第三届“长城杯”网络安全大赛暨京津冀高校网络安全技能竞赛总决赛成功举办](https://www.4hou.com/posts/rq6E)|
 |2023-09-15 07:30:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[克服死亡恐惧症：3个思路让你远离死亡焦虑](http://www.huxiu.com/article/2050799.html?f=wangzhan)|
 |2023-09-15 07:00:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[始祖鸟，如何成为中产烧钱养的顶奢鸟？](http://www.huxiu.com/article/2057948.html?f=wangzhan)|
