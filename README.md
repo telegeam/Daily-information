@@ -1,7 +1,34 @@
-﻿# 每日资讯（2023-09-14）
+﻿# 每日资讯（2023-09-15）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-15 00:48:27|[V2EX](https://v2ex.com/index.xml)|[ 分享发现  北极鲶鱼, 满血复活](https://www.v2ex.com/t/973929#reply3)|
+|2023-09-15 00:47:47|[V2EX](https://v2ex.com/index.xml)|[ 游戏  有没有好的 switch 便携底座推荐？](https://www.v2ex.com/t/973928#reply1)|
+|2023-09-15 00:42:01|[V2EX](https://v2ex.com/index.xml)|[ 问与答  请留下一首你觉得好听的歌或者曲子](https://www.v2ex.com/t/973927#reply9)|
+|2023-09-15 00:35:22|[V2EX](https://v2ex.com/index.xml)|[ 问与答  有没有大佬开发的 bnb 夹子机器人](https://www.v2ex.com/t/973926#reply0)|
+|2023-09-15 00:25:46|[V2EX](https://v2ex.com/index.xml)|[ macOS  求助 arm macOS 倾斜摄影三维重建软件](https://www.v2ex.com/t/973924#reply0)|
+|2023-09-15 00:15:50|[V2EX](https://v2ex.com/index.xml)|[ 问与答  路由器回家，选择什么加密方式性能最佳？](https://www.v2ex.com/t/973923#reply2)|
+|2023-09-15 00:10:51|[V2EX](https://v2ex.com/index.xml)|[ 分享发现  独立开发变现周刊（第 104 期）：开发月收入 1000 美金的 Kindle 小工具](https://www.v2ex.com/t/973922#reply0)|
+|2023-09-15 08:00:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[独立开发变现周刊（第104期） : 开发月收入1000美金的Kindle小工具](https://buaq.net/go-177027.html)|
+|2023-09-15 06:41:19|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[What is Secure Shell  SSH  & How to Use It: Security & Best Practices](https://buaq.net/go-177048.html)|
+|2023-09-15 03:12:52|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[ 手动推广  IM 开源圈子太黑，自荐下 Turms 这一全球开源圈内最先进的 IM 项目 - V2EX](https://buaq.net/go-177040.html)|
+|2023-09-15 02:30:41|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Web Platform Weirdness: Babies and Bathwater](https://buaq.net/go-177041.html)|
+|2023-09-15 00:18:28|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[知名免费下载器FDM被黑三年多才被发现 而且这件事从头到尾都很吊诡](https://buaq.net/go-177036.html)|
+|2023-09-15 00:17:56|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Yocto, ROS 2, and Hardware Acceleration: A Production-Grade Trio for Robotics](https://buaq.net/go-177038.html)|
+|2023-09-15 00:00:39|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Web Weirdness: Probing Localhost](https://buaq.net/go-177039.html)|
+|2023-09-15 00:32:07|[精品MAC应用分享](https://xclient.info/feed)|[Scrutiny 12.7.10 网站SEO检测和优化工具](https://xclient.info/s/scrutiny.html)|
+|2023-09-15 00:31:04|[精品MAC应用分享](https://xclient.info/feed)|[Squeezer 2.8.0 图片压缩工具](https://xclient.info/s/squeezer.html)|
+|2023-09-15 00:30:17|[精品MAC应用分享](https://xclient.info/feed)|[Soulver 3.9.0 多功能计算器](https://xclient.info/s/soulver.html)|
+|2023-09-15 00:29:23|[精品MAC应用分享](https://xclient.info/feed)|[Integrity Pro 12.7.10 网站死链清理优化检测器](https://xclient.info/s/integrity-pro.html)|
+|2023-09-15 00:28:38|[精品MAC应用分享](https://xclient.info/feed)|[Screens 4.12.12 VNC客户端](https://xclient.info/s/screens.html)|
+|2023-09-15 00:30:00|[虎嗅](https://rss.huxiu.com/)|[“洋葱黑客”是如何击倒印度政治巨头的？](https://www.huxiu.com/article/2050373.html?f=rss)|
+|2023-09-15 00:27:38|[虎嗅](https://rss.huxiu.com/)|[天津同仁堂，又一次折戟IPO](https://www.huxiu.com/article/2054748.html?f=rss)|
+|2023-09-15 00:21:40|[虎嗅](https://rss.huxiu.com/)|[卖保险，正在顶起股份行财富管理的“半边天”](https://www.huxiu.com/article/2056124.html?f=rss)|
+|2023-09-15 00:18:13|[虎嗅](https://rss.huxiu.com/)|[Arm首日大涨近25%，孙正义喜提今年最大IPO](https://www.huxiu.com/article/2057587.html?f=rss)|
+|2023-09-15 00:12:13|[虎嗅](https://rss.huxiu.com/)|[摩托自由是多少雅加达人的梦想](https://www.huxiu.com/article/2056106.html?f=rss)|
+|2023-09-15 00:07:00|[虎嗅](https://rss.huxiu.com/)|[来自银河中心的奇怪射电信号，是外星人发出的？](https://www.huxiu.com/article/2057566.html?f=rss)|
+|2023-09-15 00:06:40|[虎嗅](https://rss.huxiu.com/)|[茅台和德芙将推出酒心巧克力，专家建议跨界要有度](https://www.huxiu.com/article/2056122.html?f=rss)|
+|2023-09-15 00:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[英媒：美国认为中国防长正接受北京调查](https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20230914-%E8%8B%B1%E5%AA%92-%E7%BE%8E%E5%9B%BD%E8%AE%A4%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E6%AD%A3%E6%8E%A5%E5%8F%97%E5%8C%97%E4%BA%AC%E8%B0%83%E6%9F%A5)|
 |2023-09-14 03:15:38|[明天的乌云](https://blog.xlab.app/atom.xml)|[让”低成本-高交互-定制化“的蜜罐成为可能](https://blog.xlab.app/p/4f53b9f3/)|
 |2023-09-14 07:50:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察   硬核观察 #1124 Unity 新的按安装次数定价激怒了游戏开发社区](https://linux.cn/article-16191-1.html?utm_source=rss&utm_medium=rss)|
 |2023-09-14 07:34:15|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[如何用机器学习模型打击虚拟货币犯罪？](https://www.infoq.cn/article/OdL3dMC44dKGM989m1wC)|
