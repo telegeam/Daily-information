@@ -2,6 +2,77 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-15 02:29:19|[煎蛋](https://plink.anyfeeder.com/jiandan)|[煎蛋快报  13 ](http://jandan.net/p/114214)|
+|2023-09-15 06:15:42|[V2EX](http://www.v2ex.com/index.xml)|[ Apple  想去华强北把 iPhone 14 Pro 改一下 TypeC 接口，有可操作性吗？](https://www.v2ex.com/t/974094#reply0)|
+|2023-09-15 06:15:41|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作   广州  外资企业   求系统架构开发专家+产品中台经验](https://www.v2ex.com/t/974093#reply0)|
+|2023-09-15 06:15:08|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题  恕我直言，现在的就业环境不好，未来的就业环境会更不好！](https://www.v2ex.com/t/974092#reply0)|
+|2023-09-15 06:14:45|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  解密 MySQL：索引—优化数据库性能的关键（一）](https://www.v2ex.com/t/974091#reply0)|
+|2023-09-15 06:12:47|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  有什么办法可以方便地测试网站在 ios safari 等浏览器上的表现么？](https://www.v2ex.com/t/974090#reply0)|
+|2023-09-15 06:12:11|[V2EX](http://www.v2ex.com/index.xml)|[ Apple  15 Pro 钛金属，可以不带套吗](https://www.v2ex.com/t/974089#reply0)|
+|2023-09-15 06:10:59|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  如何搭建镜像或软件包的发布站点](https://www.v2ex.com/t/974088#reply1)|
+|2023-09-15 06:09:16|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现  s-gm.mmstat.com
+啥玩意，为啥一上午给我干出 558 万的这种逆天纪录](https://www.v2ex.com/t/974086#reply1)|
+|2023-09-15 06:08:09|[V2EX](http://www.v2ex.com/index.xml)|[ Python  有没有 Python sandbox 或者 container，比 docker 更轻量级](https://www.v2ex.com/t/974085#reply0)|
+|2023-09-15 06:08:00|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  dapr 中请不要用 webscoket 连接](https://www.v2ex.com/t/974084#reply0)|
+|2023-09-15 06:05:00|[V2EX](http://www.v2ex.com/index.xml)|[ 装修  要装修了，链家的被窝儿和字节的住好家哪个更好啊，都是整装，有用过的朋友吗？](https://www.v2ex.com/t/974083#reply0)|
+|2023-09-15 05:59:56|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone  iPhone 15 pro 还值得抢吗？](https://www.v2ex.com/t/974080#reply1)|
+|2023-09-15 05:59:18|[V2EX](http://www.v2ex.com/index.xml)|[ Apple  某鱼上的企业监管机能入吗?](https://www.v2ex.com/t/974079#reply0)|
+|2023-09-15 05:58:33|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  老板在办公室抽雪茄，办公区弥漫着巨大的烟味，怎么破，提桶是唯一的选择吗？](https://www.v2ex.com/t/974078#reply17)|
+|2023-09-15 05:49:20|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作  招聘安卓上架经验老哥](https://www.v2ex.com/t/974076#reply0)|
+|2023-09-15 05:48:59|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现  分享一个自己超快速睡眠的方法](https://www.v2ex.com/t/974075#reply6)|
+|2023-09-15 05:42:33|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现  去医院看强迫症抑郁症和焦虑症了和大家分享下](https://www.v2ex.com/t/974074#reply0)|
+|2023-09-15 05:38:26|[V2EX](http://www.v2ex.com/index.xml)|[ VPS  各家 VPS 服务商主机购买测试、流媒体、三网回程](https://www.v2ex.com/t/974072#reply0)|
+|2023-09-15 05:34:42|[V2EX](http://www.v2ex.com/index.xml)|[ Linux  有没有大佬说一下学习 Linux 的 roadmap 啊～](https://www.v2ex.com/t/974070#reply2)|
+|2023-09-15 05:28:09|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone  换 iPhone 15 系列的一个恶心问题](https://www.v2ex.com/t/974066#reply13)|
+|2023-09-15 05:24:52|[V2EX](http://www.v2ex.com/index.xml)|[ macOS  ￼Sonoma 还有自带简体中文拼音输入法转圈圈的 bug 吗](https://www.v2ex.com/t/974065#reply2)|
+|2023-09-15 05:20:34|[V2EX](http://www.v2ex.com/index.xml)|[ 全球工单系统  升级到 iOS17 后 dnspod 的 doh 不知道为什么不能用了](https://www.v2ex.com/t/974063#reply1)|
+|2023-09-15 05:19:03|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作  新加坡交易所招人](https://www.v2ex.com/t/974062#reply2)|
+|2023-09-15 05:03:58|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  底层网络数据传输检验方法](https://www.v2ex.com/t/974060#reply1)|
+|2023-09-15 04:59:38|[V2EX](http://www.v2ex.com/index.xml)|[ Linux  请问 debian 和 ubuntu 之间怎么做选择？](https://www.v2ex.com/t/974059#reply35)|
+|2023-09-15 04:51:16|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  WebStorm 和 vscode 的格式化结果不一样,是否有办法让他们保持结果一致?](https://www.v2ex.com/t/974057#reply5)|
+|2023-09-15 04:48:12|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  感觉有个机会，公司搬家了，新地点附近没有便利店，买烟水极其不方便想开便利店，帖子细说。](https://www.v2ex.com/t/974056#reply15)|
+|2023-09-15 04:47:11|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现  Digitalvirt 主机购买测试、解锁、测试](https://www.v2ex.com/t/974055#reply0)|
+|2023-09-15 04:34:41|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone  手持 iPhone 12 该如何处理](https://www.v2ex.com/t/974053#reply8)|
+|2023-09-15 04:25:58|[V2EX](http://www.v2ex.com/index.xml)|[ macOS  macOS 窗口小化 bug](https://www.v2ex.com/t/974051#reply8)|
+|2023-09-15 04:22:19|[V2EX](http://www.v2ex.com/index.xml)|[ Linux  各位的 Linux 系统以及终端背景都用的啥壁纸，能否欣赏一下](https://www.v2ex.com/t/974049#reply8)|
+|2023-09-15 04:20:54|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  我的罗技 G610 键盘进水了好伤心](https://www.v2ex.com/t/974048#reply6)|
+|2023-09-15 04:20:45|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  光通信研究生选择：北邮 or 成电？](https://www.v2ex.com/t/974047#reply4)|
+|2023-09-15 04:14:35|[V2EX](http://www.v2ex.com/index.xml)|[ NAS  QYGD 12500T es 做 NAS 怎么样？](https://www.v2ex.com/t/974046#reply0)|
+|2023-09-15 04:09:58|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现  交易实例：闲鱼交易遇到卖假货的，退货运费将由卖方出。](https://www.v2ex.com/t/974045#reply4)|
+|2023-09-15 03:59:31|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  APP 开屏广告怎么去掉？](https://www.v2ex.com/t/974042#reply10)|
+|2023-09-15 03:49:45|[V2EX](http://www.v2ex.com/index.xml)|[ 香港  去香港玩几天，求建议](https://www.v2ex.com/t/974040#reply1)|
+|2023-09-15 03:47:11|[V2EX](http://www.v2ex.com/index.xml)|[ Chrome  Chrome 新版本的控制台颜色，看得我好难受啊啊啊](https://www.v2ex.com/t/974038#reply0)|
+|2023-09-15 03:47:10|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI  google play 版 chatgpt 客户端登录成功的秘诀是啥？](https://www.v2ex.com/t/974037#reply1)|
+|2023-09-15 03:43:38|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作  web 全栈开发工程师 远程岗位  10k-18k](https://www.v2ex.com/t/974036#reply0)|
+|2023-09-15 03:41:52|[V2EX](http://www.v2ex.com/index.xml)|[ Python  在下网工，求个脚本。](https://www.v2ex.com/t/974035#reply15)|
+|2023-09-15 03:37:22|[V2EX](http://www.v2ex.com/index.xml)|[ 硬件  有没有什么 27 寸 4k 显示器推荐](https://www.v2ex.com/t/974034#reply6)|
+|2023-09-15 03:35:22|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  打算配置一台 i9 4090 的主机，自己配还是直接买整机](https://www.v2ex.com/t/974033#reply0)|
+|2023-09-15 03:35:04|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题  科技的尽头是算命](https://www.v2ex.com/t/974032#reply14)|
+|2023-09-15 03:33:29|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  写字真能陶冶情操吗](https://www.v2ex.com/t/974031#reply3)|
+|2023-09-15 03:32:52|[V2EX](http://www.v2ex.com/index.xml)|[ OpenWrt  Win11 小主机 + hyper-v + openwrt + 小米 ax3000（作为 ap）总是断网](https://www.v2ex.com/t/974030#reply1)|
+|2023-09-15 03:30:06|[V2EX](http://www.v2ex.com/index.xml)|[ YouTube  Youtube 首页打开要 12 秒是什么原因？](https://www.v2ex.com/t/974029#reply1)|
+|2023-09-15 03:26:54|[V2EX](http://www.v2ex.com/index.xml)|[ 云计算  ✅腾讯云海外轻量常规折扣！顶级代理 稳定靠谱](https://www.v2ex.com/t/974026#reply0)|
+|2023-09-15 03:26:29|[V2EX](http://www.v2ex.com/index.xml)|[ 云修电脑  电脑开机风扇转，显示器没反应、机箱硬盘灯不闪烁](https://www.v2ex.com/t/974025#reply6)|
+|2023-09-15 03:25:14|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone  iPhone 15 使用 USB 2.0 的原因](https://www.v2ex.com/t/974024#reply29)|
+|2023-09-15 04:33:00|[嘶吼 RoarTalk – 网络安全行业...](https://www.4hou.com/feed)|[塑造网络安全行业未来格局的九大技术趋势](https://www.4hou.com/posts/4vqn)|
+|2023-09-15 14:00:00|[瓦解的生活记事](https://hin.cool/atom.xml)|[1.99元的迅雷学生卡或许很鸡肋](https://hin.cool/posts/xunleixueshengka.html)|
+|2023-09-15 05:00:26|[小众软件](https://plink.anyfeeder.com/appinn)|[FoodCa – 「一勺西瓜，半杯橙汁」AI 帮你自动识别记录热量，身材管理必备 iPhone ](https://www.appinn.com/foodca/)|
+|2023-09-15 05:06:02|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[为何俄美双双向朝鲜半岛寻求武器弹药](https://cn.nytimes.com/asia-pacific/20230915/north-south-korea-ukraine/dual)|
+|2023-09-15 02:36:02|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[中国央行下调存款准备金率刺激放贷](https://cn.nytimes.com/business/20230915/peoples-bank-of-china-reserve-requirement/dual)|
+|2023-09-15 01:36:03|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[中国在西太平洋大规模军演，反击美国施压](https://cn.nytimes.com/china/20230915/china-ships-taiwan-japan/dual)|
+|2023-09-15 04:31:19|[爱范儿](https://plink.anyfeeder.com/ifanr)|[对话苹果软件工程高级副总裁 Craig Federighi：最好的安全就像安全气囊](https://www.ifanr.com/1562124?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-15 06:02:46|[虎嗅](https://rss.huxiu.com/)|[“认房不认贷”15天：“老破小”争打价格战，买家持币围观降价](https://www.huxiu.com/article/2058487.html?f=rss)|
+|2023-09-15 05:54:10|[虎嗅](https://rss.huxiu.com/)|[高空的“大河”，会是预测极端天气的钥匙吗？](https://www.huxiu.com/article/2058444.html?f=rss)|
+|2023-09-15 05:25:00|[虎嗅](https://rss.huxiu.com/)|[8家国产大模型，内容真实性如何？](https://www.huxiu.com/article/2058815.html?f=rss)|
+|2023-09-15 05:22:00|[虎嗅](https://rss.huxiu.com/)|[650亿美元全球最大IPO，Arm准备“收割”全球半导体巨头](https://www.huxiu.com/article/2058764.html?f=rss)|
+|2023-09-15 05:16:15|[虎嗅](https://rss.huxiu.com/)|[台积电与苹果“对赌”3nm芯片，和三星决“生死”](https://www.huxiu.com/article/2058757.html?f=rss)|
+|2023-09-15 05:00:00|[虎嗅](https://rss.huxiu.com/)|[广西，何时不再做广东人的广西？](https://www.huxiu.com/article/2057863.html?f=rss)|
+|2023-09-15 04:54:39|[虎嗅](https://rss.huxiu.com/)|[缅甸诈骗手册：中科院博士揭露诈骗真实细节](https://www.huxiu.com/article/2057908.html?f=rss)|
+|2023-09-15 04:05:43|[虎嗅](https://rss.huxiu.com/)|[一个创业团队的作死之路](https://www.huxiu.com/article/2058449.html?f=rss)|
+|2023-09-15 04:03:00|[虎嗅](https://rss.huxiu.com/)|[比起马斯克的疯狂，他的这一点更可怕](https://www.huxiu.com/article/2057829.html?f=rss)|
+|2023-09-15 04:00:01|[虎嗅](https://rss.huxiu.com/)|[年入千亿，新华书店到底靠什么赚钱？](https://www.huxiu.com/article/2054765.html?f=rss)|
+|2023-09-15 03:50:40|[虎嗅](https://rss.huxiu.com/)|[不惑之年去创业，只为打造“爆款”机器人？](https://www.huxiu.com/article/2054667.html?f=rss)|
+|2023-09-15 03:46:42|[虎嗅](https://rss.huxiu.com/)|[5元自助糖水，是一门可以打败雪王的超级生意？](https://www.huxiu.com/article/2058450.html?f=rss)|
 |2023-09-15 01:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[日本陆上自卫队与美国海军陆战队的离岛防卫实战训练的规模将从2800名队员扩大到5000人](https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20230915-%E6%97%A5%E6%9C%AC%E9%99%86%E4%B8%8A%E8%87%AA%E5%8D%AB%E9%98%9F%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%E7%9A%84%E7%A6%BB%E5%B2%9B%E9%98%B2%E5%8D%AB%E5%AE%9E%E6%88%98%E8%AE%AD%E7%BB%83%E7%9A%84%E8%A7%84%E6%A8%A1%E5%B0%86%E4%BB%8E2800%E5%90%8D%E9%98%9F%E5%91%98%E6%89%A9%E5%A4%A7%E5%88%B05000%E4%BA%BA)|
 |2023-09-15 01:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[美国宣布制裁逾150个被控援助俄罗斯的实体和个人](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20230915-%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%88%B6%E8%A3%81%E9%80%BE150%E4%B8%AA%E8%A2%AB%E6%8E%A7%E6%8F%B4%E5%8A%A9%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E5%AE%9E%E4%BD%93%E5%92%8C%E4%B8%AA%E4%BA%BA)|
 |2023-09-15 01:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[厄尔尼诺现象与2023农业收成](https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20230915-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E7%A4%BE%E4%BC%9A-%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E7%8E%B0%E8%B1%A1%E4%B8%8E2023%E5%86%9C%E4%B8%9A%E6%94%B6%E6%88%90)|
