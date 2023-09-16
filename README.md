@@ -1,7 +1,15 @@
-﻿# 每日资讯（2023-09-15）
+﻿# 每日资讯（2023-09-16）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-16 00:51:49|[V2EX](https://v2ex.com/index.xml)|[ 投资  最近了解到了国内现货平台。有了解的老哥吗](https://www.v2ex.com/t/974322#reply0)|
+|2023-09-16 00:34:26|[V2EX](https://v2ex.com/index.xml)|[ 问与答  大家用什么跨平台收藏工具？](https://www.v2ex.com/t/974320#reply0)|
+|2023-09-16 00:03:47|[V2EX](https://v2ex.com/index.xml)|[ 问与答  有什么图片编辑工具可以一键换背景？](https://www.v2ex.com/t/974319#reply1)|
+|2023-09-16 02:10:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Capslock: What is your code really capable of?](https://buaq.net/go-177121.html)|
+|2023-09-16 01:19:27|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Critical WebP bug: many apps, not just browsers, under threat](https://buaq.net/go-177119.html)|
+|2023-09-16 01:12:07|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Security: Tradeoffs](https://buaq.net/go-177120.html)|
+|2023-09-16 00:40:06|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[New Report: 2023 Gartner® Critical Capabilities for Single-Vendor SASE](https://buaq.net/go-177122.html)|
+|2023-09-16 00:16:12|[极客公园](https://plink.anyfeeder.com/geekpark)|[一句话，一篇文档，交给 AI，PPT 转身就有](http://www.geekpark.net/news/324814)|
 |2023-09-15 10:10:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  真心求大家帮我看下这件事情到底严不严重](https://www.v2ex.com/t/974210#reply0)|
 |2023-09-15 10:09:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  有没有经验丰富的老哥说下，如果购买 iPhone 15 ，官方 apple store 、京东、淘宝哪个发货最快。](https://www.v2ex.com/t/974209#reply1)|
 |2023-09-15 10:00:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答   手机  小米相册设置了应用锁，微信还能打开相册，有解决方式拦截吗？](https://www.v2ex.com/t/974208#reply0)|
