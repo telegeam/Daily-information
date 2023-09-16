@@ -2,6 +2,65 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-16 05:06:23|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro  用了半年的 mac magsafe 充电器就接触不良了](https://www.v2ex.com/t/974371#reply0)|
+|2023-09-16 05:05:37|[V2EX](https://www.v2ex.com/index.xml)|[ macOS  Mac 新手入门](https://www.v2ex.com/t/974370#reply1)|
+|2023-09-16 04:53:49|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone  iPhone 15 系列 USB-C 充电线，还有认证吗？](https://www.v2ex.com/t/974368#reply1)|
+|2023-09-16 04:53:37|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  有熟悉录屏的朋友指教一二](https://www.v2ex.com/t/974367#reply1)|
+|2023-09-16 04:51:26|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员  独立开发者是怎么做 UI 设计的？](https://www.v2ex.com/t/974366#reply5)|
+|2023-09-16 04:46:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  求推荐一款扩展坞](https://www.v2ex.com/t/974365#reply1)|
+|2023-09-16 04:41:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员  独立开发可以做哪些产品，有哪些形式？](https://www.v2ex.com/t/974364#reply0)|
+|2023-09-16 04:33:20|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone  经常误触 iPhone 锁屏界面手电筒和相机](https://www.v2ex.com/t/974363#reply4)|
+|2023-09-16 04:25:23|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  为啥沸羊羊那么多？](https://www.v2ex.com/t/974362#reply7)|
+|2023-09-16 04:16:12|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员  请问一个新设计的程序语言，是选择 camelCase 好，还是先择 snake_case 好？](https://www.v2ex.com/t/974361#reply16)|
+|2023-09-16 03:37:32|[V2EX](https://www.v2ex.com/index.xml)|[ VPS  v.ps 的机器还能要吗？](https://www.v2ex.com/t/974359#reply4)|
+|2023-09-16 03:29:10|[V2EX](https://www.v2ex.com/index.xml)|[ 互联网  看到某宽带回访未好评竟被泄露个人信息，想知道美团外卖匿名评价会不会泄露给店家](https://www.v2ex.com/t/974356#reply4)|
+|2023-09-16 03:24:12|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  iPhone 手机的 WhatsApp 解封后出现 You need the official WhatsApp to use this account 多番尝试无法解决该怎么办？](https://www.v2ex.com/t/974355#reply2)|
+|2023-09-16 03:23:03|[V2EX](https://www.v2ex.com/index.xml)|[ Spotify  Spotify 菲律宾区家庭组](https://www.v2ex.com/t/974354#reply0)|
+|2023-09-16 03:11:53|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现  阅微的网络日志 #23](https://www.v2ex.com/t/974353#reply0)|
+|2023-09-16 03:04:00|[V2EX](https://www.v2ex.com/index.xml)|[ Python  Python 潮流周刊第 20 期（摘要）](https://www.v2ex.com/t/974352#reply0)|
+|2023-09-16 03:01:50|[V2EX](https://www.v2ex.com/index.xml)|[ 北京  驾考还在北京没考完! 快要过期了 又是纠结](https://www.v2ex.com/t/974351#reply19)|
+|2023-09-16 03:01:26|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员  198.18.0.2 是什么？](https://www.v2ex.com/t/974350#reply11)|
+|2023-09-16 02:52:08|[V2EX](https://www.v2ex.com/index.xml)|[ PostgreSQL  macOS 上能够绿色安装 postgresql 吗？](https://www.v2ex.com/t/974349#reply7)|
+|2023-09-16 02:44:58|[V2EX](https://www.v2ex.com/index.xml)|[ Apple  JD 首发的 15pro 是多久发货的呀](https://www.v2ex.com/t/974348#reply1)|
+|2023-09-16 02:42:33|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI  问题来了,你是选择 poe 还是 chatgpt 官网开通 plus?](https://www.v2ex.com/t/974347#reply2)|
+|2023-09-16 02:40:36|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员  我的第一个海外工具站](https://www.v2ex.com/t/974346#reply0)|
+|2023-09-16 02:39:44|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题  关于周六加班](https://www.v2ex.com/t/974345#reply13)|
+|2023-09-16 02:39:09|[V2EX](https://www.v2ex.com/index.xml)|[ VPS  搬瓦工$49.99CN2 只有洛杉矶的？](https://www.v2ex.com/t/974344#reply0)|
+|2023-09-16 02:35:49|[V2EX](https://www.v2ex.com/index.xml)|[ C++  fsantinize 弱智](https://www.v2ex.com/t/974343#reply18)|
+|2023-09-16 02:30:43|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题  请问下大家是继续留在北京还是回杭州](https://www.v2ex.com/t/974342#reply15)|
+|2023-09-16 02:21:48|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题  我感觉自己是个躺平的人，所以我佩服很多人](https://www.v2ex.com/t/974340#reply15)|
+|2023-09-16 02:09:14|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  求这个艺术字体或类似的](https://www.v2ex.com/t/974337#reply2)|
+|2023-09-16 02:08:50|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员  35 岁再去学程序员靠谱吗?](https://www.v2ex.com/t/974336#reply2)|
+|2023-09-16 02:05:03|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作   远程  高级 C++，月薪 20K-50K](https://www.v2ex.com/t/974335#reply2)|
+|2023-09-16 02:03:36|[V2EX](https://www.v2ex.com/index.xml)|[ Chrome  推荐一些的 Chrome flags](https://www.v2ex.com/t/974334#reply4)|
+|2023-09-16 01:59:14|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答  2023 有没有便宜的能 root 的 android 开发机?](https://www.v2ex.com/t/974333#reply14)|
+|2023-09-16 01:49:34|[V2EX](https://www.v2ex.com/index.xml)|[ VPS  为啥腾讯云阿里云的带宽都这么小的？](https://www.v2ex.com/t/974332#reply14)|
+|2023-09-16 01:39:22|[V2EX](https://www.v2ex.com/index.xml)|[ Android  求 android 大佬解惑](https://www.v2ex.com/t/974329#reply2)|
+|2023-09-16 01:27:34|[V2EX](https://www.v2ex.com/index.xml)|[ Python  求助， curl 转 Python 代码](https://www.v2ex.com/t/974328#reply4)|
+|2023-09-16 01:14:41|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员  一个简易的不额外联网的图片打水印工具，可以给身份证等全局加水印](https://www.v2ex.com/t/974327#reply7)|
+|2023-09-16 01:12:14|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群  中移香港打造“5G Advanced”助力香港建设智慧城市](https://www.v2ex.com/t/974325#reply6)|
+|2023-09-16 03:06:29|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊第 20 期（摘要）](https://w2solo.com/topics/4140)|
+|2023-09-16 04:54:00|[虎嗅](https://rss.huxiu.com/)|[中东土豪，要开大湾区办公室了](https://www.huxiu.com/article/2062422.html?f=rss)|
+|2023-09-16 04:45:00|[虎嗅](https://rss.huxiu.com/)|[你每天都在用的数据线，背后居然有一场百亿商战](https://www.huxiu.com/article/2062470.html?f=rss)|
+|2023-09-16 04:01:00|[虎嗅](https://rss.huxiu.com/)|[当人们都变成犀牛，你是随大流还是坚持做个人？](https://www.huxiu.com/article/2062421.html?f=rss)|
+|2023-09-16 04:00:00|[虎嗅](https://rss.huxiu.com/)|[在中国花俄罗斯卢布，老板夸我是“冤种”](https://www.huxiu.com/article/2056954.html?f=rss)|
+|2023-09-16 03:55:30|[虎嗅](https://rss.huxiu.com/)|[离婚人数连续三年下降，为什么？](https://www.huxiu.com/article/2060245.html?f=rss)|
+|2023-09-16 03:15:08|[虎嗅](https://rss.huxiu.com/)|[ETF大战：没有最卷，只有更卷](https://www.huxiu.com/article/2059922.html?f=rss)|
+|2023-09-16 03:05:00|[虎嗅](https://rss.huxiu.com/)|[“认房不认贷”后，上海二手楼市如何？](https://www.huxiu.com/article/2062187.html?f=rss)|
+|2023-09-16 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[老板，你用预制菜就不能提前说一声吗？](https://36kr.com/p/2432706011140745)|
+|2023-09-16 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[字节连发两款AI视频工具，一句话完成换脸、编辑，网友直呼Runway不香了！](https://36kr.com/p/2417388284961540)|
+|2023-09-16 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“12306崩了”，上亿打工人忙着十一出行](https://36kr.com/p/2432972975329670)|
+|2023-09-16 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[7分钟开发一个游戏，成本1美元不到，ChatGPT造了一家软件开发公司，还有AI版CEO、CTO、程序员......](https://36kr.com/p/2432870778245512)|
+|2023-09-16 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[蜂花洗头、白象泡面，老国货掀起“最朴实无华”的商战](https://36kr.com/p/2433311084106116)|
+|2023-09-16 03:05:32|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国汽车业大罢工波及北美9%汽车产能 福特临时裁员600人](https://m.cnbeta.com.tw/view/1384283.htm)|
+|2023-09-16 03:05:18|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Meta的下一款智能眼镜可能刚刚出现在FCC文档中](https://m.cnbeta.com.tw/view/1384281.htm)|
+|2023-09-16 02:36:11|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[复兴号亚运智能动车组首次载客运行 鹰隼车头 5G+WiFi全覆盖](https://m.cnbeta.com.tw/view/1384273.htm)|
+|2023-09-16 02:35:55|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果秘密团队换帅：乔布斯拍板，研发13载的无创血糖监测终于来了？](https://m.cnbeta.com.tw/view/1384261.htm)|
+|2023-09-16 02:35:44|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克“友妻门”的受害者？谷歌创始人正式离婚](https://m.cnbeta.com.tw/view/1384259.htm)|
+|2023-09-16 02:35:29|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[新款Model Y长这样？外媒称特斯拉已立项改款 或2024年十月亮相](https://m.cnbeta.com.tw/view/1384257.htm)|
+|2023-09-16 02:35:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果iPhone 15需求火爆：Pro Max交货时间最晚已延迟至11月](https://m.cnbeta.com.tw/view/1384255.htm)|
+|2023-09-16 05:03:28|[蓝点网](https://www.landiannews.com/feed)|[iPhone 15系列的USB-C接口并未限制MFI认证数据线 此前消息为谣言](https://www.landiannews.com/archives/100284.html)|
+|2023-09-16 04:36:28|[蓝点网](https://www.landiannews.com/feed)|[ 更新  知名免费下载器FDM被黑三年多才被发现 而且这件事从头到尾都很吊诡](https://www.landiannews.com/archives/100274.html)|
 |2023-09-16 02:58:28|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻   openSUSE 将用新产品取代 Leap](https://linux.cn/article-16195-1.html?utm_source=rss&utm_medium=rss)|
 |2023-09-16 03:44:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[Mirai僵尸网络变种&quot;Pandora&quot;针对安卓电视进行攻击](https://www.4hou.com/posts/wyAM)|
 |2023-09-16 03:33:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[攻击者通过精心制作的Excel文档传播新的AgentTesla变体](https://www.4hou.com/posts/RK0K)|
