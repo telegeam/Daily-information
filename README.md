@@ -2,6 +2,38 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-16 16:39:25|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Newsletter in Hardware Acceleration in Robotics #77](https://buaq.net/go-177166.html)|
+|2023-09-16 16:32:54|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[文字生成歌曲（Text-to-Sing）](https://buaq.net/go-177168.html)|
+|2023-09-16 16:32:11|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[纸砚（双拼练习工具）](https://buaq.net/go-177169.html)|
+|2023-09-16 16:31:58|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Deadswitch 3（2D多人射击游戏）](https://buaq.net/go-177170.html)|
+|2023-09-16 16:31:42|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Windows7模拟器（Try Andy’s Desk）](https://buaq.net/go-177171.html)|
+|2023-09-16 16:31:15|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[文字故障（The Best Glitch）](https://buaq.net/go-177172.html)|
+|2023-09-16 16:14:50|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Reader – 「专业」小说阅读器，可以在桌面任何地方，还能透明背景](https://buaq.net/go-177167.html)|
+|2023-09-16 13:23:50|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[谷歌正在内测新AI模型集合Gemini 为企业和消费者提供GPT-4替代方案](https://buaq.net/go-177162.html)|
+|2023-09-16 13:03:28|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[iPhone 15系列的USB-C接口并未限制MFI认证数据线 此前消息为谣言](https://buaq.net/go-177163.html)|
+|2023-09-16 11:44:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Mirai僵尸网络变种&quot;Pandora&quot;针对安卓电视进行攻击](https://buaq.net/go-177159.html)|
+|2023-09-16 11:33:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[攻击者通过精心制作的Excel文档传播新的AgentTesla变体](https://buaq.net/go-177151.html)|
+|2023-09-16 08:14:50|[小众软件](https://plink.anyfeeder.com/appinn)|[Reader – 「专业」小说阅读器，可以在桌面任何地方，还能透明背景](https://www.appinn.com/binbyu-reader/)|
+|2023-09-16 08:31:15|[爱范儿](https://www.ifanr.com/feed)|[蔚来新 EC6 售价揭晓，灵境紫的绝美线条，让李斌不再遗憾](https://www.ifanr.com/1562187?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-16 07:20:57|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[Tomcat 系列篇二-介绍下整体架构](https://nicksxs.me/2023/09/16/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E4%BA%8C-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Engine/)|
+|2023-09-16 09:38:00|[虎嗅](https://rss.huxiu.com/)|[深度解读地方债，房地产或是关键](https://www.huxiu.com/article/2063138.html?f=rss)|
+|2023-09-16 09:21:00|[虎嗅](https://rss.huxiu.com/)|[14万美国汽车工人罢工：要求涨薪幅度高过CEO](https://www.huxiu.com/article/2063143.html?f=rss)|
+|2023-09-16 08:30:00|[虎嗅](https://rss.huxiu.com/)|[上市圈钱只为还债，把股民的钱装进老板的袋子里？](https://www.huxiu.com/article/2060816.html?f=rss)|
+|2023-09-16 08:21:00|[虎嗅](https://rss.huxiu.com/)|[及时行乐的消费行为，年轻人的安慰剂](https://www.huxiu.com/article/2062748.html?f=rss)|
+|2023-09-16 07:40:21|[虎嗅](https://rss.huxiu.com/)|[争当穷鬼的年轻人，带火“抠门经济”](https://www.huxiu.com/article/2062408.html?f=rss)|
+|2023-09-16 07:30:01|[虎嗅](https://rss.huxiu.com/)|[李佳琦塌房，东方甄选翻车，直播带货还有救吗？](https://www.huxiu.com/article/2060289.html?f=rss)|
+|2023-09-16 07:10:00|[虎嗅](https://rss.huxiu.com/)|[“我的片子进戛纳了，演员90%是潮汕亲戚”](https://www.huxiu.com/article/2062757.html?f=rss)|
+|2023-09-16 07:00:15|[虎嗅](https://rss.huxiu.com/)|[一个护理人员眼中的日本老人生存困境](https://www.huxiu.com/article/2054766.html?f=rss)|
+|2023-09-16 06:30:01|[虎嗅](https://rss.huxiu.com/)|[走，带你追一场绝美秋天](https://www.huxiu.com/article/2059918.html?f=rss)|
+|2023-09-16 06:18:00|[虎嗅](https://rss.huxiu.com/)|[还有75%电，车就瘫了？公交公司告了亚星客车](https://www.huxiu.com/article/2062482.html?f=rss)|
+|2023-09-16 05:30:00|[虎嗅](https://rss.huxiu.com/)|[新能源充电不断涨价，电动车还值得买吗？](https://www.huxiu.com/article/2059808.html?f=rss)|
+|2023-09-16 05:19:00|[虎嗅](https://rss.huxiu.com/)|[从30Pin到USB-C，聊聊iPhone接口的变化](https://www.huxiu.com/article/2062740.html?f=rss)|
+|2023-09-16 03:13:01|[BBC](https://plink.anyfeeder.com/bbc/cn)|[中国房地产税、普京会见金正恩、华为新手机和本周更多重要故事](https://www.bbc.com/zhongwen/simp/press-review-66818331)|
+|2023-09-16 02:35:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[fsantinize 弱智](https://www.v2ex.com/t/974343#reply50)|
+|2023-09-16 04:16:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请问一个新设计的程序语言，是选择 camelCase 好，还是先择 snake_case 好？](https://www.v2ex.com/t/974361#reply61)|
+|2023-09-16 08:30:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[办公室一个电脑不能用浏览器打开网页等问题](https://www.v2ex.com/t/974410#reply7)|
+|2023-09-16 04:51:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[独立开发者是怎么做 UI 设计的？](https://www.v2ex.com/t/974366#reply26)|
+|2023-09-16 07:42:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[GitHub 要被微软搞坏了吗？](https://www.v2ex.com/t/974402#reply10)|
 |2023-09-16 03:03:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[因违反儿童隐私保护法，TikTok 被罚款 3.45 亿欧元](https://dig.chouti.com/link/39998717)|
 |2023-09-16 08:46:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[动漫《龙珠》撒旦先生一个手刀劈碎半米多高十四片厚瓦，放在现实格斗家中是什么战斗力？//不好意思，撒旦在现实里，是白银圣斗士的水平！绝不夸张！撒旦的下劈速度超越了力在瓦片中的传递速度，也就是超越音速](https://dig.chouti.com/link/40001309)|
 |2023-09-16 03:10:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[墨西哥外星人的“能好怎”问题解决了！ via purity ](https://dig.chouti.com/link/39998852)|
