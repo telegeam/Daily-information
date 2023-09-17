@@ -1,7 +1,13 @@
-﻿# 每日资讯（2023-09-16）
+﻿# 每日资讯（2023-09-17）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-17 00:49:33|[V2EX](https://v2ex.com/index.xml)|[ iCloud  你们收到了国区 iCloud 条款推送了吗？](https://www.v2ex.com/t/974512#reply1)|
+|2023-09-17 00:48:05|[V2EX](https://v2ex.com/index.xml)|[ 问与答  requests 如何签到 v2ex?](https://www.v2ex.com/t/974511#reply0)|
+|2023-09-17 00:32:55|[V2EX](https://v2ex.com/index.xml)|[ YouTube  印度家庭组🇮🇳Youtube 会员，补 2 人](https://www.v2ex.com/t/974510#reply0)|
+|2023-09-17 00:28:55|[V2EX](https://v2ex.com/index.xml)|[ 问与答  阿里云盘 TV 版体验如何？](https://www.v2ex.com/t/974509#reply1)|
+|2023-09-17 00:15:16|[V2EX](https://v2ex.com/index.xml)|[ Apple  求问 infuse 动漫命名](https://www.v2ex.com/t/974507#reply3)|
+|2023-09-17 00:07:26|[V2EX](https://v2ex.com/index.xml)|[ 分享发现  各位，如果让你推荐 3 本书，你会推荐哪 3 本啊](https://www.v2ex.com/t/974506#reply2)|
 |2023-09-16 16:39:25|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Newsletter in Hardware Acceleration in Robotics #77](https://buaq.net/go-177166.html)|
 |2023-09-16 16:32:54|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[文字生成歌曲（Text-to-Sing）](https://buaq.net/go-177168.html)|
 |2023-09-16 16:32:11|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[纸砚（双拼练习工具）](https://buaq.net/go-177169.html)|
