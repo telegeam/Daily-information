@@ -2,6 +2,47 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-18 03:13:11|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17 更新時間 已確定！更新前你應該注意的 6 個重點](https://applefans.today/2023-09-what-to-do-before-ios-17-upgrade/)|
+|2023-09-18 03:29:48|[精品MAC应用分享](https://xclient.info/feed)|[SpeakMe 2.2 文字转音频](https://xclient.info/s/speakme.html)|
+|2023-09-18 03:28:55|[精品MAC应用分享](https://xclient.info/feed)|[Principle 6.32 Mac平台交互动效设计神器](https://xclient.info/s/principle.html)|
+|2023-09-18 03:28:07|[精品MAC应用分享](https://xclient.info/feed)|[Adobe Photoshop CC 2023 25.0](https://xclient.info/s/adobe-photoshop-cc.html)|
+|2023-09-18 03:17:51|[精品MAC应用分享](https://xclient.info/feed)|[Yoink 3.6.86 文件临时存放站](https://xclient.info/s/yoink.html)|
+|2023-09-18 03:17:06|[精品MAC应用分享](https://xclient.info/feed)|[PCalc 4.10.7 全功能科学计算器](https://xclient.info/s/pcalc.html)|
+|2023-09-18 05:36:02|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[美国官员称中国国防部长李尚福正接受调查](https://cn.nytimes.com/china/20230918/xi-china-military-general-li-shangfu/dual)|
+|2023-09-18 05:06:03|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[另一场贸易战：进口化妆品在中国遇挫](https://cn.nytimes.com/business/20230918/china-cosmetic-imports/dual)|
+|2023-09-18 03:06:03|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[美官员称中国已暂停间谍气球项目，但可能重启](https://cn.nytimes.com/china/20230918/china-spy-balloon-program-paused/dual)|
+|2023-09-18 02:36:03|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[普京金正恩“兄弟情”或令习近平为难](https://cn.nytimes.com/asia-pacific/20230918/china-putin-kim/dual)|
+|2023-09-18 01:36:03|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[解读中国最新经济数据：触底反弹在即还是持续疲软](https://cn.nytimes.com/business/20230918/china-economy-retail-sales/dual)|
+|2023-09-18 03:01:49|[少数派](https://plink.anyfeeder.com/sspai)|[Obsidian + Excalidraw：我的个人知识管理可视化方法论](https://sspai.com/post/82130)|
+|2023-09-18 07:08:58|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  老是有人发 Bug bounty 邮件要求给奖金怎么搞啊?](https://www.v2ex.com/t/974858#reply0)|
+|2023-09-18 07:06:49|[V2EX](http://www.v2ex.com/index.xml)|[ 开源软件  开源项目 GoProxy 的 v13.9 版本报木马，而作者直接删除 Issue 了事。](https://www.v2ex.com/t/974857#reply0)|
+|2023-09-18 07:01:31|[V2EX](http://www.v2ex.com/index.xml)|[ MySQL  not in 场景下，下面四个方案哪个是最优解呢？](https://www.v2ex.com/t/974856#reply0)|
+|2023-09-18 07:00:51|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  收点 U， 50U，买个东西](https://www.v2ex.com/t/974855#reply0)|
+|2023-09-18 07:00:29|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现  有没有需要避免的消费陷阱，大家来说说看？](https://www.v2ex.com/t/974854#reply2)|
+|2023-09-18 07:00:18|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  技术方案求推荐，简单上报服务器信息到 node 服务](https://www.v2ex.com/t/974853#reply5)|
+|2023-09-18 06:55:38|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  有必要上人脸识别的智能门锁吗？](https://www.v2ex.com/t/974851#reply2)|
+|2023-09-18 06:53:06|[V2EX](http://www.v2ex.com/index.xml)|[ 广州  广州国庆期间如何找到便宜的租车？](https://www.v2ex.com/t/974850#reply1)|
+|2023-09-18 06:48:02|[V2EX](http://www.v2ex.com/index.xml)|[ WhatsApp  ios whatsapp 无法注册登陆，+86 后面部分无法输入号码](https://www.v2ex.com/t/974849#reply0)|
+|2023-09-18 06:45:38|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  手持 iPhone13 因杀后台严重，想 iPhone 安卓双持，魅族 20 可以吗？](https://www.v2ex.com/t/974848#reply0)|
+|2023-09-18 06:44:29|[V2EX](http://www.v2ex.com/index.xml)|[ 北京  如何评价北京的建筑风格](https://www.v2ex.com/t/974847#reply0)|
+|2023-09-18 06:37:34|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  有什么开源能自建的文档知识库吗？类似雨雀、幕布这样功能的？](https://www.v2ex.com/t/974845#reply0)|
+|2023-09-18 06:23:35|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  技嘉主板 F9 版本 BIOS 的 Wake on LAN 设置](https://www.v2ex.com/t/974842#reply0)|
+|2023-09-18 06:23:18|[V2EX](http://www.v2ex.com/index.xml)|[ Apple  12mini 用了三年了，感觉还能撑一年， 16 有可能更新 mini 线吗](https://www.v2ex.com/t/974841#reply5)|
+|2023-09-18 06:22:40|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  请问某港卡的 IP 是固定还是动态的？ pixel 能装多少个 E 卡？](https://www.v2ex.com/t/974840#reply0)|
+|2023-09-18 06:21:48|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  大家前进的动力，都是什么？](https://www.v2ex.com/t/974839#reply6)|
+|2023-09-18 06:19:37|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  城投债、存量房贷、居民存款，看不太懂这些数字](https://www.v2ex.com/t/974838#reply4)|
+|2023-09-18 06:13:20|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  qshell 是我用过对象存储命令行工具最反人类的了](https://www.v2ex.com/t/974837#reply2)|
+|2023-09-18 06:08:57|[V2EX](http://www.v2ex.com/index.xml)|[ Apple  正在考虑逃离苹果生态](https://www.v2ex.com/t/974836#reply52)|
+|2023-09-18 06:08:36|[V2EX](http://www.v2ex.com/index.xml)|[ Apple  可能单位马上不让用苹果了？](https://www.v2ex.com/t/974835#reply3)|
+|2023-09-18 06:01:38|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  做什么事，会让你废寝忘食？](https://www.v2ex.com/t/974831#reply24)|
+|2023-09-18 05:55:33|[V2EX](http://www.v2ex.com/index.xml)|[ Linux  Linux 内核升级问题](https://www.v2ex.com/t/974830#reply10)|
+|2023-09-18 05:40:36|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[社工攻击再现！一黑客轻松入侵 IT 公司](https://www.freebuf.com/news/378413.html)|
+|2023-09-18 20:00:00|[Bright LGM's Blog](https://brightliao.com/atom.xml)|[每日一思](http://brightliao.com/2023/09/18/daily-thoughts/)|
+|2023-09-18 05:37:03|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[美国官员称中国国防部长李尚福正接受调查](https://cn.nytimes.com/china/20230918/xi-china-military-general-li-shangfu/)|
+|2023-09-18 05:07:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[另一场贸易战：进口化妆品在中国遇挫](https://cn.nytimes.com/business/20230918/china-cosmetic-imports/)|
+|2023-09-18 03:07:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[美官员称中国已暂停间谍气球项目，但可能重启](https://cn.nytimes.com/china/20230918/china-spy-balloon-program-paused/)|
+|2023-09-18 02:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[普京金正恩“兄弟情”或令习近平为难](https://cn.nytimes.com/asia-pacific/20230918/china-putin-kim/)|
+|2023-09-18 01:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[解读中国最新经济数据：触底反弹在即还是持续疲软](https://cn.nytimes.com/business/20230918/china-economy-retail-sales/)|
 |2023-09-18 02:13:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Google搜索：“emoji kitchen”可以自己制作表情了，傻瓜式操作，选择两种表情会组合生成新的，也可以用随机模式](https://dig.chouti.com/link/40016147)|
 |2023-09-18 02:13:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美军发帖寻找坠毁的F35战机】当地时间17日下午，美国南卡罗来纳州北查尔斯顿地区，美国海军陆战队一架F-35B“闪电Ⅱ”型战机因事故坠毁。飞行员弹射出舱，据称情况稳定，已被送往医院，但坠毁的这架F-35下落不明。位于南卡罗来纳州的美军查尔斯顿联合基地在社交媒体上发帖，希望公众能提供线索，寻找这架战机的残骸。](https://dig.chouti.com/link/40016158)|
 |2023-09-18 02:18:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为何总会有人类断脚被冲上海岸？](https://dig.chouti.com/link/40016200)|
