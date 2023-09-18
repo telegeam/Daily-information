@@ -1,7 +1,13 @@
-﻿# 每日资讯（2023-09-17）
+﻿# 每日资讯（2023-09-18）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-18 00:51:41|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群  上海联通 200 兆上行公网特惠套餐 无需携转 ](https://www.v2ex.com/t/974686#reply1)|
+|2023-09-18 00:49:46|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造  使用 ChatGPT 将口头语变成书面语](https://www.v2ex.com/t/974685#reply0)|
+|2023-09-18 00:35:08|[V2EX](http://www.v2ex.com/index.xml)|[ Apple  Apple One 2T Premier 美区长期车 现有一个空位](https://www.v2ex.com/t/974683#reply0)|
+|2023-09-18 00:50:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国经济再现微弱复苏迹象](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%86%8D%E7%8E%B0%E5%BE%AE%E5%BC%B1%E5%A4%8D%E8%8B%8F%E8%BF%B9%E8%B1%A1-9f037c90)|
+|2023-09-18 00:50:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国财经媒体报道汇总：房地产税立法暂缓](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%A8%8E%E7%AB%8B%E6%B3%95%E6%9A%82%E7%BC%93-%E7%A8%8E%E6%83%A0%E5%87%8F%E8%B4%9F%E6%B7%BB%E6%B4%BB%E5%8A%9B%E6%AD%A3%E5%BD%93%E6%97%B6-299b4199)|
+|2023-09-18 00:28:18|[爱范儿](https://www.ifanr.com/feed)|[早报｜iPhone 15 Pro Max 发货延长至 11 月 / 茅台要求飞猪整改「酱香房」/ 热门酒店预订量暴涨超 500%](https://www.ifanr.com/1562345?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-09-17 10:09:38|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  打算找个存储小说内容的方案，问有哪些地方可以免费存储？](https://www.v2ex.com/t/974609#reply1)|
 |2023-09-17 09:49:55|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  求证实，虽然经常被夸大，经过对比测试发现安卓内存确实没有 iPhone 的耐用，这个对比是否科学？](https://www.v2ex.com/t/974608#reply3)|
 |2023-09-17 09:44:39|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群  观某贴有感，不为难人是必要的，但有时候对方未必是你所想的那样](https://www.v2ex.com/t/974607#reply0)|
