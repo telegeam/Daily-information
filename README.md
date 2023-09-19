@@ -2,6 +2,24 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-19 03:16:27|[机核](https://plink.anyfeeder.com/gcores)|[《女神异闻录3 Reload》新宣传片9月20日公布](https://www.gcores.com/articles/171084)|
+|2023-09-19 04:03:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[缠斗肯德基，背刺华莱士，“中国汉堡”5年5000家店背后的狂飙和暗影｜隐形巨头](https://36kr.com/p/2432912669119113)|
+|2023-09-19 04:03:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为什么说笔记应用并不能让我们变得更聪明？](https://36kr.com/p/2412813741761540)|
+|2023-09-19 04:03:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[CEO 卧底、奥特曼抢客，盒马和山姆的商战越打越离谱](https://36kr.com/p/2437331474584195)|
+|2023-09-19 04:03:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[茅台快把自己玩成料酒了](https://36kr.com/p/2436897521095043)|
+|2023-09-19 04:03:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国最牛地级市，升级了](https://36kr.com/p/2438013811741060)|
+|2023-09-19 03:50:00|[虎嗅](https://rss.huxiu.com/)|[华为Mate 60之后，没有一劳永逸](https://www.huxiu.com/article/2073376.html?f=rss)|
+|2023-09-19 03:32:23|[虎嗅](https://rss.huxiu.com/)|[F1新加坡大奖赛：时隔434天，法拉利拿冠军过年了](https://www.huxiu.com/article/2074515.html?f=rss)|
+|2023-09-19 03:30:00|[虎嗅](https://rss.huxiu.com/)|[去云南景迈山，吃茶](https://www.huxiu.com/article/2074497.html?f=rss)|
+|2023-09-19 03:30:00|[虎嗅](https://rss.huxiu.com/)|[你的自卑感，如何成为严厉的批评者？](https://www.huxiu.com/article/2066413.html?f=rss)|
+|2023-09-19 04:02:27|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中国寄宿学校的百万藏族儿童正在经历什么](https://cn.nytimes.com/opinion/20230919/china-tibet-boarding-school/?utm_source=RSS)|
+|2023-09-19 03:04:41|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[“无所不在”的战场：美中在全球展开谍战较量](https://cn.nytimes.com/world/20230919/us-china-global-spy-operations/?utm_source=RSS)|
+|2023-09-19 02:51:24|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[印度的芯片制造超级大国雄心能实现吗](https://cn.nytimes.com/business/20230914/india-semiconductors/?utm_source=RSS)|
+|2023-09-19 09:16:22|[程序员的喵](https://catcoding.me/atom.xml)|[Andriod 使用 Obsidian 的客户端](http://catcoding.me/p/obsidian-andriod-client-sync-git/)|
+|2023-09-19 01:10:06|[Steve Sun](https://www.sund.site/index.xml)|[如何构建大型软件团队](https://sund.site/posts/2023/large-software-team-structure/)|
+|2023-09-19 02:55:32|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[微软Azure意外泄露 38TB 敏感数据](https://www.freebuf.com/news/378517.html)|
+|2023-09-19 01:40:12|[祝融说。](https://zhurongshuo.com/index.xml)|[0919](https://zhurongshuo.com/teach/yingsu/2023/0919/)|
+|2023-09-19 04:07:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中国寄宿学校的百万藏族儿童正在经历什么](https://cn.nytimes.com/opinion/20230919/china-tibet-boarding-school/)|
 |2023-09-19 02:53:33|[小众软件](https://www.appinn.com/feed/)|[📱 桌面计算器 – iOS 17 互动式小组件，在桌面随时计算](https://www.appinn.com/desktop-calculator-ios17/)|
 |2023-09-19 02:22:40|[机核](https://www.gcores.com/rss)|[《上古卷轴6》最早将于2026年发售，不登陆PlayStation](https://www.gcores.com/articles/171081)|
 |2023-09-19 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：ETRO 发布纪录片《RADICAL ETRO》、苹果 iOS 17 正式版开始推送](http://www.toodaylab.com/82233)|
