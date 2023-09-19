@@ -2,6 +2,50 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-19 04:00:57|[爱范儿](https://plink.anyfeeder.com/ifanr)|[被 TWS 耳机剪掉的耳机线，什么时候还给我？](https://www.ifanr.com/1562385?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-19 03:40:55|[爱范儿](https://plink.anyfeeder.com/ifanr)|[iOS 17 正式版来了！我们给你总结了 7 个好玩又实用的新功能](https://www.ifanr.com/1562464?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-19 07:24:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享   10 个在 Linux 终端中生成有趣的 ASCII 字符画的工具](https://linux.cn/article-16205-1.html?utm_source=rss&utm_medium=rss)|
+|2023-09-19 08:33:55|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[海云安荣获中国信息通信研究院个人信息处理“最小必要”优秀案例](https://www.4hou.com/posts/1pDR)|
+|2023-09-19 07:36:24|[高金的博客](https://igaojin.me/atom.xml)|[friend_tech 第一笔交易只能买 1 个key?](https://igaojin.me/2023/09/19/friend-tech-%E7%AC%AC%E4%B8%80%E7%AC%94%E4%BA%A4%E6%98%93%E5%8F%AA%E8%83%BD%E4%B9%B0-1-%E4%B8%AAkey/)|
+|2023-09-19 07:28:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2023 Sep.10 - Sep.16](http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20230916/)|
+|2023-09-19 09:12:21|[V2EX](http://www.v2ex.com/index.xml)|[ 健康  有没有不含咖啡因的电解质饮料？](https://www.v2ex.com/t/975266#reply0)|
+|2023-09-19 09:11:00|[V2EX](http://www.v2ex.com/index.xml)|[ 生活  各位老哥，有没有稳定点的额外收入渠道](https://www.v2ex.com/t/975265#reply0)|
+|2023-09-19 09:10:07|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  什么应用会在后台起 Android Debug Database 这样的一个 Web 服务？](https://www.v2ex.com/t/975264#reply1)|
+|2023-09-19 09:09:46|[V2EX](http://www.v2ex.com/index.xml)|[ 生活  拆迁后,我还能再要个宅基地吗](https://www.v2ex.com/t/975263#reply2)|
+|2023-09-19 09:09:04|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  自建的服务器还差一个下载器，有推荐的吗？](https://www.v2ex.com/t/975262#reply0)|
+|2023-09-19 09:05:50|[V2EX](http://www.v2ex.com/index.xml)|[ 深圳  8.22 深圳地铁四号线手机自燃，是什么品牌的手机？](https://www.v2ex.com/t/975261#reply1)|
+|2023-09-19 09:04:35|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现  失去的三年](https://www.v2ex.com/t/975260#reply1)|
+|2023-09-19 09:03:13|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  有人了解 BOSS 上的 成都一点万物这家公司吗? 区块链的](https://www.v2ex.com/t/975259#reply0)|
+|2023-09-19 09:01:44|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  想问下大家平时在高速上速度开到多少？](https://www.v2ex.com/t/975258#reply7)|
+|2023-09-19 08:56:00|[V2EX](http://www.v2ex.com/index.xml)|[ 微信  没有 play，哪里能下载可以直接安装的 play 版微信？](https://www.v2ex.com/t/975257#reply1)|
+|2023-09-19 08:55:53|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作   吐槽  现在的客户连浏览器是什么都不知道了么？地址栏也不知道？](https://www.v2ex.com/t/975256#reply10)|
+|2023-09-19 08:50:55|[V2EX](http://www.v2ex.com/index.xml)|[ Go 编程语言  golang 的 GC 为什么需要等到所有 goroutine 停止才能够开始?](https://www.v2ex.com/t/975255#reply1)|
+|2023-09-19 08:50:17|[V2EX](http://www.v2ex.com/index.xml)|[ iOS  如何禁止从锁定屏幕长按更改墙纸？](https://www.v2ex.com/t/975254#reply1)|
+|2023-09-19 08:50:12|[V2EX](http://www.v2ex.com/index.xml)|[ 上海  上海 7 号线 新村路、大华三路 地铁站附近， 同济医院附近两居室 5300 转租](https://www.v2ex.com/t/975253#reply0)|
+|2023-09-19 08:46:24|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造  人人都能生成艺术品 - 超简单 AI 绘画工具](https://www.v2ex.com/t/975252#reply0)|
+|2023-09-19 08:45:48|[V2EX](http://www.v2ex.com/index.xml)|[ macOS  macOS 新版的 Safari 更新了侧边标签栏了吗？](https://www.v2ex.com/t/975251#reply0)|
+|2023-09-19 08:44:28|[V2EX](http://www.v2ex.com/index.xml)|[ 深圳  高铁抢票](https://www.v2ex.com/t/975250#reply1)|
+|2023-09-19 08:41:01|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  求助中英文优质个人博客 RSS 订阅](https://www.v2ex.com/t/975249#reply2)|
+|2023-09-19 08:40:36|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群  现在江苏徐州移动到期，求推荐最便宜的宽带套餐](https://www.v2ex.com/t/975248#reply0)|
+|2023-09-19 08:38:18|[V2EX](http://www.v2ex.com/index.xml)|[ 北京  华为 matepad 屏幕从底部向上滑不动了，哪有维修的啊？](https://www.v2ex.com/t/975246#reply1)|
+|2023-09-19 08:34:57|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  产品一直插需求，你们公司也是这样的吗？](https://www.v2ex.com/t/975244#reply0)|
+|2023-09-19 08:29:52|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员  为什么这么多后端开发上下游不分?](https://www.v2ex.com/t/975243#reply12)|
+|2023-09-19 08:27:49|[V2EX](http://www.v2ex.com/index.xml)|[ AirPods  官换的 AirPods pro 一代 全套换新 ，可以多少钱出？问下价格](https://www.v2ex.com/t/975241#reply0)|
+|2023-09-19 08:23:14|[V2EX](http://www.v2ex.com/index.xml)|[ 数据库  准备做个不同数据库之间相互备份的工具，比如 postgres 数据备份到 mysql ， mysql 数据转到 postgres 这样的工具，当然也会支持其他的关系型数据库互转，也支持对象存储如 s3， obs 等，文件系统之间数据互转](https://www.v2ex.com/t/975240#reply3)|
+|2023-09-19 08:23:06|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone  iPhone13Pro 在考虑升不升到 iOS17](https://www.v2ex.com/t/975239#reply0)|
+|2023-09-19 08:22:02|[V2EX](http://www.v2ex.com/index.xml)|[ Android  分享下 iPhone 切到 Android 的感受](https://www.v2ex.com/t/975237#reply11)|
+|2023-09-19 08:19:09|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现  人过 40 了，现在因炒股欠了 53W，全是来自信用卡、度小满、微信，目前资金转不过来，面临还款压力、股市还是天天阴跌，现在基本上每天都睡不好觉，关键是老婆还不知道我欠的这多钱，真的不知道下一步该如何走了？朋友们给点建议吧，真心受不住了](https://www.v2ex.com/t/975236#reply3)|
+|2023-09-19 08:15:15|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答  假如是另一颗精子和卵子结合成受精卵，还会有我吗？](https://www.v2ex.com/t/975235#reply22)|
+|2023-09-19 08:10:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[大模型需求涌现，算力如何跟上节奏？](https://www.tmtpost.com/6713157.html)|
+|2023-09-19 08:04:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[拼多多是什么：不需要种草的电商生态](https://www.tmtpost.com/6713334.html)|
+|2023-09-19 07:41:34|[虎嗅](https://plink.anyfeeder.com/huxiu)|[从联名烟草到联名巧克力，女人的钱最好赚？](https://www.huxiu.com/article/2075357.html?f=rss)|
+|2023-09-19 07:10:03|[虎嗅](https://plink.anyfeeder.com/huxiu)|[苹果iPhone辐射超标，是怎么回事？](https://www.huxiu.com/article/2074500.html?f=rss)|
+|2023-09-19 07:06:59|[虎嗅](https://plink.anyfeeder.com/huxiu)|[清华超级EUV光刻厂，真的是谣言吗？](https://www.huxiu.com/article/2072570.html?f=rss)|
+|2023-09-19 06:52:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[散记丁香岛（下）](https://www.huxiu.com/article/2074753.html?f=rss)|
+|2023-09-19 06:37:30|[虎嗅](https://plink.anyfeeder.com/huxiu)|[GPT-5要来了？OpenAI被曝加急训练多模态大模型Gobi](https://www.huxiu.com/article/2074814.html?f=rss)|
+|2023-09-19 06:36:47|[虎嗅](https://plink.anyfeeder.com/huxiu)|[猫头鹰：长最萌的脸，下最狠的手](https://www.huxiu.com/article/2074536.html?f=rss)|
+|2023-09-19 06:36:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[散记丁香岛（上）](https://www.huxiu.com/article/2072484.html?f=rss)|
+|2023-09-19 06:18:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[华为与小米和解：达成全球专利交叉许可协议](https://www.huxiu.com/article/2072101.html?f=rss)|
 |2023-09-19 02:13:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【还原杨妞花26年寻亲路】5岁被拐，26年后找到家，却发现父母因伤心过度已双双离世。9月18日，“杨妞花被拐案”开庭宣判，被告人余华英以“拐卖儿童罪”被判处死刑。杨妞花是如何被拐卖的？又是如何在二十多年后找到人贩的？](https://dig.chouti.com/link/40027538)|
 |2023-09-19 02:38:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[经营贷“涉房”调查：多方利益捆绑下的合谋](https://dig.chouti.com/link/40027751)|
 |2023-09-19 02:33:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【过失致死？带重庆成功冲甲的他，还有一段轰动全国的黑暗往事】林林并没有因为“母诗灏事件”而被取消教练员资格。2012年出狱后，林林继续从事青少年足球的教练工作。](https://dig.chouti.com/link/40027650)|
