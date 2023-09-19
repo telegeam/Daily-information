@@ -1,7 +1,29 @@
-﻿# 每日资讯（2023-09-18）
+﻿# 每日资讯（2023-09-19）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-19 00:05:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[反转：英特尔确认 Windows 10 也支持 Wi-Fi 7](https://m.cnbeta.com.tw/view/1384831.htm)|
+|2023-09-19 00:36:50|[V2EX](https://www.v2ex.com/index.xml)|[ 求职   求职   远程  五年 Ruby 全栈开发](https://www.v2ex.com/t/975047#reply0)|
+|2023-09-19 00:27:32|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员  如何在 yaml 配置文件中添加自定义规则？](https://www.v2ex.com/t/975044#reply0)|
+|2023-09-19 00:09:25|[V2EX](https://www.v2ex.com/index.xml)|[ iOS  ios17——苹果失去了创新力？](https://www.v2ex.com/t/975042#reply11)|
+|2023-09-19 00:46:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[预制菜进校园为什么引发担忧？](https://www.huxiu.com/article/2072824.html?f=rss)|
+|2023-09-19 00:44:10|[虎嗅](https://plink.anyfeeder.com/huxiu)|[让癌症之王败下阵来，破坏癌细胞的“超级机器”有奇效](https://www.huxiu.com/article/2073922.html?f=rss)|
+|2023-09-19 00:42:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[在足球荒漠烧钱，沙特能够烧出“世界第几大联赛”？](https://www.huxiu.com/article/2072460.html?f=rss)|
+|2023-09-19 00:39:10|[虎嗅](https://plink.anyfeeder.com/huxiu)|[特斯拉跌超3%：高盛预计其价格战打不停](https://www.huxiu.com/article/2073917.html?f=rss)|
+|2023-09-19 00:38:21|[虎嗅](https://plink.anyfeeder.com/huxiu)|[金饰零售价破600元/克是什么原因，投资黄金还能买吗？](https://www.huxiu.com/article/2072562.html?f=rss)|
+|2023-09-19 00:37:43|[虎嗅](https://plink.anyfeeder.com/huxiu)|[海航退出游戏了吗？](https://www.huxiu.com/article/2073731.html?f=rss)|
+|2023-09-19 00:32:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[深圳人离婚购房“算术题”来了，离还是不离？](https://www.huxiu.com/article/2073715.html?f=rss)|
+|2023-09-19 00:22:44|[虎嗅](https://plink.anyfeeder.com/huxiu)|[价值超万亿美元，美国发现了可能是全球最大的锂矿床](https://www.huxiu.com/article/2073719.html?f=rss)|
+|2023-09-19 00:16:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[暴雨10天后，熟悉的罗湖正在回来](https://www.huxiu.com/article/2072894.html?f=rss)|
+|2023-09-19 00:03:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[智商无法替代经验](https://www.huxiu.com/article/2073740.html?f=rss)|
+|2023-09-19 01:52:28|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Juplink RX4-1500 Hard-coded Credential Vulnerability](https://buaq.net/go-177462.html)|
+|2023-09-19 01:46:24|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Juplink RX4-1500 Command Injection Vulnerability](https://buaq.net/go-177463.html)|
+|2023-09-19 01:38:16|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[ 下载  微软版轻量级PS？微软更新画图应用 增加图层和透明度支持](https://buaq.net/go-177460.html)|
+|2023-09-19 01:30:11|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Juplink RX4-1500 homemng Command Injection Vulnerability](https://buaq.net/go-177457.html)|
+|2023-09-19 01:25:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[If the worst happens: How to prep your accounts so your loved one can get into them](https://buaq.net/go-177456.html)|
+|2023-09-19 01:23:41|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Juplink RX4-1500 Credential Disclosure Vulnerability](https://buaq.net/go-177458.html)|
+|2023-09-19 01:14:52|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[苹果推出iOS 17正式版 其他版本也在陆续推送中 刷新即可收到更新](https://buaq.net/go-177461.html)|
+|2023-09-19 01:04:08|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[On Multiplications with Unsaturated Limbs](https://buaq.net/go-177455.html)|
 |2023-09-18 08:47:16|[木鸟杂记](https://www.qtmuniao.com/atom.xml)|[【图解面试基础】三种基本排序算法](https://www.qtmuniao.com/2023/09/18/three-basic-sort/)|
 |2023-09-18 09:48:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[前端分离授权](https://www.v2ex.com/t/974933#reply1)|
 |2023-09-18 08:41:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在小米系统还能使用谷歌服务吗？真的接入了反诈 api ？](https://www.v2ex.com/t/974904#reply33)|
