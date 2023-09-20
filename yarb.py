@@ -7,6 +7,7 @@ import schedule
 import argparse
 import datetime
 import feedparser
+import re
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -22,7 +23,7 @@ filterWords = []
 
 # 替换圆括号和中括号为空格
 def replace_brackets_with_space(string):
-    replaced_string = string.replace('(', ' ').replace(')', ' ').replace('[', ' ').replace(']', ' ').replace('|', ' ')
+    replaced_string = re.sub(r'[()\[\]| \s]+', ' ', string)
     return replaced_string
 
 # 处理长字符串
