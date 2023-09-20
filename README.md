@@ -2,6 +2,35 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-20 02:32:30|[7Wate‘s blog](https://blog.7wate.com/rss.xml)|[看 V2Ex 的 ChatGPT 老哥浅谈职场政治](https://blog.7wate.com/?p=122)|
+|2023-09-20 01:38:08|[精品MAC应用分享](https://xclient.info/feed)|[uDock 3.7.5 轻量级Dock栏快速启动工具](https://xclient.info/s/udock.html)|
+|2023-09-20 01:37:23|[精品MAC应用分享](https://xclient.info/feed)|[Unite 4.6 网站转桌面应用](https://xclient.info/s/unite.html)|
+|2023-09-20 01:13:28|[虎嗅](https://plink.anyfeeder.com/huxiu)|[生存、竞争、商业化，知乎如何变现？](https://www.huxiu.com/article/2075414.html?f=rss)|
+|2023-09-20 01:05:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[年轻人花钱的样子变了](https://www.huxiu.com/article/2076139.html?f=rss)|
+|2023-09-20 01:00:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[首富的神秘印钞机：疫苗大王、爆款写手、卖水冠军](https://www.huxiu.com/article/2074032.html?f=rss)|
+|2023-09-20 01:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[去医院看病，也要“货比三家”？](https://www.huxiu.com/article/2075635.html?f=rss)|
+|2023-09-20 00:57:59|[虎嗅](https://plink.anyfeeder.com/huxiu)|[韩剧，“似盛实衰”](https://www.huxiu.com/article/2077443.html?f=rss)|
+|2023-09-20 00:53:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[反腐风暴中，数百位医生自发来到这场大会](https://www.huxiu.com/article/2077112.html?f=rss)|
+|2023-09-20 00:33:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阿里影业拟1.67亿美元收购大麦](https://dig.chouti.com/link/40038712)|
+|2023-09-20 01:33:54|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[“芯经济”崛起，英特尔加速AI抢位战](https://www.infoq.cn/article/g43AaWaexclQ0QVlyelb)|
+|2023-09-20 01:00:00|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[如何利用播放器节省 20% 点播成本？](https://www.infoq.cn/article/Rx45QcxHI4zZCfMR5r8J)|
+|2023-09-20 01:01:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[国产电影，卷过本土卷出海](https://www.tmtpost.com/6714073.html)|
+|2023-09-20 01:00:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[卖爆抖音快手，“护肝神药”奶蓟草是智商税吗？](https://www.tmtpost.com/6714445.html)|
+|2023-09-20 00:45:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[Shake Shack，不再简单？](https://www.tmtpost.com/6714080.html)|
+|2023-09-20 00:44:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[安徽白酒，分化进行时](https://www.tmtpost.com/6714331.html)|
+|2023-09-20 00:42:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[味千中国艰难“回春”，但难有新故事](https://www.tmtpost.com/6714332.html)|
+|2023-09-20 00:40:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[韩剧“似盛实衰”](https://www.tmtpost.com/6714314.html)|
+|2023-09-20 00:39:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[11部影片定档国庆：《前任4》断崖领跑，电影宣发提前开战](https://www.tmtpost.com/6714271.html)|
+|2023-09-20 00:36:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[花西子道歉：说了or没说？](https://www.tmtpost.com/6714157.html)|
+|2023-09-20 00:35:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[押宝买手电商，小红书不要“李佳琦”](https://www.tmtpost.com/6714199.html)|
+|2023-09-20 00:33:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[狂蹭李佳琦“塌房”流量后的国货们，能走多远？](https://www.tmtpost.com/6714250.html)|
+|2023-09-20 00:32:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[这届年轻人：游戏可以轻氪，“谷子”不能少吃](https://www.tmtpost.com/6714263.html)|
+|2023-09-20 00:24:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[李佳琦跌倒，在座的各位都有责任](https://www.tmtpost.com/6714021.html)|
+|2023-09-20 00:21:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[钛媒体科股早知道：该产品供给将开启强约束，市场2024年或出现供需缺口](https://www.tmtpost.com/6714348.html)|
+|2023-09-20 00:20:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[低调宣传、晚开预售，国庆档宣发做“减法”](https://www.tmtpost.com/6714036.html)|
+|2023-09-20 00:16:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[企业如何实现AI转型？研究上百个公司后，我们找到答案了](https://www.tmtpost.com/6713986.html)|
+|2023-09-20 00:13:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[煤价止跌回升，煤炭股又行了？](https://www.tmtpost.com/6713990.html)|
+|2023-09-20 00:09:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[欧盟“碳关税”即将落地 ，影响几何？](https://www.tmtpost.com/6713225.html)|
 |2023-09-20 00:25:37|[虎嗅](https://rss.huxiu.com/)|[西测测试股东违规减持，深交所、陕西证监局相继出手](https://www.huxiu.com/article/2077109.html?f=rss)|
 |2023-09-20 00:23:58|[虎嗅](https://rss.huxiu.com/)|[欧洲经济强国强在哪？](https://www.huxiu.com/article/2077435.html?f=rss)|
 |2023-09-20 00:21:00|[虎嗅](https://rss.huxiu.com/)|[墨西哥的“外星人”特别听证会聊了什么？](https://www.huxiu.com/article/2078011.html?f=rss)|
