@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-20 03:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[人人住得起的东京](https://cn.nytimes.com/opinion/20230920/tokyo-housing/)|
+|2023-09-20 02:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[在中国赚钱越来越难：在华外企描绘营商环境挑战](https://cn.nytimes.com/business/20230920/american-european-chamber-commerce-china/)|
+|2023-09-20 03:35:44|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[迪拜停滞十余年的棕榈岛地产项目重新发售 单幢起价490万美元](https://m.cnbeta.com.tw/view/1385169.htm)|
+|2023-09-20 03:35:30|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[福特与加拿大汽车工人工会达成协议 避免罢工](https://m.cnbeta.com.tw/view/1385167.htm)|
+|2023-09-20 03:35:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[最古老的互联网格言正在被拍卖：“在互联网上，没有人知道你是一只狗”](https://m.cnbeta.com.tw/view/1385165.htm)|
+|2023-09-20 03:06:18|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉电动皮卡或已准备大批量生产 有更多生产设备运抵工厂](https://m.cnbeta.com.tw/view/1385159.htm)|
+|2023-09-20 03:06:04|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Google Chrome新功能：切换标签页时会自动以画中画形态持续播放视频](https://m.cnbeta.com.tw/view/1385155.htm)|
+|2023-09-20 03:05:53|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Windows 11更新确认画图软件将引入DALL-E AI图像创建器](https://m.cnbeta.com.tw/view/1385153.htm)|
+|2023-09-20 03:05:38|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[多次泄密事件后 美国司法部与Google就公众查阅反垄断审判文件问题发生争执](https://m.cnbeta.com.tw/view/1385149.htm)|
+|2023-09-20 03:05:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Google让Bard人工智能学会怀疑自己 尝试二次核实矛盾信息](https://m.cnbeta.com.tw/view/1385147.htm)|
+|2023-09-20 03:05:14|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“古腾堡计划”利用神经文本转语音技术发布5000本免费有声读物](https://m.cnbeta.com.tw/view/1385141.htm)|
+|2023-09-20 02:50:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【纳卡地区冲突再起，阿塞拜疆复刻2020年进攻态势】相比于阿塞拜疆，亚美尼亚一方在政治上准备不足，战争一爆发就做出了放弃纳-卡地区的准备。](https://dig.chouti.com/link/40040169)|
+|2023-09-20 03:55:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[微软AI 38TB数据泄露](https://www.4hou.com/posts/YYRK)|
+|2023-09-20 03:22:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[完整分析cuba勒索软件（上）](https://www.4hou.com/posts/EXBv)|
 |2023-09-20 03:06:29|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[人人住得起的东京](https://cn.nytimes.com/opinion/20230920/tokyo-housing/?utm_source=RSS)|
 |2023-09-20 03:06:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[咨询搭建了 2.5G 家庭网络的一个问题](https://www.v2ex.com/t/975462#reply3)|
 |2023-09-20 02:24:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在网上卖的 Github Copilot 授权程序是什么原理？](https://www.v2ex.com/t/975443#reply13)|
