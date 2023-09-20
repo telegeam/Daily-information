@@ -1,7 +1,24 @@
-﻿# 每日资讯（2023-09-19）
+﻿# 每日资讯（2023-09-20）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-20 00:25:37|[虎嗅](https://rss.huxiu.com/)|[西测测试股东违规减持，深交所、陕西证监局相继出手](https://www.huxiu.com/article/2077109.html?f=rss)|
+|2023-09-20 00:23:58|[虎嗅](https://rss.huxiu.com/)|[欧洲经济强国强在哪？](https://www.huxiu.com/article/2077435.html?f=rss)|
+|2023-09-20 00:21:00|[虎嗅](https://rss.huxiu.com/)|[墨西哥的“外星人”特别听证会聊了什么？](https://www.huxiu.com/article/2078011.html?f=rss)|
+|2023-09-20 00:20:55|[虎嗅](https://rss.huxiu.com/)|[AI泡沫破裂？对冲基金疯狂做空半导体类股](https://www.huxiu.com/article/2078463.html?f=rss)|
+|2023-09-20 00:20:14|[虎嗅](https://rss.huxiu.com/)|[高德滴滴“一刀切”，是大势所趋吗？](https://www.huxiu.com/article/2076668.html?f=rss)|
+|2023-09-20 00:14:00|[虎嗅](https://rss.huxiu.com/)|[北京朝阳区住建委转让154套住宅，底价超10亿元](https://www.huxiu.com/article/2077108.html?f=rss)|
+|2023-09-20 00:08:37|[虎嗅](https://rss.huxiu.com/)|[高分读专科，提前锁定铁饭碗？](https://www.huxiu.com/article/2078048.html?f=rss)|
+|2023-09-20 00:05:42|[虎嗅](https://rss.huxiu.com/)|[是否加息不是本周美联储会议看点，什么才是？](https://www.huxiu.com/article/2076618.html?f=rss)|
+|2023-09-20 00:01:00|[虎嗅](https://rss.huxiu.com/)|[南京首付“大招”生变，主城四区最低2成首付被叫停](https://www.huxiu.com/article/2077107.html?f=rss)|
+|2023-09-20 00:19:16|[极客公园](https://plink.anyfeeder.com/geekpark)|[任正非：第四次工业革命已来，「算力」是基础；瑞银：中国股市已触底；花西子：百花齐放，国货自强   极客早知道](http://www.geekpark.net/news/324945)|
+|2023-09-20 00:50:00|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[GraalVM for JDK 21 发布了](https://www.v2ex.com/t/975396#reply0)|
+|2023-09-20 05:24:22|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[How to Find & Fix Japanese SEO Spam](https://buaq.net/go-177535.html)|
+|2023-09-20 03:17:29|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[X86 Instruction Cheatsheet: reference guide highlighting essential x86 assembly instructions.](https://buaq.net/go-177532.html)|
+|2023-09-20 01:42:57|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Minut: a IoT sensor and the unfair change in company policy that makes it useless unless you subscribe to a paid plan.](https://buaq.net/go-177531.html)|
+|2023-09-20 00:38:58|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Reverse your first VM-obfuscated code](https://buaq.net/go-177530.html)|
+|2023-09-20 00:01:13|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[x86-assembly-cheat-sheet: A quick reference in x86 Assembly. Highlighting essential x86 assembly instructions and their use cases. Very handy.](https://buaq.net/go-177529.html)|
+|2023-09-20 00:01:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Analyzing a Modern In-the-wild Android Exploit](https://buaq.net/go-177528.html)|
 |2023-09-19 08:13:01|[BBC](https://plink.anyfeeder.com/bbc/cn)|[美伊完成换囚：美国解冻60亿美元伊朗资金，五名被押美公民飞离伊朗](https://www.bbc.com/zhongwen/simp/world-66852447)|
 |2023-09-19 07:51:02|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[APT 36 组织假冒 YouTube 应用程序，感染目标设备](https://www.freebuf.com/news/378551.html)|
 |2023-09-19 03:37:47|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[SRC培训10V1手把手实战带挖   Day1安全团队&FreeBuf培训](https://www.freebuf.com/vuls/378530.html)|
