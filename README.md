@@ -2,6 +2,62 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-20 10:09:49|[V2EX](http://www.v2ex.com/index.xml)|[ Microsoft Office 请问商业版哪里买？](https://www.v2ex.com/t/975623#reply0)|
+|2023-09-20 10:07:17|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 招聘 全职远程 前端工程师和后端工程师](https://www.v2ex.com/t/975622#reply0)|
+|2023-09-20 09:58:36|[V2EX](http://www.v2ex.com/index.xml)|[ Rust 使用 Rust+Tauri+Vue+ECharts 实现一个开源的跨平台的磁盘信息可视化工具](https://www.v2ex.com/t/975621#reply0)|
+|2023-09-20 09:57:51|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 新加坡的 iPhone 没有年年焕新计划?](https://www.v2ex.com/t/975620#reply0)|
+|2023-09-20 09:46:05|[V2EX](http://www.v2ex.com/index.xml)|[ Redis 关于缓存一致性问题，不知道我这个方案是否可行](https://www.v2ex.com/t/975618#reply1)|
+|2023-09-20 09:43:15|[V2EX](http://www.v2ex.com/index.xml)|[ 数据库 有比较各个存储架构的性能测试的网站吗？](https://www.v2ex.com/t/975617#reply0)|
+|2023-09-20 09:40:50|[V2EX](http://www.v2ex.com/index.xml)|[ Surge Surge 5 for Mac 车招人](https://www.v2ex.com/t/975616#reply0)|
+|2023-09-20 09:40:31|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 开源+免费 一款释放数据价值的项目，开源隐私计算平台](https://www.v2ex.com/t/975615#reply0)|
+|2023-09-20 09:39:33|[V2EX](http://www.v2ex.com/index.xml)|[ iOS 你们能习惯 ios17 的通知提示音吗？](https://www.v2ex.com/t/975614#reply0)|
+|2023-09-20 09:38:12|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 Java 后端， 6 年工作经验，非科班](https://www.v2ex.com/t/975613#reply6)|
+|2023-09-20 09:35:18|[V2EX](http://www.v2ex.com/index.xml)|[ Apple iphone15pro 和 max 的内存到底有没有升到 8g 啊？](https://www.v2ex.com/t/975612#reply1)|
+|2023-09-20 09:35:01|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Q: 请教一个关于 JS 类型的问题？](https://www.v2ex.com/t/975611#reply2)|
+|2023-09-20 09:30:56|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 zlib 又被封了吗](https://www.v2ex.com/t/975608#reply1)|
+|2023-09-20 09:25:20|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 以后上厕所不能带 iPhone 了](https://www.v2ex.com/t/975607#reply10)|
+|2023-09-20 09:25:09|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 腾讯混元模型体验资格有了，试一个](https://www.v2ex.com/t/975606#reply4)|
+|2023-09-20 09:21:37|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 关于露营](https://www.v2ex.com/t/975605#reply1)|
+|2023-09-20 09:15:18|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 golang unsafe 包修改私有属性没加偏移量会有什么隐患?](https://www.v2ex.com/t/975604#reply3)|
+|2023-09-20 09:12:25|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 国内绝大部分的工业产品，比其他发展中国家 主要指东南亚、南亚、拉美地区 的产品更加竞争力。这句话成立吗？](https://www.v2ex.com/t/975603#reply3)|
+|2023-09-20 09:08:21|[V2EX](http://www.v2ex.com/index.xml)|[ Linux btrfs 咨询几个关于 btrfs 的问题.](https://www.v2ex.com/t/975602#reply3)|
+|2023-09-20 09:07:01|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 ChatGPT API 有渠道吗？](https://www.v2ex.com/t/975600#reply0)|
+|2023-09-20 09:05:35|[V2EX](http://www.v2ex.com/index.xml)|[  WATCH Apple Watch 国行心电图 ECG 升级到版本 2 后喜提房颤](https://www.v2ex.com/t/975599#reply16)|
+|2023-09-20 09:04:31|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 上海电信 160/月， 200G 流量，千兆宽带，值得升级吗](https://www.v2ex.com/t/975598#reply5)|
+|2023-09-20 09:00:29|[V2EX](http://www.v2ex.com/index.xml)|[ 海外运营 跨国营销利器：海外主流社交媒体全攻略](https://www.v2ex.com/t/975597#reply0)|
+|2023-09-20 08:58:21|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 发现了一个开源 AI 文档产品，可以基于你的文档回答用户问题](https://www.v2ex.com/t/975595#reply4)|
+|2023-09-20 08:54:45|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 招聘远程 Golang，直播服务后端开发](https://www.v2ex.com/t/975593#reply1)|
+|2023-09-20 08:51:15|[V2EX](http://www.v2ex.com/index.xml)|[ NAS 如何解决 Qbittorrent 仅支持单核心的问题？](https://www.v2ex.com/t/975592#reply8)|
+|2023-09-20 08:50:46|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 低成本、开源的智能客服方案有吗？](https://www.v2ex.com/t/975591#reply2)|
+|2023-09-20 08:48:26|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有没有洗发水推荐？](https://www.v2ex.com/t/975590#reply3)|
+|2023-09-20 08:47:40|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 家宽 DDNS 域名放到 CloudFlare 有什么弊端？](https://www.v2ex.com/t/975589#reply5)|
+|2023-09-20 08:46:26|[V2EX](http://www.v2ex.com/index.xml)|[ iCloud 土区 iCloud+ 6T 和 12T 价格超越美区](https://www.v2ex.com/t/975587#reply5)|
+|2023-09-20 08:42:21|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 DDR5 5600 内存 aida64 测试读取只有 15GB/s](https://www.v2ex.com/t/975586#reply1)|
+|2023-09-20 08:40:39|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 鸿蒙转移到 iOS](https://www.v2ex.com/t/975585#reply5)|
+|2023-09-20 08:39:28|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 老哥们推荐一些好使的代理 IP 厂家](https://www.v2ex.com/t/975583#reply2)|
+|2023-09-20 08:38:21|[V2EX](http://www.v2ex.com/index.xml)|[ Surge 准备新开一车 Surge for iOS 3 人车 还有一个车位](https://www.v2ex.com/t/975582#reply0)|
+|2023-09-20 08:37:19|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有什么印度邮寄中国的渠道吗？背包客也行。。](https://www.v2ex.com/t/975581#reply0)|
+|2023-09-20 08:31:33|[V2EX](http://www.v2ex.com/index.xml)|[ GitHub 求教， Github releases latest 版不会显示在第一位是怎么回事？](https://www.v2ex.com/t/975579#reply0)|
+|2023-09-20 08:30:46|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 不懂就问 应该先买烤箱还是先买微波炉？](https://www.v2ex.com/t/975578#reply26)|
+|2023-09-20 08:24:09|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 mac 下有没有好用的串口调试工具](https://www.v2ex.com/t/975576#reply14)|
+|2023-09-20 08:17:29|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone ios17 carplay 的 shareplay 问题](https://www.v2ex.com/t/975575#reply2)|
+|2023-09-20 08:12:51|[V2EX](http://www.v2ex.com/index.xml)|[ 杭州 求租师大仓前站附近的房子](https://www.v2ex.com/t/975573#reply1)|
+|2023-09-20 08:10:53|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 北京/上海/成都/西雅图 字节跳动-客服平台-前后端均有](https://www.v2ex.com/t/975572#reply2)|
+|2023-09-20 10:05:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[淘宝买菜重新发力、美团拼多多寸土必争，社区团购混战升级](https://www.tmtpost.com/6715429.html)|
+|2023-09-20 10:04:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[融券的“降维打击”为何选中金帝股份？](https://www.tmtpost.com/6715345.html)|
+|2023-09-20 09:57:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[大模型对智能音箱是救命还是“革”命？](https://www.tmtpost.com/6715473.html)|
+|2023-09-20 08:46:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[高德打车总经理李新华：聚合模式下，网约车平台流量可按服务分配](https://www.tmtpost.com/6715225.html)|
+|2023-09-20 08:45:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[我国首个高清无线音频编解码标准发布，由华为、海信等近四十家单位制定](https://www.tmtpost.com/6715029.html)|
+|2023-09-20 08:10:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[价格、情怀牌双折戟， 难卖高价的国货美妆出路在哪里？](https://www.tmtpost.com/6713399.html)|
+|2023-09-20 09:14:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【工作室租地拆迁，周星驰配音演员石班瑜称要被迫搬离？】涉事开发商爱家投资控股集团有限公司一名负责人告诉记者，事情起因是没能跟高碑店乡政府授权企业谈拢赔偿。高碑店乡高碑店村委会接线人员回应媒体时则表示，石班瑜工作室所在的写字楼“爱家臻品宫”为违建，正在进行疏解腾退。](https://dig.chouti.com/link/40044888)|
+|2023-09-20 09:22:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[河北雄安新区取消商品住房预售，公共服务“租售同权”](https://dig.chouti.com/link/40044945)|
+|2023-09-20 08:04:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[每月4000元，他们自费加入“减肥夺命营”](https://dig.chouti.com/link/40044125)|
+|2023-09-20 08:12:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【课本里的斑羚飞渡很感人？假的！】最近那条西藏自驾旅行时，见到外形似羊的动物给上墙的小伙伴当板凳，有人问难道是“斑羚飞渡”？先说斑羚飞渡是虚构的，而视频里的应该是岩羊，停在墙边的岩羊应该是在舔食墙面渗出的矿物质。](https://dig.chouti.com/link/40044227)|
+|2023-09-20 03:02:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[河南谭修义蒙冤29年被改判无罪获787万国家赔偿，该案写入今年最高检报告](https://dig.chouti.com/link/40040180)|
+|2023-09-20 07:11:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[10岁上大学，13岁读硕士，16岁读博士，后来消失在公众视野…日前，张炘炀受访回应种种疑问——曾担任高校外聘教师，目前无固定工作，跟朋友合伙接项目。当年要求父母为他在京买房，如今满意现状，“四海为家，在哪都挺好”。唯一遗憾是没做出一篇好论文，“从科研上看是完全失败的，按照西方高校的标准，我就不应该毕业。”](https://dig.chouti.com/link/40043466)|
+|2023-09-20 07:52:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[丹麦一艺术家收巨款后交出两幅空白画布名为《拿钱就跑》，被判令还钱](https://dig.chouti.com/link/40043723)|
+|2023-09-20 09:54:03|[36氪](https://plink.anyfeeder.com/36kr)|[氪星晚报｜京东发布三大生态升级举措；茅台2亿成立科创投资基金；妙鸭相机免费版发布](https://36kr.com/p/2440085889470848?f=rss)|
+|2023-09-20 02:29:33|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17 超耗電？！教你如何讓 iOS 17 降級 回 iOS 16](https://applefans.today/2023-09-ultfone-how-to-downgrade-ios-17-to-ios-16/)|
 |2023-09-20 06:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国政府称赞国内经济韧性，回击看空中国言论](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%A7%B0%E8%B5%9E%E5%9B%BD%E5%86%85%E7%BB%8F%E6%B5%8E%E9%9F%A7%E6%80%A7-%E5%9B%9E%E5%87%BB%E7%9C%8B%E7%A9%BA%E4%B8%AD%E5%9B%BD%E8%A8%80%E8%AE%BA-fc36e219)|
 |2023-09-20 05:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[Instacart和Klaviyo的IPO将部分解冻美国后期风投市场](https://cn.wsj.com/amp/articles/instacart%E5%92%8Cklaviyo%E7%9A%84ipo%E5%B0%86%E9%83%A8%E5%88%86%E8%A7%A3%E5%86%BB%E7%BE%8E%E5%9B%BD%E5%90%8E%E6%9C%9F%E9%A3%8E%E6%8A%95%E5%B8%82%E5%9C%BA-4d0b6880)|
 |2023-09-20 05:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[波音调高中国未来20年商用飞机需求预测](https://cn.wsj.com/amp/articles/%E6%B3%A2%E9%9F%B3%E8%B0%83%E9%AB%98%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A520%E5%B9%B4%E5%95%86%E7%94%A8%E9%A3%9E%E6%9C%BA%E9%9C%80%E6%B1%82%E9%A2%84%E6%B5%8B-20760cfb)|
