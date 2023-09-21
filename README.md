@@ -2,6 +2,44 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-21 03:03:14|[抽屉新热榜](https://plink.anyfeeder.com/chouti/hot)|[南宁一学校数十家长联名要求劝退霸凌初一女生？校方：该同学日常无霸凌行为，系偶发冲突](https://www.thepaper.cn/newsDetail_forward_24691392)|
+|2023-09-21 03:01:14|[抽屉新热榜](https://plink.anyfeeder.com/chouti/hot)|[【职校女生称实习被安排为男宾洗澡保养前列腺：涉事门店否认，警方介入】门店表示，没有提供不正规服务，该女生所做的事是她自愿的，因为房内没有监控，也不知是...](https://www.thepaper.cn/newsDetail_forward_24670709#)|
+|2023-09-21 02:04:46|[抽屉新热榜](https://plink.anyfeeder.com/chouti/hot)|[蔚来首款自研芯片“杨戬”量产：高效捕获激光雷达数据，降低激光雷达50%功耗](https://36kr.com/newsflashes/2441040323809924?f=rss)|
+|2023-09-21 01:43:23|[抽屉新热榜](https://plink.anyfeeder.com/chouti/hot)|[【送外卖的她】她就是一个普通女孩，真正意义上的那种普通。没有名气，没做自媒体，没写书，没写诗，没有娜拉式出走，没有草根「逆袭」冲破阶层。她只是普通地生...](https://mp.weixin.qq.com/s/QcE3CvQ3EjdNfDByPqVgrw)|
+|2023-09-21 01:19:16|[抽屉新热榜](https://plink.anyfeeder.com/chouti/hot)|[误将纸巾价格设为10元6箱致亏损千万，洁柔官方：将正常发货，如果买多了不便储存可与客服联系](https://www.nbd.com.cn/articles/2023-09-20/3028707.html)|
+|2023-09-21 01:10:43|[抽屉新热榜](https://plink.anyfeeder.com/chouti/hot)|[【变性女星控诉美恐女主歧视】《美国恐怖故事》第九季的变性女星Angelica Ross直播时控诉女主Emma Roberts恐跨性别者并歧视。她称当时两人正面对面聊天，剧组成...](https://weibo.com/tv/show/1034:4948319357829131?from=old_pc_videoshow)|
+|2023-09-21 01:04:09|[抽屉新热榜](https://plink.anyfeeder.com/chouti/hot)|[花西子公关败笔背后：为什么老板总是不信任自家公关团队？](https://www.jiemian.com/article/10133020.html)|
+|2023-09-21 00:14:38|[抽屉新热榜](https://plink.anyfeeder.com/chouti/hot)|[对不起我的龟龟 但真的很好笑](https://dig.chouti.com/pic/show?nid=48560d9973f52688df9142e665eeb53f&lid=40050820)|
+|2023-09-21 00:11:46|[抽屉新热榜](https://plink.anyfeeder.com/chouti/hot)|[畜牧业，某种程度上就是“移动的甲烷气罐”业。](https://m.weibo.cn/detail/4948314245562472)|
+|2023-09-21 03:00:00|[少数派](https://plink.anyfeeder.com/sspai)|[图标设计知往鉴今：致敬 Apple 初代设计师 Susan Kare](https://sspai.com/post/82739)|
+|2023-09-21 05:44:38|[祝融说。](https://zhurongshuo.com/index.xml)|[实相从想像中跃出。](https://zhurongshuo.com/posts/2023/09/2105/)|
+|2023-09-21 05:42:42|[祝融说。](https://zhurongshuo.com/index.xml)|[别太严肃，把玩把玩。](https://zhurongshuo.com/posts/2023/09/2104/)|
+|2023-09-21 05:40:16|[祝融说。](https://zhurongshuo.com/index.xml)|[给想象自由。](https://zhurongshuo.com/posts/2023/09/2103/)|
+|2023-09-21 05:31:41|[祝融说。](https://zhurongshuo.com/index.xml)|[过去未去，未来已来，一切可能正在发生。](https://zhurongshuo.com/posts/2023/09/2102/)|
+|2023-09-21 03:09:08|[祝融说。](https://zhurongshuo.com/index.xml)|[信为大，包容一切法。](https://zhurongshuo.com/posts/2023/09/2101/)|
+|2023-09-21 06:14:28|[V2EX](https://www.v2ex.com/index.xml)|[ Apple oyunfor 土耳其土区买礼品卡的手续费越来越高了](https://www.v2ex.com/t/975866#reply0)|
+|2023-09-21 06:13:20|[V2EX](https://www.v2ex.com/index.xml)|[ 怀旧游戏 自己搭了一个冒险岛 083](https://www.v2ex.com/t/975865#reply0)|
+|2023-09-21 06:12:48|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 NiubiX 2023-09-21 更新一下进度，求关注](https://www.v2ex.com/t/975863#reply0)|
+|2023-09-21 06:11:28|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 为什么男人折腾软路由， NAS 和服务器会感到快乐，有什么深层次的解释吗](https://www.v2ex.com/t/975862#reply0)|
+|2023-09-21 06:11:08|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 安卓 app 打卡绕过](https://www.v2ex.com/t/975861#reply0)|
+|2023-09-21 06:09:16|[V2EX](https://www.v2ex.com/index.xml)|[ Android 求教 android 大佬,如何在没有存储权限的情况下存储数据?](https://www.v2ex.com/t/975860#reply1)|
+|2023-09-21 05:54:22|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有了解神舟 mini PC7S 这款迷你主机的， N100+16G+512G， 1199 元。准备做个 All in One，求解惑。](https://www.v2ex.com/t/975858#reply0)|
+|2023-09-21 05:42:45|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 Leangoo 领歌敏捷开发工具都永久免费了，拿什么赚钱呢？](https://www.v2ex.com/t/975856#reply1)|
+|2023-09-21 05:41:46|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 招聘向 坐标大阪 可以直接高度人才签证 3*unity 游戏策划*1 web3 产品*1 中文面试](https://www.v2ex.com/t/975855#reply3)|
+|2023-09-21 05:39:52|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 朋友准备润，香港开户转了一笔 5 万刀被锁了](https://www.v2ex.com/t/975854#reply13)|
+|2023-09-21 05:27:52|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 华为不认苹果公司离职证明怎么办？](https://www.v2ex.com/t/975853#reply14)|
+|2023-09-21 05:26:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 怎么不能回复了，版主， Livid](https://www.v2ex.com/t/975852#reply0)|
+|2023-09-21 05:26:18|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 程序员空闲时间应该继续卷技术，还是找其他副业？](https://www.v2ex.com/t/975851#reply2)|
+|2023-09-21 05:23:42|[V2EX](https://www.v2ex.com/index.xml)|[ 中国 为什么所有行业都在产业升级，经济越来越差了](https://www.v2ex.com/t/975850#reply0)|
+|2023-09-21 05:22:23|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 请教个关于文档变更记录的问题](https://www.v2ex.com/t/975848#reply1)|
+|2023-09-21 05:20:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大家怎么看预制菜进校园这件事](https://www.v2ex.com/t/975847#reply30)|
+|2023-09-21 05:20:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Mac 如何解决在关闭 sip 时运行 APP？](https://www.v2ex.com/t/975846#reply0)|
+|2023-09-21 05:17:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 各位帮忙推荐一款 100w 充电器](https://www.v2ex.com/t/975845#reply12)|
+|2023-09-21 03:54:19|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[金山办公首次对外展示自研模型进展：WPS AI已接入内部全线产品](https://www.infoq.cn/article/Dc7OJLTv88NYJoy4NJCf)|
+|2023-09-21 03:28:30|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[DTDS 全球数字人才发展大会](https://www.infoq.cn/article/vhZajBpfwETB9TvdHGuJ)|
+|2023-09-21 03:15:30|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[QCon 全球软件开发大会·北京站优秀出品人与明星讲师名单公布](https://www.infoq.cn/article/rWSVXuKKHbRMkckEJ7Xj)|
+|2023-09-21 02:22:26|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[互联网行业再进化——云上AI时代](https://www.infoq.cn/article/Iwk2LLuMFSV4AisWG8jR)|
+|2023-09-21 04:36:03|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[联合国召开气候雄心峰会，中美未获发言机会](https://cn.nytimes.com/world/20230921/guterres-un-climate-summit/dual)|
 |2023-09-21 04:18:58|[机核](https://plink.anyfeeder.com/gcores)|[动作肉鸽游戏《觉醒者：遗忘之誓》10月18日发售](https://www.gcores.com/articles/171206)|
 |2023-09-21 04:11:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[菲律宾一机场安检员偷中国乘客钱财，被察觉后上演生吞现金。。。妹子够狠！](https://dig.chouti.com/link/40053549)|
 |2023-09-21 02:03:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【波兰总理：将停止向乌克兰提供武器】美媒称，波兰政府这一决定很可能与波乌之间的粮食争端有关，波兰多次指责乌克兰农产品的倾销扰乱当地市场，并宣布将继续执行对乌克兰农产品的禁令。但波兰政府同时表示，不会干扰其他国家通过波兰东南部城市热舒夫的军事枢纽向乌克兰运送武器，波兰从武器过境运输中获得了经济利益。](https://dig.chouti.com/link/40051649)|
