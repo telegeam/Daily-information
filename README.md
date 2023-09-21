@@ -2,6 +2,57 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-21 08:31:50|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1131 大模型“深吸一口气”后会更聪明](https://linux.cn/article-16213-1.html?utm_source=rss&utm_medium=rss)|
+|2023-09-21 10:08:00|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 写了一个无聊的工具站](https://www.v2ex.com/t/975961#reply0)|
+|2023-09-21 10:06:56|[V2EX](https://www.v2ex.com/index.xml)|[ Java 给女朋友做的视频播放平台，播放视频很卡，有几张方案解决](https://www.v2ex.com/t/975960#reply0)|
+|2023-09-21 10:03:17|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 踩到 Protobuf 解析坑了，如何才能严格解析 Protobuf?](https://www.v2ex.com/t/975959#reply1)|
+|2023-09-21 10:01:43|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 ipv6 p2p 远程真是个好东西](https://www.v2ex.com/t/975958#reply0)|
+|2023-09-21 10:01:24|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 谁懂网络技术呀](https://www.v2ex.com/t/975957#reply0)|
+|2023-09-21 10:01:22|[V2EX](https://www.v2ex.com/index.xml)|[ 前端开发 关于后台系统的前端开发，大家是会选择现成的 template 还是直接用前端框架+组件库手搓](https://www.v2ex.com/t/975956#reply2)|
+|2023-09-21 10:01:10|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 ES 查询的 scroll_id 不会变，我真的服了。。](https://www.v2ex.com/t/975955#reply0)|
+|2023-09-21 09:57:31|[V2EX](https://www.v2ex.com/index.xml)|[ 香港 在校学生能去香港开汇丰的卡吗](https://www.v2ex.com/t/975954#reply0)|
+|2023-09-21 09:53:14|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Bartender5 会上线 Setapp 可以不用急着买](https://www.v2ex.com/t/975953#reply0)|
+|2023-09-21 09:46:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有什么可内网部署的流程图绘制工具 / 白板吗？](https://www.v2ex.com/t/975951#reply3)|
+|2023-09-21 09:42:05|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 刚无意发现 MBP 国区官翻又补了一批 21 年 14 寸，包括 32+1T，转需~](https://www.v2ex.com/t/975949#reply2)|
+|2023-09-21 09:41:25|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 你们 ColorOS 里短信的垃圾广告推送也关不掉吗？](https://www.v2ex.com/t/975948#reply1)|
+|2023-09-21 09:25:40|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 （🍎iOS）嗯背单词更新了 1.3.0 版本，优化了释义遮挡模式和批量操作功能，自由定制👴的背单词方式](https://www.v2ex.com/t/975945#reply0)|
+|2023-09-21 09:24:58|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 疑问， EasyConnect 如何记住密码？](https://www.v2ex.com/t/975944#reply1)|
+|2023-09-21 09:22:39|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有办法把 ts 的 error 报错改成 warning](https://www.v2ex.com/t/975943#reply6)|
+|2023-09-21 09:21:50|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 想装个主机，配置搞不懂，请大佬们推荐](https://www.v2ex.com/t/975942#reply5)|
+|2023-09-21 09:17:12|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 送永久会员 IOS/安卓 《友映》，异地情侣同屏在线一起看电影，支持网盘](https://www.v2ex.com/t/975941#reply6)|
+|2023-09-21 09:13:33|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 深圳，中行卡被莫名其妙限制无法使用！](https://www.v2ex.com/t/975940#reply12)|
+|2023-09-21 09:04:07|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 最令人印象深刻的就是 StandBy](https://www.v2ex.com/t/975938#reply8)|
+|2023-09-21 09:00:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有哪些与历史结合的游戏推荐吗？](https://www.v2ex.com/t/975936#reply12)|
+|2023-09-21 08:59:54|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 最近看完了 MIT6.S081 友友们还有什么类似的好课吗？](https://www.v2ex.com/t/975935#reply3)|
+|2023-09-21 08:37:03|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[当全球人口达到顶峰后会发生什么](https://cn.nytimes.com/opinion/20230921/human-population-global-growth/)|
+|2023-09-21 08:07:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[关于加拿大指印度政府卷入谋杀案，目前我们所知的](https://cn.nytimes.com/world/20230921/canada-india-nijjar/)|
+|2023-09-21 05:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[大英博物馆失窃丑闻揭穿“普世”的掠夺谎言](https://cn.nytimes.com/opinion/20230921/museum-artifacts-looting/)|
+|2023-09-21 04:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[联合国召开气候雄心峰会，中美未获发言机会](https://cn.nytimes.com/world/20230921/guterres-un-climate-summit/)|
+|2023-09-21 01:07:03|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中国外长王毅缺席联大会议，加剧外界猜测](https://cn.nytimes.com/china/20230921/chinas-foreign-minister-will-skip-the-un-event-adding-to-a-sense-of-disarray-in-its-foreign-policy/)|
+|2023-09-21 09:43:04|[虎嗅](https://plink.anyfeeder.com/huxiu)|[重整在即，“江西猪王”连收监管措施](https://www.huxiu.com/article/2084646.html?f=rss)|
+|2023-09-21 09:20:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[什么样的餐饮店更容易存活？](https://www.huxiu.com/article/2079264.html?f=rss)|
+|2023-09-21 09:14:29|[虎嗅](https://plink.anyfeeder.com/huxiu)|[ChatGPT加持下，OpenAI的文生图模型又碾压对手了](https://www.huxiu.com/article/2084593.html?f=rss)|
+|2023-09-21 09:09:43|[虎嗅](https://plink.anyfeeder.com/huxiu)|[国内外单身制度对比：单身法律的道德困境](https://www.huxiu.com/article/2083002.html?f=rss)|
+|2023-09-21 08:35:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[谁是东北文旅第一城？](https://www.huxiu.com/article/2083542.html?f=rss)|
+|2023-09-21 08:20:33|[虎嗅](https://plink.anyfeeder.com/huxiu)|[华为有Mate 60 Pro，中兴有什么？](https://www.huxiu.com/article/2084347.html?f=rss)|
+|2023-09-21 08:08:40|[虎嗅](https://plink.anyfeeder.com/huxiu)|[东芝走向退市](https://www.huxiu.com/article/2084386.html?f=rss)|
+|2023-09-21 10:10:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[茅台出圈易，五粮液、泸州老窖和汾酒有压力](https://www.tmtpost.com/6716431.html)|
+|2023-09-21 10:06:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[旺季动销再遇冷，中秋加国庆也拯救不了白酒的高库存｜行业风向标](https://www.tmtpost.com/6717321.html)|
+|2023-09-21 10:05:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Badmarket老苗：把潮流开成杂货铺，为年轻人制造意外｜Loop无限青年](https://www.tmtpost.com/6709051.html)|
+|2023-09-21 10:01:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[新茶饮十年升级，还未等到“中国星巴克”](https://www.tmtpost.com/6716474.html)|
+|2023-09-21 09:57:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[2024年，中国邮轮市场将迎“大混战”？](https://www.tmtpost.com/6716482.html)|
+|2023-09-21 09:50:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[业绩回升、成长不足，红蜻蜓年轻化转型阵痛持续 直击业绩会](https://www.tmtpost.com/6717274.html)|
+|2023-09-21 09:46:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[第一个三年，大型租赁社区学会了遥遥领先？](https://www.tmtpost.com/6716500.html)|
+|2023-09-21 09:45:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[博士“下矿井、进车间”，站在华为云盘古大模型背后的人](https://www.tmtpost.com/6715531.html)|
+|2023-09-21 09:42:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[掼蛋救不了淮安](https://www.tmtpost.com/6716501.html)|
+|2023-09-21 09:35:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[茅台们玩联名，别跟瑞幸学“坏”了](https://www.tmtpost.com/6716550.html)|
+|2023-09-21 09:33:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[花西子需要上一堂品牌课](https://www.tmtpost.com/6716583.html)|
+|2023-09-21 09:28:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[小红书推“买手电商”，谁的机会？](https://www.tmtpost.com/6716588.html)|
+|2023-09-21 09:26:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[港股体育用品股集体下挫，8月运动服饰去库进度略有迟缓](https://www.tmtpost.com/6717222.html)|
+|2023-09-21 09:23:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[诺和诺德市值超LV，严肃医疗消费品化时代来了？](https://www.tmtpost.com/6716609.html)|
+|2023-09-21 09:21:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[比亚迪供应商新铝时代：通过“歇业”贸易商采购本地企业原料，扩产预算“虚高”｜IPO观察](https://www.tmtpost.com/6717176.html)|
+|2023-09-21 09:14:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[隐秘的“狂飙”：遏不住的抖音外卖野心](https://www.tmtpost.com/6717146.html)|
+|2023-09-21 08:28:56|[爱范儿](https://www.ifanr.com/feed)|[蔚来手机 NIO Phone 发布，不能换电成最大缺点](https://www.ifanr.com/1562811?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-09-21 03:13:39|[煎蛋](https://plink.anyfeeder.com/jiandan)|[摸鱼日报 第19期 ](http://jandan.net/p/114273)|
 |2023-09-21 07:47:16|[小众软件](https://plink.anyfeeder.com/appinn)|[求记录病历 App：主要记录生了什么病、检查结果、治疗方案](https://www.appinn.com/medical-record/)|
 |2023-09-21 08:10:47|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[Check Point：电动汽车大量普及，五条建议确保安全无虞](https://www.4hou.com/posts/9Amx)|
