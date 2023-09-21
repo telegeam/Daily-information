@@ -1,7 +1,31 @@
-﻿# 每日资讯（2023-09-20）
+﻿# 每日资讯（2023-09-21）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-21 00:43:57|[V2EX](https://v2ex.com/index.xml)|[ 字体排印 复制文字版的 pdf 文件的内容出来变成了乱码](https://www.v2ex.com/t/975728#reply0)|
+|2023-09-21 00:41:14|[V2EX](https://v2ex.com/index.xml)|[ Apple Apple Music 播放历史纪录的 bug](https://www.v2ex.com/t/975727#reply0)|
+|2023-09-21 00:37:10|[V2EX](https://v2ex.com/index.xml)|[ Apple iOS 自制 免费 CamX - 让 iPad 变成多功能便携屏](https://www.v2ex.com/t/975726#reply2)|
+|2023-09-21 00:29:02|[V2EX](https://v2ex.com/index.xml)|[ 问与答 复古踏板摩托车决赛圈](https://www.v2ex.com/t/975724#reply2)|
+|2023-09-21 00:06:24|[V2EX](https://v2ex.com/index.xml)|[ 程序员 做程序员好多年了，一直有个疑问，几乎没有一个程序或者功能是完全一次性写完不修 bug 的](https://www.v2ex.com/t/975722#reply16)|
+|2023-09-21 00:00:21|[V2EX](https://v2ex.com/index.xml)|[ 问与答 小白问题: 用公司的电脑,在自己家里的网络, 连接到自己个人的 Mac Mini, 会被公司监控到吗?](https://www.v2ex.com/t/975720#reply3)|
+|2023-09-21 00:30:00|[36氪](https://plink.anyfeeder.com/36kr)|[最前线 仰望U8豪华版109.8万开售，首批订单10月下旬开始交付](https://36kr.com/p/2440462516884101?f=rss)|
+|2023-09-21 00:17:39|[36氪](https://plink.anyfeeder.com/36kr)|[8点1氪丨花西子公关部员工或集体离职；马斯克脑机接口公司将进行人体实验；凉山多名百万级粉丝网红被捕](https://36kr.com/p/2440942742327687?f=rss)|
+|2023-09-21 00:50:12|[精品MAC应用分享](https://xclient.info/feed)|[Chrono Plus 1.7.1 任务管理与跟踪](https://xclient.info/s/chrono-plus.html)|
+|2023-09-21 00:49:14|[精品MAC应用分享](https://xclient.info/feed)|[PopClip 2023.9 不止让复制变得更简单](https://xclient.info/s/popclip.html)|
+|2023-09-21 00:48:28|[精品MAC应用分享](https://xclient.info/feed)|[Hype Pro 4.1.14 不会html5也能做出漂亮的动画](https://xclient.info/s/hype.html)|
+|2023-09-21 00:47:40|[精品MAC应用分享](https://xclient.info/feed)|[PatterNodes 3.2.2 重复图形模式动画插画制作工具](https://xclient.info/s/patternodes.html)|
+|2023-09-21 00:46:39|[精品MAC应用分享](https://xclient.info/feed)|[Live Home 3D Pro 4.8.0 强大的3D室内设计工具](https://xclient.info/s/live-home-3d-pro.html)|
+|2023-09-21 00:44:40|[虎嗅](https://rss.huxiu.com/)|[美联储如期暂停加息，但高利率将保持更久？](https://www.huxiu.com/article/2082532.html?f=rss)|
+|2023-09-21 00:37:05|[虎嗅](https://rss.huxiu.com/)|[一文读懂：美联储暂停加息，还会加吗？何时降息？](https://www.huxiu.com/article/2082530.html?f=rss)|
+|2023-09-21 00:32:00|[虎嗅](https://rss.huxiu.com/)|[你费尽心思准备的惊喜，可能只是“自我感动”](https://www.huxiu.com/article/2077048.html?f=rss)|
+|2023-09-21 00:29:51|[虎嗅](https://rss.huxiu.com/)|[东莞制造业：危机与转型](https://www.huxiu.com/article/2082512.html?f=rss)|
+|2023-09-21 00:26:00|[虎嗅](https://rss.huxiu.com/)|[河北雄安取消商品房预售，现房销售离我们还有多远？](https://www.huxiu.com/article/2082523.html?f=rss)|
+|2023-09-21 00:25:22|[虎嗅](https://rss.huxiu.com/)|[县城民办学校，大受欢迎](https://www.huxiu.com/article/2078015.html?f=rss)|
+|2023-09-21 00:23:52|[虎嗅](https://rss.huxiu.com/)|[印尼的故事（二）：政治经济的分歧交织在2024？](https://www.huxiu.com/article/2080842.html?f=rss)|
+|2023-09-21 00:22:07|[虎嗅](https://rss.huxiu.com/)|[安庆，正在醒来](https://www.huxiu.com/article/2082089.html?f=rss)|
+|2023-09-21 00:21:54|[虎嗅](https://rss.huxiu.com/)|[70年来头一次：日本东证所宣布明年将收盘时间延后半小时](https://www.huxiu.com/article/2082528.html?f=rss)|
+|2023-09-21 00:13:24|[虎嗅](https://rss.huxiu.com/)|[美联储暗示加息未止，美股尾盘跳水](https://www.huxiu.com/article/2082543.html?f=rss)|
+|2023-09-21 00:02:26|[虎嗅](https://rss.huxiu.com/)|[为什么老板总是不信任自家公关团队？](https://www.huxiu.com/article/2082081.html?f=rss)|
 |2023-09-20 10:09:49|[V2EX](http://www.v2ex.com/index.xml)|[ Microsoft Office 请问商业版哪里买？](https://www.v2ex.com/t/975623#reply0)|
 |2023-09-20 10:07:17|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 招聘 全职远程 前端工程师和后端工程师](https://www.v2ex.com/t/975622#reply0)|
 |2023-09-20 09:58:36|[V2EX](http://www.v2ex.com/index.xml)|[ Rust 使用 Rust+Tauri+Vue+ECharts 实现一个开源的跨平台的磁盘信息可视化工具](https://www.v2ex.com/t/975621#reply0)|
