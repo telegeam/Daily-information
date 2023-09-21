@@ -2,6 +2,61 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-21 01:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[央企、基金下场抢项目，工商业储能正成为“新不动产” 焦点分析](https://36kr.com/p/2439596379067011?f=rss)|
+|2023-09-21 02:46:26|[机核](https://plink.anyfeeder.com/gcores)|[国产生存类独游《苏醒之路》正式版定档10月17日](https://www.gcores.com/articles/171195)|
+|2023-09-21 02:02:49|[机核](https://plink.anyfeeder.com/gcores)|[EA宣布Criterion Games将专注《战地》系列开发，不再参与《极品飞车》开发](https://www.gcores.com/articles/171191)|
+|2023-09-21 01:42:22|[机核](https://plink.anyfeeder.com/gcores)|[V社公布2024年初Steam特卖及游戏节安排](https://www.gcores.com/articles/171188)|
+|2023-09-21 03:10:29|[V2EX](https://v2ex.com/index.xml)|[ 问与答 everything 如何在不建立索引的情况下，对网络驱动器进行搜索？](https://www.v2ex.com/t/975812#reply0)|
+|2023-09-21 03:10:23|[V2EX](https://v2ex.com/index.xml)|[ Apple 蹲一个 Apple One 美区超大杯的车！](https://www.v2ex.com/t/975811#reply0)|
+|2023-09-21 03:08:42|[V2EX](https://v2ex.com/index.xml)|[ 求职 字节跳动-生活服务-base 杭州，急招后端工程师！](https://www.v2ex.com/t/975810#reply1)|
+|2023-09-21 03:07:21|[V2EX](https://v2ex.com/index.xml)|[ 生活 如果拿到了一线城市的户口，你还会离开这个城市么？](https://www.v2ex.com/t/975808#reply0)|
+|2023-09-21 03:06:53|[V2EX](https://v2ex.com/index.xml)|[ 游戏 玩 2077，享赛博人生、](https://www.v2ex.com/t/975807#reply0)|
+|2023-09-21 03:04:38|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 上海 2023.9.24 线下沙龙 AI “沪”搭-Solo 社造](https://www.v2ex.com/t/975806#reply0)|
+|2023-09-21 03:04:31|[V2EX](https://v2ex.com/index.xml)|[ 生活 房子要交付啦，求推荐没有广告且内容丰富的 TV 方案～](https://www.v2ex.com/t/975805#reply2)|
+|2023-09-21 03:02:43|[V2EX](https://v2ex.com/index.xml)|[ macOS surge for mac](https://www.v2ex.com/t/975804#reply1)|
+|2023-09-21 03:01:35|[V2EX](https://v2ex.com/index.xml)|[ 问与答 如何可靠的将本机公网 IP 地址推送到服务端？](https://www.v2ex.com/t/975803#reply3)|
+|2023-09-21 03:01:14|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 浏览器插件 ModHeader 存在篡改网页添加广告现象](https://www.v2ex.com/t/975802#reply0)|
+|2023-09-21 03:00:02|[V2EX](https://v2ex.com/index.xml)|[ 数据库 Windows 版本的 Mariadb 11 数据库如何开启 SSL 加密连接呢？](https://www.v2ex.com/t/975801#reply0)|
+|2023-09-21 02:57:36|[V2EX](https://v2ex.com/index.xml)|[ 问与答 会折腾安卓的能不能鄙视下只能用苹果的](https://www.v2ex.com/t/975800#reply4)|
+|2023-09-21 02:57:24|[V2EX](https://v2ex.com/index.xml)|[ macOS Bartender5 上架了，非免费升级](https://www.v2ex.com/t/975799#reply3)|
+|2023-09-21 02:57:23|[V2EX](https://v2ex.com/index.xml)|[ 问与答 使用 Inno Setup 完成安装后如何将 exe 路径写入注册表](https://www.v2ex.com/t/975798#reply0)|
+|2023-09-21 02:57:15|[V2EX](https://v2ex.com/index.xml)|[ 问与答 win11 的 DevDrive 有人体验过吗](https://www.v2ex.com/t/975797#reply0)|
+|2023-09-21 02:54:38|[V2EX](https://v2ex.com/index.xml)|[ 软件 火绒真的是民族之光，一图胜千言](https://www.v2ex.com/t/975796#reply0)|
+|2023-09-21 02:53:15|[V2EX](https://v2ex.com/index.xml)|[ 程序员 求 postman 的替代品， Windows 系统](https://www.v2ex.com/t/975795#reply14)|
+|2023-09-21 02:50:12|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 招聘向 坐标日本 IT 上市会社但是可以韩语面试 Java javascript 经验必须](https://www.v2ex.com/t/975794#reply0)|
+|2023-09-21 02:49:12|[V2EX](https://v2ex.com/index.xml)|[ 西安 感觉这个板块不是太活跃，大家可以一起讨论下，创一个西安的技术交流群，啥都可以进，反正都是学习](https://www.v2ex.com/t/975793#reply0)|
+|2023-09-21 02:45:31|[V2EX](https://v2ex.com/index.xml)|[ iPhone iphone14Pro 更新 iOS17 后掉电巨快](https://www.v2ex.com/t/975792#reply8)|
+|2023-09-21 02:44:50|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想请教一个问题，你们是怎样找出 cdn 后面源 ip 地址的，有什么方式找出来的](https://www.v2ex.com/t/975791#reply3)|
+|2023-09-21 02:37:51|[V2EX](https://v2ex.com/index.xml)|[ 问与答 苹果官网为什么不保留 18 个月前的订单信息呢？](https://www.v2ex.com/t/975790#reply2)|
+|2023-09-21 02:36:55|[V2EX](https://v2ex.com/index.xml)|[ 程序员 程序员，很焦虑](https://www.v2ex.com/t/975789#reply13)|
+|2023-09-21 02:34:53|[V2EX](https://v2ex.com/index.xml)|[ 硬件 准备自己装个机，各位大佬看看配置单，给点建议](https://www.v2ex.com/t/975788#reply0)|
+|2023-09-21 02:34:16|[V2EX](https://v2ex.com/index.xml)|[ 问与答 为什么 ios17 敏感内容打码不起作用？](https://www.v2ex.com/t/975787#reply1)|
+|2023-09-21 02:32:09|[V2EX](https://v2ex.com/index.xml)|[ 程序员 Apache ShardingSphere 使用调研](https://www.v2ex.com/t/975786#reply4)|
+|2023-09-21 02:31:47|[V2EX](https://v2ex.com/index.xml)|[ 问与答 给客户建一个网站 需要可以展示 audio.有一个超级管理员可以管理这些 audio,有什么简便的方式吗？](https://www.v2ex.com/t/975785#reply0)|
+|2023-09-21 02:29:34|[V2EX](https://v2ex.com/index.xml)|[ Apple 没人喜欢 15pm 的蓝色吗](https://www.v2ex.com/t/975783#reply16)|
+|2023-09-21 02:27:42|[V2EX](https://v2ex.com/index.xml)|[ Python 双开的游戏窗口属性 bug](https://www.v2ex.com/t/975782#reply0)|
+|2023-09-21 02:26:52|[V2EX](https://v2ex.com/index.xml)|[ Go 编程语言 帮我看看这种写法会导致内存泄漏吗？](https://www.v2ex.com/t/975780#reply2)|
+|2023-09-21 02:22:15|[V2EX](https://v2ex.com/index.xml)|[ 问与答 投影仪和激光电视选哪个好点，万元左右有推荐品牌和型号吗？](https://www.v2ex.com/t/975779#reply4)|
+|2023-09-21 02:16:04|[V2EX](https://v2ex.com/index.xml)|[ Node.js Node 使用 Redis 如何处理因异步取值不准确的问题？](https://www.v2ex.com/t/975777#reply3)|
+|2023-09-21 02:15:03|[V2EX](https://v2ex.com/index.xml)|[ 程序员 就最近新闻网易员工事件，我们打工人如何防止职场 PUA](https://www.v2ex.com/t/975776#reply5)|
+|2023-09-21 02:13:27|[V2EX](https://v2ex.com/index.xml)|[ 问与答 请教当前环境下能否在深圳购买人才房?](https://www.v2ex.com/t/975775#reply10)|
+|2023-09-21 02:11:29|[V2EX](https://v2ex.com/index.xml)|[ 问与答 如何把 iptables 当代理用](https://www.v2ex.com/t/975774#reply6)|
+|2023-09-21 02:11:23|[V2EX](https://v2ex.com/index.xml)|[ Python 大量操作 dict 内元素时有什么能省略 dict 名字的语法糖？](https://www.v2ex.com/t/975773#reply9)|
+|2023-09-21 02:11:13|[V2EX](https://v2ex.com/index.xml)|[ 问与答 大佬们一般在哪看国内财经类资讯？有推荐的么？](https://www.v2ex.com/t/975772#reply1)|
+|2023-09-21 02:05:17|[V2EX](https://v2ex.com/index.xml)|[ Apple 更新 watchOS10 必须要先更新手机？](https://www.v2ex.com/t/975770#reply7)|
+|2023-09-21 02:04:26|[V2EX](https://v2ex.com/index.xml)|[ 问与答 人体工学椅有推荐的吗？](https://www.v2ex.com/t/975769#reply7)|
+|2023-09-21 10:02:06|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[黑客组织 USDoD 再次登场：全球近 6 万人信息泄露，信用机构恐慌](https://buaq.net/go-177621.html)|
+|2023-09-21 08:43:39|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[派早报：尼康推出 Z f 复古相机、荣耀发布 V Purse 钱包手机等](https://buaq.net/go-177620.html)|
+|2023-09-21 03:07:08|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[reverse engineering nrf51 firmware](https://buaq.net/go-177614.html)|
+|2023-09-21 02:38:49|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[OPENAI宣布推出DALL-E 3 可以基于ChatGPT生成提示词创建更复杂的图片](https://buaq.net/go-177610.html)|
+|2023-09-21 02:03:04|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Binary Ninja 3.5 Coruscant released: mod/div deoptimization, UEFI support, auto variable naming, and more](https://buaq.net/go-177613.html)|
+|2023-09-21 01:57:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[It might Be Time to Rethink Phishing Awareness](https://buaq.net/go-177612.html)|
+|2023-09-21 01:41:40|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Hackers and scammers target classrooms with ransomware. What can you do?](https://buaq.net/go-177615.html)|
+|2023-09-21 00:44:35|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[帕诺斯帕奈离职后 Windows 团队现在有点混乱 有三位负责人分管](https://buaq.net/go-177611.html)|
+|2023-09-21 00:12:10|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[微软将在本周五举办发布会 涉及硬件新品和人工智能愿景](https://buaq.net/go-177607.html)|
+|2023-09-21 01:32:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[前端的轮子又造到一块去了： Svelte5 将使用 runes](https://www.v2ex.com/t/975748#reply7)|
+|2023-09-21 00:06:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[做程序员好多年了，一直有个疑问，几乎没有一个程序或者功能是完全一次性写完不修 bug 的](https://www.v2ex.com/t/975722#reply76)|
+|2023-09-21 01:27:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[即将发布系列课程： SwiftUI + Xcode 15 实战教程（2023 最新）](https://www.v2ex.com/t/975743#reply8)|
 |2023-09-21 00:59:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Linux 内核支持周期即将发生一项重大变革！](https://linux.cn/article-16211-1.html?utm_source=rss&utm_medium=rss)|
 |2023-09-21 00:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[韩国总统将在联大上呼吁国际社会关注应对朝俄军事贸易](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20230921-%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%B0%86%E5%9C%A8%E8%81%94%E5%A4%A7%E4%B8%8A%E5%91%BC%E5%90%81%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E5%85%B3%E6%B3%A8%E5%BA%94%E5%AF%B9%E6%9C%9D%E4%BF%84%E5%86%9B%E4%BA%8B%E8%B4%B8%E6%98%93)|
 |2023-09-21 00:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[法国与德国共建地面主力战斗系统，但在欧盟防导弹系统上有很大分歧 - 法国世界报](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20230921-%E6%B3%95%E5%9B%BD%E4%B8%8E%E5%BE%B7%E5%9B%BD%E5%85%B1%E5%BB%BA%E5%9C%B0%E9%9D%A2%E4%B8%BB%E5%8A%9B%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%BD%86%E5%9C%A8%E6%AC%A7%E7%9B%9F%E9%98%B2%E5%AF%BC%E5%BC%B9%E7%B3%BB%E7%BB%9F%E4%B8%8A%E6%9C%89%E5%BE%88%E5%A4%A7%E5%88%86%E6%AD%A7)|
