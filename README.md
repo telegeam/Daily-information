@@ -2,6 +2,42 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-21 14:22:28|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[网宿安全演武实验室成立，聚焦攻防体系研究](https://buaq.net/go-177639.html)|
+|2023-09-21 14:17:21|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Nagios XI 网络监控软件曝出多个安全漏洞](https://buaq.net/go-177641.html)|
+|2023-09-21 14:12:05|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[T-Mobile 程序故障，用户竟能看到他人账户信息](https://buaq.net/go-177642.html)|
+|2023-09-21 14:10:04|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[网宿安全：以“体系化安全”，护航企业数智化发展](https://buaq.net/go-177640.html)|
+|2023-09-21 14:08:48|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[重大威胁！P2PInfect 僵尸软件活动量激增 600 倍](https://buaq.net/go-177643.html)|
+|2023-09-21 13:51:19|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[猎鸭行动 Qakbot僵尸网络覆灭记，猖獗15年之久](https://buaq.net/go-177638.html)|
+|2023-09-21 13:34:07|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[苹果解释为什么iPhone 15使用5倍光学变焦而不是10倍：怕你手抖拍不好](https://buaq.net/go-177634.html)|
+|2023-09-21 12:35:43|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[知名Web集成环境Lnmp.org一键安装包被投毒 请各位站长立即检查服务器](https://buaq.net/go-177635.html)|
+|2023-09-21 12:02:28|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[ 设置指南 AirPods Pro 2获得新固件 带来自适应音频/对话感知/自动降噪等](https://buaq.net/go-177636.html)|
+|2023-09-21 11:55:25|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[ 技巧 Windows 11开发版开始菜单推荐部分可以折叠内容 下面是开启方法](https://buaq.net/go-177637.html)|
+|2023-09-21 11:40:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[OriginBotnet通过恶意Word文档传播！](https://buaq.net/go-177630.html)|
+|2023-09-21 11:22:01|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[代表乔治RR马丁的作家协会加入对 OpenAI 的侵权诉讼](https://buaq.net/go-177633.html)|
+|2023-09-21 11:22:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[持续性威胁：新漏洞将数千个GitHub代码库和数百万用户置于险境](https://buaq.net/go-177622.html)|
+|2023-09-21 11:21:52|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Nagios XI 网络监控软件曝出多个安全漏洞](https://buaq.net/go-177626.html)|
+|2023-09-21 11:04:49|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[T-Mobile 程序故障，用户竟能看到他人账户信息](https://buaq.net/go-177624.html)|
+|2023-09-21 11:00:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[图标设计知往鉴今：致敬 Apple 初代设计师 Susan Kare](https://buaq.net/go-177627.html)|
+|2023-09-21 10:41:52|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[重大威胁！P2PInfect僵尸软件活动量激增600倍](https://buaq.net/go-177625.html)|
+|2023-09-21 10:25:41|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[腾讯安全发布云原生安全数据湖，高性能数据分析助力企业迈向智能安全](https://buaq.net/go-177623.html)|
+|2023-09-21 05:51:19|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[猎鸭行动 Qakbot僵尸网络覆灭记，猖獗15年之久](https://www.freebuf.com/articles/378746.html)|
+|2023-09-21 02:57:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 用 Rust 编码？这是 JetBrains 的新 IDE](https://linux.cn/article-16212-1.html?utm_source=rss&utm_medium=rss)|
+|2023-09-21 05:02:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[走出记忆，围猎时间 ：一场西西弗斯式的阿尔茨海默症照护](https://dig.chouti.com/link/40053797)|
+|2023-09-21 01:02:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[南京大学，考古学专业，这个身份让杰基自命“清高”多年。直到考研失败，考公失败，北漂住到群租房，10多年换了30份工作。他在人到中年时，辞职成为自媒体博主，不结婚，没正式的工作，无法用主流叙事定义自己，但感觉从社会边缘找回了“人”的状态。](https://dig.chouti.com/link/40050969)|
+|2023-09-21 06:33:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[原创故事《苹果和华为》。前几次相亲都失败了，因为大家用的手机不一样。我带苹果时，对方正好用华为；我带华为时，对方恰好用苹果。对方拒绝的理由都是：道不同不相为谋。所以这次相亲，我同时带了苹果和华为。我把两个手机藏在包里，我的计划是：对方用哪个，我就拿哪个，尽量保持一致。](https://dig.chouti.com/link/40054877)|
+|2023-09-21 06:24:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这么懂。人情世故](https://dig.chouti.com/link/40054875)|
+|2023-09-21 00:11:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Courteney Cox：我才没有什么垃圾屋呢！](https://dig.chouti.com/link/40050734)|
+|2023-09-21 00:34:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【SpaceX起诉美国司法部，要求停止招聘歧视案】美国司法部在上个月发布的一份投诉中称，从2018年到2022年，SpaceX公司经常拒绝雇用非美国公民或绿卡持有者。司法部表示，SpaceX错误地声称联邦出口管制法禁止其雇佣外国公民。](https://dig.chouti.com/link/40050832)|
+|2023-09-21 00:03:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[广州沙河服装小档口里的财富梦：万人抢租714个商铺，最高年租成交价525万元](https://dig.chouti.com/link/40050626)|
+|2023-09-21 00:57:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[人贩子余华英的割裂人生](https://dig.chouti.com/link/40050904)|
+|2023-09-21 07:01:00|[虎嗅](https://rss.huxiu.com/)|[特斯拉墨西哥工厂，悬了？](https://www.huxiu.com/article/2083981.html?f=rss)|
+|2023-09-21 06:52:34|[虎嗅](https://rss.huxiu.com/)|[盒马对山姆出手，这波商战你站谁？](https://www.huxiu.com/article/2081253.html?f=rss)|
+|2023-09-21 06:45:02|[虎嗅](https://rss.huxiu.com/)|[带我妈相亲，看见中老年女性的情与欲](https://www.huxiu.com/article/2076567.html?f=rss)|
+|2023-09-21 06:37:48|[虎嗅](https://rss.huxiu.com/)|[在高校心理中心三年，我看见年轻人内心的抑郁](https://www.huxiu.com/article/2018977.html?f=rss)|
+|2023-09-21 06:36:39|[虎嗅](https://rss.huxiu.com/)|[工厂搭子AMR机器人能为你干多少活儿？](https://www.huxiu.com/article/2080828.html?f=rss)|
+|2023-09-21 06:12:07|[虎嗅](https://rss.huxiu.com/)|[以前“一口牙堪比一台豪车”，现在打5折](https://www.huxiu.com/article/2083953.html?f=rss)|
+|2023-09-21 06:01:42|[虎嗅](https://rss.huxiu.com/)|[ChatGPT，“偏左”？](https://www.huxiu.com/article/2083643.html?f=rss)|
+|2023-09-21 05:52:00|[虎嗅](https://rss.huxiu.com/)|[融到I轮还没上市的独角兽，估值430亿美元](https://www.huxiu.com/article/2083601.html?f=rss)|
 |2023-09-21 03:03:14|[抽屉新热榜](https://plink.anyfeeder.com/chouti/hot)|[南宁一学校数十家长联名要求劝退霸凌初一女生？校方：该同学日常无霸凌行为，系偶发冲突](https://www.thepaper.cn/newsDetail_forward_24691392)|
 |2023-09-21 03:01:14|[抽屉新热榜](https://plink.anyfeeder.com/chouti/hot)|[【职校女生称实习被安排为男宾洗澡保养前列腺：涉事门店否认，警方介入】门店表示，没有提供不正规服务，该女生所做的事是她自愿的，因为房内没有监控，也不知是...](https://www.thepaper.cn/newsDetail_forward_24670709#)|
 |2023-09-21 02:04:46|[抽屉新热榜](https://plink.anyfeeder.com/chouti/hot)|[蔚来首款自研芯片“杨戬”量产：高效捕获激光雷达数据，降低激光雷达50%功耗](https://36kr.com/newsflashes/2441040323809924?f=rss)|
