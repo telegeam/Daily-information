@@ -2,6 +2,53 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-21 00:59:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Linux 内核支持周期即将发生一项重大变革！](https://linux.cn/article-16211-1.html?utm_source=rss&utm_medium=rss)|
+|2023-09-21 00:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[韩国总统将在联大上呼吁国际社会关注应对朝俄军事贸易](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20230921-%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%B0%86%E5%9C%A8%E8%81%94%E5%A4%A7%E4%B8%8A%E5%91%BC%E5%90%81%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E5%85%B3%E6%B3%A8%E5%BA%94%E5%AF%B9%E6%9C%9D%E4%BF%84%E5%86%9B%E4%BA%8B%E8%B4%B8%E6%98%93)|
+|2023-09-21 00:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[法国与德国共建地面主力战斗系统，但在欧盟防导弹系统上有很大分歧 - 法国世界报](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20230921-%E6%B3%95%E5%9B%BD%E4%B8%8E%E5%BE%B7%E5%9B%BD%E5%85%B1%E5%BB%BA%E5%9C%B0%E9%9D%A2%E4%B8%BB%E5%8A%9B%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%BD%86%E5%9C%A8%E6%AC%A7%E7%9B%9F%E9%98%B2%E5%AF%BC%E5%BC%B9%E7%B3%BB%E7%BB%9F%E4%B8%8A%E6%9C%89%E5%BE%88%E5%A4%A7%E5%88%86%E6%AD%A7)|
+|2023-09-21 02:16:04|[V2EX](https://www.v2ex.com/index.xml)|[ Node.js Node 使用 Redis 如何处理因异步取值不准确的问题？](https://www.v2ex.com/t/975777#reply0)|
+|2023-09-21 02:15:03|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 就最近新闻网易员工事件，我们打工人如何防止职场 PUA](https://www.v2ex.com/t/975776#reply0)|
+|2023-09-21 02:13:27|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教当前环境下能否在深圳购买人才房?](https://www.v2ex.com/t/975775#reply0)|
+|2023-09-21 02:11:29|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如何把 iptables 当代理用](https://www.v2ex.com/t/975774#reply1)|
+|2023-09-21 02:11:23|[V2EX](https://www.v2ex.com/index.xml)|[ Python 大量操作 dict 内元素时有什么能省略 dict 名字的语法糖？](https://www.v2ex.com/t/975773#reply0)|
+|2023-09-21 02:11:13|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大佬们一般在哪看国内财经类资讯？有推荐的么？](https://www.v2ex.com/t/975772#reply0)|
+|2023-09-21 02:10:45|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 360 安全卫士已经开始封锁 V 站了](https://www.v2ex.com/t/975771#reply4)|
+|2023-09-21 02:05:17|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 更新 watchOS10 必须要先更新手机？](https://www.v2ex.com/t/975770#reply2)|
+|2023-09-21 02:04:26|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 人体工学椅有推荐的吗？](https://www.v2ex.com/t/975769#reply0)|
+|2023-09-21 02:03:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 windows 平台上有没有类似 libchecker 的软件？](https://www.v2ex.com/t/975768#reply0)|
+|2023-09-21 02:02:22|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iphone13 70G 存储， ipsw 完整升级 ios17，升级、备份、还原用时 3 小时](https://www.v2ex.com/t/975767#reply1)|
+|2023-09-21 01:59:40|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 屠龙者最终成为龙！](https://www.v2ex.com/t/975766#reply3)|
+|2023-09-21 01:58:07|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 自建 headscale 的一些问题](https://www.v2ex.com/t/975765#reply3)|
+|2023-09-21 01:55:46|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 分享最近开发的一些 Deup 插件脚本](https://www.v2ex.com/t/975764#reply0)|
+|2023-09-21 01:55:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 回复好几个帖子都要注册满 480 天 是不是被禁了](https://www.v2ex.com/t/975763#reply1)|
+|2023-09-21 01:54:45|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 社交平台上发布脱单贴前的一些疑问求解](https://www.v2ex.com/t/975762#reply5)|
+|2023-09-21 01:48:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 联想拯救者 McAfee CPU 占用率 90%多，是病毒还是这个软件本身的锅？](https://www.v2ex.com/t/975761#reply0)|
+|2023-09-21 01:46:04|[V2EX](https://www.v2ex.com/index.xml)|[ Spotify 菲区 spotify 还有 2 车位](https://www.v2ex.com/t/975760#reply0)|
+|2023-09-21 01:45:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 爬虫 ip 求助](https://www.v2ex.com/t/975759#reply2)|
+|2023-09-21 01:43:54|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 深圳 3000 额度的银行卡？ 金融管控已经开始把手探到招行了吗？](https://www.v2ex.com/t/975758#reply16)|
+|2023-09-21 01:43:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有在 appletv 上用 surge 搭 Snell Server 的吗](https://www.v2ex.com/t/975757#reply0)|
+|2023-09-21 01:42:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求助 求推荐一个 B 站直播通知机器人](https://www.v2ex.com/t/975756#reply6)|
+|2023-09-21 01:41:23|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 同时在线 100 人的 SAAS 平台需要多大带宽呢？](https://www.v2ex.com/t/975755#reply0)|
+|2023-09-21 01:40:19|[V2EX](https://www.v2ex.com/index.xml)|[ 互联网 V 站的测试工程师多吗？](https://www.v2ex.com/t/975754#reply0)|
+|2023-09-21 01:36:18|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 大家的 Java 服务的进程管理是如何做到的](https://www.v2ex.com/t/975751#reply8)|
+|2023-09-21 01:35:38|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教怎么避免让老人家看直播](https://www.v2ex.com/t/975750#reply23)|
+|2023-09-21 01:32:47|[V2EX](https://www.v2ex.com/index.xml)|[ 信息安全 最贵的往往是那些免费带入坑，不能自拔～](https://www.v2ex.com/t/975749#reply0)|
+|2023-09-21 01:32:17|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 前端的轮子又造到一块去了： Svelte5 将使用 runes](https://www.v2ex.com/t/975748#reply1)|
+|2023-09-21 01:31:57|[V2EX](https://www.v2ex.com/index.xml)|[ 互联网 Can a computer be used as a wireless drive and connected directly via Wi-Fi to transfer files?](https://www.v2ex.com/t/975747#reply0)|
+|2023-09-21 01:31:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 救命， win11 桌面突然多了一个新图标没法删除](https://www.v2ex.com/t/975746#reply4)|
+|2023-09-21 01:30:46|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 截屏工具一直在用 snipaste 有没有更好用的？](https://www.v2ex.com/t/975745#reply12)|
+|2023-09-21 01:27:38|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 即将发布系列课程： SwiftUI + Xcode 15 实战教程（2023 最新）](https://www.v2ex.com/t/975743#reply6)|
+|2023-09-21 01:24:51|[V2EX](https://www.v2ex.com/index.xml)|[ Windows Edge 突然变模糊，不可用](https://www.v2ex.com/t/975742#reply7)|
+|2023-09-21 01:24:49|[V2EX](https://www.v2ex.com/index.xml)|[ Mac mini Mac mini 能否改造用作家庭中枢](https://www.v2ex.com/t/975741#reply0)|
+|2023-09-21 01:24:37|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 windwos 双显示器关闭其中一个后，远程桌面却只有第二个如何解决。](https://www.v2ex.com/t/975740#reply3)|
+|2023-09-21 01:22:18|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iphone14pro 快一年了，打王者还是不能稳定帧率？](https://www.v2ex.com/t/975739#reply7)|
+|2023-09-21 01:16:31|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 各个 Linux 发行版论坛](https://www.v2ex.com/t/975738#reply6)|
+|2023-09-21 01:14:18|[V2EX](https://www.v2ex.com/index.xml)|[ Apple TV 请教朋友们， apple tv 有办法双字幕吗](https://www.v2ex.com/t/975736#reply2)|
+|2023-09-21 01:10:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 刚出版的《马斯克传》为什么从微信阅读下架了？](https://www.v2ex.com/t/975735#reply17)|
+|2023-09-21 01:07:36|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 「待机显示」的设定隔天会被自动重置为默认，有朋友遇到这个情况吗？](https://www.v2ex.com/t/975733#reply1)|
+|2023-09-21 01:05:23|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Win 和 Linux 双系统，可以分别启用全盘加密吗？](https://www.v2ex.com/t/975732#reply1)|
+|2023-09-21 00:59:25|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 新能源车的刹车灯到底是制动的信号灯还是刹车踏板的信号灯](https://www.v2ex.com/t/975731#reply13)|
+|2023-09-21 00:53:55|[V2EX](https://www.v2ex.com/index.xml)|[ 前端开发 请问大佬们一个问题，有没有推荐的开源的低代码 h5 编辑器](https://www.v2ex.com/t/975729#reply1)|
+|2023-09-21 00:43:57|[V2EX](https://www.v2ex.com/index.xml)|[ 字体排印 复制文字版的 pdf 文件的内容出来变成了乱码](https://www.v2ex.com/t/975728#reply7)|
 |2023-09-21 00:35:44|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中国外长王毅缺席联大会议，加剧外界猜测](https://cn.nytimes.com/china/20230921/chinas-foreign-minister-will-skip-the-un-event-adding-to-a-sense-of-disarray-in-its-foreign-policy/?utm_source=RSS)|
 |2023-09-21 00:38:26|[爱范儿](https://www.ifanr.com/feed)|[早报｜孟晚舟：华为要打造中国算力底座 / 花西子创始人送 1 万份眉笔 / OpenAI 官宣大更新](https://www.ifanr.com/1562808?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-09-21 01:37:32|[虎嗅](https://rss.huxiu.com/)|[AI读出了老鼠脑中的画面，读取人脑还会远吗？](https://www.huxiu.com/article/2080323.html?f=rss)|
