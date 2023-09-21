@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-21 00:35:44|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中国外长王毅缺席联大会议，加剧外界猜测](https://cn.nytimes.com/china/20230921/chinas-foreign-minister-will-skip-the-un-event-adding-to-a-sense-of-disarray-in-its-foreign-policy/?utm_source=RSS)|
+|2023-09-21 00:38:26|[爱范儿](https://www.ifanr.com/feed)|[早报｜孟晚舟：华为要打造中国算力底座 / 花西子创始人送 1 万份眉笔 / OpenAI 官宣大更新](https://www.ifanr.com/1562808?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-21 01:37:32|[虎嗅](https://rss.huxiu.com/)|[AI读出了老鼠脑中的画面，读取人脑还会远吗？](https://www.huxiu.com/article/2080323.html?f=rss)|
+|2023-09-21 01:12:17|[虎嗅](https://rss.huxiu.com/)|[巴奴火锅赔了800多万，火锅行业傻眼了](https://www.huxiu.com/article/2082096.html?f=rss)|
+|2023-09-21 01:00:01|[虎嗅](https://rss.huxiu.com/)|[朋友圈十年，几乎没变化？](https://www.huxiu.com/article/2080196.html?f=rss)|
+|2023-09-21 00:56:57|[虎嗅](https://rss.huxiu.com/)|[为什么说预制菜进校园的时机还不成熟？](https://www.huxiu.com/article/2082090.html?f=rss)|
+|2023-09-21 00:50:17|[虎嗅](https://rss.huxiu.com/)|[临近2023年底，有哪些GenAI产品做起来了？](https://www.huxiu.com/article/2082957.html?f=rss)|
 |2023-09-21 00:43:57|[V2EX](https://v2ex.com/index.xml)|[ 字体排印 复制文字版的 pdf 文件的内容出来变成了乱码](https://www.v2ex.com/t/975728#reply0)|
 |2023-09-21 00:41:14|[V2EX](https://v2ex.com/index.xml)|[ Apple Apple Music 播放历史纪录的 bug](https://www.v2ex.com/t/975727#reply0)|
 |2023-09-21 00:37:10|[V2EX](https://v2ex.com/index.xml)|[ Apple iOS 自制 免费 CamX - 让 iPad 变成多功能便携屏](https://www.v2ex.com/t/975726#reply2)|
