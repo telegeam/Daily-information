@@ -2,6 +2,46 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-22 01:47:07|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 老婆法考通过，恰逢纪念日，送智能手表 V 友有推荐不？](https://www.v2ex.com/t/976067#reply0)|
+|2023-09-22 01:46:50|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 求推荐：续航可以半年到一年的无限鼠标键盘套装](https://www.v2ex.com/t/976066#reply0)|
+|2023-09-22 01:46:21|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问有法定假日和周末重叠这个说法吗？](https://www.v2ex.com/t/976065#reply0)|
+|2023-09-22 01:45:09|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 我的 web 端截图插件支持在触屏设备使用啦](https://www.v2ex.com/t/976064#reply0)|
+|2023-09-22 01:39:59|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 发工资了， 3000 以下的手机，要求有 Google 框架，其他没什么要求，求推荐，硬性标准就 3000，超一点都不行](https://www.v2ex.com/t/976063#reply4)|
+|2023-09-22 01:36:05|[V2EX](http://www.v2ex.com/index.xml)|[ Cloudflare 请问支持非标准端口的 CDN 提供商有哪些？比如 cf 支持非 80 和 443 端口](https://www.v2ex.com/t/976062#reply2)|
+|2023-09-22 01:32:33|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 今天看到敏捷开发管理工具 Leangoo 领歌免费了，有人用过吗？](https://www.v2ex.com/t/976059#reply0)|
+|2023-09-22 01:31:21|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 馒头 404 了](https://www.v2ex.com/t/976058#reply8)|
+|2023-09-22 01:30:12|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 nike, 阿迪达斯 等品牌是否存在任何技术上的壁垒？](https://www.v2ex.com/t/976057#reply6)|
+|2023-09-22 01:29:35|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 我在 apple store 上架了一个 nodejs 的应用](https://www.v2ex.com/t/976056#reply0)|
+|2023-09-22 01:27:03|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 大佬们，订单显示随时取货，预约时间没到可以去吗](https://www.v2ex.com/t/976054#reply7)|
+|2023-09-22 01:25:23|[V2EX](http://www.v2ex.com/index.xml)|[ Python 构建运行 Python 项目都有哪些网络相关注意事项？](https://www.v2ex.com/t/976053#reply2)|
+|2023-09-22 01:24:05|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 福建东部（福州附近）有什么舒适的小城市推荐吗？](https://www.v2ex.com/t/976052#reply5)|
+|2023-09-22 01:21:15|[V2EX](http://www.v2ex.com/index.xml)|[ 服务器 请各位推荐 Linux 下的 git 服务器软件，目前没有 CI 类需求，但是希望升级别折腾，稳定点](https://www.v2ex.com/t/976051#reply3)|
+|2023-09-22 01:19:47|[V2EX](http://www.v2ex.com/index.xml)|[ Apple iOS17/watchOS10/tvOS17 似乎修复了 Apple Watch 直连 TV 端 Fitness+报错的问题](https://www.v2ex.com/t/976050#reply0)|
+|2023-09-22 01:19:08|[V2EX](http://www.v2ex.com/index.xml)|[ 海外留学 工作 8 年程序员，想出国读研究生，求推荐中介机构？](https://www.v2ex.com/t/976049#reply3)|
+|2023-09-22 01:16:04|[V2EX](http://www.v2ex.com/index.xml)|[ Java 求大佬推荐一下微服务学习路线](https://www.v2ex.com/t/976048#reply3)|
+|2023-09-22 01:13:49|[V2EX](http://www.v2ex.com/index.xml)|[ 投资 类似癌股，美股， 虚拟货币， 期货等数据源一般大家从哪里找或者购买？](https://www.v2ex.com/t/976047#reply4)|
+|2023-09-22 01:12:28|[V2EX](http://www.v2ex.com/index.xml)|[ Chrome Chrome 浏览器终于把下载列表按钮加回去了](https://www.v2ex.com/t/976046#reply4)|
+|2023-09-22 01:08:55|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 IOS 在蜂窝数据限制 APP 仅无限局域网，他还可以通过 vpn 跑流量](https://www.v2ex.com/t/976045#reply2)|
+|2023-09-22 01:08:37|[V2EX](http://www.v2ex.com/index.xml)|[ 硬件 2 选 1:BOSE 和 JBL 的蓝牙音响](https://www.v2ex.com/t/976044#reply8)|
+|2023-09-22 01:03:27|[V2EX](http://www.v2ex.com/index.xml)|[ Apple iPhone 双卡流量指定](https://www.v2ex.com/t/976043#reply6)|
+|2023-09-22 01:03:06|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 想到一个上海的家宽服务器托管业务，按出租来算，宽带自理，不知是否有风险](https://www.v2ex.com/t/976042#reply13)|
+|2023-09-22 00:58:53|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 哔哩哔哩主页地址解析到海外是什么情况？](https://www.v2ex.com/t/976041#reply4)|
+|2023-09-22 00:57:03|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 电梯设计图纸的制作需要考什么证？](https://www.v2ex.com/t/976040#reply1)|
+|2023-09-22 00:48:10|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 部门老大和人事处谁的话语权大？](https://www.v2ex.com/t/976039#reply19)|
+|2023-09-22 01:05:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[德国企业顶住政府压力增加在华投资](https://cn.wsj.com/articles/%E5%BE%B7%E5%9B%BD%E4%BC%81%E4%B8%9A%E9%A1%B6%E4%BD%8F%E6%94%BF%E5%BA%9C%E5%8E%8B%E5%8A%9B%E5%A2%9E%E5%8A%A0%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84-4d316113)|
+|2023-09-22 00:50:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国向西太平洋派遣无人舰艇，首次在中国附近部署](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%90%91%E8%A5%BF%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B4%BE%E9%81%A3%E6%97%A0%E4%BA%BA%E8%88%B0%E8%89%87-%E9%A6%96%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%99%84%E8%BF%91%E9%83%A8%E7%BD%B2-564cc51e)|
+|2023-09-22 01:05:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国财经媒体报道汇总：商务部：将推动出台支持汽车后市场发展举措](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E5%95%86%E5%8A%A1%E9%83%A8-%E5%B0%86%E6%8E%A8%E5%8A%A8%E5%87%BA%E5%8F%B0%E6%94%AF%E6%8C%81%E6%B1%BD%E8%BD%A6%E5%90%8E%E5%B8%82%E5%9C%BA%E5%8F%91%E5%B1%95%E4%B8%BE%E6%8E%AA-72d0b7c7)|
+|2023-09-22 01:28:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[国产新能源百万级豪车开卖，谁会买单？｜钛度车库](https://www.tmtpost.com/6717596.html)|
+|2023-09-22 01:23:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[BYD's First Luxury Vehicle Priced On Sale, Priced at Over 1 Million Yuan](https://www.tmtpost.com/6716806.html)|
+|2023-09-22 01:21:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[搭载沉浸空间音频技术，BOSE发布QuietComfort Ultra耳机及耳塞](https://www.tmtpost.com/6718083.html)|
+|2023-09-22 00:49:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[钛媒体科股早知道：全球首个超快充电池专业工厂将投产](https://www.tmtpost.com/6717995.html)|
+|2023-09-22 00:30:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[消失的维密门店，以及背后的内衣暗战](https://www.tmtpost.com/6717713.html)|
+|2023-09-22 00:51:51|[36氪](https://plink.anyfeeder.com/36kr)|[连通应用全家桶，谷歌推出Bard拓展程序，追赶GPT](https://36kr.com/p/2441482402713991?f=rss)|
+|2023-09-22 00:31:12|[36氪](https://plink.anyfeeder.com/36kr)|[这一次是GGV，谁是下一个？](https://36kr.com/p/2442373331163264?f=rss)|
+|2023-09-22 00:30:59|[36氪](https://plink.anyfeeder.com/36kr)|[湘雅二院彭道泉：一针管半年*，“疫苗样”降脂药开启血脂管理新纪元](https://36kr.com/p/2441529641833096?f=rss)|
+|2023-09-22 00:16:49|[36氪](https://plink.anyfeeder.com/36kr)|[8点1氪丨日本对华食品出口暴跌41.2%；获诺贝尔奖在东莞买房可补贴1000万；洁柔主播否认输错价格是营销](https://36kr.com/p/2442358280919171?f=rss)|
+|2023-09-22 00:08:08|[36氪](https://plink.anyfeeder.com/36kr)|[蔚来李斌：我很清楚公司的边界要守好 36氪专访](https://36kr.com/p/2441557966934658?f=rss)|
+|2023-09-22 00:00:29|[36氪](https://plink.anyfeeder.com/36kr)|[瞄准印尼市场，「KUPU」基于垂直模型打造智能化AI招聘平台｜项目报道](https://36kr.com/p/2441825332156288?f=rss)|
 |2023-09-22 00:07:00|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)|
 |2023-09-22 00:48:10|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 部门老大和人事处谁的话语权大？](https://www.v2ex.com/t/976039#reply3)|
 |2023-09-22 00:38:00|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 105 期）：开发一个年收入 120 万美元的拍照工具](https://www.v2ex.com/t/976038#reply0)|
