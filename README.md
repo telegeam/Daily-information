@@ -1,7 +1,13 @@
-﻿# 每日资讯（2023-09-21）
+﻿# 每日资讯（2023-09-22）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-22 00:07:00|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)|
+|2023-09-22 00:48:10|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 部门老大和人事处谁的话语权大？](https://www.v2ex.com/t/976039#reply3)|
+|2023-09-22 00:38:00|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 105 期）：开发一个年收入 120 万美元的拍照工具](https://www.v2ex.com/t/976038#reply0)|
+|2023-09-22 00:37:31|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 奇怪的 dell 笔记本问题](https://www.v2ex.com/t/976037#reply0)|
+|2023-09-22 00:32:21|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 香港都会大学的研究生怎么样](https://www.v2ex.com/t/976036#reply1)|
+|2023-09-22 00:50:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[看了艾玛沃森的翻包视频，精神状态极佳：1首先是这个比程序员都大的巨包；2随身携带一大瓶琴酒，走到哪里都能开喝，而且啥也不兑；3艾玛表示自己只带着唇膏和遮瑕就能化妆，其它不需要。](https://dig.chouti.com/link/40062874)|
 |2023-09-21 08:31:50|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1131 大模型“深吸一口气”后会更聪明](https://linux.cn/article-16213-1.html?utm_source=rss&utm_medium=rss)|
 |2023-09-21 10:08:00|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 写了一个无聊的工具站](https://www.v2ex.com/t/975961#reply0)|
 |2023-09-21 10:06:56|[V2EX](https://www.v2ex.com/index.xml)|[ Java 给女朋友做的视频播放平台，播放视频很卡，有几张方案解决](https://www.v2ex.com/t/975960#reply0)|
