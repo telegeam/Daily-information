@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-23 07:00:00|[少数派](https://plink.anyfeeder.com/sspai)|[开学季 挑个趁手的工具，尽早学会文献管理](https://sspai.com/post/82931)|
+|2023-09-23 08:35:00|[机核](https://plink.anyfeeder.com/gcores)|[原创漫画丨我不会骑自行车](https://www.gcores.com/articles/171315)|
+|2023-09-23 08:30:00|[机核](https://plink.anyfeeder.com/gcores)|[CDPR的开放世界：探讨《2077》部分系统、关卡、场景](https://www.gcores.com/articles/171302)|
+|2023-09-23 08:15:00|[机核](https://plink.anyfeeder.com/gcores)|[一双手，两名角色：《风来之国》中以双角色为核心的设计](https://www.gcores.com/articles/152264)|
+|2023-09-23 08:00:00|[机核](https://plink.anyfeeder.com/gcores)|[译介丨Rune Klevjer：计算机游戏中的义肢控制现象学 2012 ](https://www.gcores.com/articles/171299)|
+|2023-09-23 07:50:00|[机核](https://plink.anyfeeder.com/gcores)|[艺术创新的当代诠释：《论新：文化档案库与世俗世界之间的价值交换》读书札记](https://www.gcores.com/articles/171301)|
+|2023-09-23 04:01:50|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[手感更轻、性能更重：iPhone 15 Pro 快速上手体验](https://sspai.com/post/83066)|
+|2023-09-23 04:01:50|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/83027)|
+|2023-09-23 06:39:19|[小众软件](https://plink.anyfeeder.com/appinn)|[听听语音 – 第三方 Azure 语音识别客户端，支持文字转语音、语音转文字 iPhone/iPad ](https://www.appinn.com/tingting-azure-speech-services/)|
+|2023-09-23 06:25:13|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[电影里都没有的剧情，港股上演了](http://xueqiu.com/7500022239/261835501)|
+|2023-09-23 04:19:20|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[市场见底的条件之一](http://xueqiu.com/9222280625/261858183)|
+|2023-09-23 03:46:25|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[股票投资的第一性原理：供求关系](http://xueqiu.com/9129183937/261860547)|
+|2023-09-23 03:46:24|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[剖析一位光伏专家的大胆技术路线预测](http://xueqiu.com/1057232810/261857287)|
 |2023-09-23 08:19:27|[Hibert's blog](https://wanghuibin0.github.io/index.xml)|[onenote为插入表格添加快捷键](https://wanghuibin0.github.io/posts/2023/09/onenote-insert-table/)|
 |2023-09-23 09:08:35|[V2EX](https://v2ex.com/index.xml)|[ Apple Apple Music Classical 能用快捷指令播放指定的列表吗？](https://www.v2ex.com/t/976490#reply0)|
 |2023-09-23 08:53:27|[V2EX](https://v2ex.com/index.xml)|[ Netflix 想开一个港区车会有人吗（香港本地最好）](https://www.v2ex.com/t/976489#reply2)|
