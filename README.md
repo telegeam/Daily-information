@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-23 03:05:53|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[未发布的三星T9便携式固态硬盘出现在零售商列表中](https://m.cnbeta.com.tw/view/1385799.htm)|
+|2023-09-23 03:05:40|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[顶配iPhone 15加单超3000万部、Mate 60全线缺货加单千万](https://m.cnbeta.com.tw/view/1385793.htm)|
+|2023-09-23 03:05:30|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果CEO库克发文庆祝iPhone 15在华发售：“它们从未有像现在这样不可或缺”](https://m.cnbeta.com.tw/view/1385791.htm)|
+|2023-09-23 03:05:19|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[今日起北京地铁试点非高峰时段“运快递”](https://m.cnbeta.com.tw/view/1385789.htm)|
+|2023-09-23 07:07:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ 数据开发 Doris 实际生产经验以及问题请教](https://www.v2ex.com/t/976462#reply0)|
+|2023-09-23 03:15:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[准备换安卓，请问有没有类似苹果 find 的功能](https://www.v2ex.com/t/976422#reply35)|
+|2023-09-23 01:21:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在用 OpenSwoole 还是 Swoole](https://www.v2ex.com/t/976393#reply11)|
+|2023-09-23 02:50:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想要 ssh 到 VMware 虚拟机里，虚拟机设置为桥接或 NAT，有区别吗](https://www.v2ex.com/t/976415#reply24)|
+|2023-09-23 03:44:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用什么软件可以把本地文件夹和一个移动硬盘文件夹同步，且一旦同步，在双方都保留历史版本记录？](https://www.v2ex.com/t/976429#reply10)|
+|2023-09-23 03:58:46|[机核](https://www.gcores.com/rss)|[踏上新的冒险！《书雁传奇》现已登陆主机平台](https://www.gcores.com/articles/171317)|
+|2023-09-23 06:34:56|[36氪](https://plink.anyfeeder.com/36kr)|[百度版AI医生叫板ChatGPT：会看CT片子，也会分诊管理](https://36kr.com/p/2441904132905090?f=rss)|
+|2023-09-23 04:39:15|[爱范儿](https://plink.anyfeeder.com/ifanr)|[从多巴胺到美拉德，小红书潮流的尽头是优衣库](https://www.ifanr.com/1562288?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-23 04:37:39|[爱范儿](https://plink.anyfeeder.com/ifanr)|[李佳琦风波还没平息， 24 小时工作的 AI 主播已席卷直播间](https://www.ifanr.com/1562964?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-23 00:30:51|[爱范儿](https://plink.anyfeeder.com/ifanr)|[早报｜iPhone 15 发售日门店大排长龙 / GPT-4 正式接入 Win11 / 国庆假期增开 200 列夜间高铁 未来周报](https://www.ifanr.com/1562956?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-23 07:00:00|[触乐](http://www.chuapp.com/feed)|[周末玩什么：受苦游戏出新作，文字游戏大推荐！](http://www.chuapp.com/article/289533.html)|
+|2023-09-23 12:25:54|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Malware Persistence Locations: Windows and Linux](https://buaq.net/go-177773.html)|
 |2023-09-23 03:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[亚马逊欲为硬件插上AI翅膀](https://cn.wsj.com/amp/articles/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%AC%B2%E4%B8%BA%E7%A1%AC%E4%BB%B6%E6%8F%92%E4%B8%8Aai%E7%BF%85%E8%86%80-c2592f1b)|
 |2023-09-23 01:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国恒大放弃350亿美元债务重组计划](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E6%94%BE%E5%BC%83350%E4%BA%BF%E7%BE%8E%E5%85%83%E5%80%BA%E5%8A%A1%E9%87%8D%E7%BB%84%E8%AE%A1%E5%88%92-f9ebb963)|
 |2023-09-23 01:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[标普500指数连续第三周下跌](https://cn.wsj.com/amp/articles/%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E7%AC%AC%E4%B8%89%E5%91%A8%E4%B8%8B%E8%B7%8C-bb9aae6a)|
