@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-23 02:50:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想要 ssh 到 VMware 虚拟机里，虚拟机设置为桥接或 NAT，有区别吗](https://www.v2ex.com/t/976415#reply2)|
+|2023-09-23 01:21:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在用 OpenSwoole 还是 Swoole](https://www.v2ex.com/t/976393#reply4)|
+|2023-09-23 01:00:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[英伟达、台积电、因特尔都被它掣肘？](http://www.huxiu.com/article/2088857.html?f=wangzhan)|
+|2023-09-23 01:36:34|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[实验室带你过周末：2023.9.23 - 9.24 北京篇](http://www.toodaylab.com/82242)|
+|2023-09-23 00:03:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[拜登将前往美国密歇根州声援汽车工人罢工，呼吁达成双赢协议](https://dig.chouti.com/link/40074188)|
+|2023-09-23 00:09:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一个中国科研团队和一个非洲国家的十二年](https://dig.chouti.com/link/40074235)|
+|2023-09-23 00:10:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一架用平板半挂车运输的S-92直升机撞上一座立交桥的底部……（美国路易斯安那州）](https://dig.chouti.com/link/40074261)|
+|2023-09-23 01:45:28|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[减肥、跑步与投资](http://xueqiu.com/1340904670/261854040)|
 |2023-09-23 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：TUMI Alpha 系列多款全新产品亮相、Hollister 推出多款 IP 图案 T 恤](http://www.toodaylab.com/82241)|
 |2023-09-23 02:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[飞猪、携程们的下半场：吃工具属性老本，补内容短板](https://www.tmtpost.com/6719481.html)|
 |2023-09-23 01:51:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Huawei C-Suite Yu Chengdong Leaves Auto CEO Role to Focus on Smartphone Business](https://www.tmtpost.com/6718608.html)|
