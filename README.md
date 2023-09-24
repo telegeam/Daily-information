@@ -1,7 +1,15 @@
-﻿# 每日资讯（2023-09-23）
+﻿# 每日资讯（2023-09-24）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-24 06:58:16|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[The hidden side of 24/7/365 – The dreadful APAC shift](https://buaq.net/go-177794.html)|
+|2023-09-24 06:56:30|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[New blog post on C Socket Programming! Essential functions, error handling, and practical examples.](https://buaq.net/go-177795.html)|
+|2023-09-24 03:01:45|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[印度月船3号着陆器目前已经失联 有可能变成印度驻月永久大使](https://buaq.net/go-177791.html)|
+|2023-09-24 02:38:24|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[ 下载 英特尔发布22.250.0版蓝牙和无线网卡驱动修复鼠标漂移问题](https://buaq.net/go-177792.html)|
+|2023-09-24 02:15:58|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Leveraging AI in Cybersecurity: Transforming Threat Detection, Prevention, and Beyond](https://buaq.net/go-177790.html)|
+|2023-09-24 01:09:40|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[微软称Windows 11 23H2版仍将在第四季度发布 不过目前版本略微有些乱](https://buaq.net/go-177787.html)|
+|2023-09-24 00:47:01|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[FDM被黑事件后续：开发团队发布脚本可以检测后门 建议Linux用户下载检测](https://buaq.net/go-177788.html)|
+|2023-09-24 00:35:57|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Unity发布新公告仍未完全取消Runtime费用 不过情况已经有所改观](https://buaq.net/go-177789.html)|
 |2023-09-23 07:00:00|[少数派](https://plink.anyfeeder.com/sspai)|[开学季 挑个趁手的工具，尽早学会文献管理](https://sspai.com/post/82931)|
 |2023-09-23 08:35:00|[机核](https://plink.anyfeeder.com/gcores)|[原创漫画丨我不会骑自行车](https://www.gcores.com/articles/171315)|
 |2023-09-23 08:30:00|[机核](https://plink.anyfeeder.com/gcores)|[CDPR的开放世界：探讨《2077》部分系统、关卡、场景](https://www.gcores.com/articles/171302)|
