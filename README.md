@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-24 07:08:00|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[【Allen Hua 翻唱】山阴路的夏天和一个人的北京](https://hellodk.cn/post/1149)|
+|2023-09-24 04:39:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[手机打工人，都去造车了](https://www.tmtpost.com/6720473.html)|
+|2023-09-24 04:25:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Vidda发布NEW X系列电视，普及144Hz高刷游戏体验](https://www.tmtpost.com/6720258.html)|
+|2023-09-24 04:25:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[紧凑机身实现全嵌入设计，TCL发布双子舱T10洗衣机](https://www.tmtpost.com/6720243.html)|
+|2023-09-24 05:58:34|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Python中的封装](https://xugaoxiang.com/2023/09/24/python-encapsulation/)|
+|2023-09-24 03:26:24|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Python中的继承](https://xugaoxiang.com/2023/09/24/python-inherit/)|
 |2023-09-24 06:05:13|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 c#有没有类似 strapi 的框架](https://www.v2ex.com/t/976662#reply0)|
 |2023-09-24 06:01:23|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 出海印度的游戏公司可找我，提供原生唤起 D0 结算支付通道](https://www.v2ex.com/t/976661#reply0)|
 |2023-09-24 05:39:13|[V2EX](https://www.v2ex.com/index.xml)|[ Spotify 港区 Spotify 家庭组长期车](https://www.v2ex.com/t/976660#reply0)|
