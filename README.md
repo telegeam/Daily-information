@@ -2,6 +2,23 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-24 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：真人剧集《海贼王》续订第 2 季、Stuart Weitzman 发布 2023 秋冬系列广告](http://www.toodaylab.com/82245)|
+|2023-09-24 08:30:08|[小众软件](https://www.appinn.com/feed/)|[Omnivore – 开源稍后阅读工具，可跨设备同步阅读进度，支持抓取微信公众号，可整合 Logseq、Obsidian](https://www.appinn.com/omnivore/)|
+|2023-09-24 09:06:23|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 请问如何将某域名下所有 url 重定向为本地文件夹？](https://www.v2ex.com/t/976703#reply0)|
+|2023-09-24 09:02:26|[V2EX](https://www.v2ex.com/index.xml)|[ Apple HomePod 连接 AppleTV 后无法隔空播放音乐？](https://www.v2ex.com/t/976701#reply0)|
+|2023-09-24 08:58:05|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 请教一下各位 ， macbook pro 不能连接触摸便携屏吗？](https://www.v2ex.com/t/976700#reply1)|
+|2023-09-24 08:46:36|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 设备局域网内访问问题，熬夜五天依旧无解，求解惑](https://www.v2ex.com/t/976697#reply1)|
+|2023-09-24 08:39:28|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud icloud 2t 5 人车 年付 90](https://www.v2ex.com/t/976695#reply0)|
+|2023-09-24 08:37:11|[V2EX](https://www.v2ex.com/index.xml)|[ Apple ios17wifi BUG 速度异常](https://www.v2ex.com/t/976693#reply0)|
+|2023-09-24 08:32:42|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 godaddy 注册域名提示此域名不可售，大家有遇到么？](https://www.v2ex.com/t/976692#reply0)|
+|2023-09-24 08:31:22|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 坐标石家庄， 9 年 PHP 程序员，失业中](https://www.v2ex.com/t/976691#reply8)|
+|2023-09-24 08:21:39|[V2EX](https://www.v2ex.com/index.xml)|[ 路由器 ESXi 管理口和软路由直通 LAN 口连接同一个交换机造成环路问题](https://www.v2ex.com/t/976690#reply0)|
+|2023-09-24 08:17:29|[V2EX](https://www.v2ex.com/index.xml)|[ Surge surge 4 人车](https://www.v2ex.com/t/976689#reply0)|
+|2023-09-24 08:15:10|[V2EX](https://www.v2ex.com/index.xml)|[ macOS mac 迁移后， toDesk 识别成同一设备](https://www.v2ex.com/t/976688#reply0)|
+|2023-09-24 08:13:11|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 请教下各位关于 15pro 美版有锁的几个问题](https://www.v2ex.com/t/976687#reply4)|
+|2023-09-24 03:20:49|[碗丸食事](https://feedpress.me/wx-foodfile-111010)|[清酒 大岭酒造的潮流基因](http://mp.weixin.qq.com/s?__biz=MzU3MjcxOTk5NQ%3D%3D&mid=2247488350&idx=1&sn=f2611519a1fb9f948ac813765f3c5827)|
+|2023-09-24 08:55:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[没有license in的时代，只有时代的license in](https://www.tmtpost.com/6720568.html)|
+|2023-09-24 08:55:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[百亿市值、造假漩涡，阿尔兹海默症与风波不断的明星公司](https://www.tmtpost.com/6720560.html)|
 |2023-09-24 06:47:49|[虎嗅](https://plink.anyfeeder.com/huxiu)|[12人死亡万人中毒，日本校园预制菜的“黑历史”](https://www.huxiu.com/article/2087383.html?f=rss)|
 |2023-09-24 06:23:57|[虎嗅](https://plink.anyfeeder.com/huxiu)|[全家凑钱咬牙买的房子，成了我“人生不可承受之重”](https://www.huxiu.com/article/2095325.html?f=rss)|
 |2023-09-24 06:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[120亿被拒，吉利为啥还投阿斯顿马丁？](https://www.huxiu.com/article/2095323.html?f=rss)|
