@@ -2,6 +2,32 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-24 04:46:00|[机核](https://www.gcores.com/rss)|[拉瑞安总裁Swen Vincke采访——有关《博德之门3》的结局、开发以及游戏的未来](https://www.gcores.com/videos/171345)|
+|2023-09-24 04:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#249：《崛起》](https://www.gcores.com/articles/171328)|
+|2023-09-24 03:51:38|[机核](https://www.gcores.com/rss)|[麻将、占地盘、猜丁壳这些启蒙游戏在首款32位主机上也曾遍地开花](https://www.gcores.com/articles/171349)|
+|2023-09-24 05:06:13|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 教程: 在 macOS 中移除 command line tools 并继续使用 git](https://www.v2ex.com/t/976656#reply0)|
+|2023-09-24 05:06:12|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 7 年的平面设计找一份远程设计的工作](https://www.v2ex.com/t/976655#reply0)|
+|2023-09-24 05:04:45|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问这个网址 https://limetorrent.xyz/应该怎么写搜索？](https://www.v2ex.com/t/976654#reply0)|
+|2023-09-24 05:04:30|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 惊呼！不能再匿名发帖](https://www.v2ex.com/t/976653#reply2)|
+|2023-09-24 04:45:59|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 蜂窝信号消失会导致 WiFi 密码错误](https://www.v2ex.com/t/976652#reply3)|
+|2023-09-24 04:39:21|[V2EX](http://www.v2ex.com/index.xml)|[ 奇思妙想 如果 XMind 有节点内渲染 markdown 代码高亮就好了！](https://www.v2ex.com/t/976650#reply0)|
+|2023-09-24 04:39:12|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 奋斗与卷为啥变味了呢？](https://www.v2ex.com/t/976649#reply6)|
+|2023-09-24 04:36:56|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 2 年 vue 求捞，求简历指导](https://www.v2ex.com/t/976648#reply1)|
+|2023-09-24 04:31:19|[V2EX](http://www.v2ex.com/index.xml)|[ iOS 求：美区，巴西， iOS 上架，技术团队](https://www.v2ex.com/t/976647#reply0)|
+|2023-09-24 04:23:27|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 65W 氮化镓头子能充小容量设备吗?](https://www.v2ex.com/t/976646#reply3)|
+|2023-09-24 04:20:51|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 玩瓦的兄弟们，推荐个美服加速器呗](https://www.v2ex.com/t/976645#reply3)|
+|2023-09-24 04:20:46|[V2EX](http://www.v2ex.com/index.xml)|[ Apple macOS 上 Safari 自带翻译功能失效](https://www.v2ex.com/t/976644#reply1)|
+|2023-09-24 03:58:16|[V2EX](http://www.v2ex.com/index.xml)|[ iOS 有没有类似“念念不忘”的 app，临时写几句钉到桌面或者负一屏](https://www.v2ex.com/t/976642#reply3)|
+|2023-09-24 03:54:29|[V2EX](http://www.v2ex.com/index.xml)|[ Apple iPhone 15 Pro Max vs 14 Pro Max / 13 Pro Max 续航测试](https://www.v2ex.com/t/976640#reply13)|
+|2023-09-24 03:53:30|[V2EX](http://www.v2ex.com/index.xml)|[ PHP 有谁还在用 doctrine 没](https://www.v2ex.com/t/976639#reply2)|
+|2023-09-24 03:52:12|[V2EX](http://www.v2ex.com/index.xml)|[ Java 这样的插件化系统设计可以实现吗](https://www.v2ex.com/t/976638#reply1)|
+|2023-09-24 03:46:09|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 请问这种 typec 线就是不能给 iPad 充电??](https://www.v2ex.com/t/976636#reply0)|
+|2023-09-24 03:44:45|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 良心云要免费送服务器了？！](https://www.v2ex.com/t/976634#reply0)|
+|2023-09-24 03:28:59|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 与显卡进行通信的汇编指令是什么？](https://www.v2ex.com/t/976633#reply4)|
+|2023-09-24 03:24:15|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 大家如何看待研究生自杀？是自杀者自身问题还是外界因素占多？](https://www.v2ex.com/t/976632#reply14)|
+|2023-09-24 03:21:46|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 已关闭充电优化， iPhone 15 pro 充电只能到 80％+](https://www.v2ex.com/t/976631#reply10)|
+|2023-09-24 03:21:28|[V2EX](http://www.v2ex.com/index.xml)|[ Google google paly 上包](https://www.v2ex.com/t/976630#reply1)|
+|2023-09-24 02:30:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[预制菜应该进校园吗？](http://www.huxiu.com/article/2092896.html?f=wangzhan)|
 |2023-09-24 02:35:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[互联网大厂，“竞跑”亚运会](https://www.tmtpost.com/6720275.html)|
 |2023-09-24 02:25:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[挥着翅膀的钉飞微](https://www.tmtpost.com/6720279.html)|
 |2023-09-24 02:14:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[童装生意，没有春天？](https://www.tmtpost.com/6720289.html)|
