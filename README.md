@@ -2,6 +2,55 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-24 09:13:01|[BBC](https://plink.anyfeeder.com/bbc/cn)|[加拿大印度外交风波升级：特鲁多获得的全球声援为何如此之少](https://www.bbc.com/zhongwen/simp/world-66904823)|
+|2023-09-24 09:52:40|[V2EX](https://www.v2ex.com/index.xml)|[ 站长 cloudflare warp team 账号可以访问 youtube, 但是 ip 检测又识别为江苏南通的 cloudflare 机房, chatgpt 识别的 ip 也是江苏南通, 有前辈知道这是什么原因吗](https://www.v2ex.com/t/976710#reply0)|
+|2023-09-24 09:40:59|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 问一下，苹果官方支持仅回收而不买东西吗](https://www.v2ex.com/t/976709#reply0)|
+|2023-09-24 09:38:50|[V2EX](https://www.v2ex.com/index.xml)|[ 计算机 国庆，双 11 打算圆个梦，配台电脑，帮忙看看配置怎么样](https://www.v2ex.com/t/976708#reply2)|
+|2023-09-24 09:06:23|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 请问如何将某域名下所有 url 重定向为本地文件夹？](https://www.v2ex.com/t/976703#reply1)|
+|2023-09-24 09:02:26|[V2EX](https://www.v2ex.com/index.xml)|[ Apple HomePod 连接 AppleTV 后无法隔空播放音乐？](https://www.v2ex.com/t/976701#reply2)|
+|2023-09-24 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[执行法官到底能对执行结果起多大作用？](https://www.zhihu.com/question/534520725)|
+|2023-09-24 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「90 后不敢看体检报告」频上热搜，大病年轻化成趋势，支付宝上的重疾险能否缓解大病焦虑？](https://www.zhihu.com/question/623113598)|
+|2023-09-24 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价杭州亚运会开幕式上中国代表团礼服青花瓷加牡丹的设计？你觉得如何？](https://www.zhihu.com/question/623470399)|
+|2023-09-24 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[明起存量首套房贷利率批量下调，无需申请，多家银行出台实施细则，哪些信息值得关注？](https://www.zhihu.com/question/623542037)|
+|2023-09-24 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[杭州亚运会开幕式有哪些精彩瞬间？哪个环节给你留下了最深的印象?](https://www.zhihu.com/question/623449564)|
+|2023-09-24 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国女排遭荷兰逆转，还有机会进奥运吗？](https://www.zhihu.com/question/623364960)|
+|2023-09-24 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[日企联盟完成了对东芝的要约收购，近 150 年历史巨头最快年内退市，哪些信息值得关注？](https://www.zhihu.com/question/623540948)|
+|2023-09-24 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[杭州必去的地标有哪些？](https://www.zhihu.com/question/622234235)|
+|2023-09-24 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[不提雨，怎么描写雨很大?](https://www.zhihu.com/question/603625874)|
+|2023-09-24 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[谷歌 AI 蛋白质结构预测模型 AlphaFold 获得「诺奖风向标」拉斯克奖，有望获得诺贝尔奖吗？](https://www.zhihu.com/question/623254961)|
+|2023-09-24 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[法国为什么数学这么强？](https://www.zhihu.com/question/352617471)|
+|2023-09-24 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[简历上到底该不该放薪资要求，怎么写才比较合理？](https://www.zhihu.com/question/622554035)|
+|2023-09-24 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《咒术回战》五条悟战死和《海贼王》路飞吃的其实是尼卡果实，哪个更令人无法接受？](https://www.zhihu.com/question/623254027)|
+|2023-09-24 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[20 款手游防沉迷暑期特别评测结果出炉，多数游戏出现账号体系混乱，如何解决？](https://www.zhihu.com/question/623437932)|
+|2023-09-24 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何判断一个人羽毛球技术的高低？](https://www.zhihu.com/question/557888840)|
+|2023-09-24 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中医为什么没有走向解剖、结构分析的道路?](https://www.zhihu.com/question/623412024)|
+|2023-09-24 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[什么是「职业倦怠」？只要工作，就一定会产生「职业倦怠」？](https://www.zhihu.com/question/622944664)|
+|2023-09-24 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国家药监局发文，中药说明书安全性内容「尚不明确」将不予再注册，这一规定将给医药行业带来哪些影响？](https://www.zhihu.com/question/623426010)|
+|2023-09-24 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果你是《一人之下》的作者会怎么写结局？](https://www.zhihu.com/question/505204414)|
+|2023-09-24 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[郭明錤称苹果追加 iPhone 15 ProMax 订单至 3500 万部，四季度营收可期，如何解读？](https://www.zhihu.com/question/623461400)|
+|2023-09-24 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美联储将在 2023 年底前裁员约 300 人，为 13 年来首次裁员，有何影响？哪些信息值得关注？](https://www.zhihu.com/question/623436409)|
+|2023-09-24 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价亚运会开幕式入场时的 BGM《我们的亚细亚》？](https://www.zhihu.com/question/623471201)|
+|2023-09-24 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《原神》「那维莱特」角色 PV——「水中之眼」？](https://www.zhihu.com/question/623112484)|
+|2023-09-24 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人可以省钱到什么程度？](https://www.zhihu.com/question/613042312)|
+|2023-09-24 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何高效备考 2023 法考主观题？](https://www.zhihu.com/question/622484046)|
+|2023-09-24 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[一个人为了目标，能疯狂努力到什么程度？](https://www.zhihu.com/question/35306101)|
+|2023-09-24 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「回到县城」成为大学生就业的新选择，为什么大城市正在对高校毕业生失去吸引力？](https://www.zhihu.com/question/622549915)|
+|2023-09-24 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果有异世界，甚至是别的宇宙，物理规则都不同的话 那么数学是否还是一样通用的？](https://www.zhihu.com/question/424478863)|
+|2023-09-24 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价杭州亚运会开幕式的数字人点火仪式？你觉得创意如何？](https://www.zhihu.com/question/623474809)|
+|2023-09-24 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[减脂的黑咖啡应该怎么选择?](https://www.zhihu.com/question/376097604)|
+|2023-09-24 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国汽车工人大罢工升级，范围扩大至二十个州 38 处地点，已造成 16 亿美元损失，哪些信息值得关注？](https://www.zhihu.com/question/623436423)|
+|2023-09-24 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[李在明中断为期 24 天绝食，其拘捕同意案通过后，韩网出现针对共同民主党议员恐袭预告，如何看待此事？](https://www.zhihu.com/question/623436431)|
+|2023-09-24 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[杭州亚运会赛艇女子轻量级双人双桨中国组合邹佳琪 / 邱秀萍夺首金，如何评价她们本场比赛的表现？](https://www.zhihu.com/question/623538467)|
+|2023-09-24 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待苏炳添在《冠军观赛团》节目中分享自己严格的作息时间，作息时间和自律对于运动员来说有多重要？](https://www.zhihu.com/question/623501024)|
+|2023-09-24 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[上海迪士尼拍游客照片卖 118 元，大学生起诉上海迪士尼侵权，此事是否构成侵权？法律角度如何解读？](https://www.zhihu.com/question/623469561)|
+|2023-09-24 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季英超曼联 1-0 伯恩利结束各赛事三连败，B 费凌空斩雷吉隆伤退，如何评价这场比赛？](https://www.zhihu.com/question/623506828)|
+|2023-09-24 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有什么是你在童年吃过的东西，令你至今念念不忘？](https://www.zhihu.com/question/623126894)|
+|2023-09-24 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[张志磊乔伊斯二番战，张志磊 3 回合 ko 乔伊斯，如何看待这场比赛?](https://www.zhihu.com/question/623523469)|
+|2023-09-24 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[周鸿祎旗下公司鲁大师「迷惑」操作，宣布拟商议分红股价大涨，大股东减持后取消分红，如何看待此事？](https://www.zhihu.com/question/623440414)|
+|2023-09-24 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「亚运经济」加速产业转型升级，亚运会能给杭州经济带来多大的拉动？「赛事经济」对一座城市来说意味着什么？](https://www.zhihu.com/question/622234948)|
+|2023-09-24 09:08:31|[机核](https://www.gcores.com/rss)|[下周节目预告 9.25~10.1](https://www.gcores.com/articles/171355)|
+|2023-09-24 07:30:00|[机核](https://www.gcores.com/rss)|[从官方设定稿聊聊《洛克人ZERO》系列的基础设定（其四）](https://www.gcores.com/articles/171351)|
+|2023-09-24 05:38:05|[机核](https://www.gcores.com/rss)|[短篇漫画丨《大买卖》](https://www.gcores.com/articles/171352)|
 |2023-09-24 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：真人剧集《海贼王》续订第 2 季、Stuart Weitzman 发布 2023 秋冬系列广告](http://www.toodaylab.com/82245)|
 |2023-09-24 08:30:08|[小众软件](https://www.appinn.com/feed/)|[Omnivore – 开源稍后阅读工具，可跨设备同步阅读进度，支持抓取微信公众号，可整合 Logseq、Obsidian](https://www.appinn.com/omnivore/)|
 |2023-09-24 09:06:23|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 请问如何将某域名下所有 url 重定向为本地文件夹？](https://www.v2ex.com/t/976703#reply0)|
