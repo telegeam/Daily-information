@@ -2,6 +2,59 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-25 04:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[杭州第 19 届亚运会隆重开幕！佳能作为杭州亚运会官方赞助商，助力打造一届成功圆满的亚运盛会](https://www.photoworld.com.cn/post/174558)|
+|2023-09-25 07:07:36|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 高级程序员为什么喜欢建表的时候加个 ext 字段？](https://www.v2ex.com/t/976972#reply1)|
+|2023-09-25 07:07:34|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 谈谈中国的大 A](https://www.v2ex.com/t/976971#reply0)|
+|2023-09-25 07:03:25|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有什么临时 http 服务器 多线程下载 server 上的文件](https://www.v2ex.com/t/976969#reply2)|
+|2023-09-25 06:58:50|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 新能源汽车充电桩， 7 孔交流电的是常见的吗？](https://www.v2ex.com/t/976968#reply2)|
+|2023-09-25 06:52:28|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 印象中提起行政诉讼的前提是履行行政处罚。 那个程序员不交 100 万罚款，怕是立不了案。](https://www.v2ex.com/t/976967#reply0)|
+|2023-09-25 06:45:45|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 字节的嗅探已经这么深骨入隋了吗](https://www.v2ex.com/t/976964#reply3)|
+|2023-09-25 06:45:22|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 关于 iPhone 15 Pro/Max 打字延迟、不跟手、触摸迟缓/无响应的问题](https://www.v2ex.com/t/976963#reply1)|
+|2023-09-25 06:41:31|[V2EX](http://www.v2ex.com/index.xml)|[ 上海 兄弟们，求个路线。9 月 28 号晚上 6 点，从上海松江出发到秦皇岛，自驾。](https://www.v2ex.com/t/976962#reply1)|
+|2023-09-25 06:39:53|[V2EX](http://www.v2ex.com/index.xml)|[ Apple MATLAB 最新版 2023b 支持 Apple 芯片原生运行了](https://www.v2ex.com/t/976961#reply1)|
+|2023-09-25 06:37:40|[V2EX](http://www.v2ex.com/index.xml)|[ 西安 西安三桥 个人房屋出租](https://www.v2ex.com/t/976960#reply0)|
+|2023-09-25 06:31:52|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 特好奇一件事，从晚清到民国再到近代，北京上海这种地方的房屋所有权是怎么保留的？](https://www.v2ex.com/t/976958#reply0)|
+|2023-09-25 06:27:27|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 建行存贷利率下降，会自动选择缩短年限，每月还款额不变](https://www.v2ex.com/t/976957#reply4)|
+|2023-09-25 06:24:23|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 利率下调了，你每月少还多少？](https://www.v2ex.com/t/976956#reply5)|
+|2023-09-25 06:23:04|[V2EX](http://www.v2ex.com/index.xml)|[ 旅行 十一去北京待三天，有什么推荐去玩的吗？](https://www.v2ex.com/t/976954#reply3)|
+|2023-09-25 06:22:26|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 不知道 AirPods2 以后可以换一个 USB-C 的充电盒么？](https://www.v2ex.com/t/976953#reply6)|
+|2023-09-25 06:21:49|[V2EX](http://www.v2ex.com/index.xml)|[ Apple Face ID 动画结尾勾号还是笑脸](https://www.v2ex.com/t/976952#reply0)|
+|2023-09-25 06:13:41|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 各位大佬，求教开发转岗运维有哪些要学习的](https://www.v2ex.com/t/976950#reply5)|
+|2023-09-25 06:11:29|[V2EX](http://www.v2ex.com/index.xml)|[ 旅行 xdm，求个路线。9 月 28 号晚上 6 点，从上海松江出发到秦皇岛，自驾。](https://www.v2ex.com/t/976949#reply0)|
+|2023-09-25 06:11:10|[V2EX](http://www.v2ex.com/index.xml)|[ Apple iCloud 里面的文件如果没有显示云端，那么本地也是有备份的吗？有办法显性双备份吗？](https://www.v2ex.com/t/976948#reply0)|
+|2023-09-25 06:08:43|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 招聘：全职跨境电商英文运营客服/全职渠道经理](https://www.v2ex.com/t/976946#reply0)|
+|2023-09-25 06:07:38|[V2EX](http://www.v2ex.com/index.xml)|[ Netflix 巴铁区 Netflix 4K， 4 人车补 1 人，季付 40](https://www.v2ex.com/t/976945#reply0)|
+|2023-09-25 06:06:26|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 两年全栈，技术栈 Java /JS/GO，社招求内推](https://www.v2ex.com/t/976944#reply0)|
+|2023-09-25 06:04:01|[V2EX](http://www.v2ex.com/index.xml)|[ 北京 清华/北大园参观十一没预约上，有清北在校生帮约没](https://www.v2ex.com/t/976943#reply0)|
+|2023-09-25 05:55:54|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 applet tv facetime 呼叫失败](https://www.v2ex.com/t/976942#reply0)|
+|2023-09-25 05:54:45|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 国庆节在家看什么电视剧](https://www.v2ex.com/t/976941#reply5)|
+|2023-09-25 05:53:45|[V2EX](http://www.v2ex.com/index.xml)|[ Python 一个文本解析的问题请教](https://www.v2ex.com/t/976940#reply2)|
+|2023-09-25 05:52:36|[V2EX](http://www.v2ex.com/index.xml)|[ Surge Surge Mac 5 - 3 人车还有两个位置](https://www.v2ex.com/t/976939#reply1)|
+|2023-09-25 05:52:04|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 时间过的真快，乔布斯逝世快 12 年了，如果他还在…](https://www.v2ex.com/t/976938#reply45)|
+|2023-09-25 05:51:05|[V2EX](http://www.v2ex.com/index.xml)|[  WATCH S8 配对 iPhone 15pm 后 bug 不断。](https://www.v2ex.com/t/976937#reply0)|
+|2023-09-25 05:47:28|[V2EX](http://www.v2ex.com/index.xml)|[ Apple AirTag 到底能有啥用？](https://www.v2ex.com/t/976936#reply14)|
+|2023-09-25 05:42:37|[V2EX](http://www.v2ex.com/index.xml)|[ 耳机 有线耳机真神奇。明明理顺插好再戴上耳朵的，掏出手机看几次，就会发现线已经转圈打结搅一起了](https://www.v2ex.com/t/976935#reply0)|
+|2023-09-25 05:38:36|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 写在毕业的第五个年头](https://www.v2ex.com/t/976933#reply6)|
+|2023-09-25 05:38:19|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 预算 5500 以内二手苹果，求推荐型号以及平台](https://www.v2ex.com/t/976932#reply11)|
+|2023-09-25 05:36:41|[V2EX](http://www.v2ex.com/index.xml)|[ 武汉 国庆假期去武汉参加老婆的舍友的婚礼](https://www.v2ex.com/t/976931#reply2)|
+|2023-09-25 05:32:00|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 Feature SolidUI Dev0.4.0 Document writing](https://www.v2ex.com/t/976929#reply0)|
+|2023-09-25 05:29:52|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 分享一些有趣的数据统计，帮助你完成技术栈选型👀](https://www.v2ex.com/t/976928#reply4)|
+|2023-09-25 05:19:56|[V2EX](http://www.v2ex.com/index.xml)|[ macOS macOS Sonoma 明天就要发布了，用过 beta 的能谈谈，还有哪些坑，能第一时间升级吗？](https://www.v2ex.com/t/976926#reply11)|
+|2023-09-25 05:18:08|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 沉浸语言学习听力：文章转 MP3](https://www.v2ex.com/t/976924#reply0)|
+|2023-09-25 05:15:54|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 同事说：正常情况下登录接口不返回用户信息，是这样吗](https://www.v2ex.com/t/976923#reply40)|
+|2023-09-25 05:15:39|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 webrtc 网页在线数据传输网站，滴滴滴](https://www.v2ex.com/t/976922#reply4)|
+|2023-09-25 05:13:57|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 移动国际网络重置到已经不能用了](https://www.v2ex.com/t/976921#reply0)|
+|2023-09-25 05:08:01|[V2EX](http://www.v2ex.com/index.xml)|[ 汽车 关于家庭第一辆车，预算 25 内，求推荐](https://www.v2ex.com/t/976919#reply13)|
+|2023-09-25 06:23:02|[JustZht's EchoChambe...](https://www.justzht.com/rss/)|[2023.9.24](https://www.justzht.com/2023-9-24/)|
+|2023-09-25 06:24:28|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[890 所学校受影响！美国学生信息交换中心发生数据泄露](https://www.freebuf.com/news/379112.html)|
+|2023-09-25 04:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[独立记者黄雪琴、活动人士王建兵因“煽颠”受审](https://cn.nytimes.com/china/20230925/china-metoo-journalist-trial/)|
+|2023-09-25 03:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[星火不熄：“铁拳”也不能粉碎的中国地下史学家运动](https://cn.nytimes.com/opinion/20230925/china-underground-historians/)|
+|2023-09-25 06:52:12|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[雾帜新品：白鹭-安全事件全流程自动化响应平台](https://www.4hou.com/posts/BXjX)|
+|2023-09-25 06:22:25|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[科技创新、驱动发展——2023软件供应链安全创新发展论坛顺利召开](https://www.4hou.com/posts/GXo7)|
+|2023-09-25 05:17:46|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[奇安信发布勒索攻击态势分析报告：30分钟是勒索攻击“黄金救援期”](https://www.4hou.com/posts/DZlx)|
+|2023-09-25 03:30:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[W3LL网络钓鱼工具包劫持成千上万个Microsoft 365帐户，并绕过MFA](https://www.4hou.com/posts/L12A)|
+|2023-09-25 03:20:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[T-Mobile应用程序故障导致用户的数据泄露](https://www.4hou.com/posts/yAx7)|
+|2023-09-25 05:01:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iFixit 拆解 Apple Watch Ultra 2 藏有雙擊技術新零件？](https://applefans.today/20023-09-apple-watch-ultra-2-and-series-9-teardowns-by-ifixit/)|
 |2023-09-25 05:32:52|[虎嗅](https://plink.anyfeeder.com/huxiu)|[我在大学教“网红课”](https://www.huxiu.com/article/2098298.html?f=rss)|
 |2023-09-25 04:30:50|[虎嗅](https://plink.anyfeeder.com/huxiu)|[出尔反尔，鲁大师“忽悠式分红”引发股价过山车](https://www.huxiu.com/article/2098725.html?f=rss)|
 |2023-09-25 04:23:32|[虎嗅](https://plink.anyfeeder.com/huxiu)|[程序员为何频繁跳槽：一份互联网大厂的田野调查](https://www.huxiu.com/article/2098281.html?f=rss)|
