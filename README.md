@@ -1,7 +1,9 @@
-﻿# 每日资讯（2023-09-24）
+﻿# 每日资讯（2023-09-25）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-25 00:40:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[天使轮达30亿美元，生命科学领域最大一笔融资引爆这一赛道](https://www.tmtpost.com/6720655.html)|
+|2023-09-25 00:17:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[巨头“拾荒”元宇宙](https://www.tmtpost.com/6720760.html)|
 |2023-09-24 09:13:01|[BBC](https://plink.anyfeeder.com/bbc/cn)|[加拿大印度外交风波升级：特鲁多获得的全球声援为何如此之少](https://www.bbc.com/zhongwen/simp/world-66904823)|
 |2023-09-24 09:52:40|[V2EX](https://www.v2ex.com/index.xml)|[ 站长 cloudflare warp team 账号可以访问 youtube, 但是 ip 检测又识别为江苏南通的 cloudflare 机房, chatgpt 识别的 ip 也是江苏南通, 有前辈知道这是什么原因吗](https://www.v2ex.com/t/976710#reply0)|
 |2023-09-24 09:40:59|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 问一下，苹果官方支持仅回收而不买东西吗](https://www.v2ex.com/t/976709#reply0)|
@@ -103,6 +105,7 @@
 |2023-09-24 11:23:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[完整分析cuba勒索软件（下）](https://buaq.net/go-177800.html)|
 |2023-09-24 11:19:20|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Computer System Interrupts: Details how hardware and software components interact to handle interrupts efficiently. Flowchart, Code, and Real-world Example.](https://buaq.net/go-177799.html)|
 |2023-09-24 11:10:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[史上最严重的10起勒索软件攻击](https://buaq.net/go-177801.html)|
+|2023-09-25 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[C++ Bind VS Lambda Expression](https://leimao.github.io/blog/CPP-Bind-VS-Lambda-Expression/)|
 |2023-09-24 07:08:00|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[【Allen Hua 翻唱】山阴路的夏天和一个人的北京](https://hellodk.cn/post/1149)|
 |2023-09-24 04:39:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[手机打工人，都去造车了](https://www.tmtpost.com/6720473.html)|
 |2023-09-24 04:25:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Vidda发布NEW X系列电视，普及144Hz高刷游戏体验](https://www.tmtpost.com/6720258.html)|
