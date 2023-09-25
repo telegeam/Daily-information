@@ -2,6 +2,29 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-25 07:00:00|[少数派](https://plink.anyfeeder.com/sspai)|[窗口内容钉选、跨设备使用鼠标：新版 PowerToys 这些功能值得一试](https://sspai.com/post/83105)|
+|2023-09-25 03:30:06|[少数派](https://plink.anyfeeder.com/sspai)|[出行锦囊 找到假期应有的惬意：聊聊攻略规划与星级酒店](https://sspai.com/post/83199)|
+|2023-09-25 08:45:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[南海火药桶新引信？菲律宾要拆除中国放置的漂浮屏障](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230925-%E5%8D%97%E6%B5%B7%E7%81%AB%E8%8D%AF%E6%A1%B6%E6%96%B0%E5%BC%95%E4%BF%A1-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%A6%81%E6%8B%86%E9%99%A4%E4%B8%AD%E5%9B%BD%E6%94%BE%E7%BD%AE%E7%9A%84%E6%BC%82%E6%B5%AE%E5%B1%8F%E9%9A%9C)|
+|2023-09-25 08:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[越南计划开发稀土 与中国竞争](https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20230925-%E8%B6%8A%E5%8D%97%E8%AE%A1%E5%88%92%E5%BC%80%E5%8F%91%E7%A8%80%E5%9C%9F-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%AB%9E%E4%BA%89)|
+|2023-09-25 06:15:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[中韩日港依次领先亚运会首日奖牌榜 选手：下站巴黎奥运](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230925-%E4%B8%AD%E9%9F%A9%E6%97%A5%E6%B8%AF%E4%BE%9D%E6%AC%A1%E9%A2%86%E5%85%88%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A6%96%E6%97%A5%E5%A5%96%E7%89%8C%E6%A6%9C-%E9%80%89%E6%89%8B-%E4%B8%8B%E7%AB%99%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90)|
+|2023-09-25 08:06:04|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[失踪六年的知名维吾尔学者被判无期徒刑](https://cn.nytimes.com/china/20230925/rahile-dawut-uyghur-china/dual)|
+|2023-09-25 04:36:04|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[独立记者黄雪琴、活动人士王建兵因“煽颠”受审](https://cn.nytimes.com/china/20230925/china-metoo-journalist-trial/dual)|
+|2023-09-25 03:36:03|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[星火不熄：“铁拳”也不能粉碎的中国地下史学家运动](https://cn.nytimes.com/opinion/20230925/china-underground-historians/dual)|
+|2023-09-25 01:36:05|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[中国房地产危机拉响新警报：影子银行](https://cn.nytimes.com/business/20230925/china-economy-trusts-zhongrong-zhongzhi/dual)|
+|2023-09-25 02:43:30|[13 報](https://ethanhuang13.substack.com/feed/)|[開發者週報 #203 Swift Testing](https://www.ethanhuang13.com/p/203)|
+|2023-09-25 02:44:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[高端轻便续航好的安卓手机推荐](https://www.v2ex.com/t/976855#reply94)|
+|2023-09-25 08:00:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为爱发电写了个 Redis 桌面客户端，连颗星都没](https://www.v2ex.com/t/976991#reply69)|
+|2023-09-25 02:49:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[搭建一个三五个页面的 web 应用，怎么搞？](https://www.v2ex.com/t/976862#reply11)|
+|2023-09-25 07:07:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[高级程序员为什么喜欢建表的时候加个 ext 字段？](https://www.v2ex.com/t/976972#reply33)|
+|2023-09-25 08:58:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[运营商在测试非 1 开头的手机号码了未来正则应如何写](https://www.v2ex.com/t/977026#reply8)|
+|2023-09-25 03:25:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[分享刚组的 12 代 i3 AIO 服务器兼 NAS 存储](https://www.v2ex.com/t/976885#reply34)|
+|2023-09-25 02:57:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[钉钉自定义机器人下线了…](https://www.v2ex.com/t/976868#reply42)|
+|2023-09-25 07:03:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有什么临时 http 服务器 多线程下载 server 上的文件](https://www.v2ex.com/t/976969#reply11)|
+|2023-09-25 09:52:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ 分享 极致优化 SSD 并行读调度](https://www.v2ex.com/t/977044#reply0)|
+|2023-09-25 02:50:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何从一段自然语言中识别地址信息？](https://www.v2ex.com/t/976864#reply57)|
+|2023-09-25 01:17:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在前端简单判断手机号是否只要判断大于 130 亿，小于 200 亿就可以了。](https://www.v2ex.com/t/976806#reply84)|
+|2023-09-25 03:44:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[app 备案前奏？三星开始限制水货机注册国区账号](https://www.v2ex.com/t/976893#reply12)|
+|2023-09-25 04:35:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[写了一个 whois 域名查询网站: who.cx](https://www.v2ex.com/t/976911#reply33)|
 |2023-09-25 08:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[旅居华盛顿动物园的大熊猫将送回中国，美国人依依惜别](https://cn.wsj.com/amp/articles/%E6%97%85%E5%B1%85%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B0%86%E9%80%81%E5%9B%9E%E4%B8%AD%E5%9B%BD-%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%BE%9D%E4%BE%9D%E6%83%9C%E5%88%AB-b5136fcf)|
 |2023-09-25 08:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[随着AI军备竞赛升级，亚马逊将向Anthropic投资至多40亿美元](https://cn.wsj.com/amp/articles/%E9%9A%8F%E7%9D%80ai%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%E5%8D%87%E7%BA%A7-%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B0%86%E5%90%91anthropic%E6%8A%95%E8%B5%84%E8%87%B3%E5%A4%9A40%E4%BA%BF%E7%BE%8E%E5%85%83-5ed5b254)|
 |2023-09-25 07:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[咖啡连锁在中国市场“内卷”正酣：疯狂开店](https://cn.wsj.com/amp/articles/%E5%92%96%E5%95%A1%E8%BF%9E%E9%94%81%E5%93%81%E7%89%8C%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA-%E5%86%85%E5%8D%B7-%E6%BF%80%E7%83%88-dedfb44d)|
