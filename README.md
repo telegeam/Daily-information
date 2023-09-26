@@ -2,6 +2,42 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-26 01:49:10|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 我无法成为一个优秀的程序员，我是否应该 quit 然后转行写小说 by 离谱](https://www.v2ex.com/t/977166#reply0)|
+|2023-09-26 01:48:24|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 美国 mdm macbookir 带企业 ac，电脑进水没有意外保险？](https://www.v2ex.com/t/977165#reply0)|
+|2023-09-26 01:45:42|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 RouteOS 的 upnp 奇怪问题，求助](https://www.v2ex.com/t/977163#reply0)|
+|2023-09-26 01:42:41|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 华为 25 日发布会各位有什么看法](https://www.v2ex.com/t/977162#reply0)|
+|2023-09-26 01:41:30|[V2EX](http://www.v2ex.com/index.xml)|[ macOS Sonoma bug？ wifi 相关， dhcp 连不上网， wifi 设置面板打不开](https://www.v2ex.com/t/977161#reply0)|
+|2023-09-26 01:36:44|[V2EX](http://www.v2ex.com/index.xml)|[ 买买买 各位的手机价格是自己月薪的几成呢？](https://www.v2ex.com/t/977160#reply8)|
+|2023-09-26 01:36:07|[V2EX](http://www.v2ex.com/index.xml)|[ iOS IOS 第三方打开相册选择照片为啥不提供搜索功能？](https://www.v2ex.com/t/977159#reply2)|
+|2023-09-26 01:35:04|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 预制菜料理包以后可能真是大趋势了](https://www.v2ex.com/t/977158#reply12)|
+|2023-09-26 01:31:58|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 碰到个网络问题，有什么可以排查方法？](https://www.v2ex.com/t/977157#reply0)|
+|2023-09-26 01:28:34|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 时间过的真快， DMR 逝世快 12 年了，如果他还在…](https://www.v2ex.com/t/977155#reply0)|
+|2023-09-26 01:27:06|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 思阅 SRead: AI 支持的在线智能阅读助手](https://www.v2ex.com/t/977154#reply0)|
+|2023-09-26 01:26:57|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有没有还没有抢到票的来交流感想](https://www.v2ex.com/t/977153#reply5)|
+|2023-09-26 01:25:00|[V2EX](http://www.v2ex.com/index.xml)|[ macOS 今晚更新 MacOS Sonoma 后，是不是 Chrome 就能使用 iCloud 存储的密码了？](https://www.v2ex.com/t/977152#reply2)|
+|2023-09-26 01:21:22|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 一个 16 小时录音录像产品需求](https://www.v2ex.com/t/977149#reply2)|
+|2023-09-26 01:13:49|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 怎么看待小伙 remote worke， 100w 收入被罚](https://www.v2ex.com/t/977147#reply22)|
+|2023-09-26 01:11:54|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 今早遇到 iPhone 无需密码和 Face ID 就解锁手机的 bug](https://www.v2ex.com/t/977146#reply1)|
+|2023-09-26 01:11:28|[V2EX](http://www.v2ex.com/index.xml)|[ 汽车 6、7 座车推荐](https://www.v2ex.com/t/977145#reply5)|
+|2023-09-26 01:08:39|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 国产系统级编程语言与编译器，轻松与 C 语言进行交互](https://www.v2ex.com/t/977144#reply9)|
+|2023-09-26 01:07:52|[V2EX](http://www.v2ex.com/index.xml)|[ iOS iOS17 safari 看视频全屏拖拽进度改回来没有？](https://www.v2ex.com/t/977143#reply2)|
+|2023-09-26 01:03:34|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 日本代理 ChatGPT 网页版能用， APP 提示“You may be connected to a disallowed ISP”，请问怎么解决？](https://www.v2ex.com/t/977142#reply1)|
+|2023-09-26 01:01:11|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 语雀知识库下载到本地转 markdown](https://www.v2ex.com/t/977141#reply1)|
+|2023-09-26 00:56:34|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 刚毕业步入社会怎么建立新的社交环境](https://www.v2ex.com/t/977140#reply18)|
+|2023-09-26 00:56:21|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook 非原装充电头给笔记本充电需要注意什么](https://www.v2ex.com/t/977139#reply5)|
+|2023-09-26 00:56:06|[V2EX](http://www.v2ex.com/index.xml)|[ Android 存在那种双卡手机可以控制特定 app 使用指定的 sim 卡流量的 app 或设置吗？](https://www.v2ex.com/t/977138#reply5)|
+|2023-09-26 00:49:31|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 国内运营商不能统一下光猫么？](https://www.v2ex.com/t/977137#reply31)|
+|2023-09-26 00:47:19|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 换电池求指导谢谢](https://www.v2ex.com/t/977136#reply18)|
+|2023-09-26 00:43:29|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 2023 智能马桶有推荐的吗](https://www.v2ex.com/t/977135#reply10)|
+|2023-09-26 00:24:59|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 用 Apple Watch 解锁 mac，同时 Apple Watch 也不设密码](https://www.v2ex.com/t/977134#reply13)|
+|2023-09-26 00:24:41|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 iPhone 8Plus 感觉还能战两年，要不要换](https://www.v2ex.com/t/977133#reply39)|
+|2023-09-26 00:22:16|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 新的 Claude 2 镜像站上线了，依然免费，欢迎使用和传播](https://www.v2ex.com/t/977132#reply5)|
+|2023-09-26 00:21:30|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 感觉这些年各种文档标准的中文化在开倒车了](https://www.v2ex.com/t/977131#reply11)|
+|2023-09-26 01:30:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[常被忽视的“他”，也许是消费的新活力](https://www.tmtpost.com/6721921.html)|
+|2023-09-26 01:16:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[LV竟也出手投资胶原蛋白，“美妆茅台”又站上资本风口｜行业风向标](https://www.tmtpost.com/6722423.html)|
+|2023-09-26 00:30:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[25岁裸辞大厂，我在养老院打电竞游戏](https://www.tmtpost.com/6721911.html)|
+|2023-09-26 01:04:11|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[投资的本质是代价偿还，继续倍增发车](http://xueqiu.com/1448459094/261992863)|
+|2023-09-26 00:05:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[管制类麻药也集采？扩边没有“避风港”](https://www.huxiu.com/article/2100872.html?f=rss)|
 |2023-09-26 00:35:50|[爱范儿](https://www.ifanr.com/feed)|[早报 华为 Mate60 系列正加班加点紧急生产 / 会说话能识图的 ChatGPT 来了/ 微信广告将可直跳淘宝天猫](https://www.ifanr.com/1563306?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-09-26 00:49:31|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 国内运营商不能统一下光猫么？](https://www.v2ex.com/t/977137#reply2)|
 |2023-09-26 00:47:19|[V2EX](https://v2ex.com/index.xml)|[ iPhone 换电池求指导谢谢](https://www.v2ex.com/t/977136#reply0)|
