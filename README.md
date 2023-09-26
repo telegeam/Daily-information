@@ -1,7 +1,16 @@
-﻿# 每日资讯（2023-09-25）
+﻿# 每日资讯（2023-09-26）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-26 00:35:50|[爱范儿](https://www.ifanr.com/feed)|[早报 华为 Mate60 系列正加班加点紧急生产 / 会说话能识图的 ChatGPT 来了/ 微信广告将可直跳淘宝天猫](https://www.ifanr.com/1563306?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-26 00:49:31|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 国内运营商不能统一下光猫么？](https://www.v2ex.com/t/977137#reply2)|
+|2023-09-26 00:47:19|[V2EX](https://v2ex.com/index.xml)|[ iPhone 换电池求指导谢谢](https://www.v2ex.com/t/977136#reply0)|
+|2023-09-26 00:43:29|[V2EX](https://v2ex.com/index.xml)|[ 生活 2023 智能马桶有推荐的吗](https://www.v2ex.com/t/977135#reply1)|
+|2023-09-26 00:24:59|[V2EX](https://v2ex.com/index.xml)|[ Apple 用 Apple Watch 解锁 mac，同时 Apple Watch 也不设密码](https://www.v2ex.com/t/977134#reply9)|
+|2023-09-26 00:24:41|[V2EX](https://v2ex.com/index.xml)|[ 问与答 iPhone 8Plus 感觉还能战两年，要不要换](https://www.v2ex.com/t/977133#reply12)|
+|2023-09-26 00:22:16|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 新的 Claude 2 镜像站上线了，依然免费，欢迎使用和传播](https://www.v2ex.com/t/977132#reply0)|
+|2023-09-26 00:21:30|[V2EX](https://v2ex.com/index.xml)|[ 问与答 感觉这些年各种文档标准的中文化在开倒车了](https://www.v2ex.com/t/977131#reply6)|
+|2023-09-26 00:01:13|[V2EX](https://v2ex.com/index.xml)|[ 推广 欢度国庆！送 iOS App 兑换码！ Switch 游戏道具无限刷。](https://www.v2ex.com/t/977130#reply1)|
 |2023-09-25 07:00:00|[少数派](https://plink.anyfeeder.com/sspai)|[窗口内容钉选、跨设备使用鼠标：新版 PowerToys 这些功能值得一试](https://sspai.com/post/83105)|
 |2023-09-25 03:30:06|[少数派](https://plink.anyfeeder.com/sspai)|[出行锦囊 找到假期应有的惬意：聊聊攻略规划与星级酒店](https://sspai.com/post/83199)|
 |2023-09-25 08:45:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[南海火药桶新引信？菲律宾要拆除中国放置的漂浮屏障](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230925-%E5%8D%97%E6%B5%B7%E7%81%AB%E8%8D%AF%E6%A1%B6%E6%96%B0%E5%BC%95%E4%BF%A1-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%A6%81%E6%8B%86%E9%99%A4%E4%B8%AD%E5%9B%BD%E6%94%BE%E7%BD%AE%E7%9A%84%E6%BC%82%E6%B5%AE%E5%B1%8F%E9%9A%9C)|
