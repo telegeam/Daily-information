@@ -2,6 +2,64 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-26 05:37:02|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国时速200公里新高铁全线通车首日就出事 撞上1名行人致死亡](https://m.cnbeta.com.tw/view/1386345.htm)|
+|2023-09-26 05:36:51|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[AMD图形大神突然宣布离职：曾炮轰RTX 4090烧毁 重回英伟达还是去Intel？](https://m.cnbeta.com.tw/view/1386343.htm)|
+|2023-09-26 05:36:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[三星推出全球首款LPCAMM内存：体积缩小60%](https://m.cnbeta.com.tw/view/1386341.htm)|
+|2023-09-26 05:36:19|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iPhone 15系列初期显示屏订单高于iPhone 14同期 8月份出货量高23%](https://m.cnbeta.com.tw/view/1386339.htm)|
+|2023-09-26 05:36:04|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[机器人在活体肺组织内“半自主导航” 同时避开微小气道和血管等重要结构](https://m.cnbeta.com.tw/view/1386327.htm)|
+|2023-09-26 05:35:50|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[台积电3纳米制程又有重量级客户加入 有望夺高通5G大单](https://m.cnbeta.com.tw/view/1386325.htm)|
+|2023-09-26 05:35:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[高通骁龙8 Gen3最新性能曝光：比上代提升近50% GPU秒苹果A17](https://m.cnbeta.com.tw/view/1386323.htm)|
+|2023-09-26 05:35:18|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[传特斯拉增加台积电代工订单 扩产D1超级计算机芯片](https://m.cnbeta.com.tw/view/1386321.htm)|
+|2023-09-26 05:06:45|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[途虎养车港股上市：市值超220亿港元 成汽车后市场第一股](https://m.cnbeta.com.tw/view/1386319.htm)|
+|2023-09-26 05:06:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[亚马逊投了OpenAI最大敌人](https://m.cnbeta.com.tw/view/1386317.htm)|
+|2023-09-26 05:06:23|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[AI可以拯救全球经济？英国前首相：经济有望摆脱10年的低增长](https://m.cnbeta.com.tw/view/1386315.htm)|
+|2023-09-26 05:06:09|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国页岩油巨头：警告除非政府鼓励开采 否则油价将迈向150美元](https://m.cnbeta.com.tw/view/1386313.htm)|
+|2023-09-26 05:05:56|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国汽车业罢工再升级：福特宣布暂停新电动车电池工厂建设](https://m.cnbeta.com.tw/view/1386311.htm)|
+|2023-09-26 05:05:44|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[高温超导磁悬浮列车要来了 ？](https://m.cnbeta.com.tw/view/1386309.htm)|
+|2023-09-26 05:05:28|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国能源部长：目标是在10年内建造出商业核聚变设施](https://m.cnbeta.com.tw/view/1386307.htm)|
+|2023-09-26 05:05:16|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[菜鸟“全球五日达”宣布上线 丁宏伟:跨境电商正进入2.0时代](https://m.cnbeta.com.tw/view/1386305.htm)|
+|2023-09-26 06:16:45|[虎嗅](https://plink.anyfeeder.com/huxiu)|[先割肉、再卖身：日本东芝为何落得如此下场？](https://www.huxiu.com/article/2103204.html?f=rss)|
+|2023-09-26 06:08:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[公司中“大人物”，如何自处？](https://www.huxiu.com/article/2103185.html?f=rss)|
+|2023-09-26 06:07:51|[虎嗅](https://plink.anyfeeder.com/huxiu)|[土耳其物价，开启“坐火箭”模式](https://www.huxiu.com/article/2102208.html?f=rss)|
+|2023-09-26 06:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[麒麟9000S芯片是不是“遥遥领先”？](https://www.huxiu.com/article/2100968.html?f=rss)|
+|2023-09-26 05:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[鸿鹄900惊艳亮相，或改变全球智能电视市场格局](https://www.huxiu.com/article/2100897.html?f=rss)|
+|2023-09-26 05:19:17|[虎嗅](https://plink.anyfeeder.com/huxiu)|[流感和新冠，有什么不同？](https://www.huxiu.com/article/2103129.html?f=rss)|
+|2023-09-26 05:00:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[华为ULTIMATE DESIGN非凡大师新品开箱](https://www.huxiu.com/article/2100286.html?f=rss)|
+|2023-09-26 04:58:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[Anthropic刚拿到天价融资，OpenAI就打了一巴掌回去](https://www.huxiu.com/article/2102714.html?f=rss)|
+|2023-09-26 04:30:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[如何打造高溢价奢侈品？](https://www.huxiu.com/article/2101305.html?f=rss)|
+|2023-09-26 04:24:08|[虎嗅](https://plink.anyfeeder.com/huxiu)|[越炒越贵的珍珠，水到底有多深？](https://www.huxiu.com/article/2099008.html?f=rss)|
+|2023-09-26 04:15:36|[虎嗅](https://plink.anyfeeder.com/huxiu)|[为什么维权最后总沦为敲诈勒索](https://www.huxiu.com/article/2102698.html?f=rss)|
+|2023-09-26 04:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[机器替人生娃，要成真了？](https://www.huxiu.com/article/2098993.html?f=rss)|
+|2023-09-26 03:32:26|[虎嗅](https://plink.anyfeeder.com/huxiu)|[碧桂园穿越风暴](https://www.huxiu.com/article/2102096.html?f=rss)|
+|2023-09-26 03:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[是谁掏空了英国“第二城”的口袋？](https://www.huxiu.com/article/2099808.html?f=rss)|
+|2023-09-26 03:14:09|[虎嗅](https://plink.anyfeeder.com/huxiu)|[我空窗了9个月，求职时仍要假装热爱工作](https://www.huxiu.com/article/2102703.html?f=rss)|
+|2023-09-26 04:04:06|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为什么当下是普通人成名最好的时代](https://36kr.com/p/2446914267388036)|
+|2023-09-26 04:04:06|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[华为继续蒙面狂奔](https://36kr.com/p/2447303765071753)|
+|2023-09-26 04:04:06|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[揭秘一个灰产，月入 16 万](https://36kr.com/p/2447310173034632)|
+|2023-09-26 04:04:06|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“买奶茶必须排3次队等50分钟”，茶颜悦色这是要把打工人逼疯吗？](https://36kr.com/p/2444040705906563)|
+|2023-09-26 04:04:06|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[星巴克 CEO 评价“酱香拿铁”；盒马APP DAU一周涨13.3%；欧莱雅加码中国市场丨品牌日报](https://36kr.com/p/2446979758102403)|
+|2023-09-26 04:04:06|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Mate 60售而不发，华为隐忍三年，龙王归来？](https://36kr.com/p/2447237678833797)|
+|2023-09-26 07:00:01|[虎嗅](https://rss.huxiu.com/)|[宁德逆袭史：从福建吊车尾，到资本神话](https://www.huxiu.com/article/2102771.html?f=rss)|
+|2023-09-26 06:30:00|[虎嗅](https://rss.huxiu.com/)|[长江自此向东流，江城自此是江城](https://www.huxiu.com/article/2102728.html?f=rss)|
+|2023-09-26 02:07:16|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[活得不如意，都是你自己造成的？](http://www.huxiu.com/article/2091446.html?f=wangzhan)|
+|2023-09-26 05:09:34|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[全新的 iPhone 15 Pro 動作按鈕 有什麼功能？](https://applefans.today/2023-09-how-to-use-the-iphone-15-pro-action-button/)|
+|2023-09-26 07:04:28|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 华为智选正泰智能插座能接入 home assistant 吗](https://www.v2ex.com/t/977280#reply0)|
+|2023-09-26 07:03:56|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI Azure OpenAI 支不支持 web browsing 和 plugin](https://www.v2ex.com/t/977279#reply2)|
+|2023-09-26 06:59:52|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 15Pro 缩窄的边框，又被钢化膜给盖回来了......](https://www.v2ex.com/t/977278#reply0)|
+|2023-09-26 06:59:08|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 做空 A 股，做空中房，有什么途径？](https://www.v2ex.com/t/977277#reply0)|
+|2023-09-26 06:54:51|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 关于 iPhone 15 Pro 的充电问题](https://www.v2ex.com/t/977276#reply2)|
+|2023-09-26 06:51:49|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 无编程基础，想自学开发小程序，有无推荐教程？](https://www.v2ex.com/t/977275#reply1)|
+|2023-09-26 06:48:25|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 厦门以外的地区,中秋有博饼嘛](https://www.v2ex.com/t/977274#reply0)|
+|2023-09-26 06:46:31|[V2EX](https://www.v2ex.com/index.xml)|[ Windows 心水 Mac 桌面切换的丝滑， win11 有无替代方案？](https://www.v2ex.com/t/977273#reply7)|
+|2023-09-26 06:43:25|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 🟢 V2EX 插件更新：预览回复、生成主题分享图片、隐藏回复用户名称、更多好玩的回复表情！](https://www.v2ex.com/t/977271#reply2)|
+|2023-09-26 06:41:50|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 Agile Query 网站上线了](https://www.v2ex.com/t/977270#reply0)|
+|2023-09-26 06:40:54|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 蚂蚁国际隐私计算和大模型后端研发正在招人！ P5,P6 ](https://www.v2ex.com/t/977269#reply0)|
+|2023-09-26 06:37:02|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 上海浦东新区 传音控股-移动互联-高级/资深安卓开发工程师-小程序平台](https://www.v2ex.com/t/977268#reply0)|
+|2023-09-26 06:33:58|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 硬盘交替上电是背板还是主板实现的？](https://www.v2ex.com/t/977267#reply2)|
+|2023-09-26 06:33:48|[V2EX](https://www.v2ex.com/index.xml)|[ Python 有没有这样的文本匹配、分类模型、包？](https://www.v2ex.com/t/977266#reply0)|
+|2023-09-26 06:26:39|[V2EX](https://www.v2ex.com/index.xml)|[ 深圳 益田那边今天还有人收 15 pro 吗？有台原色 256](https://www.v2ex.com/t/977264#reply1)|
+|2023-09-26 06:18:59|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 今天玩手机突然发现新买的 IPhone15 Pro 屏幕有一道划痕](https://www.v2ex.com/t/977261#reply8)|
+|2023-09-26 06:20:33|[crossoverJie's Blog](https://crossoverjie.top/atom.xml)|[k8s-入门到实战-应用配置](http://crossoverjie.top/2023/09/26/ob/k8s-%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98-%E5%BA%94%E7%94%A8%E9%85%8D%E7%BD%AE/)|
 |2023-09-26 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：《洛基》第 2 季全新预告发布、莎拉波娃出任安缦全球养生大使](http://www.toodaylab.com/82247)|
 |2023-09-26 05:00:00|[机核](https://www.gcores.com/rss)|[聊一会儿深圳宝可梦卡牌大师赛](https://www.gcores.com/videos/171457)|
 |2023-09-26 04:30:40|[机核](https://www.gcores.com/rss)|[多人在线刷宝ARPG《遗物猎人传说》将参加Steam SHMUP 节，首发67折促销](https://www.gcores.com/articles/171467)|
