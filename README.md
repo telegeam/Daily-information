@@ -1,7 +1,24 @@
-﻿# 每日资讯（2023-09-26）
+﻿# 每日资讯（2023-09-27）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-27 00:45:00|[36氪](https://plink.anyfeeder.com/36kr)|[蔚来，周期性危机与自救丨深氪](https://36kr.com/p/2448881620555650?f=rss)|
+|2023-09-27 00:30:34|[36氪](https://plink.anyfeeder.com/36kr)|[36氪首发｜宠物智能用品品牌「鸟语花香」获近亿元A+轮融资，老股东继续追投](https://36kr.com/p/2448450383271811?f=rss)|
+|2023-09-27 00:20:43|[36氪](https://plink.anyfeeder.com/36kr)|[最前线 B站发布68部国创片单，COO李旎称“未来三年原创投入只增不减”](https://36kr.com/p/2448778530264964?f=rss)|
+|2023-09-27 00:53:08|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 开发者头条挂了？](https://www.v2ex.com/t/977445#reply0)|
+|2023-09-27 00:44:51|[V2EX](http://www.v2ex.com/index.xml)|[ 杭州 义乌三天玩啥？](https://www.v2ex.com/t/977443#reply1)|
+|2023-09-27 00:42:47|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 怎么隐藏浏览器工具栏的扩展按钮 拼图图标 ](https://www.v2ex.com/t/977442#reply0)|
+|2023-09-27 00:39:58|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 安卓商店的应用排名逻辑是什么谜？](https://www.v2ex.com/t/977440#reply6)|
+|2023-09-27 00:30:03|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 30 年房贷，已经还了 7 年，再去缩短贷款年限是否已经不划算？](https://www.v2ex.com/t/977439#reply5)|
+|2023-09-27 00:17:27|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 为大姨子写了一个 csv 文件在线处理工具](https://www.v2ex.com/t/977438#reply6)|
+|2023-09-27 00:27:56|[虎嗅](https://rss.huxiu.com/)|[新能源时代，传统能源却更有投资价值？](https://www.huxiu.com/article/2104907.html?f=rss)|
+|2023-09-27 00:26:28|[虎嗅](https://rss.huxiu.com/)|[理解智能时代](https://www.huxiu.com/article/2104985.html?f=rss)|
+|2023-09-27 00:25:34|[虎嗅](https://rss.huxiu.com/)|[“减肥神药”产业链，有哪些新玩家？](https://www.huxiu.com/article/2107077.html?f=rss)|
+|2023-09-27 00:23:29|[虎嗅](https://rss.huxiu.com/)|[任素汐《大梦》与刀郎《罗刹海市》](https://www.huxiu.com/article/2105774.html?f=rss)|
+|2023-09-27 00:20:27|[虎嗅](https://rss.huxiu.com/)|[昨天爆火今天签约，品牌抢人没有“冷静期”](https://www.huxiu.com/article/2104941.html?f=rss)|
+|2023-09-27 00:18:00|[虎嗅](https://rss.huxiu.com/)|[“十一”长假哪天最堵？这份“避堵”指南请收好](https://www.huxiu.com/article/2105781.html?f=rss)|
+|2023-09-27 00:18:00|[虎嗅](https://rss.huxiu.com/)|[链家将北京区域中介费率由2.7%调整至2%](https://www.huxiu.com/article/2104983.html?f=rss)|
+|2023-09-27 00:12:52|[虎嗅](https://rss.huxiu.com/)|[止咳糖浆致数百儿童死亡后，美FDA警告将重拳出击](https://www.huxiu.com/article/2107042.html?f=rss)|
 |2023-09-26 05:58:37|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[无人机操作手册成诱饵？乌克兰军事实体遭遇钓鱼攻击](https://www.freebuf.com/news/379281.html)|
 |2023-09-26 09:56:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[抖音带来的启示](https://www.tmtpost.com/6722365.html)|
 |2023-09-26 09:42:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[李嘉诚旗下基金领投 AI 公司耐能B轮融资，总融资额已接近14亿元｜硅基世界](https://www.tmtpost.com/6723563.html)|
@@ -152,6 +169,7 @@
 |2023-09-26 03:32:26|[虎嗅](https://plink.anyfeeder.com/huxiu)|[碧桂园穿越风暴](https://www.huxiu.com/article/2102096.html?f=rss)|
 |2023-09-26 03:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[是谁掏空了英国“第二城”的口袋？](https://www.huxiu.com/article/2099808.html?f=rss)|
 |2023-09-26 03:14:09|[虎嗅](https://plink.anyfeeder.com/huxiu)|[我空窗了9个月，求职时仍要假装热爱工作](https://www.huxiu.com/article/2102703.html?f=rss)|
+|2023-09-27 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Hexo Deployment on GitHub Using GitHub Fine-Grained Tokens](https://leimao.github.io/blog/Hexo-Deployment-GitHub-Fine-Grained-Tokens/)|
 |2023-09-26 04:04:06|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为什么当下是普通人成名最好的时代](https://36kr.com/p/2446914267388036)|
 |2023-09-26 04:04:06|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[华为继续蒙面狂奔](https://36kr.com/p/2447303765071753)|
 |2023-09-26 04:04:06|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[揭秘一个灰产，月入 16 万](https://36kr.com/p/2447310173034632)|
@@ -468,6 +486,7 @@
 |2023-09-26 01:04:11|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[投资的本质是代价偿还，继续倍增发车](http://xueqiu.com/1448459094/261992863)|
 |2023-09-26 00:05:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[管制类麻药也集采？扩边没有“避风港”](https://www.huxiu.com/article/2100872.html?f=rss)|
 |2023-09-26 00:35:50|[爱范儿](https://www.ifanr.com/feed)|[早报 华为 Mate60 系列正加班加点紧急生产 / 会说话能识图的 ChatGPT 来了/ 微信广告将可直跳淘宝天猫](https://www.ifanr.com/1563306?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-27 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 2023 年秋季学期社团联合招新（百团大战）](https://tuna.moe/event/2023/recruitment-autumn/)|
 |2023-09-26 00:49:31|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 国内运营商不能统一下光猫么？](https://www.v2ex.com/t/977137#reply2)|
 |2023-09-26 00:47:19|[V2EX](https://v2ex.com/index.xml)|[ iPhone 换电池求指导谢谢](https://www.v2ex.com/t/977136#reply0)|
 |2023-09-26 00:43:29|[V2EX](https://v2ex.com/index.xml)|[ 生活 2023 智能马桶有推荐的吗](https://www.v2ex.com/t/977135#reply1)|
