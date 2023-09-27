@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-27 02:43:09|[36氪](https://plink.anyfeeder.com/36kr)|[鹏辉能源青岛储能电池零碳制造基地开工建设；南网储能：与大姚县政府签订抽水蓄能电站、新型储能综合开发建设项目框架协议｜36氪新能源日报0926](https://36kr.com/p/2449569621481349?f=rss)|
+|2023-09-27 02:21:52|[36氪](https://plink.anyfeeder.com/36kr)|[Shopee即将进入“全面战斗模式”，不得不参战，不得不烧钱｜焦点分析](https://36kr.com/p/2446918449797248?f=rss)|
+|2023-09-27 03:03:00|[虎嗅](https://rss.huxiu.com/)|[查体抽血前不仅不应禁水，反而要多喝水](https://www.huxiu.com/article/2107560.html?f=rss)|
+|2023-09-27 03:00:20|[虎嗅](https://rss.huxiu.com/)|[悄悄地，佛山超过无锡了](https://www.huxiu.com/article/2105458.html?f=rss)|
+|2023-09-27 02:36:28|[虎嗅](https://rss.huxiu.com/)|[每天喝一杯核污染水，身体会发生什么？](https://www.huxiu.com/article/2104226.html?f=rss)|
+|2023-09-27 02:35:00|[虎嗅](https://rss.huxiu.com/)|[世界等了你数百万年，你却对自己说“不”？](https://www.huxiu.com/article/2095093.html?f=rss)|
+|2023-09-27 02:29:29|[虎嗅](https://rss.huxiu.com/)|[RISC-V：一个备胎的努力和宿命](https://www.huxiu.com/article/2104843.html?f=rss)|
+|2023-09-27 02:03:10|[虎嗅](https://rss.huxiu.com/)|[鲁大师自身作饵，好一个请君入瓮？](https://www.huxiu.com/article/2104324.html?f=rss)|
+|2023-09-27 01:55:02|[虎嗅](https://rss.huxiu.com/)|[整日腻在一起的代价：不要让爱情挤占你的生活](https://www.huxiu.com/article/2107583.html?f=rss)|
+|2023-09-27 01:52:52|[虎嗅](https://rss.huxiu.com/)|[欧洲能源危机，奥斯陆为何坚持碳中和？](https://www.huxiu.com/article/1951117.html?f=rss)|
+|2023-09-27 00:45:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[法国医疗补充保险 年长者保费飙涨 - 法国风土人情](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E9%A3%8E%E5%9C%9F%E4%BA%BA%E6%83%85/20230926-%E6%B3%95%E5%9B%BD%E5%8C%BB%E7%96%97%E8%A1%A5%E5%85%85%E4%BF%9D%E9%99%A9-%E5%B9%B4%E9%95%BF%E8%80%85%E4%BF%9D%E8%B4%B9%E9%A3%99%E6%B6%A8)|
+|2023-09-27 00:45:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[日中围绕核处理水在维也纳唇枪舌剑](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20230927-%E6%97%A5%E4%B8%AD%E5%9B%B4%E7%BB%95%E6%A0%B8%E5%A4%84%E7%90%86%E6%B0%B4%E5%9C%A8%E7%BB%B4%E4%B9%9F%E7%BA%B3%E5%94%87%E6%9E%AA%E8%88%8C%E5%89%91)|
+|2023-09-27 00:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[欧盟贸易专员：此次访华重点关注两大优先事项 - 要闻分析](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20230927-%E6%AC%A7%E7%9B%9F%E8%B4%B8%E6%98%93%E4%B8%93%E5%91%98-%E6%AD%A4%E6%AC%A1%E8%AE%BF%E5%8D%8E%E9%87%8D%E7%82%B9%E5%85%B3%E6%B3%A8%E4%B8%A4%E5%A4%A7%E4%BC%98%E5%85%88%E4%BA%8B%E9%A1%B9)|
+|2023-09-27 02:54:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Apache Doris 现在使用的多吗 效果怎么样啊](https://www.v2ex.com/t/977499#reply1)|
+|2023-09-27 01:39:33|[机核](https://www.gcores.com/rss)|[《最终幻想7 永恒危机》Steam版开发中，用户资料与手机版共享](https://www.gcores.com/articles/171501)|
 |2023-09-27 01:56:54|[沉舟侧畔 Blog](https://springwood.me/feed/)|[12306和支付宝支持境外银行卡支付](https://springwood.me/cn-international-credit-card/)|
 |2023-09-27 02:09:06|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[移除浮动屏障，菲律宾强势抵制中国在南海领土主张](https://cn.nytimes.com/asia-pacific/20230927/china-philippines-sea/?utm_source=RSS)|
 |2023-09-27 01:32:53|[虎嗅](https://plink.anyfeeder.com/huxiu)|[外地车辆轻微交通违法不处罚，有法律依据吗？](https://www.huxiu.com/article/2104969.html?f=rss)|
