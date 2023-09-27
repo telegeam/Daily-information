@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-27 00:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国大股东想要减持？稳市新规之下实属不易](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%8E%A8%E5%87%BA%E4%B8%A5%E6%A0%BC%E7%9A%84%E5%A4%A7%E8%82%A1%E4%B8%9C%E5%87%8F%E6%8C%81%E6%96%B0%E8%A7%84%E4%BB%A5%E9%81%8F%E5%88%B6%E8%82%A1%E5%B8%82%E4%B8%8B%E6%BB%91-28f2e3d5)|
+|2023-09-27 03:41:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[野村高级银行家王仲何被禁止离开中国](https://cn.wsj.com/articles/%E9%87%8E%E6%9D%91%E9%AB%98%E7%BA%A7%E9%93%B6%E8%A1%8C%E5%AE%B6%E7%8E%8B%E4%BB%B2%E4%BD%95%E8%A2%AB%E7%A6%81%E6%AD%A2%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD-65d552d3)|
+|2023-09-27 00:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国公司称在华商业环境恶化](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E7%A7%B0%E5%9C%A8%E5%8D%8E%E5%95%86%E4%B8%9A%E7%8E%AF%E5%A2%83%E6%81%B6%E5%8C%96-56e33a3c)|
+|2023-09-27 06:00:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国8月份规上工业企业利润由降转增，同比增长17.2%](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD8%E6%9C%88%E4%BB%BD%E8%A7%84%E4%B8%8A%E5%B7%A5%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%88%A9%E6%B6%A6%E7%94%B1%E9%99%8D%E8%BD%AC%E5%A2%9E-%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF17-2-a222ecd6)|
+|2023-09-27 02:54:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Apache Doris 现在使用的多吗 效果怎么样啊](https://www.v2ex.com/t/977499#reply2)|
+|2023-09-27 05:06:03|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[金刻羽：中国被西方严重误解，拜登对华政策或适得其反](https://cn.nytimes.com/world/20230927/china-us-tensions-keyu-jin-interview/dual)|
+|2023-09-27 02:36:03|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[移除浮动屏障，菲律宾强势抵制中国在南海领土主张](https://cn.nytimes.com/asia-pacific/20230927/china-philippines-sea/dual)|
+|2023-09-27 06:15:05|[V2EX](https://www.v2ex.com/index.xml)|[ 软件 富士小俏印二代打印 APP 问题](https://www.v2ex.com/t/977571#reply0)|
+|2023-09-27 06:04:49|[V2EX](https://www.v2ex.com/index.xml)|[ Apple APPLE TV 上联结手机摄像头打 facetime 有成功的么？](https://www.v2ex.com/t/977569#reply1)|
+|2023-09-27 06:01:43|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 实名上网之 OneLaunch 发布啦](https://www.v2ex.com/t/977568#reply0)|
+|2023-09-27 05:59:55|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 探讨一下，你经历过哪些错误的事](https://www.v2ex.com/t/977567#reply0)|
+|2023-09-27 05:56:44|[V2EX](https://www.v2ex.com/index.xml)|[ 互联网 嵌入式怎么涨了那么多？](https://www.v2ex.com/t/977566#reply0)|
+|2023-09-27 05:56:12|[V2EX](https://www.v2ex.com/index.xml)|[ Alfred Alfred 转让](https://www.v2ex.com/t/977565#reply0)|
+|2023-09-27 05:55:25|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Aws 下载文件打包再上传问题，请大佬们指点](https://www.v2ex.com/t/977564#reply0)|
+|2023-09-27 05:53:40|[V2EX](https://www.v2ex.com/index.xml)|[ JetBrains jetbrains 的付费计时策略真的不知道是个什么物种想出来的](https://www.v2ex.com/t/977562#reply1)|
+|2023-09-27 05:50:34|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 我猜大家的内心已经提前放假，不如聊个摸鱼话题：最喜欢 V2EX 哪个节点？](https://www.v2ex.com/t/977561#reply8)|
+|2023-09-27 05:47:59|[V2EX](https://www.v2ex.com/index.xml)|[ macOS macOS 里的 Safari 17 也终于支持 PWA 了](https://www.v2ex.com/t/977560#reply3)|
+|2023-09-27 05:45:51|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 笔记本雷电 4 和原本的 DC 充电线同时插入的时候供电模式是什么样的？](https://www.v2ex.com/t/977559#reply0)|
+|2023-09-27 05:33:09|[V2EX](https://www.v2ex.com/index.xml)|[ Mac mini Mac Mini M2 8 核 16+512 性能如何？](https://www.v2ex.com/t/977557#reply0)|
+|2023-09-27 05:30:17|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 马上国庆七天乐了，北京周边省市可以去哪里玩](https://www.v2ex.com/t/977555#reply0)|
+|2023-09-27 05:24:50|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 统计 iphone15 系列不可用 AtoC 充电线](https://www.v2ex.com/t/977554#reply16)|
+|2023-09-27 05:16:55|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 上海、杭州 支付宝招前端！招前端！](https://www.v2ex.com/t/977553#reply0)|
+|2023-09-27 05:15:21|[V2EX](https://www.v2ex.com/index.xml)|[ V2EX 最近逛 V2EX 有种逛知乎的感觉？难道是我的错觉](https://www.v2ex.com/t/977552#reply1)|
+|2023-09-27 05:08:20|[V2EX](https://www.v2ex.com/index.xml)|[  WATCH watchos 10 的返回按钮真占空间](https://www.v2ex.com/t/977551#reply4)|
+|2023-09-27 04:59:09|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 大佬们 Macos 降级后数据是怎么还原的？](https://www.v2ex.com/t/977550#reply1)|
+|2023-09-27 04:02:52|[爱范儿](https://plink.anyfeeder.com/ifanr)|[成了 WPS AI 玩家后，打工的苦，少了一半](https://www.ifanr.com/1562504?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-27 06:06:27|[机核](https://www.gcores.com/rss)|[《蔚蓝档案》主线第三章节“伊甸园条约篇”于9月28日正式开启！](https://www.gcores.com/articles/171515)|
+|2023-09-27 05:35:44|[机核](https://www.gcores.com/rss)|[国风历史策略战争游戏《横戈》 今日EA版上线](https://www.gcores.com/articles/171513)|
+|2023-09-27 04:29:38|[机核](https://www.gcores.com/rss)|[纪念已故模型师：CDPR在《赛博朋克2077》中致敬25岁玩家“千寺狐”](https://www.gcores.com/articles/171508)|
+|2023-09-27 04:03:21|[机核](https://www.gcores.com/rss)|[《塔洛斯法则2》新预告公布，11月2日正式发售](https://www.gcores.com/articles/171509)|
+|2023-09-27 03:45:41|[机核](https://www.gcores.com/rss)|[《High On Life》新DLC“High On Knife”新预告公布，10月3日正式推出](https://www.gcores.com/articles/171505)|
+|2023-09-27 03:30:57|[机核](https://www.gcores.com/rss)|[士官长登场：《彩虹六号:围攻》现已推出《光环》“大锤”干员联动皮肤](https://www.gcores.com/articles/171506)|
+|2023-09-27 03:28:32|[机核](https://www.gcores.com/rss)|[漫改剧集《擅长捉弄的高木同学》剧照公开，2024年3月播出](https://www.gcores.com/articles/171507)|
+|2023-09-27 05:24:26|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17.0.2 更新 修正無法從其他 iPhone 移轉資料的問題](https://applefans.today/ios-17-0-2/)|
+|2023-09-27 02:04:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[桌面应用 使用 Just Perfection 扩展定制 GNOME](https://linux.cn/article-16230-1.html?utm_source=rss&utm_medium=rss)|
 |2023-09-27 03:16:51|[少数派](https://plink.anyfeeder.com/sspai)|[除了出国，我们学习 GRE 还有什么用？](https://sspai.com/post/83125)|
 |2023-09-27 04:25:12|[36氪](https://plink.anyfeeder.com/36kr)|[出海与消费：不能被遗忘的角落｜暗涌2023产业未来大会](https://36kr.com/p/2449676728588425?f=rss)|
 |2023-09-27 04:58:15|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[JPEX暴雷，香港SFC拟发虚拟资产交易所“黑名单”](https://www.tmtpost.com/6724524.html)|
