@@ -2,6 +2,33 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-27 03:22:23|[豆瓣最受欢迎的影评](https://plink.anyfeeder.com/douban/review/movie)|[你是否有勇气成为黑暗里的那束光 评论: 农民 ](https://movie.douban.com/review/15471676/)|
+|2023-09-27 08:54:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[win11 的 copilot 怎么走代理？](https://www.v2ex.com/t/977652#reply1)|
+|2023-09-27 09:05:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[使用 Docker 部署项目,编码注意事项有哪些？](https://www.v2ex.com/t/977656#reply2)|
+|2023-09-27 04:05:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[win11 玩 pubg 老是闪退，有老哥遇到吗](https://www.v2ex.com/t/977531#reply6)|
+|2023-09-27 04:58:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Java 后端开发和 ios 客户端开发 哪个更推荐](https://www.v2ex.com/t/977549#reply9)|
+|2023-09-27 05:50:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我猜大家的内心已经提前放假，不如聊个摸鱼话题：最喜欢 V2EX 哪个节点？](https://www.v2ex.com/t/977561#reply52)|
+|2023-09-27 08:21:43|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为爱发电做了人生第一个英文站，居然没有自然流](https://www.v2ex.com/t/977639#reply7)|
+|2023-09-27 00:53:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[开发者头条挂了？](https://www.v2ex.com/t/977445#reply15)|
+|2023-09-27 06:16:24|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[積極提升體適能與公共運輸素養，成為更值得尊敬的長者](https://taiwan.chtsai.org/2023/09/27/zhide_zunjing_de_zhangzhe/)|
+|2023-09-27 08:37:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[医生降薪调查：公立医院薪酬制度改革“钱从哪来”](https://dig.chouti.com/link/40120642)|
+|2023-09-27 00:11:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【洛基这些年】 漫威发布「洛基这些年」特辑，回顾洛基自加入漫威以来的发展历程，同时宣传即将播出的《洛基》第二季。](https://dig.chouti.com/link/40114957)|
+|2023-09-27 00:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[越南特种部队表演醉拳](https://dig.chouti.com/link/40114990)|
+|2023-09-27 07:17:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[今年以来，米其林餐厅的副线店越来越多。甬府开了包子铺，新荣记开了港式茶餐厅，Ultraviolet也即将开始卖咖啡了......](https://dig.chouti.com/link/40119881)|
+|2023-09-27 02:03:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[江西九江：取消住房限购政策，“买房抽大奖”最高奖励50万元](https://dig.chouti.com/link/40116084)|
+|2023-09-27 07:08:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【恒大“谜网”：金融逻辑下，恒大堕落与自毁的真相】恒大的触角太庞杂了，仅靠银保监或证监部门各自为政，仍难免“牛栏关猫”的尴尬局面。如今，监察与检察力量的强势介入，或许才有机会从一个更高的维度，窥一窥恒大的全貌，震慑住台面下的小动作，把恒大推向一个积极化债的正常轨道。](https://dig.chouti.com/link/40119755)|
+|2023-09-27 07:03:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【知情人士：许家印已被监视居住于北京】事情发生在几天前，许家印现位于北京一处居所，被限制部分行动自由。根据《刑事诉讼法》，监视居住意味着受到监视者未经批准不得离开现场、与他人会面或交流，但最长不得超过六个月。许家印的护照和身份证必须交给警方。](https://dig.chouti.com/link/40119604)|
+|2023-09-27 02:41:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中科院博士，卷入缅甸诈骗风暴后】在今后很长一段时间里，缅甸都将成为无法避开的幽灵，不断把他拉回那个湿热的雨季。「他总归是要生活。」好友赵友平有些无奈。但问题是，生活如何才能继续？](https://dig.chouti.com/link/40116588)|
+|2023-09-27 02:13:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[有被刺到……心痛…… ⊙︿⊙ ](https://dig.chouti.com/link/40116375)|
+|2023-09-27 02:57:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[OpenAI被曝洽谈售股数亿美元：允许员工出售手中股份，估值最高900亿美元，为2023年初估值的三倍](https://dig.chouti.com/link/40116603)|
+|2023-09-27 00:34:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一支荧光棒上百元：线下演出火热，应援产品是“疯狂”还是过度消费？](https://dig.chouti.com/link/40115095)|
+|2023-09-27 04:03:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[赖清德称希望有机会和大陆方面吃饭，国台办：“务实台独工作者”少讲赖皮话，自讨没趣](https://dig.chouti.com/link/40117619)|
+|2023-09-27 04:01:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一场生存挑战：61个大学生，100元在都市生活15天](https://dig.chouti.com/link/40117330)|
+|2023-09-27 03:34:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“我，郑刚，被罗永浩弄得遍体鳞伤”](https://dig.chouti.com/link/40117290)|
+|2023-09-27 08:35:57|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[连续上榜！360荣获国家信息安全漏洞共享平台多项荣誉](https://www.4hou.com/posts/1pPR)|
+|2023-09-27 03:50:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[ChargePoint Home Flex电动汽车充电站攻击面总结](https://www.4hou.com/posts/gDNY)|
+|2023-09-27 03:50:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[短链接的危险](https://www.4hou.com/posts/qprG)|
+|2023-09-27 03:40:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[“美亚杯”第九届中国电子数据取证大赛报名通道开启！](https://www.4hou.com/posts/XX2W)|
 |2023-09-27 08:11:50|[V2EX](https://www.v2ex.com/index.xml)|[ macOS Sonoma 的壁纸怎么这么糊的，最近几年无论是 iOS 还是 MacOS 更新系统，感觉和没更新一样。](https://www.v2ex.com/t/977633#reply0)|
 |2023-09-27 08:11:47|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教可以批量 block 掉繁体字 v 友的方法](https://www.v2ex.com/t/977632#reply0)|
 |2023-09-27 08:10:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于家庭 NAS 配置 DDNS 的一些安全问题](https://www.v2ex.com/t/977631#reply1)|
