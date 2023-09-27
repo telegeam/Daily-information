@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-27 00:51:31|[爱范儿](https://www.ifanr.com/feed)|[宝马内燃机，进入倒计时](https://www.ifanr.com/1563367?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-27 00:44:09|[爱范儿](https://www.ifanr.com/feed)|[早报 中国队夺亚运电竞首金/消息称 iPhone 16 将新增「拍摄按钮」/哈佛研究发现 GPT-4 使企业员工绩效提升 40%](https://www.ifanr.com/1563473?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-27 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：2023 台北简单生活节阵容公布、SHANG XIA 上下深圳万象城精品店焕新开幕](http://www.toodaylab.com/82252)|
 |2023-09-27 00:45:00|[36氪](https://plink.anyfeeder.com/36kr)|[蔚来，周期性危机与自救丨深氪](https://36kr.com/p/2448881620555650?f=rss)|
 |2023-09-27 00:30:34|[36氪](https://plink.anyfeeder.com/36kr)|[36氪首发｜宠物智能用品品牌「鸟语花香」获近亿元A+轮融资，老股东继续追投](https://36kr.com/p/2448450383271811?f=rss)|
 |2023-09-27 00:20:43|[36氪](https://plink.anyfeeder.com/36kr)|[最前线 B站发布68部国创片单，COO李旎称“未来三年原创投入只增不减”](https://36kr.com/p/2448778530264964?f=rss)|
