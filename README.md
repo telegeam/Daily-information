@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-27 03:16:51|[少数派](https://plink.anyfeeder.com/sspai)|[除了出国，我们学习 GRE 还有什么用？](https://sspai.com/post/83125)|
+|2023-09-27 04:25:12|[36氪](https://plink.anyfeeder.com/36kr)|[出海与消费：不能被遗忘的角落｜暗涌2023产业未来大会](https://36kr.com/p/2449676728588425?f=rss)|
+|2023-09-27 04:58:15|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[JPEX暴雷，香港SFC拟发虚拟资产交易所“黑名单”](https://www.tmtpost.com/6724524.html)|
+|2023-09-27 04:57:15|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[国资委要求“强化国资投资电网”：不该让电网成碳中和最薄弱环节](https://www.tmtpost.com/6724465.html)|
+|2023-09-27 04:31:23|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[*ST西发重整投资人出炉，“白衣骑士”背后竟站着上市公司实控人](https://www.tmtpost.com/6724737.html)|
+|2023-09-27 05:08:20|[V2EX](http://www.v2ex.com/index.xml)|[  WATCH watchos 10 的返回按钮真占空间](https://www.v2ex.com/t/977551#reply0)|
+|2023-09-27 04:59:09|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 大佬们 Macos 降级后数据是怎么还原的？](https://www.v2ex.com/t/977550#reply0)|
+|2023-09-27 04:58:10|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 Java 后端开发和 ios 客户端开发 哪个更推荐](https://www.v2ex.com/t/977549#reply1)|
+|2023-09-27 04:45:13|[V2EX](http://www.v2ex.com/index.xml)|[ 深圳 皇岗口岸拼车 9.29-5 点出发到香港机场](https://www.v2ex.com/t/977546#reply0)|
+|2023-09-27 04:40:56|[V2EX](http://www.v2ex.com/index.xml)|[ 摄影 杭州临安青山湖随拍](https://www.v2ex.com/t/977544#reply1)|
+|2023-09-27 04:38:15|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 车被刮了，民警和交警都霍稀泥没担当，同情弱者](https://www.v2ex.com/t/977543#reply25)|
+|2023-09-27 04:34:29|[V2EX](http://www.v2ex.com/index.xml)|[ 推广 有过敏性鼻炎的 V 友们看过来！治疗过敏性鼻炎新方式了解一下](https://www.v2ex.com/t/977542#reply14)|
+|2023-09-27 04:29:58|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 .com 域名快到期，使用少，你们会续费吗？](https://www.v2ex.com/t/977541#reply2)|
+|2023-09-27 04:27:28|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 杭州家庭办宽带都什么上行速度鸭？](https://www.v2ex.com/t/977540#reply3)|
+|2023-09-27 04:27:18|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 容量需求大，买个小容量的 iPhone ，然后扩容，是不是较优解](https://www.v2ex.com/t/977539#reply13)|
+|2023-09-27 04:24:41|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 这年头开通宽带，一定要有一张本地运营商的手机卡吗？](https://www.v2ex.com/t/977538#reply2)|
+|2023-09-27 04:20:03|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 做了个 chrome 插件实现 B 站视频截图功能，直接从当前视频帧无损复制](https://www.v2ex.com/t/977537#reply1)|
+|2023-09-27 04:16:36|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 招聘向 坐标东京 2000+员工大企业 募集 sap 日语能面试](https://www.v2ex.com/t/977536#reply0)|
+|2023-09-27 04:15:03|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 在一线城市做 IT 项目经理，有什么发展前途吗？](https://www.v2ex.com/t/977534#reply0)|
+|2023-09-27 04:13:31|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 为什么这么多年了，苹果连一个头像都整不好？](https://www.v2ex.com/t/977533#reply7)|
+|2023-09-27 04:05:42|[V2EX](http://www.v2ex.com/index.xml)|[ Windows win11 玩 pubg 老是闪退，有老哥遇到吗](https://www.v2ex.com/t/977531#reply2)|
+|2023-09-27 04:03:01|[V2EX](http://www.v2ex.com/index.xml)|[ Android 1+11 刷氧 OS 请教](https://www.v2ex.com/t/977530#reply3)|
+|2023-09-27 03:50:40|[极客公园](https://plink.anyfeeder.com/geekpark)|[医渡科技 CTO 闫峻：高质量语料与落地场景是垂域大模型的关键](http://www.geekpark.net/news/325449)|
+|2023-09-27 02:35:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[世界等了你数百万年，你却对自己说“不”？](http://www.huxiu.com/article/2095093.html?f=wangzhan)|
+|2023-09-27 04:43:03|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“市市通350高铁”第一省，呼之欲出](https://www.huxiu.com/article/2107943.html?f=rss)|
+|2023-09-27 04:40:25|[虎嗅](https://plink.anyfeeder.com/huxiu)|[未就业大学毕业生，谁更容易成为“躺平族”？](https://www.huxiu.com/article/2107550.html?f=rss)|
+|2023-09-27 04:38:39|[虎嗅](https://plink.anyfeeder.com/huxiu)|[解码大脑，需要小鼠更“野”？](https://www.huxiu.com/article/2103179.html?f=rss)|
+|2023-09-27 04:11:55|[虎嗅](https://plink.anyfeeder.com/huxiu)|[变成“35岁，男”，我终于不再被骚扰](https://www.huxiu.com/article/2107616.html?f=rss)|
+|2023-09-27 04:10:17|[虎嗅](https://plink.anyfeeder.com/huxiu)|[当县中开始自救](https://www.huxiu.com/article/2069987.html?f=rss)|
+|2023-09-27 04:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[蚊子是怎么盯上你的？如何优雅地把蚊子送走？](https://www.huxiu.com/article/2104237.html?f=rss)|
+|2023-09-27 04:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[苏秦和张仪，被硬组CP的战国双子星](https://www.huxiu.com/article/2103951.html?f=rss)|
+|2023-09-27 03:48:48|[虎嗅](https://plink.anyfeeder.com/huxiu)|[沉浸式体验：未成年玩游戏拦得住吗？](https://www.huxiu.com/article/2104863.html?f=rss)|
+|2023-09-27 03:43:52|[虎嗅](https://plink.anyfeeder.com/huxiu)|[漂亮得不像红米手机？红米Note 13的真香价格](https://www.huxiu.com/article/2103639.html?f=rss)|
+|2023-09-27 03:33:09|[虎嗅](https://plink.anyfeeder.com/huxiu)|[被制裁三年的不是华为，是苹果？](https://www.huxiu.com/article/2107605.html?f=rss)|
+|2023-09-27 03:12:19|[虎嗅](https://plink.anyfeeder.com/huxiu)|[一位女高管的反思：推特是如何“垮掉”的？](https://www.huxiu.com/article/2107622.html?f=rss)|
 |2023-09-27 03:53:09|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[《2023上半年网络安全观察报告》联合发布，呈现上半年五大安全领域趋势特点](https://www.freebuf.com/consult/379425.html)|
 |2023-09-27 03:31:36|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[重磅更新！微软将在 Windows11中推出通行密钥支持功能](https://www.freebuf.com/news/379422.html)|
 |2023-09-27 02:15:08|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[如何在熊市中保持良好心态](http://xueqiu.com/1893700216/262119056)|
