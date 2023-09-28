@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-28 06:48:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[倒贴钱上班写代码还有前途吗？ 30 多岁了](https://www.v2ex.com/t/977938#reply15)|
+|2023-09-28 06:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国重新考虑楼市限价措施，后果难以预料](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%96%B0%E8%80%83%E8%99%91%E6%A5%BC%E5%B8%82%E9%99%90%E4%BB%B7%E6%8E%AA%E6%96%BD-%E5%90%8E%E6%9E%9C%E9%9A%BE%E4%BB%A5%E9%A2%84%E6%96%99-4fcca24b)|
+|2023-09-28 06:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国恒大港股停牌](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E8%82%A1%E7%A5%A8%E5%9C%A8%E9%A6%99%E6%B8%AF%E6%9A%82%E5%81%9C%E4%BA%A4%E6%98%93-c567cdd5)|
+|2023-09-28 06:28:00|[机核](https://www.gcores.com/rss)|[【福利】Solarain《东方Project》博丽灵梦‘乐园的美好巫女ver.’1/7手办，9月29日0点准时开售](https://www.gcores.com/articles/171580)|
+|2023-09-28 06:00:00|[机核](https://www.gcores.com/rss)|[译介丨Rosa Carbó-Mascarell：步行模拟器，美学实践的数字化 2016 ](https://www.gcores.com/articles/171552)|
+|2023-09-28 04:46:14|[机核](https://www.gcores.com/rss)|[刘慈欣授权，全球艺术家共创，“丁仪宇宙”将于 WF 2022-2023 上海首亮相](https://www.gcores.com/articles/171576)|
+|2023-09-28 04:07:25|[机核](https://www.gcores.com/rss)|[网飞游戏改编动画《恶魔城：夜曲》开场7分钟放出，剧集今日正式上线](https://www.gcores.com/articles/171573)|
+|2023-09-28 04:01:12|[机核](https://www.gcores.com/rss)|[《酸雨战争》4套新品公布！预定明年4月上市](https://www.gcores.com/articles/171564)|
+|2023-09-28 03:18:50|[机核](https://www.gcores.com/rss)|[含《木卫四协议》及《诡野西部》：索尼公布10月PS+会免游戏](https://www.gcores.com/articles/171571)|
+|2023-09-28 03:14:09|[机核](https://www.gcores.com/rss)|[《惊奇队长 2 》正式定档，同步北美十一月上映](https://www.gcores.com/articles/171569)|
+|2023-09-28 03:11:32|[机核](https://www.gcores.com/rss)|[《Dota2》2023年国际邀请赛更新今日放出，TI互动指南正式推出](https://www.gcores.com/articles/171567)|
+|2023-09-28 04:02:30|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[不惑之年，还需要化妆吗?](https://www.zhihu.com/question/619270103)|
+|2023-09-28 04:30:56|[小众软件](https://plink.anyfeeder.com/appinn)|[DoubleKiller – 查找并删除重复文件 Windows ](https://www.appinn.com/doublekiller-2/)|
+|2023-09-28 05:49:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[中國市場迷戀 iPhone 15：交貨時間驚人成長](https://www.iphonetaiwan.org/2023/09/iphone-15-china-market-trends.html)|
 |2023-09-28 05:14:30|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[穿越熊市：投资最重要的6件事](http://xueqiu.com/9391624441/262226961)|
 |2023-09-28 05:14:29|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[利润转正——市场确认底部又一个重要信号](http://xueqiu.com/6087293231/262245565)|
 |2023-09-28 05:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[Meta元宇宙挥金如土，急需Facebook广告业务“补贴家用”](https://cn.wsj.com/amp/articles/meta%E5%85%83%E5%AE%87%E5%AE%99%E6%8C%A5%E9%87%91%E5%A6%82%E5%9C%9F-%E6%80%A5%E9%9C%80facebook%E5%B9%BF%E5%91%8A%E4%B8%9A%E5%8A%A1-%E8%A1%A5%E8%B4%B4%E5%AE%B6%E7%94%A8-baef24e3)|
