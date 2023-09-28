@@ -2,6 +2,50 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-28 06:14:12|[极客公园](https://plink.anyfeeder.com/geekpark)|[「全国可开」的智驾天花板，2 万人用脚投票问界新M7](http://www.geekpark.net/news/325492)|
+|2023-09-28 09:36:03|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[普世价值观真的“普世”吗](https://cn.nytimes.com/world/20230928/are-universal-values-really-universal/dual)|
+|2023-09-28 05:06:05|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[美士兵越境被扣留70天后离开朝鲜，经由中国返美](https://cn.nytimes.com/asia-pacific/20230928/north-korea-travis-king-expel/dual)|
+|2023-09-28 08:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[香港楼市跌势加剧 港官改口露楼管「减辣」曙光](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230928-%E9%A6%99%E6%B8%AF%E6%A5%BC%E5%B8%82%E8%B7%8C%E5%8A%BF%E5%8A%A0%E5%89%A7-%E6%B8%AF%E5%AE%98%E6%94%B9%E5%8F%A3%E9%9C%B2%E6%A5%BC%E7%AE%A1-%E5%87%8F%E8%BE%A3-%E6%9B%99%E5%85%89)|
+|2023-09-28 08:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[台湾缺乏劳工即将与印度签署合作备忘录引进](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230928-%E5%8F%B0%E6%B9%BE%E7%BC%BA%E4%B9%8F%E5%8A%B3%E5%B7%A5%E5%8D%B3%E5%B0%86%E4%B8%8E%E5%8D%B0%E5%BA%A6%E7%AD%BE%E7%BD%B2%E5%90%88%E4%BD%9C%E5%A4%87%E5%BF%98%E5%BD%95%E5%BC%95%E8%BF%9B)|
+|2023-09-28 08:50:49|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[国庆项目“直通车”，知识大陆 APP 带你开传送门](https://www.freebuf.com/fevents/379626.html)|
+|2023-09-28 07:12:02|[代码范 | Code Fine](https://codefine.site/feed/)|[HomeServer直播、监控方案实践](https://codefine.site/3310.html?pk_campaign=feed&pk_kwd=homeserver%25e7%259b%25b4%25e6%2592%25ad%25e3%2580%2581%25e7%259b%2591%25e6%258e%25a7%25e6%2596%25b9%25e6%25a1%2588%25e5%25ae%259e%25e8%25b7%25b5)|
+|2023-09-28 10:01:00|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 上海 go/web/android 地点漕河泾，招聘 go， web， android 开发工程师](https://www.v2ex.com/t/978022#reply0)|
+|2023-09-28 09:59:37|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 有什么隐藏软件的 app 吗？](https://www.v2ex.com/t/978021#reply3)|
+|2023-09-28 09:56:22|[V2EX](https://www.v2ex.com/index.xml)|[ Apple App Store 里海外开发者的 App 在备案施行后该何去何从？](https://www.v2ex.com/t/978020#reply0)|
+|2023-09-28 09:19:10|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 有没有罗技鼠标的替代品？](https://www.v2ex.com/t/978017#reply0)|
+|2023-09-28 09:15:58|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 第一次带 Java 新人，感觉带的很差](https://www.v2ex.com/t/978016#reply9)|
+|2023-09-28 09:11:42|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 强行绕过 TPM，在不支持 TPM2.0 的机器上装 win11 会有哪些 bug 出现？](https://www.v2ex.com/t/978014#reply1)|
+|2023-09-28 09:11:21|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 最近开始看房，有问题想请教下大家](https://www.v2ex.com/t/978013#reply8)|
+|2023-09-28 09:04:18|[V2EX](https://www.v2ex.com/index.xml)|[ VPS 出一台狗云的香港 VPS 1c2g 还剩 10 个月](https://www.v2ex.com/t/978011#reply0)|
+|2023-09-28 09:01:34|[V2EX](https://www.v2ex.com/index.xml)|[ 成都 成都看房半年，输出点暴论](https://www.v2ex.com/t/978009#reply11)|
+|2023-09-28 08:55:29|[V2EX](https://www.v2ex.com/index.xml)|[ Android 国行三星「推送服务优化」经验分享](https://www.v2ex.com/t/978008#reply2)|
+|2023-09-28 08:54:43|[V2EX](https://www.v2ex.com/index.xml)|[ 投资 做了个宽基行业指数 ETF 投资可视化](https://www.v2ex.com/t/978007#reply1)|
+|2023-09-28 08:53:36|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 国企招聘 UI 设计,产品,市场营销 3HC！速来 955](https://www.v2ex.com/t/978006#reply1)|
+|2023-09-28 08:53:30|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 现在是北京时间 9 月 28 号下午 4 点 52 分，距离下班还有 68min，现在上班还在刷 v 站的你们是怎么过剩下来的几十分钟的](https://www.v2ex.com/t/978005#reply14)|
+|2023-09-28 08:53:27|[V2EX](https://www.v2ex.com/index.xml)|[ 重庆 北漂回重庆现在 go/ Java +react/vue 好找吗](https://www.v2ex.com/t/978004#reply4)|
+|2023-09-28 08:51:53|[V2EX](https://www.v2ex.com/index.xml)|[ Vue.js vue ci 的问题](https://www.v2ex.com/t/978003#reply0)|
+|2023-09-28 08:48:41|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 我不信有人可以破解这个站的前端代码](https://www.v2ex.com/t/978002#reply132)|
+|2023-09-28 08:47:35|[V2EX](https://www.v2ex.com/index.xml)|[ Java 怎么才能理解多线程？](https://www.v2ex.com/t/978001#reply4)|
+|2023-09-28 08:46:49|[V2EX](https://www.v2ex.com/index.xml)|[ 浏览器 Vivaldi 浏览器发布 iOS 客户端](https://www.v2ex.com/t/978000#reply0)|
+|2023-09-28 08:46:14|[V2EX](https://www.v2ex.com/index.xml)|[ MongoDB 有没有觉得用 typescript 写 mongoose 好蛋疼](https://www.v2ex.com/t/977999#reply1)|
+|2023-09-28 08:43:29|[V2EX](https://www.v2ex.com/index.xml)|[ Java SpringBoot 和 OAuth2.0（整合失败/鉴权失败）](https://www.v2ex.com/t/977998#reply12)|
+|2023-09-28 08:42:12|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 十一小长假，大家准备去哪里玩？有什么好的推荐？](https://www.v2ex.com/t/977997#reply1)|
+|2023-09-28 08:40:58|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 鸿蒙原生开发现在行情如何？](https://www.v2ex.com/t/977996#reply38)|
+|2023-09-28 08:35:01|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 杭州 外企 WLB 思科杭州招聘 DevOps 工程师 https://v2ex.com/balance](https://www.v2ex.com/t/977995#reply4)|
+|2023-09-28 08:32:07|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 Fiddler Everywhere 一年 144 美刀真的有公司或者个人订阅的吗](https://www.v2ex.com/t/977994#reply6)|
+|2023-09-28 08:29:18|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 大部分提醒 APP 都搞不定这类提醒](https://www.v2ex.com/t/977993#reply10)|
+|2023-09-28 08:28:40|[V2EX](https://www.v2ex.com/index.xml)|[ VPS 出绿云 SJC 9999 三年款](https://www.v2ex.com/t/977992#reply0)|
+|2023-09-28 08:28:30|[V2EX](https://www.v2ex.com/index.xml)|[ macOS safari 有点不正常](https://www.v2ex.com/t/977991#reply1)|
+|2023-09-28 08:26:39|[V2EX](https://www.v2ex.com/index.xml)|[ 投资 20230928 9 月收益 5.94%，账户净值新高](https://www.v2ex.com/t/977989#reply1)|
+|2023-09-28 08:23:52|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 v 友们，都堵路上了吗](https://www.v2ex.com/t/977988#reply0)|
+|2023-09-28 08:23:43|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有 tg 二手捡垃圾的群组吗](https://www.v2ex.com/t/977987#reply1)|
+|2023-09-28 08:20:23|[V2EX](https://www.v2ex.com/index.xml)|[ Flutter flutter 中如何优雅的二次封装小部件](https://www.v2ex.com/t/977986#reply2)|
+|2023-09-28 08:18:31|[V2EX](https://www.v2ex.com/index.xml)|[ git commit log 里面 merge log 问题](https://www.v2ex.com/t/977985#reply2)|
+|2023-09-28 08:16:27|[V2EX](https://www.v2ex.com/index.xml)|[ Netflix nf 土区差一人](https://www.v2ex.com/t/977983#reply0)|
+|2023-09-28 08:16:17|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 在代码中发现了留注释人的愤怒](https://www.v2ex.com/t/977982#reply11)|
+|2023-09-28 08:06:35|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 求大佬们推荐一款笔记软件](https://www.v2ex.com/t/977980#reply9)|
+|2023-09-28 08:06:15|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 好奇 Python 的补全](https://www.v2ex.com/t/977979#reply2)|
+|2023-09-28 08:46:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 活动资料下载 ｜ LLUG 深圳场成功举办](https://linux.cn/article-16238-1.html?utm_source=rss&utm_medium=rss)|
 |2023-09-28 06:33:27|[少数派](https://plink.anyfeeder.com/sspai)|[在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm)|
 |2023-09-28 03:42:35|[少数派](https://plink.anyfeeder.com/sspai)|[我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起](https://sspai.com/post/83198)|
 |2023-09-28 00:43:15|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等](https://sspai.com/post/83277)|
