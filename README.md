@@ -2,6 +2,64 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-28 03:05:27|[机核](https://www.gcores.com/rss)|[欧盟法院驳回V社上诉，裁定激活码锁区违反单一市场规定](https://www.gcores.com/articles/171566)|
+|2023-09-28 02:02:52|[机核](https://www.gcores.com/rss)|[FTC重启微软收购动视暴雪案内部审查，力争阻止收购成事](https://www.gcores.com/articles/171557)|
+|2023-09-28 02:00:00|[机核](https://www.gcores.com/rss)|[「吉考斯工业 × 赛博朋克2077」联名系列概念宣传片正式公开](https://www.gcores.com/videos/171533)|
+|2023-09-28 01:41:04|[机核](https://www.gcores.com/rss)|[Meta Quest 3售价499.99美元，Xbox云游戏将于年内登录Quest:Meta开发者大会消息汇总](https://www.gcores.com/articles/171556)|
+|2023-09-28 00:52:41|[机核](https://www.gcores.com/rss)|[未来已来:《CS2》现已在Steam免费推出](https://www.gcores.com/articles/171554)|
+|2023-09-28 01:30:00|[36氪](https://plink.anyfeeder.com/36kr)|[制造大国的工业脊梁｜暗涌2023产业未来大会](https://36kr.com/p/2449739536881542?f=rss)|
+|2023-09-28 01:21:35|[36氪](https://plink.anyfeeder.com/36kr)|[实探蜂巢叠片电池厂：和宁德时代不一样的电池制造 ｜焦点分析](https://36kr.com/p/2449498735548552?f=rss)|
+|2023-09-28 00:53:51|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[公交车上的民生｜工劳小报 #29](https://feed.laborinfocn3.com/issue29/)|
+|2023-09-28 03:11:29|[V2EX](https://v2ex.com/index.xml)|[ 程序员 求助 VScode 打开新的项目或新的窗口，插件和配置都没有了](https://www.v2ex.com/t/977850#reply0)|
+|2023-09-28 03:11:02|[V2EX](https://v2ex.com/index.xml)|[ Apple 苹果升级 iOS 17 备忘录应用，可嵌入相关笔记链接，这不是就是 obsidian 的双向链接](https://www.v2ex.com/t/977849#reply0)|
+|2023-09-28 03:08:54|[V2EX](https://v2ex.com/index.xml)|[ iPhone 是否有类似 Timehop 可以每日回顾相册照片和社交网络记录的 App](https://www.v2ex.com/t/977848#reply0)|
+|2023-09-28 03:05:05|[V2EX](https://v2ex.com/index.xml)|[ iDev moontake🌕，一个上了编辑推荐的 iOS App 一个半月的下载及内购数据的粗略分析📊](https://www.v2ex.com/t/977847#reply0)|
+|2023-09-28 03:02:00|[V2EX](https://v2ex.com/index.xml)|[ macOS MacOS 现在自带的 Java 版本是啥情况？](https://www.v2ex.com/t/977846#reply2)|
+|2023-09-28 02:58:43|[V2EX](https://v2ex.com/index.xml)|[ 硬件 听说百元显示器现在很卷，你们手里的百元显示器都是什么型号的？](https://www.v2ex.com/t/977845#reply2)|
+|2023-09-28 02:58:18|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 IPV6 DDNS 相关](https://www.v2ex.com/t/977844#reply1)|
+|2023-09-28 02:55:59|[V2EX](https://v2ex.com/index.xml)|[ 求职 35 岁被裁了，找工作](https://www.v2ex.com/t/977843#reply1)|
+|2023-09-28 02:55:06|[V2EX](https://v2ex.com/index.xml)|[ 职场话题 放假前一天，工位摸鱼集合贴。](https://www.v2ex.com/t/977842#reply0)|
+|2023-09-28 02:54:15|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 社招 明星大模型公司 算法/训练/推理/强化学习/风控/搜索算法](https://www.v2ex.com/t/977841#reply1)|
+|2023-09-28 02:53:54|[V2EX](https://v2ex.com/index.xml)|[ 问与答 苹果官网翻新机翻车了，求支招](https://www.v2ex.com/t/977840#reply6)|
+|2023-09-28 02:51:25|[V2EX](https://v2ex.com/index.xml)|[ 硬件 有没有大佬介绍下星闪？看宣传说的很厉害](https://www.v2ex.com/t/977839#reply6)|
+|2023-09-28 02:49:48|[V2EX](https://v2ex.com/index.xml)|[ 问与答 Application fields of WiFi modules in industrial automation](https://www.v2ex.com/t/977838#reply0)|
+|2023-09-28 02:49:30|[V2EX](https://v2ex.com/index.xml)|[ 程序员 国内稳定订阅 GPT Plus，支持支付宝充值](https://www.v2ex.com/t/977837#reply1)|
+|2023-09-28 02:42:31|[V2EX](https://v2ex.com/index.xml)|[ Android 类原生系统怎样使用复制门禁卡呢？ crDroid /LineageOS / PixelExperience OS](https://www.v2ex.com/t/977834#reply0)|
+|2023-09-28 02:40:40|[V2EX](https://v2ex.com/index.xml)|[ 问与答 折叠热水壶怎么样](https://www.v2ex.com/t/977833#reply0)|
+|2023-09-28 02:38:04|[V2EX](https://v2ex.com/index.xml)|[ 问与答 新加坡的票在哪里买？](https://www.v2ex.com/t/977832#reply0)|
+|2023-09-28 02:31:31|[V2EX](https://v2ex.com/index.xml)|[ Apple iOS17 手机热点在锁屏时搜不到了？](https://www.v2ex.com/t/977831#reply3)|
+|2023-09-28 02:31:00|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 做了个一键导出 QQ 空间相册的工具](https://www.v2ex.com/t/977830#reply4)|
+|2023-09-28 02:27:09|[V2EX](https://v2ex.com/index.xml)|[ 程序员 DPDK 峰会上的演讲视频](https://www.v2ex.com/t/977829#reply0)|
+|2023-09-28 02:25:49|[V2EX](https://v2ex.com/index.xml)|[ 职场话题 我是上次吐槽面的普本都很少的，找到原因了 真的是 HR](https://www.v2ex.com/t/977828#reply21)|
+|2023-09-28 02:24:56|[V2EX](https://v2ex.com/index.xml)|[ 优惠信息 分享一个微信 App Store 充值老用户 9 折方法](https://www.v2ex.com/t/977827#reply11)|
+|2023-09-28 02:22:53|[V2EX](https://v2ex.com/index.xml)|[ 程序员 我们在用的 scrum 工具-推荐敏捷开发工具](https://www.v2ex.com/t/977826#reply1)|
+|2023-09-28 02:19:08|[V2EX](https://v2ex.com/index.xml)|[ 互联网 WiFi module types and specifications](https://www.v2ex.com/t/977824#reply0)|
+|2023-09-28 02:18:08|[V2EX](https://v2ex.com/index.xml)|[ 汽车 新手开车请教](https://www.v2ex.com/t/977823#reply33)|
+|2023-09-28 02:15:59|[V2EX](https://v2ex.com/index.xml)|[ DotA 纯情绪发泄: 今年本子是一坨答辩](https://www.v2ex.com/t/977822#reply9)|
+|2023-09-28 02:15:53|[V2EX](https://v2ex.com/index.xml)|[ 生活 今天准备买个手机壳，发现一个问题，供应商一样，价格相差不少](https://www.v2ex.com/t/977821#reply8)|
+|2023-09-28 02:09:51|[V2EX](https://v2ex.com/index.xml)|[ 问与答 跪求大家帮忙推荐一款免费，开源的客户关系管理系统。](https://www.v2ex.com/t/977817#reply2)|
+|2023-09-28 02:09:43|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求 Java 开源项目推荐 前后端分离项目），在校学生](https://www.v2ex.com/t/977816#reply0)|
+|2023-09-28 02:08:08|[V2EX](https://v2ex.com/index.xml)|[ Go 编程语言 Go's Assembler 01: defer](https://www.v2ex.com/t/977815#reply2)|
+|2023-09-28 02:07:09|[V2EX](https://v2ex.com/index.xml)|[ 问与答 电脑外接摄像头一个奇怪的问题，看看大家有没有什么解决办法](https://www.v2ex.com/t/977814#reply0)|
+|2023-09-28 02:06:52|[V2EX](https://v2ex.com/index.xml)|[ 问与答 国庆假期都计划去哪](https://www.v2ex.com/t/977813#reply0)|
+|2023-09-28 02:05:12|[V2EX](https://v2ex.com/index.xml)|[ 问与答 鼠标卡顿问题求助](https://www.v2ex.com/t/977812#reply6)|
+|2023-09-28 02:00:25|[V2EX](https://v2ex.com/index.xml)|[ 问与答 刚刚 V2 网站崩了？](https://www.v2ex.com/t/977808#reply4)|
+|2023-09-28 02:00:01|[V2EX](https://v2ex.com/index.xml)|[ OpenAI OpenAI 的 api 接口有请求速率限制有什么解决方案吗？](https://www.v2ex.com/t/977807#reply9)|
+|2023-09-28 01:52:34|[V2EX](https://v2ex.com/index.xml)|[ Apple 请问有没有大佬知道比较好的 apple ID 迁移数据的方法？](https://www.v2ex.com/t/977806#reply1)|
+|2023-09-28 01:50:13|[V2EX](https://v2ex.com/index.xml)|[ 问与答 请问下土耳其 Turkcell 如何激活 imessage 显示号码](https://www.v2ex.com/t/977804#reply2)|
+|2023-09-28 01:46:56|[V2EX](https://v2ex.com/index.xml)|[ 问与答 我的 mbp14 太小 想多个屏幕，能用类似随航投到 imac5k 吗， iPad 可以投上去](https://www.v2ex.com/t/977803#reply2)|
+|2023-09-28 01:45:09|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 《HelloGitHub》第 90 期](https://www.v2ex.com/t/977802#reply3)|
+|2023-09-28 01:45:09|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求解答！用 uniapp 开发的应用，没有引入“小红书”的任何 sdk，在自家应用却弹框提示想要打开小红书。](https://www.v2ex.com/t/977801#reply6)|
+|2023-09-28 01:44:47|[V2EX](https://v2ex.com/index.xml)|[ 成都 明天去成都玩两三天，在成都老哥帮看看可有坑或不建议去得地方](https://www.v2ex.com/t/977800#reply51)|
+|2023-09-28 01:44:40|[V2EX](https://v2ex.com/index.xml)|[ 问与答 移动端有没有什么 UI 库推荐？不针对特定前端 MVVM 框架的](https://www.v2ex.com/t/977799#reply5)|
+|2023-09-28 01:43:12|[V2EX](https://v2ex.com/index.xml)|[ 程序员 请问: 合并 C 盘和 D 盘后, 今后使用有啥麻烦吗?](https://www.v2ex.com/t/977798#reply22)|
+|2023-09-28 01:41:48|[V2EX](https://v2ex.com/index.xml)|[ 问与答 除了 alt+tab，有其他更快的应用切换方式吗？](https://www.v2ex.com/t/977797#reply17)|
+|2023-09-28 01:41:23|[V2EX](https://v2ex.com/index.xml)|[ 程序员 ChatGPT 网页版现在的验证码丧心病狂](https://www.v2ex.com/t/977796#reply18)|
+|2023-09-28 01:38:09|[V2EX](https://v2ex.com/index.xml)|[ 问与答 V 站现在要开启全局代理才能打开了么？](https://www.v2ex.com/t/977795#reply4)|
+|2023-09-28 01:28:37|[V2EX](https://v2ex.com/index.xml)|[ YouTube 今日一乐](https://www.v2ex.com/t/977793#reply3)|
+|2023-09-28 01:26:22|[V2EX](https://v2ex.com/index.xml)|[ 问与答 曾经小米 9 的 AI 按键很实用，小米 14 会恢复吗](https://www.v2ex.com/t/977792#reply8)|
+|2023-09-28 01:26:16|[V2EX](https://v2ex.com/index.xml)|[ 旅行 国庆七天长沙旅游， V 友门有推荐必去的地方吗](https://www.v2ex.com/t/977791#reply31)|
+|2023-09-28 01:25:06|[V2EX](https://v2ex.com/index.xml)|[ Apple Mac mini M1 更新 sonoma 后 hdmi+雷电接口 4k 双屏问题](https://www.v2ex.com/t/977790#reply0)|
 |2023-09-28 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国财经媒体报道汇总：政治局会议：加大国有企业、金融领域反腐败力度](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E6%94%BF%E6%B2%BB%E5%B1%80%E4%BC%9A%E8%AE%AE-%E5%8A%A0%E5%A4%A7%E5%9B%BD%E6%9C%89%E4%BC%81%E4%B8%9A-%E9%87%91%E8%9E%8D%E9%A2%86%E5%9F%9F%E5%8F%8D%E8%85%90%E8%B4%A5%E5%8A%9B%E5%BA%A6-b1e44cac)|
 |2023-09-28 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美股跌势暂歇，纳指小涨](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C%E5%8A%BF%E6%9A%82%E6%AD%87-%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B%E7%BB%BC%E5%90%88%E6%8C%87%E6%95%B0%E5%B0%8F%E6%B6%A8-c3354ead)|
 |2023-09-28 01:16:43|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[CATL Denies Halting Work on $3.5 Billion US EV Battery Plant with Ford](https://www.tmtpost.com/6724635.html)|
