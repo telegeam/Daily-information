@@ -2,6 +2,50 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-28 05:14:30|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[穿越熊市：投资最重要的6件事](http://xueqiu.com/9391624441/262226961)|
+|2023-09-28 05:14:29|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[利润转正——市场确认底部又一个重要信号](http://xueqiu.com/6087293231/262245565)|
+|2023-09-28 05:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[Meta元宇宙挥金如土，急需Facebook广告业务“补贴家用”](https://cn.wsj.com/amp/articles/meta%E5%85%83%E5%AE%87%E5%AE%99%E6%8C%A5%E9%87%91%E5%A6%82%E5%9C%9F-%E6%80%A5%E9%9C%80facebook%E5%B9%BF%E5%91%8A%E4%B8%9A%E5%8A%A1-%E8%A1%A5%E8%B4%B4%E5%AE%B6%E7%94%A8-baef24e3)|
+|2023-09-28 05:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[iPhone 15 Pro系列机主吐槽新机型过热问题](https://cn.wsj.com/amp/articles/iphone-15-pro%E7%B3%BB%E5%88%97%E6%9C%BA%E4%B8%BB%E5%90%90%E6%A7%BD%E6%96%B0%E6%9C%BA%E5%9E%8B%E8%BF%87%E7%83%AD%E9%97%AE%E9%A2%98-ba856a01)|
+|2023-09-28 05:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[减肥药大热之际，安进有望分得一杯羹](https://cn.wsj.com/amp/articles/%E5%87%8F%E8%82%A5%E8%8D%AF%E5%A4%A7%E7%83%AD%E4%B9%8B%E9%99%85-%E5%AE%89%E8%BF%9B%E6%9C%89%E6%9C%9B%E5%88%86%E5%BE%97%E4%B8%80%E6%9D%AF%E7%BE%B9-6c3a67b3)|
+|2023-09-28 04:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美国借贷成本飙升之际，低评级公司很受伤](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E5%80%9F%E8%B4%B7%E6%88%90%E6%9C%AC%E9%A3%99%E5%8D%87%E4%B9%8B%E9%99%85-%E4%BD%8E%E8%AF%84%E7%BA%A7%E5%85%AC%E5%8F%B8%E5%BE%88%E5%8F%97%E4%BC%A4-4ead8578)|
+|2023-09-28 03:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[福特与通用汽车之争或影响美国电动汽车业未来](https://cn.wsj.com/amp/articles/%E7%A6%8F%E7%89%B9%E4%B8%8E%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E4%B9%8B%E4%BA%89%E6%88%96%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%9A%E6%9C%AA%E6%9D%A5-a1343668)|
+|2023-09-28 02:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国恒大及恒大系港股停牌](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E8%82%A1%E7%A5%A8%E5%9C%A8%E9%A6%99%E6%B8%AF%E6%9A%82%E5%81%9C%E4%BA%A4%E6%98%93-c567cdd5)|
+|2023-09-28 02:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[马斯克如何影响了多国命运？](https://cn.wsj.com/amp/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%BA%86%E5%A4%9A%E5%9B%BD%E5%91%BD%E8%BF%90-3e3a7255)|
+|2023-09-28 02:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[国会开支谈判陷入僵局，美国政府濒临停摆](https://cn.wsj.com/amp/articles/%E5%9B%BD%E4%BC%9A%E5%BC%80%E6%94%AF%E8%B0%88%E5%88%A4%E9%99%B7%E5%85%A5%E5%83%B5%E5%B1%80-%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%BF%92%E4%B8%B4%E5%81%9C%E6%91%86-5aa588eb)|
+|2023-09-28 02:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[FTC对亚马逊的垄断指控不完全站得住脚](https://cn.wsj.com/amp/articles/ftc%E5%AF%B9%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%9A%84%E5%9E%84%E6%96%AD%E6%8C%87%E6%8E%A7%E4%B8%8D%E5%AE%8C%E5%85%A8%E7%AB%99%E5%BE%97%E4%BD%8F%E8%84%9A-64a0ad7d)|
+|2023-09-28 02:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[隔夜市场回顾：美油创13个月新高](https://cn.wsj.com/amp/articles/%E9%9A%94%E5%A4%9C%E5%B8%82%E5%9C%BA%E5%9B%9E%E9%A1%BE-%E7%BE%8E%E6%B2%B9%E5%88%9B13%E4%B8%AA%E6%9C%88%E6%96%B0%E9%AB%98-65009522)|
+|2023-09-28 02:06:08|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果将不得不面对指控iOS Apple Pay滥用支配地位的反垄断诉讼](https://m.cnbeta.com.tw/view/1386825.htm)|
+|2023-09-28 02:05:57|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Adobe推出网络版Photoshop 其中包括广受欢迎的桌面AI工具](https://m.cnbeta.com.tw/view/1386823.htm)|
+|2023-09-28 02:05:40|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[联邦法官裁定司法部可在网上公布Google反垄断案细节 结束为期一周的争议](https://m.cnbeta.com.tw/view/1386819.htm)|
+|2023-09-28 02:05:27|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[奔驰美国推出L3级自动驾驶：开车可玩游戏 出事故公司担全责](https://m.cnbeta.com.tw/view/1386827.htm)|
+|2023-09-28 01:36:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[eMMC再次续命：KIOXIA发布新一代3D NAND模块](https://m.cnbeta.com.tw/view/1386813.htm)|
+|2023-09-28 01:36:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[中国芯片黄埔军校的最后一批学生 为何被迫“毕业”？](https://m.cnbeta.com.tw/view/1386811.htm)|
+|2023-09-28 01:36:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Meta全新Quest 3定于10月10号面市](https://m.cnbeta.com.tw/view/1386809.htm)|
+|2023-09-28 01:36:05|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[用户反馈iPhone 15 Pro发热严重 原因众说纷纭](https://m.cnbeta.com.tw/view/1386807.htm)|
+|2023-09-28 01:35:52|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[索尼发布新一代无线领夹麦W3/W3S：相机、手机都能用 2399元起](https://m.cnbeta.com.tw/view/1386805.htm)|
+|2023-09-28 01:35:42|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[开上新款Model 3 我发现特斯拉也在迎合消费者](https://m.cnbeta.com.tw/view/1386803.htm)|
+|2023-09-28 01:35:27|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[电动汽车专利数量 比亚迪是特斯拉的15倍](https://m.cnbeta.com.tw/view/1386801.htm)|
+|2023-09-28 01:35:16|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美汽车工会再威胁：若周五谈判未获重大进展 将进一步扩大罢工](https://m.cnbeta.com.tw/view/1386799.htm)|
+|2023-09-28 01:06:59|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[微软技术主管：英伟达AI芯片供应正在改善](https://m.cnbeta.com.tw/view/1386793.htm)|
+|2023-09-28 01:06:45|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克他爸：不打算读儿子的完整传记 讨厌被写成反派](https://m.cnbeta.com.tw/view/1386791.htm)|
+|2023-09-28 01:06:30|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“卖家每赚2美元，就被亚马逊拿走1美元”？FTC和17州联手起诉](https://m.cnbeta.com.tw/view/1386789.htm)|
+|2023-09-28 01:06:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克拿下美国太空部队首份订单 价值高达5亿](https://m.cnbeta.com.tw/view/1386787.htm)|
+|2023-09-28 01:06:04|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[贾跃亭造车9年投资约219亿元仅交付3辆 公司股价一夜暴跌超44%](https://m.cnbeta.com.tw/view/1386785.htm)|
+|2023-09-28 01:05:52|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[市场过于乐观！美光科技Q4营收同比下降40% 盈利指引逊于预期](https://m.cnbeta.com.tw/view/1386783.htm)|
+|2023-09-28 01:05:37|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果汽车还在“襁褓”中？郭明錤：现已销声匿迹，别指望很快问世](https://m.cnbeta.com.tw/view/1386781.htm)|
+|2023-09-28 01:05:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[蔡崇信履新首月：菜鸟“单飞” 阿里打响分拆上市第一枪](https://m.cnbeta.com.tw/view/1386779.htm)|
+|2023-09-28 00:35:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[FTC终于起诉亚马逊：反垄断女沙皇已等待六年](https://m.cnbeta.com.tw/view/1386777.htm)|
+|2023-09-28 05:07:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[美士兵越境被扣留70天后离开朝鲜，经由中国返美](https://cn.nytimes.com/asia-pacific/20230928/north-korea-travis-king-expel/)|
+|2023-09-28 03:37:03|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[夹在中美芯片战之间，韩国半导体巨头进退两难](https://cn.nytimes.com/business/20230928/samsung-hynix-south-korea/)|
+|2023-09-28 06:03:30|[虎嗅](https://rss.huxiu.com/)|[28号了，只有我还在抢票吗？](https://www.huxiu.com/article/2112840.html?f=rss)|
+|2023-09-28 05:59:00|[虎嗅](https://rss.huxiu.com/)|[打破常规、冒险成瘾的马斯克](https://www.huxiu.com/article/2112800.html?f=rss)|
+|2023-09-28 05:49:06|[虎嗅](https://rss.huxiu.com/)|[房地产敌不过历史周期](https://www.huxiu.com/article/2112590.html?f=rss)|
+|2023-09-28 05:45:23|[虎嗅](https://rss.huxiu.com/)|[神秘的“等离子态”，为何对航空航天如此重要？](https://www.huxiu.com/article/2112603.html?f=rss)|
+|2023-09-28 05:43:13|[虎嗅](https://rss.huxiu.com/)|[联手苹果传奇设计师，OpenAI想造硬件？](https://www.huxiu.com/article/2112606.html?f=rss)|
+|2023-09-28 03:51:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[HTTPSnoop 恶意软件针对Cisco Talos进行渗透](https://www.4hou.com/posts/vxrm)|
+|2023-09-28 03:50:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[【技术原创】Zyxel固件解密](https://www.4hou.com/posts/rqYW)|
+|2023-09-28 09:16:12|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[裸奔工具沙盘 Sandboxie 5.66.3/Sandboxie Plus 1.11.3官方开源免费版](https://masuit.com/1476)|
+|2023-09-28 05:17:02|[爱范儿](https://www.ifanr.com/feed)|[扎克伯格发布首款 MR 头显！性能设计大升级，体验后我发现它和苹果 Vision Pro 完全不同](https://www.ifanr.com/1563612?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-09-28 00:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[甚至习近平最亲近的人都无法避免突然失宠](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230928-%E7%94%9A%E8%87%B3%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%9C%80%E4%BA%B2%E8%BF%91%E7%9A%84%E4%BA%BA%E9%83%BD%E6%97%A0%E6%B3%95%E9%81%BF%E5%85%8D%E7%AA%81%E7%84%B6%E5%A4%B1%E5%AE%A0)|
 |2023-09-28 03:36:04|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[夹在中美芯片战之间，韩国半导体巨头进退两难](https://cn.nytimes.com/business/20230928/samsung-hynix-south-korea/dual)|
 |2023-09-28 02:49:28|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 Element X：用 Matrix 2.0 协议打造去中心化 WhatsApp 杀手](https://linux.cn/article-16235-1.html?utm_source=rss&utm_medium=rss)|
