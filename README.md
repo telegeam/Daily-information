@@ -2,6 +2,45 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-28 06:33:27|[少数派](https://plink.anyfeeder.com/sspai)|[在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm)|
+|2023-09-28 03:42:35|[少数派](https://plink.anyfeeder.com/sspai)|[我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起](https://sspai.com/post/83198)|
+|2023-09-28 00:43:15|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等](https://sspai.com/post/83277)|
+|2023-09-28 06:37:02|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Signal认为人工智能从本质上说是一种"监控技术"](https://m.cnbeta.com.tw/view/1386869.htm)|
+|2023-09-28 06:36:51|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[鸿星尔克：我们没有能力给华为Mate60代工芯片 可以看看隔壁蜜雪冰城](https://m.cnbeta.com.tw/view/1386867.htm)|
+|2023-09-28 06:36:36|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[女子垂钓连续两天遇到扬子鳄](https://m.cnbeta.com.tw/view/1386865.htm)|
+|2023-09-28 06:36:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[机票燃油附加费10月5日起再上调：800公里以上130元 年内新高](https://m.cnbeta.com.tw/view/1386861.htm)|
+|2023-09-28 06:36:05|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[今年中国汽车出口有望超过400万辆 超越日本成全球第一大出口国](https://m.cnbeta.com.tw/view/1386859.htm)|
+|2023-09-28 06:35:50|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Bigme发布全球首款彩色墨水屏一体机 12代i5、双色温显示](https://m.cnbeta.com.tw/view/1386857.htm)|
+|2023-09-28 06:35:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[六缸还带电机 动力接近500匹 全新宝马5系插混版曝光](https://m.cnbeta.com.tw/view/1386855.htm)|
+|2023-09-28 06:35:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[印尼禁止在社交媒体平台上卖货 TikTok受挫](https://m.cnbeta.com.tw/view/1386845.htm)|
+|2023-09-28 06:06:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国社交巨头该如何管理？马斯克只需要一部iPhone](https://m.cnbeta.com.tw/view/1386843.htm)|
+|2023-09-28 06:06:12|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特朗普评UAW罢工：协议无关紧要 反正两年后这些车企都将被淘汰](https://m.cnbeta.com.tw/view/1386841.htm)|
+|2023-09-28 06:05:59|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克大刀阔斧的改革取得收获？X CEO：公司明年初有望实现盈利](https://m.cnbeta.com.tw/view/1386839.htm)|
+|2023-09-28 06:05:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[菜鸟IPO背后：押注全球物流能成盈利“催化剂”？](https://m.cnbeta.com.tw/view/1386837.htm)|
+|2023-09-28 06:05:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果iPhone 15销量或受挫？首批Pro用户抱怨机身过烫问题](https://m.cnbeta.com.tw/view/1386835.htm)|
+|2023-09-28 06:05:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Open AI解开“缚龙索”：ChatGPT能联网了](https://m.cnbeta.com.tw/view/1386833.htm)|
+|2023-09-28 05:35:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[第四范式宣布港交所挂牌上市 开盘涨13.49%](https://m.cnbeta.com.tw/view/1386831.htm)|
+|2023-09-28 08:38:15|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[知名鲜花电商花加没能迎来“春天”，赛道有多卷？](https://www.tmtpost.com/6726360.html)|
+|2023-09-28 08:34:43|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[途虎上市静悄悄，京东“震”虎轻飘飘？](https://www.tmtpost.com/6726247.html)|
+|2023-09-28 08:32:28|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[邓邱伟：HomeGPT加持下的智家大脑2.0变得更聪明](https://www.tmtpost.com/6727135.html)|
+|2023-09-28 08:28:13|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[港股回购潮再现，快手、腾讯被低估了？](https://www.tmtpost.com/6726081.html)|
+|2023-09-28 08:18:38|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[优傲中国区总裁徐奕临：中国制造业创新技术应用和复制速度，远超欧美企业](https://www.tmtpost.com/6727009.html)|
+|2023-09-28 08:14:18|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[9月28日新股速递](https://www.tmtpost.com/6727230.html)|
+|2023-09-28 08:04:54|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[董秘辞职、营收降速，被李佳琦捧红的“面膜第一股”敷尔佳市值蒸发百亿](https://www.tmtpost.com/6726924.html)|
+|2023-09-28 07:41:34|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[煤价上演超预期“逆袭”，市场高度关注四季度走势](https://www.tmtpost.com/6727074.html)|
+|2023-09-28 08:31:42|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[喜报 海云安斩获鲲鹏应用创新大赛2023广东赛区双料大奖！](https://www.4hou.com/posts/2qQK)|
+|2023-09-28 08:35:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[为什么创作者在今天依然选择微博？](https://www.huxiu.com/article/2109208.html?f=rss)|
+|2023-09-28 08:20:05|[虎嗅](https://plink.anyfeeder.com/huxiu)|[欧盟的反补贴调查，正在被滥用？](https://www.huxiu.com/article/2109266.html?f=rss)|
+|2023-09-28 08:18:16|[虎嗅](https://plink.anyfeeder.com/huxiu)|[一年闭店百余家，初代顶流火锅在县城能站得住吗？](https://www.huxiu.com/article/2113325.html?f=rss)|
+|2023-09-28 08:00:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[不堆参数讲“人话”，OPPO势能营销做对了啥？](https://www.huxiu.com/article/2112822.html?f=rss)|
+|2023-09-28 07:34:11|[虎嗅](https://plink.anyfeeder.com/huxiu)|[印尼欲禁社交电商，TikTok受伤](https://www.huxiu.com/article/2112621.html?f=rss)|
+|2023-09-28 07:18:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[老年人为什么容易信网络谣言？](https://www.huxiu.com/article/2113104.html?f=rss)|
+|2023-09-28 07:14:19|[虎嗅](https://plink.anyfeeder.com/huxiu)|[真正“独立”的人，都有这 6 个特点](https://www.huxiu.com/article/2085642.html?f=rss)|
+|2023-09-28 07:12:12|[虎嗅](https://plink.anyfeeder.com/huxiu)|[股市灵修：6位密码里没有财富](https://www.huxiu.com/article/2112552.html?f=rss)|
+|2023-09-28 07:05:56|[虎嗅](https://plink.anyfeeder.com/huxiu)|[百年东芝退市，它也曾是日本的华为](https://www.huxiu.com/article/2113119.html?f=rss)|
+|2023-09-28 06:53:25|[虎嗅](https://plink.anyfeeder.com/huxiu)|[一台平板，也想成为电脑？](https://www.huxiu.com/article/1929236.html?f=rss)|
+|2023-09-28 06:39:19|[虎嗅](https://plink.anyfeeder.com/huxiu)|[航班备降，空乘超时飞行](https://www.huxiu.com/article/2112858.html?f=rss)|
+|2023-09-28 06:17:06|[虎嗅](https://plink.anyfeeder.com/huxiu)|[消费主义是如何让年轻人陷入无聊、焦虑、恐惧的？](https://www.huxiu.com/article/2102153.html?f=rss)|
 |2023-09-28 07:09:07|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[H&M 重新设计的美妆产品线来了，同时还任命了首位全球彩妆师](http://www.toodaylab.com/82261)|
 |2023-09-28 07:59:30|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ICP 许可证，你们有知道这个的吗，是不是只要带消息回复的 App 想上应用市场，就需要这个？](https://w2solo.com/topics/4168)|
 |2023-09-28 07:24:34|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[寻找 iOS 开发合作的小伙伴，有好项目合作，请靠谱的小伙伴进来看看。](https://w2solo.com/topics/4167)|
