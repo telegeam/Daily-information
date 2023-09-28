@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-28 00:41:12|[极客公园](https://plink.anyfeeder.com/geekpark)|[158 亿，比亚迪完成史上最大收购；传 OpenAI 与「iPhone 之父」合作 AI 硬件；Meta 发 499 美元新 VR 头显 ｜ 极客早知道](http://www.geekpark.net/news/325491)|
+|2023-09-28 01:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[甘洁：从实验室到工厂，从天使轮到成为独角兽丨暗涌2023产业未来大会](https://36kr.com/p/2450387647846276?f=rss)|
+|2023-09-28 01:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[36氪首发｜OpenCSG完成数千万元天使轮融资，打造大模型开源社区与垂直行业模型](https://36kr.com/p/2449599156950913?f=rss)|
+|2023-09-28 00:30:45|[36氪](https://plink.anyfeeder.com/36kr)|[OpenAI进军AI硬件？联手苹果传奇设计师，连孙正义都眼红想投钱](https://36kr.com/p/2449911223523462?f=rss)|
+|2023-09-28 00:30:00|[36氪](https://plink.anyfeeder.com/36kr)|[毫厘之间：时代呼唤怎样的半导体投资？｜暗涌2023产业未来大会](https://36kr.com/p/2449677740759168?f=rss)|
+|2023-09-28 01:46:17|[虎嗅](https://rss.huxiu.com/)|[没有妈妈的孩子](https://www.huxiu.com/article/2111804.html?f=rss)|
+|2023-09-28 01:31:36|[虎嗅](https://rss.huxiu.com/)|[“中国芯”的反击很争气，但背后又有多少坎坷？](https://www.huxiu.com/article/2107566.html?f=rss)|
+|2023-09-28 01:25:35|[虎嗅](https://rss.huxiu.com/)|[诺奖得主为何频频转向伪科学？](https://www.huxiu.com/article/2110255.html?f=rss)|
+|2023-09-28 01:22:56|[虎嗅](https://rss.huxiu.com/)|[认房不认贷后，还会有其他反应么](https://www.huxiu.com/article/2111815.html?f=rss)|
+|2023-09-28 01:22:00|[虎嗅](https://rss.huxiu.com/)|[公司被罚股价却大涨，格力地产重组事项有望重回正轨？](https://www.huxiu.com/article/2110877.html?f=rss)|
+|2023-09-28 00:52:42|[虎嗅](https://rss.huxiu.com/)|[你不知道的养殖三文鱼真相](https://www.huxiu.com/article/2111841.html?f=rss)|
+|2023-09-28 00:50:08|[爱范儿](https://plink.anyfeeder.com/ifanr)|[早报｜ChatGPT 又能「联网」了 / 华为上架 1999 元手机壳 / 节后再说？微信头像上新了](https://www.ifanr.com/1563598?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-09-28 00:02:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【在黄岩岛拆中国的浮动屏障？中国海警局：菲方捏造事实、自导自演】中方针对菲船冲闯潟湖临时布放拦阻网具，事后于9月23日主动收回拦阻设施。](https://dig.chouti.com/link/40126665)|
+|2023-09-28 00:53:15|[知乎每日精选](https://www.zhihu.com/rss)|[谢谢你的月亮](http://zhuanlan.zhihu.com/p/658742880?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-09-28 00:20:39|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[泡泡玛特的生意：以前开盲盒，现在开乐园](https://www.tmtpost.com/6725612.html)|
 |2023-09-28 00:17:07|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[钛媒体科股早知道：6G重大创新成果发布，2028年前后或将全面商用](https://www.tmtpost.com/6726173.html)|
 |2023-09-28 00:34:00|[虎嗅](https://rss.huxiu.com/)|[聊聊日本的旅游出行](https://www.huxiu.com/article/2111344.html?f=rss)|
