@@ -1,7 +1,21 @@
-﻿# 每日资讯（2023-09-27）
+﻿# 每日资讯（2023-09-28）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-28 00:20:39|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[泡泡玛特的生意：以前开盲盒，现在开乐园](https://www.tmtpost.com/6725612.html)|
+|2023-09-28 00:17:07|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[钛媒体科股早知道：6G重大创新成果发布，2028年前后或将全面商用](https://www.tmtpost.com/6726173.html)|
+|2023-09-28 00:34:00|[虎嗅](https://rss.huxiu.com/)|[聊聊日本的旅游出行](https://www.huxiu.com/article/2111344.html?f=rss)|
+|2023-09-28 00:32:43|[虎嗅](https://rss.huxiu.com/)|[搭建拱桥：真实性哲学的构想](https://www.huxiu.com/article/2110864.html?f=rss)|
+|2023-09-28 00:30:00|[虎嗅](https://rss.huxiu.com/)|[环保企业的“规模陷阱”：崩盘与跃变](https://www.huxiu.com/article/2111338.html?f=rss)|
+|2023-09-28 00:17:33|[虎嗅](https://rss.huxiu.com/)|[裁员转型，Clubhouse能破局语音社交难题吗](https://www.huxiu.com/article/2109175.html?f=rss)|
+|2023-09-28 00:15:58|[虎嗅](https://rss.huxiu.com/)|[扎克伯格炸场，Meta首款MR头显暴打苹果Vision Pro？](https://www.huxiu.com/article/2111802.html?f=rss)|
+|2023-09-28 00:51:28|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问各位大佬，这个网站是什么源码](https://www.v2ex.com/t/977778#reply0)|
+|2023-09-28 00:38:57|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 今天应该有部分人已经请假，踏上回家的旅途，各位说说走到哪里了，路上有没有堵车啊。](https://www.v2ex.com/t/977777#reply3)|
+|2023-09-28 00:34:28|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 袋鼠 流量蹭蹭的往上涨，得升级服务器了，求推荐大流量服务器](https://www.v2ex.com/t/977776#reply2)|
+|2023-09-28 00:34:28|[V2EX](http://www.v2ex.com/index.xml)|[ Windows 微软彻底封锁了 HWID 永久激活 Win10/11](https://www.v2ex.com/t/977775#reply5)|
+|2023-09-28 00:28:13|[V2EX](http://www.v2ex.com/index.xml)|[ 深圳 小红书上面坐直升机 799 一个人有人试过吗？](https://www.v2ex.com/t/977774#reply12)|
+|2023-09-28 00:14:39|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 macOS 14 原生支持 2k 显示器的 hidpi 了](https://www.v2ex.com/t/977773#reply3)|
+|2023-09-28 00:35:18|[机核](https://plink.anyfeeder.com/gcores)|[现任 SIE CEO 吉姆·瑞恩宣布将在2024年3月退休](https://www.gcores.com/articles/171553)|
 |2023-09-27 06:57:11|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[AI安全创新x热门安全产品 WitAwards2023中国网安行业年度评选「报名进行中」](https://www.freebuf.com/fevents/379455.html)|
 |2023-09-27 06:18:21|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[RansomedVC 勒索组织声称成功入侵了索尼](https://www.freebuf.com/news/379448.html)|
 |2023-09-27 08:37:04|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[“拆除异性恋规范之墙”：公开出柜的韩国K-pop组合](https://cn.nytimes.com/asia-pacific/20230927/kpop-lgbtq-qix-korea/)|
@@ -27,6 +41,7 @@
 |2023-09-27 09:00:00|[机核](https://www.gcores.com/rss)|[听动画从业者安利高达，录音笔 Vol.43](https://www.gcores.com/radios/171518)|
 |2023-09-27 07:30:00|[机核](https://www.gcores.com/rss)|[译介丨"DAILY VA-11 HALL-A 2022 #15"](https://www.gcores.com/articles/171494)|
 |2023-09-27 06:43:20|[机核](https://www.gcores.com/rss)|[关于游戏、体验、动机的一些笔记和总结](https://www.gcores.com/articles/171477)|
+|2023-09-28 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[文学少女](https://leimao.github.io/essay/%E7%94%B7%E5%AD%90%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9A%84%E6%97%A5%E5%B8%B8-%E6%96%87%E5%AD%A6%E5%B0%91%E5%A5%B3/)|
 |2023-09-27 09:41:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[最近，投资人纷纷患上了IPO焦虑](https://www.huxiu.com/article/2098813.html?f=rss)|
 |2023-09-27 09:28:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[欧盟搞“反补贴”调查，中国电动汽车该怎么应对？](https://www.huxiu.com/article/2109163.html?f=rss)|
 |2023-09-27 09:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“核酸大王”张核子进军预制菜，就问你怕不怕？](https://www.huxiu.com/article/2108805.html?f=rss)|
