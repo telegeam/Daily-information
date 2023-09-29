@@ -1,4 +1,4 @@
-﻿# 每日资讯（2023-09-28）
+﻿# 每日资讯（2023-09-29）
 
 |时间|来源|标题|
 |---|---|---|
@@ -403,6 +403,7 @@
 |2023-09-28 00:52:42|[虎嗅](https://rss.huxiu.com/)|[你不知道的养殖三文鱼真相](https://www.huxiu.com/article/2111841.html?f=rss)|
 |2023-09-28 00:50:08|[爱范儿](https://plink.anyfeeder.com/ifanr)|[早报｜ChatGPT 又能「联网」了 / 华为上架 1999 元手机壳 / 节后再说？微信头像上新了](https://www.ifanr.com/1563598?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-09-28 00:02:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【在黄岩岛拆中国的浮动屏障？中国海警局：菲方捏造事实、自导自演】中方针对菲船冲闯潟湖临时布放拦阻网具，事后于9月23日主动收回拦阻设施。](https://dig.chouti.com/link/40126665)|
+|2023-09-29 00:00:00|[让小产品的独立变现更简单 - ezind...](https://www.ezindie.com/feed/rss.xml)|[独立开发变现周刊（第106期） : 个人独立开发之旅，2年内从0到月收入4.5万美元](https://www.ezindie.com/weekly/issue-106)|
 |2023-09-28 00:53:15|[知乎每日精选](https://www.zhihu.com/rss)|[谢谢你的月亮](http://zhuanlan.zhihu.com/p/658742880?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-09-28 00:20:39|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[泡泡玛特的生意：以前开盲盒，现在开乐园](https://www.tmtpost.com/6725612.html)|
 |2023-09-28 00:17:07|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[钛媒体科股早知道：6G重大创新成果发布，2028年前后或将全面商用](https://www.tmtpost.com/6726173.html)|
