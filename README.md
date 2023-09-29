@@ -2,6 +2,57 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-29 09:31:06|[触乐](http://www.chuapp.com/feed)|[当“换皮抄袭”获得法律认定](http://www.chuapp.com/article/289547.html)|
+|2023-09-29 07:08:35|[fivestone](http://blog.fivest.one/feed)|[写作工具](https://blog.fivest.one/archives/6520)|
+|2023-09-29 08:06:57|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[研究发现攻击者可以在必应AI智能聊天工具上投放恶意广告](https://m.cnbeta.com.tw/view/1387105.htm)|
+|2023-09-29 08:06:43|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[华硕官宣ProArt PA169CDV数位屏：15.6英寸4K分辨率 两年前就有展出](https://m.cnbeta.com.tw/view/1387101.htm)|
+|2023-09-29 08:06:29|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[宝马宣布“新水鸟”R1300GS](https://m.cnbeta.com.tw/view/1387097.htm)|
+|2023-09-29 08:06:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[SpaceX创纪录17手猎鹰9号火箭两连发 星链卫星已发射5178颗](https://m.cnbeta.com.tw/view/1387095.htm)|
+|2023-09-29 08:06:02|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[三星Galaxy S24最新泄露图片展示扁平机身与棱角边框](https://m.cnbeta.com.tw/view/1387089.htm)|
+|2023-09-29 08:05:45|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iPhone 15系列初期所需显示屏主要由三星供应 京东方有望年底开始供货](https://m.cnbeta.com.tw/view/1387087.htm)|
+|2023-09-29 07:36:04|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[谷歌“AI 6小时设计芯片”遭打脸？大神Jeff Dean论文被官方调查](https://m.cnbeta.com.tw/view/1387083.htm)|
+|2023-09-29 07:35:51|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[ChatGPT多模态解禁：拍图即生代码，古卷手稿一眼识别，图表总结超6](https://m.cnbeta.com.tw/view/1387081.htm)|
+|2023-09-29 07:35:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[微软CEO将为美国司法部当证人 与谷歌展开罕见的法庭之争](https://m.cnbeta.com.tw/view/1387077.htm)|
+|2023-09-29 03:35:44|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[UAW下调加薪要求幅度至30% 若谈判无进展将扩大罢工](https://m.cnbeta.com.tw/view/1387075.htm)|
+|2023-09-29 03:07:16|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[SpaceX专注于国防的“星盾”卫星互联网业务获得首份合同](https://m.cnbeta.com.tw/view/1387069.htm)|
+|2023-09-29 03:07:02|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美光将于2024年初向英伟达交付HBM3E内存](https://m.cnbeta.com.tw/view/1387065.htm)|
+|2023-09-29 03:06:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[宝马MINI推出限量款电动自行车：自带中控屏 售2.7万](https://m.cnbeta.com.tw/view/1387061.htm)|
+|2023-09-29 03:06:36|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[紫光集团原董事长赵伟国当庭认罪 涉案的李禄媛是谁？](https://m.cnbeta.com.tw/view/1387059.htm)|
+|2023-09-29 03:06:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Blackwell GPU架构将于2025年推出 512位GDDR7显存王者归来](https://m.cnbeta.com.tw/view/1387055.htm)|
+|2023-09-29 03:06:06|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[迟到总比没有强 AMD FSR 3游戏明日登场](https://m.cnbeta.com.tw/view/1387053.htm)|
+|2023-09-29 03:05:55|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[空客开建天津第二条总装线：A320系列专用 2025年投运](https://m.cnbeta.com.tw/view/1387051.htm)|
+|2023-09-29 03:05:39|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[ChatGPT语音模型实测：语气、断句超真实 完全听不出来不是人](https://m.cnbeta.com.tw/view/1387049.htm)|
+|2023-09-29 02:37:14|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“味精大王”莲花健康收问询函 近7亿买英伟达H800 GPU算力服务器](https://m.cnbeta.com.tw/view/1387047.htm)|
+|2023-09-29 02:36:59|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[微信上线中秋“赏月”限时状态：简单2步教你搞定](https://m.cnbeta.com.tw/view/1387045.htm)|
+|2023-09-29 02:36:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[FTC将举行新微软动视内部听证会 收购将如期进行](https://m.cnbeta.com.tw/view/1387039.htm)|
+|2023-09-29 02:36:38|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[NAND现货价格增长 DRAM需求小幅回升](https://m.cnbeta.com.tw/view/1387033.htm)|
+|2023-09-29 02:36:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[博主：很可能A17 Pro就是苹果的骁龙888 真“火龙果”](https://m.cnbeta.com.tw/view/1387031.htm)|
+|2023-09-29 02:36:11|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“历史性画面”：拜登站上汽车工人罢工纠察线](https://m.cnbeta.com.tw/view/1387027.htm)|
+|2023-09-29 02:35:59|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Model 3是“试验性汽车”？美国首例特斯拉自动驾驶致命案开审](https://m.cnbeta.com.tw/view/1387025.htm)|
+|2023-09-29 10:08:25|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 刚刚升级 iOS 17.0.2 后无法上网，分享出来避坑](https://www.v2ex.com/t/978173#reply1)|
+|2023-09-29 09:59:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 选择重传协议疑问](https://www.v2ex.com/t/978172#reply0)|
+|2023-09-29 09:50:45|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone iPhone 15 Pro 录影测试 ProRes Log](https://www.v2ex.com/t/978170#reply1)|
+|2023-09-29 09:38:39|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 目前 WIN 系统的电脑管理安卓手机，用什么软件好？](https://www.v2ex.com/t/978169#reply1)|
+|2023-09-29 09:28:13|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 远程工作，招聘 iOS 资深开发工程师](https://www.v2ex.com/t/978168#reply0)|
+|2023-09-29 09:18:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 铁路 12306 的乘车码能否用于进站口](https://www.v2ex.com/t/978167#reply4)|
+|2023-09-29 09:06:14|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 已经被利用，但没修复的，不算 bug 的 bug](https://www.v2ex.com/t/978166#reply1)|
+|2023-09-29 09:05:21|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有能了解相机价格 包括二手 的网站或者公众号 每日都会发布最新价格那种 ](https://www.v2ex.com/t/978165#reply1)|
+|2023-09-29 08:54:37|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 FilmBudd 一个电影观影记录效率 App](https://www.v2ex.com/t/978164#reply3)|
+|2023-09-29 08:17:39|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 如果把评论提交的‘<’，‘"’，‘>’，‘&’都转码为&lt;&gt;%22&;&amp;之类的，是不是就可以防止 xxs。](https://www.v2ex.com/t/978163#reply3)|
+|2023-09-29 08:14:48|[V2EX](https://www.v2ex.com/index.xml)|[ iOS IOS 17 闹钟默认铃声无法修改](https://www.v2ex.com/t/978162#reply1)|
+|2023-09-29 08:03:02|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 移动超级 SIM 卡了解一下，这简直是国际版手机的救星](https://www.v2ex.com/t/978161#reply6)|
+|2023-09-29 08:01:37|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud QX 的 icloud 同步为什么没法用？](https://www.v2ex.com/t/978160#reply1)|
+|2023-09-29 10:00:00|[机核](https://www.gcores.com/rss)|[核聚变游戏节 2023 北京站 AMD 舞台活动+100小时直播回顾](https://www.gcores.com/videos/171613)|
+|2023-09-29 09:15:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[赵少康证实十月推动蓝白整合 - 台北一周](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%8F%B0%E5%8C%97%E4%B8%80%E5%91%A8/20230929-%E8%B5%B5%E5%B0%91%E5%BA%B7%E8%AF%81%E5%AE%9E%E5%8D%81%E6%9C%88%E6%8E%A8%E5%8A%A8%E8%93%9D%E7%99%BD%E6%95%B4%E5%90%88)|
+|2023-09-29 09:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[中美高级外交官继续会晤以保持对话](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230929-%E4%B8%AD%E7%BE%8E%E9%AB%98%E7%BA%A7%E5%A4%96%E4%BA%A4%E5%AE%98%E7%BB%A7%E7%BB%AD%E4%BC%9A%E6%99%A4%E4%BB%A5%E4%BF%9D%E6%8C%81%E5%AF%B9%E8%AF%9D)|
+|2023-09-29 08:45:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[中秋国庆“黄金周” 海外出游预订量猛增20%](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230929-%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86-%E9%BB%84%E9%87%91%E5%91%A8-%E6%B5%B7%E5%A4%96%E5%87%BA%E6%B8%B8%E9%A2%84%E8%AE%A2%E9%87%8F%E7%8C%9B%E5%A2%9E20)|
+|2023-09-29 07:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[人民币国际支付8月占比创新高达 3.47% 香港稳占离岸人民币首位](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230929-%E4%BA%BA%E6%B0%91%E5%B8%81%E5%9B%BD%E9%99%85%E6%94%AF%E4%BB%988%E6%9C%88%E5%8D%A0%E6%AF%94%E5%88%9B%E6%96%B0%E9%AB%98%E8%BE%BE-3-47-%E9%A6%99%E6%B8%AF%E7%A8%B3%E5%8D%A0%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E9%A6%96%E4%BD%8D)|
+|2023-09-29 07:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[法港两工程人员因致死工业意外被控误杀](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230929-%E6%B3%95%E6%B8%AF%E4%B8%A4%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%91%98%E5%9B%A0%E8%87%B4%E6%AD%BB%E5%B7%A5%E4%B8%9A%E6%84%8F%E5%A4%96%E8%A2%AB%E6%8E%A7%E8%AF%AF%E6%9D%80)|
+|2023-09-29 09:51:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[探索蘋果的未來：觸控技術正融入服裝和家具](https://www.iphonetaiwan.org/2023/09/apple-touch-technology.html)|
+|2023-09-29 09:41:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[伊隆·馬斯克如何管理公司：只用一部 iPhone](https://www.iphonetaiwan.org/2023/09/musk-iphone-social-media.html)|
+|2023-09-29 09:22:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Watch 名片投射功能介紹 - 提升聯絡資訊共享效率](https://www.iphonetaiwan.org/2023/09/apple-watch-name-drop.html)|
+|2023-09-29 08:41:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Pay 被控壟斷！法官的觀點如何影響支付市場未來](https://www.iphonetaiwan.org/2023/09/apple-pay-lawsuit.html)|
+|2023-09-29 08:00:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[揭密蘋果汽車的未來：併購策略將是關鍵嗎？](https://www.iphonetaiwan.org/2023/09/apple-car-future-strategy.html)|
 |2023-09-29 05:02:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【许家印“前妻”丁玉梅7月下旬就已飞离香港，现身在何处暂不知晓】腾讯新闻《潜望》报道称，曾于7月下旬从知情人士处获悉，许家印的“前妻”丁玉梅在得知内地有企业家因许家印被边控后，随即买了机票离开香港。在此之前，她一直在香港协助有关机构进行恒大集团的债务重组事宜。关于她现在身处何处，暂不知晓。](https://dig.chouti.com/link/40140791)|
 |2023-09-29 08:13:37|[白板报](http://www.wangpei.net/feed/)|[众友评说王佩](https://baibanbao.net/11926/%e4%bc%97%e5%8f%8b%e8%af%84%e8%af%b4%e7%8e%8b%e4%bd%a9/)|
 |2023-09-29 08:21:42|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[14场中秋晚会斗艳，团圆主题下的多种切口](https://www.tmtpost.com/6728466.html)|
