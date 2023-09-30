@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-30 00:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[国庆招待会“新变化” 李尚福魏凤和缺席 张又侠迟浩田出席](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230929-%E5%9B%BD%E5%BA%86%E6%8B%9B%E5%BE%85%E4%BC%9A%E6%96%B0%E5%8F%98%E5%8C%96-%E6%9D%8E%E5%B0%9A%E7%A6%8F%E9%AD%8F%E5%87%A4%E5%92%8C%E7%BC%BA%E5%B8%AD-%E5%BC%A0%E5%8F%88%E4%BE%A0%E8%BF%9F%E6%B5%A9%E7%94%B0%E5%87%BA%E5%B8%AD)|
+|2023-09-30 00:09:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[许家印“配偶”丁玉梅护照曝光为加拿大籍，二儿子许腾鹤深度参与恒大事务并曾负责过恒大财富](https://dig.chouti.com/link/40147372)|
+|2023-09-30 01:09:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1990年版《封神榜》纣王扮演者达奇昨晚在澳洲墨尔本医院去世，享年90岁。达奇多年从事电影表演，曾在《海囚》、《吉鸿昌》等电影中有出色表演，更是在1990年版本《封神榜》里出演纣王一角为广大观众所熟知！](https://dig.chouti.com/link/40147762)|
+|2023-09-30 00:19:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[开发者必看！苹果App Store重大调整：App上架必须有ICP备案号](https://dig.chouti.com/link/40147481)|
+|2023-09-30 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：MOYNAT 和法国娇兰推出联名香氛定制硬箱、New Balance 推出 1906R 秋冬新配色](http://www.toodaylab.com/82262)|
 |2023-09-30 00:48:01|[V2EX](https://v2ex.com/index.xml)|[ Apple 离大陆苹果硬件禁止登录海外 appleid 预计还有多久？](https://www.v2ex.com/t/978234#reply1)|
 |2023-09-30 00:42:29|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求安卓上类似 fileball 的软件](https://www.v2ex.com/t/978233#reply1)|
 |2023-09-30 00:12:21|[V2EX](https://v2ex.com/index.xml)|[ 问与答 大家平时通勤时候听什么](https://www.v2ex.com/t/978232#reply5)|
