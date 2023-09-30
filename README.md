@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-30 02:15:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家有什么好的非国产非国行的 Android 手机推荐](https://www.v2ex.com/t/978244#reply38)|
+|2023-09-30 05:59:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Debian 和 Flatpak 软件源如何配合使用](https://www.v2ex.com/t/978280#reply5)|
+|2023-09-30 04:01:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[白花花的 1G 对等闲置着](https://www.v2ex.com/t/978262#reply25)|
+|2023-09-30 04:25:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求 V 友帮我给父母推荐一款安卓手机。](https://www.v2ex.com/t/978266#reply17)|
+|2023-09-30 05:51:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[群暉 218+升級內存安裝 git 倉庫問題求教](https://www.v2ex.com/t/978279#reply2)|
+|2023-09-30 03:18:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于安全漏洞的一些问题](https://www.v2ex.com/t/978257#reply13)|
+|2023-09-30 02:23:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求 NFC 模拟实体卡 APP](https://www.v2ex.com/t/978247#reply8)|
+|2023-09-30 04:58:10|[KAIX.IN](https://kaix.in/feed/)|[问题不在于硬座椅，而是咖啡馆里的硬座椅——候车室、银行大厅这些地方的硬座椅就没问题。显然很多很多人都这样认为。或者更进一步，那些设置了硬座椅的咖啡馆，会被认为是为了提高翻台率。这里我们先不讨论结果如何。在我看来，这许多许多人都太过确信咖啡馆应该是某种样子。但是咖啡馆当然可以是其他样子，比如高度、硬度不太适合瘫躺下来的桌](https://kaix.in/2023/0930/)|
+|2023-09-30 05:30:17|[极客公园](https://plink.anyfeeder.com/geekpark)|[想要取代手机的 XR 头显，苦苦搭建底层基础](http://www.geekpark.net/news/325602)|
+|2023-09-30 05:30:04|[极客公园](https://plink.anyfeeder.com/geekpark)|[Google 25 周年｜ 2.0——从「X」到「Alphabet」](http://www.geekpark.net/news/325604)|
+|2023-09-30 04:57:30|[Yunfeng's Simple Blo...](https://vra.github.io/atom.xml)|[Numpy set_printoptions函数用法](http://vra.github.io/2023/09/30/numpy-printoptions/)|
 |2023-09-30 04:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[修路的文明很多，为什么只有罗马闻名于世？](https://www.zhihu.com/question/623760294)|
 |2023-09-30 04:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[随着我们越长大，快乐的成本和阈值会变得越高吗？](https://www.zhihu.com/question/623695548)|
 |2023-09-30 04:03:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 2023 年 9 月 28 日发布的树莓派 5?](https://www.zhihu.com/question/624165420)|
