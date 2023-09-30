@@ -2,6 +2,66 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-30 04:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[修路的文明很多，为什么只有罗马闻名于世？](https://www.zhihu.com/question/623760294)|
+|2023-09-30 04:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[随着我们越长大，快乐的成本和阈值会变得越高吗？](https://www.zhihu.com/question/623695548)|
+|2023-09-30 04:03:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 2023 年 9 月 28 日发布的树莓派 5?](https://www.zhihu.com/question/624165420)|
+|2023-09-30 04:03:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有没有让你觉得很传奇的历史人物?](https://www.zhihu.com/question/624182841)|
+|2023-09-30 04:03:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么许多职业摄影师喜欢偏向于使用 iPhone 进行拍摄？](https://www.zhihu.com/question/555682701)|
+|2023-09-30 03:51:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[分析新BBTok 恶意银行软件变体的服务器端组件](https://www.4hou.com/posts/xzw9)|
+|2023-09-30 03:50:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[GPU.zip：侧信道漏洞影响主流GPU，至今未被修复](https://www.4hou.com/posts/5wXB)|
+|2023-09-30 03:06:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[日本考虑向美光科技提供1900亿日元补贴](https://m.cnbeta.com.tw/view/1387259.htm)|
+|2023-09-30 03:06:23|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[一加OnePlus Open真机首次出现在印度女演员阿努什卡·夏尔马手中](https://m.cnbeta.com.tw/view/1387251.htm)|
+|2023-09-30 03:06:09|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[三星Galaxy S24+渲染图曝光 尺寸有所增大](https://m.cnbeta.com.tw/view/1387247.htm)|
+|2023-09-30 03:05:53|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[三星Galaxy S24渲染图出炉：比iPhone 15更薄](https://m.cnbeta.com.tw/view/1387243.htm)|
+|2023-09-30 03:05:38|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果App Store政策重大调整：App上架必须有ICP备案号](https://m.cnbeta.com.tw/view/1387241.htm)|
+|2023-09-30 03:05:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Google 25 周年｜1.0 少年心气](https://m.cnbeta.com.tw/view/1387239.htm)|
+|2023-09-30 02:36:43|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Windows 12专注于云与AI 真正的目标是Google？](https://m.cnbeta.com.tw/view/1387237.htm)|
+|2023-09-30 02:36:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[ChatGPT热或在降温 但一个重要的新行业正在形成](https://m.cnbeta.com.tw/view/1387231.htm)|
+|2023-09-30 02:36:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Intel发大招 Windows笔记本续航超过Mac指日可待了？](https://m.cnbeta.com.tw/view/1387229.htm)|
+|2023-09-30 02:36:07|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[不理解蔚来的业务版图？其实它想做的是“人”的生意](https://m.cnbeta.com.tw/view/1387227.htm)|
+|2023-09-30 02:35:57|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[国庆机票价格突然跳水 有人退票重订省下5000多元](https://m.cnbeta.com.tw/view/1387225.htm)|
+|2023-09-30 02:35:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[法拉第未来10月预计交付4辆FF 91 新车将在中国上市](https://m.cnbeta.com.tw/view/1387221.htm)|
+|2023-09-30 02:35:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[车主自述花25元起诉特斯拉获胜 获赔3000元并更换芯片](https://m.cnbeta.com.tw/view/1387219.htm)|
+|2023-09-30 02:35:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[华为星闪，要革蓝牙的命？](https://m.cnbeta.com.tw/view/1387217.htm)|
+|2023-09-30 02:05:23|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[500万人围观的马斯克直播出现技术故障 X员工惨了](https://m.cnbeta.com.tw/view/1387215.htm)|
+|2023-09-30 03:38:20|[虎嗅](https://plink.anyfeeder.com/huxiu)|[为什么撑杆跳的杆子能弯而不折？](https://www.huxiu.com/article/2117978.html?f=rss)|
+|2023-09-30 03:28:27|[虎嗅](https://plink.anyfeeder.com/huxiu)|[曲麻莱：青海最美的地方，也是最穷的地方](https://www.huxiu.com/article/2117501.html?f=rss)|
+|2023-09-30 03:21:33|[虎嗅](https://plink.anyfeeder.com/huxiu)|[今年国庆假期，是从涨价开始的](https://www.huxiu.com/article/2119503.html?f=rss)|
+|2023-09-30 03:18:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[徐娇发完这条评价Lisa疯马秀的微博后，她之前穿比基尼的照片被拿出来说了](https://dig.chouti.com/link/40148873)|
+|2023-09-30 03:18:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[新闻工作者莫亚·罗西安-麦克莱恩上电视与男子辩论 “性别工资差”，结果男方说漏嘴，不慎透露他在这场辩论中获取了 200 英镑报酬的事实，然而女方却一分报酬都没有。](https://dig.chouti.com/link/40148875)|
+|2023-09-30 05:05:30|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 NeuralRad Brain 放疗平台的一些更新 2023](https://www.v2ex.com/t/978271#reply0)|
+|2023-09-30 04:47:25|[V2EX](https://v2ex.com/index.xml)|[ 问与答 Ai 站什么程序好用](https://www.v2ex.com/t/978269#reply0)|
+|2023-09-30 04:33:28|[V2EX](https://v2ex.com/index.xml)|[ Apple 磁吸才是苹果充电的正确打开方式啊](https://www.v2ex.com/t/978268#reply6)|
+|2023-09-30 04:28:54|[V2EX](https://v2ex.com/index.xml)|[ Google Play Google play 商店里怎么删除我的设备，找不到选项啊](https://www.v2ex.com/t/978267#reply4)|
+|2023-09-30 04:25:04|[V2EX](https://v2ex.com/index.xml)|[ Android 求 V 友帮我给父母推荐一款安卓手机。](https://www.v2ex.com/t/978266#reply10)|
+|2023-09-30 04:20:01|[V2EX](https://v2ex.com/index.xml)|[ 奇思妙想 想去参加罗太君的电商培训课了。做啥产品好？](https://www.v2ex.com/t/978265#reply7)|
+|2023-09-30 04:16:42|[V2EX](https://v2ex.com/index.xml)|[ Apple Apple One Premier 美区超大杯长期车（目前缺 1 位）季付 123 元](https://www.v2ex.com/t/978264#reply0)|
+|2023-09-30 04:03:02|[V2EX](https://v2ex.com/index.xml)|[ Python 验证码的种类与目前可用的打码平台](https://www.v2ex.com/t/978263#reply0)|
+|2023-09-30 04:01:33|[V2EX](https://v2ex.com/index.xml)|[ 程序员 白花花的 1G 对等闲置着](https://www.v2ex.com/t/978262#reply19)|
+|2023-09-30 03:56:24|[V2EX](https://v2ex.com/index.xml)|[ CSS 行内元素的 padding 表现问题](https://www.v2ex.com/t/978261#reply1)|
+|2023-09-30 03:50:12|[V2EX](https://v2ex.com/index.xml)|[ 问与答 请问有人会写行为树吗? 需要找人帮忙辅导一下，有偿！拜托啦](https://www.v2ex.com/t/978260#reply1)|
+|2023-09-30 03:44:51|[V2EX](https://v2ex.com/index.xml)|[ 问与答 Google voice 被回收， tg 都玩不了了](https://www.v2ex.com/t/978259#reply3)|
+|2023-09-30 03:42:37|[V2EX](https://v2ex.com/index.xml)|[ Android Android 14 什么时候发布呢？](https://www.v2ex.com/t/978258#reply9)|
+|2023-09-30 03:18:52|[V2EX](https://v2ex.com/index.xml)|[ 信息安全 关于安全漏洞的一些问题](https://www.v2ex.com/t/978257#reply11)|
+|2023-09-30 03:15:00|[V2EX](https://v2ex.com/index.xml)|[ YouTube YouTube 美区家庭组招收车友](https://www.v2ex.com/t/978256#reply0)|
+|2023-09-30 03:08:48|[V2EX](https://v2ex.com/index.xml)|[ 问与答 国内有哪些信用卡论坛可以推荐？](https://www.v2ex.com/t/978255#reply5)|
+|2023-09-30 02:42:07|[V2EX](https://v2ex.com/index.xml)|[ YouTube 美区 YouTube Premium 家庭组招车友](https://www.v2ex.com/t/978254#reply0)|
+|2023-09-30 02:37:46|[V2EX](https://v2ex.com/index.xml)|[ 生活 永远不要找只对你好的人,而是要找本来就很好的人](https://www.v2ex.com/t/978253#reply9)|
+|2023-09-30 02:35:34|[V2EX](https://v2ex.com/index.xml)|[ macOS 多屏缩放 macOS 14 Sonoma 阉割了一个很酷的 feature](https://www.v2ex.com/t/978252#reply2)|
+|2023-09-30 02:35:31|[V2EX](https://v2ex.com/index.xml)|[ 问与答 这个反人类验证是存心不给过么？到底怎么可以通过](https://www.v2ex.com/t/978251#reply12)|
+|2023-09-30 02:33:37|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 做了个 V8 虚拟机注入器， V8 Killer](https://www.v2ex.com/t/978250#reply6)|
+|2023-09-30 02:30:23|[V2EX](https://v2ex.com/index.xml)|[ 硬件 mini PC 厂家只提供 Windows 下的驱动，如何解决 Linux 下的驱动问题？](https://www.v2ex.com/t/978249#reply1)|
+|2023-09-30 02:25:17|[V2EX](https://v2ex.com/index.xml)|[ iDev app store 的开发者可以看到购买者的那些信息？](https://www.v2ex.com/t/978248#reply8)|
+|2023-09-30 02:23:17|[V2EX](https://v2ex.com/index.xml)|[ Android 求 NFC 模拟实体卡 APP](https://www.v2ex.com/t/978247#reply7)|
+|2023-09-30 02:19:49|[V2EX](https://v2ex.com/index.xml)|[ 问与答 感觉被跟踪了!](https://www.v2ex.com/t/978246#reply3)|
+|2023-09-30 02:16:24|[V2EX](https://v2ex.com/index.xml)|[ Telegram 谁说国产安卓不能装 telegram 哒？](https://www.v2ex.com/t/978245#reply10)|
+|2023-09-30 02:15:03|[V2EX](https://v2ex.com/index.xml)|[ Android 大家有什么好的非国产非国行的 Android 手机推荐](https://www.v2ex.com/t/978244#reply35)|
+|2023-09-30 02:06:34|[V2EX](https://v2ex.com/index.xml)|[ Apple 各位有没有遇到 watchOS 10 天气小组件总是加载不出来的问题？](https://www.v2ex.com/t/978243#reply4)|
+|2023-09-30 01:52:44|[V2EX](https://v2ex.com/index.xml)|[ macOS macOS Sonoma 桌面图标会被桌面小组件遮挡](https://www.v2ex.com/t/978241#reply1)|
+|2023-09-30 01:20:17|[V2EX](https://v2ex.com/index.xml)|[ NVIDIA 如何升级使用官网 run 文件安装的 nvidia-driver](https://www.v2ex.com/t/978238#reply4)|
+|2023-09-30 01:00:49|[V2EX](https://v2ex.com/index.xml)|[ 路由器 家用服务器在使用网络一段时间后 IP 地址丢失，网络受限](https://www.v2ex.com/t/978236#reply3)|
+|2023-09-30 00:42:29|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求安卓上类似 fileball 的软件](https://www.v2ex.com/t/978233#reply3)|
+|2023-09-30 00:12:21|[V2EX](https://v2ex.com/index.xml)|[ 问与答 大家平时通勤时候听什么](https://www.v2ex.com/t/978232#reply17)|
 |2023-09-30 02:15:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家有什么好的非国产非国行的 Android 手机推荐](https://www.v2ex.com/t/978244#reply32)|
 |2023-09-30 04:01:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[白花花的 1G 对等闲置着](https://www.v2ex.com/t/978262#reply1)|
 |2023-09-30 03:09:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 Bazzite：专为 Steam Deck 和 PC 上的 Linux 游戏打造的发行版](https://linux.cn/article-16241-1.html?utm_source=rss&utm_medium=rss)|
