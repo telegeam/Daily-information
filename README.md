@@ -1,7 +1,13 @@
-﻿# 每日资讯（2023-09-29）
+﻿# 每日资讯（2023-09-30）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-30 00:48:01|[V2EX](https://v2ex.com/index.xml)|[ Apple 离大陆苹果硬件禁止登录海外 appleid 预计还有多久？](https://www.v2ex.com/t/978234#reply1)|
+|2023-09-30 00:42:29|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求安卓上类似 fileball 的软件](https://www.v2ex.com/t/978233#reply1)|
+|2023-09-30 00:12:21|[V2EX](https://v2ex.com/index.xml)|[ 问与答 大家平时通勤时候听什么](https://www.v2ex.com/t/978232#reply5)|
+|2023-09-30 00:02:45|[V2EX](https://v2ex.com/index.xml)|[ 问与答 liteide 换行符设置](https://www.v2ex.com/t/978231#reply1)|
+|2023-09-30 00:01:29|[V2EX](https://v2ex.com/index.xml)|[ 推广 中秋国庆假期， Pixl OLED 锂电池（180mAh）长续航版赠 50 元优惠券！前 100 位购买者送 iNFC Pro 兑换码！](https://www.v2ex.com/t/978230#reply8)|
+|2023-09-30 00:31:05|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[2023年上半年西方石油桶油成本和盈亏平衡点](http://xueqiu.com/6308001210/262327614)|
 |2023-09-29 09:31:06|[触乐](http://www.chuapp.com/feed)|[当“换皮抄袭”获得法律认定](http://www.chuapp.com/article/289547.html)|
 |2023-09-29 07:08:35|[fivestone](http://blog.fivest.one/feed)|[写作工具](https://blog.fivest.one/archives/6520)|
 |2023-09-29 08:06:57|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[研究发现攻击者可以在必应AI智能聊天工具上投放恶意广告](https://m.cnbeta.com.tw/view/1387105.htm)|
