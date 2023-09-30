@@ -2,6 +2,23 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-09-30 00:20:11|[7Wate‘s blog](https://blog.7wate.com/rss.xml)|[电脑坏了，我换了 Ubuntu](https://blog.7wate.com/?p=124)|
+|2023-09-30 10:00:00|[机核](https://www.gcores.com/rss)|[既健康又享受的好玩意，「看看你的」数码产品](https://www.gcores.com/videos/171638)|
+|2023-09-30 02:15:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家有什么好的非国产非国行的 Android 手机推荐](https://www.v2ex.com/t/978244#reply61)|
+|2023-09-30 10:03:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有人在 H11SSL-i 主板上成功使用 Arc A380 转码吗？](https://www.v2ex.com/t/978318#reply0)|
+|2023-09-30 09:59:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么官网上的 add.cu 程序不需要 cuda 相关头文件](https://www.v2ex.com/t/978317#reply0)|
+|2023-09-30 05:59:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Debian 和 Flatpak 软件源如何配合使用](https://www.v2ex.com/t/978280#reply13)|
+|2023-09-30 07:51:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安全仔秋招大失败，该转什么方向呢](https://www.v2ex.com/t/978298#reply10)|
+|2023-09-30 09:14:49|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[建行Ｈ的内资变化](http://xueqiu.com/4852078852/262354132)|
+|2023-09-30 09:40:28|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[收入缩水，P8年薪50万，AI大军涌入传统车企](https://www.tmtpost.com/6729178.html)|
+|2023-09-30 09:35:10|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[通胀和开发成本高企，日本游戏厂商面临涨价压力](https://www.tmtpost.com/6729111.html)|
+|2023-09-30 09:30:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Google 25 周年： 2.0——从「X」到 「Alphabet」](https://www.tmtpost.com/6729012.html)|
+|2023-09-30 08:40:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[两个月3次联名跨界，茅台为啥这么着急跨界营销？](https://www.tmtpost.com/6729030.html)|
+|2023-09-30 07:21:20|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[FTX危机渐消，Solana前路如何？](https://www.tmtpost.com/6718541.html)|
+|2023-09-30 06:53:11|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[玩梗上瘾的时代，短视频给演唱会带来了什么？](https://www.tmtpost.com/6728965.html)|
+|2023-09-30 06:47:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[我在十一靠婚礼搞钱，8天赚3万](https://www.tmtpost.com/6728959.html)|
+|2023-09-30 03:45:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[在诉讼与骂名中崛起的英伟达GPU：从未停止过战斗，也没有永远的朋友](https://www.tmtpost.com/6728537.html)|
+|2023-09-30 10:05:52|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 如果有一天 iPhone 不能再登陆外区 App Store， Apple 设备用户该何去何从？](https://www.v2ex.com/t/978319#reply1)|
 |2023-09-30 08:44:00|[Surmon.me](https://surmon.me/rss.xml)|[无论你有多么不堪](https://surmon.me/article/251)|
 |2023-09-30 08:59:32|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Cloudflare 宣布开始推行 Encrypted Client Hello 标准](https://www.v2ex.com/t/978306#reply1)|
 |2023-09-30 08:48:16|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 请教下 V 友们，关于大麦网抢票脚本开发自用 的技术栈](https://www.v2ex.com/t/978305#reply0)|
