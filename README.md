@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-01 03:06:46|[V2EX](https://v2ex.com/index.xml)|[ YouTube 有没有一个浏览器插件能根据语言类型自动设置 YouTube 视频播放速度](https://www.v2ex.com/t/978413#reply0)|
+|2023-10-01 02:58:51|[V2EX](https://v2ex.com/index.xml)|[ 问与答 需要自动区分身份证、驾照、行驶证，有 API 或者库能做吗？](https://www.v2ex.com/t/978411#reply0)|
+|2023-10-01 02:53:53|[V2EX](https://v2ex.com/index.xml)|[ 广州 用了 5G CPE 一个月，感觉还可以](https://www.v2ex.com/t/978410#reply1)|
+|2023-10-01 02:29:32|[V2EX](https://v2ex.com/index.xml)|[ 路由器 移动光猫改桥接，换了路由器：新路由无法拨号成功，旧路由可以拨号成功，求问什么原因？](https://www.v2ex.com/t/978408#reply1)|
+|2023-10-01 02:22:25|[V2EX](https://v2ex.com/index.xml)|[ Apple 各位官方订单有没有提前发货的迹象啊](https://www.v2ex.com/t/978407#reply3)|
+|2023-10-01 02:16:03|[V2EX](https://v2ex.com/index.xml)|[ Apple 从 iPhone13 升级到 iPhone15 Pro 的体验](https://www.v2ex.com/t/978406#reply5)|
+|2023-10-01 03:03:59|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[Tesla 2023Q3季度产销预测](http://xueqiu.com/7658488161/262361407)|
+|2023-10-01 02:42:24|[煎蛋](http://jandan.net/feed)|[摸鱼日报 第25期 ](http://jandan.net/p/114371)|
+|2023-10-01 03:00:00|[机核](https://www.gcores.com/rss)|[【太荐了这个！】来自七裹着八月的机组游戏推荐](https://www.gcores.com/articles/171582)|
 |2023-10-01 01:00:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[00后小伙开38家工厂，每月狂卖800万件“神器”](https://www.tmtpost.com/6729266.html)|
 |2023-10-01 01:51:55|[36氪](https://plink.anyfeeder.com/36kr)|[登Nature两年，谷歌「AI 6小时设计芯片」遭打脸？大神Jeff Dean论文被官方调查](https://36kr.com/p/2455192957147268?f=rss)|
 |2023-10-01 01:41:45|[36氪](https://plink.anyfeeder.com/36kr)|[诺奖前夜，Nature发文ChatGPT终极预测！mRNA疫苗能否锁定大奖](https://36kr.com/p/2455178732427139?f=rss)|
