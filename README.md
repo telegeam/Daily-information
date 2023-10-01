@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-01 04:11:59|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[貨櫃風格的星巴克高雄小港中安門市新開幕，搭 69A 小港幹線公車來逛逛](https://taiwan.chtsai.org/2023/10/01/starbucks_xiaogang_zhongan/)|
+|2023-10-01 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：剧集《V 世代》开播、高通推出下一代 XR 和 AR 平台](http://www.toodaylab.com/82263)|
 |2023-10-01 04:11:44|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 背什么包看起来不像程序员？](https://www.v2ex.com/t/978422#reply1)|
 |2023-10-01 04:02:28|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 内容创客工具箱导航，欢迎大家提交链接](https://www.v2ex.com/t/978420#reply0)|
 |2023-10-01 03:51:59|[V2EX](https://www.v2ex.com/index.xml)|[ Kubernetes 推荐一下比较新的 k8s 的 helm chart](https://www.v2ex.com/t/978419#reply0)|
