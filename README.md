@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-01 01:00:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[00后小伙开38家工厂，每月狂卖800万件“神器”](https://www.tmtpost.com/6729266.html)|
+|2023-10-01 01:51:55|[36氪](https://plink.anyfeeder.com/36kr)|[登Nature两年，谷歌「AI 6小时设计芯片」遭打脸？大神Jeff Dean论文被官方调查](https://36kr.com/p/2455192957147268?f=rss)|
+|2023-10-01 01:41:45|[36氪](https://plink.anyfeeder.com/36kr)|[诺奖前夜，Nature发文ChatGPT终极预测！mRNA疫苗能否锁定大奖](https://36kr.com/p/2455178732427139?f=rss)|
+|2023-10-01 02:22:25|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 各位官方订单有没有提前发货的迹象啊](https://www.v2ex.com/t/978407#reply0)|
+|2023-10-01 02:16:03|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 从 iPhone13 升级到 iPhone15 Pro 的体验](https://www.v2ex.com/t/978406#reply1)|
+|2023-10-01 02:10:49|[V2EX](http://www.v2ex.com/index.xml)|[ Apple Apple Maps 全球一共多少数据？](https://www.v2ex.com/t/978405#reply1)|
+|2023-10-01 02:03:35|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI chatgpt plus 邀请 3 个月免费使用](https://www.v2ex.com/t/978404#reply2)|
+|2023-10-01 01:41:55|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问大家，为什么我用订阅转换后，只有油管无法显示连接，其余网站都可以正常使用，怎么办？](https://www.v2ex.com/t/978403#reply2)|
+|2023-10-01 01:32:08|[V2EX](http://www.v2ex.com/index.xml)|[ Ubuntu ssh 到 Ubuntu 显示的温度到底是什么](https://www.v2ex.com/t/978402#reply1)|
+|2023-10-01 01:29:13|[V2EX](http://www.v2ex.com/index.xml)|[ Apple V 友们救我啊，关于手机忘记锁屏密码的事情](https://www.v2ex.com/t/978401#reply19)|
+|2023-10-01 01:20:43|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI 有没有把 chatgpt 的网页转换成 api 的程序？想用 chatgpt 来翻译英文书籍， api 的费用太贵了](https://www.v2ex.com/t/978400#reply1)|
+|2023-10-01 01:13:16|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 程序员提高英语水平依然是值得长期投入的，离谱开了一个儿童乐园并在一周回本了](https://www.v2ex.com/t/978399#reply10)|
+|2023-10-01 00:58:39|[V2EX](http://www.v2ex.com/index.xml)|[ 前端开发 有人知道 Midjourney 这个前端效果怎么做的嘛](https://www.v2ex.com/t/978397#reply1)|
+|2023-10-01 00:49:51|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 港版首发 iPhone 15 pro 翻车了](https://www.v2ex.com/t/978396#reply7)|
+|2023-10-01 00:46:48|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 为何还没人做中文的 hackernews，我可以贡献代码～](https://www.v2ex.com/t/978395#reply13)|
+|2023-10-01 00:10:35|[V2EX](http://www.v2ex.com/index.xml)|[ macOS Sonoma 下桌面视频壁纸停不下来？](https://www.v2ex.com/t/978392#reply0)|
 |2023-09-30 00:20:11|[7Wate‘s blog](https://blog.7wate.com/rss.xml)|[电脑坏了，我换了 Ubuntu](https://blog.7wate.com/?p=124)|
 |2023-09-30 10:00:00|[机核](https://www.gcores.com/rss)|[既健康又享受的好玩意，「看看你的」数码产品](https://www.gcores.com/videos/171638)|
 |2023-09-30 02:15:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家有什么好的非国产非国行的 Android 手机推荐](https://www.v2ex.com/t/978244#reply61)|
