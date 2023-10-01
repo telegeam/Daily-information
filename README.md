@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-01 07:50:47|[小众软件](https://www.appinn.com/feed/)|[NOVA Video Player – 开源 Android 视频播放器，支持手机、平板、电视，支持刮削、NAS 等](https://www.appinn.com/nova-video-player/)|
+|2023-10-01 07:31:54|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[实验室带你过假期：2023.9.29 - 10.6 成都篇](http://www.toodaylab.com/82265)|
+|2023-10-01 04:28:01|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[从Agent到多模态，大模型想要什么？](https://www.tmtpost.com/6729397.html)|
+|2023-10-01 09:03:49|[虎嗅](https://rss.huxiu.com/)|[网红民宿，我劝你慎住](https://www.huxiu.com/article/2123448.html?f=rss)|
+|2023-10-01 08:00:00|[虎嗅](https://rss.huxiu.com/)|[盒马大战山姆，会员制商超为何陷入混战？](https://www.huxiu.com/article/2123445.html?f=rss)|
+|2023-10-01 07:59:22|[虎嗅](https://rss.huxiu.com/)|[面对人口老龄化，养老不是问题的全部](https://www.huxiu.com/article/2123401.html?f=rss)|
+|2023-10-01 07:56:56|[虎嗅](https://rss.huxiu.com/)|[四川绵阳，别低调了](https://www.huxiu.com/article/2123697.html?f=rss)|
+|2023-10-01 07:00:00|[虎嗅](https://rss.huxiu.com/)|[《坚如磐石》被拍成了“弱如鸡卵”](https://www.huxiu.com/article/2121360.html?f=rss)|
+|2023-10-01 06:03:18|[虎嗅](https://rss.huxiu.com/)|[许家印背后的恒大债务始末](https://www.huxiu.com/article/2120752.html?f=rss)|
+|2023-10-01 06:01:58|[虎嗅](https://rss.huxiu.com/)|[好书推荐：《最重要的事，只有一件》](https://www.huxiu.com/article/2117692.html?f=rss)|
 |2023-10-01 08:04:40|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 问一下，源氏木语怎么买划算？](https://www.v2ex.com/t/978455#reply0)|
 |2023-10-01 08:00:39|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 广州 内推阿里国际 LAZADA 买家端前端（本科，工作经验 3 年以上）](https://www.v2ex.com/t/978454#reply0)|
 |2023-10-01 07:24:21|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 求一款记录包月年付订阅的工具或笔记、在线文档插件](https://www.v2ex.com/t/978451#reply1)|
