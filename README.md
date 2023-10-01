@@ -2,6 +2,50 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-01 09:50:15|[V2EX](https://www.v2ex.com/index.xml)|[ Java ThreadPoolExecutor 问题：线程数大于核心线程书，线程池中队列没有任务后，在等待 poll keepAlive 后应当非核心线程会被销毁，但我的疑惑是他怎么判断是否是非核心线程，如果是核心线程的话应当不会销毁。](https://www.v2ex.com/t/978474#reply2)|
+|2023-10-01 09:49:15|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 请教各位大佬 TRUENAS SMB 间歇性报 0x80070079 信号灯超时时间已到](https://www.v2ex.com/t/978473#reply0)|
+|2023-10-01 09:19:41|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 你们的 GPT 苹果 APP 正常么](https://www.v2ex.com/t/978472#reply0)|
+|2023-10-01 09:12:09|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 实现了树莓派摄像头回传数据给手机端](https://www.v2ex.com/t/978471#reply0)|
+|2023-10-01 09:11:44|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 程序员装备向： 9999， M2 air， 16+256 或者买个 32g+1T 的游戏本](https://www.v2ex.com/t/978470#reply13)|
+|2023-10-01 09:08:52|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iOS 商店解压小游戏大家有推荐没?](https://www.v2ex.com/t/978469#reply1)|
+|2023-10-01 08:57:49|[V2EX](https://www.v2ex.com/index.xml)|[ 云计算 运行 Matlab 程序 非机器学习 ，什么样的云计算服务器可以更快一点?](https://www.v2ex.com/t/978466#reply3)|
+|2023-10-01 08:51:05|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 15 pro 升级到 17.1 好像发热缓解了](https://www.v2ex.com/t/978465#reply2)|
+|2023-10-01 08:44:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 在香港，买什么手机卡回内地还能直连 Google？太爽了](https://www.v2ex.com/t/978464#reply6)|
+|2023-10-01 08:41:49|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 请问有无缝从 IOS17 降级到 IOS16 的方法吗？](https://www.v2ex.com/t/978463#reply1)|
+|2023-10-01 08:36:19|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI GPT4 恢复的 Browse with bing 功能会被网站的 robots 协议拦截.](https://www.v2ex.com/t/978462#reply0)|
+|2023-10-01 08:33:54|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 远程/开源 全职 Golang + Nextjs/t3 全栈](https://www.v2ex.com/t/978461#reply0)|
+|2023-10-01 08:32:05|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有好的公众平台，用于分享有关科技的不成熟的想法和资料？](https://www.v2ex.com/t/978460#reply3)|
+|2023-10-01 08:30:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 上传速度稳定 下载经常掉速 是因为大多人都用下载缘故？](https://www.v2ex.com/t/978459#reply0)|
+|2023-10-01 08:29:49|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 分享一个自己平时摸鱼用的地方吧](https://www.v2ex.com/t/978458#reply0)|
+|2023-10-01 08:23:48|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 国庆长假不想出门也想欣赏风景？试试这个网页](https://www.v2ex.com/t/978457#reply4)|
+|2023-10-01 08:19:43|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 听说 Gooogle Podcast 要下线了，推荐一下我的 Moon FM，送个福利 - ProductHunt 投票评论送激活码](https://www.v2ex.com/t/978456#reply9)|
+|2023-10-01 08:04:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 问一下，源氏木语怎么买划算？](https://www.v2ex.com/t/978455#reply2)|
+|2023-10-01 08:40:25|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Richard Stallman 正在与癌症作战](https://linux.cn/article-16244-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-01 06:43:38|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[资源股的泡沫（兼论中石油）](http://xueqiu.com/1201546096/262375999)|
+|2023-10-01 06:38:14|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[私募这五年](http://xueqiu.com/9742512811/262376915)|
+|2023-10-01 06:36:09|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[转债投资不属于价值投资？](http://xueqiu.com/8849632795/262366134)|
+|2023-10-01 06:31:37|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[我是怎么在8年熊市中赚钱的？](http://xueqiu.com/6146592061/262374407)|
+|2023-10-01 06:28:59|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[2023年三季报：萎靡孕育的是未来暴利](http://xueqiu.com/7355827634/262341523)|
+|2023-10-01 09:12:41|[极客公园](https://plink.anyfeeder.com/geekpark)|[华为旗舰车问界 M9 内饰曝光；苹果：通过软件解决 iPhone 15 过热问题；国铁：「超员高铁无法发车」系假新闻](http://www.geekpark.net/news/325608)|
+|2023-10-01 00:46:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为何还没人做中文的 hackernews，我可以贡献代码～](https://www.v2ex.com/t/978395#reply31)|
+|2023-10-01 04:11:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[协和超音速客机机鼻和风挡升降，驾驶舱视角](https://dig.chouti.com/link/40157428)|
+|2023-10-01 08:10:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[英国著名景点，哈德良长城旁的“罗宾汉树”，被人一夜之间锯倒。它曾在1991年电影《侠盗王子罗宾汉》中出镜，后来又多次参与影视剧拍摄，曾被评为年度之树，是英国上镜率最高的树之一。9月28号树被砍伐的消息出来后，不少民众气愤不已。目前16岁的嫌疑人被捕并被保释，另有一名60多岁的男子被拘留并正在协助调查。](https://dig.chouti.com/link/40159058)|
+|2023-10-01 05:13:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[4chan游戏区这几天在玩Bing的AI绘图，分享一些比较流行的：各种版本GTA、各种画风索尼克/马力欧/毁灭战士/初音未来/鬼泣、各种杉斯乱入、各种8090年代日式画风、各种一转恐怖游戏等等~](https://dig.chouti.com/link/40157890)|
+|2023-10-01 06:02:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[诺奖今年涨奖金了，钱越花越多，诺贝尔基金是怎么理财的？](https://dig.chouti.com/link/40157973)|
+|2023-10-01 07:58:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[AI生成的抽屉logo朋克系列](https://dig.chouti.com/link/40158763)|
+|2023-10-01 07:04:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国汽车工人罢工规模继续扩大，底特律赌场工人将加入](https://dig.chouti.com/link/40158632)|
+|2023-10-01 06:10:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[亚运羽毛球女团决赛，中国队0-3不敌韩国队……韩国女队员模仿中国球员何冰娇含泪？有点没品了吧](https://dig.chouti.com/link/40158336)|
+|2023-10-01 04:26:52|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[Home](https://wiki-power.com/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-01 04:26:52|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[3D 打印：ABS 与 PLA 的区别](https://wiki-power.com/3D%E6%89%93%E5%8D%B0%EF%BC%9AABS%E4%B8%8EPLA%E7%9A%84%E5%8C%BA%E5%88%AB/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-01 04:26:52|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[ADC - Dynamic Parameters](https://wiki-power.com/ADC-Dynamic_Parameters/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-01 04:26:52|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[ADC - Static Parameters](https://wiki-power.com/ADC-Static_Parameters/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-01 04:26:52|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[ADC 与 DAC 基础知识](https://wiki-power.com/ADC%E4%B8%8EDAC%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-01 04:26:52|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[AD 使用 Git 的注意事项](https://wiki-power.com/AD%E4%BD%BF%E7%94%A8Git%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-01 04:26:52|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[AD 基本操作 - 原理图绘制](https://wiki-power.com/AD%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C-%E5%8E%9F%E7%90%86%E5%9B%BE%E7%BB%98%E5%88%B6/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-01 04:26:52|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[AD 基本操作 - 基础知识](https://wiki-power.com/AD%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-01 04:26:52|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[AD 基本操作 - 多板系统设计 🚧](https://wiki-power.com/AD%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C-%E5%A4%9A%E6%9D%BF%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-01 04:26:52|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[AD 基本操作 - 环境搭建](https://wiki-power.com/AD%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-01 04:26:52|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[AD 常用技巧](https://wiki-power.com/AD%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
 |2023-10-01 07:50:47|[小众软件](https://www.appinn.com/feed/)|[NOVA Video Player – 开源 Android 视频播放器，支持手机、平板、电视，支持刮削、NAS 等](https://www.appinn.com/nova-video-player/)|
 |2023-10-01 07:31:54|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[实验室带你过假期：2023.9.29 - 10.6 成都篇](http://www.toodaylab.com/82265)|
 |2023-10-01 04:28:01|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[从Agent到多模态，大模型想要什么？](https://www.tmtpost.com/6729397.html)|
