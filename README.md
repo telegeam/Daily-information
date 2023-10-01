@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-01 04:08:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[舆论比秀场好看：Lisa和疯马秀“罗生门”](https://dig.chouti.com/link/40157383)|
+|2023-10-01 03:03:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[古恩确认会继承至新DC宇宙的角色](https://dig.chouti.com/link/40156761)|
+|2023-10-01 05:28:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[vscode 也？](https://www.v2ex.com/t/978431#reply7)|
+|2023-10-01 05:29:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[foodomo｜台北吃貨必選的美食外送平台：1小時內送達](https://www.iphonetaiwan.org/2023/10/foodomo-iphone.html)|
 |2023-10-01 04:59:06|[摄影世界](https://feedx.net/rss/photoworld.xml)|[在杭州，领略亚洲风采｜10 月 1 日](https://www.photoworld.com.cn/post/174666)|
 |2023-10-01 04:30:00|[机核](https://plink.anyfeeder.com/gcores)|[The CRPG Book 全新译本 《CRPG 通鉴》#250：《圣杯骑士》](https://www.gcores.com/articles/171651)|
 |2023-10-01 03:59:55|[36氪](https://plink.anyfeeder.com/36kr)|[特斯拉人形机器人大更新，给世界一点小震撼，但量产还很遥远｜焦点分析](https://36kr.com/p/2452904528877697?f=rss)|
