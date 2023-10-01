@@ -1,4 +1,4 @@
-﻿# 每日资讯（2023-09-30）
+﻿# 每日资讯（2023-10-01）
 
 |时间|来源|标题|
 |---|---|---|
@@ -38,6 +38,7 @@
 |2023-09-30 06:51:43|[V2EX](http://www.v2ex.com/index.xml)|[ Apple Mac 一不小心接了公司劣质扩展坞，没有接入外接电源，只接了外置显示器有事吗](https://www.v2ex.com/t/978289#reply4)|
 |2023-09-30 07:13:03|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[近几年投资的十点感悟](http://xueqiu.com/5298718725/262351167)|
 |2023-09-30 07:12:26|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[2023年三季度投资总结---仰望星空，相信未来！](http://xueqiu.com/2496980475/262352453)|
+|2023-10-01 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[How Camera Lens Works](https://leimao.github.io/blog/How-Camera-Lens-Works/)|
 |2023-09-30 07:08:35|[V2EX](https://v2ex.com/index.xml)|[ 问与答 儿童保护电蚊拍](https://www.v2ex.com/t/978291#reply0)|
 |2023-09-30 06:59:46|[V2EX](https://v2ex.com/index.xml)|[ iPhone 明年的 iPhone 16 会是 8GB 内存 和 USB C 3.0 版本么？](https://www.v2ex.com/t/978290#reply2)|
 |2023-09-30 06:51:43|[V2EX](https://v2ex.com/index.xml)|[ Apple Mac 一不小心接了公司劣质扩展坞，没有接入外接电源，只接了外置显示器有事吗](https://www.v2ex.com/t/978289#reply1)|
