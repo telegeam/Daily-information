@@ -1,7 +1,11 @@
-﻿# 每日资讯（2023-10-01）
+﻿# 每日资讯（2023-10-02）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-02 00:38:41|[V2EX](https://www.v2ex.com/index.xml)|[ Telegram 电报群关键词提示机器人有没有成熟可用的推荐？](https://www.v2ex.com/t/978534#reply0)|
+|2023-10-02 00:31:34|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Apple 钱包里的余额可以买哪些东西？](https://www.v2ex.com/t/978533#reply3)|
+|2023-10-02 00:24:19|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone Apple： iPhone 15 Pro 过热是由于 iOS 17 bug 和第三方 App 导致，而非硬件问题](https://www.v2ex.com/t/978532#reply0)|
+|2023-10-02 00:13:40|[V2EX](https://www.v2ex.com/index.xml)|[ 文学 乌有网记](https://www.v2ex.com/t/978531#reply1)|
 |2023-10-01 09:50:15|[V2EX](https://www.v2ex.com/index.xml)|[ Java ThreadPoolExecutor 问题：线程数大于核心线程书，线程池中队列没有任务后，在等待 poll keepAlive 后应当非核心线程会被销毁，但我的疑惑是他怎么判断是否是非核心线程，如果是核心线程的话应当不会销毁。](https://www.v2ex.com/t/978474#reply2)|
 |2023-10-01 09:49:15|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 请教各位大佬 TRUENAS SMB 间歇性报 0x80070079 信号灯超时时间已到](https://www.v2ex.com/t/978473#reply0)|
 |2023-10-01 09:19:41|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 你们的 GPT 苹果 APP 正常么](https://www.v2ex.com/t/978472#reply0)|
