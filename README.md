@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-02 01:07:05|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[国庆期间梳理一遍红利基金](http://xueqiu.com/1893700216/262381572)|
 |2023-10-02 00:38:41|[V2EX](https://www.v2ex.com/index.xml)|[ Telegram 电报群关键词提示机器人有没有成熟可用的推荐？](https://www.v2ex.com/t/978534#reply0)|
 |2023-10-02 00:31:34|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Apple 钱包里的余额可以买哪些东西？](https://www.v2ex.com/t/978533#reply3)|
 |2023-10-02 00:24:19|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone Apple： iPhone 15 Pro 过热是由于 iOS 17 bug 和第三方 App 导致，而非硬件问题](https://www.v2ex.com/t/978532#reply0)|
