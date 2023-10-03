@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-03 00:46:06|[极客公园](https://plink.anyfeeder.com/geekpark)|[诺贝尔奖颁给 mRNA 开创者；微软纳德拉：谷歌垄断搜索，苹果也有责任；亚运会中国队拿下 DOTA2 冠军](http://www.geekpark.net/news/325613)|
+|2023-10-03 01:46:21|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 退休老教师，在深圳，能找到什么样的工作呢？](https://www.v2ex.com/t/978678#reply0)|
+|2023-10-03 01:36:12|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 我看很多人发的 chatgpt 都可以输入语音/图片了，这些功能是在向部分用户测试么？](https://www.v2ex.com/t/978677#reply0)|
+|2023-10-03 01:33:25|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 想问下大家 Android 开发 目前前景怎么样](https://www.v2ex.com/t/978676#reply0)|
+|2023-10-03 01:28:08|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 目前兼顾编程与娱乐的显示器 5120x2160 的 LG 屏是不是个好的选择](https://www.v2ex.com/t/978675#reply3)|
+|2023-10-03 01:10:17|[V2EX](https://www.v2ex.com/index.xml)|[ 怀旧游戏 回收机器人大战 z2 再世篇](https://www.v2ex.com/t/978672#reply0)|
+|2023-10-03 00:43:50|[V2EX](https://www.v2ex.com/index.xml)|[ Linux Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670#reply9)|
+|2023-10-03 00:20:21|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 回忆 -去年在路边捡到一根废弃的雪茄](https://www.v2ex.com/t/978669#reply3)|
+|2023-10-03 00:15:45|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 太离谱了，饿了么的红包领完之后金额还能变](https://www.v2ex.com/t/978668#reply3)|
+|2023-10-03 01:15:33|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[深入探讨中证红利指数基金的四大投资策略](http://xueqiu.com/6600162011/262390453)|
+|2023-10-03 01:03:49|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[比亚迪销量突破30万辆得留到10月份了](http://xueqiu.com/7551292152/262411492)|
+|2023-10-03 00:19:22|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[贫穷的本质](http://xueqiu.com/7153156603/262390409)|
+|2023-10-03 00:19:20|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[英国路演的见闻与感受：老外普遍谨慎，仓位偏低](http://xueqiu.com/9210717241/262402499)|
+|2023-10-03 01:05:34|[爱范儿](https://plink.anyfeeder.com/ifanr)|[早报 诺贝尔奖颁给新冠疫苗功臣 / 华为将推超低功率 5G 基站 / 国庆机票跳水部分线路票价低于 200 元](https://www.ifanr.com/1563826?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-03 00:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[英外相：台海冲突对全球经济将是灾难性坏事，并导致中国经济崩溃](https://www.rfi.fr/cn/%E5%8F%B0%E6%B9%BE/20231002-%E8%8B%B1%E5%A4%96%E7%9B%B8-%E5%8F%B0%E6%B5%B7%E5%86%B2%E7%AA%81%E5%AF%B9%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E5%B0%86%E6%98%AF%E7%81%BE%E9%9A%BE%E6%80%A7%E5%9D%8F%E4%BA%8B%EF%BC%8C%E5%B9%B6%E5%AF%BC%E8%87%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B4%A9%E6%BA%83)|
 |2023-10-03 00:42:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[比較](http://mercurychong.blogspot.com/2023/10/blog-post_2.html)|
 |2023-10-03 00:43:50|[V2EX](https://v2ex.com/index.xml)|[ Linux Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670#reply4)|
