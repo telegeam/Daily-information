@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-03 05:22:44|[36氪](https://plink.anyfeeder.com/36kr)|[鸿海与Blue Solutions将共同开发两轮电动车固态电池；预计2020至2060年我国电力产业投资规模将超100万亿元｜36氪新能源日报1002](https://36kr.com/p/2458231345436802?f=rss)|
+|2023-10-03 05:12:56|[36氪](https://plink.anyfeeder.com/36kr)|[乐行天下推出首款旗舰越野电动独轮车；中国能建与云南省红河州签署战略合作框架协议 双方将深化在储能等领域合作｜36氪新能源日报0929](https://36kr.com/p/2458198516881538?f=rss)|
+|2023-10-03 00:00:23|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[安卓系统清理SD Maid SE 0.14学习版](https://masuit.com/1984)|
+|2023-10-03 06:30:45|[虎嗅](https://rss.huxiu.com/)|[捐助、赞助后，医药企业如何自证清白？](https://www.huxiu.com/article/2113343.html?f=rss)|
+|2023-10-03 07:06:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求推荐一个 windows 终端](https://www.v2ex.com/t/978719#reply0)|
+|2023-10-03 06:36:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 3.12 稳定版发布啦，哪个改动最有吸引力？](https://www.v2ex.com/t/978716#reply2)|
+|2023-10-03 00:43:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670#reply33)|
+|2023-10-03 06:42:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于便携版软件和绿色软件的一些问题](https://www.v2ex.com/t/978718#reply0)|
+|2023-10-03 01:33:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想问下大家 Android 开发 目前前景怎么样](https://www.v2ex.com/t/978676#reply12)|
 |2023-10-03 06:06:15|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 你的 macbook 会贴膜吗?](https://www.v2ex.com/t/978714#reply1)|
 |2023-10-03 06:05:18|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 上海市闵行区鲁汇镇周围有什么外企招 IT 岗的么](https://www.v2ex.com/t/978713#reply1)|
 |2023-10-03 06:02:19|[V2EX](https://www.v2ex.com/index.xml)|[ Electron Electron 集成 firebase](https://www.v2ex.com/t/978712#reply0)|
