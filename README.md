@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-03 07:06:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求推荐一个 windows 终端](https://www.v2ex.com/t/978719#reply4)|
+|2023-10-03 06:36:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 3.12 稳定版发布啦，哪个改动最有吸引力？](https://www.v2ex.com/t/978716#reply8)|
+|2023-10-03 01:33:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想问下大家 Android 开发 目前前景怎么样](https://www.v2ex.com/t/978676#reply17)|
+|2023-10-03 07:41:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请问国内这些手机系统，有没有办法让他开机调用谷歌的恢复系统，或者日常使用中调用谷歌的整机备份](https://www.v2ex.com/t/978721#reply2)|
+|2023-10-03 06:22:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求助： 10.18.7 版本的 Postman，在 Win10，不登录不给使用，死循环了，怎么解？](https://www.v2ex.com/t/978715#reply1)|
+|2023-10-03 07:37:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于业务中的数据版本应该如何进行设计呢](https://www.v2ex.com/t/978720#reply1)|
+|2023-10-03 04:15:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求一个来电模拟软件。最好能熄屏来电的](https://www.v2ex.com/t/978697#reply6)|
+|2023-10-03 00:43:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670#reply36)|
+|2023-10-03 07:45:48|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1143 Linux 再次尝试禁用微软的 RNDIS 驱动](https://linux.cn/article-16251-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-03 08:43:01|[BBC](https://plink.anyfeeder.com/bbc/cn)|[汉堡王为何迟迟不退出俄罗斯市场？](https://www.bbc.com/zhongwen/simp/business-66991487)|
+|2023-10-03 08:43:01|[BBC](https://plink.anyfeeder.com/bbc/cn)|[女性健康：Essure节育器副作用巨大，她们起诉制药巨头拜耳](https://www.bbc.com/zhongwen/simp/science-66992907)|
+|2023-10-03 06:40:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“被动网红”韦神到底是研究什么的？](https://dig.chouti.com/link/40175115)|
+|2023-10-03 07:09:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[——那混动呢？ ——混动输两次](https://dig.chouti.com/link/40175363)|
+|2023-10-03 08:11:14|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[Ghost Post 中支持标签的方法](https://www.edony.ink/ghost-post-supporting-tags/)|
+|2023-10-03 08:11:19|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[做空和做多，谁的收益和风险更大？](http://xueqiu.com/8418018079/262432657)|
+|2023-10-03 06:49:19|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[【资金篇】光伏行业正式进入淘汰赛](http://xueqiu.com/3427650009/262375304)|
 |2023-10-03 08:14:40|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有奇形怪状的手机推荐吗](https://www.v2ex.com/t/978727#reply0)|
 |2023-10-03 08:08:56|[V2EX](https://v2ex.com/index.xml)|[ 问与答 pywinauto 操作 QT 界面慢的要死,请指教下](https://www.v2ex.com/t/978726#reply0)|
 |2023-10-03 07:50:24|[V2EX](https://v2ex.com/index.xml)|[ 程序员 感觉现在的 ChatGPT 已经弱智成傻逼了，最近的更新还不如之前的做的好](https://www.v2ex.com/t/978725#reply0)|
