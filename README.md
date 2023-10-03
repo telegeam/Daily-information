@@ -1,7 +1,14 @@
-﻿# 每日资讯（2023-10-02）
+﻿# 每日资讯（2023-10-03）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-03 00:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[英外相：台海冲突对全球经济将是灾难性坏事，并导致中国经济崩溃](https://www.rfi.fr/cn/%E5%8F%B0%E6%B9%BE/20231002-%E8%8B%B1%E5%A4%96%E7%9B%B8-%E5%8F%B0%E6%B5%B7%E5%86%B2%E7%AA%81%E5%AF%B9%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E5%B0%86%E6%98%AF%E7%81%BE%E9%9A%BE%E6%80%A7%E5%9D%8F%E4%BA%8B%EF%BC%8C%E5%B9%B6%E5%AF%BC%E8%87%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B4%A9%E6%BA%83)|
+|2023-10-03 00:42:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[比較](http://mercurychong.blogspot.com/2023/10/blog-post_2.html)|
+|2023-10-03 00:43:50|[V2EX](https://v2ex.com/index.xml)|[ Linux Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670#reply4)|
+|2023-10-03 00:20:21|[V2EX](https://v2ex.com/index.xml)|[ 生活 回忆 -去年在路边捡到一根废弃的雪茄](https://www.v2ex.com/t/978669#reply1)|
+|2023-10-03 00:15:45|[V2EX](https://v2ex.com/index.xml)|[ 问与答 太离谱了，饿了么的红包领完之后金额还能变](https://www.v2ex.com/t/978668#reply1)|
+|2023-10-03 00:11:46|[V2EX](https://v2ex.com/index.xml)|[ 问与答 FTTR 设备经过两个 ONU 是半双工传输？](https://www.v2ex.com/t/978666#reply0)|
+|2023-10-03 00:07:00|[V2EX](https://v2ex.com/index.xml)|[ 游戏 你用过的第一个手柄是？](https://www.v2ex.com/t/978665#reply16)|
 |2023-10-02 04:26:51|[爱范儿](https://www.ifanr.com/feed)|[在小红书，什么都可以成为「生活方式」](https://www.ifanr.com/1563788?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-02 08:59:45|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[苹果、华为与黄牛](https://www.tmtpost.com/6729975.html)|
 |2023-10-02 08:59:06|[摄影世界](https://feedx.net/rss/photoworld.xml)|[在杭州，领略亚洲风采｜10 月 2 日](https://www.photoworld.com.cn/post/174669)|
