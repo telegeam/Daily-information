@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-03 01:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[马斯克嘲讽泽连斯基继续求援 乌最高拉达批马斯克散播俄罗斯宣传](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20231003-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%98%B2%E8%AE%BD%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%BB%A7%E7%BB%AD%E6%B1%82%E6%8F%B4-%E4%B9%8C%E6%9C%80%E9%AB%98%E6%8B%89%E8%BE%BE%E6%89%B9%E9%A9%AC%E6%96%AF%E5%85%8B%E6%95%A3%E6%92%AD%E4%BF%84%E7%BD%97%E6%96%AF%E5%AE%A3%E4%BC%A0)|
+|2023-10-03 00:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[欧盟将评估关键技术被武器化的风险，包括半导体和人工智能](https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20231003-%E6%AC%A7%E7%9B%9F%E5%B0%86%E8%AF%84%E4%BC%B0%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E8%A2%AB%E6%AD%A6%E5%99%A8%E5%8C%96%E7%9A%84%E9%A3%8E%E9%99%A9%EF%BC%8C%E5%8C%85%E6%8B%AC%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%92%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)|
 |2023-10-03 00:46:06|[极客公园](https://plink.anyfeeder.com/geekpark)|[诺贝尔奖颁给 mRNA 开创者；微软纳德拉：谷歌垄断搜索，苹果也有责任；亚运会中国队拿下 DOTA2 冠军](http://www.geekpark.net/news/325613)|
 |2023-10-03 01:46:21|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 退休老教师，在深圳，能找到什么样的工作呢？](https://www.v2ex.com/t/978678#reply0)|
 |2023-10-03 01:36:12|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 我看很多人发的 chatgpt 都可以输入语音/图片了，这些功能是在向部分用户测试么？](https://www.v2ex.com/t/978677#reply0)|
