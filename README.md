@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-04 06:50:03|[极客公园](https://plink.anyfeeder.com/geekpark)|[华为 Mate60 Pro，治好了我的「大屏恐惧」](http://www.geekpark.net/news/325617)|
+|2023-10-04 07:17:57|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1144 量子计算机正在重演真空管计算机的历史吗？](https://linux.cn/article-16253-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-04 07:44:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1990年5月，被遗弃在苏联列宁格勒郊区住宅区附近高速公路上的苏-15截击机。](https://dig.chouti.com/link/40183987)|
+|2023-10-04 08:08:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[风口浪尖的英格兰裁判公司PGMOL，是一个什么样的组织？](https://dig.chouti.com/link/40184317)|
+|2023-10-04 08:25:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[最近几年北京的空气质量越来越好，看着窗外的蓝天，想起水木社区很多年前一位名叫“Aryans”（好像是这样拼的，意思是“雅利安人”）的ID。他的帖子主打一个跳跃和挑衅，分不清何门何派，也因此被各门各派围殴，很多帖子放到现在就更是360°无死角的“不正确”。](https://dig.chouti.com/link/40184434)|
+|2023-10-04 08:19:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[$美团－Ｗ hk03690$ 的日线、周线、月线如图，我只看到了深深的绝望和麻木……你们说，这什么时候是个头？（什么时候可以抄个底？）](https://dig.chouti.com/link/40184432)|
+|2023-10-04 07:01:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[清华大学刑法学教授自述遭遇电信诈骗：骗术逼真，差点上当](https://dig.chouti.com/link/40183552)|
+|2023-10-04 06:11:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩国艺人华莎涉嫌演出淫乱被调查，韩国警方判定无犯罪嫌疑](https://dig.chouti.com/link/40183473)|
+|2023-10-04 08:13:01|[BBC](https://plink.anyfeeder.com/bbc/cn)|[麦卡锡议长遭逼宫：美国国会众议院历史性表决罢免共和党领袖](https://www.bbc.com/zhongwen/simp/world-67003684)|
+|2023-10-04 03:40:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[CVE-2023-5129：libwebp开源库10分漏洞](https://www.4hou.com/posts/ZGNJ)|
+|2023-10-04 03:30:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[免费下载管理器被植入后门：一种针对Linux系统的潜在供应链攻击](https://www.4hou.com/posts/qp92)|
+|2023-10-04 07:38:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[2015 年初代 Apple Watch 已被蘋果列入過時產品](https://www.iphonetaiwan.org/2023/10/1st-apple-watch-discontinued.html)|
+|2023-10-04 07:02:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果：為 Vision Pro 開發應用需使用蘋果晶片 Mac](https://www.iphonetaiwan.org/2023/10/visionos-apple-silicon-development.html)|
+|2023-10-04 06:38:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[俄羅斯駁回蘋果反壟斷上訴 - App Store 地位不保](https://www.iphonetaiwan.org/2023/10/apple-store-antitrust-russia.html)|
 |2023-10-04 06:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[软银孙正义称通用人工智能将很快超越人类](https://cn.wsj.com/amp/articles/%E8%BD%AF%E9%93%B6%E5%AD%99%E6%AD%A3%E4%B9%89%E7%A7%B0%E9%80%9A%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B0%86%E5%BE%88%E5%BF%AB%E8%B6%85%E8%B6%8A%E4%BA%BA%E7%B1%BB-4d45d9d6)|
 |2023-10-04 03:36:39|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[孙正义：AI智慧将在10年内超人类](https://m.cnbeta.com.tw/view/1387931.htm)|
 |2023-10-04 03:36:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国证券交易委员会对瑞波币案败诉提出上诉的动议被驳回](https://m.cnbeta.com.tw/view/1387923.htm)|
