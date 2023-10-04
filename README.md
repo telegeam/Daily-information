@@ -2,6 +2,72 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-04 05:27:23|[极客公园](https://plink.anyfeeder.com/geekpark)|[《马斯克传》：特斯拉从「零到1万」的 11 个冷知识](http://www.geekpark.net/news/325615)|
+|2023-10-04 05:58:29|[祝融说。](https://zhurongshuo.com/index.xml)|[虚假的谦虚没有灵性，否定自己并不意味着高尚。](https://zhurongshuo.com/posts/2023/10/0406/)|
+|2023-10-04 05:56:45|[祝融说。](https://zhurongshuo.com/index.xml)|[因为你爱它，所以你恨它配不上你的爱。](https://zhurongshuo.com/posts/2023/10/0405/)|
+|2023-10-04 05:55:20|[祝融说。](https://zhurongshuo.com/index.xml)|[理想与现实同时在场。](https://zhurongshuo.com/posts/2023/10/0404/)|
+|2023-10-04 05:51:27|[祝融说。](https://zhurongshuo.com/index.xml)|[你永远会是你自己，并且越来越是你自己。](https://zhurongshuo.com/posts/2023/10/0403/)|
+|2023-10-04 05:50:30|[祝融说。](https://zhurongshuo.com/index.xml)|[完美不完美。](https://zhurongshuo.com/posts/2023/10/0402/)|
+|2023-10-04 05:42:59|[祝融说。](https://zhurongshuo.com/index.xml)|[自我牺牲不是美德，那意味着全体的失败。](https://zhurongshuo.com/posts/2023/10/0401/)|
+|2023-10-04 05:29:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国参议院多数党领袖舒默近日将率两党参议员代表团访华](https://dig.chouti.com/link/40183059)|
+|2023-10-04 03:10:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[幽闭恐惧症差点犯了](https://dig.chouti.com/link/40182023)|
+|2023-10-04 06:14:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[？？？](https://dig.chouti.com/link/40183510)|
+|2023-10-04 01:01:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一位“全职奶爸”的讲述丨葛沛豪从没预想过，毕业后待在家里做了5年全职爸爸，一直持续到现在。全职爸爸回归家庭的理由是什么？在一些认知中，他们可能是家里经济弱势的一方，妻子更能赚钱；或是对家庭生活的关注多过工作事业。然而以上设定，他都不符合。如今已是2个孩子的父亲，他如何在传统观念下融入家庭、妥协和改变？](https://dig.chouti.com/link/40180831)|
+|2023-10-04 03:10:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【淘汰伊朗，我彻夜难眠】中国香港足球运动员亚历斯祖：中国队和中国香港队的关系像兄弟一样，我们从来都是一家人；在国庆当天，在自己的家门口，我们创造了亚运的新历史，这是对祖国母亲的献礼；我很想加盟北京国安，这是我的梦想。](https://dig.chouti.com/link/40182011)|
+|2023-10-04 04:40:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“我的妈妈变成了两间小屋”](https://dig.chouti.com/link/40182652)|
+|2023-10-04 03:32:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Meta计划提供无广告的Instagram或Facebook，每月收费14美元](https://dig.chouti.com/link/40182105)|
+|2023-10-04 07:02:58|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 普通人 普通程序员 如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888#reply1)|
+|2023-10-04 06:58:29|[V2EX](http://www.v2ex.com/index.xml)|[ Android google 上马甲](https://www.v2ex.com/t/978887#reply0)|
+|2023-10-04 06:47:11|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 使用 airpods pro 2 碰到了一个未解之谜.... 求大佬们指点一下](https://www.v2ex.com/t/978884#reply0)|
+|2023-10-04 06:47:01|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI 有没有稳定可靠收费的 ChatGPT 套壳网站？](https://www.v2ex.com/t/978883#reply0)|
+|2023-10-04 06:40:35|[V2EX](http://www.v2ex.com/index.xml)|[ Netflix NF 埃及车 40 一季](https://www.v2ex.com/t/978881#reply0)|
+|2023-10-04 06:38:30|[V2EX](http://www.v2ex.com/index.xml)|[ 汽车 实在是不知道选哪个了。](https://www.v2ex.com/t/978880#reply3)|
+|2023-10-04 06:35:05|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 美区 Apple ONE 超大杯缺一人](https://www.v2ex.com/t/978878#reply0)|
+|2023-10-04 06:28:41|[V2EX](http://www.v2ex.com/index.xml)|[ Apple iPhone 15 系列贴膜有无推荐？](https://www.v2ex.com/t/978877#reply4)|
+|2023-10-04 06:28:39|[V2EX](http://www.v2ex.com/index.xml)|[ Apple TV apple tv 上的 youtube kids 不能用了](https://www.v2ex.com/t/978876#reply0)|
+|2023-10-04 06:26:21|[V2EX](http://www.v2ex.com/index.xml)|[ Python Python 有没有好用的本地文件实现的 key， value 存储](https://www.v2ex.com/t/978875#reply4)|
+|2023-10-04 06:14:22|[V2EX](http://www.v2ex.com/index.xml)|[ macOS 升级 Sonoma 之后， Netflix DRM 居然失效了，可以直接截图了](https://www.v2ex.com/t/978873#reply4)|
+|2023-10-04 06:09:45|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 有广东电信的朋友以前提速过 智家分享 VIP 特惠提速至 1000M_24 个月](https://www.v2ex.com/t/978871#reply2)|
+|2023-10-04 06:04:37|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 美版 Apple care+盗抢版在中国能用吗？](https://www.v2ex.com/t/978870#reply1)|
+|2023-10-04 05:57:51|[V2EX](http://www.v2ex.com/index.xml)|[ 郑州 上次有个兄弟要去南阳买房子的要三思了，南阳迷笛音乐节大量财物被盗，失主：上厕所回来发现帐篷消失，连衣服和内裤也没了](https://www.v2ex.com/t/978869#reply3)|
+|2023-10-04 05:51:09|[V2EX](http://www.v2ex.com/index.xml)|[ C# C#单元测试为什么不能过多使用 setup？](https://www.v2ex.com/t/978868#reply0)|
+|2023-10-04 05:43:48|[V2EX](http://www.v2ex.com/index.xml)|[ 软件 开发者自荐 10 月份最新微信视频号下载工具](https://www.v2ex.com/t/978867#reply0)|
+|2023-10-04 05:40:13|[V2EX](http://www.v2ex.com/index.xml)|[ 熵 熵的物理意义](https://www.v2ex.com/t/978865#reply0)|
+|2023-10-04 05:35:08|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 做了个从关键词生成 App Icon 和主题的网站，有兴趣的小伙伴来共建哇](https://www.v2ex.com/t/978864#reply4)|
+|2023-10-04 05:28:42|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 bing app 要怎么设置规则才能访问](https://www.v2ex.com/t/978863#reply2)|
+|2023-10-04 05:20:46|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有没有类似「今日热榜」的国际新闻聚合网站？](https://www.v2ex.com/t/978862#reply0)|
+|2023-10-04 04:57:43|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 现在 Taro+NutUI 开发是用 react 还是 Vue3？](https://www.v2ex.com/t/978861#reply0)|
+|2023-10-04 04:46:06|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 Windows 和 Mac 的 tab 切换对比](https://www.v2ex.com/t/978860#reply1)|
+|2023-10-04 04:33:38|[V2EX](http://www.v2ex.com/index.xml)|[ macOS setapp 家庭版是怎么回事](https://www.v2ex.com/t/978859#reply3)|
+|2023-10-04 04:28:35|[V2EX](http://www.v2ex.com/index.xml)|[ 五笔字型输入法 想要一个这样的五笔，能够在多端同步词库的](https://www.v2ex.com/t/978858#reply0)|
+|2023-10-04 04:11:59|[V2EX](http://www.v2ex.com/index.xml)|[ NAS 群晖双系统，还差亿点点。。。求助各位](https://www.v2ex.com/t/978856#reply7)|
+|2023-10-04 04:08:07|[V2EX](http://www.v2ex.com/index.xml)|[ macOS Windows 的 tab 切换比 Mac 更牛逼](https://www.v2ex.com/t/978855#reply10)|
+|2023-10-04 04:02:15|[V2EX](http://www.v2ex.com/index.xml)|[ C++ 有没有 C++的大佬，远程帮忙看一个 windows 编译的问题，付费可谈](https://www.v2ex.com/t/978854#reply9)|
+|2023-10-04 04:01:29|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI 贡献一个开发/测试专用](https://www.v2ex.com/t/978853#reply0)|
+|2023-10-04 03:57:51|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 想找这样一个五笔输入法，能够在多端同步词库的](https://www.v2ex.com/t/978851#reply0)|
+|2023-10-04 03:48:36|[V2EX](http://www.v2ex.com/index.xml)|[  WATCH Ultra2 和 S9 的双指互点 double tap 可以使用了](https://www.v2ex.com/t/978850#reply10)|
+|2023-10-04 03:47:32|[V2EX](http://www.v2ex.com/index.xml)|[ Apple apple one 空 2 个位置](https://www.v2ex.com/t/978849#reply1)|
+|2023-10-04 03:34:59|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 北京联通千兆还能直接获得公网 IP](https://www.v2ex.com/t/978848#reply3)|
+|2023-10-04 03:32:13|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 威联通 NAS 不识别硬盘](https://www.v2ex.com/t/978846#reply2)|
+|2023-10-04 03:24:42|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 如何看待涂磊讲的吴艳妮的视频](https://www.v2ex.com/t/978844#reply1)|
+|2023-10-04 03:20:35|[V2EX](http://www.v2ex.com/index.xml)|[ macOS 更新到 sonoma 后， contexts 还可以正常使用吗？](https://www.v2ex.com/t/978842#reply1)|
+|2023-10-04 03:13:25|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 整个 TG 图床玩玩](https://www.v2ex.com/t/978841#reply0)|
+|2023-10-04 03:12:58|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone Share sheet 应用变没了](https://www.v2ex.com/t/978840#reply0)|
+|2023-10-04 03:12:47|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 为什么最近好多公司老板都跑路了](https://www.v2ex.com/t/978839#reply13)|
+|2023-10-04 03:09:57|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 越长大，兄弟姐妹间越来越没话说了](https://www.v2ex.com/t/978838#reply5)|
+|2023-10-04 03:07:54|[V2EX](http://www.v2ex.com/index.xml)|[ Android 安卓手机有办法查看电池健康度么？](https://www.v2ex.com/t/978836#reply15)|
+|2023-10-04 02:58:43|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 土耳其区 Apple ID 充值消费后被 ban 了](https://www.v2ex.com/t/978834#reply16)|
+|2023-10-04 06:30:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[国庆假期，音乐节“渡劫”](https://www.tmtpost.com/6730919.html)|
+|2023-10-04 05:30:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[小家电“变脸”：从爆红到爆冷](https://www.tmtpost.com/6730695.html)|
+|2023-10-04 04:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[阿联酋新能源战略下的阿布扎比：为最后一滴油做准备](https://www.tmtpost.com/6730784.html)|
+|2023-10-04 03:24:14|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[票价亲民、服务简化，廉价航空如何边省钱边赚钱？｜钛度图闻](https://www.tmtpost.com/6727500.html)|
+|2023-10-04 03:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[让中产着迷、靠卖鞋垫年入96亿，它要IPO了](https://www.tmtpost.com/6730650.html)|
+|2023-10-04 02:30:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[加盟亏损启示录：1000万开21家便利店，成了最后悔的投资](https://www.tmtpost.com/6730766.html)|
+|2023-10-04 01:44:32|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Chinese EV Makers Set Delivery Record in September Despite New Round of Price War](https://www.tmtpost.com/6730821.html)|
+|2023-10-04 01:38:03|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Yum China to Boost Lavazza Coffee Presence as New Store Opening Target Set](https://www.tmtpost.com/6730815.html)|
+|2023-10-04 01:30:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[最忙婚庆黄金周：8天赚8万，7天办22场婚礼，一天只睡3小时](https://www.tmtpost.com/6730765.html)|
+|2023-10-04 05:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[加拿大喊话印度停止继续驱逐外交官](https://cn.wsj.com/amp/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%96%8A%E8%AF%9D%E5%8D%B0%E5%BA%A6%E5%81%9C%E6%AD%A2%E7%BB%A7%E7%BB%AD%E9%A9%B1%E9%80%90%E5%A4%96%E4%BA%A4%E5%AE%98-53984eac)|
+|2023-10-04 02:43:02|[BBC](https://plink.anyfeeder.com/bbc/cn)|[A&F时装连锁前总裁涉嫌性剥削年轻男子 BBC调查曝光细节](https://www.bbc.com/zhongwen/simp/world-67001543)|
 |2023-10-04 02:30:40|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[经济型酒店，都涨疯了](http://www.huxiu.com/article/2118157.html?f=wangzhan)|
 |2023-10-04 05:35:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[做了个从关键词生成 App Icon 和主题的网站，有兴趣的小伙伴来共建哇](https://www.v2ex.com/t/978864#reply1)|
 |2023-10-04 02:17:51|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[决赛圈了兄弟萌](https://www.v2ex.com/t/978827#reply10)|
