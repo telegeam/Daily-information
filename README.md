@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-04 02:30:40|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[经济型酒店，都涨疯了](http://www.huxiu.com/article/2118157.html?f=wangzhan)|
+|2023-10-04 05:35:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[做了个从关键词生成 App Icon 和主题的网站，有兴趣的小伙伴来共建哇](https://www.v2ex.com/t/978864#reply1)|
+|2023-10-04 02:17:51|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[决赛圈了兄弟萌](https://www.v2ex.com/t/978827#reply10)|
+|2023-10-04 05:10:30|[牛叔 | 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《尼斯湖水怪：深水传说》神秘人首度揭晓水怪真相，仙女座镇神兽为何出现在湖边？](https://www.ximalaya.com/sound/670929317)|
+|2023-10-04 04:57:43|[牛叔 | 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[最恐怖的晴涩电影《X》：双女主你们爱不爱看，还有杀人如麻的女魔头！](https://www.ximalaya.com/sound/670927415)|
+|2023-10-04 04:34:09|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 899 Div. 2 ](https://blog.mauve.icu/2023/10/04/acm/codeforces/CodeforcesRound899(Div.%202)/)|
 |2023-10-04 03:53:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[技术 Linux 内核动手编译实用指南](https://linux.cn/article-16252-1.html?utm_source=rss&utm_medium=rss)|
 |2023-10-04 03:07:09|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iOS 17.1 Beta 2 中的所有新功能提前看](https://m.cnbeta.com.tw/view/1387911.htm)|
 |2023-10-04 03:06:52|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iPhone 15 Pro Max的Type-C接口有多牛？实测比USB 2.0快11倍](https://m.cnbeta.com.tw/view/1387909.htm)|
