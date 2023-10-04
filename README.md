@@ -1,7 +1,9 @@
-﻿# 每日资讯（2023-10-03）
+﻿# 每日资讯（2023-10-04）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-04 00:20:37|[虎嗅](https://rss.huxiu.com/)|[拿了诺奖的mRNA技术，为什么如此重要？](https://www.huxiu.com/article/2133006.html?f=rss)|
+|2023-10-04 00:01:54|[虎嗅](https://rss.huxiu.com/)|[一文读懂2023年诺贝尔物理学奖](https://www.huxiu.com/article/2132508.html?f=rss)|
 |2023-10-03 07:06:56|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[研招网回应女生手滑拒绝保研通知：系统有二次确认功能](https://m.cnbeta.com.tw/view/1387759.htm)|
 |2023-10-03 07:06:40|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[中国联通5G无线基站“飞”上天：通信距离、带宽均领先](https://m.cnbeta.com.tw/view/1387757.htm)|
 |2023-10-03 07:06:29|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[OPPO Find N3折叠屏核心参数曝光：骁龙8 Gen 2、双120Hz高刷屏](https://m.cnbeta.com.tw/view/1387755.htm)|
