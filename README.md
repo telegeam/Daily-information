@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-05 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：半岛精品店与咖啡厅新天地旗舰店开幕、苹果推送 iOS 17.0.3 更新](http://www.toodaylab.com/82275)|
+|2023-10-05 01:43:26|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[China Blasts EU's Protectionist Move after EV Subsidy Probe Launched](https://www.tmtpost.com/6731370.html)|
+|2023-10-05 01:39:01|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“换房旅游”，没火起来](https://www.tmtpost.com/6731329.html)|
+|2023-10-05 01:33:46|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Tesla On Brink of Losing as BYD Sets EV Sales Record Again in September](https://www.tmtpost.com/6731357.html)|
+|2023-10-05 00:02:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【西班牙、葡萄牙和摩洛哥将联合举办2030年世界杯】本届世界杯的前三场比赛将在阿根廷、乌拉圭和巴拉圭举行，以作为对百年世界杯的致敬。按照计划，2030世界杯的前三场比赛结束后，阿根廷、乌拉圭和巴拉圭及其对手将前往欧洲，在西班牙、葡萄牙和摩洛哥进行剩余的比赛。](https://dig.chouti.com/link/40189194)|
+|2023-10-05 00:54:25|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[【青年失业潮下的劳动调查】问卷分析篇](https://feed.laborinfocn3.com/graduate_research_dataanalysis/)|
+|2023-10-05 01:37:44|[V2EX](https://v2ex.com/index.xml)|[ Android Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971#reply2)|
+|2023-10-05 01:30:08|[V2EX](https://v2ex.com/index.xml)|[ 问与答 计算机大三，准备明年考研，在考研之前有什么值得做的事情吗？](https://www.v2ex.com/t/978970#reply0)|
+|2023-10-05 01:24:33|[V2EX](https://v2ex.com/index.xml)|[ Apple 如何 5 分钟后执行某个快捷指令](https://www.v2ex.com/t/978969#reply5)|
+|2023-10-05 01:09:48|[V2EX](https://v2ex.com/index.xml)|[ Apple 升级 macOS 14.0 后状态栏一直是浅色](https://www.v2ex.com/t/978968#reply2)|
+|2023-10-05 00:59:49|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 写了一个动物派对的挂机脚本](https://www.v2ex.com/t/978965#reply1)|
 |2023-10-05 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[East Bay Regional Park Trails Challenge 2023](https://leimao.github.io/essay/East-Bay-Regional-Park-Trails-Challenge-2023/)|
 |2023-10-04 09:00:00|[机核](https://plink.anyfeeder.com/gcores)|[小弹珠，滴溜溜的转，录音笔 Vol.48](https://www.gcores.com/radios/171769)|
 |2023-10-04 08:30:00|[机核](https://plink.anyfeeder.com/gcores)|[摄影分享丨偷窥的虚假的日子](https://www.gcores.com/articles/171731)|
