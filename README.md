@@ -2,6 +2,26 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-05 02:07:11|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[纯电车太贵外加基建不足 更多美国人转而购买混动车](https://m.cnbeta.com.tw/view/1388099.htm)|
+|2023-10-05 02:06:56|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Meta开始为所有广告商推出生成式人工智能工具](https://m.cnbeta.com.tw/view/1388097.htm)|
+|2023-10-05 02:06:44|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[1-8月中国智能手机产量6.79亿台 同比下降7.5%](https://m.cnbeta.com.tw/view/1388095.htm)|
+|2023-10-05 02:06:27|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[传三菱将正式停止在华生产汽车 还在与广汽进行谈判](https://m.cnbeta.com.tw/view/1388093.htm)|
+|2023-10-05 02:06:16|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[时隔13年，美团又成了所有大厂的“瓜分对象”](https://m.cnbeta.com.tw/view/1388089.htm)|
+|2023-10-05 02:06:04|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果曾考虑用DuckDuckGo取代谷歌作为默认搜索引擎](https://m.cnbeta.com.tw/view/1388087.htm)|
+|2023-10-05 02:05:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克旗下X平台开始隐藏新闻文章的标题和链接](https://m.cnbeta.com.tw/view/1388085.htm)|
+|2023-10-05 02:05:29|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[东芝隐退：74年上市将终结 中国区影响几何？](https://m.cnbeta.com.tw/view/1388083.htm)|
+|2023-10-05 02:29:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[9万多家门店倒闭，童年里的街机厅去哪儿了？](https://www.huxiu.com/article/2133868.html?f=rss)|
+|2023-10-05 02:55:48|[V2EX](https://www.v2ex.com/index.xml)|[ 数据库 关于数据库快照, 有没有必要停机保证数据一致性?](https://www.v2ex.com/t/978981#reply1)|
+|2023-10-05 02:47:26|[V2EX](https://www.v2ex.com/index.xml)|[ 装修 新房装修， E1 板材，柜子比较多，怎么除甲醛？](https://www.v2ex.com/t/978980#reply6)|
+|2023-10-05 02:40:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 微信读书上的笔记，如何一次性全部同步到 ReadWise 去啊？目前网上找到的插件都是每本书需要单独复制](https://www.v2ex.com/t/978978#reply0)|
+|2023-10-05 02:29:27|[V2EX](https://www.v2ex.com/index.xml)|[ Android 求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976#reply3)|
+|2023-10-05 02:08:48|[V2EX](https://www.v2ex.com/index.xml)|[ 全球工单系统 小米账号无法登录了？](https://www.v2ex.com/t/978975#reply0)|
+|2023-10-05 02:05:43|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud 请教一下美区 iCloud 线路问题](https://www.v2ex.com/t/978974#reply3)|
+|2023-10-05 01:37:44|[V2EX](https://www.v2ex.com/index.xml)|[ Android Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971#reply18)|
+|2023-10-05 01:30:08|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 计算机大三，准备明年考研，在考研之前有什么值得做的事情吗？](https://www.v2ex.com/t/978970#reply9)|
+|2023-10-05 01:24:33|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 如何 5 分钟后执行某个快捷指令](https://www.v2ex.com/t/978969#reply11)|
+|2023-10-05 01:09:48|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 升级 macOS 14.0 后状态栏一直是浅色](https://www.v2ex.com/t/978968#reply5)|
+|2023-10-05 00:59:49|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 写了一个动物派对的挂机脚本](https://www.v2ex.com/t/978965#reply5)|
 |2023-10-05 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美国众议长麦卡锡遭罢免后的四个看点](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%95%BF%E9%BA%A6%E5%8D%A1%E9%94%A1%E9%81%AD%E7%BD%A2%E5%85%8D%E5%90%8E%E7%9A%84%E5%9B%9B%E4%B8%AA%E7%9C%8B%E7%82%B9-2ea52494)|
 |2023-10-05 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美国史上最大规模医疗罢工开启](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8C%BB%E7%96%97%E7%BD%A2%E5%B7%A5%E5%BC%80%E5%90%AF-6a2940be)|
 |2023-10-05 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国和欧盟围绕电动汽车补贴调查的证据和时间表产生争执](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E5%92%8C%E6%AC%A7%E7%9B%9F%E5%9B%B4%E7%BB%95%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E8%A1%A5%E8%B4%B4%E8%B0%83%E6%9F%A5%E7%9A%84%E8%AF%81%E6%8D%AE%E5%92%8C%E6%97%B6%E9%97%B4%E8%A1%A8%E4%BA%A7%E7%94%9F%E4%BA%89%E6%89%A7-16306b83)|
