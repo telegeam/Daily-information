@@ -2,6 +2,38 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-05 05:09:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[之前发帖以为自己在疯马秀现场看到angelababy的素人博主也回应了，说看错了，没在内场看到angelababy本人……](https://dig.chouti.com/link/40191485)|
+|2023-10-05 02:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[拜登暗示有办法绕过国会对乌提供更多援助，拟发表重要讲话](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20231005-%E6%8B%9C%E7%99%BB%E6%9A%97%E7%A4%BA%E6%9C%89%E5%8A%9E%E6%B3%95%E7%BB%95%E8%BF%87%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%B9%8C%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A4%9A%E6%8F%B4%E5%8A%A9%EF%BC%8C%E6%8B%9F%E5%8F%91%E8%A1%A8%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D)|
+|2023-10-05 01:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[泽连斯基：乌克兰人正竭力使这场战争成为欧洲和世界的最后一场战争](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20231005-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA-%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BA%BA%E6%AD%A3%E7%AB%AD%E5%8A%9B%E4%BD%BF%E8%BF%99%E5%9C%BA%E6%88%98%E4%BA%89%E6%88%90%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%92%8C%E4%B8%96%E7%95%8C%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E6%88%98%E4%BA%89)|
+|2023-10-05 01:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[美商务部长：华为芯片表明需要不同的工具及更多执法资源](https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20231005-%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF-%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87%E8%A1%A8%E6%98%8E%E9%9C%80%E8%A6%81%E4%B8%8D%E5%90%8C%E7%9A%84%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%9B%B4%E5%A4%9A%E6%89%A7%E6%B3%95%E8%B5%84%E6%BA%90)|
+|2023-10-05 00:45:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[麦卡锡议长下台后，白宫希望给乌克兰提供240亿美元的后继支持不知能否实现 - 法国世界报](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20231005-%E9%BA%A6%E5%8D%A1%E9%94%A1%E8%AE%AE%E9%95%BF%E4%B8%8B%E5%8F%B0%E5%90%8E%EF%BC%8C%E7%99%BD%E5%AE%AB%E5%B8%8C%E6%9C%9B%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B240%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%90%8E%E7%BB%A7%E6%94%AF%E6%8C%81%E4%B8%8D%E7%9F%A5%E8%83%BD%E5%90%A6%E5%AE%9E%E7%8E%B0)|
+|2023-10-05 00:45:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[基督山城堡 大仲马替自己设计的人间天堂 - 文化遗产](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7/20231005-%E5%9F%BA%E7%9D%A3%E5%B1%B1%E5%9F%8E%E5%A0%A1-%E5%A4%A7%E4%BB%B2%E9%A9%AC%E6%9B%BF%E8%87%AA%E5%B7%B1%E8%AE%BE%E8%AE%A1%E7%9A%84%E4%BA%BA%E9%97%B4%E5%A4%A9%E5%A0%82)|
+|2023-10-05 00:45:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[王毅据报预计本月晚些时候访问华盛顿](https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20231004-%E7%8E%8B%E6%AF%85%E6%8D%AE%E6%8A%A5%E9%A2%84%E8%AE%A1%E6%9C%AC%E6%9C%88%E6%99%9A%E4%BA%9B%E6%97%B6%E5%80%99%E8%AE%BF%E9%97%AE%E5%8D%8E%E7%9B%9B%E9%A1%BF)|
+|2023-10-05 00:45:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[日本希望在世贸组织框架内解决中日排海纠纷的水产品问题](https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20231005-%E6%97%A5%E6%9C%AC%E5%B8%8C%E6%9C%9B%E5%9C%A8%E4%B8%96%E8%B4%B8%E7%BB%84%E7%BB%87%E6%A1%86%E6%9E%B6%E5%86%85%E8%A7%A3%E5%86%B3%E4%B8%AD%E6%97%A5%E6%8E%92%E6%B5%B7%E7%BA%A0%E7%BA%B7)|
+|2023-10-05 05:40:07|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[最智能的一届亚运会，谁吃到了红利？](https://www.tmtpost.com/6731475.html)|
+|2023-10-05 05:38:18|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[OpenAI风光不再，曾经的强者活成了“陪衬”](https://www.tmtpost.com/6731472.html)|
+|2023-10-05 05:55:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有什么开源自建的 WebVPN？](https://www.v2ex.com/t/979011#reply4)|
+|2023-10-05 04:28:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[寻找一款流量卡，一个月 100G 左右就行。](https://www.v2ex.com/t/978997#reply7)|
+|2023-10-05 01:37:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971#reply40)|
+|2023-10-05 03:28:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Postgres 中的 upsert 方法为什么在冲突 DO NOTHING 的话就不返回 row?](https://www.v2ex.com/t/978985#reply7)|
+|2023-10-05 02:29:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976#reply19)|
+|2023-10-05 06:16:28|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[寻找梦想中的小平层----国庆广州看楼记](http://xueqiu.com/8164125924/262464036)|
+|2023-10-05 03:06:29|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[BAE系统公司赢得39.5亿英镑核潜艇合同 开始SSN-AUKUS子项目工作](https://m.cnbeta.com.tw/view/1388143.htm)|
+|2023-10-05 03:06:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Joby正在试飞其带有飞行员的eVTOL空中出租车](https://m.cnbeta.com.tw/view/1388141.htm)|
+|2023-10-05 03:06:04|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[黑莓分拆物联网和网络安全业务 计划IPO](https://m.cnbeta.com.tw/view/1388139.htm)|
+|2023-10-05 03:05:52|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[台湾监管机构将广泛调查四家公司协助华为建芯片厂一事](https://m.cnbeta.com.tw/view/1388137.htm)|
+|2023-10-05 03:05:41|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果首次开卖USB-A转USB-C数据线 售价168元](https://m.cnbeta.com.tw/view/1388135.htm)|
+|2023-10-05 03:05:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[斯堪的纳维亚航空公司（SAS）在达成重组协议后股价下跌95%](https://m.cnbeta.com.tw/view/1388131.htm)|
+|2023-10-05 02:37:06|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[谷歌Pixel Buds Pro耳机发布：支持蓝牙超宽带技术、31小时续航](https://m.cnbeta.com.tw/view/1388123.htm)|
+|2023-10-05 02:36:50|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[何同学分享生活小窍门：夜里躺床上玩手机 打开闪光灯对眼好很多](https://m.cnbeta.com.tw/view/1388119.htm)|
+|2023-10-05 02:36:38|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[谷歌Pixel 8/Pixel 8 Pro高清上手图赏](https://m.cnbeta.com.tw/view/1388117.htm)|
+|2023-10-05 02:36:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[一英国车主称他被名爵电动车“绑架”：时速48km/h 刹车失灵](https://m.cnbeta.com.tw/view/1388115.htm)|
+|2023-10-05 02:36:08|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Google Assistant集成生成式AI技术 几个月内将向公众推出](https://m.cnbeta.com.tw/view/1388111.htm)|
+|2023-10-05 02:35:57|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[第三方数据显示：自马斯克收购以来X的美国广告收入每月至少下降55%](https://m.cnbeta.com.tw/view/1388109.htm)|
+|2023-10-05 02:35:42|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iPhone 15系列被曝大音量下外放出现破音状况](https://m.cnbeta.com.tw/view/1388103.htm)|
+|2023-10-05 02:35:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美媒：比亚迪如何成为特斯拉最大威胁？](https://m.cnbeta.com.tw/view/1388101.htm)|
+|2023-10-05 05:56:33|[V2EX](https://v2ex.com/index.xml)|[ 奇思妙想 星际旅行有什么意义？](https://www.v2ex.com/t/979012#reply1)|
+|2023-10-05 03:01:00|[泠泫凝的异次元空间](https://lxnchan.cn/atom.xml)|[Windows 搭建 iSCSI 服务器全攻略](https://lxnchan.cn/windows-server-iscsi-full.html)|
 |2023-10-05 04:58:06|[V2EX](https://v2ex.com/index.xml)|[ 程序员 有没有买过“悟空科技数码”软路由的朋友？](https://www.v2ex.com/t/979004#reply1)|
 |2023-10-05 04:53:54|[V2EX](https://v2ex.com/index.xml)|[ HomeKit Aqara 这种智能家居是否存在隐私隐患？](https://www.v2ex.com/t/979003#reply1)|
 |2023-10-05 04:46:52|[V2EX](https://v2ex.com/index.xml)|[ 职场话题 35 了 没啥方向](https://www.v2ex.com/t/979001#reply0)|
