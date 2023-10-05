@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-05 08:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[在杭州，领略亚洲风采｜9 月 25 日](https://www.photoworld.com.cn/post/174604)|
+|2023-10-05 07:39:57|[小众软件](https://plink.anyfeeder.com/appinn)|[在 Web 浏览器中运行的虚拟机：VirtualXP](https://www.appinn.com/virtualxp/)|
+|2023-10-05 05:55:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有什么开源自建的 WebVPN？](https://www.v2ex.com/t/979011#reply20)|
+|2023-10-05 07:04:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[微软拼音又开始折磨用户了](https://www.v2ex.com/t/979025#reply11)|
+|2023-10-05 07:05:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于'高可用'的问题](https://www.v2ex.com/t/979027#reply13)|
+|2023-10-05 09:02:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用 VS Code 管理服务器，我有独特的服务器管理方式](https://www.v2ex.com/t/979052#reply0)|
+|2023-10-05 02:29:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976#reply27)|
+|2023-10-05 04:28:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[寻找一款流量卡，一个月 100G 左右就行。](https://www.v2ex.com/t/978997#reply19)|
+|2023-10-05 08:54:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我发现大多数第三方 Android ROM 默认没有启用 ZRAM](https://www.v2ex.com/t/979049#reply0)|
+|2023-10-05 07:02:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[推荐成品移动固态硬盘？](https://www.v2ex.com/t/979024#reply4)|
+|2023-10-05 08:05:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Windows 11 世纪级更新，可以直接打开 RAR 7z TAR.GZIP XZ 等压缩文件](https://www.v2ex.com/t/979042#reply6)|
+|2023-10-05 07:31:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想买一台游戏本，有没有懂的老哥推荐下](https://www.v2ex.com/t/979033#reply2)|
+|2023-10-05 08:34:47|[36氪](https://plink.anyfeeder.com/36kr)|[LongChina独家 小米汽车将研发增程式电动车，产品已有规划](https://36kr.com/p/2459373079926914?f=rss)|
+|2023-10-05 08:15:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[朱立伦透露蓝白两党密集连系盼仿西方组政治联盟](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20231005-%E6%9C%B1%E7%AB%8B%E4%BC%A6%E9%80%8F%E9%9C%B2%E8%93%9D%E7%99%BD%E4%B8%A4%E5%85%9A%E5%AF%86%E9%9B%86%E8%BF%9E%E7%B3%BB%E7%9B%BC%E4%BB%BF%E8%A5%BF%E6%96%B9%E7%BB%84%E6%94%BF%E6%B2%BB%E8%81%94%E7%9B%9F)|
+|2023-10-05 01:15:01|[极客公园](https://plink.anyfeeder.com/geekpark)|[Google 新手机发布会：Android 14，「买手机，送 AI」](http://www.geekpark.net/news/325619)|
 |2023-10-05 14:45:36|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[班迪录屏- Bandicam v7学习版](https://masuit.com/1394)|
 |2023-10-05 06:35:41|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[诺贝尔化学奖获奖名单竟提前4小时泄露 官方回应：非常不幸](https://m.cnbeta.com.tw/view/1388149.htm)|
 |2023-10-05 06:35:29|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克讽刺扎克伯格的社交平台人气下降：“反指王克莱默又说中了”](https://m.cnbeta.com.tw/view/1388147.htm)|
