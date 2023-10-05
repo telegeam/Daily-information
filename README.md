@@ -2,6 +2,38 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-05 08:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[亚马逊和微软云服务面临英国的反垄断调查](https://cn.wsj.com/amp/articles/%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%92%8C%E5%BE%AE%E8%BD%AF%E4%BA%91%E6%9C%8D%E5%8A%A1%E9%9D%A2%E4%B8%B4%E8%8B%B1%E5%9B%BD%E7%9A%84%E5%8F%8D%E5%9E%84%E6%96%AD%E8%B0%83%E6%9F%A5-a686e03)|
+|2023-10-05 07:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[打压之下，中国的女权主义指向日常](https://cn.wsj.com/amp/articles/%E6%89%93%E5%8E%8B%E4%B9%8B%E4%B8%8B-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89%E6%8C%87%E5%90%91%E6%97%A5%E5%B8%B8-c5edbdc5)|
+|2023-10-05 07:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国比亚迪如何成长为特斯拉最大的威胁？](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%A6%82%E4%BD%95%E6%88%90%E9%95%BF%E4%B8%BA%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A8%81%E8%83%81-34743ec1)|
+|2023-10-05 07:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美国“断资”恐威胁乌克兰经济稳定](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD-%E6%96%AD%E8%B5%84-%E6%81%90%E5%A8%81%E8%83%81%E4%B9%8C%E5%85%8B%E5%85%B0%E7%BB%8F%E6%B5%8E%E7%A8%B3%E5%AE%9A-12f4be8e)|
+|2023-10-05 06:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[“去美元化”呼声虽高，但美元依赖仍难戒除](https://cn.wsj.com/amp/articles/%E5%8E%BB%E7%BE%8E%E5%85%83%E5%8C%96-%E5%91%BC%E5%A3%B0%E8%99%BD%E9%AB%98-%E4%BD%86%E7%BE%8E%E5%85%83%E4%BE%9D%E8%B5%96%E4%BB%8D%E9%9A%BE%E6%88%92%E9%99%A4-8fdbcb9)|
+|2023-10-05 03:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国曾承诺不再新建海外煤电厂，习近平是否守信？](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E6%9B%BE%E6%89%BF%E8%AF%BA%E4%B8%8D%E5%86%8D%E6%96%B0%E5%BB%BA%E6%B5%B7%E5%A4%96%E7%85%A4%E7%94%B5%E5%8E%82-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%AF%E5%90%A6%E5%AE%88%E4%BF%A1-cc0ad2f1)|
+|2023-10-05 02:29:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976#reply32)|
+|2023-10-05 08:05:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Windows 11 世纪级更新，可以直接打开 RAR 7z TAR.GZIP XZ 等压缩文件](https://www.v2ex.com/t/979042#reply18)|
+|2023-10-05 04:28:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[寻找一款流量卡，一个月 100G 左右就行。](https://www.v2ex.com/t/978997#reply22)|
+|2023-10-05 01:37:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971#reply52)|
+|2023-10-05 07:05:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于'高可用'的问题](https://www.v2ex.com/t/979027#reply16)|
+|2023-10-05 05:55:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有什么开源自建的 WebVPN？](https://www.v2ex.com/t/979011#reply24)|
+|2023-10-05 08:54:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我发现大多数第三方 Android ROM 默认没有启用 ZRAM](https://www.v2ex.com/t/979049#reply7)|
+|2023-10-05 10:00:00|[机核](https://www.gcores.com/rss)|[当你拥有一台ROG掌机——快来救我篇](https://www.gcores.com/videos/171748)|
+|2023-10-05 09:00:00|[机核](https://www.gcores.com/rss)|[西爸爸讲故事（之一），录音笔 Vol.49](https://www.gcores.com/radios/171803)|
+|2023-10-05 09:57:52|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[公园“躲猫猫”和City drink爆红：社交游戏的魔力](https://www.tmtpost.com/6731589.html)|
+|2023-10-05 09:57:17|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[AI创业 “赢家通吃”法则消失了？或许你能干个翻身仗](https://www.tmtpost.com/6731585.html)|
+|2023-10-05 09:55:45|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[暴增500亿身价，36岁游戏巨头创始人突然宣布退出](https://www.tmtpost.com/6731573.html)|
+|2023-10-05 08:55:58|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[罗永浩又欠15亿，“真还传”迎来续集](https://www.tmtpost.com/6731542.html)|
+|2023-10-05 08:26:26|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[诺奖“新宠”量子点有望大幅提高光伏电池效率](https://www.tmtpost.com/6731524.html)|
+|2023-10-05 06:36:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[年轻人开始流行抱树：无厘头却有意义](https://www.tmtpost.com/6731490.html)|
+|2023-10-05 06:35:25|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“挂羊头卖鸭肉”，多家餐饮陷售假风波：你吃到的羊肉卷，每一口都不保真](https://www.tmtpost.com/6731481.html)|
+|2023-10-05 09:00:28|[爱范儿](https://www.ifanr.com/feed)|[Pixel 8 系列正式发布！这才是 Google 的 AI 杀手锏](https://www.ifanr.com/1563849?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-05 09:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[泽连斯基抵达西班牙广泛会见欧洲领导人](https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20231005-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8A%B5%E8%BE%BE%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B9%BF%E6%B3%9B%E4%BC%9A%E8%A7%81%E6%AC%A7%E6%B4%B2%E9%A2%86%E5%AF%BC%E4%BA%BA)|
+|2023-10-05 08:45:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[欧洲50国在西班牙开峰会 乌战和其他军事冲突阴云笼罩](https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20231005-%E6%AC%A7%E6%B4%B250%E5%9B%BD%E5%9C%A8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BC%80%E5%B3%B0%E4%BC%9A-%E4%B9%8C%E6%88%98%E5%92%8C%E5%85%B6%E4%BB%96%E5%86%9B%E4%BA%8B%E5%86%B2%E7%AA%81%E9%98%B4%E4%BA%91%E7%AC%BC%E7%BD%A9)|
+|2023-10-05 03:02:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为什么喜剧演员只能好笑一阵子，很难好笑一辈子？](https://dig.chouti.com/link/40190436)|
+|2023-10-05 03:11:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[给吴京开的什么美颜](https://dig.chouti.com/link/40190545)|
+|2023-10-05 02:11:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[穿着Prada上月球……Prada宣布将与商业航天企业AXIOM太空合作，为NASA重返月球的阿尔忒弥3号任务设计登月宇航服](https://dig.chouti.com/link/40190032)|
+|2023-10-05 02:11:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[10月2日凌晨，正在黄岩岛海域挑衅的一艘菲律宾渔船遭到撞击，导致船上三人死亡，据报道肇事船只可能是在马绍尔群岛注册的韩国长锦商船11万吨级油轮“太平洋安娜”号。](https://dig.chouti.com/link/40190020)|
+|2023-10-05 03:32:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[消息称苹果考虑将隐私模式默认搜索引擎从谷歌换为DuckDuckGo](https://dig.chouti.com/link/40190642)|
+|2023-10-05 02:11:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[法国艺术家Leo Forest创作的猫猫抓狂画，动态捕捉十分到位，潦草却还带着精致，厮打场面充满氛围感](https://dig.chouti.com/link/40190038)|
+|2023-10-05 04:02:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【迷笛音乐节部分盗窃者被拘，一网友发不实信息被釆取强制措施】据迷笛音乐节官方微博消息，因网民陈某（已被抓获）违规发布“活动已结束要清理现场”的不实信息，引发附近村民趁乱下手，出现多起露营区财物被盗的案件。](https://dig.chouti.com/link/40190959)|
 |2023-10-05 08:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[在杭州，领略亚洲风采｜9 月 25 日](https://www.photoworld.com.cn/post/174604)|
 |2023-10-05 07:39:57|[小众软件](https://plink.anyfeeder.com/appinn)|[在 Web 浏览器中运行的虚拟机：VirtualXP](https://www.appinn.com/virtualxp/)|
 |2023-10-05 05:55:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有什么开源自建的 WebVPN？](https://www.v2ex.com/t/979011#reply20)|
