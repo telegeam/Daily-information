@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-05 05:09:46|[机核](https://plink.anyfeeder.com/gcores)|[绘画记录丨聲效模因防禦科.异常物品M-00831 “灵溺蓝调”](https://www.gcores.com/videos/171801)|
+|2023-10-05 04:41:12|[机核](https://plink.anyfeeder.com/gcores)|[科幻题材冒险游戏《多重人生》游戏内影像预告片](https://www.gcores.com/articles/171800)|
+|2023-10-05 02:13:36|[36氪](https://plink.anyfeeder.com/36kr)|[易事特：公司更多将自产钠离子电池应用于UPS、EPS、数据中心；商务部回应欧盟对中国电动车反补贴调查：主观臆断，严重损害中方权利｜36氪新能源日报1004](https://36kr.com/p/2460872870189193?f=rss)|
+|2023-10-05 07:06:26|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 安卓微信聊天记录备份到 PC 上不完整，有什么办法可以完整的备份聊天记录的方法吗？](https://www.v2ex.com/t/979028#reply0)|
+|2023-10-05 07:05:17|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 关于'高可用'的问题](https://www.v2ex.com/t/979027#reply2)|
+|2023-10-05 07:04:20|[V2EX](http://www.v2ex.com/index.xml)|[ Windows 微软拼音又开始折磨用户了](https://www.v2ex.com/t/979025#reply0)|
+|2023-10-05 07:02:50|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 推荐成品移动固态硬盘？](https://www.v2ex.com/t/979024#reply3)|
+|2023-10-05 06:55:33|[V2EX](http://www.v2ex.com/index.xml)|[ macOS macOS Sonoma 14.0 唤醒后 crash，求助](https://www.v2ex.com/t/979023#reply1)|
+|2023-10-05 06:49:13|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 关于 Stash iOS 版的自签证书导入，有什么特别的注意事项吗？](https://www.v2ex.com/t/979020#reply0)|
+|2023-10-05 06:36:01|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 来芬兰读 CS 硕一个半月，我的感想和观察](https://www.v2ex.com/t/979019#reply2)|
+|2023-10-05 06:32:31|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 replit 使用 github 账户登录报错](https://www.v2ex.com/t/979018#reply0)|
+|2023-10-05 06:24:16|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 我很好奇，为啥 V2EX 被 q 了？今天才发现。没魔法打不开。。。。](https://www.v2ex.com/t/979016#reply2)|
+|2023-10-05 06:22:35|[V2EX](http://www.v2ex.com/index.xml)|[ 香港 livi Bank 申请后审核通知需要打电话确认](https://www.v2ex.com/t/979015#reply2)|
+|2023-10-05 06:22:04|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 写了个浏览器插件，设置及保存音视频平台播放音量。](https://www.v2ex.com/t/979014#reply0)|
+|2023-10-05 05:56:33|[V2EX](http://www.v2ex.com/index.xml)|[ 奇思妙想 星际旅行有什么意义？](https://www.v2ex.com/t/979012#reply6)|
+|2023-10-05 05:55:29|[V2EX](http://www.v2ex.com/index.xml)|[ NAS 有没有什么开源自建的 WebVPN？](https://www.v2ex.com/t/979011#reply12)|
+|2023-10-05 05:47:10|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 强烈建议 15pro 系列更新到 ios 17.0.3/17.1beta2](https://www.v2ex.com/t/979010#reply4)|
+|2023-10-05 05:20:28|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro 16 寸 M1 mac 买带保的低配还是 不带保的高配？ 灰色有现货带保的但是容易掉漆 一直想看银色的](https://www.v2ex.com/t/979006#reply0)|
+|2023-10-05 04:58:06|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 有没有买过“悟空科技数码”软路由的朋友？](https://www.v2ex.com/t/979004#reply4)|
+|2023-10-05 04:53:54|[V2EX](http://www.v2ex.com/index.xml)|[ HomeKit Aqara 这种智能家居是否存在隐私隐患？](https://www.v2ex.com/t/979003#reply17)|
+|2023-10-05 04:46:52|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 35 了 没啥方向](https://www.v2ex.com/t/979001#reply6)|
 |2023-10-05 05:09:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[之前发帖以为自己在疯马秀现场看到angelababy的素人博主也回应了，说看错了，没在内场看到angelababy本人……](https://dig.chouti.com/link/40191485)|
 |2023-10-05 02:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[拜登暗示有办法绕过国会对乌提供更多援助，拟发表重要讲话](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20231005-%E6%8B%9C%E7%99%BB%E6%9A%97%E7%A4%BA%E6%9C%89%E5%8A%9E%E6%B3%95%E7%BB%95%E8%BF%87%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%B9%8C%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A4%9A%E6%8F%B4%E5%8A%A9%EF%BC%8C%E6%8B%9F%E5%8F%91%E8%A1%A8%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D)|
 |2023-10-05 01:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[泽连斯基：乌克兰人正竭力使这场战争成为欧洲和世界的最后一场战争](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20231005-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA-%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BA%BA%E6%AD%A3%E7%AB%AD%E5%8A%9B%E4%BD%BF%E8%BF%99%E5%9C%BA%E6%88%98%E4%BA%89%E6%88%90%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%92%8C%E4%B8%96%E7%95%8C%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E6%88%98%E4%BA%89)|
