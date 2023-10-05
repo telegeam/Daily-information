@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-10-04）
+﻿# 每日资讯（2023-10-05）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-05 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[East Bay Regional Park Trails Challenge 2023](https://leimao.github.io/essay/East-Bay-Regional-Park-Trails-Challenge-2023/)|
 |2023-10-04 09:00:00|[机核](https://plink.anyfeeder.com/gcores)|[小弹珠，滴溜溜的转，录音笔 Vol.48](https://www.gcores.com/radios/171769)|
 |2023-10-04 08:30:00|[机核](https://plink.anyfeeder.com/gcores)|[摄影分享丨偷窥的虚假的日子](https://www.gcores.com/articles/171731)|
 |2023-10-04 08:13:04|[机核](https://plink.anyfeeder.com/gcores)|[试试《污痕圣杯》：有种很熟悉但又很新鲜的感觉](https://www.gcores.com/videos/171766)|
