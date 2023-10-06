@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-06 08:24:54|[小众软件](https://www.appinn.com/feed/)|[请 Calibre 不要翻译我的文件路径](https://www.appinn.com/calibre-do-not-translate-my-file-paths/)|
+|2023-10-06 06:59:49|[小众软件](https://www.appinn.com/feed/)|[14 年前的贴吧 5 层加密表白事件，前两天又被人以另外一种方式翻了出来…](https://www.appinn.com/2009-tieba-love-too/)|
+|2023-10-06 09:08:53|[V2EX](https://v2ex.com/index.xml)|[ 问与答 土耳其 Netflix 显示网飞错误 M7111-5095](https://www.v2ex.com/t/979238#reply0)|
+|2023-10-06 08:39:28|[V2EX](https://v2ex.com/index.xml)|[ 问与答 各位的 macOS 的 Safari 浏览器有这个问题吗？](https://www.v2ex.com/t/979234#reply0)|
+|2023-10-06 08:37:15|[V2EX](https://v2ex.com/index.xml)|[ iPhone 关于 iPhone 15 Pro 背部边框不平齐的问题](https://www.v2ex.com/t/979233#reply2)|
+|2023-10-06 08:36:02|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 数据科学家招聘，上海世纪大道](https://www.v2ex.com/t/979232#reply0)|
+|2023-10-06 08:36:00|[V2EX](https://v2ex.com/index.xml)|[ 问与答 如何解决微信屏蔽文件对方看不到的问题？](https://www.v2ex.com/t/979231#reply1)|
+|2023-10-06 08:35:44|[V2EX](https://v2ex.com/index.xml)|[ 程序员 想问下大家目前 游戏开发 前景怎么样](https://www.v2ex.com/t/979230#reply0)|
+|2023-10-06 08:30:31|[V2EX](https://v2ex.com/index.xml)|[ 问与答 火狐浏览器放大页面后，滑动卡顿，这个有办法解决吗？](https://www.v2ex.com/t/979229#reply0)|
+|2023-10-06 08:26:46|[V2EX](https://v2ex.com/index.xml)|[ 优惠信息 香港 Hahasim， 88/张 顺丰包邮，每年保号 10 港币，无月租](https://www.v2ex.com/t/979228#reply0)|
+|2023-10-06 08:15:39|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没有可以平替 iPad mini 的安卓平板](https://www.v2ex.com/t/979227#reply6)|
+|2023-10-06 08:09:17|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 Oneinstack 国内下载源也被挂马](https://www.v2ex.com/t/979226#reply5)|
+|2023-10-06 07:08:37|[触乐](http://www.chuapp.com/feed)|[触乐对谈：当我们重新审视二次元的文化特质](http://www.chuapp.com/article/289555.html)|
 |2023-10-06 08:09:17|[V2EX](http://www.v2ex.com/index.xml)|[ 科技 Oneinstack 国内下载源也被挂马](https://www.v2ex.com/t/979226#reply0)|
 |2023-10-06 08:07:55|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 苹果芯片团队人才流失是什么故事？](https://www.v2ex.com/t/979225#reply0)|
 |2023-10-06 08:06:39|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 QV1K i9-119X0K ES 和 i9-11900K 正式版实际性能差距多少？](https://www.v2ex.com/t/979224#reply0)|
