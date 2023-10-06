@@ -1,7 +1,10 @@
-﻿# 每日资讯（2023-10-05）
+﻿# 每日资讯（2023-10-06）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-06 00:24:18|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 整了个新活，一个安卓 Socks5 服务端 app](https://www.v2ex.com/t/979145#reply0)|
+|2023-10-06 00:22:47|[V2EX](https://www.v2ex.com/index.xml)|[ Python Python 怎么解压带密码的 tar 呢？](https://www.v2ex.com/t/979144#reply1)|
+|2023-10-06 00:11:31|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 田春冰河博士毕业入职澳国立 12 万左右澳元一年](https://www.v2ex.com/t/979141#reply4)|
 |2023-10-05 08:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[亚马逊和微软云服务面临英国的反垄断调查](https://cn.wsj.com/amp/articles/%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%92%8C%E5%BE%AE%E8%BD%AF%E4%BA%91%E6%9C%8D%E5%8A%A1%E9%9D%A2%E4%B8%B4%E8%8B%B1%E5%9B%BD%E7%9A%84%E5%8F%8D%E5%9E%84%E6%96%AD%E8%B0%83%E6%9F%A5-a686e03)|
 |2023-10-05 07:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[打压之下，中国的女权主义指向日常](https://cn.wsj.com/amp/articles/%E6%89%93%E5%8E%8B%E4%B9%8B%E4%B8%8B-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89%E6%8C%87%E5%90%91%E6%97%A5%E5%B8%B8-c5edbdc5)|
 |2023-10-05 07:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国比亚迪如何成长为特斯拉最大的威胁？](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%A6%82%E4%BD%95%E6%88%90%E9%95%BF%E4%B8%BA%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A8%81%E8%83%81-34743ec1)|
