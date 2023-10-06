@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-06 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：卡地亚推出全新 Tank Cintrée 腕表、APEE 2023 秋冬系列发售](http://www.toodaylab.com/82276)|
 |2023-10-06 00:24:18|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 整了个新活，一个安卓 Socks5 服务端 app](https://www.v2ex.com/t/979145#reply0)|
 |2023-10-06 00:22:47|[V2EX](https://www.v2ex.com/index.xml)|[ Python Python 怎么解压带密码的 tar 呢？](https://www.v2ex.com/t/979144#reply1)|
 |2023-10-06 00:11:31|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 田春冰河博士毕业入职澳国立 12 万左右澳元一年](https://www.v2ex.com/t/979141#reply4)|
