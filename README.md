@@ -2,6 +2,18 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-06 03:57:00|[Hybert's blog](https://wanghuibin0.github.io/index.xml)|[学习新技能的tips](https://wanghuibin0.github.io/posts/2023/10/learning-skills/)|
+|2023-10-06 04:00:00|[机核](https://www.gcores.com/rss)|[门阶拾遗丨于阿克罗诸色闪耀之时](https://www.gcores.com/articles/171813)|
+|2023-10-06 04:55:40|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[英特尔国庆不停歇：爱尔兰工厂量产5nm芯片、拟分拆FPGA业务IPO上市｜硅基世界](https://www.tmtpost.com/6729787.html)|
+|2023-10-06 04:47:05|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[ChatGPT遭“卡脖子”，传OpenAI计划自研 AI 芯片挑战英伟达｜硅基世界](https://www.tmtpost.com/6730984.html)|
+|2023-10-06 03:30:18|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[动力电池“出海”的机会与隐忧｜钛度车库](https://www.tmtpost.com/6731361.html)|
+|2023-10-06 01:51:14|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[ByteDance Valuation Said to Shrink by 26% amid Sales Slowdown](https://www.tmtpost.com/6731829.html)|
+|2023-10-06 01:37:15|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[US Commerce Secretary Tells Senators Huawei Chip Reports are "Incredibly Disturbing"](https://www.tmtpost.com/6731819.html)|
+|2023-10-06 01:10:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[一小时爆卖3万只，卖空上百吨，它在今年火出圈](https://www.tmtpost.com/6731683.html)|
+|2023-10-06 00:50:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[​一天接待38对新人，国庆婚宴市场赚“爆”了](https://www.tmtpost.com/6731627.html)|
+|2023-10-06 00:35:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[To C大模型，亏钱也得干](https://www.tmtpost.com/6731654.html)|
+|2023-10-06 00:40:28|[极客公园](https://plink.anyfeeder.com/geekpark)|[传小米汽车确定研发增程电动车；苹果或推新 14/16 寸 MacBook；诺贝尔文学奖揭晓，依旧不是村上春树｜极客早知道](http://www.geekpark.net/news/325620)|
+|2023-10-06 03:30:47|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[国庆打折活动今天结束！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653443309&idx=1&sn=0f5ff483cd7f50262d32b940a0cb957c)|
 |2023-10-06 11:29:09|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[WinRAR v6.24已注册中文正式版](https://masuit.com/1186)|
 |2023-10-06 04:12:29|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[买正版软件，上数码荔枝！](https://masuit.com/p36)|
 |2023-10-06 04:01:38|[V2EX](http://www.v2ex.com/index.xml)|[ Python Python 的 object 没有如期通过__del__释放资源怎么办?](https://www.v2ex.com/t/979178#reply0)|
