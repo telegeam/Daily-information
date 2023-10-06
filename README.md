@@ -2,6 +2,52 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-06 04:27:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[接受不能改變的，是一種能力](http://mercurychong.blogspot.com/2023/10/blog-post_5.html)|
+|2023-10-06 06:10:49|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 急！急！急！ 招远程产品经理 居家办公 居家办公 居家办公 ](https://www.v2ex.com/t/979202#reply0)|
+|2023-10-06 06:07:55|[V2EX](http://www.v2ex.com/index.xml)|[ macOS logi options+ 用 appcleaner 清理不干净怎么办？](https://www.v2ex.com/t/979201#reply1)|
+|2023-10-06 06:03:35|[V2EX](http://www.v2ex.com/index.xml)|[ Android 原生安卓怎么搞关键词短信拦截？](https://www.v2ex.com/t/979200#reply0)|
+|2023-10-06 05:57:54|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 真就没有一个信号好的手机吗？](https://www.v2ex.com/t/979199#reply4)|
+|2023-10-06 05:52:44|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 一个视频帮你打破对开发开源软件的幻想](https://www.v2ex.com/t/979198#reply0)|
+|2023-10-06 05:44:42|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 23 届专科（后端开发），没学历，没经验，还有机会吗?](https://www.v2ex.com/t/979197#reply0)|
+|2023-10-06 05:42:20|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 想做一款 RSS 阅读器提升体验，现在还有人用吗？](https://www.v2ex.com/t/979196#reply4)|
+|2023-10-06 05:35:26|[V2EX](http://www.v2ex.com/index.xml)|[ Apple Apple care + 体验很好](https://www.v2ex.com/t/979195#reply4)|
+|2023-10-06 05:34:24|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 妙控板真的好用吗？](https://www.v2ex.com/t/979194#reply3)|
+|2023-10-06 05:31:40|[V2EX](http://www.v2ex.com/index.xml)|[ 机械键盘 淦，买了才三年多的 filco 键盘竟然坏了。](https://www.v2ex.com/t/979193#reply6)|
+|2023-10-06 05:30:54|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 求问：现在成都电信星卡，但是送的流量是成都市内流量，想改成全国流量咋去给运营商拉扯](https://www.v2ex.com/t/979192#reply5)|
+|2023-10-06 05:30:16|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 软路由 ap 的一些问题](https://www.v2ex.com/t/979191#reply0)|
+|2023-10-06 05:22:56|[V2EX](http://www.v2ex.com/index.xml)|[ YouTube 美国家庭组 YOUTUBE PREMIUM 拼车](https://www.v2ex.com/t/979190#reply2)|
+|2023-10-06 05:19:19|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone iPhone 如何屏蔽某个电话号码](https://www.v2ex.com/t/979189#reply5)|
+|2023-10-06 05:09:25|[V2EX](http://www.v2ex.com/index.xml)|[ Netflix 巴铁区奈飞， 5 人车少 4 人，本地卡开的，季付 36rmb](https://www.v2ex.com/t/979188#reply0)|
+|2023-10-06 05:06:10|[V2EX](http://www.v2ex.com/index.xml)|[ Apple iPhone15 外接设备小技巧，当设备不识别时，串一个 typec HUB、扩展坞试试](https://www.v2ex.com/t/979187#reply2)|
+|2023-10-06 05:03:26|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 请问人们常说的数据库的 ACID 究竟是什么意思？](https://www.v2ex.com/t/979186#reply7)|
+|2023-10-06 05:01:49|[V2EX](http://www.v2ex.com/index.xml)|[ macOS 第一代妙控键盘在 Sonoma 电池小组件不显示电量](https://www.v2ex.com/t/979185#reply0)|
+|2023-10-06 04:40:21|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 婚恋机构可以查询公民的婚否情况么？讨论公民数据安全问题](https://www.v2ex.com/t/979184#reply5)|
+|2023-10-06 04:23:13|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 持续 ping WiFi IoT 设备能提高网络响应速度？](https://www.v2ex.com/t/979181#reply2)|
+|2023-10-06 04:01:38|[V2EX](http://www.v2ex.com/index.xml)|[ Python Python 的 object 没有如期通过__del__释放资源怎么办?](https://www.v2ex.com/t/979178#reply5)|
+|2023-10-06 04:37:16|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 Linux 游戏的下一个秘密武器：Bottles Next](https://linux.cn/article-16258-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-06 03:35:55|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美反垄断大案揭露科技巨头利益纠葛 谷歌是如何左右苹果的？](https://m.cnbeta.com.tw/view/1388327.htm)|
+|2023-10-06 03:35:41|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[巴菲特密友芒格捐赠77股伯克希尔股票 价值逾4000万美元](https://m.cnbeta.com.tw/view/1388325.htm)|
+|2023-10-06 03:35:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[开场要做“中国特斯拉”的游侠汽车 结局却成了“PPT造车始祖”](https://m.cnbeta.com.tw/view/1388323.htm)|
+|2023-10-06 03:07:02|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[韩国或对苹果和谷歌罚款680亿韩元](https://m.cnbeta.com.tw/view/1388317.htm)|
+|2023-10-06 03:06:50|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉在美国下调部分车辆价格 Model 3售价降至38990美元](https://m.cnbeta.com.tw/view/1388315.htm)|
+|2023-10-06 03:06:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克与前女友格莱姆斯争夺三个子女监护权](https://m.cnbeta.com.tw/view/1388313.htm)|
+|2023-10-06 03:06:19|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[三星称Exynos 2400比2200快70% 搭载基于RDNA3的Xclipse 940 GPU](https://m.cnbeta.com.tw/view/1388311.htm)|
+|2023-10-06 03:06:03|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[FTX员工曾发现客户钱包后门 但老板无视他们的警告](https://m.cnbeta.com.tw/view/1388309.htm)|
+|2023-10-06 03:05:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[OpenAI正在探索制造自己的人工智能芯片](https://m.cnbeta.com.tw/view/1388305.htm)|
+|2023-10-06 03:05:36|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[现代、起亚采用特斯拉充电标准后 大众汽车成为关注焦点](https://m.cnbeta.com.tw/view/1388303.htm)|
+|2023-10-06 03:05:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Twitter可能正根据广告量多少增加更多高级版付费套餐](https://m.cnbeta.com.tw/view/1388295.htm)|
+|2023-10-06 02:37:09|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国海军完成创纪录的191次三叉戟 II D5导弹飞行试验](https://m.cnbeta.com.tw/view/1388291.htm)|
+|2023-10-06 02:36:54|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[全新柯迪亚克官图发布 比途观更惊艳](https://m.cnbeta.com.tw/view/1388289.htm)|
+|2023-10-06 02:36:40|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[实测新iOS 17.0.3下iPhone 15 Pro发热：改善明显 性能还更优秀](https://m.cnbeta.com.tw/view/1388285.htm)|
+|2023-10-06 02:36:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[两年一跳槽：大众汽车空降硅谷印度裔高管](https://m.cnbeta.com.tw/view/1388283.htm)|
+|2023-10-06 02:36:09|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[日产汽车国内销量腰斩 神车轩逸也救不了](https://m.cnbeta.com.tw/view/1388281.htm)|
+|2023-10-06 02:35:52|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Google规定每日发送超过5000封邮件的用户必须在邮件中设置退订按钮](https://m.cnbeta.com.tw/view/1388279.htm)|
+|2023-10-06 02:35:41|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[人类肇事司机逃逸 无人车再陷风波](https://m.cnbeta.com.tw/view/1388277.htm)|
+|2023-10-06 02:35:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[时代的传奇 乔布斯去世12周年 库克发文：我们想念你](https://m.cnbeta.com.tw/view/1388275.htm)|
+|2023-10-06 05:11:06|[虎嗅](https://rss.huxiu.com/)|[国庆假期，年轻人迷上自定义主题游](https://www.huxiu.com/article/2140788.html?f=rss)|
+|2023-10-06 04:38:51|[虎嗅](https://rss.huxiu.com/)|[打工人的八天假，比上班还累](https://www.huxiu.com/article/2140758.html?f=rss)|
+|2023-10-06 04:30:08|[虎嗅](https://rss.huxiu.com/)|[无人车碾压路人，也挡不住加州力推自动驾驶](https://www.huxiu.com/article/2140787.html?f=rss)|
+|2023-10-06 03:00:00|[少数派](https://plink.anyfeeder.com/sspai)|[生活的平衡](https://sspai.com/post/82961)|
 |2023-10-06 03:57:00|[Hybert's blog](https://wanghuibin0.github.io/index.xml)|[学习新技能的tips](https://wanghuibin0.github.io/posts/2023/10/learning-skills/)|
 |2023-10-06 04:00:00|[机核](https://www.gcores.com/rss)|[门阶拾遗丨于阿克罗诸色闪耀之时](https://www.gcores.com/articles/171813)|
 |2023-10-06 04:55:40|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[英特尔国庆不停歇：爱尔兰工厂量产5nm芯片、拟分拆FPGA业务IPO上市｜硅基世界](https://www.tmtpost.com/6729787.html)|
