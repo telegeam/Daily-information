@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-06 02:16:54|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 招聘 Data Scientist, 全职/兼职，全国任意城市 base](https://www.v2ex.com/t/979155#reply0)|
+|2023-10-06 02:14:50|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 求一款远程控制的软件](https://www.v2ex.com/t/979154#reply2)|
+|2023-10-06 01:59:42|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 现在如果想注册一个.ai 的域名， 上哪里合适](https://www.v2ex.com/t/979152#reply1)|
+|2023-10-06 01:54:01|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 招聘职位： Java 架构师、高级 Java 开发工程师、H5 高级开发工程师、数据库开发优化工程师](https://www.v2ex.com/t/979151#reply0)|
+|2023-10-06 01:52:00|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 4. 用 Go 打造现代 IM 之单聊频道 ID 技巧](https://www.v2ex.com/t/979150#reply1)|
+|2023-10-06 01:42:06|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于笔记本外接屏幕时内置显示器黑屏一秒的问题](https://www.v2ex.com/t/979149#reply1)|
+|2023-10-06 01:41:04|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 你们的 win11 任务管理器有网卡速度项目么？](https://www.v2ex.com/t/979148#reply6)|
+|2023-10-06 01:06:41|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud 你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146#reply9)|
+|2023-10-06 00:24:18|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 整了个新活，一个安卓 Socks5 服务端 app](https://www.v2ex.com/t/979145#reply2)|
+|2023-10-06 00:22:47|[V2EX](https://www.v2ex.com/index.xml)|[ Python Python 怎么解压带密码的 tar 呢？](https://www.v2ex.com/t/979144#reply3)|
+|2023-10-06 00:11:31|[V2EX](https://www.v2ex.com/index.xml)|[ 业界八卦 田春冰河博士毕业入职澳国立 12 万左右澳元一年](https://www.v2ex.com/t/979141#reply18)|
 |2023-10-06 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：卡地亚推出全新 Tank Cintrée 腕表、APEE 2023 秋冬系列发售](http://www.toodaylab.com/82276)|
 |2023-10-06 00:24:18|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 整了个新活，一个安卓 Socks5 服务端 app](https://www.v2ex.com/t/979145#reply0)|
 |2023-10-06 00:22:47|[V2EX](https://www.v2ex.com/index.xml)|[ Python Python 怎么解压带密码的 tar 呢？](https://www.v2ex.com/t/979144#reply1)|
