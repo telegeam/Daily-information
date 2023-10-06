@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-06 05:51:38|[豆瓣最受欢迎的影评](https://plink.anyfeeder.com/douban/review/movie)|[无产悲剧的诞生 评论: 静态自杀 ](https://movie.douban.com/review/15487450/)|
+|2023-10-06 01:39:07|[豆瓣最受欢迎的影评](https://plink.anyfeeder.com/douban/review/movie)|[我们根本读不懂唇语！ 评论: 坚如磐石 ](https://movie.douban.com/review/15487063/)|
+|2023-10-06 07:00:00|[少数派](https://plink.anyfeeder.com/sspai)|[为了打字更爽，我学了一个追求极致性能的小众输入法](https://sspai.com/post/83376)|
+|2023-10-06 03:01:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[捐精后，大学生又在卷捐粪](https://dig.chouti.com/link/40198645)|
+|2023-10-06 03:01:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【腾讯视频推出“胆小模式”】当用户开启胆小模式后，系统将自动调整恐怖画面的亮度，同时降低音量，同时提供弹幕和特效护体功能，以保护用户在观看恐怖剧情时的感受。这](https://dig.chouti.com/link/40198595)|
+|2023-10-06 03:01:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[代码显示 X（推特）细分高级订阅，购买最高 Plus 版才能去广告](https://dig.chouti.com/link/40198627)|
+|2023-10-06 03:01:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[女子回应通过WiFi名跨城60公里找回手机：资料已被清空，不追究对方责任](https://dig.chouti.com/link/40198644)|
+|2023-10-06 03:09:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【后继无人的日本中小企业将家业托付“外人”】日本有很多企业经营者开始将多年来坚守并培育起来的家业交给第三者。越来越多的企业因为缺少接班人而倒闭。于是经营者宁愿将家业托付给他人，脱离家族继承，也不愿意让传统技术或技艺断绝。要顺利继承并使业务发展下去，委托人和受托人之间的信赖关系不可或缺。](https://dig.chouti.com/link/40198885)|
+|2023-10-06 03:33:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[普京：普里戈任失事飞机未受外部冲击，遇难者遗体内有手榴弹碎片](https://dig.chouti.com/link/40199010)|
 |2023-10-06 08:24:54|[小众软件](https://www.appinn.com/feed/)|[请 Calibre 不要翻译我的文件路径](https://www.appinn.com/calibre-do-not-translate-my-file-paths/)|
 |2023-10-06 06:59:49|[小众软件](https://www.appinn.com/feed/)|[14 年前的贴吧 5 层加密表白事件，前两天又被人以另外一种方式翻了出来…](https://www.appinn.com/2009-tieba-love-too/)|
 |2023-10-06 09:08:53|[V2EX](https://v2ex.com/index.xml)|[ 问与答 土耳其 Netflix 显示网飞错误 M7111-5095](https://www.v2ex.com/t/979238#reply0)|
