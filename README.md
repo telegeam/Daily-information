@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-07 01:54:32|[Mosu](https://www.mosuzi.com/atom.xml)|[再记法喜寺](https://mosuzi.com/docs/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/%E5%86%8D%E8%AE%B0%E6%B3%95%E5%96%9C%E5%AF%BA/)|
+|2023-10-07 02:12:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[节后上班第一天感受。](https://dig.chouti.com/link/40207329)|
+|2023-10-07 02:25:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[消息称微软计划10月13日以687亿美元收购动视暴雪](https://dig.chouti.com/link/40207407)|
+|2023-10-07 04:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一次历届最火的迷笛音乐节，和乐迷遭遇的65起盗窃案](https://dig.chouti.com/link/40208611)|
+|2023-10-07 03:22:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[正在经过泉州湾跨海大桥的高铁，时速350km的风驰电掣，看上去确实很香。](https://dig.chouti.com/link/40208094)|
+|2023-10-07 02:40:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【40多家车企没了，售后谁管？】除了修车难，智能汽车的车机更新、三包权益等，可能都将成为考验。](https://dig.chouti.com/link/40207492)|
+|2023-10-07 02:46:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[法拉第未来宣布向贾跃亭交付车辆 此前总交付量仅三辆](https://dig.chouti.com/link/40207495)|
+|2023-10-07 01:58:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[微软将于下个月推出其首款人工智能芯片 以减少对英伟达的依赖](https://dig.chouti.com/link/40206912)|
+|2023-10-07 02:43:29|[精品MAC应用分享](https://xclient.info/feed)|[PDF Squeezer 4.3.8 PDF压缩工具](https://xclient.info/s/pdf-squeezer.html)|
+|2023-10-07 03:43:01|[BBC](https://plink.anyfeeder.com/bbc/cn)|[曼谷枪击案、台湾大选看点、恒大港交所復牌和本周更多重要故事](https://www.bbc.com/zhongwen/simp/press-review-67015590)|
 |2023-10-07 03:27:13|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[SiegedSec 黑客组织袭击北约网络系统](https://www.freebuf.com/news/379755.html)|
 |2023-10-07 03:23:31|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[超微公司的 BMC 固件被发现存在多个高危漏洞](https://www.freebuf.com/news/379751.html)|
 |2023-10-07 02:35:27|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[美国华盛顿特区选民数据被盗，背后真相浮出水面！](https://www.freebuf.com/news/379742.html)|
