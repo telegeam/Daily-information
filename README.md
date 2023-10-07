@@ -2,6 +2,39 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-07 06:05:09|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[29岁回清华任教，诺奖得主的“中国弟子”开创量子点光谱技术新应用](https://www.tmtpost.com/6732255.html)|
+|2023-10-07 02:18:01|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[重庆长江北岸，慢慢消失的鱼嘴镇](http://www.huxiu.com/article/2141985.html?f=wangzhan)|
+|2023-10-07 05:32:46|[机核](https://www.gcores.com/rss)|[金光乍现！全新 Xbox 无线控制器「暗影鎏金」特别版 即将上市！](https://www.gcores.com/articles/171877)|
+|2023-10-07 05:14:31|[机核](https://www.gcores.com/rss)|[挑战画20张Synthwave插画，并且找到复古科幻的秘密](https://www.gcores.com/videos/171876)|
+|2023-10-07 04:53:22|[机核](https://www.gcores.com/rss)|[休闲乱斗游戏《橡胶大乱斗》发布免费试玩版](https://www.gcores.com/articles/171875)|
+|2023-10-07 04:45:00|[机核](https://www.gcores.com/rss)|[《Fate/Samurai Remnant》：无双改革的夹生饭](https://www.gcores.com/articles/171834)|
+|2023-10-07 04:01:51|[机核](https://www.gcores.com/rss)|[《行尸走肉：背叛》十月更新：价格下调、新功能和免费时装](https://www.gcores.com/articles/171870)|
+|2023-10-07 04:00:00|[机核](https://www.gcores.com/rss)|[竞技符号学：比赛胜负是怎么判定出来的？（2）](https://www.gcores.com/articles/171845)|
+|2023-10-07 03:49:33|[机核](https://www.gcores.com/rss)|[Crytek竞技FPS《猎杀：对决》推出1.14活动“腐化之潮”！全新剧情及炼狱环境上线！](https://www.gcores.com/articles/171869)|
+|2023-10-07 03:44:07|[机核](https://www.gcores.com/rss)|[老婆永生的《匹诺曹的谎言》究竟讲了一个什么故事](https://www.gcores.com/articles/171863)|
+|2023-10-07 03:34:34|[机核](https://www.gcores.com/rss)|[轻策略游戏《繁荣之初》和视觉小说游戏《如茵碧草—萋萋护路人》将于10月16日发售](https://www.gcores.com/articles/171867)|
+|2023-10-07 06:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[好莱坞世纪大罢工，中国特效师的漫长失业季](https://dig.chouti.com/link/40209717)|
+|2023-10-07 03:01:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【北大学者调研发现全职妈妈逐年增加，学历越高越难回归职场】与其探究目前类似广东“妈妈岗”一类政策能否解决困境，不如先回答为何女性会在求职中面临困境。](https://dig.chouti.com/link/40207506)|
+|2023-10-07 04:10:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据《每日邮报》报道，侃爷Kanye West给妻子 Bianca制定了一套规矩，其中包括她不能与外人说话，只能吃侃爷指定的食物、穿侃爷想让她穿的衣服。即使侃爷从不健身，Bianca也必须吃特定的食物并健身保持身材。一位知情人士透露Bianca已不再有自己的想法，只是服从侃爷，因为侃爷让她相信他们拥有“皇室”地位。](https://dig.chouti.com/link/40208602)|
+|2023-10-07 05:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从北京到武汉，一辆“电动爹”的国庆囧途](https://dig.chouti.com/link/40209147)|
+|2023-10-07 00:01:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[BBC 阻止 OpenAI 抓取数据，但对人工智能用于新闻持开放态度](https://dig.chouti.com/link/40206126)|
+|2023-10-07 00:02:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[老人“钟爱”女主播一年打赏超6万，家属无奈启用青少年模式](https://dig.chouti.com/link/40206206)|
+|2023-10-07 06:42:17|[虎嗅](https://plink.anyfeeder.com/huxiu)|[梅西，成了苹果最热的产品](https://www.huxiu.com/article/2144846.html?f=rss)|
+|2023-10-07 06:37:51|[虎嗅](https://plink.anyfeeder.com/huxiu)|[反垄断大案揭露科技巨头利益纠葛，谷歌如何左右苹果？](https://www.huxiu.com/article/2141959.html?f=rss)|
+|2023-10-07 06:37:36|[虎嗅](https://plink.anyfeeder.com/huxiu)|[美国休斯敦，尝试用大自然来对抗洪水](https://www.huxiu.com/article/2144799.html?f=rss)|
+|2023-10-07 06:33:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[企业为什么要给财报“美颜”？](https://www.huxiu.com/article/2144214.html?f=rss)|
+|2023-10-07 06:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[上班第一天，我想回到假期之初](https://www.huxiu.com/article/2145034.html?f=rss)|
+|2023-10-07 06:28:21|[虎嗅](https://plink.anyfeeder.com/huxiu)|[从建筑设计院跑路的年轻人：我得了房地产PTSD](https://www.huxiu.com/article/2144466.html?f=rss)|
+|2023-10-07 06:18:44|[虎嗅](https://plink.anyfeeder.com/huxiu)|[印度产的iPhone，连手机背壳都做不好？](https://www.huxiu.com/article/2142471.html?f=rss)|
+|2023-10-07 06:17:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[OpenAI造芯计划曝光，要摆脱对英伟达的过度依赖](https://www.huxiu.com/article/2144848.html?f=rss)|
+|2023-10-07 06:04:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[iPhone 15 Pro性能提升不大，功耗表现反而退步？](https://www.huxiu.com/article/2144485.html?f=rss)|
+|2023-10-07 03:31:17|[豆瓣最受欢迎的影评](https://plink.anyfeeder.com/douban/review/movie)|[《蒼鷺與少年》IMAX：夢境與現實的遙相呼應，人生道路的自我追尋 评论: 你想活出怎样的人生 ](https://movie.douban.com/review/15489131/)|
+|2023-10-07 05:33:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[领导让我在路由器上安装一个程序用于监控所有通过该网络发出的 http, https 请求, 请问应该怎么实现, 有什么类似功能的开源软件吗](https://www.v2ex.com/t/979479#reply20)|
+|2023-10-07 05:59:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[app 下架倒计时。](https://www.v2ex.com/t/979490#reply24)|
+|2023-10-07 02:14:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Google 真是臉都不要了](https://www.v2ex.com/t/979388#reply149)|
+|2023-10-07 01:32:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[武汉还是杭州？](https://www.v2ex.com/t/979358#reply80)|
+|2023-10-07 06:45:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[改变 axios 的用法后，我的工作效率提升了 3 倍](https://www.v2ex.com/t/979513#reply2)|
+|2023-10-07 03:47:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求推荐可以按量计费的梯子](https://www.v2ex.com/t/979445#reply35)|
 |2023-10-07 03:06:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[研究发现特朗普违反规范的推文削弱了支持者对其政治包容性和平等的支持](https://m.cnbeta.com.tw/view/1388509.htm)|
 |2023-10-07 03:06:06|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[有棱有角还挺帅 特斯拉Model 2最新虚拟设计图曝光](https://m.cnbeta.com.tw/view/1388505.htm)|
 |2023-10-07 03:05:50|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iOS 17更新率低迷 发布18天后的安装率约为23%](https://m.cnbeta.com.tw/view/1388503.htm)|
