@@ -2,6 +2,37 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-07 02:57:14|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[复盘茅台联名，一场年轻化心智的全面收割](https://www.tmtpost.com/6732150.html)|
+|2023-10-07 03:08:32|[V2EX](https://v2ex.com/index.xml)|[ 程序员 哪家云服务器国内外都可以流畅访问？](https://www.v2ex.com/t/979416#reply1)|
+|2023-10-07 03:07:25|[V2EX](https://v2ex.com/index.xml)|[ 程序员 以前听别人说 git commit 就是在犯罪，以为是在说的是在屎山拉屎的意思，没想到真的是在犯罪。](https://www.v2ex.com/t/979415#reply0)|
+|2023-10-07 03:06:35|[V2EX](https://v2ex.com/index.xml)|[ 问与答 如何能在老家过舒服小日子？](https://www.v2ex.com/t/979414#reply0)|
+|2023-10-07 03:02:13|[V2EX](https://v2ex.com/index.xml)|[ 生活 如果销售热情的向你介绍了东西，最后你决定不买了，会觉得尴尬吗](https://www.v2ex.com/t/979413#reply8)|
+|2023-10-07 02:59:50|[V2EX](https://v2ex.com/index.xml)|[ JavaScript 采用 PHP 模式的 Deno, 用 TypeScript 快速编写简单接口](https://www.v2ex.com/t/979412#reply0)|
+|2023-10-07 02:57:06|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 南京/远程 招聘前端工程师，区块链行业， Defi 赛道，工作氛围好。月薪 25-30K](https://www.v2ex.com/t/979411#reply1)|
+|2023-10-07 02:53:26|[V2EX](https://v2ex.com/index.xml)|[ 问与答 如何做一个 k 线相似的工具](https://www.v2ex.com/t/979410#reply0)|
+|2023-10-07 02:51:34|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没有产品/数据运营的大佬来分享经验，一个工具类 app 加社区功能会对新用户留存有影响吗](https://www.v2ex.com/t/979409#reply0)|
+|2023-10-07 02:49:01|[V2EX](https://v2ex.com/index.xml)|[ 程序员 请 windows 开发大佬指点下， 我想学习一种微软支持的开发桌面 exe 程序得方式](https://www.v2ex.com/t/979408#reply0)|
+|2023-10-07 02:45:49|[V2EX](https://v2ex.com/index.xml)|[ OpenAI 安卓版 ChatGPT 无法订阅 Plus ？](https://www.v2ex.com/t/979407#reply2)|
+|2023-10-07 02:42:49|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想给家里父母买上健康险 求推荐](https://www.v2ex.com/t/979406#reply0)|
+|2023-10-07 02:41:45|[V2EX](https://v2ex.com/index.xml)|[ 问与答 i7 性能过剩，是否有必要换成 i3](https://www.v2ex.com/t/979405#reply3)|
+|2023-10-07 02:40:41|[V2EX](https://v2ex.com/index.xml)|[ Android 求推荐一款国内能用的中高端手机,尽量跟世界接轨的类原生或者国际系统就行.](https://www.v2ex.com/t/979404#reply6)|
+|2023-10-07 02:40:21|[V2EX](https://v2ex.com/index.xml)|[ 程序员 mac chrome 升级后, 无限闪退及处理方案](https://www.v2ex.com/t/979403#reply0)|
+|2023-10-07 02:39:38|[V2EX](https://v2ex.com/index.xml)|[ 随想 我发现我掉进了消费陷阱](https://www.v2ex.com/t/979402#reply6)|
+|2023-10-07 02:34:58|[V2EX](https://v2ex.com/index.xml)|[ 问与答 你是怎么渡过自己人生低谷期的](https://www.v2ex.com/t/979401#reply10)|
+|2023-10-07 02:33:38|[V2EX](https://v2ex.com/index.xml)|[ AirPods airpods 丢了之后用查找显示的地理位置与时间精确么？](https://www.v2ex.com/t/979398#reply0)|
+|2023-10-07 02:32:18|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 axios-multi-down 如果前端请求有 1G~🐶](https://www.v2ex.com/t/979397#reply2)|
+|2023-10-07 02:32:13|[V2EX](https://v2ex.com/index.xml)|[ 程序员 ios 开发，剪辑视频。有合适推荐的黑苹果主机吗？](https://www.v2ex.com/t/979396#reply9)|
+|2023-10-07 02:30:51|[V2EX](https://v2ex.com/index.xml)|[ 问与答 网购现在都使用的虚拟手机号，导致快递放驿站之后自己无法得知相关信息](https://www.v2ex.com/t/979395#reply6)|
+|2023-10-07 02:27:09|[V2EX](https://v2ex.com/index.xml)|[ macOS 如何调整输入法候选框的位置？](https://www.v2ex.com/t/979393#reply3)|
+|2023-10-07 02:25:04|[V2EX](https://v2ex.com/index.xml)|[ 路由器 请教 ax86U 梅林固件问题](https://www.v2ex.com/t/979392#reply0)|
+|2023-10-07 02:23:33|[V2EX](https://v2ex.com/index.xml)|[ Podcast 有什么播客推荐吗](https://www.v2ex.com/t/979391#reply11)|
+|2023-10-07 02:22:50|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想入手一个二手群晖用来备份/浏览照片，有推荐的型号和配置吗？](https://www.v2ex.com/t/979390#reply4)|
+|2023-10-07 02:18:35|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 ✨ Pictode：十分钟 DIY 图形编辑器💡很轻松](https://www.v2ex.com/t/979389#reply1)|
+|2023-10-07 02:14:33|[V2EX](https://v2ex.com/index.xml)|[ Google Google 真是臉都不要了](https://www.v2ex.com/t/979388#reply67)|
+|2023-10-07 02:14:32|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 独立开发 碎片化信息の终结者](https://www.v2ex.com/t/979387#reply2)|
+|2023-10-07 02:09:23|[V2EX](https://v2ex.com/index.xml)|[ 深圳 深圳租房求推荐安静的小区或者位置，预算 6500 左右](https://www.v2ex.com/t/979385#reply2)|
+|2023-10-07 02:09:23|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想送妹子 Apple Watch 该怎么选？](https://www.v2ex.com/t/979384#reply10)|
+|2023-10-07 09:45:44|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[MacOS最强视频剪辑软件——Apple Final Cut Pro X 10.6.10学习版](https://masuit.com/1995)|
 |2023-10-07 02:04:52|[爱范儿](https://www.ifanr.com/feed)|[离开奔驰以后，比亚迪单亲抚养的腾势，茁壮成长了](https://www.ifanr.com/1563658?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-07 02:04:39|[爱范儿](https://www.ifanr.com/feed)|[欧洲车企，需要中国电池](https://www.ifanr.com/1563495?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-07 02:14:33|[V2EX](https://v2ex.com/index.xml)|[ 程序员 Google 真是臉都不要了](https://www.v2ex.com/t/979388#reply1)|
