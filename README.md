@@ -2,6 +2,83 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-07 03:06:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[研究发现特朗普违反规范的推文削弱了支持者对其政治包容性和平等的支持](https://m.cnbeta.com.tw/view/1388509.htm)|
+|2023-10-07 03:06:06|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[有棱有角还挺帅 特斯拉Model 2最新虚拟设计图曝光](https://m.cnbeta.com.tw/view/1388505.htm)|
+|2023-10-07 03:05:50|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iOS 17更新率低迷 发布18天后的安装率约为23%](https://m.cnbeta.com.tw/view/1388503.htm)|
+|2023-10-07 03:05:39|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iPhone 15 Pro Max的5X光变有望于明年出现在iPhone 16 Pro上](https://m.cnbeta.com.tw/view/1388493.htm)|
+|2023-10-07 03:05:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[BBC正在阻止OpenAI数据爬取 但对AI新闻报道持开放态度](https://m.cnbeta.com.tw/view/1388491.htm)|
+|2023-10-07 02:36:56|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[欧盟或将调查宝马在华生产的纯电车](https://m.cnbeta.com.tw/view/1388499.htm)|
+|2023-10-07 02:36:43|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[老师网购10余套演出服用完立马退货 被吐槽缺乏诚信](https://m.cnbeta.com.tw/view/1388497.htm)|
+|2023-10-07 02:36:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[首款小米汽车将推增程版：1.5T/L增程器 溜背轿跑](https://m.cnbeta.com.tw/view/1388495.htm)|
+|2023-10-07 02:36:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[亚马逊发射首批两颗太空互联网原型卫星 与SpaceX星链竞争](https://m.cnbeta.com.tw/view/1388481.htm)|
+|2023-10-07 02:36:04|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“官司大王”马斯克：美国政府、特斯拉股东、员工都在告他](https://m.cnbeta.com.tw/view/1388479.htm)|
+|2023-10-07 02:35:53|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[没想到，AI成了核能最佳助攻](https://m.cnbeta.com.tw/view/1388477.htm)|
+|2023-10-07 02:35:38|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[​Google发布多模态Bard助理 交互式AI时代近了？](https://m.cnbeta.com.tw/view/1388475.htm)|
+|2023-10-07 02:35:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iPhone 15 Pro被曝烧屏问题 或因发热过大导致](https://m.cnbeta.com.tw/view/1388473.htm)|
+|2023-10-07 02:06:56|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[自动驾驶独角兽如此造假 LeCun都服了](https://m.cnbeta.com.tw/view/1388471.htm)|
+|2023-10-07 02:06:44|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[微软将于11月推出其首款人工智能芯片](https://m.cnbeta.com.tw/view/1388469.htm)|
+|2023-10-07 02:06:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[法拉第未来宣布将向贾跃亭本人交付车辆 下位车主已确定](https://m.cnbeta.com.tw/view/1388467.htm)|
+|2023-10-07 02:06:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[减肥药冲击食品需求 沃尔玛：“嗑药”顾客吃的越来越少 恐冲击食品业](https://m.cnbeta.com.tw/view/1388463.htm)|
+|2023-10-07 02:06:06|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[放宽“欧洲制造”门槛：欧盟拟推迟一年对英国征电动汽车关税](https://m.cnbeta.com.tw/view/1388461.htm)|
+|2023-10-07 02:05:55|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[福特旗舰F-150电动皮卡肿么了？三季度销量接近腰斩 还在“质量检查”](https://m.cnbeta.com.tw/view/1388459.htm)|
+|2023-10-07 02:05:41|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[赢得通用汽车关键让步 工会称暂不扩大罢工范围](https://m.cnbeta.com.tw/view/1388457.htm)|
+|2023-10-07 02:05:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[风投大佬德雷珀：后悔过早出售特斯拉股票 否则将赚4000倍](https://m.cnbeta.com.tw/view/1388455.htm)|
+|2023-10-07 05:53:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[100元住进群租房杂物间，爆火的“假期住我家”有多坑？](https://www.tmtpost.com/6732456.html)|
+|2023-10-07 05:40:06|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[头部品牌停业整顿，鲜花电商的中场战事迎来拐点？](https://www.tmtpost.com/6732455.html)|
+|2023-10-07 05:15:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[国庆黄金周，巨亏1500亿的中国铁路赢麻了](https://www.tmtpost.com/6732450.html)|
+|2023-10-07 05:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[开源大模型正在“杀死”闭源？](https://www.tmtpost.com/6732448.html)|
+|2023-10-07 03:50:44|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[出海数字化之路怎么走？泡泡玛特给出答案](https://www.tmtpost.com/6732411.html)|
+|2023-10-07 03:41:34|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[返程行李箱被塞50斤土特产：拒绝不了，也吃不掉](https://www.tmtpost.com/6732414.html)|
+|2023-10-07 03:10:41|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[​日本核污水第二轮排放启动，打击海鲜水产的“蝴蝶效应”放大](https://www.tmtpost.com/6732171.html)|
+|2023-10-07 03:04:01|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[在东南亚“卷”得火热的腾讯和爱奇艺，能跟Netflix抗衡了吗？](https://www.tmtpost.com/6732140.html)|
+|2023-10-07 04:30:54|[极客公园](https://plink.anyfeeder.com/geekpark)|[梅西，苹果最热的产品](http://www.geekpark.net/news/325623)|
+|2023-10-07 02:58:14|[极客公园](https://plink.anyfeeder.com/geekpark)|[抛弃英伟达，传 OpenAI 考虑自研 AI 芯片；华为问界新 M7 单日订单超 7000；亚运会闭幕盛开AR「记忆之花」](http://www.geekpark.net/news/325624)|
+|2023-10-07 04:01:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么某些教师教学水平很高，就是教学成绩次次垫底？](https://www.zhihu.com/question/624420525)|
+|2023-10-07 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么传统回合制 jrpg 已经被 arpg 完全取代了?](https://www.zhihu.com/question/619776511)|
+|2023-10-07 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[华为 Mate60 Pro 似乎已经可以原价购买了，用户对此产品体验感如何？](https://www.zhihu.com/question/624680693)|
+|2023-10-07 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[特朗普表示如果美国国会众议院无法决定议长人选，他将在必要时暂时担任众议院议长一职，有哪些信息值得关注？](https://www.zhihu.com/question/624866620)|
+|2023-10-07 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[孙正义预测未来 AI 的智能程度将是人类智力总和的 10 倍，有哪些信息值得关注？](https://www.zhihu.com/question/624866226)|
+|2023-10-07 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[30 岁拿到 offer 发现意外怀孕，该要孩子还是选择入职?](https://www.zhihu.com/question/622558872)|
+|2023-10-07 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[狮子那么厉害，为什么不把烦人的鬣狗全部杀死消除威胁？](https://www.zhihu.com/question/624607807)|
+|2023-10-07 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[古代战场上是不是几乎没有拿剑的？](https://www.zhihu.com/question/624684833)|
+|2023-10-07 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[苏联的「暴风雪号」到底算不算真正的航天飞机？](https://www.zhihu.com/question/21466371)|
+|2023-10-07 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[近日黄金价格创新高后大幅跳水，有哪些信息值得关注？你对黄金后续走势如何看？](https://www.zhihu.com/question/624867208)|
+|2023-10-07 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[可穿戴便携设备真的可以监控健康吗，有没必要购买？](https://www.zhihu.com/question/623902516)|
+|2023-10-07 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么和朋友一起旅游容易闹矛盾？如何避免旅行时「飙血压」吵架？](https://www.zhihu.com/question/623127232)|
+|2023-10-07 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[杭州亚运会男篮季军赛中国队 101:73 战胜中国台北队获铜牌，如何评价这场比赛？](https://www.zhihu.com/question/624879139)|
+|2023-10-07 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年了，你的愿望是什么？](https://www.zhihu.com/question/620377274)|
+|2023-10-07 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[朋友们，大家国庆节都去哪了?](https://www.zhihu.com/question/624216076)|
+|2023-10-07 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人工智能有哪些领域？](https://www.zhihu.com/question/446176207)|
+|2023-10-07 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《dota2》为什么冰蛙要移除巫妖的吃兵？](https://www.zhihu.com/question/624283818)|
+|2023-10-07 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[小长假出游，你的化妆包里一定要有什么？](https://www.zhihu.com/question/622787517)|
+|2023-10-07 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你心中最理想的旅行是什么样的？](https://www.zhihu.com/question/624356199)|
+|2023-10-07 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[第 60 届金马奖获奖名单公布，《关于我和鬼变成家人这件事》获得 8 项提名，你预测谁能获奖？](https://www.zhihu.com/question/624679672)|
+|2023-10-07 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[Apple Watch S9 系列性能迎来大幅提升，为什么不在实际痛点续航上做升级？](https://www.zhihu.com/question/621849745)|
+|2023-10-07 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价张艺兴新歌《Uzi》？](https://www.zhihu.com/question/624792889)|
+|2023-10-07 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大家如何看待《披荆斩棘》第三季四公分组的 drama 场景？](https://www.zhihu.com/question/624881756)|
+|2023-10-07 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[客观地说，张艺谋的《坚如磐石》到底怎么样？](https://www.zhihu.com/question/624013012)|
+|2023-10-07 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么 LGD 从未在 Ti 上夺冠却是 CN DOTA 人气最高的队伍呢？](https://www.zhihu.com/question/487457682)|
+|2023-10-07 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[水神凭什么怕仆人啊？](https://www.zhihu.com/question/624653685)|
+|2023-10-07 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么胶片的画质这么好，我们平时看到的老照片却都很模糊呢？](https://www.zhihu.com/question/268664390)|
+|2023-10-07 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[程序员如何提高开发效率?](https://www.zhihu.com/question/392672120)|
+|2023-10-07 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《崩坏：星穹铁道》PV「云骑武经•说剑」？](https://www.zhihu.com/question/624864612)|
+|2023-10-07 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[孩子在《英雄联盟》里国服排名第 9 名，我能做什么？](https://www.zhihu.com/question/624801875)|
+|2023-10-07 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[杭州亚运会女足季军赛中国队 7:0 乌兹别克斯坦夺得季军，如何评价这场比赛？](https://www.zhihu.com/question/624879070)|
+|2023-10-07 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国 9 月非农就业人数远超预期，美股盘中 V 型反转，道指涨近 300 点，如何解读？](https://www.zhihu.com/question/624944802)|
+|2023-10-07 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《七龙珠》为什么最后不是实力更强的悟饭去打小布欧？](https://www.zhihu.com/question/21479250)|
+|2023-10-07 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[古代游牧民族真的是全民皆兵吗？](https://www.zhihu.com/question/493558442)|
+|2023-10-07 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「知乎故事大赛」奖励公示，五十万奖金花落谁家？](https://www.zhihu.com/xen/market/ecom-page/1689751471225311232)|
+|2023-10-07 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国庆假期结束，上班第一天你感觉怎么样？有哪些办法可以让你快速进入工作状态？](https://www.zhihu.com/question/624941781)|
+|2023-10-07 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[冬天开空调和开电暖器哪一个更耗电？](https://www.zhihu.com/question/27960688)|
+|2023-10-07 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中秋国庆双节长假，部分「懒人」足不出户，线上找人景点代打卡、代修旅游照，你如何看待这样的行为？](https://www.zhihu.com/question/624879996)|
+|2023-10-07 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待问界新 M7 单日大定达 7000 台，发布至首销大定超五万台？新 M7 销量上涨的原因是？](https://www.zhihu.com/question/624914052)|
+|2023-10-07 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中秋国庆假期收官，8.26 亿人次出游，花了 7534.3 亿元，透露哪些信息？如何解读这一数据？](https://www.zhihu.com/question/624944520)|
+|2023-10-07 05:15:51|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我的独立开发故事：尝试了各种方法，但还是失败](https://www.v2ex.com/t/979474#reply13)|
+|2023-10-07 05:01:41|[虎嗅](https://plink.anyfeeder.com/huxiu)|[油价暴跌的“真凶”：沙特愿意增产，换取“美沙共同防御协议”](https://www.huxiu.com/article/2144480.html?f=rss)|
+|2023-10-07 04:43:27|[虎嗅](https://plink.anyfeeder.com/huxiu)|[一级市场的小白兔与大灰狼](https://www.huxiu.com/article/2144500.html?f=rss)|
+|2023-10-07 04:24:31|[虎嗅](https://plink.anyfeeder.com/huxiu)|[Sam Altman是我们这个时代的奥本海默吗？](https://www.huxiu.com/article/2144477.html?f=rss)|
+|2023-10-07 04:24:09|[虎嗅](https://plink.anyfeeder.com/huxiu)|[经营导生关系，何以成为“硕博打工人”最大难题？](https://www.huxiu.com/article/2142502.html?f=rss)|
+|2023-10-07 02:57:59|[SHRIK3](https://shrik3.com/index.xml)|[Tomato clock!](https://shrik3.com/post/tomato/)|
 |2023-10-07 01:54:32|[Mosu](https://www.mosuzi.com/atom.xml)|[再记法喜寺](https://mosuzi.com/docs/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/%E5%86%8D%E8%AE%B0%E6%B3%95%E5%96%9C%E5%AF%BA/)|
 |2023-10-07 02:12:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[节后上班第一天感受。](https://dig.chouti.com/link/40207329)|
 |2023-10-07 02:25:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[消息称微软计划10月13日以687亿美元收购动视暴雪](https://dig.chouti.com/link/40207407)|
