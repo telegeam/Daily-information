@@ -1,7 +1,13 @@
-﻿# 每日资讯（2023-10-06）
+﻿# 每日资讯（2023-10-07）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-07 00:04:37|[36氪](https://plink.anyfeeder.com/36kr)|[8点1氪丨迷笛音乐节组委会回应财物被盗；​苹果CEO库克套现近3亿元；国庆假期日均超1亿人次出游](https://36kr.com/p/2463579626805384?f=rss)|
+|2023-10-07 00:35:00|[虎嗅](https://rss.huxiu.com/)|[是谁折断了孩子的翅膀？](https://www.huxiu.com/article/2143350.html?f=rss)|
+|2023-10-07 00:33:00|[虎嗅](https://rss.huxiu.com/)|[年轻人涌入后，深圳高龄摆摊人被挤对的收入和出路](https://www.huxiu.com/article/2142875.html?f=rss)|
+|2023-10-07 00:31:54|[虎嗅](https://rss.huxiu.com/)|[人为哄抬的国际石油价格，还能维持多久？](https://www.huxiu.com/article/2138640.html?f=rss)|
+|2023-10-07 00:21:03|[虎嗅](https://rss.huxiu.com/)|[从北京到武汉，一辆“电动爹”的国庆囧途](https://www.huxiu.com/article/2143752.html?f=rss)|
+|2023-10-07 00:21:00|[虎嗅](https://rss.huxiu.com/)|[当一位清华本硕博放弃“北京中产”，去往非洲](https://www.huxiu.com/article/2143738.html?f=rss)|
 |2023-10-06 05:51:38|[豆瓣最受欢迎的影评](https://plink.anyfeeder.com/douban/review/movie)|[无产悲剧的诞生 评论: 静态自杀 ](https://movie.douban.com/review/15487450/)|
 |2023-10-06 01:39:07|[豆瓣最受欢迎的影评](https://plink.anyfeeder.com/douban/review/movie)|[我们根本读不懂唇语！ 评论: 坚如磐石 ](https://movie.douban.com/review/15487063/)|
 |2023-10-06 07:00:00|[少数派](https://plink.anyfeeder.com/sspai)|[为了打字更爽，我学了一个追求极致性能的小众输入法](https://sspai.com/post/83376)|
