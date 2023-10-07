@@ -2,6 +2,36 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-07 03:27:13|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[SiegedSec 黑客组织袭击北约网络系统](https://www.freebuf.com/news/379755.html)|
+|2023-10-07 03:23:31|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[超微公司的 BMC 固件被发现存在多个高危漏洞](https://www.freebuf.com/news/379751.html)|
+|2023-10-07 02:35:27|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[美国华盛顿特区选民数据被盗，背后真相浮出水面！](https://www.freebuf.com/news/379742.html)|
+|2023-10-07 03:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[《微精通》，轻松易学的技能学习手册](https://www.huxiu.com/article/2142256.html?f=rss)|
+|2023-10-07 03:25:48|[虎嗅](https://plink.anyfeeder.com/huxiu)|[卖份额吗？3折收](https://www.huxiu.com/article/2144471.html?f=rss)|
+|2023-10-07 03:24:46|[虎嗅](https://plink.anyfeeder.com/huxiu)|[千元快捷酒店遍地，让我们成为长假“大冤种”](https://www.huxiu.com/article/2144213.html?f=rss)|
+|2023-10-07 03:20:57|[虎嗅](https://plink.anyfeeder.com/huxiu)|[印尼关闭TikTok电商后：渡劫、机会、观望与希望](https://www.huxiu.com/article/2144476.html?f=rss)|
+|2023-10-07 03:15:39|[虎嗅](https://plink.anyfeeder.com/huxiu)|[先进封装，在此一举](https://www.huxiu.com/article/2140782.html?f=rss)|
+|2023-10-07 03:15:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[盛唐军队如何大败铠胄精良的吐蕃强敌？](https://www.huxiu.com/article/2144448.html?f=rss)|
+|2023-10-07 02:51:14|[虎嗅](https://plink.anyfeeder.com/huxiu)|[新晋诺奖得主约恩·福瑟：这十年早已“做好了获奖的准备”](https://www.huxiu.com/article/2144450.html?f=rss)|
+|2023-10-07 02:45:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[不恋爱的娃哈哈“公主”怎么样了？](https://www.huxiu.com/article/2142478.html?f=rss)|
+|2023-10-07 02:40:57|[虎嗅](https://plink.anyfeeder.com/huxiu)|[实测GPT-4V后，微软写了份166页的测评报告](https://www.huxiu.com/article/2137660.html?f=rss)|
+|2023-10-07 02:35:53|[虎嗅](https://plink.anyfeeder.com/huxiu)|[返程行李箱被塞50斤土特产：拒绝不了，也吃不掉](https://www.huxiu.com/article/2144180.html?f=rss)|
+|2023-10-07 02:28:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[用户喜欢用AI干什么？](https://www.huxiu.com/article/2138188.html?f=rss)|
+|2023-10-07 02:20:42|[虎嗅](https://plink.anyfeeder.com/huxiu)|[清华博士去非洲“打灰”：定居人，狗都不当](https://www.huxiu.com/article/2144188.html?f=rss)|
+|2023-10-07 02:18:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[重庆长江北岸，慢慢消失的鱼嘴镇](https://www.huxiu.com/article/2141985.html?f=rss)|
+|2023-10-07 04:00:01|[虎嗅](https://rss.huxiu.com/)|[硬核解析：B站的五大矛盾与解决方案](https://www.huxiu.com/article/2144253.html?f=rss)|
+|2023-10-07 03:05:28|[36氪](https://plink.anyfeeder.com/36kr)|[36氪独家 百度CIO李莹出任小度科技CEO](https://36kr.com/p/2463676553582723?f=rss)|
+|2023-10-07 02:12:28|[36氪](https://plink.anyfeeder.com/36kr)|[早期项目丨「仙瞬科技」获超千万种子轮融资，自研模组让普通眼镜具备AR功能](https://36kr.com/p/2462706431809416?f=rss)|
+|2023-10-07 03:14:16|[机核](https://plink.anyfeeder.com/gcores)|[合作动作冒险游戏《舍伍德侠盗团》预购现已开启，11月2日正式发售](https://www.gcores.com/articles/171866)|
+|2023-10-07 02:48:25|[机核](https://plink.anyfeeder.com/gcores)|[狼妈妈的摩托之旅，《Laika: Aged Through Blood》将于10月19日登录PC平台](https://www.gcores.com/articles/171864)|
+|2023-10-07 02:29:00|[机核](https://plink.anyfeeder.com/gcores)|[宝可梦主题原创剧集《把冒险装进口袋》预告公开，10月19日开播](https://www.gcores.com/articles/171860)|
+|2023-10-07 02:02:33|[机核](https://plink.anyfeeder.com/gcores)|[《赛博朋克》真人影视剧在路上、“往日之影”首周销量300万:CDPR投资人说明会消息汇总](https://www.gcores.com/articles/171859)|
+|2023-10-07 01:36:03|[机核](https://plink.anyfeeder.com/gcores)|[《猎人：荒野的召唤》伏击者包和新外观将于本月10日推出](https://www.gcores.com/articles/171858)|
+|2023-10-07 01:25:40|[机核](https://plink.anyfeeder.com/gcores)|[多人沙盒地下城探险游戏《地心护核者》现已实装最新大型更新“莹光边境”](https://www.gcores.com/articles/171857)|
+|2023-10-07 01:25:17|[机核](https://plink.anyfeeder.com/gcores)|[超暴力的超自然动作射击游戏《海参2》现已在主机平台推出](https://www.gcores.com/articles/171856)|
+|2023-10-07 01:20:57|[机核](https://plink.anyfeeder.com/gcores)|[《阿拉斯加卡车司机》今日开启免费体验，可抢先游玩3小时](https://www.gcores.com/articles/171855)|
+|2023-10-07 01:14:20|[机核](https://plink.anyfeeder.com/gcores)|[狼人杀《行尸走肉：背叛》十月更新汇总：价格下调、新功能和免费时装](https://www.gcores.com/articles/171854)|
+|2023-10-07 01:07:05|[机核](https://plink.anyfeeder.com/gcores)|[轻策略游戏《繁荣之初》和视觉小说游戏《如茵碧草—萋萋护路人》将于10月16日发售](https://www.gcores.com/articles/171853)|
+|2023-10-07 01:01:56|[机核](https://plink.anyfeeder.com/gcores)|[多人动作冒险《舍伍德侠盗团》现已开启预购,新品节将开启免费试玩](https://www.gcores.com/articles/171852)|
 |2023-10-07 02:57:14|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[复盘茅台联名，一场年轻化心智的全面收割](https://www.tmtpost.com/6732150.html)|
 |2023-10-07 03:08:32|[V2EX](https://v2ex.com/index.xml)|[ 程序员 哪家云服务器国内外都可以流畅访问？](https://www.v2ex.com/t/979416#reply1)|
 |2023-10-07 03:07:25|[V2EX](https://v2ex.com/index.xml)|[ 程序员 以前听别人说 git commit 就是在犯罪，以为是在说的是在屎山拉屎的意思，没想到真的是在犯罪。](https://www.v2ex.com/t/979415#reply0)|
