@@ -2,6 +2,33 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-07 01:42:21|[V2EX](https://v2ex.com/index.xml)|[ 问与答 新建的美区号用国内银行卡买的礼品卡开 gpt4 会封吗](https://www.v2ex.com/t/979363#reply1)|
+|2023-10-07 01:40:37|[V2EX](https://v2ex.com/index.xml)|[ V2EX V2EX 每日最热这个网站不维护了吗？](https://www.v2ex.com/t/979362#reply0)|
+|2023-10-07 01:37:05|[V2EX](https://v2ex.com/index.xml)|[ 生活 确诊脊柱侧弯](https://www.v2ex.com/t/979361#reply3)|
+|2023-10-07 01:32:31|[V2EX](https://v2ex.com/index.xml)|[ 程序员 武汉还是杭州？](https://www.v2ex.com/t/979358#reply6)|
+|2023-10-07 01:31:51|[V2EX](https://v2ex.com/index.xml)|[ 装修 新房装修记得照明线路也预留地线](https://www.v2ex.com/t/979357#reply0)|
+|2023-10-07 01:30:41|[V2EX](https://v2ex.com/index.xml)|[ 前端开发 求助，有没有什么快递提取 css js 干净样式的方法？](https://www.v2ex.com/t/979356#reply1)|
+|2023-10-07 01:28:47|[V2EX](https://v2ex.com/index.xml)|[ Apple 灵动岛 MacBook 啊？！](https://www.v2ex.com/t/979355#reply1)|
+|2023-10-07 01:27:13|[V2EX](https://v2ex.com/index.xml)|[ macOS 没人觉得 Sonoma 的大写标识很碍事吗？老挡住文字，也不知道怎么关掉？](https://www.v2ex.com/t/979353#reply1)|
+|2023-10-07 01:23:53|[V2EX](https://v2ex.com/index.xml)|[ English 限时入群，我想在这里分享一些我这些年来英语学习的经历。](https://www.v2ex.com/t/979352#reply0)|
+|2023-10-07 01:21:46|[V2EX](https://v2ex.com/index.xml)|[ Apple 为什么苹果的日历知道今天是工作日，闹钟却不响](https://www.v2ex.com/t/979350#reply17)|
+|2023-10-07 01:20:19|[V2EX](https://v2ex.com/index.xml)|[ 程序员 一个命令实现代码热部署，提高日常开发效率](https://www.v2ex.com/t/979348#reply0)|
+|2023-10-07 01:13:28|[V2EX](https://v2ex.com/index.xml)|[ 生活 求一个康师傅 唐三的拼图图纸](https://www.v2ex.com/t/979347#reply0)|
+|2023-10-07 01:11:22|[V2EX](https://v2ex.com/index.xml)|[ 淘宝 淘宝营业额十几块，要收 500-1000 的保证金，不交会降权吗？](https://www.v2ex.com/t/979346#reply2)|
+|2023-10-07 01:05:29|[V2EX](https://v2ex.com/index.xml)|[ Visual Studio Code csnp，一个 vscode 代码片段生成管理脚本](https://www.v2ex.com/t/979345#reply0)|
+|2023-10-07 00:59:36|[V2EX](https://v2ex.com/index.xml)|[ 问与答 PS5、xbox 下载如何不走代理流量](https://www.v2ex.com/t/979344#reply2)|
+|2023-10-07 00:53:15|[V2EX](https://v2ex.com/index.xml)|[ 问与答 病情咨询 中枢神经系统脱髓鞘病（多发性硬化可能性大 ](https://www.v2ex.com/t/979343#reply0)|
+|2023-10-07 00:45:01|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有些人节后上班第一天，有些人已经上班好几天了，你的国庆是怎么过的？](https://www.v2ex.com/t/979342#reply35)|
+|2023-10-07 00:36:49|[V2EX](https://v2ex.com/index.xml)|[ OpenAI chatgpt api chat/completions 输出指定长度范围结果](https://www.v2ex.com/t/979341#reply1)|
+|2023-10-07 00:34:15|[V2EX](https://v2ex.com/index.xml)|[ 职场话题 发明调休的人死了吗？](https://www.v2ex.com/t/979340#reply18)|
+|2023-10-07 00:26:57|[V2EX](https://v2ex.com/index.xml)|[ Spotify 土区 Spotify 6 人车少 3 人，季付 15 元（也可年付 60rmb）](https://www.v2ex.com/t/979338#reply1)|
+|2023-10-07 00:43:52|[爱范儿](https://www.ifanr.com/feed)|[早报 国庆假期日均超 1 亿人次出游/ iPhone 15 Pro 过热问题已修复/ OpenAI 正探索自研 AI 芯片](https://www.ifanr.com/1564010?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-07 01:38:09|[虎嗅](https://rss.huxiu.com/)|[在课本里的东极，看到了中国最早的日出](https://www.huxiu.com/article/2133000.html?f=rss)|
+|2023-10-07 01:30:00|[虎嗅](https://rss.huxiu.com/)|[一盒利润不足一元，假睫毛之乡被迫内卷](https://www.huxiu.com/article/2144157.html?f=rss)|
+|2023-10-07 01:16:00|[虎嗅](https://rss.huxiu.com/)|[婚前报复性健身，新郎新娘的必修课？](https://www.huxiu.com/article/2144174.html?f=rss)|
+|2023-10-07 01:10:00|[虎嗅](https://rss.huxiu.com/)|[中国城市最风雅的样板，还得看它](https://www.huxiu.com/article/2144156.html?f=rss)|
+|2023-10-07 01:00:42|[虎嗅](https://rss.huxiu.com/)|[“双节”国内出游成绩单来了](https://www.huxiu.com/article/2144192.html?f=rss)|
+|2023-10-07 00:53:30|[虎嗅](https://rss.huxiu.com/)|[肿瘤药物重磅突破：这个“不可成药”靶点，被攻破了](https://www.huxiu.com/article/2144154.html?f=rss)|
 |2023-10-07 00:04:37|[36氪](https://plink.anyfeeder.com/36kr)|[8点1氪丨迷笛音乐节组委会回应财物被盗；​苹果CEO库克套现近3亿元；国庆假期日均超1亿人次出游](https://36kr.com/p/2463579626805384?f=rss)|
 |2023-10-07 00:35:00|[虎嗅](https://rss.huxiu.com/)|[是谁折断了孩子的翅膀？](https://www.huxiu.com/article/2143350.html?f=rss)|
 |2023-10-07 00:33:00|[虎嗅](https://rss.huxiu.com/)|[年轻人涌入后，深圳高龄摆摊人被挤对的收入和出路](https://www.huxiu.com/article/2142875.html?f=rss)|
