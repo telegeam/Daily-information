@@ -2,6 +2,24 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-08 05:07:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[谁再笑话中国车，就给他一电跑](http://www.huxiu.com/article/2100947.html?f=wangzhan)|
+|2023-10-08 03:06:43|[少数派](https://plink.anyfeeder.com/sspai)|[停止望山兴叹，从室内岩馆开始攀岩之路](https://sspai.com/post/82795)|
+|2023-10-08 00:27:24|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：三星推出 Exynos 2400 处理器、微软更新多项服务等](https://sspai.com/post/83403)|
+|2023-10-08 04:03:52|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[9 月新能源车销量发布，全爆了](https://36kr.com/p/2457389707450247)|
+|2023-10-08 04:03:52|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[几条抖音评论引爆舆论，储能明星“海辰储能”：将报案](https://36kr.com/p/2455335999838340)|
+|2023-10-08 04:03:52|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[茶饮料变天了：一个新百亿大单品或将诞生｜焦点分析](https://36kr.com/p/2449568441063559)|
+|2023-10-08 04:03:52|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[日本又一百年巨头落幕](https://36kr.com/p/2462325878300801)|
+|2023-10-08 04:03:52|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[上下五千年，中国电动车让欧洲坐不住了](https://36kr.com/p/2463537983135880)|
+|2023-10-08 04:03:52|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[拼多多真香的年轻人，正在悄悄流入抖音直播间](https://36kr.com/p/2463809066555527)|
+|2023-10-08 04:03:52|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[李嘉诚布局大模型](https://36kr.com/p/2464081310668928)|
+|2023-10-08 04:03:52|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[看不上Citywalk的年轻人，都在玩什么户外运动？｜年轻人「户外运动爱好」小调查](https://36kr.com/p/2464038337304707)|
+|2023-10-08 07:01:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[没有 https 的情况下， jwt 是不是也不安全？](https://www.v2ex.com/t/979871#reply1)|
+|2023-10-08 01:01:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在装 magisk 能正常使用钉钉、银行类应用么？](https://www.v2ex.com/t/979689#reply37)|
+|2023-10-08 03:59:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想知道各位独立开发者的网站或者 App 的 UI 都是怎么设计出来的？](https://www.v2ex.com/t/979803#reply30)|
+|2023-10-08 03:06:04|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[被强执逾17亿 史玉柱又出事了？巨人网络回应](https://m.cnbeta.com.tw/view/1388663.htm)|
+|2023-10-08 03:05:51|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[数以千计的Android电视设备被预装了无法清除的后门 与中国服务器通信](https://m.cnbeta.com.tw/view/1388651.htm)|
+|2023-10-08 03:05:39|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[中车智能驾驶公交车在法国载客试运营](https://m.cnbeta.com.tw/view/1388649.htm)|
+|2023-10-08 03:05:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“挖呀挖”黄老师1个月5场直播 销售额超百万、掉粉5万](https://m.cnbeta.com.tw/view/1388647.htm)|
 |2023-10-08 01:53:34|[极客公园](https://plink.anyfeeder.com/geekpark)|[英伟达领投机器人公司；传微软即将发布 AI 芯片；日本对华水产出口大跌 65%](http://www.geekpark.net/news/325664)|
 |2023-10-08 06:10:29|[虎嗅](https://rss.huxiu.com/)|[211进厂打工、985月薪5500，应届生和企业都喊“亏”](https://www.huxiu.com/article/2148109.html?f=rss)|
 |2023-10-08 05:13:15|[虎嗅](https://rss.huxiu.com/)|[运载火箭，可以回收重复利用吗？](https://www.huxiu.com/article/2148156.html?f=rss)|
