@@ -2,6 +2,31 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-08 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：FENDI 推出 2023 滑雪服系列、Canada Goose 大连恒隆广场精品店开业](http://www.toodaylab.com/82284)|
+|2023-10-08 05:06:41|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 爬虫 Lazada 验证码问题](https://www.v2ex.com/t/979827#reply0)|
+|2023-10-08 05:04:39|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 撸了一个 ChatGPT 的套娃 MacOS App](https://www.v2ex.com/t/979826#reply0)|
+|2023-10-08 05:02:44|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 觉得产品经理这角色更重要了，在刷到一些独立开发者的失败感想帖子](https://www.v2ex.com/t/979825#reply1)|
+|2023-10-08 04:50:40|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 应届硕士，感觉错过秋招了，好害怕](https://www.v2ex.com/t/979824#reply0)|
+|2023-10-08 04:44:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有好的自动填表程序或者机器推荐？](https://www.v2ex.com/t/979823#reply0)|
+|2023-10-08 04:44:38|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 收购欠费组织 gpt4/3.5 Claude api](https://www.v2ex.com/t/979822#reply0)|
+|2023-10-08 04:43:35|[V2EX](https://www.v2ex.com/index.xml)|[ 旅行 国庆自驾游 第一天 上海-宣城](https://www.v2ex.com/t/979821#reply0)|
+|2023-10-08 04:40:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 新 iPad air6 大概什么时候会推出？大家有什么期待](https://www.v2ex.com/t/979819#reply0)|
+|2023-10-08 04:40:39|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Apple Watch 提醒充电](https://www.v2ex.com/t/979818#reply0)|
+|2023-10-08 04:40:10|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 在 mac 上好用的八字排盘软件目前基本没有，全是 win 端，求大神能人开发一个吧](https://www.v2ex.com/t/979817#reply2)|
+|2023-10-08 04:38:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 自主接入看广告赚钱的广告的开源软件代码有没有](https://www.v2ex.com/t/979816#reply0)|
+|2023-10-08 04:38:11|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 可以直接用 type-c 的 iPhone 数据线连接 iPhone15 将数据恢复到新手机么？](https://www.v2ex.com/t/979815#reply1)|
+|2023-10-08 04:37:01|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 筒子们有没有合适的中帮男袜推荐](https://www.v2ex.com/t/979814#reply0)|
+|2023-10-08 04:34:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有福州的同学吗，那个长威信息科技发展股份有限公司咋样](https://www.v2ex.com/t/979812#reply2)|
+|2023-10-08 04:28:18|[V2EX](https://www.v2ex.com/index.xml)|[ 旅行 自从一个人旅游以后](https://www.v2ex.com/t/979810#reply0)|
+|2023-10-08 04:25:14|[V2EX](https://www.v2ex.com/index.xml)|[ 随想 父亲终于承认逼婚是为了他自己的面子了——国庆回家经历](https://www.v2ex.com/t/979809#reply2)|
+|2023-10-08 04:15:32|[V2EX](https://www.v2ex.com/index.xml)|[ Surge 求个 mac 车](https://www.v2ex.com/t/979808#reply0)|
+|2023-10-08 04:17:38|[虎嗅](https://plink.anyfeeder.com/huxiu)|[时下的欧美人都在玩什么？](https://www.huxiu.com/article/2141148.html?f=rss)|
+|2023-10-08 04:14:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[大公司高管辞职创业，为何融资更顺利？](https://www.huxiu.com/article/2148142.html?f=rss)|
+|2023-10-08 03:19:30|[虎嗅](https://plink.anyfeeder.com/huxiu)|[纽约正在下沉](https://www.huxiu.com/article/2145665.html?f=rss)|
+|2023-10-08 03:16:58|[虎嗅](https://plink.anyfeeder.com/huxiu)|[算法围城下，大学生的网络社交危机](https://www.huxiu.com/article/2147703.html?f=rss)|
+|2023-10-08 03:14:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[OpenAI自研芯片，有何独特之处？](https://www.huxiu.com/article/2148099.html?f=rss)|
+|2023-10-08 03:59:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想知道各位独立开发者的网站或者 App 的 UI 都是怎么设计出来的？](https://www.v2ex.com/t/979803#reply3)|
+|2023-10-08 02:47:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 Ubuntu 与 Kubuntu：哪一个更适合你？](https://linux.cn/article-16263-1.html?utm_source=rss&utm_medium=rss)|
 |2023-10-08 02:42:47|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[NSA 和 CISA 联合揭露当下十大网络安全错误配置](https://www.freebuf.com/news/379857.html)|
 |2023-10-08 03:35:17|[小众软件](https://www.appinn.com/feed/)|[超牛的AI文案/视频创作神器！真的什么都能生成！- 万彩AI丨限时优惠](https://www.appinn.com/wancai-ai/)|
 |2023-10-08 02:36:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“雪王也是有脾气的”：蜜雪冰城一门店声称将偷餐者绑天桥示众8小时引热议](https://m.cnbeta.com.tw/view/1388643.htm)|
