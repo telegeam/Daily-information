@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-08 01:53:34|[极客公园](https://plink.anyfeeder.com/geekpark)|[英伟达领投机器人公司；传微软即将发布 AI 芯片；日本对华水产出口大跌 65%](http://www.geekpark.net/news/325664)|
+|2023-10-08 06:10:29|[虎嗅](https://rss.huxiu.com/)|[211进厂打工、985月薪5500，应届生和企业都喊“亏”](https://www.huxiu.com/article/2148109.html?f=rss)|
+|2023-10-08 05:13:15|[虎嗅](https://rss.huxiu.com/)|[运载火箭，可以回收重复利用吗？](https://www.huxiu.com/article/2148156.html?f=rss)|
+|2023-10-08 05:07:00|[虎嗅](https://rss.huxiu.com/)|[谁再笑话中国车，就给他一电跑](https://www.huxiu.com/article/2100947.html?f=rss)|
+|2023-10-08 04:27:30|[虎嗅](https://rss.huxiu.com/)|[需求巨大的“网约护士”，被困在供给里](https://www.huxiu.com/article/2147736.html?f=rss)|
+|2023-10-08 04:21:59|[虎嗅](https://rss.huxiu.com/)|[黑石集团210亿出价古瑞瓦特，创始人将套现百亿？](https://www.huxiu.com/article/2148111.html?f=rss)|
+|2023-10-08 02:36:51|[精品MAC应用分享](https://xclient.info/feed)|[Swish 1.10.2 效率神器](https://xclient.info/s/swish.html)|
+|2023-10-08 02:35:29|[精品MAC应用分享](https://xclient.info/feed)|[Swinsian 3.0 Preview 9 专业的好用的Mac音乐播放器](https://xclient.info/s/swinsian.html)|
+|2023-10-08 06:07:37|[V2EX](https://v2ex.com/index.xml)|[ 问与答 请教 V 友， 1U 电源益衡 7025B 的静音水平跟同价位的 ATX 电源比怎么样？](https://www.v2ex.com/t/979844#reply0)|
+|2023-10-08 05:59:47|[V2EX](https://v2ex.com/index.xml)|[ Apple 京东上买的一年 AC+的问题](https://www.v2ex.com/t/979842#reply2)|
+|2023-10-08 05:57:34|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 10aigc.com 的 AI 导航网站丰富版本 100aigc.com](https://www.v2ex.com/t/979840#reply0)|
+|2023-10-08 05:55:57|[V2EX](https://v2ex.com/index.xml)|[ MacBook Pro 直营店 稳妥的验机细节和流程是怎样的 有大佬分享下吗](https://www.v2ex.com/t/979838#reply0)|
+|2023-10-08 05:52:44|[V2EX](https://v2ex.com/index.xml)|[ 优惠信息 网易云音乐黑胶 VIP（7 天*10 张）](https://www.v2ex.com/t/979837#reply2)|
+|2023-10-08 05:48:59|[V2EX](https://v2ex.com/index.xml)|[ Netflix 巴勒斯坦区奈飞，不限 ip，季付 36，年付 140，长期的来](https://www.v2ex.com/t/979836#reply0)|
+|2023-10-08 05:36:32|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没和好办法能将微信公众号文章同步到微软待办（miscrosoft to do 里？](https://www.v2ex.com/t/979833#reply3)|
+|2023-10-08 05:19:39|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 国庆节全部在搞这个落地页网站，前端小菜鸡一枚，所以我选择绕道 🤣](https://www.v2ex.com/t/979831#reply3)|
+|2023-10-08 05:15:10|[V2EX](https://v2ex.com/index.xml)|[ 问与答 Java 中，如果构建一个 POJO 的代码很复杂，可能要有百来行，那么肯定要在做一些抽象，问题在于抽象出来的方法，它放哪儿啊？](https://www.v2ex.com/t/979830#reply3)|
+|2023-10-08 05:13:54|[V2EX](https://v2ex.com/index.xml)|[ 程序员 什么样的工具能实现这样的功能？](https://www.v2ex.com/t/979829#reply1)|
+|2023-10-08 05:12:08|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 公布 NeuralRad Brain Demo Site](https://www.v2ex.com/t/979828#reply0)|
 |2023-10-08 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：FENDI 推出 2023 滑雪服系列、Canada Goose 大连恒隆广场精品店开业](http://www.toodaylab.com/82284)|
 |2023-10-08 05:06:41|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 爬虫 Lazada 验证码问题](https://www.v2ex.com/t/979827#reply0)|
 |2023-10-08 05:04:39|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 撸了一个 ChatGPT 的套娃 MacOS App](https://www.v2ex.com/t/979826#reply0)|
