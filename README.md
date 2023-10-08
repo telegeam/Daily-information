@@ -2,6 +2,92 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-08 09:44:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[网站被劫持了请教下大佬如何解决](https://www.v2ex.com/t/979950#reply15)|
+|2023-10-08 07:01:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[没有 https 的情况下， jwt 是不是也不安全？](https://www.v2ex.com/t/979871#reply24)|
+|2023-10-08 06:58:41|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[美高梅国际酒店集团遭勒索软件攻击，损失 1.1 亿美元](https://www.freebuf.com/news/379867.html)|
+|2023-10-08 10:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[古装喜剧再起势](https://www.tmtpost.com/6733936.html)|
+|2023-10-08 09:50:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“新”国货@2023：质疑、回归与转机](https://www.tmtpost.com/6734080.html)|
+|2023-10-08 09:49:01|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[2023网易财经ESG趋势论坛成功召开](https://www.tmtpost.com/6734076.html)|
+|2023-10-08 09:45:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[预制菜频频卷入风波，人们争议的关键在哪里？](https://www.tmtpost.com/6733879.html)|
+|2023-10-08 09:38:49|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[割卖家、亏自己，拼多多跨境平台Temu便宜了谁？](https://www.tmtpost.com/6733722.html)|
+|2023-10-08 09:35:09|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[感冒是因为着凉了？补充维C预防感冒？尊嘟假嘟](https://www.tmtpost.com/6734090.html)|
+|2023-10-08 09:09:06|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[旧瓶如何换新酒：如果，更多的加油站变成了充电站......](https://www.tmtpost.com/6733829.html)|
+|2023-10-08 09:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[微软小冰再联手，AI 数字员工可行吗？](https://www.tmtpost.com/6733575.html)|
+|2023-10-08 08:46:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“猥琐发育”的预制菜，想要站上“浪尖”](https://www.tmtpost.com/6733887.html)|
+|2023-10-08 07:57:25|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[存储市场迎来复苏：闪存价格触底反弹，AI需求激增](https://www.tmtpost.com/6733656.html)|
+|2023-10-08 07:54:18|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[白酒年轻化，与年轻人无关](https://www.tmtpost.com/6733649.html)|
+|2023-10-08 07:53:07|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[China's Fuel Consumption Surges Amid Travel Frenzy During National Day Holiday](https://www.tmtpost.com/6733400.html)|
+|2023-10-08 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[电动汽车平均下来的费用真的比油车便宜吗？](https://www.zhihu.com/question/586876023)|
+|2023-10-08 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价动画 《明日方舟：冬隐归路》？](https://www.zhihu.com/question/624845239)|
+|2023-10-08 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我对象父母有闲钱就会补贴我们小两口生活，但反观我父母却惦记我们的钱，我该怎样调节心理平衡？](https://www.zhihu.com/question/622733322)|
+|2023-10-08 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[三国里的隆中到底是在南阳还是在襄阳？](https://www.zhihu.com/question/356775057)|
+|2023-10-08 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[杭州亚运会赛事门票销售火爆，销售总额破 6.1 亿元，如何看待这一数据？亚运会给城市带来了什么？](https://www.zhihu.com/question/624966128)|
+|2023-10-08 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[24 考研报名正式开始，作为过来人你有哪些建议和鼓励送给今年的考生？](https://www.zhihu.com/question/624993331)|
+|2023-10-08 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[杭州亚运会男足决赛韩国 2:1 逆转日本队夺冠，如何评价本场比赛？](https://www.zhihu.com/question/625036231)|
+|2023-10-08 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[洛阳街头，随处可见穿着汉服骑车的「穿越」场景，如何看待这一现象？你会选择穿汉服打卡吗？](https://www.zhihu.com/question/624965659)|
+|2023-10-08 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[老师曾跟我说过，当Ø在大括号里时，Ø是作为一个元素的，那么在什么情况下Ø会作为元素出现呢？](https://www.zhihu.com/question/613121544)|
+|2023-10-08 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[可以分享一下有生命力的照片或背景图吗？](https://www.zhihu.com/question/624607243)|
+|2023-10-08 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[二战期间发生过哪些非常有趣的事情？](https://www.zhihu.com/question/450165644)|
+|2023-10-08 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[杭州亚运会女排决赛中国女排 3:0 击败日本卫冕亚运女排金牌，如何评价本场比赛？](https://www.zhihu.com/question/625019626)|
+|2023-10-08 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国家体育总局原副局长杜兆才被双开，通报称其「靠体育吃体育，靠足球吃足球」，哪些信息值得关注？](https://www.zhihu.com/question/624980075)|
+|2023-10-08 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[姚明说中国篮球和世界脱轨，你对此言论有哪些评价？](https://www.zhihu.com/question/624895176)|
+|2023-10-08 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果有一个动物长得像鸭子，叫声像鸭子，走路像鸭子，那么它是鸭子吗？](https://www.zhihu.com/question/487107178)|
+|2023-10-08 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「年龄 25，血压 150」高血压呈现年轻化趋势，你在被哪些健康问题困扰吗？](https://www.zhihu.com/question/623104120)|
+|2023-10-08 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[张艺谋《坚如磐石》开分 6.7，知乎推荐度 65%，高了还是低了，符合你的预期吗？](https://www.zhihu.com/question/624388640)|
+|2023-10-08 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《西游记》中凡人不能驾云，那为什么所有的妖精都可以使摄法带唐僧飞走，孙悟空却不行？](https://www.zhihu.com/question/305264438)|
+|2023-10-08 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[日常上班通勤，你的化妆包里都装了哪些必备好物？](https://www.zhihu.com/question/614533709)|
+|2023-10-08 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[假期出游你遇到过哪些「高血压」的糟心经历？为什么现在出去旅游普遍觉得很累？](https://www.zhihu.com/question/623126756)|
+|2023-10-08 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[短途游 / 出差化妆包里应该带哪些必备品？](https://www.zhihu.com/question/622787640)|
+|2023-10-08 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[什么东西你可以接受二手的？](https://www.zhihu.com/question/385369212)|
+|2023-10-08 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 考研大纲有哪些值得关注的变化？考生该如何应对？](https://www.zhihu.com/question/623303375)|
+|2023-10-08 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[面试过程中，当出现哪些话语时，表明面试实际已经结束了？](https://www.zhihu.com/question/622555887)|
+|2023-10-08 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么高血压的症状越来越年轻化，作为年轻人该如何预防？](https://www.zhihu.com/question/624997396)|
+|2023-10-08 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[通过互联网大厂筛选的简历，大概长什么样？](https://www.zhihu.com/question/622553874)|
+|2023-10-08 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[女大学生应该用什么颜色的化妆包比较好呢？](https://www.zhihu.com/question/327002575)|
+|2023-10-08 04:01:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[今年双十一想买台 4K 高刷电竞显示器，3000 元预算有推荐吗？](https://www.zhihu.com/question/621674273)|
+|2023-10-08 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[巴以冲突持续，以军将军事行动命名为「铁剑」，杰哈德宣布加入哈马斯对以色列军事行动，目前情况如何？](https://www.zhihu.com/question/624986754)|
+|2023-10-08 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[自由主义和社会达尔文主义，两者有什么区别，还是说本质一样？](https://www.zhihu.com/question/624721531)|
+|2023-10-08 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[外交部回应「巴以冲突升级」，称根本出路在于落实「两国方案」，建立独立的巴勒斯坦国，透露哪些信息？](https://www.zhihu.com/question/625102612)|
+|2023-10-08 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[离职将近两个月，在新公司一直无法适应，想回前公司却无法说服自己，好纠结怎么办？](https://www.zhihu.com/question/624651218)|
+|2023-10-08 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有人说有线耳机过时了，真的吗，为什还有那么多人使用有线耳机?](https://www.zhihu.com/question/622156075)|
+|2023-10-08 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[英伟达 RTX 3060 名列 Steam 九月硬件榜首，该产品都有哪些新技术？](https://www.zhihu.com/question/624595853)|
+|2023-10-08 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[智能手表的功能比机械手表强很多，为什么还有那么多人买机械手表？](https://www.zhihu.com/question/623897949)|
+|2023-10-08 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何在考研报名阶段打破信息差？](https://zhuanlan.zhihu.com/p/657154213)|
+|2023-10-08 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[新赛季詹姆斯将成为全联盟年龄最大的球员，目前球员身体状况如何？](https://www.zhihu.com/question/624877328)|
+|2023-10-08 04:01:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[一颗金丝楠木能卖到上亿，树苗一株才 10 元左右，为什么没人肯种？](https://www.zhihu.com/question/617358912)|
+|2023-10-08 04:01:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[麻省理工重磅论文引围观，证实大型语言模型是「世界模型」，甚至有独立的时间和空间神经元，这意味着什么？](https://www.zhihu.com/question/624959488)|
+|2023-10-08 04:01:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[用了十五天，120 个小时，看完了资治通鉴，合上书本，发现什么也没记住，突然很迷茫，看书的意义哪里？](https://www.zhihu.com/question/624287648)|
+|2023-10-08 10:00:25|[爱范儿](https://www.ifanr.com/feed)|[Windows 12 最新爆料，爆料人竟是 Intel](https://www.ifanr.com/1564249?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-08 09:35:28|[爱范儿](https://www.ifanr.com/feed)|[同样的 4800 万像素主摄，iPhone 15 Pro 的 Pro 在哪？](https://www.ifanr.com/1564239?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-08 09:53:01|[虎嗅](https://rss.huxiu.com/)|[在21世纪成为一名中世纪盔甲斗士](https://www.huxiu.com/article/2148756.html?f=rss)|
+|2023-10-08 09:46:05|[虎嗅](https://rss.huxiu.com/)|[史玉柱被强制执行牵出与民生信托通道业务纠纷，果真是帮朋友忙惹的祸？](https://www.huxiu.com/article/2148790.html?f=rss)|
+|2023-10-08 09:36:00|[虎嗅](https://rss.huxiu.com/)|[一张罚单牵出1.5亿骗贷大案](https://www.huxiu.com/article/2148795.html?f=rss)|
+|2023-10-08 09:32:00|[虎嗅](https://rss.huxiu.com/)|[我们能不能控制冰封已久的病毒？](https://www.huxiu.com/article/2148440.html?f=rss)|
+|2023-10-08 09:26:27|[虎嗅](https://rss.huxiu.com/)|[欧盟针对中国电动汽车发难，特斯拉、宝马“躺枪”？](https://www.huxiu.com/article/2146768.html?f=rss)|
+|2023-10-08 09:08:09|[虎嗅](https://rss.huxiu.com/)|[共享经济的本质，不是共享，而是租赁](https://www.huxiu.com/article/2148412.html?f=rss)|
+|2023-10-08 09:04:49|[虎嗅](https://rss.huxiu.com/)|[硬核盘点：诺贝尔物理学奖的那些天才少年得主](https://www.huxiu.com/article/2148433.html?f=rss)|
+|2023-10-08 09:48:07|[机核](https://www.gcores.com/rss)|[多人联机塔防《哔哔砰砰大作战》及第一人称惊悚游戏《噩梦初醒》推出新品节试玩版](https://www.gcores.com/articles/171936)|
+|2023-10-08 09:43:00|[机核](https://www.gcores.com/rss)|[《渔帆暗涌》宣布推出首部资料片“冰寒之境”，将于11月16日上线](https://www.gcores.com/articles/171935)|
+|2023-10-08 09:22:31|[机核](https://www.gcores.com/rss)|[育碧满足玩家心愿，过世“刺客猫”现身《刺客信条：幻景》](https://www.gcores.com/articles/171934)|
+|2023-10-08 09:19:25|[机核](https://www.gcores.com/rss)|[操作拉满:实时卡牌战斗游戏《夺牌狂飙》将于10月12日推出](https://www.gcores.com/articles/171933)|
+|2023-10-08 09:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#253：《丁神的诅咒》](https://www.gcores.com/articles/171901)|
+|2023-10-08 08:31:23|[机核](https://www.gcores.com/rss)|[游戏《SPY×FAMILY 间谍家家酒 日记大作战》新预告公布，12月21日推出Switch版本](https://www.gcores.com/articles/171930)|
+|2023-10-08 07:54:37|[机核](https://www.gcores.com/rss)|[《黑暗之魂3》剧情解析故事漫画DLC篇（4）：维赫勒](https://www.gcores.com/articles/171927)|
+|2023-10-08 07:25:20|[机核](https://www.gcores.com/rss)|[《渎神》祷文名称来源简单考据](https://www.gcores.com/articles/171919)|
+|2023-10-08 06:57:00|[机核](https://www.gcores.com/rss)|[龙舅舅，来我家看看新带鱼屏么？三星玄龙骑士电竞显示器G85QB上手体验](https://www.gcores.com/articles/171891)|
+|2023-10-08 05:32:29|[机核](https://www.gcores.com/rss)|[《阿加莎·克里斯蒂：东方快车谋杀案》在Steam新品节期间提供试玩Demo](https://www.gcores.com/articles/171917)|
+|2023-10-08 03:21:50|[机核](https://www.gcores.com/rss)|[《莱卡：岁月凝血》DEMO演示](https://www.gcores.com/videos/171914)|
+|2023-10-08 02:39:45|[机核](https://www.gcores.com/rss)|[《Fate/Samurai Remnant》全球销量突破30万套](https://www.gcores.com/articles/171913)|
+|2023-10-08 02:32:55|[机核](https://www.gcores.com/rss)|[Telltale进行大规模裁员，《与狼同行2》等项目仍在有序开发](https://www.gcores.com/articles/171911)|
+|2023-10-08 02:30:08|[机核](https://www.gcores.com/rss)|[游记分享丨漫画之神与街头霸王](https://www.gcores.com/articles/171821)|
+|2023-10-08 02:00:00|[机核](https://www.gcores.com/rss)|[译介丨格斗游戏角色被禁用的原因](https://www.gcores.com/videos/171897)|
+|2023-10-08 01:52:24|[机核](https://www.gcores.com/rss)|[提升《装甲核心6》代入感，VKB NXT 角斗士 飞行摇杆 左右手套装初体验](https://www.gcores.com/articles/171908)|
+|2023-10-08 01:50:59|[机核](https://www.gcores.com/rss)|[《使命召唤：战区》手游延期至2024年推出，预约玩家人数超4500万](https://www.gcores.com/articles/171909)|
+|2023-10-08 01:45:44|[机核](https://www.gcores.com/rss)|[《红霞岛》现已实装2号更新，带来多种游戏性改进](https://www.gcores.com/articles/171907)|
+|2023-10-08 08:40:57|[极客公园](https://plink.anyfeeder.com/geekpark)|[大模型时代，未来所有公司都是 Data+AI 公司](http://www.geekpark.net/news/325680)|
+|2023-10-08 08:11:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果科技革新！《星際迷航》音頻通訊徽章現實化](https://www.iphonetaiwan.org/2023/10/apple-audio-communication-badge.html)|
+|2023-10-08 07:58:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[未來 MacBook Pro：模組化革命，讓您自由組裝](https://www.iphonetaiwan.org/2023/10/macbook-pro-modular-freedom.html)|
+|2023-10-08 05:06:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Blackmagic Camera 將 iPhone 14/15 變身專業攝影機](https://www.iphonetaiwan.org/2023/10/blackmagic-camera-iphone-14-15-update.html)|
 |2023-10-08 07:44:27|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[小红书能打破高逼格社区的商业化魔咒吗？](https://www.tmtpost.com/6733801.html)|
 |2023-10-08 06:11:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国北卡州，一只流浪小橘猫Marlin，被喜欢小动物的家庭收养。结果因为家里太多狗狗，它也把自己当成了其中一员。从此一起用大盆喝水、外出逛街、到沙滩挖洞，甚至成了家里游泳技术最好的一员。这妥妥是一只小狗啊～](https://dig.chouti.com/link/40220131)|
 |2023-10-08 06:03:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国工程院院士潘镜芙逝世，享年93岁，曾任052导弹驱逐舰总设计师](https://dig.chouti.com/link/40219804)|
