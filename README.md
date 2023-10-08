@@ -2,6 +2,48 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-08 02:42:47|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[NSA 和 CISA 联合揭露当下十大网络安全错误配置](https://www.freebuf.com/news/379857.html)|
+|2023-10-08 03:35:17|[小众软件](https://www.appinn.com/feed/)|[超牛的AI文案/视频创作神器！真的什么都能生成！- 万彩AI丨限时优惠](https://www.appinn.com/wancai-ai/)|
+|2023-10-08 02:36:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“雪王也是有脾气的”：蜜雪冰城一门店声称将偷餐者绑天桥示众8小时引热议](https://m.cnbeta.com.tw/view/1388643.htm)|
+|2023-10-08 02:36:36|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[黑客入侵米高梅系统并窃取客户数据后 公司没有支付赎金](https://m.cnbeta.com.tw/view/1388641.htm)|
+|2023-10-08 02:36:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[RISC-V技术成为中美科技大战的战场](https://m.cnbeta.com.tw/view/1388639.htm)|
+|2023-10-08 02:36:05|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[梅西，成了苹果最热的产品](https://m.cnbeta.com.tw/view/1388637.htm)|
+|2023-10-08 02:35:54|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[5年用户数超6000万 PayPay或成孙正义下一个IPO目标](https://m.cnbeta.com.tw/view/1388633.htm)|
+|2023-10-08 02:35:41|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[广汽三菱销量急剧下滑 日方股东重金押注东南亚 中国市场停产进入倒计时？](https://m.cnbeta.com.tw/view/1388631.htm)|
+|2023-10-08 02:35:28|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[老头狂喜！欧洲的老爷车靠“油改电”复活了](https://m.cnbeta.com.tw/view/1388627.htm)|
+|2023-10-08 02:35:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[只需半滴血，超灵敏血检可量化“泛癌”生物标志物](https://m.cnbeta.com.tw/view/1388625.htm)|
+|2023-10-08 02:05:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[理想和最凶险的“4公里节点”](https://m.cnbeta.com.tw/view/1388623.htm)|
+|2023-10-08 02:05:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[被骗的不止孙艺洲！揭秘螃蟹卡的套路有多深？](https://m.cnbeta.com.tw/view/1388621.htm)|
+|2023-10-08 02:05:23|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[惊天巨骗班克曼纽约受审：死党女友指证鲸吞百亿美元](https://m.cnbeta.com.tw/view/1388619.htm)|
+|2023-10-08 02:21:44|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[精神东北人，治好节后综合症](http://www.huxiu.com/article/2146724.html?f=wangzhan)|
+|2023-10-08 01:00:30|[36氪](https://plink.anyfeeder.com/36kr)|[茶饮料变天了：一个新百亿大单品或将诞生｜焦点分析](https://36kr.com/p/2449568441063559?f=rss)|
+|2023-10-08 00:37:50|[36氪](https://plink.anyfeeder.com/36kr)|[2023网易财经ESG趋势论坛成功召开，23家ESG优秀实践企业获奖](https://36kr.com/p/2465028760311943?f=rss)|
+|2023-10-08 00:30:09|[36氪](https://plink.anyfeeder.com/36kr)|[36氪首发 「联丰迅声」完成Pre-A+轮融资，专注面向环境声音的声学AI检测](https://36kr.com/p/2464252315752580?f=rss)|
+|2023-10-08 00:03:44|[36氪](https://plink.anyfeeder.com/36kr)|[8点1氪丨​苹果商店现黄色软件伪装成学习软件；国家电影局：国庆档票房27.34亿元；吴亦凡经纪公司被强制执行近1900万](https://36kr.com/p/2464994107824261?f=rss)|
+|2023-10-08 04:11:14|[V2EX](https://www.v2ex.com/index.xml)|[ 远程工作 资深前端开发找一个远程工作](https://www.v2ex.com/t/979807#reply0)|
+|2023-10-08 03:59:59|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 想知道各位独立开发者的网站或者 App 的 UI 都是怎么设计出来的？](https://www.v2ex.com/t/979803#reply0)|
+|2023-10-08 03:59:09|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 新 bimmer，求老 bimmer 指点](https://www.v2ex.com/t/979802#reply0)|
+|2023-10-08 03:58:48|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 我的独立开发思考：你的产品价值到底在哪里？](https://www.v2ex.com/t/979801#reply0)|
+|2023-10-08 03:56:37|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 Github 开源自荐: 用经典台词学英语](https://www.v2ex.com/t/979800#reply0)|
+|2023-10-08 03:55:32|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 请问如何能在锁屏的情况下通过 Screen Sharing 访问 Mac 主机呢？](https://www.v2ex.com/t/979799#reply0)|
+|2023-10-08 03:53:01|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Mac Book 蝶式键盘故障过保，怎么处理](https://www.v2ex.com/t/979798#reply2)|
+|2023-10-08 03:46:15|[V2EX](https://www.v2ex.com/index.xml)|[ iOS iOS17 升级后微信分享跳转到微信,显示连接中,然后马上又跳回了,有没有大佬给点思路的,16.4 都正常](https://www.v2ex.com/t/979797#reply0)|
+|2023-10-08 03:45:12|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 更新后的 15Promax 体验是不是属于 OK？](https://www.v2ex.com/t/979796#reply3)|
+|2023-10-08 03:45:07|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 使用教育邮箱白嫖 Azure OpenAI 100 美元](https://www.v2ex.com/t/979795#reply2)|
+|2023-10-08 03:45:01|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 好奇出去嫖的人都是怎么入坑的，不怕被抓不怕仙人跳吗？](https://www.v2ex.com/t/979794#reply0)|
+|2023-10-08 03:43:58|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请大佬们给我一个 7000 以内的电脑配置单，带显示器。](https://www.v2ex.com/t/979793#reply1)|
+|2023-10-08 03:42:53|[V2EX](https://www.v2ex.com/index.xml)|[ 随想 移动硬盘丢失后，如何启动自爆程序？](https://www.v2ex.com/t/979792#reply17)|
+|2023-10-08 03:42:39|[V2EX](https://www.v2ex.com/index.xml)|[ 杭州 如果你是一位需要借助地铁 6 号线上班的杭州人](https://www.v2ex.com/t/979791#reply0)|
+|2023-10-08 03:38:21|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 大家觉得我这个英语产品思路怎么样](https://www.v2ex.com/t/979790#reply1)|
+|2023-10-08 03:38:07|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 我还是想问 在 mac 上有没有 ssh+sftp 一体的软件,除了 securecrt 和 Termius](https://www.v2ex.com/t/979789#reply8)|
+|2023-10-08 03:37:38|[V2EX](https://www.v2ex.com/index.xml)|[  WATCH Wifi 版的 AW4 能和 airtag 一样定位吗？](https://www.v2ex.com/t/979788#reply0)|
+|2023-10-08 03:30:17|[V2EX](https://www.v2ex.com/index.xml)|[ Edge 微软国内可真能见缝插针强塞广告，关闭 edge 直接弹框塞流量主网站？](https://www.v2ex.com/t/979785#reply2)|
+|2023-10-08 03:29:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 野生编码爱好者，有没有可以练习项目开发的平台？](https://www.v2ex.com/t/979784#reply3)|
+|2023-10-08 03:24:32|[V2EX](https://www.v2ex.com/index.xml)|[ 推广 限免 DateTracker - 简约实用的日期追踪和管理应用](https://www.v2ex.com/t/979782#reply0)|
+|2023-10-08 03:17:40|[V2EX](https://www.v2ex.com/index.xml)|[ 浏览器 Edge 工作区](https://www.v2ex.com/t/979779#reply0)|
+|2023-10-08 03:17:26|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 马上双十一了，计划好买啥了吗？](https://www.v2ex.com/t/979778#reply12)|
+|2023-10-08 03:16:49|[V2EX](https://www.v2ex.com/index.xml)|[ LeetCode 142. 环形链表 II 我这么写为什么有个 case 无法通过](https://www.v2ex.com/t/979777#reply2)|
+|2023-10-08 03:13:15|[V2EX](https://www.v2ex.com/index.xml)|[ Surge surge5 for Mac 三车位出一个 120](https://www.v2ex.com/t/979776#reply0)|
 |2023-10-08 00:28:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[连续11个月增持，中国黄金储备首次站上7000万盎司](https://dig.chouti.com/link/40216592)|
 |2023-10-08 03:11:32|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud icloud 土区 2 个车位，只接受年付，长期](https://www.v2ex.com/t/979775#reply0)|
 |2023-10-08 03:06:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 社会毒瘤-菜鸟裹裹-没有部门能监管？](https://www.v2ex.com/t/979772#reply1)|
