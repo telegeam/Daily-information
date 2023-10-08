@@ -2,6 +2,90 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-08 07:44:27|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[小红书能打破高逼格社区的商业化魔咒吗？](https://www.tmtpost.com/6733801.html)|
+|2023-10-08 06:11:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国北卡州，一只流浪小橘猫Marlin，被喜欢小动物的家庭收养。结果因为家里太多狗狗，它也把自己当成了其中一员。从此一起用大盆喝水、外出逛街、到沙滩挖洞，甚至成了家里游泳技术最好的一员。这妥妥是一只小狗啊～](https://dig.chouti.com/link/40220131)|
+|2023-10-08 06:03:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国工程院院士潘镜芙逝世，享年93岁，曾任052导弹驱逐舰总设计师](https://dig.chouti.com/link/40219804)|
+|2023-10-08 03:12:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[江歌妈妈称将直播带货：“带货目的同样是为了赚钱，但我会把选品和服务放在第一位，把赚钱放在第二位。我更希望您不仅仅是因为我的遭遇，而是因为我推荐给您的商品好才下单。”](https://dig.chouti.com/link/40218332)|
+|2023-10-08 08:13:59|[虎嗅](https://plink.anyfeeder.com/huxiu)|[回望33年前的北京亚运会，有多不容易？](https://www.huxiu.com/article/2148775.html?f=rss)|
+|2023-10-08 08:06:17|[虎嗅](https://plink.anyfeeder.com/huxiu)|[1TB，也治不好当代人的内存焦虑](https://www.huxiu.com/article/2148740.html?f=rss)|
+|2023-10-08 08:05:22|[虎嗅](https://plink.anyfeeder.com/huxiu)|[Meta遭举牌抗议，开放模型可能导致AI失控？](https://www.huxiu.com/article/2148761.html?f=rss)|
+|2023-10-08 07:47:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[霍华德·马克斯：“轻松赚钱的经济环境”一去不复返了](https://www.huxiu.com/article/2148771.html?f=rss)|
+|2023-10-08 07:37:20|[虎嗅](https://plink.anyfeeder.com/huxiu)|[国庆八天假，让我发现了堵车的秘密](https://www.huxiu.com/article/2148755.html?f=rss)|
+|2023-10-08 07:29:11|[虎嗅](https://plink.anyfeeder.com/huxiu)|[基础设施的生命周期，如何塑造了我们的时间？](https://www.huxiu.com/article/2148117.html?f=rss)|
+|2023-10-08 07:19:26|[虎嗅](https://plink.anyfeeder.com/huxiu)|[巴以冲突24小时](https://www.huxiu.com/article/2148776.html?f=rss)|
+|2023-10-08 07:12:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“死亡”到底如何定义？](https://www.huxiu.com/article/2148459.html?f=rss)|
+|2023-10-08 06:43:25|[虎嗅](https://plink.anyfeeder.com/huxiu)|[特斯拉准备撤离墨西哥工厂？](https://www.huxiu.com/article/2148767.html?f=rss)|
+|2023-10-08 06:41:37|[虎嗅](https://plink.anyfeeder.com/huxiu)|[哈马斯缘何突袭以色列？](https://www.huxiu.com/article/2148768.html?f=rss)|
+|2023-10-08 06:40:33|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“以色列陷阱”：和平是仅次于战争的威胁](https://www.huxiu.com/article/2148435.html?f=rss)|
+|2023-10-08 06:30:09|[虎嗅](https://plink.anyfeeder.com/huxiu)|[AI提示词工程师：新兴职业还是过眼云烟？](https://www.huxiu.com/article/2148155.html?f=rss)|
+|2023-10-08 06:25:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[作家鲁敏：江浙沪小老板的故事充满神奇](https://www.huxiu.com/article/2148422.html?f=rss)|
+|2023-10-08 06:20:16|[虎嗅](https://plink.anyfeeder.com/huxiu)|[宇宙第二定律：屁股决定脑袋](https://www.huxiu.com/article/2148137.html?f=rss)|
+|2023-10-08 06:18:23|[虎嗅](https://plink.anyfeeder.com/huxiu)|[寒露之后，秋意浓](https://www.huxiu.com/article/2148165.html?f=rss)|
+|2023-10-08 06:18:20|[虎嗅](https://plink.anyfeeder.com/huxiu)|[以色列的“珍珠港时刻”：巴以冲突升级，如何影响油价？](https://www.huxiu.com/article/2148362.html?f=rss)|
+|2023-10-08 07:07:10|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我做了款让你知道自己的时间都去哪了的 App: 时间印迹，已上线 AppStore!](https://w2solo.com/topics/4176)|
+|2023-10-08 09:05:05|[V2EX](https://v2ex.com/index.xml)|[ Windows 你们的 Windows 除了 gaming 用来干嘛](https://www.v2ex.com/t/979929#reply2)|
+|2023-10-08 09:02:52|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想做一款基于小程序+ Beacon 的室内定位的 saas 产品，大家觉得有市场吗？](https://www.v2ex.com/t/979927#reply0)|
+|2023-10-08 08:57:29|[V2EX](https://v2ex.com/index.xml)|[ 问与答 关于 openai gpt-4 有没有中间商愿意赚差价？](https://www.v2ex.com/t/979925#reply6)|
+|2023-10-08 08:52:54|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 在没开后台刷新的情况下，淘宝 APP 是如何偷偷上传这么多流量的？](https://www.v2ex.com/t/979924#reply2)|
+|2023-10-08 08:50:34|[V2EX](https://v2ex.com/index.xml)|[ 问与答 给儿征名，选中红包感谢](https://www.v2ex.com/t/979923#reply25)|
+|2023-10-08 08:49:50|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没大佬用 NextJS13 写网站接入微信支付的？想请教一些问题](https://www.v2ex.com/t/979922#reply0)|
+|2023-10-08 08:48:51|[V2EX](https://v2ex.com/index.xml)|[ 程序员 大佬们，有了解移动和电信专线的区别吗](https://www.v2ex.com/t/979921#reply2)|
+|2023-10-08 08:48:10|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 外包一个开源 create.t3.gg 全栈项目](https://www.v2ex.com/t/979919#reply1)|
+|2023-10-08 08:46:27|[V2EX](https://v2ex.com/index.xml)|[ 前端开发 C 端的 Button 组件要怎么封装？](https://www.v2ex.com/t/979918#reply0)|
+|2023-10-08 08:43:14|[V2EX](https://v2ex.com/index.xml)|[ Apple mac 有没有和 potplayer 一样强大的视频播放器？](https://www.v2ex.com/t/979917#reply7)|
+|2023-10-08 08:41:43|[V2EX](https://v2ex.com/index.xml)|[ Java 关于 Java module 的讨论](https://www.v2ex.com/t/979916#reply0)|
+|2023-10-08 08:39:57|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 上海有办理移动或者联通专线的大佬麽，求带带路](https://www.v2ex.com/t/979915#reply0)|
+|2023-10-08 08:37:08|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 cn 域名禁止未备案的访问了](https://www.v2ex.com/t/979912#reply10)|
+|2023-10-08 08:36:54|[V2EX](https://v2ex.com/index.xml)|[ 北京 房山线篱笆房站次卧出租 1100](https://www.v2ex.com/t/979911#reply0)|
+|2023-10-08 08:36:23|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 如果小主机只有一个网口，用 usb3 的千兆网口如何？](https://www.v2ex.com/t/979910#reply4)|
+|2023-10-08 08:35:46|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求推荐云/远程文件存储方案](https://www.v2ex.com/t/979909#reply1)|
+|2023-10-08 08:33:46|[V2EX](https://v2ex.com/index.xml)|[ 全球工单系统 thinkbook14p g3 6800h 版用不了 usb4](https://www.v2ex.com/t/979908#reply0)|
+|2023-10-08 08:30:06|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 3D 版电子木鱼小程序，功德倍增器](https://www.v2ex.com/t/979907#reply0)|
+|2023-10-08 08:24:28|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 个人做前端的，有活或者团队收留吗？](https://www.v2ex.com/t/979906#reply0)|
+|2023-10-08 08:19:59|[V2EX](https://v2ex.com/index.xml)|[ 问与答 保险 请问 V 友们， 0 基础如何全面了解一下保险相关的知识？](https://www.v2ex.com/t/979904#reply1)|
+|2023-10-08 08:15:35|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 我的第一个 app iOS 事轴 - 多条时间轴记事 支持图片](https://www.v2ex.com/t/979903#reply4)|
+|2023-10-08 08:08:26|[V2EX](https://v2ex.com/index.xml)|[ 程序员 感觉新的编程语言噱头大于改进](https://www.v2ex.com/t/979901#reply5)|
+|2023-10-08 08:07:40|[V2EX](https://v2ex.com/index.xml)|[ 问与答 谁能说下怎么安装谷歌全家桶](https://www.v2ex.com/t/979900#reply1)|
+|2023-10-08 08:06:00|[V2EX](https://v2ex.com/index.xml)|[ 问与答 程序员在上海好还是杭州好一点](https://www.v2ex.com/t/979899#reply3)|
+|2023-10-08 07:58:19|[V2EX](https://v2ex.com/index.xml)|[ 问与答 大家打开微信，需要看地球几秒？](https://www.v2ex.com/t/979897#reply13)|
+|2023-10-08 07:56:35|[V2EX](https://v2ex.com/index.xml)|[ Android 小米日历图标上的日期不正确](https://www.v2ex.com/t/979896#reply9)|
+|2023-10-08 07:55:28|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求助 安卓的 app 如何禁用联网权限](https://www.v2ex.com/t/979895#reply1)|
+|2023-10-08 07:55:04|[V2EX](https://v2ex.com/index.xml)|[ 问与答 编写软件操作手册或者使用说明书有好用的图片标注工具推荐吗？](https://www.v2ex.com/t/979894#reply0)|
+|2023-10-08 07:53:18|[V2EX](https://v2ex.com/index.xml)|[ iPhone 17.0.3 新 bug](https://www.v2ex.com/t/979893#reply0)|
+|2023-10-08 07:50:59|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 北京/美团 📣📣📣 招人了 美团办公效率前端-大象 Web 研发 ](https://www.v2ex.com/t/979892#reply0)|
+|2023-10-08 07:50:42|[V2EX](https://v2ex.com/index.xml)|[ Apple 购买 AppleCare+，需要有美区信用卡朋友帮忙](https://www.v2ex.com/t/979891#reply3)|
+|2023-10-08 07:46:34|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有啥低成本的付费推广移动 app 或 pc 软件的渠道，已知的都太贵了](https://www.v2ex.com/t/979890#reply0)|
+|2023-10-08 07:46:17|[V2EX](https://v2ex.com/index.xml)|[ 生活 地下车库停车费一个月 150 什么水平？](https://www.v2ex.com/t/979889#reply18)|
+|2023-10-08 07:42:37|[V2EX](https://v2ex.com/index.xml)|[ Apple M1 MacBook Air 更新 macOS Sonoma 的两个大 BUG](https://www.v2ex.com/t/979888#reply1)|
+|2023-10-08 07:42:07|[V2EX](https://v2ex.com/index.xml)|[ 问与答 哪些工具能实现新闻关键词订阅或推送？](https://www.v2ex.com/t/979887#reply6)|
+|2023-10-08 07:38:03|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 想龟壳想疯了](https://www.v2ex.com/t/979886#reply0)|
+|2023-10-08 07:37:57|[V2EX](https://v2ex.com/index.xml)|[ 程序员 前端🐶，终究还是失业了，坐标苏州，求捞啊..😭😭](https://www.v2ex.com/t/979885#reply11)|
+|2023-10-08 07:32:52|[V2EX](https://v2ex.com/index.xml)|[ VPS 出 zgovps 日本 NTT，联通移动起飞，原价出](https://www.v2ex.com/t/979884#reply0)|
+|2023-10-08 07:29:48|[V2EX](https://v2ex.com/index.xml)|[ 问与答 看到别人说第一次出国最好不要去日本，不然之后无论去哪里体验都不如日本](https://www.v2ex.com/t/979883#reply0)|
+|2023-10-08 07:25:16|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 Divoom Times Gate 桌面电子摆件，这玩意看着挺不错哦](https://www.v2ex.com/t/979882#reply2)|
+|2023-10-08 07:24:50|[V2EX](https://v2ex.com/index.xml)|[ 问与答 各位平时闲钱都放哪里生钱？](https://www.v2ex.com/t/979881#reply10)|
+|2023-10-08 07:21:02|[V2EX](https://v2ex.com/index.xml)|[ 问与答 v2ex 是不是没墙了，我现在可以正常访问](https://www.v2ex.com/t/979880#reply1)|
+|2023-10-08 07:20:51|[V2EX](https://v2ex.com/index.xml)|[ 机械键盘 如果 HHKB 有 30g 的版本就好了](https://www.v2ex.com/t/979879#reply1)|
+|2023-10-08 07:18:48|[V2EX](https://v2ex.com/index.xml)|[ 问与答 iPhone 里如何快速设置 Wi-Fi 的 Http Proxy](https://www.v2ex.com/t/979878#reply0)|
+|2023-10-08 07:14:59|[V2EX](https://v2ex.com/index.xml)|[ Linux less， diff 等命令把结果直接输出到终端时会把 tab 转换为空格，有办法阻止这些命令做转换吗？](https://www.v2ex.com/t/979876#reply15)|
+|2023-10-08 07:13:43|[V2EX](https://v2ex.com/index.xml)|[ Spotify 港区 Spotify 招一位](https://www.v2ex.com/t/979875#reply0)|
+|2023-10-08 07:10:00|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求推荐客服工具](https://www.v2ex.com/t/979873#reply13)|
+|2023-10-08 07:07:12|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没有免费的微信群二维码采集脚本？](https://www.v2ex.com/t/979872#reply0)|
+|2023-10-08 07:01:44|[V2EX](https://v2ex.com/index.xml)|[ 程序员 没有 https 的情况下， jwt 是不是也不安全？](https://www.v2ex.com/t/979871#reply22)|
+|2023-10-08 06:57:15|[V2EX](https://v2ex.com/index.xml)|[ Surge Surge 5 for Mac 新开车，人满发车](https://www.v2ex.com/t/979869#reply0)|
+|2023-10-08 07:01:03|[36氪](https://plink.anyfeeder.com/36kr)|[第四范式上市：定制服务增收不增利，大模型能否解困局？｜氪金 · 大事件](https://36kr.com/p/2463734858127489?f=rss)|
+|2023-10-08 06:58:36|[36氪](https://plink.anyfeeder.com/36kr)|[CSDN蒋涛：未来会出现一批「超级程序员」个体，类似视频的up主丨专访](https://36kr.com/p/2463737791092868?f=rss)|
+|2023-10-08 06:55:03|[36氪](https://plink.anyfeeder.com/36kr)|[装修越来越贵，硬装成本近7年涨一半｜氪金 · 房地产](https://36kr.com/p/2463726351325058?f=rss)|
+|2023-10-08 06:38:51|[36氪](https://plink.anyfeeder.com/36kr)|[无人剧本杀门店获千万元融资、华为英飞拓智慧城市项目建成、四川出台元宇宙专项政策 PropTech周刊77期](https://36kr.com/p/2465380589016967?f=rss)|
+|2023-10-08 06:18:45|[36氪](https://plink.anyfeeder.com/36kr)|[将数字科技与时尚产业相融合，打造「虚实共生，数位重建」的未来](https://36kr.com/p/2448221440989060?f=rss)|
+|2023-10-08 05:04:50|[36氪](https://plink.anyfeeder.com/36kr)|[大模型推理bug！问题翻转，回答全错，GPT到Llama无一幸免](https://36kr.com/p/2465100458399879?f=rss)|
+|2023-10-08 03:56:16|[36氪](https://plink.anyfeeder.com/36kr)|[早期项目 物联网厂商爱云科技推出高精定位终端，已合作小鹏、吉利](https://36kr.com/p/2463803477759877?f=rss)|
+|2023-10-08 08:57:17|[虎嗅](https://rss.huxiu.com/)|[Champion或被卖身，但这次不是它的错](https://www.huxiu.com/article/2148425.html?f=rss)|
+|2023-10-08 08:27:59|[虎嗅](https://rss.huxiu.com/)|[癌症是一种代谢疾病：肝癌诊疗的新思路？](https://www.huxiu.com/article/2148400.html?f=rss)|
+|2023-10-08 06:17:46|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[ملاحظات حول استخدام Git في AD](https://wiki-power.com/ar/AD%E4%BD%BF%E7%94%A8Git%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-08 05:58:39|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[Home](https://wiki-power.com/ar/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-08 05:58:39|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[التواصل والاشتراك](https://wiki-power.com/ar/Contact-and-Subscribe/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-08 05:58:39|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[WeChat](https://wiki-power.com/ar/WeChat/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
 |2023-10-08 06:40:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[市值蒸发80%，美国线上“莆田医院”故事为什么不好讲](https://www.tmtpost.com/6733662.html)|
 |2023-10-08 06:26:41|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[同一资产二次上市，发行市盈率高达51.29倍，浙江国祥IPO被紧急喊停，上交所：开展专项核查](https://www.tmtpost.com/6733731.html)|
 |2023-10-08 06:10:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[8.26亿人次出游，双节加持旅游市场表现返超2019年](https://www.tmtpost.com/6733671.html)|
