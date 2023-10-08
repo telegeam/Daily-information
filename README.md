@@ -1,7 +1,9 @@
-﻿# 每日资讯（2023-10-07）
+﻿# 每日资讯（2023-10-08）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-08 00:56:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[5. 用 Go 打造现代 IM 之百万消息 QPS 的数据库](https://www.v2ex.com/t/979685#reply0)|
+|2023-10-08 00:57:38|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 网上闲逛发现一个网页版红警](https://www.v2ex.com/t/979687#reply0)|
 |2023-10-07 08:05:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[TechInsights：预计5G智能手机市场将在2024年恢复增长](https://m.cnbeta.com.tw/view/1388563.htm)|
 |2023-10-07 07:36:53|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[欧盟推出首台ExaFlop超级计算机 采用ARM与NVIDIA的架构](https://m.cnbeta.com.tw/view/1388561.htm)|
 |2023-10-07 07:36:40|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[更强大的GeForce RTX 4080 Ti GPU明年年初推出 价格与RTX 4080相同](https://m.cnbeta.com.tw/view/1388557.htm)|
@@ -169,6 +171,7 @@
 |2023-10-07 05:54:56|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 有 2 孩的老哥进](https://www.v2ex.com/t/979489#reply18)|
 |2023-10-07 05:54:31|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 activiti7 变量相关问题？是 BUG 还是我的姿势不对？](https://www.v2ex.com/t/979488#reply1)|
 |2023-10-07 06:05:09|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[29岁回清华任教，诺奖得主的“中国弟子”开创量子点光谱技术新应用](https://www.tmtpost.com/6732255.html)|
+|2023-10-08 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[高达SEED 2024剧场版 PV3](https://leimao.github.io/essay/Gundam-SEED-2024%E5%89%A7%E5%9C%BA%E7%89%88-PV3/)|
 |2023-10-07 02:18:01|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[重庆长江北岸，慢慢消失的鱼嘴镇](http://www.huxiu.com/article/2141985.html?f=wangzhan)|
 |2023-10-07 05:32:46|[机核](https://www.gcores.com/rss)|[金光乍现！全新 Xbox 无线控制器「暗影鎏金」特别版 即将上市！](https://www.gcores.com/articles/171877)|
 |2023-10-07 05:14:31|[机核](https://www.gcores.com/rss)|[挑战画20张Synthwave插画，并且找到复古科幻的秘密](https://www.gcores.com/videos/171876)|
