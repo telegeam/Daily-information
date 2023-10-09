@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-09 03:35:52|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国商界到底有多重视AI？毕马威调查：这已成CEO们首要投资重点](https://m.cnbeta.com.tw/view/1388815.htm)|
+|2023-10-09 03:35:36|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[电池虽小但续航更长？iPhone 15 Pro系列续航表现实测](https://m.cnbeta.com.tw/view/1388811.htm)|
+|2023-10-09 03:35:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉9月交付突破7.4万 年内累计交付达到70万台](https://m.cnbeta.com.tw/view/1388809.htm)|
+|2023-10-09 03:06:58|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[钠离子电池协会团体标准已公开征求意见](https://m.cnbeta.com.tw/view/1388803.htm)|
+|2023-10-09 03:06:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[国产超跑昊铂SSR今日上市 零百加速仅需1.9秒 预售价格128.6万起](https://m.cnbeta.com.tw/view/1388801.htm)|
+|2023-10-09 03:06:32|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[基于Android 14的OPPO ColorOS 14发布时间定于11月16日](https://m.cnbeta.com.tw/view/1388799.htm)|
+|2023-10-09 03:06:16|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[微软确认并非每个人都能在Windows 11上使用Windows Copilot](https://m.cnbeta.com.tw/view/1388795.htm)|
+|2023-10-09 03:06:01|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[诺斯罗普·格鲁曼将为美国海军制造“一击必杀”炮弹 自动转向与跟踪移动目标](https://m.cnbeta.com.tw/view/1388785.htm)|
+|2023-10-09 03:05:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[OPPO新机Find N3折叠屏将搭载国密二级安全芯片](https://m.cnbeta.com.tw/view/1388783.htm)|
+|2023-10-09 03:05:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[日本计划投入2亿美元 以支持开发氢燃料电池飞机](https://m.cnbeta.com.tw/view/1388777.htm)|
+|2023-10-09 03:05:23|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果开始下一代Vision Pro研发：尺寸更小、更易佩戴](https://m.cnbeta.com.tw/view/1388775.htm)|
+|2023-10-09 02:36:59|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[台湾南科为目前唯一可量产3nm芯片地区 三期扩建已动工](https://m.cnbeta.com.tw/view/1388773.htm)|
+|2023-10-09 02:36:49|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[日媒：中国年轻一代智能手机用户正掀起一场汉字“革命”](https://m.cnbeta.com.tw/view/1388771.htm)|
+|2023-10-09 02:36:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[全球流量Top50的“AI网站”榜单出炉 C端用户都愿意用AI干什么？](https://m.cnbeta.com.tw/view/1388769.htm)|
+|2023-10-09 02:36:18|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[哈马斯突袭以色列 全球市场遭遇新的地缘政治风险](https://m.cnbeta.com.tw/view/1388767.htm)|
+|2023-10-09 02:36:01|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[芒格：人工智能被过度炒作 大部分比特币投资将归零](https://m.cnbeta.com.tw/view/1388765.htm)|
+|2023-10-09 02:35:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[欧佩克领导人为化石燃料辩护：不应该污名化 世界仍然需要石油和天然气](https://m.cnbeta.com.tw/view/1388763.htm)|
+|2023-10-09 02:35:37|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[约恩·福瑟获2023年度诺贝尔文学奖 挪威为何能诞生四位诺奖作家？](https://m.cnbeta.com.tw/view/1388761.htm)|
+|2023-10-09 02:35:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克称赞中国车企最具竞争力](https://m.cnbeta.com.tw/view/1388759.htm)|
+|2023-10-09 05:38:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[IntelliJ IDEA Ultimate 授权还有接近 18 个月，有人感兴趣么？](https://www.v2ex.com/t/980218#reply4)|
+|2023-10-09 05:13:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[***请推荐 win11 APP 开发框架和思路, 谢谢***](https://www.v2ex.com/t/980209#reply7)|
+|2023-10-09 05:37:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[google voice 如何保持一直活跃](https://www.v2ex.com/t/980217#reply14)|
+|2023-10-09 02:22:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想探讨一下钉钉对几种远程打卡的检测与限制呀](https://www.v2ex.com/t/980127#reply79)|
+|2023-10-09 06:34:30|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[【Fintech 周报】刘连舸被开除党籍；蚂蚁消金拟增资至230亿；汇丰收购花旗中国内地个人财富管理业务](https://www.tmtpost.com/6735139.html)|
+|2023-10-09 06:12:35|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[月订单超 5 万，华为问界新 M7 再次「打残」理想？](https://www.tmtpost.com/6735049.html)|
+|2023-10-09 06:11:57|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[4.8%高增长后，日本正在起变化：该死的企业就去死吧](https://www.tmtpost.com/6735011.html)|
+|2023-10-09 06:09:58|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[非典型马斯克，可能是让中国人最纠结的名人](https://www.tmtpost.com/6734987.html)|
+|2023-10-09 04:15:30|[爱范儿](https://plink.anyfeeder.com/ifanr)|[Funtouch OS 14 在海外正式发布，国内的 vivo 用户终于跑在了前面](https://www.ifanr.com/1564285?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-09 05:12:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[主持人李思思从央视离职了](https://dig.chouti.com/link/40230217)|
+|2023-10-09 03:04:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[AI大模型折叠：数据标注“民工”月入不过5000，单价从5毛降到4分](https://dig.chouti.com/link/40228682)|
+|2023-10-09 04:16:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[村小昆虫记](https://dig.chouti.com/link/40229612)|
+|2023-10-09 02:12:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[乌克兰基辅街头亮起以色列国旗表达对以色列的支持。基辅市长维塔利·克利奇科在社交媒体上发文称，“从20:00开始，以色列国旗将在基辅街道上的350多个户外广告媒体上展示半个小时”。](https://dig.chouti.com/link/40228045)|
+|2023-10-09 03:22:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[真假蟹卡背后：谁泄露了收货人地址？](https://dig.chouti.com/link/40228924)|
+|2023-10-09 04:46:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【爱情片营销亡于2023？】曾经《前任3》仅用7亿多的短视频话题播放量，撬动了19亿票房；现在《前任4》80亿的话题播放量，国庆9天才换来票房7亿多。](https://dig.chouti.com/link/40229721)|
+|2023-10-09 06:22:32|[iMaeGoo's Blog](https://www.imaegoo.com/atom.xml)|[git clone ssh 走代理](https://www.imaegoo.com/2023/git-clone-ssh-proxy/)|
 |2023-10-09 05:00:00|[机核](https://plink.anyfeeder.com/gcores)|[漫威传奇独行侠体验](https://www.gcores.com/videos/171878)|
 |2023-10-09 04:02:34|[机核](https://plink.anyfeeder.com/gcores)|[策略肉鸽自走棋《传奇生物2》将于10月17日发售,首周9折特惠](https://www.gcores.com/articles/171952)|
 |2023-10-09 05:43:27|[伪斜杠青年](http://i.lckiss.com/?feed=rss2)|[Exoplayer AAC（ADTS/ADTS）/ AMR media duration](https://i.lckiss.com/?p=8293)|
