@@ -2,6 +2,42 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-09 00:47:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何翻译 identification 和 flag？](https://www.v2ex.com/t/980081#reply11)|
+|2023-10-09 02:22:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想探讨一下钉钉对几种远程打卡的检测与限制呀](https://www.v2ex.com/t/980127#reply63)|
+|2023-10-09 00:36:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[密码学得不好，请问这种简单用户 id 加密模式的安全性有多大问题？](https://www.v2ex.com/t/980076#reply59)|
+|2023-10-09 04:25:00|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位有没有过出现 bug 离奇消失之事](https://www.v2ex.com/t/980191#reply9)|
+|2023-10-09 04:58:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[源码管理的 defaultViewSortKey 是否应该默认设置为 status](https://www.v2ex.com/t/980203#reply0)|
+|2023-10-09 03:00:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[网络安全防护厂商，网络攻击](https://www.v2ex.com/t/980149#reply4)|
+|2023-10-09 04:11:38|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[巴以冲突舆论、网络战同时开打，多国黑客组织下场](https://www.freebuf.com/news/379971.html)|
+|2023-10-09 04:36:39|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[从赤贫到巨富再到涉罪被查：许家印的人生起落](https://cn.nytimes.com/business/20231009/china-evergrande-founder-hui-ka-yan/?utm_source=RSS)|
+|2023-10-09 03:01:41|[机核](https://plink.anyfeeder.com/gcores)|[《小偷模拟器2》现已正式发售，官方公布更新路线图](https://www.gcores.com/articles/171950)|
+|2023-10-09 00:53:05|[少数派](https://plink.anyfeeder.com/sspai)|[派早报](https://sspai.com/post/83429)|
+|2023-10-09 01:13:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[参加美国演员工会罢工示威的美剧明星：骨姐/骨妹Zooey和Emily Deschanel；《汉尼拔》Hugh Dancy；风骚律师Bob Odenkirk和Jack Black；《最后生还者》Pedro Pascal；《你》Penn Badgley；6《海豹突击队》David Boreanaz；老白和小粉；《绝望写手》Hannah Einbinder和Jean Smart；摩登家庭Julie Bowen和Jesse Tyler Ferguson](https://dig.chouti.com/link/40227395)|
+|2023-10-09 01:47:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“钱挣不到，但饿也不饿死，只能这么一直跑下去”丨200个司机抢10个乘客，中年人困在网约车里](https://dig.chouti.com/link/40227569)|
+|2023-10-09 01:02:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【我不是文盲】半个多世纪了，兰州老人陶锦芳还没有恢复自己的教师身份。尽管她讲普通话，认识字，还会用微信，而在户口簿上，她被认定成“文盲或半文盲”。](https://dig.chouti.com/link/40227111)|
+|2023-10-09 02:13:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2023北约老虎会](https://dig.chouti.com/link/40228080)|
+|2023-10-09 03:12:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据美国广播公司（ABC）报道，当地时间8日，美国多个城市现大规模抗议，巴勒斯坦和以色列双方支持者在街头“混战”。白宫也被抗议者包围，许多抗议者在白宫门前举起标语高声喊话。 ​](https://dig.chouti.com/link/40228839)|
+|2023-10-09 02:19:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[K435列车杀人案安检人员被问责：站长、副站长、安检员等履职不力被撤职、免职](https://dig.chouti.com/link/40228111)|
+|2023-10-09 02:35:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【欧美皮包公司全套作假卖“三无”飞机发动机零件，涉事飞机集体停飞】CFM56系列是商用航空中最受欢迎的高涵道比涡轮风扇发动机。9月底，欧盟航空监管机构确定零件供应商AOG Technics多年来伪造了大量安全文件，出售的涡轮叶片等关键零部件均属于仿冒产品，用在了全世界至少126台引擎上（主要是CFM56，但并不全是）。](https://dig.chouti.com/link/40228228)|
+|2023-10-09 02:12:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网传一男孩在游泳池溺亡，从出现挣扎到被扶上岸，长达10分钟无人救援。有网友质疑，这事儿应该赖安全员？赖孩子父母？还是赖旁边的人见死不救？](https://dig.chouti.com/link/40228020)|
+|2023-10-09 01:13:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[情感播主汪小菲直播要点：1、光头（具俊晔）根本不在台北住，跑了；2、孩子每天和汪小菲在一起；3、不管怎么样大s是前妻，不会放下她；4、汪小菲还爱大s；5、汪小菲问要再复婚呢？不好吗？；6、大s身体不好，在台北看到大s过成这样，心里不痛快，以前跟汪小菲在一起的时候不会让她受这个苦……](https://dig.chouti.com/link/40227403)|
+|2023-10-09 04:20:55|[虎嗅](https://plink.anyfeeder.com/huxiu)|[那些年，那些引进的海外电视连续剧](https://www.huxiu.com/article/2151337.html?f=rss)|
+|2023-10-09 04:13:19|[虎嗅](https://plink.anyfeeder.com/huxiu)|[美债山洪暴发之际，主要买家正在大规模回撤](https://www.huxiu.com/article/2151540.html?f=rss)|
+|2023-10-09 04:00:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[中国作为大米发源地，怎么就让日本偷了家？](https://www.huxiu.com/article/2151530.html?f=rss)|
+|2023-10-09 03:24:14|[虎嗅](https://plink.anyfeeder.com/huxiu)|[与AI共舞：服务型领导如何促进员工的信心与发展](https://www.huxiu.com/article/2151477.html?f=rss)|
+|2023-10-09 03:20:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[押宝音乐节的河南“第三城”如何破圈？](https://www.huxiu.com/article/2146731.html?f=rss)|
+|2023-10-09 03:15:55|[虎嗅](https://plink.anyfeeder.com/huxiu)|[无线芯片暗战，悄然打响](https://www.huxiu.com/article/2151480.html?f=rss)|
+|2023-10-09 03:06:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[原子弹与原子无关，氢弹与氢关系不大](https://www.huxiu.com/article/2151317.html?f=rss)|
+|2023-10-09 03:00:47|[虎嗅](https://plink.anyfeeder.com/huxiu)|[残雪为什么在国外更受欢迎？](https://www.huxiu.com/article/2151251.html?f=rss)|
+|2023-10-09 02:58:29|[虎嗅](https://plink.anyfeeder.com/huxiu)|[他的手机上有个抑郁症开关](https://www.huxiu.com/article/2151301.html?f=rss)|
+|2023-10-09 02:55:39|[虎嗅](https://plink.anyfeeder.com/huxiu)|[中年人旅游的最大障碍，绝对不是没钱](https://www.huxiu.com/article/2151341.html?f=rss)|
+|2023-10-09 05:05:39|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 求一份远程工作的机会 .NET 相关 ](https://www.v2ex.com/t/980206#reply1)|
+|2023-10-09 05:03:38|[V2EX](http://www.v2ex.com/index.xml)|[ 旅行 国庆自驾游 第三天 岳西-麻城](https://www.v2ex.com/t/980205#reply0)|
+|2023-10-09 04:58:33|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 百度云盘转存 123 云盘的低价方式有什么好的推荐？](https://www.v2ex.com/t/980204#reply2)|
+|2023-10-09 03:37:24|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[技术 使用 Btrfs 快照方便升级 Fedora Linux 且易于回退](https://linux.cn/article-16267-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-09 05:04:42|[虎嗅](https://rss.huxiu.com/)|[“厂二代”接班进行时：盘活供应链，重走出海路](https://www.huxiu.com/article/2151532.html?f=rss)|
+|2023-10-09 05:02:45|[虎嗅](https://rss.huxiu.com/)|[什么是射频超导技术？](https://www.huxiu.com/article/2151538.html?f=rss)|
+|2023-10-09 00:22:43|[精品MAC应用分享](https://xclient.info/feed)|[Swift Publisher 5.6.7 出版物设计排版工具](https://xclient.info/s/swift-publisher.html)|
 |2023-10-09 04:02:10|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为了摆脱电动车的里程焦虑，车企为何不给纯电车配一个小油箱和一个小发动机？](https://www.zhihu.com/question/624611663)|
 |2023-10-09 04:02:10|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2026 名古屋亚运会电竞将继续成为正式比赛项目，你觉得该届赛事会有哪些项目被增减？](https://www.zhihu.com/question/625121345)|
 |2023-10-09 04:02:10|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[张艺谋已经 73 岁了，在导演界也是天花板级别的存在，他已经功成名就了，为啥他还在不断努力拍电影？](https://www.zhihu.com/question/624711628)|
