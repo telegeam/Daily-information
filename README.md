@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-09 08:34:22|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[食品行业的苹果公司：1kg土豆卖到70元，却火了40多年](https://www.tmtpost.com/6735219.html)|
+|2023-10-09 08:21:27|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[长假开电车，容易哭 「钛度号」作品周榜第74期](https://www.tmtpost.com/6735091.html)|
+|2023-10-09 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：MICHAEL KORS 将在迪拜举行时装秀、索尼互动娱乐公司宣布新管理架构](http://www.toodaylab.com/82287)|
+|2023-10-09 09:09:41|[机核](https://www.gcores.com/rss)|[JOYTOY战锤40K新品公布：星界军卡迪亚指挥组参战](https://www.gcores.com/articles/171962)|
+|2023-10-09 09:00:00|[机核](https://www.gcores.com/rss)|[以后游戏画面都不用渲染了，录音笔 Vol.51](https://www.gcores.com/radios/171959)|
+|2023-10-09 03:37:14|[少数派](https://plink.anyfeeder.com/sspai)|[这些浏览器词典插件，让在线阅读更方便](https://sspai.com/post/83385)|
 |2023-10-09 08:16:37|[V2EX](https://www.v2ex.com/index.xml)|[ Surge Surge for iOS 出两个车位](https://www.v2ex.com/t/980297#reply0)|
 |2023-10-09 08:15:19|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 分享一个我自用的简单的云备份方案](https://www.v2ex.com/t/980296#reply0)|
 |2023-10-09 08:15:06|[V2EX](https://www.v2ex.com/index.xml)|[ Android 小米不做 miui 的可能性多大？](https://www.v2ex.com/t/980295#reply0)|
