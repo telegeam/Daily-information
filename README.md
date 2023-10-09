@@ -2,6 +2,29 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-09 01:19:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家见过运行时间最长的服务器或者服务是多久](https://www.v2ex.com/t/980095#reply10)|
+|2023-10-09 00:36:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[密码学得不好，请问这种简单用户 id 加密模式的安全性有多大问题？](https://www.v2ex.com/t/980076#reply15)|
+|2023-10-09 00:47:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何翻译 identification 和 flag？](https://www.v2ex.com/t/980081#reply4)|
+|2023-10-09 01:22:56|[爱范儿](https://plink.anyfeeder.com/ifanr)|[奔驰和蔚来，到底有没有未来？](https://www.ifanr.com/1564221?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-09 01:33:36|[虎嗅](https://rss.huxiu.com/)|[被质疑“同一资产二次上市”，浙江国祥被暂停IPO](https://www.huxiu.com/article/2150191.html?f=rss)|
+|2023-10-09 01:31:23|[虎嗅](https://rss.huxiu.com/)|[民族服饰约拍带火城市：谁掉队？谁崛起？](https://www.huxiu.com/article/2150766.html?f=rss)|
+|2023-10-09 01:30:00|[虎嗅](https://rss.huxiu.com/)|[巴以激战，谁是幕后赢家？](https://www.huxiu.com/article/2150801.html?f=rss)|
+|2023-10-09 01:24:22|[虎嗅](https://rss.huxiu.com/)|[明年4月1日实施，国内电动汽车充电接口要变了？](https://www.huxiu.com/article/2151247.html?f=rss)|
+|2023-10-09 01:06:00|[虎嗅](https://rss.huxiu.com/)|[“大石城”博德的人与事](https://www.huxiu.com/article/2150186.html?f=rss)|
+|2023-10-09 01:00:01|[虎嗅](https://rss.huxiu.com/)|[欧洲车企躺着赚钱的日子快到头了](https://www.huxiu.com/article/2149900.html?f=rss)|
+|2023-10-09 01:00:00|[虎嗅](https://rss.huxiu.com/)|[互联网平台是怎么靠广告赚钱的？](https://www.huxiu.com/article/2149155.html?f=rss)|
+|2023-10-09 00:52:41|[虎嗅](https://rss.huxiu.com/)|[“反向旅游”又出圈，是游客变了吗？](https://www.huxiu.com/article/2150171.html?f=rss)|
+|2023-10-09 00:51:56|[虎嗅](https://rss.huxiu.com/)|[马斯克殖民火星的“灵魂七问”](https://www.huxiu.com/article/2150763.html?f=rss)|
+|2023-10-09 00:38:41|[虎嗅](https://rss.huxiu.com/)|[平台企业可以创造一个“创新的市场”](https://www.huxiu.com/article/2150178.html?f=rss)|
+|2023-10-09 00:26:00|[虎嗅](https://rss.huxiu.com/)|[中国央行黄金储备首破7000万盎司，金价后续走势如何？](https://www.huxiu.com/article/2150163.html?f=rss)|
+|2023-10-09 00:19:00|[虎嗅](https://rss.huxiu.com/)|[核污水排海后的大鹏渔民：收入锐减、卖船弃海](https://www.huxiu.com/article/2149955.html?f=rss)|
+|2023-10-09 00:04:00|[虎嗅](https://rss.huxiu.com/)|[“十一”假期旅游新变化：消费者更注重性价比，小众目的地“出圈”](https://www.huxiu.com/article/2150190.html?f=rss)|
+|2023-10-09 00:00:01|[虎嗅](https://rss.huxiu.com/)|[什么是潮汕？](https://www.huxiu.com/article/2148361.html?f=rss)|
+|2023-10-09 00:10:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[J·K·罗琳母校埃克塞特大学明年设立“魔法与神秘学”硕士学位](https://dig.chouti.com/link/40226924)|
+|2023-10-09 00:30:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[良药还是毒酒？车企自研芯片全解析：三大品类，四重挑战](https://www.tmtpost.com/6734475.html)|
+|2023-10-09 00:14:45|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[钛媒体科股早知道：华为将举办重磅论坛，机构称5.5G这几个环节有望受益](https://www.tmtpost.com/6734623.html)|
+|2023-10-09 00:10:21|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[“挖角”大众设计师，长安汽车为全球化车型铺路？｜钛度车库](https://www.tmtpost.com/6734408.html)|
+|2023-10-09 00:01:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[“丑鞋”火了，莆田鞋厂笑了，有人卖了4000万](https://www.tmtpost.com/6734409.html)|
 |2023-10-09 00:42:11|[爱范儿](https://www.ifanr.com/feed)|[早报 Meta 将苹果头显视为 2007 年 iPhone/华为手机显微镜专利曝光/微软明年或将推出 Win12 系统](https://www.ifanr.com/1564276?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-09 00:52:42|[V2EX](http://www.v2ex.com/index.xml)|[ Edge mac 系统更新了 sonoma，发现 edge 浏览器点击触摸板失灵了？](https://www.v2ex.com/t/980083#reply0)|
 |2023-10-09 00:47:56|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 如何翻译 identification 和 flag？](https://www.v2ex.com/t/980081#reply0)|
