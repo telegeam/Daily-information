@@ -1,7 +1,18 @@
-﻿# 每日资讯（2023-10-08）
+﻿# 每日资讯（2023-10-09）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-09 00:42:11|[爱范儿](https://www.ifanr.com/feed)|[早报 Meta 将苹果头显视为 2007 年 iPhone/华为手机显微镜专利曝光/微软明年或将推出 Win12 系统](https://www.ifanr.com/1564276?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-09 00:52:42|[V2EX](http://www.v2ex.com/index.xml)|[ Edge mac 系统更新了 sonoma，发现 edge 浏览器点击触摸板失灵了？](https://www.v2ex.com/t/980083#reply0)|
+|2023-10-09 00:47:56|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 如何翻译 identification 和 flag？](https://www.v2ex.com/t/980081#reply0)|
+|2023-10-09 00:37:03|[V2EX](http://www.v2ex.com/index.xml)|[ Apple Magic Trackpad 居然还是 Lightning 接口](https://www.v2ex.com/t/980077#reply2)|
+|2023-10-09 00:36:32|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 密码学得不好，请问这种简单用户 id 加密模式的安全性有多大问题？](https://www.v2ex.com/t/980076#reply5)|
+|2023-10-09 00:27:23|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 孩子明年一月就要出生了，求推荐婴儿车](https://www.v2ex.com/t/980075#reply12)|
+|2023-10-09 00:23:48|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 关于海淘日版 iPhone15ProMax 的报关，用的转运公司是 Tenso](https://www.v2ex.com/t/980074#reply2)|
+|2023-10-09 00:14:22|[V2EX](http://www.v2ex.com/index.xml)|[ 服务器 E5 2660 V2*2 64G 1TSSD 20M 100G 防御 198/月 湖北电信](https://www.v2ex.com/t/980073#reply0)|
+|2023-10-09 00:12:14|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 35 岁失业后，怎么才能养家立身，多重暴击之下如何生存，寻找合适的合作伙伴](https://www.v2ex.com/t/980071#reply5)|
+|2023-10-09 00:08:16|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 北京宽带问题](https://www.v2ex.com/t/980070#reply0)|
+|2023-10-09 00:04:20|[V2EX](http://www.v2ex.com/index.xml)|[ 随想 出神](https://www.v2ex.com/t/980069#reply3)|
 |2023-10-08 09:44:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[网站被劫持了请教下大佬如何解决](https://www.v2ex.com/t/979950#reply15)|
 |2023-10-08 07:01:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[没有 https 的情况下， jwt 是不是也不安全？](https://www.v2ex.com/t/979871#reply24)|
 |2023-10-08 06:58:41|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[美高梅国际酒店集团遭勒索软件攻击，损失 1.1 亿美元](https://www.freebuf.com/news/379867.html)|
