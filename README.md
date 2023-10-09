@@ -2,6 +2,49 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-09 05:00:00|[机核](https://plink.anyfeeder.com/gcores)|[漫威传奇独行侠体验](https://www.gcores.com/videos/171878)|
+|2023-10-09 04:02:34|[机核](https://plink.anyfeeder.com/gcores)|[策略肉鸽自走棋《传奇生物2》将于10月17日发售,首周9折特惠](https://www.gcores.com/articles/171952)|
+|2023-10-09 05:43:27|[伪斜杠青年](http://i.lckiss.com/?feed=rss2)|[Exoplayer AAC（ADTS/ADTS）/ AMR media duration](https://i.lckiss.com/?p=8293)|
+|2023-10-09 05:27:42|[虎嗅](https://plink.anyfeeder.com/huxiu)|[诺贝尔奖下的黑洞](https://www.huxiu.com/article/2151547.html?f=rss)|
+|2023-10-09 05:13:53|[虎嗅](https://plink.anyfeeder.com/huxiu)|[万字研判：光伏漫漫熊途，拐点将在何处？](https://www.huxiu.com/article/2151248.html?f=rss)|
+|2023-10-09 06:15:53|[V2EX](https://v2ex.com/index.xml)|[ Netflix 土区长期车，目前有一位长租，余两个空位](https://www.v2ex.com/t/980234#reply0)|
+|2023-10-09 06:15:17|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 限免 DateTracker - 简约实用的日期追踪和管理应用](https://www.v2ex.com/t/980233#reply0)|
+|2023-10-09 06:14:40|[V2EX](https://v2ex.com/index.xml)|[ 问与答 大家看英文资料遇到不认识但不影响整体语义理解的单词都是怎么处理的？](https://www.v2ex.com/t/980231#reply0)|
+|2023-10-09 06:12:53|[V2EX](https://v2ex.com/index.xml)|[ iPhone 求推荐， iPhone 13 系列 还是 iPhone 14 系列 还是 iPhone 15 系列](https://www.v2ex.com/t/980230#reply0)|
+|2023-10-09 06:06:44|[V2EX](https://v2ex.com/index.xml)|[ Google 为什么谷歌快照中，没有搜索结果中高亮的内容？](https://www.v2ex.com/t/980229#reply0)|
+|2023-10-09 06:06:20|[V2EX](https://v2ex.com/index.xml)|[ 站长 把你们的博客交出来](https://www.v2ex.com/t/980228#reply3)|
+|2023-10-09 06:02:53|[V2EX](https://v2ex.com/index.xml)|[ 问与答 iPhone15 港版还是日版](https://www.v2ex.com/t/980227#reply0)|
+|2023-10-09 06:01:59|[V2EX](https://v2ex.com/index.xml)|[ Netflix 个人自用香港区 Netflix 寻找长途上车伙伴,还剩一个车位.](https://www.v2ex.com/t/980226#reply0)|
+|2023-10-09 05:54:20|[V2EX](https://v2ex.com/index.xml)|[ 程序员 用了山东移动 50M 的带宽做转发，感觉 frps 速度很慢哈，请问大佬如何解决？](https://www.v2ex.com/t/980224#reply0)|
+|2023-10-09 05:49:53|[V2EX](https://v2ex.com/index.xml)|[ 求职 寻找一份 app 开发兼职，偏好使用 flutter](https://www.v2ex.com/t/980223#reply0)|
+|2023-10-09 05:48:42|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 捞女：《敲骨食髓：如何榨干中国男性》](https://www.v2ex.com/t/980222#reply5)|
+|2023-10-09 05:45:46|[V2EX](https://v2ex.com/index.xml)|[ 问与答 老生常谈，如何长久不复吸的戒烟呢？](https://www.v2ex.com/t/980221#reply3)|
+|2023-10-09 05:41:23|[V2EX](https://v2ex.com/index.xml)|[ 求职 帮忙看看简历可优化的地方](https://www.v2ex.com/t/980219#reply1)|
+|2023-10-09 05:38:10|[V2EX](https://v2ex.com/index.xml)|[ 程序员 IntelliJ IDEA Ultimate 授权还有接近 18 个月，有人感兴趣么？](https://www.v2ex.com/t/980218#reply0)|
+|2023-10-09 05:37:20|[V2EX](https://v2ex.com/index.xml)|[ 程序员 google voice 如何保持一直活跃](https://www.v2ex.com/t/980217#reply7)|
+|2023-10-09 05:37:05|[V2EX](https://v2ex.com/index.xml)|[ 问与答 各位大佬,在更换网络后出现网页可以正常访问但是视频 403 的原因是什么?](https://www.v2ex.com/t/980215#reply0)|
+|2023-10-09 05:28:58|[V2EX](https://v2ex.com/index.xml)|[ 程序员 关于自学国外 CS 相关的课程](https://www.v2ex.com/t/980214#reply3)|
+|2023-10-09 05:15:12|[V2EX](https://v2ex.com/index.xml)|[ 问与答 国内可以稳定使用 iOS 版 ChatGPT 吗？](https://www.v2ex.com/t/980212#reply0)|
+|2023-10-09 05:14:48|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 求推荐 BEV 占用网路的科普文章/视频](https://www.v2ex.com/t/980211#reply0)|
+|2023-10-09 05:14:39|[V2EX](https://v2ex.com/index.xml)|[ macOS Sonoma 取消了状态栏的“正在播放”菜单吗](https://www.v2ex.com/t/980210#reply2)|
+|2023-10-09 05:13:40|[V2EX](https://v2ex.com/index.xml)|[ 程序员 ***请推荐 win11 APP 开发框架和思路, 谢谢***](https://www.v2ex.com/t/980209#reply5)|
+|2023-10-09 05:12:58|[V2EX](https://v2ex.com/index.xml)|[ C++ 211 大二 C++，暑期想找份实习，还能准备 9 个月，请求指点！](https://www.v2ex.com/t/980208#reply0)|
+|2023-10-09 05:59:10|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[从放牛到吹牛，李斌的“风口人生”](https://www.tmtpost.com/6735060.html)|
+|2023-10-09 05:58:14|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[半年狂更481部，泼天富贵砸向微短剧](https://www.tmtpost.com/6735047.html)|
+|2023-10-09 05:49:09|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[【生态环境周观察】深圳发布碳达峰实施方案；全球首个“碳关税”生效；日本启动第二轮核污染水排海](https://www.tmtpost.com/6734297.html)|
+|2023-10-09 05:38:19|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[首款撤回上市申请药物出现，PI3K抑制剂退潮释放了哪些信号？](https://www.tmtpost.com/6734973.html)|
+|2023-10-09 05:37:57|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[数读「调味品」：复合调味料量价齐升，“调料比菜贵”成真了](https://www.tmtpost.com/6734955.html)|
+|2023-10-09 05:35:57|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[浦发的“救命”稻草](https://www.tmtpost.com/6734891.html)|
+|2023-10-09 04:20:07|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[如何真正理解茅台的年轻化策略](https://www.tmtpost.com/6734894.html)|
+|2023-10-09 04:06:05|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[营收比肩司美格鲁肽，恩格列净为何在国内没成药王？](https://www.tmtpost.com/6734916.html)|
+|2023-10-09 04:00:46|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[日本又一百年巨头落幕](https://www.tmtpost.com/6734948.html)|
+|2023-10-09 03:59:41|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[AI大模型折叠：数据标注“民工”月入不过5000，单价从5毛降到4分](https://www.tmtpost.com/6734942.html)|
+|2023-10-09 03:50:39|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[国庆假期音乐节带动20亿消费，小城市演出火爆背后音乐节仍要“渡劫”](https://www.tmtpost.com/6734983.html)|
+|2023-10-09 03:48:05|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[《鱿鱼游戏》杀入体验店，SandboxVR未能复制神话](https://www.tmtpost.com/6734868.html)|
+|2023-10-09 03:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[新派酃酒009扬言打破白酒垄断，“天洋系”浮出水面](https://www.tmtpost.com/6734486.html)|
+|2023-10-09 02:52:35|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[北京市政协科技委员会主任许强：打造概念验证链条，共建风险投资生态 2023VCAB科创投资生态大会](https://www.tmtpost.com/6720346.html)|
+|2023-10-09 02:52:02|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[中国科学院科技战略咨询研究院原党委书记王颖：生物经济，下个经济时代的新主角 2023VCAB科创投资生态大会](https://www.tmtpost.com/6734805.html)|
+|2023-10-09 02:10:40|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[创业者和投资人的“翻脸”时刻](https://www.tmtpost.com/6734838.html)|
 |2023-10-09 00:47:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何翻译 identification 和 flag？](https://www.v2ex.com/t/980081#reply11)|
 |2023-10-09 02:22:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想探讨一下钉钉对几种远程打卡的检测与限制呀](https://www.v2ex.com/t/980127#reply63)|
 |2023-10-09 00:36:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[密码学得不好，请问这种简单用户 id 加密模式的安全性有多大问题？](https://www.v2ex.com/t/980076#reply59)|
