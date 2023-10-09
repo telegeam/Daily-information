@@ -2,6 +2,39 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-09 08:35:30|[极客公园](https://plink.anyfeeder.com/geekpark)|[智能亚运背后：云计算+ AI 如何重塑体育赛事](http://www.geekpark.net/news/325722)|
+|2023-10-09 05:17:51|[极客公园](https://plink.anyfeeder.com/geekpark)|[华为问界新 M7 起死回生，会再「打残」理想吗？](http://www.geekpark.net/news/325698)|
+|2023-10-09 10:00:00|[虎嗅](https://rss.huxiu.com/)|[扮武则天？大跳猛男舞？听第一代公关大佬来爆料](https://www.huxiu.com/article/2152537.html?f=rss)|
+|2023-10-09 09:51:11|[虎嗅](https://rss.huxiu.com/)|[焦虑的韩国人，离不开冰美式](https://www.huxiu.com/article/2152559.html?f=rss)|
+|2023-10-09 09:38:04|[虎嗅](https://rss.huxiu.com/)|[半年狂更481部，谁在为微短剧买单？](https://www.huxiu.com/article/2152040.html?f=rss)|
+|2023-10-09 09:25:37|[虎嗅](https://rss.huxiu.com/)|[动荡、痛苦、仇恨和暴力：如何理解巴以冲突？](https://www.huxiu.com/article/2152549.html?f=rss)|
+|2023-10-09 09:09:07|[虎嗅](https://rss.huxiu.com/)|[00后创业的18条感悟](https://www.huxiu.com/article/2152542.html?f=rss)|
+|2023-10-09 09:04:53|[虎嗅](https://rss.huxiu.com/)|[在当下，如何构筑对生活的信任感？](https://www.huxiu.com/article/2152533.html?f=rss)|
+|2023-10-09 09:00:00|[虎嗅](https://rss.huxiu.com/)|[“舔狗经济”崩盘，“他经济”崛起？](https://www.huxiu.com/article/2152543.html?f=rss)|
+|2023-10-09 08:53:48|[虎嗅](https://rss.huxiu.com/)|[一家免费用的“土味”网站，凭什么年入10亿美金？](https://www.huxiu.com/article/2152564.html?f=rss)|
+|2023-10-09 08:39:00|[虎嗅](https://rss.huxiu.com/)|[国产大女主，何时才能真正独立行走？](https://www.huxiu.com/article/2152594.html?f=rss)|
+|2023-10-09 08:38:22|[虎嗅](https://rss.huxiu.com/)|[头号碳排大户电力行业加速转型](https://www.huxiu.com/article/2149337.html?f=rss)|
+|2023-10-09 08:30:00|[虎嗅](https://rss.huxiu.com/)|[暴锤宝洁，雕牌洗衣粉有多刚？](https://www.huxiu.com/article/2126573.html?f=rss)|
+|2023-10-09 08:22:35|[虎嗅](https://rss.huxiu.com/)|[一年要新栽7万根：日本为什么成了“电线杆大国”？](https://www.huxiu.com/article/2152043.html?f=rss)|
+|2023-10-09 08:13:45|[虎嗅](https://rss.huxiu.com/)|[RISC-V要被美国管制，会有哪些影响？](https://www.huxiu.com/article/2152545.html?f=rss)|
+|2023-10-09 08:02:45|[虎嗅](https://rss.huxiu.com/)|[核心资产还有盼头吗？](https://www.huxiu.com/article/2151485.html?f=rss)|
+|2023-10-09 08:00:26|[虎嗅](https://rss.huxiu.com/)|[苏州，为何要到武汉抢大学生？](https://www.huxiu.com/article/2149322.html?f=rss)|
+|2023-10-09 07:57:41|[虎嗅](https://rss.huxiu.com/)|[1700年前，南北朝甲骑具装就开始内卷了？](https://www.huxiu.com/article/2152047.html?f=rss)|
+|2023-10-09 07:43:19|[虎嗅](https://rss.huxiu.com/)|[卷上天的新材料：不想拿投资人钱也得拿](https://www.huxiu.com/article/2152538.html?f=rss)|
+|2023-10-09 07:40:23|[虎嗅](https://rss.huxiu.com/)|[出海业务中有哪些好用的方法论？](https://www.huxiu.com/article/2152042.html?f=rss)|
+|2023-10-09 07:33:13|[虎嗅](https://rss.huxiu.com/)|[OpenAI CEO：套壳ChatGPT者死，我行不代表你行](https://www.huxiu.com/article/2152045.html?f=rss)|
+|2023-10-09 07:16:25|[虎嗅](https://rss.huxiu.com/)|[想红没有错，但小心“人设翻车”](https://www.huxiu.com/article/2100322.html?f=rss)|
+|2023-10-09 09:51:43|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[展示一下小米 13 离谱的 miui bug，打开桌面文件夹卡死。 miui 稳定版，无 root，正常使用，隔一两天突然出现卡死一次，每次持续几分钟。](https://www.v2ex.com/t/980351#reply8)|
+|2023-10-09 08:15:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[小米不做 miui 的可能性多大？](https://www.v2ex.com/t/980295#reply29)|
+|2023-10-09 06:31:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[复盘一个独立开发 2 年的项目](https://www.v2ex.com/t/980242#reply45)|
+|2023-10-09 05:28:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于自学国外 CS 相关的课程](https://www.v2ex.com/t/980214#reply5)|
+|2023-10-09 10:12:37|[V2EX](https://v2ex.com/index.xml)|[ 问与答 关于 flutter 开发，后台登录接口设置 cookie 如何处理？](https://www.v2ex.com/t/980359#reply0)|
+|2023-10-09 10:11:45|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 开放了 perplexityAPI 的试用](https://www.v2ex.com/t/980358#reply0)|
+|2023-10-09 10:00:52|[V2EX](https://v2ex.com/index.xml)|[ 硬件 双十一准备配台 itx，大佬们帮忙看看有没有要改的地方](https://www.v2ex.com/t/980356#reply1)|
+|2023-10-09 09:58:05|[V2EX](https://v2ex.com/index.xml)|[ iPhone 15pro 求推荐手机壳](https://www.v2ex.com/t/980355#reply3)|
+|2023-10-09 09:57:59|[V2EX](https://v2ex.com/index.xml)|[  WATCH watchOS10 模块表盘 心率不会自动更新](https://www.v2ex.com/t/980354#reply0)|
+|2023-10-09 09:54:02|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 微软也太不要脸了，用输入法强推自家搜索引擎](https://www.v2ex.com/t/980353#reply0)|
+|2023-10-09 09:52:29|[V2EX](https://v2ex.com/index.xml)|[ 问与答 请教一下这个是什么英文字体？](https://www.v2ex.com/t/980352#reply0)|
 |2023-10-09 08:34:22|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[食品行业的苹果公司：1kg土豆卖到70元，却火了40多年](https://www.tmtpost.com/6735219.html)|
 |2023-10-09 08:21:27|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[长假开电车，容易哭 「钛度号」作品周榜第74期](https://www.tmtpost.com/6735091.html)|
 |2023-10-09 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：MICHAEL KORS 将在迪拜举行时装秀、索尼互动娱乐公司宣布新管理架构](http://www.toodaylab.com/82287)|
