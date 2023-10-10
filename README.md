@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-10 20:32:19|[7Wate‘s blog](https://blog.7wate.com/rss.xml)|[拾月游记](https://blog.7wate.com/?p=125)|
+|2023-10-10 06:18:26|[王佳冬中文博客](http://wjd.name/feed/)|[探索南半球，赞澳洲之美：大洋路深度游（上）](http://wjd.name/greatocean/)|
+|2023-10-10 06:30:36|[晓空blog](https://blog.moeworld.tech/feed/)|[恢复特定版本的Win10/11的自动登陆](https://blog.moeworld.tech/2023/10/10/%e6%81%a2%e5%a4%8d%e7%89%b9%e5%ae%9a%e7%89%88%e6%9c%ac%e7%9a%84win10-11%e7%9a%84%e8%87%aa%e5%8a%a8%e7%99%bb%e9%99%86/)|
+|2023-10-10 06:31:00|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[开发了一个管理充值会员卡的网站 - 会员笔记](https://w2solo.com/topics/4181)|
+|2023-10-10 05:52:32|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[“北极鲶鱼”挖坑之前，爷爷先挖了一个大坑](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652891833&idx=1&sn=4b95d3efdf09f364171f93311bf43384)|
 |2023-10-10 06:16:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[apk 文件 格式](https://www.v2ex.com/t/980612#reply0)|
 |2023-10-10 04:15:05|[36氪](https://plink.anyfeeder.com/36kr)|[研发电动垂直起降载人飞行器，「倍飞智航」的新产品目标是300公里航程 新科技创业](https://36kr.com/p/2468032347936642?f=rss)|
 |2023-10-10 03:41:47|[36氪](https://plink.anyfeeder.com/36kr)|[产品观察丨淘宝想用AI打败小红书](https://36kr.com/p/2465796779595657?f=rss)|
