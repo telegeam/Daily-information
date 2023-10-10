@@ -1,7 +1,13 @@
-﻿# 每日资讯（2023-10-09）
+﻿# 每日资讯（2023-10-10）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-10 00:52:56|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 Java 自己写什么功能可以提升技术？](https://www.v2ex.com/t/980469#reply0)|
+|2023-10-10 00:51:40|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook 出 1 个全新 未拆 13 寸 macbook 8+256 配置的苹果本](https://www.v2ex.com/t/980468#reply0)|
+|2023-10-10 00:49:40|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 他人伪造发件地址为我的域名的邮箱然后发大量垃圾邮件是否能构成对我域名的攻击？](https://www.v2ex.com/t/980467#reply0)|
+|2023-10-10 00:37:17|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 有人遇到 Apple Music 微软商店版内存泄漏吗？](https://www.v2ex.com/t/980466#reply0)|
+|2023-10-10 00:29:42|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 刚买的羽毛球拍打了一次 不小心掉漆了怎么办？](https://www.v2ex.com/t/980465#reply19)|
+|2023-10-10 00:28:13|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 黑群辉 6.2 升级 7.2](https://www.v2ex.com/t/980464#reply6)|
 |2023-10-09 08:35:30|[极客公园](https://plink.anyfeeder.com/geekpark)|[智能亚运背后：云计算+ AI 如何重塑体育赛事](http://www.geekpark.net/news/325722)|
 |2023-10-09 05:17:51|[极客公园](https://plink.anyfeeder.com/geekpark)|[华为问界新 M7 起死回生，会再「打残」理想吗？](http://www.geekpark.net/news/325698)|
 |2023-10-09 10:00:00|[虎嗅](https://rss.huxiu.com/)|[扮武则天？大跳猛男舞？听第一代公关大佬来爆料](https://www.huxiu.com/article/2152537.html?f=rss)|
