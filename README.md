@@ -2,6 +2,64 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-10 09:06:34|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 想做个小程序商店卖账号这种](https://www.v2ex.com/t/980701#reply0)|
+|2023-10-10 09:05:38|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 Java 中 CountDownLatch 的 await 方法返回超时问题](https://www.v2ex.com/t/980700#reply0)|
+|2023-10-10 09:02:31|[V2EX](http://www.v2ex.com/index.xml)|[ 杭州 求推荐杭州滨江的驾校](https://www.v2ex.com/t/980699#reply0)|
+|2023-10-10 08:57:45|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 如何破解老师的小红花，晒排名](https://www.v2ex.com/t/980697#reply2)|
+|2023-10-10 08:57:32|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI 请教安卓上使用 ChatGPT 的一些问题](https://www.v2ex.com/t/980696#reply0)|
+|2023-10-10 08:55:33|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请教两个问题：线上数据如何备份，以及家庭宽带如何直接用 Mac 做网关？](https://www.v2ex.com/t/980695#reply0)|
+|2023-10-10 08:55:16|[V2EX](http://www.v2ex.com/index.xml)|[ macOS 大家都用 Automator 在干嘛？](https://www.v2ex.com/t/980694#reply0)|
+|2023-10-10 08:54:09|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 dataworks 技术求助贴 如何通过 sql 语句调用 odps datafrme，提高运行速度](https://www.v2ex.com/t/980693#reply0)|
+|2023-10-10 08:53:29|[V2EX](http://www.v2ex.com/index.xml)|[ macOS mac os sonoma 游戏在加载时有声音 在游戏进行时没有声音](https://www.v2ex.com/t/980692#reply0)|
+|2023-10-10 08:51:19|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 油管家庭合租车被踢了](https://www.v2ex.com/t/980691#reply1)|
+|2023-10-10 08:48:06|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 关于催婚、催生各种催的一点延伸想法](https://www.v2ex.com/t/980690#reply1)|
+|2023-10-10 08:47:29|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 即将 35， offer 求比较啊，请 V 站各位大佬指导啊](https://www.v2ex.com/t/980689#reply3)|
+|2023-10-10 08:46:29|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 “爱无能”这个是真实存在的吗？](https://www.v2ex.com/t/980688#reply1)|
+|2023-10-10 08:45:28|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 家人们，我是做运维的，今天收到全员降薪通知，想问下成都现在环境怎么样？](https://www.v2ex.com/t/980687#reply3)|
+|2023-10-10 08:40:38|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 招聘 windows 应用程序开发实习生](https://www.v2ex.com/t/980683#reply0)|
+|2023-10-10 08:35:53|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 现在 IOS 内置反诈了吗](https://www.v2ex.com/t/980681#reply4)|
+|2023-10-10 08:35:02|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 失业浪潮把职业规划冲了个稀碎, 接下来的路该怎么走?](https://www.v2ex.com/t/980679#reply5)|
+|2023-10-10 08:28:19|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 进一步悬崖万丈，退一步海阔天空](https://www.v2ex.com/t/980678#reply3)|
+|2023-10-10 08:27:51|[V2EX](http://www.v2ex.com/index.xml)|[ macOS MacOS 这个“无感添加网络打印机”功能着实让我惊艳了一下下](https://www.v2ex.com/t/980677#reply10)|
+|2023-10-10 08:22:56|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 Android 普通的悬浮窗权限怎么做到能在锁屏界面也显示呢？](https://www.v2ex.com/t/980675#reply0)|
+|2023-10-10 08:20:15|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 国庆、小县城菜市场、手动挡、8 年前吉利小轿车，我脚麻了。](https://www.v2ex.com/t/980674#reply1)|
+|2023-10-10 08:17:37|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 202310 云村 7 天会员](https://www.v2ex.com/t/980673#reply2)|
+|2023-10-10 08:16:47|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 校招客户端还是后端？](https://www.v2ex.com/t/980672#reply2)|
+|2023-10-10 08:14:45|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 白银期货昨晚发现之前持仓 3 手，晚上变成 2 手，少的一手变成可用资金了](https://www.v2ex.com/t/980670#reply7)|
+|2023-10-10 08:09:17|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 关于私活税费的问题。](https://www.v2ex.com/t/980669#reply2)|
+|2023-10-10 08:07:41|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 自行车丢了, 有偿寻找解决方案~](https://www.v2ex.com/t/980668#reply7)|
+|2023-10-10 07:00:00|[少数派](https://plink.anyfeeder.com/sspai)|[Matrix Talk 作为 iOS 用户，我为什么换到 / 新增 Android 设备？](https://sspai.com/post/83445)|
+|2023-10-10 03:47:30|[少数派](https://plink.anyfeeder.com/sspai)|[四个 All-in-One 工具，帮我优化工作与生活流程](https://sspai.com/post/83315)|
+|2023-10-10 08:57:01|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[张一鸣和TikTok的危险时刻](https://www.tmtpost.com/6736924.html)|
+|2023-10-10 08:55:43|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[被催熟的电子签名第一股，一夜回到5年前](https://www.tmtpost.com/6736890.html)|
+|2023-10-10 08:07:12|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[华兰疫苗预计Q3净利或增167.18%，市场不买账、盘中深跌6%丨看财报](https://www.tmtpost.com/6736804.html)|
+|2023-10-10 07:42:25|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[旅行路上，走过最多的是平台的套路](https://www.tmtpost.com/6736677.html)|
+|2023-10-10 07:41:57|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[亲历日本支付江湖：一切像极了中国互联网的十年前](https://www.tmtpost.com/6736701.html)|
+|2023-10-10 07:41:20|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“电动爹”成历史，今年国庆假期高速充电不排队了？](https://www.tmtpost.com/6736702.html)|
+|2023-10-10 07:38:40|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[贫困年轻人如何优雅地逛SKP](https://www.tmtpost.com/6736710.html)|
+|2023-10-10 07:23:03|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[突发！美国放开对华芯片管制，三星、海力士恢复供应，这些上市公司将深受影响](https://www.tmtpost.com/6736707.html)|
+|2023-10-10 07:16:05|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[10月10日A股分析：沪指跌0.7%，两市成交额较上一交易日增加46.81亿元，华为汽车继续走强](https://www.tmtpost.com/6736771.html)|
+|2023-10-10 07:02:59|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[近 1000 只鸟撞向一栋大楼后死亡，请停止制造「致命建筑」](https://www.tmtpost.com/6736739.html)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[C 与 STM32 常用宏定义](https://wiki-power.com/ar/C%E4%B8%8ESTM32%E5%B8%B8%E7%94%A8%E5%AE%8F%E5%AE%9A%E4%B9%89/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[DAC - المعلمات الديناميكية](https://wiki-power.com/ar/DAC-Dynamic_Parameters/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[DAC - المعلمات الثابتة](https://wiki-power.com/ar/DAC-Static_Parameters/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[معلمات التيار المستمر](https://wiki-power.com/ar/DC_Parameters/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[اختبار الوظائف الرقمية 🚧](https://wiki-power.com/ar/Digital_Functional_Test/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[Docker Compose - أداة ترتيب الصور الخاصة بـ Docker](https://wiki-power.com/ar/DockerCompose-%E9%95%9C%E5%83%8F%E7%BC%96%E6%8E%92%E5%B7%A5%E5%85%B7/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[أساسيات Docker](https://wiki-power.com/ar/Docker%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[دليل نشر Docusaurus البسيط](https://wiki-power.com/ar/Docusaurus%E6%9E%81%E7%AE%80%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[Doxygen تعليقات التوثيق](https://wiki-power.com/ar/Doxygen%E6%B3%A8%E9%87%8A%E8%A7%84%E8%8C%83/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[دليل تصميم EMC](https://wiki-power.com/ar/EMC%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[مفاهيم أساسية حول ESD](https://wiki-power.com/ar/ESD%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[دليل تهيئة ESXi](https://wiki-power.com/ar/ESXi%E5%88%9D%E5%A7%8B%E5%8C%96%E6%8C%87%E5%8D%97/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[Flip - لوحة تطوير لينكس مبنية على معالج F1C200s من Allwinner](https://wiki-power.com/ar/Flip-%E5%9F%BA%E4%BA%8E%E5%85%A8%E5%BF%97F1C200s%E7%9A%84Linux%E5%BC%80%E5%8F%91%E6%9D%BF/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[ملاحظات تطوير FreeRTOS 🚧](https://wiki-power.com/ar/FreeRTOS%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[تغيير Host في GitHub](https://wiki-power.com/ar/GitHub%E6%94%B9Host/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[ملاحظات تعلم Git](https://wiki-power.com/ar/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[تكوين الوكيل لـ Git](https://wiki-power.com/ar/Git%E9%85%8D%E7%BD%AE%E4%BB%A3%E7%90%86/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[ملاحظات تطوير مكتبة HAL - الاتصال بـ CAN 🚧](https://wiki-power.com/ar/HAL%E5%BA%93%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0-CAN%E9%80%9A%E4%BF%A1/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[ملاحظات تطوير مكتبة HAL - DMA](https://wiki-power.com/ar/HAL%E5%BA%93%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0-DMA/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-10 08:51:48|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[ملاحظات تطوير مكتبة HAL - GPIO](https://wiki-power.com/ar/HAL%E5%BA%93%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0-GPIO/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
 |2023-10-10 05:41:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 NAS 的硬盘分区方案](https://www.v2ex.com/t/980595#reply11)|
 |2023-10-10 03:30:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[jvm 内存泄漏问题](https://www.v2ex.com/t/980555#reply5)|
 |2023-10-10 08:00:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ChatGPT 在哪里买啊?](https://www.v2ex.com/t/980661#reply4)|
