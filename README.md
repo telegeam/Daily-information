@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-10 06:16:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[apk 文件 格式](https://www.v2ex.com/t/980612#reply0)|
+|2023-10-10 04:15:05|[36氪](https://plink.anyfeeder.com/36kr)|[研发电动垂直起降载人飞行器，「倍飞智航」的新产品目标是300公里航程 新科技创业](https://36kr.com/p/2468032347936642?f=rss)|
+|2023-10-10 03:41:47|[36氪](https://plink.anyfeeder.com/36kr)|[产品观察丨淘宝想用AI打败小红书](https://36kr.com/p/2465796779595657?f=rss)|
+|2023-10-10 04:10:09|[小众软件](https://www.appinn.com/feed/)|[著名网页离线保存工具 SingleFile v1.22 新增通用自解压 ZIP 功能，可节省 4 倍硬盘空间](https://www.appinn.com/singlefile-v1-22/)|
+|2023-10-10 03:51:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[安全研究人员如何通过漏洞悬赏计划侵入了汽车公司](https://www.4hou.com/posts/wyww)|
+|2023-10-10 03:50:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[索尼数据被黑客窃取并在暗网上进行出售](https://www.4hou.com/posts/kjL5)|
+|2023-10-10 01:50:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[文盲率高，“印度支付宝”推语音支付，用户可“口头付款”](https://dig.chouti.com/link/40238989)|
+|2023-10-10 02:10:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这段视频显示：一名以色列坦克兵被俘后，似乎顺手在抓着他的哈马斯武装分子腿上放置了一个跟踪装置](https://dig.chouti.com/link/40239461)|
+|2023-10-10 05:34:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巴以冲突中哈马斯的滑翔伞袭击引发4chan网友热议](https://dig.chouti.com/link/40241713)|
+|2023-10-10 03:24:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[煎饼节：北京谜の亚逼市集](https://dig.chouti.com/link/40240340)|
+|2023-10-10 03:22:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【打工人逃离预制菜指南】社交平台上，人们化身侦探，从锅气、色泽到口感，寻找预制菜露出的马脚，总结成一篇篇预制菜辨别指南；现实生活里，人们调查那些看似现做，实则也是预制菜的商家；还有人下定决心，“以后都自己做”，并开始反思现炒食物对他们的意义。](https://dig.chouti.com/link/40240339)|
+|2023-10-10 04:33:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[专访2023年的诺贝尔经济学奖得主：女性的劳动参与率高不代表更好的性别平等，996式贪婪工作加剧男女不平等](https://dig.chouti.com/link/40241047)|
+|2023-10-10 02:34:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【臭虫恐慌：臭虫如何与羞耻相连】人们对臭虫的厌恶更多的是心理上、文化上的，而不是身体上的。](https://dig.chouti.com/link/40239663)|
+|2023-10-10 05:57:40|[知乎每日精选](https://www.zhihu.com/rss)|[《漫长的季节》里沈墨为什么拒绝弹奏《纤夫的爱》钢琴曲？](http://www.zhihu.com/question/600523934/answer/3029686901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-10-10 03:20:21|[爱范儿](https://plink.anyfeeder.com/ifanr)|[高通推出全新 XR2 和 AR1 平台，变革空间计算正式上线](https://www.ifanr.com/1564362?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-10 00:59:58|[爱范儿](https://plink.anyfeeder.com/ifanr)|[早报 库克谈为何每年推出新 iPhone / 华为辟谣网传拒绝富士康代工请求 / 法拉第未来向贾跃亭交付新车](https://www.ifanr.com/1564357?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-10 02:52:56|[JustZht's EchoChambe...](https://www.justzht.com/rss/)|[2023.10.10](https://www.justzht.com/2023-10-10/)|
