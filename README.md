@@ -2,6 +2,36 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-10 08:40:46|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1150 GNOME 开始正式放弃 X.Org 会话支持](https://linux.cn/article-16272-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-10 07:49:08|[爱范儿](https://plink.anyfeeder.com/ifanr)|[128.6 万元起！不开玩笑，国产超跑开始交付了](https://www.ifanr.com/1564340?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-10 07:35:31|[小众软件](https://www.appinn.com/feed/)|[DocsGPT – 开源、可自托管，向 PDF、TXT 文档提问，让 AI 帮你总结。](https://www.appinn.com/docsgpt/)|
+|2023-10-10 08:00:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ChatGPT 在哪里买啊?](https://www.v2ex.com/t/980661#reply23)|
+|2023-10-10 06:52:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求助：如何阻止 rpmbuild 往动态库文件“投毒” 在 meson/ninja 构建时强行将 libgcc_s.so.1 加入动态库 ](https://www.v2ex.com/t/980632#reply4)|
+|2023-10-10 03:51:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于浏览器接口请求为什么要有同源策略的疑问](https://www.v2ex.com/t/980570#reply19)|
+|2023-10-10 04:56:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各线程产生的日志信息，用 Web 服务方式刷出来给人看，简单来说， Python 需要什么技术实现？（有轮子否？）](https://www.v2ex.com/t/980587#reply13)|
+|2023-10-10 01:59:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[看了国外好多有名的大佬的人生经历](https://www.v2ex.com/t/980503#reply45)|
+|2023-10-10 02:42:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教前端大佬：一个很蛇皮的跨域问题](https://www.v2ex.com/t/980531#reply40)|
+|2023-10-10 07:46:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[k8s deployment 怎样指定 1 个 pod 调度到 node1， 2 个 pod 调度到 node2？](https://www.v2ex.com/t/980654#reply6)|
+|2023-10-10 02:05:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[黑裙怎么让电源键失效 防猫 ](https://www.v2ex.com/t/980508#reply31)|
+|2023-10-10 09:35:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[刚上线的个人网站 资源笔记+优质油管视频+博客 ](https://www.v2ex.com/t/980712#reply7)|
+|2023-10-10 09:48:19|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[河北承德某程序员被没收 100W 的事情有后续了么，上诉了么](https://www.v2ex.com/t/980717#reply2)|
+|2023-10-10 09:42:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[红外避障传感器怎么设置 持续输出高低电平呢](https://www.v2ex.com/t/980715#reply0)|
+|2023-10-10 09:43:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python in Visual Studio Code – 十月更新 弃用 Python 3.7 支持、Mypy 扩展报告的范围和守护程序模式、 Python 调试器扩展更新](https://www.v2ex.com/t/980716#reply0)|
+|2023-10-10 09:18:57|[36氪](https://plink.anyfeeder.com/36kr)|[36氪晚报｜蜜雪冰城计划明年在香港进行约10亿美元的IPO；威马汽车申请破产审查；郭明錤称特斯拉的Cybertruck电动皮卡最快年底前开始交付](https://36kr.com/p/2468366132549769?f=rss)|
+|2023-10-10 08:01:13|[36氪](https://plink.anyfeeder.com/36kr)|[微软Copilot亏钱，每月倒贴用户20美元，ChatGPT收入增长率腰斩](https://36kr.com/p/2468215848179842?f=rss)|
+|2023-10-10 08:00:30|[36氪](https://plink.anyfeeder.com/36kr)|[AI会读心术了！准确率高达72%，Meta新成果登Nature顶刊](https://36kr.com/p/2468212072109952?f=rss)|
+|2023-10-10 07:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[打开大脑里的开关：抑郁症的天堂或地狱｜深氪](https://36kr.com/p/2467265031034755?f=rss)|
+|2023-10-10 06:10:53|[36氪](https://plink.anyfeeder.com/36kr)|[IPO十年，沃尔玛「代工厂」要做下一个「摩飞锅」？｜氪金 · 硬科技](https://36kr.com/p/2467880623363974?f=rss)|
+|2023-10-10 05:23:42|[36氪](https://plink.anyfeeder.com/36kr)|[西安交大在锂电池容量估计领域取得系列新进展；工信部：7-8月全国多晶硅等产量同比增长均接近或超过80%｜36氪新能源日报1009](https://36kr.com/p/2467306322958465?f=rss)|
+|2023-10-10 09:04:17|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[九毛九双节期间翻台表现优秀，但仍未恢复至2019年同期水平](https://www.tmtpost.com/6736918.html)|
+|2023-10-10 09:05:54|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经｜传音走出非洲；航空公司恢复卖低价票](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247508023&idx=2&sn=41fa953c3bde490e3bc11be34335a3ec)|
+|2023-10-10 09:05:54|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家｜B 站再提用户增长目标：移动端日活翻倍；XR 芯片公司万有引力完成数亿元新融资，励思资本领投](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247508023&idx=1&sn=9a8a5e1a9a141a48aa152cdc4a47ba4f)|
+|2023-10-10 09:52:14|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[准备熬夜加班？curl&libcurl 高危漏洞明日公布](https://www.freebuf.com/news/380169.html)|
+|2023-10-10 08:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[销售下滑后，碧桂园在债务危机中愈陷愈深](https://cn.wsj.com/amp/articles/%E9%94%80%E5%94%AE%E4%B8%8B%E6%BB%91%E5%90%8E-%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%9C%A8%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA%E4%B8%AD%E6%84%88%E9%99%B7%E6%84%88%E6%B7%B1-72f40f7d)|
+|2023-10-10 08:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[华为供应商股票跳涨，得益于华为产品热销](https://cn.wsj.com/amp/articles/%E5%8D%8E%E4%B8%BA%E4%BE%9B%E5%BA%94%E5%95%86%E8%82%A1%E7%A5%A8%E8%B7%B3%E6%B6%A8-%E5%BE%97%E7%9B%8A%E4%BA%8E%E5%8D%8E%E4%B8%BA%E4%BA%A7%E5%93%81%E7%83%AD%E9%94%80-d877aba6)|
+|2023-10-10 07:33:04|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[通用汽车加拿大工厂工人罢工](https://cn.wsj.com/amp/articles/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B7%A5%E5%8E%82%E5%B7%A5%E4%BA%BA%E7%BD%A2%E5%B7%A5-93ddb789)|
+|2023-10-10 06:33:05|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[阿布扎比Masdar计划在马来西亚投资80亿美元打造可再生能源项目](https://cn.wsj.com/amp/articles/%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94masdar%E8%AE%A1%E5%88%92%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%8A%95%E8%B5%8480%E4%BA%BF%E7%BE%8E%E5%85%83%E6%89%93%E9%80%A0%E5%8F%AF%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90%E9%A1%B9%E7%9B%AE-6b28ed09)|
+|2023-10-10 05:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[为何说以色列-哈马斯战争对投资者影响重大？](https://cn.wsj.com/amp/articles/%E4%B8%BA%E4%BD%95%E8%AF%B4%E4%BB%A5%E8%89%B2%E5%88%97-%E5%93%88%E9%A9%AC%E6%96%AF%E6%88%98%E4%BA%89%E5%AF%B9%E6%8A%95%E8%B5%84%E8%80%85%E5%BD%B1%E5%93%8D%E9%87%8D%E5%A4%A7-fccda859)|
 |2023-10-10 09:06:34|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 想做个小程序商店卖账号这种](https://www.v2ex.com/t/980701#reply0)|
 |2023-10-10 09:05:38|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 Java 中 CountDownLatch 的 await 方法返回超时问题](https://www.v2ex.com/t/980700#reply0)|
 |2023-10-10 09:02:31|[V2EX](http://www.v2ex.com/index.xml)|[ 杭州 求推荐杭州滨江的驾校](https://www.v2ex.com/t/980699#reply0)|
