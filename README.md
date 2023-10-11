@@ -2,6 +2,31 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-11 02:29:58|[机核](https://plink.anyfeeder.com/gcores)|[《堕落之主》公布最新预告，将于本月13日发售](https://www.gcores.com/articles/172063)|
+|2023-10-11 02:04:36|[机核](https://plink.anyfeeder.com/gcores)|[高通宣布面向PC平台的全新骁龙X系列芯片](https://www.gcores.com/articles/172065)|
+|2023-10-11 01:36:30|[机核](https://plink.anyfeeder.com/gcores)|[《新世界》登顶：Steam周销量排行榜 2023年10月第1周](https://www.gcores.com/articles/172062)|
+|2023-10-11 04:03:54|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[SHEIN，心魔难除](https://36kr.com/p/2468557449500808)|
+|2023-10-11 04:03:54|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微软Copilot亏钱，每月倒贴用户20美元，ChatGPT收入增长率腰斩](https://36kr.com/p/2468215848179842)|
+|2023-10-11 04:03:54|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[抖音电商上线小时达入口，即时零售权重升级成核心业务](https://36kr.com/p/2468737117853824)|
+|2023-10-11 04:03:53|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[销量暴跌70%，停产传闻不断，人民神车，正在被人民抛弃](https://36kr.com/p/2468256792221824)|
+|2023-10-11 04:03:53|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[吴艳妮代言被抵制，品牌选运动员合作是时候抛弃“赌徒”心态](https://36kr.com/p/2468349769144454)|
+|2023-10-11 04:03:53|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[打开大脑里的开关：抑郁症的天堂或地狱｜深氪](https://36kr.com/p/2467265031034755)|
+|2023-10-11 04:03:53|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[重回第一，华为吃饱，高通联发科跌倒，手机芯片要变天了](https://36kr.com/p/2468474447271811)|
+|2023-10-11 03:38:18|[Lenix Blog](https://blog.p2hp.com/feed)|[MATLAB是什么](https://blog.p2hp.com/archives/11676)|
+|2023-10-11 03:09:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【如何躲避火箭弹袭击相关常识】目前，巴以爆发新一轮大规模冲突，以色列宣布进入“战争状态”。为帮助在以中国公民躲避火箭弹袭击，中国驻以使馆综合各方面材料，编写了“如何躲避火箭弹袭击相关常识”，供在以中国公民参考以确保安全。](https://dig.chouti.com/link/40251835)|
+|2023-10-11 03:03:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不得不出“国区特供版”的波兰球，是怎么火进小学生圈子里的？](https://dig.chouti.com/link/40251494)|
+|2023-10-11 02:21:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“骂死”大学生案房东以悲剧作诗参赛被叫停，作者称内容“正能量”，家属发声驳斥](https://dig.chouti.com/link/40251248)|
+|2023-10-11 03:51:41|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[到底谁在接盘新股？](https://www.tmtpost.com/6737977.html)|
+|2023-10-11 03:49:59|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[华为、小鹏大定爆单，智驾苦尽甘来，车主终于愿意买单](https://www.tmtpost.com/6737955.html)|
+|2023-10-11 03:49:26|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[抖音电商上线小时达入口，即时零售权重升级成核心业务](https://www.tmtpost.com/6737915.html)|
+|2023-10-11 03:31:22|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[互联网医疗进入黑铁时代](https://www.tmtpost.com/6737902.html)|
+|2023-10-11 03:28:28|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[力压雀巢，兰特黎斯如何成为全球乳业龙头？](https://www.tmtpost.com/6737820.html)|
+|2023-10-11 03:07:02|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[遍地都是的酒店机器人，已经“退烧”了](https://www.tmtpost.com/6737792.html)|
+|2023-10-11 03:04:27|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[张峰也走了，雷军留不住合伙人？](https://www.tmtpost.com/6737788.html)|
+|2023-10-11 02:07:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中国驻旧金山领事馆遭汽车冲撞，嫌疑人被击毙](https://cn.nytimes.com/usa/20231011/car-crash-chinese-consulate-san-francisco/)|
+|2023-10-11 04:06:02|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[“这是一场大屠杀”：探访遭哈马斯致命袭击的以色列村庄](https://cn.nytimes.com/world/20231011/israel-gaza-kibbutz-kfar-azza/?utm_source=RSS)|
+|2023-10-11 01:41:47|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中国驻旧金山领事馆遭汽车冲撞，嫌疑人被击毙](https://cn.nytimes.com/usa/20231011/car-crash-chinese-consulate-san-francisco/?utm_source=RSS)|
+|2023-10-11 01:07:04|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[超短发、素颜、衣着宽松：拒绝“服美役”的中国女性](https://cn.nytimes.com/china/20231011/china-women-defying-beauty/?utm_source=RSS)|
 |2023-10-11 02:42:02|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[大模型上车，特斯拉带了个好头吗？](https://www.tmtpost.com/6737797.html)|
 |2023-10-11 02:41:29|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[不买大牌，不坐飞机：中产继续“保卫钱包”](https://www.tmtpost.com/6737779.html)|
 |2023-10-11 02:39:11|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[增速放缓估值两连降，字节“跳”不动了？](https://www.tmtpost.com/6737760.html)|
