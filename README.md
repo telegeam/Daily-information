@@ -2,6 +2,51 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-11 04:01:50|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的一大捧作品](https://sspai.com/post/83395)|
+|2023-10-11 04:01:50|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[不躺不卷，用热爱疗愈副业焦虑](https://sspai.com/post/83017)|
+|2023-10-11 04:01:50|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[让 iPhone「随时待命」，快来试试这些 iOS 17 待机显示小组件](https://sspai.com/post/83373)|
+|2023-10-11 04:01:50|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[Python 在办公自动化中的简单应用](https://sspai.com/post/83196)|
+|2023-10-11 03:14:49|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[利用主流路由器漏洞传播，Mirai DDoS 恶意软件持续活跃](https://www.freebuf.com/news/380228.html)|
+|2023-10-11 05:08:57|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 现在买 s23ultra 值得吗？](https://www.v2ex.com/t/980953#reply0)|
+|2023-10-11 05:06:48|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 我这个情况，为什么还有人愿意跟我交往](https://www.v2ex.com/t/980952#reply2)|
+|2023-10-11 05:01:46|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 只读-稍后阅读 iOS 版本重大更新，高亮笔记功能上线](https://www.v2ex.com/t/980951#reply0)|
+|2023-10-11 04:59:14|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 求助 关于在"健康"中误删除 Apple Watch 设备数据后如何恢复的问题](https://www.v2ex.com/t/980950#reply0)|
+|2023-10-11 04:54:01|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 epub 文件在 IOS 端使用 documents 压缩后，传到电脑解压缩变成了 epub 后缀的同名文件夹，是怎么回事？](https://www.v2ex.com/t/980949#reply0)|
+|2023-10-11 04:45:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 io 域名好些还是 lol 域名好些？](https://www.v2ex.com/t/980948#reply2)|
+|2023-10-11 04:36:42|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 怎么又不能发帖了](https://www.v2ex.com/t/980945#reply0)|
+|2023-10-11 04:33:44|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 家里漏水, 楼下天花板坏了, 该赔多少](https://www.v2ex.com/t/980943#reply6)|
+|2023-10-11 04:30:57|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 腾势 n8](https://www.v2ex.com/t/980942#reply0)|
+|2023-10-11 04:28:25|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 各位觉得我的这些 GitHub 项目怎么样？可不可以给我一点建议？自学编程不太懂这些](https://www.v2ex.com/t/980941#reply0)|
+|2023-10-11 04:25:00|[V2EX](https://www.v2ex.com/index.xml)|[ Windows 115 怎么才能增量备份呢? 诸位大佬给指点一下](https://www.v2ex.com/t/980940#reply0)|
+|2023-10-11 04:19:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 一线城市例如深圳这个租售比，是否可以卖了房子再租回来？](https://www.v2ex.com/t/980939#reply10)|
+|2023-10-11 04:19:12|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 下班之后和周六周末做些什么副业比较好？](https://www.v2ex.com/t/980938#reply2)|
+|2023-10-11 04:16:13|[V2EX](https://www.v2ex.com/index.xml)|[ 小米 小米的东西计划报废做的很好，下次不用了](https://www.v2ex.com/t/980937#reply5)|
+|2023-10-11 04:15:29|[V2EX](https://www.v2ex.com/index.xml)|[ Go 编程语言 吐槽下 rfc7692 permessage-deflate](https://www.v2ex.com/t/980936#reply0)|
+|2023-10-11 04:13:49|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 坐标大阪 不需要日语 unity、游戏策划、 Java 、前端 共计 17 个 HC 均需要 3 年以上工作经验 可以直接高度人才签证](https://www.v2ex.com/t/980935#reply0)|
+|2023-10-11 04:01:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 老哥们都是去哪找高清的影视资源？主要看美剧&国外电影](https://www.v2ex.com/t/980934#reply5)|
+|2023-10-11 03:59:37|[V2EX](https://www.v2ex.com/index.xml)|[ 云计算 腾讯云 Lighthouse 组建跨地域 Kubernetes 集群](https://www.v2ex.com/t/980933#reply0)|
+|2023-10-11 03:57:58|[V2EX](https://www.v2ex.com/index.xml)|[ 深圳 请教一下，长时间不开车，大家停车都是怎么处理的](https://www.v2ex.com/t/980932#reply6)|
+|2023-10-11 03:57:31|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 闲置的安卓手机有没有什么变为私有云手机的方案](https://www.v2ex.com/t/980931#reply3)|
+|2023-10-11 03:55:47|[V2EX](https://www.v2ex.com/index.xml)|[ 杭州 杭州周末找搭子出游](https://www.v2ex.com/t/980930#reply1)|
+|2023-10-11 03:54:40|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 相亲记录](https://www.v2ex.com/t/980929#reply21)|
+|2023-10-11 03:54:13|[V2EX](https://www.v2ex.com/index.xml)|[ 深圳 哭死求建议，失业才发现工作日上班时间出租屋里这么吵](https://www.v2ex.com/t/980928#reply14)|
+|2023-10-11 03:50:52|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 Obsidian 思维导图集成 Anki](https://www.v2ex.com/t/980927#reply0)|
+|2023-10-11 03:47:14|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 Offer 纠结（非程序员）](https://www.v2ex.com/t/980926#reply4)|
+|2023-10-11 03:47:09|[V2EX](https://www.v2ex.com/index.xml)|[ Java jwt 如何做在线踢人功能？](https://www.v2ex.com/t/980925#reply24)|
+|2023-10-11 03:45:39|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 2023 年 10 月，关于 PS5 上的艾尔登法环的帧率表现](https://www.v2ex.com/t/980924#reply2)|
+|2023-10-11 03:44:38|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 搞了一个文字转换向量数据的工具 WordToVector](https://www.v2ex.com/t/980923#reply0)|
+|2023-10-11 03:43:34|[V2EX](https://www.v2ex.com/index.xml)|[ Xbox 360 请教 xbox 的 PC Game Pass 购买问题](https://www.v2ex.com/t/980922#reply0)|
+|2023-10-11 03:40:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 AWS 服务器日本节点今天大规模被封了吗？](https://www.v2ex.com/t/980921#reply2)|
+|2023-10-11 03:36:47|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 买表了，有啥新奇的玩法？](https://www.v2ex.com/t/980920#reply30)|
+|2023-10-11 03:36:35|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 多模态识别验证码？ 大家有啥好的提示词能稳定破解不](https://www.v2ex.com/t/980919#reply0)|
+|2023-10-11 03:30:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 中国联通扣流量费糊弄人，哪位大侠帮忙看看这是啥操作？](https://www.v2ex.com/t/980918#reply1)|
+|2023-10-11 03:27:03|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 国产软件果然是业界毒瘤](https://www.v2ex.com/t/980917#reply20)|
+|2023-10-11 03:24:34|[V2EX](https://www.v2ex.com/index.xml)|[ 前端开发 前端面试题](https://www.v2ex.com/t/980916#reply0)|
+|2023-10-11 03:23:43|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 安卓上有没有好用的代码编辑器 app？](https://www.v2ex.com/t/980915#reply1)|
+|2023-10-11 03:22:48|[V2EX](https://www.v2ex.com/index.xml)|[ 反馈 CRSF 字符串失效](https://www.v2ex.com/t/980914#reply0)|
+|2023-10-11 03:21:06|[V2EX](https://www.v2ex.com/index.xml)|[ Surge 请问 surge 支持 hysteria 协议了吗？](https://www.v2ex.com/t/980913#reply4)|
+|2023-10-11 03:20:04|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求推荐一个好用的家居摄像头 能对话的能看回放的。](https://www.v2ex.com/t/980912#reply5)|
+|2023-10-11 03:14:39|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 百度地图的实时活动功能是不是没了？](https://www.v2ex.com/t/980911#reply0)|
 |2023-10-11 02:29:58|[机核](https://plink.anyfeeder.com/gcores)|[《堕落之主》公布最新预告，将于本月13日发售](https://www.gcores.com/articles/172063)|
 |2023-10-11 02:04:36|[机核](https://plink.anyfeeder.com/gcores)|[高通宣布面向PC平台的全新骁龙X系列芯片](https://www.gcores.com/articles/172065)|
 |2023-10-11 01:36:30|[机核](https://plink.anyfeeder.com/gcores)|[《新世界》登顶：Steam周销量排行榜 2023年10月第1周](https://www.gcores.com/articles/172062)|
