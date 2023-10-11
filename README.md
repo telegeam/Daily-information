@@ -2,6 +2,117 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-11 03:36:59|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[机构预测：五年后手机屏幕将可自我修复](https://m.cnbeta.com.tw/view/1389247.htm)|
+|2023-10-11 03:36:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[机构预测2026年HTC将退出虚拟现实设备市场](https://m.cnbeta.com.tw/view/1389241.htm)|
+|2023-10-11 03:36:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[日本早稻田大学新研究：每坐1小时平均寿命缩短22分钟](https://m.cnbeta.com.tw/view/1389239.htm)|
+|2023-10-11 03:36:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[歌华有线升级510万机顶盒 开机默认全屏直播](https://m.cnbeta.com.tw/view/1389237.htm)|
+|2023-10-11 03:36:08|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[用户称小米电视已可永久关闭开机广告 需告知客服MAC地址](https://m.cnbeta.com.tw/view/1389235.htm)|
+|2023-10-11 03:35:56|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[大众推出ID.4、ID.5升级版 针对动力以及续航进行升级](https://m.cnbeta.com.tw/view/1389233.htm)|
+|2023-10-11 03:35:39|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国犹他州起诉TikTok让儿童"沉迷于其算法"](https://m.cnbeta.com.tw/view/1389231.htm)|
+|2023-10-11 03:35:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[研究发现租房带来的压力比失业或戒烟更快让细胞老化](https://m.cnbeta.com.tw/view/1389225.htm)|
+|2023-10-11 03:05:27|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[科学家归纳出驱动大脑洞察力的通用工作流程](https://m.cnbeta.com.tw/view/1389221.htm)|
+|2023-10-11 02:37:02|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Windows 11 TPM/CPU系统要求可通过更简单的命令绕过](https://m.cnbeta.com.tw/view/1389217.htm)|
+|2023-10-11 02:36:45|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[维修权法案 SB 244 在加州已经签署成为法律](https://m.cnbeta.com.tw/view/1389215.htm)|
+|2023-10-11 02:36:31|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[20W充电头已足够供应iPhone 15 实测性价比最高](https://m.cnbeta.com.tw/view/1389211.htm)|
+|2023-10-11 02:36:18|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[小米迈出重要一步：自研MIOS将接棒MIUI](https://m.cnbeta.com.tw/view/1389209.htm)|
+|2023-10-11 02:36:06|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[有用户反馈苹果手机充电时自动关机 iPhone 15也在列](https://m.cnbeta.com.tw/view/1389207.htm)|
+|2023-10-11 02:35:53|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“氢舟”已过万重山 国内首艘500千瓦级氢能源动力船首航成功](https://m.cnbeta.com.tw/view/1389205.htm)|
+|2023-10-11 02:35:41|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[全新一代宝马X2官图发布 与中国大陆消费者无缘](https://m.cnbeta.com.tw/view/1389203.htm)|
+|2023-10-11 02:35:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[科技巨头逐鹿印度 荣耀也要分一杯羹](https://m.cnbeta.com.tw/view/1389201.htm)|
+|2023-10-11 02:06:52|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克回应欧盟指责：X平台所有内容都是开源且透明的](https://m.cnbeta.com.tw/view/1389191.htm)|
+|2023-10-11 02:06:37|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[欧盟推动大型科技公司资助5G部署计划或推迟至2025年](https://m.cnbeta.com.tw/view/1389189.htm)|
+|2023-10-11 02:06:27|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[以色列学校敦促家长立刻删除孩子手机上的社交应用](https://m.cnbeta.com.tw/view/1389187.htm)|
+|2023-10-11 02:06:15|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Adobe推出三个AI新模型 图片编辑功能获全面升级](https://m.cnbeta.com.tw/view/1389185.htm)|
+|2023-10-11 02:06:05|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Google CEO曾担忧与苹果的搜索引擎业务交易会产生“不好的大众观感”](https://m.cnbeta.com.tw/view/1389181.htm)|
+|2023-10-11 02:05:49|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[币圈“世纪审判”关键证人出庭 前女友指SBF是主脑：“他指示我犯罪”](https://m.cnbeta.com.tw/view/1389179.htm)|
+|2023-10-11 02:05:36|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[vivo证实印度执法机构逮捕其员工](https://m.cnbeta.com.tw/view/1389177.htm)|
+|2023-10-11 02:05:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[比亚迪牵手LG：化敌为友，剑指宁王？](https://m.cnbeta.com.tw/view/1389175.htm)|
+|2023-10-11 05:43:36|[36氪](https://plink.anyfeeder.com/36kr)|[行业首发！超钠新能源助力中建八局首个移动式钠电池智慧储能箱落地南京！；我国新能源汽车保有量达1821万辆｜36氪新能源日报1010](https://36kr.com/p/2468715243034502?f=rss)|
+|2023-10-11 05:25:43|[36氪](https://plink.anyfeeder.com/36kr)|[36氪独家｜理想汽车战略会：避开华为锋芒，规划2028](https://36kr.com/p/2466412715088001?f=rss)|
+|2023-10-11 03:57:37|[36氪](https://plink.anyfeeder.com/36kr)|[求购小红书、OpenAI股份；转让Neuralink专项基金LP份额、大疆创新股份｜资情留言板第113期](https://36kr.com/p/2469298519955329?f=rss)|
+|2023-10-11 03:05:31|[36氪](https://plink.anyfeeder.com/36kr)|[36氪首发丨「华易泰」获近亿元B轮融资，主攻半导体及显示面板核心工艺国产替代](https://36kr.com/p/2468252105611396?f=rss)|
+|2023-10-11 06:10:47|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 做了套开源地震仪，对标 Raspberry Shake，成本不到 500，手里的各种 Pi 别再吃灰了](https://www.v2ex.com/t/980975#reply1)|
+|2023-10-11 06:10:38|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 如何开发自定义 nas 客户端？](https://www.v2ex.com/t/980974#reply1)|
+|2023-10-11 06:10:21|[V2EX](http://www.v2ex.com/index.xml)|[ OpenWrt 想给 openwrt 的 passwall 插件加个下拉列表](https://www.v2ex.com/t/980973#reply0)|
+|2023-10-11 06:09:11|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 心血来潮想弄个 magsafe+立式支架，求推荐方案](https://www.v2ex.com/t/980972#reply1)|
+|2023-10-11 06:06:07|[V2EX](http://www.v2ex.com/index.xml)|[ iCloud 土区 iCloud 2TB + infuse pro](https://www.v2ex.com/t/980971#reply2)|
+|2023-10-11 06:03:01|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 现代的 C/C++的特性怎样快速学习](https://www.v2ex.com/t/980970#reply0)|
+|2023-10-11 06:01:22|[V2EX](http://www.v2ex.com/index.xml)|[ IPFS 如何根据 ipfs 的 cid 校验本地文件？](https://www.v2ex.com/t/980969#reply0)|
+|2023-10-11 05:59:50|[V2EX](http://www.v2ex.com/index.xml)|[ Surge 求年付 Surge](https://www.v2ex.com/t/980968#reply0)|
+|2023-10-11 05:59:33|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 怎样才能有信仰？](https://www.v2ex.com/t/980967#reply0)|
+|2023-10-11 05:59:28|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 小爱音箱如何接外置音箱？](https://www.v2ex.com/t/980966#reply0)|
+|2023-10-11 05:59:08|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 阿里云盘推出 infuse 用户专属优惠 最高可选 50T](https://www.v2ex.com/t/980965#reply1)|
+|2023-10-11 05:54:10|[V2EX](http://www.v2ex.com/index.xml)|[ OpenWrt openwrt 网络连接设备名称显示问题](https://www.v2ex.com/t/980964#reply1)|
+|2023-10-11 05:45:27|[V2EX](http://www.v2ex.com/index.xml)|[ YouTube YouTube Premium 美区家庭车](https://www.v2ex.com/t/980962#reply0)|
+|2023-10-11 05:43:40|[V2EX](http://www.v2ex.com/index.xml)|[ 上海 上海薪资 50 万相当于二线多少](https://www.v2ex.com/t/980961#reply5)|
+|2023-10-11 05:41:08|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 v2 用户为什么普遍不支持华为](https://www.v2ex.com/t/980960#reply37)|
+|2023-10-11 05:39:20|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 滴答清单和 todo 清单，最终我选择了滴答清单](https://www.v2ex.com/t/980959#reply0)|
+|2023-10-11 05:38:08|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 最近好迷茫 不知道后面咋走了](https://www.v2ex.com/t/980958#reply4)|
+|2023-10-11 05:25:49|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 银行卡如何优雅调额](https://www.v2ex.com/t/980955#reply0)|
+|2023-10-11 05:23:19|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 Web 前端学习路径及资料汇总 2023 年 ](https://www.v2ex.com/t/980954#reply1)|
+|2023-10-11 05:08:57|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 现在买 s23ultra 值得吗？](https://www.v2ex.com/t/980953#reply3)|
+|2023-10-11 05:06:48|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 我这个情况，为什么还有人愿意跟我交往](https://www.v2ex.com/t/980952#reply22)|
+|2023-10-11 05:01:46|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 只读-稍后阅读 iOS 版本重大更新，高亮笔记功能上线](https://www.v2ex.com/t/980951#reply1)|
+|2023-10-11 04:59:14|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 求助 关于在"健康"中误删除 Apple Watch 设备数据后如何恢复的问题](https://www.v2ex.com/t/980950#reply1)|
+|2023-10-11 04:32:54|[Share erotic Asian g...](https://hotgirl.asia/feed/)|[Cosplay 黏黏团子兔 六月订阅『高扬斯卡娅兔女郎』小剧场](https://hotgirl.asia/cosplay-%e9%bb%8f%e9%bb%8f%e5%9b%a2%e5%ad%90%e5%85%94-%e5%85%ad%e6%9c%88%e8%ae%a2%e9%98%85%e3%80%8e%e9%ab%98%e6%89%ac%e6%96%af%e5%8d%a1%e5%a8%85%e5%85%94%e5%a5%b3%e9%83%8e%e3%80%8f%e5%b0%8f%e5%89%a7/)|
+|2023-10-11 04:32:51|[Share erotic Asian g...](https://hotgirl.asia/feed/)|[Cosplay 麻花麻花酱 修女 Set.01](https://hotgirl.asia/cosplay-%e9%ba%bb%e8%8a%b1%e9%ba%bb%e8%8a%b1%e9%85%b1-%e4%bf%ae%e5%a5%b3-set-01/)|
+|2023-10-11 04:32:48|[Share erotic Asian g...](https://hotgirl.asia/feed/)|[Cosplay 桜井宁宁 主人的任务 Set.02](https://hotgirl.asia/cosplay-%e6%a1%9c%e4%ba%95%e5%ae%81%e5%ae%81-%e4%b8%bb%e4%ba%ba%e7%9a%84%e4%bb%bb%e5%8a%a1-set-02/)|
+|2023-10-11 04:32:45|[Share erotic Asian g...](https://hotgirl.asia/feed/)|[Cosplay 兔玩映画 白色修女](https://hotgirl.asia/cosplay-%e5%85%94%e7%8e%a9%e6%98%a0%e7%94%bb-%e7%99%bd%e8%89%b2%e4%bf%ae%e5%a5%b3/)|
+|2023-10-11 04:32:43|[Share erotic Asian g...](https://hotgirl.asia/feed/)|[Cosplay 白烨 黑枪呆女仆](https://hotgirl.asia/cosplay-%e7%99%bd%e7%83%a8-%e9%bb%91%e6%9e%aa%e5%91%86%e5%a5%b3%e4%bb%86/)|
+|2023-10-11 04:32:40|[Share erotic Asian g...](https://hotgirl.asia/feed/)|[Cosplay 斗鱼米线线sama写真 病娇小猫的恋爱日记](https://hotgirl.asia/cosplay-%e6%96%97%e9%b1%bc%e7%b1%b3%e7%ba%bf%e7%ba%bfsama%e5%86%99%e7%9c%9f-%e7%97%85%e5%a8%87%e5%b0%8f%e7%8c%ab%e7%9a%84%e6%81%8b%e7%88%b1%e6%97%a5%e8%ae%b0/)|
+|2023-10-11 04:32:37|[Share erotic Asian g...](https://hotgirl.asia/feed/)|[Cosplay 兔玩映画 紫雨心](https://hotgirl.asia/cosplay-%e5%85%94%e7%8e%a9%e6%98%a0%e7%94%bb-%e7%b4%ab%e9%9b%a8%e5%bf%83/)|
+|2023-10-11 04:32:33|[Share erotic Asian g...](https://hotgirl.asia/feed/)|[Cosplay 麻花麻花酱 修女 Set.02](https://hotgirl.asia/cosplay-%e9%ba%bb%e8%8a%b1%e9%ba%bb%e8%8a%b1%e9%85%b1-%e4%bf%ae%e5%a5%b3-set-02/)|
+|2023-10-11 04:32:30|[Share erotic Asian g...](https://hotgirl.asia/feed/)|[Cosplay 许岚 叁月life 暗黑修女](https://hotgirl.asia/cosplay-%e8%ae%b8%e5%b2%9a-%e5%8f%81%e6%9c%88life-%e6%9a%97%e9%bb%91%e4%bf%ae%e5%a5%b3/)|
+|2023-10-11 04:32:27|[Share erotic Asian g...](https://hotgirl.asia/feed/)|[Cosplay Nyako喵子 粉色高叉竞泳 Set.01](https://hotgirl.asia/cosplay-nyako%e5%96%b5%e5%ad%90-%e7%b2%89%e8%89%b2%e9%ab%98%e5%8f%89%e7%ab%9e%e6%b3%b3-set-01/)|
+|2023-10-11 04:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[拜登应对巴以冲突犹如走钢丝](https://cn.wsj.com/amp/articles/%E6%8B%9C%E7%99%BB%E5%BA%94%E5%AF%B9%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%8A%B9%E5%A6%82%E8%B5%B0%E9%92%A2%E4%B8%9D-b794d2e5)|
+|2023-10-11 04:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[AI狂潮如何转化为光明“钱”景，科技公司仍在摸索](https://cn.wsj.com/amp/articles/ai%E7%8B%82%E6%BD%AE%E5%A6%82%E4%BD%95%E8%BD%AC%E5%8C%96%E4%B8%BA%E5%85%89%E6%98%8E-%E9%92%B1-%E6%99%AF-%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%BB%8D%E5%9C%A8%E6%91%B8%E7%B4%A2-6e27749e)|
+|2023-10-11 03:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美债收益率上升可能延长美联储暂停加息期](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E4%B8%8A%E5%8D%87%E5%8F%AF%E8%83%BD%E5%BB%B6%E9%95%BF%E7%BE%8E%E8%81%94%E5%82%A8%E6%9A%82%E5%81%9C%E5%8A%A0%E6%81%AF%E6%9C%9F-2bbd7b8b)|
+|2023-10-11 03:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[俄罗斯法院维持对《华尔街日报》在押记者埃文·格什科维奇的拘押判决](https://cn.wsj.com/amp/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E6%B3%95%E9%99%A2%E7%BB%B4%E6%8C%81%E5%AF%B9-%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5-%E5%9C%A8%E6%8A%BC%E8%AE%B0%E8%80%85%E5%9F%83%E6%96%87-%E6%A0%BC%E4%BB%80%E7%A7%91%E7%BB%B4%E5%A5%87%E7%9A%84%E6%8B%98%E6%8A%BC%E5%88%A4%E5%86%B3-8b78cfaa)|
+|2023-10-11 02:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[以色列从遏制哈马斯转向清除策略，或付出巨大代价](https://cn.wsj.com/amp/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E4%BB%8E%E9%81%8F%E5%88%B6%E5%93%88%E9%A9%AC%E6%96%AF%E8%BD%AC%E5%90%91%E6%B8%85%E9%99%A4%E7%AD%96%E7%95%A5-%E6%88%96%E4%BB%98%E5%87%BA%E5%B7%A8%E5%A4%A7%E4%BB%A3%E4%BB%B7-3757699e)|
+|2023-10-11 02:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[亚马逊测试“再次购买”功能，吸引用户重复购买](https://cn.wsj.com/amp/articles/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%B5%8B%E8%AF%95-%E5%86%8D%E6%AC%A1%E8%B4%AD%E4%B9%B0-%E5%8A%9F%E8%83%BD-%E5%90%B8%E5%BC%95%E7%94%A8%E6%88%B7%E9%87%8D%E5%A4%8D%E8%B4%AD%E4%B9%B0-835b6ffb)|
+|2023-10-11 02:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美国公司内部人士增加自家股票买入](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%86%85%E9%83%A8%E4%BA%BA%E5%A3%AB%E5%A2%9E%E5%8A%A0%E8%87%AA%E5%AE%B6%E8%82%A1%E7%A5%A8%E4%B9%B0%E5%85%A5-7101a5e)|
+|2023-10-11 01:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[LVMH销售放缓，中国奢侈品消费哑火](https://cn.wsj.com/amp/articles/lvmh%E9%94%80%E5%94%AE%E6%94%BE%E7%BC%93-%E4%B8%AD%E5%9B%BD%E5%A5%A2%E4%BE%88%E5%93%81%E6%B6%88%E8%B4%B9%E5%93%91%E7%81%AB-c5bdc7f)|
+|2023-10-11 01:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[三星电子预计第三季度营业利润同比下降78%](https://cn.wsj.com/amp/articles/%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E9%A2%84%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E8%90%A5%E4%B8%9A%E5%88%A9%E6%B6%A6%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D78-2481baeb)|
+|2023-10-11 13:28:47|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[.NET控件库——Telerik 2023R2全家桶学习版](https://masuit.com/1396)|
+|2023-10-11 13:04:21|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Adobe Photoshop 2023 24.7.1 x64精简优化绿色版](https://masuit.com/85)|
+|2023-10-11 12:51:39|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Adobe 2024SP全家桶 v24直装学习版下载 Windows+Mac ](https://masuit.com/22)|
+|2023-10-11 09:31:16|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[万兴优转Wondershare UniConverter Ultimate v15.3.14学习版](https://masuit.com/1746)|
+|2023-10-11 04:20:37|[极客公园](https://plink.anyfeeder.com/geekpark)|[当全球最大图片库，决定「拥抱 AI」](http://www.geekpark.net/news/325788)|
+|2023-10-11 01:22:15|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[关于海外域名服务器 app 备案。](https://w2solo.com/topics/4185)|
+|2023-10-11 04:37:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[“这是一场大屠杀”：探访遭哈马斯致命袭击的以色列村庄](https://cn.nytimes.com/world/20231011/israel-gaza-kibbutz-kfar-azza/)|
+|2023-10-11 06:10:00|[虎嗅](https://rss.huxiu.com/)|[“越南特斯拉”：上市半个月市值突破8200亿？](https://www.huxiu.com/article/2159327.html?f=rss)|
+|2023-10-11 06:00:00|[虎嗅](https://rss.huxiu.com/)|[男女收入差距为何始终存在？诺贝尔经济学奖得主克劳迪娅·戈尔丁揭示了答案](https://www.huxiu.com/article/2158792.html?f=rss)|
+|2023-10-11 05:49:00|[虎嗅](https://rss.huxiu.com/)|[欧盟调查中国电动车补贴，打不过就“限制”？](https://www.huxiu.com/article/2159323.html?f=rss)|
+|2023-10-11 05:17:58|[虎嗅](https://rss.huxiu.com/)|[LOGO里的三条横杠引发商标异议，阿迪达斯是否滥用知识产权？](https://www.huxiu.com/article/2159352.html?f=rss)|
+|2023-10-11 05:16:00|[虎嗅](https://rss.huxiu.com/)|[无印良品前社长：留下成绩，你才是个优秀的经营者](https://www.huxiu.com/article/2159039.html?f=rss)|
+|2023-10-11 05:00:00|[虎嗅](https://rss.huxiu.com/)|[华为成功背后的苦难与奋斗](https://www.huxiu.com/article/2149104.html?f=rss)|
+|2023-10-11 04:30:01|[虎嗅](https://rss.huxiu.com/)|[加沙何以成为巴以“火药桶”？](https://www.huxiu.com/article/2159044.html?f=rss)|
+|2023-10-11 04:20:29|[虎嗅](https://rss.huxiu.com/)|[互联网医疗进入黑铁时代](https://www.huxiu.com/article/2158762.html?f=rss)|
+|2023-10-11 03:58:16|[虎嗅](https://rss.huxiu.com/)|[如何把交易经验转化为量化策略？](https://www.huxiu.com/article/2155518.html?f=rss)|
+|2023-10-11 03:56:30|[虎嗅](https://rss.huxiu.com/)|[年轻人为什么爱看分手电影？](https://www.huxiu.com/article/2159029.html?f=rss)|
+|2023-10-11 03:47:36|[虎嗅](https://rss.huxiu.com/)|[网上存钱，不能看“脸”](https://www.huxiu.com/article/2159064.html?f=rss)|
+|2023-10-11 03:45:00|[虎嗅](https://rss.huxiu.com/)|[380亿身家隐形富豪，站在街边吃盒饭？](https://www.huxiu.com/article/2159048.html?f=rss)|
+|2023-10-11 03:38:46|[虎嗅](https://rss.huxiu.com/)|[这届年轻人，为什么比上一代更感到痛苦？](https://www.huxiu.com/article/2156865.html?f=rss)|
+|2023-10-11 03:14:57|[虎嗅](https://rss.huxiu.com/)|[硬核营销名词解析：购买需求异化](https://www.huxiu.com/article/2156178.html?f=rss)|
+|2023-10-11 03:12:57|[虎嗅](https://rss.huxiu.com/)|[遍地都是的酒店机器人，已经“退烧”了](https://www.huxiu.com/article/2158777.html?f=rss)|
+|2023-10-11 02:58:17|[虎嗅](https://rss.huxiu.com/)|[欧盟大幅提高可再生能源目标，利好哪些产业？](https://www.huxiu.com/article/2157429.html?f=rss)|
+|2023-10-11 02:49:00|[虎嗅](https://rss.huxiu.com/)|[“勇敢的人先享受世界”背后，是对普通人的背刺？](https://www.huxiu.com/article/2157805.html?f=rss)|
+|2023-10-11 06:08:13|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[TikTok电商印尼冲击波：自救、转移与信念](https://www.tmtpost.com/6738132.html)|
+|2023-10-11 05:57:52|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[公募基金成新晋“资管一哥”，业绩分化加剧，基金经理迎新老更迭](https://www.tmtpost.com/6738139.html)|
+|2023-10-11 05:42:18|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[一级市场追捧降温，知行科技二级市场能否“复宠”？](https://www.tmtpost.com/6738137.html)|
+|2023-10-11 05:41:24|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[腾讯游戏真正的对手，不是米哈游](https://www.tmtpost.com/6738134.html)|
+|2023-10-11 04:52:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[欧盟调查中国电动车补贴，打不过就「限制」？](https://www.tmtpost.com/6738081.html)|
+|2023-10-11 04:41:24|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“兄弟”轮番乱砍，史玉柱再“掉血”17.65亿](https://www.tmtpost.com/6737994.html)|
+|2023-10-11 04:40:19|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[谁在消费“世界第一裸秀”？](https://www.tmtpost.com/6738004.html)|
+|2023-10-11 04:24:54|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[昨日重现？教育硬件营销狂飙](https://www.tmtpost.com/6737834.html)|
+|2023-10-11 04:05:51|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[大隐于市的他，霸气的河北民企之王](https://www.tmtpost.com/6737983.html)|
+|2023-10-11 04:22:22|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[مذكرات تطوير مكتبة HAL - Ethernet Communication LwIP 🚧](https://wiki-power.com/ar/HAL%E5%BA%93%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0-%E4%BB%A5%E5%A4%AA%E7%BD%91%E9%80%9A%E4%BF%A1%EF%BC%88LwIP%EF%BC%89/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-11 04:22:22|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[مذكرات تطوير مكتبة HAL - المقاطعات الخارجية](https://wiki-power.com/ar/HAL%E5%BA%93%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0-%E5%A4%96%E9%83%A8%E4%B8%AD%E6%96%AD/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-11 04:22:22|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[ملاحظات تطوير مكتبة HAL - إعداد البيئة](https://wiki-power.com/ar/HAL%E5%BA%93%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0-%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-11 04:22:22|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[ملاحظات دراسة HTML](https://wiki-power.com/ar/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-11 04:22:22|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[Hack.init 黑客马拉松](https://wiki-power.com/ar/Hack.init%28%29%E9%BB%91%E5%AE%A2%E9%A9%AC%E6%8B%89%E6%9D%BE/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-11 04:22:22|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[Homelab - خادم الموسيقى على السحابة Navidrome](https://wiki-power.com/ar/Homelab-%E4%BA%91%E7%AB%AF%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8Navidrome/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2023-10-11 04:22:22|[Power's Wiki](https://wiki-power.com/feed_rss_updated.xml)|[Homelab - بديل مجاني للاتصال بالشبكة الداخلية: Cloudflared](https://wiki-power.com/ar/Homelab-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88Cloudflared/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
 |2023-10-11 04:01:50|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的一大捧作品](https://sspai.com/post/83395)|
 |2023-10-11 04:01:50|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[不躺不卷，用热爱疗愈副业焦虑](https://sspai.com/post/83017)|
 |2023-10-11 04:01:50|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[让 iPhone「随时待命」，快来试试这些 iOS 17 待机显示小组件](https://sspai.com/post/83373)|
