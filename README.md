@@ -1,7 +1,18 @@
-﻿# 每日资讯（2023-10-10）
+﻿# 每日资讯（2023-10-11）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-11 00:33:53|[虎嗅](https://rss.huxiu.com/)|[尽快离开那个糟糕的环境](https://www.huxiu.com/article/2158693.html?f=rss)|
+|2023-10-11 00:30:37|[虎嗅](https://rss.huxiu.com/)|[AI“货币化困境”：客户越多，亏损越大](https://www.huxiu.com/article/2158471.html?f=rss)|
+|2023-10-11 00:29:45|[虎嗅](https://rss.huxiu.com/)|[追逐暴风雨的人](https://www.huxiu.com/article/2157316.html?f=rss)|
+|2023-10-11 00:18:00|[虎嗅](https://rss.huxiu.com/)|[恒大负债2万亿，许家印为何还能给自己分红500亿？](https://www.huxiu.com/article/2158116.html?f=rss)|
+|2023-10-11 00:06:32|[虎嗅](https://rss.huxiu.com/)|[五十年前中东开战后，美国陷入“滞胀”，这一次呢？](https://www.huxiu.com/article/2156817.html?f=rss)|
+|2023-10-11 00:02:49|[虎嗅](https://rss.huxiu.com/)|[为什么中东战争不像以前那样影响油价了？](https://www.huxiu.com/article/2157399.html?f=rss)|
+|2023-10-11 00:00:30|[虎嗅](https://rss.huxiu.com/)|[年轻的心力和旺盛的精神状态怎么保持？](https://www.huxiu.com/article/2158114.html?f=rss)|
+|2023-10-11 00:00:01|[虎嗅](https://rss.huxiu.com/)|[普通人创业，初期必选“贸工技”](https://www.huxiu.com/article/2152041.html?f=rss)|
+|2023-10-11 00:41:45|[V2EX](https://v2ex.com/index.xml)|[ 问与答 权限管理这块怎么限制传参？](https://www.v2ex.com/t/980835#reply5)|
+|2023-10-11 00:33:47|[V2EX](https://v2ex.com/index.xml)|[ Java 大佬们，请教一下关于 JDK-8075484 这个 bug 的问题](https://www.v2ex.com/t/980834#reply0)|
+|2023-10-11 00:24:49|[V2EX](https://v2ex.com/index.xml)|[ 优惠信息 仅限美国 免费获得 Pixel 8 Pro 128G 不含税 ](https://www.v2ex.com/t/980832#reply0)|
 |2023-10-10 08:40:46|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1150 GNOME 开始正式放弃 X.Org 会话支持](https://linux.cn/article-16272-1.html?utm_source=rss&utm_medium=rss)|
 |2023-10-10 07:49:08|[爱范儿](https://plink.anyfeeder.com/ifanr)|[128.6 万元起！不开玩笑，国产超跑开始交付了](https://www.ifanr.com/1564340?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-10 07:35:31|[小众软件](https://www.appinn.com/feed/)|[DocsGPT – 开源、可自托管，向 PDF、TXT 文档提问，让 AI 帮你总结。](https://www.appinn.com/docsgpt/)|
