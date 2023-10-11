@@ -2,6 +2,28 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-11 07:09:44|[V2EX](https://v2ex.com/index.xml)|[ MacBook Pro 2020 款 13 寸双接口 MacBook pro 打开 Safari 风扇突然开始极速转动](https://www.v2ex.com/t/980992#reply0)|
+|2023-10-11 06:52:22|[V2EX](https://v2ex.com/index.xml)|[ Apple 刚刚发现之前一直有问题的商店和音乐都像都能正常显示了](https://www.v2ex.com/t/980990#reply1)|
+|2023-10-11 06:49:39|[V2EX](https://v2ex.com/index.xml)|[ 随想 和对象吵架气的一晚上没睡着，大家来评评理。 第一篇 我是不是酒鬼](https://www.v2ex.com/t/980989#reply25)|
+|2023-10-11 06:47:41|[V2EX](https://v2ex.com/index.xml)|[ macOS macOS 下，求推荐人体工学鼠标，有没有手感类似微软 Sculpt 馒头的？](https://www.v2ex.com/t/980988#reply0)|
+|2023-10-11 06:46:04|[V2EX](https://v2ex.com/index.xml)|[ 问与答 国庆之后是不是网络有问题啊](https://www.v2ex.com/t/980987#reply0)|
+|2023-10-11 06:46:02|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有人买过极摩客的 mini 主机么？](https://www.v2ex.com/t/980986#reply1)|
+|2023-10-11 06:41:59|[V2EX](https://v2ex.com/index.xml)|[ Apple 希望 macOS 千万不要变成 Windows 啊😭](https://www.v2ex.com/t/980985#reply1)|
+|2023-10-11 06:32:32|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有无老哥知道企业微信侧边栏开发的例子或者搞过的，讲讲，不胜感激！](https://www.v2ex.com/t/980983#reply0)|
+|2023-10-11 06:32:03|[V2EX](https://v2ex.com/index.xml)|[ 电影 老哥们，有什么地方可以下载脱口秀和纪录片么？](https://www.v2ex.com/t/980982#reply1)|
+|2023-10-11 06:27:59|[V2EX](https://v2ex.com/index.xml)|[ Apple ios 如何连接不同蓝牙自动更改均衡器？](https://www.v2ex.com/t/980981#reply0)|
+|2023-10-11 06:27:54|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 探索网站的时候看见一款古老的手表 www.sharkwatch.wiki](https://www.v2ex.com/t/980980#reply0)|
+|2023-10-11 06:24:08|[V2EX](https://v2ex.com/index.xml)|[ Apple 问下外版 iPhone 的 Apple Care 能不能机内购买](https://www.v2ex.com/t/980979#reply4)|
+|2023-10-11 06:19:17|[V2EX](https://v2ex.com/index.xml)|[ Go 编程语言 求助，新手使用 Golang ，在 Gorm 的 Callback 里面怎样获取 gin.Context？](https://www.v2ex.com/t/980978#reply3)|
+|2023-10-11 06:16:48|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 南京 前端开发实习](https://www.v2ex.com/t/980976#reply0)|
+|2023-10-11 06:10:47|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 做了套开源地震仪，对标 Raspberry Shake，成本不到 500，手里的各种 Pi 别再吃灰了](https://www.v2ex.com/t/980975#reply7)|
+|2023-10-11 06:41:00|[机核](https://www.gcores.com/rss)|[被旧计算机/游戏机系统支配的恐惧（十三）：老游戏机的“现代化改造”](https://www.gcores.com/articles/171861)|
+|2023-10-11 06:36:00|[机核](https://www.gcores.com/rss)|[BOOM作品《宇宙尽头的酒馆》玩法展示](https://www.gcores.com/videos/172069)|
+|2023-10-11 05:59:46|[机核](https://www.gcores.com/rss)|[V社将于2024年1月1日停止《CS:GO》旧版本维护，Mac及部分低配玩家可申请优先资格退款](https://www.gcores.com/articles/172074)|
+|2023-10-11 06:58:42|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[采购负责人停职，小鹏汽车反腐早有预兆｜钛度车库](https://www.tmtpost.com/6738162.html)|
+|2023-10-11 06:50:42|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[重磅降脂药博弈：国内外药企的极限攻守](https://www.tmtpost.com/6738195.html)|
+|2023-10-11 03:47:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[jwt 如何做在线踢人功能？](https://www.v2ex.com/t/980925#reply34)|
+|2023-10-11 01:50:20|[iMaeGoo's Blog](https://www.imaegoo.com/atom.xml)|[2023 年 10 月虹墨空间站日记](https://www.imaegoo.com/2023/october-daily/)|
 |2023-10-11 03:36:59|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[机构预测：五年后手机屏幕将可自我修复](https://m.cnbeta.com.tw/view/1389247.htm)|
 |2023-10-11 03:36:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[机构预测2026年HTC将退出虚拟现实设备市场](https://m.cnbeta.com.tw/view/1389241.htm)|
 |2023-10-11 03:36:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[日本早稻田大学新研究：每坐1小时平均寿命缩短22分钟](https://m.cnbeta.com.tw/view/1389239.htm)|
