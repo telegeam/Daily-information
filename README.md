@@ -2,6 +2,37 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-12 05:40:22|[Mark24](https://mark24code.github.io/feed.xml)|[【翻译】Async Ruby（异步Ruby）](https://mark24code.github.io/ruby/2023/10/12/Async-Ruby.html)|
+|2023-10-12 04:58:37|[Mark24](https://mark24code.github.io/feed.xml)|[【翻译】Ruby Fiber Scheduler](https://mark24code.github.io/ruby/2023/10/12/Ruby-Fiber-Scheduler.html)|
+|2023-10-12 05:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[香港IPO市场有望复苏，绿源和十月稻田上市首日上涨](https://cn.wsj.com/amp/articles/%E9%A6%99%E6%B8%AFipo%E5%B8%82%E5%9C%BA%E6%9C%89%E6%9C%9B%E5%A4%8D%E8%8B%8F-%E7%BB%BF%E6%BA%90%E5%92%8C%E5%8D%81%E6%9C%88%E7%A8%BB%E7%94%B0%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E4%B8%8A%E6%B6%A8-8731a3f7)|
+|2023-10-12 02:09:45|[JustZht's EchoChambe...](https://www.justzht.com/rss/)|[2023.10.12](https://www.justzht.com/2023-10-12/)|
+|2023-10-12 07:10:06|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 如何查询 appstore 中某个 app 在各个区域的定价](https://www.v2ex.com/t/981341#reply0)|
+|2023-10-12 07:09:04|[V2EX](https://www.v2ex.com/index.xml)|[ Python Python3 代码格式化几个插件,那个用的人多,主流些?谢谢](https://www.v2ex.com/t/981340#reply0)|
+|2023-10-12 07:08:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 给老妈换个手机，有什么推荐吗？](https://www.v2ex.com/t/981339#reply0)|
+|2023-10-12 07:06:19|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 最近想买 iPhone 但是有几个问题一直困扰我不知道怎么选择](https://www.v2ex.com/t/981338#reply1)|
+|2023-10-12 06:58:18|[V2EX](https://www.v2ex.com/index.xml)|[ Apple V 友们现在用什么样的桌面充电方式呢？](https://www.v2ex.com/t/981336#reply4)|
+|2023-10-12 06:57:07|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 30 岁了如何躺平](https://www.v2ex.com/t/981335#reply3)|
+|2023-10-12 06:56:26|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 其实互联网现在已经成为传统行业了，以后该何去何从呢？](https://www.v2ex.com/t/981334#reply0)|
+|2023-10-12 06:55:58|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 不懂就问 我有 100 克的大米，如果想煮大米粥，我需要向电饭煲里加多少克的水？](https://www.v2ex.com/t/981333#reply11)|
+|2023-10-12 06:55:54|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 CodeSmellGPT: 基于 GPT 的无感知的代码自动 Review 工具（VSCode Extension）](https://www.v2ex.com/t/981332#reply0)|
+|2023-10-12 06:52:43|[V2EX](https://www.v2ex.com/index.xml)|[ iOS iPhone 15 可以很方便的看移动硬盘里藏的小电影了](https://www.v2ex.com/t/981331#reply2)|
+|2023-10-12 06:48:08|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 外派驻厂开发有很多坑吗?](https://www.v2ex.com/t/981329#reply3)|
+|2023-10-12 06:45:53|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有效果接近 Notion AI 的 "Improve writing" 功能的 Prompt](https://www.v2ex.com/t/981328#reply0)|
+|2023-10-12 06:44:08|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教下 nas 设备](https://www.v2ex.com/t/981327#reply6)|
+|2023-10-12 06:38:15|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 好消息， giffgaff 卡支持 esim 了](https://www.v2ex.com/t/981325#reply1)|
+|2023-10-12 06:37:41|[V2EX](https://www.v2ex.com/index.xml)|[ Notes 开源的笔记软件没一个能打的，逛了一圈最后还是回归 Evernote+simplenote](https://www.v2ex.com/t/981324#reply0)|
+|2023-10-12 06:36:52|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 centos7 主机 postgres 被 XX 了 看下这脚本啥意思](https://www.v2ex.com/t/981323#reply0)|
+|2023-10-12 06:33:52|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Github Copilot 黑色星期五会打折吗？](https://www.v2ex.com/t/981322#reply1)|
+|2023-10-12 06:32:08|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 需求征集 最想要个什么样的应用？](https://www.v2ex.com/t/981321#reply4)|
+|2023-10-12 06:28:40|[V2EX](https://www.v2ex.com/index.xml)|[ 路由器 询问一个智能家居无法连上 vlan 子网 WiFi 的奇怪问题](https://www.v2ex.com/t/981320#reply0)|
+|2023-10-12 06:27:33|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 AuroraStore 的安装方式，应该选哪种啊](https://www.v2ex.com/t/981319#reply0)|
+|2023-10-12 06:27:27|[V2EX](https://www.v2ex.com/index.xml)|[ 推广 送兑换码啦🎉~ AppleTV 下的云盘播放器 Alplayer](https://www.v2ex.com/t/981318#reply6)|
+|2023-10-12 06:25:55|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 yoga pad pro 13'挺香的…](https://www.v2ex.com/t/981317#reply2)|
+|2023-10-12 06:22:02|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 xdm，在职骑驴找马，有面试怎么办？](https://www.v2ex.com/t/981316#reply0)|
+|2023-10-12 06:19:13|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 相同的压缩密码，会不会因为计算机编码技术以及 unicode 代码点的变更，导致未来解不开压缩包？](https://www.v2ex.com/t/981315#reply9)|
+|2023-10-12 06:19:10|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 上海 漕河泾，招聘 go/web/android 开发工程师](https://www.v2ex.com/t/981314#reply0)|
+|2023-10-12 06:14:28|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone CarPlay 高德问题请教](https://www.v2ex.com/t/981313#reply6)|
+|2023-10-12 04:01:45|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[具透 Moment 4 更新详解：今年 Windows 11 的新功能，或许都在这里了](https://sspai.com/post/83418)|
 |2023-10-12 05:06:41|[36氪](https://plink.anyfeeder.com/36kr)|[英伟达新产品规划曝光，两年12款GPU在路上｜最前线](https://36kr.com/p/2470942348466056?f=rss)|
 |2023-10-12 06:14:28|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone CarPlay 高德问题请教](https://www.v2ex.com/t/981313#reply0)|
 |2023-10-12 06:09:53|[V2EX](http://www.v2ex.com/index.xml)|[ Edge EDGE 浏览器推荐开启的 3 项隐藏配置](https://www.v2ex.com/t/981312#reply0)|
