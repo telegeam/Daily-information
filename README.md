@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-12 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美国在对华芯片战中为其亚洲盟友延长部分豁免](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E5%9C%A8%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E6%88%98%E4%B8%AD%E4%B8%BA%E5%85%B6%E4%BA%9A%E6%B4%B2%E7%9B%9F%E5%8F%8B%E5%BB%B6%E9%95%BF%E9%83%A8%E5%88%86%E8%B1%81%E5%85%8D-86ae8de6)|
+|2023-10-12 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[内塔尼亚胡同意与反对派组建联合政府指挥作战](https://cn.wsj.com/amp/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%90%8C%E6%84%8F%E4%B8%8E%E5%8F%8D%E5%AF%B9%E6%B4%BE%E6%88%90%E5%91%98%E7%BB%84%E5%BB%BA%E6%B0%91%E6%97%8F%E5%9B%A2%E7%BB%93%E6%94%BF%E5%BA%9C-c3fe3ea)|
+|2023-10-12 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[共和党人提名斯卡利塞为众议院议长候选人](https://cn.wsj.com/amp/articles/%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA%E6%8F%90%E5%90%8D%E6%96%AF%E5%8D%A1%E5%88%A9%E5%A1%9E%E4%B8%BA%E4%BC%97%E8%AE%AE%E9%99%A2%E8%AE%AE%E9%95%BF%E5%80%99%E9%80%89%E4%BA%BA-f995e536)|
+|2023-10-12 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[埃克森美孚达成以600亿美元收购Pioneer的协议，将打造出页岩巨头](https://cn.wsj.com/amp/articles/%E5%9F%83%E5%85%8B%E6%A3%AE%E7%BE%8E%E5%AD%9A%E8%BE%BE%E6%88%90%E4%BB%A5600%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%ADpioneer%E7%9A%84%E5%8D%8F%E8%AE%AE-%E5%B0%86%E6%89%93%E9%80%A0%E5%87%BA%E9%A1%B5%E5%B2%A9%E5%B7%A8%E5%A4%B4-c906ff1a)|
+|2023-10-12 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[迪士尼提高其主题公园的门票价格](https://cn.wsj.com/amp/articles/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%8F%90%E9%AB%98%E5%85%B6%E4%B8%BB%E9%A2%98%E5%85%AC%E5%9B%AD%E7%9A%84%E9%97%A8%E7%A5%A8%E4%BB%B7%E6%A0%BC-2149d9c1)|
+|2023-10-12 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国财经媒体报道汇总：80家典型房企的9月融资总量大幅减少](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-80%E5%AE%B6%E5%85%B8%E5%9E%8B%E6%88%BF%E4%BC%81%E7%9A%849%E6%9C%88%E8%9E%8D%E8%B5%84%E6%80%BB%E9%87%8F%E5%A4%A7%E5%B9%85%E5%87%8F%E5%B0%91-68b4c00b)|
+|2023-10-12 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[UAW在肯塔基州福特皮卡工厂举行罢工](https://cn.wsj.com/amp/articles/uaw%E5%9C%A8%E8%82%AF%E5%A1%94%E5%9F%BA%E5%B7%9E%E7%A6%8F%E7%89%B9%E7%9A%AE%E5%8D%A1%E5%B7%A5%E5%8E%82%E4%B8%BE%E8%A1%8C%E7%BD%A2%E5%B7%A5-a9ac2a25)|
+|2023-10-12 00:34:29|[极客公园](https://plink.anyfeeder.com/geekpark)|[肝癌疗法交出积极数据，相关公司股价大涨 40 倍；微软被追缴300 亿美元税款；特斯拉 4680 电池产量破 2000 万](http://www.geekpark.net/news/325814)|
+|2023-10-12 00:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[拜登应对巴以冲突犹如走钢丝](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E5%BA%94%E5%AF%B9%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E7%8A%B9%E5%A6%82%E8%B5%B0%E9%92%A2%E4%B8%9D-b794d2e5)|
+|2023-10-12 00:35:38|[36氪](https://plink.anyfeeder.com/36kr)|[脑机接口，离治抑郁、瘫痪很近，离数字永生很远 36氪新风向](https://36kr.com/p/2468019557816456?f=rss)|
+|2023-10-12 00:30:28|[36氪](https://plink.anyfeeder.com/36kr)|[以蚕产蛛丝突破生产成本瓶颈，合成生物公司「缙绣生物」启动首轮融资 早期项目](https://36kr.com/p/2469737226950792?f=rss)|
+|2023-10-12 00:16:47|[36氪](https://plink.anyfeeder.com/36kr)|[8点1氪丨周杰伦演唱会前黄牛集体退票；海底捞回应顾客用锅底煮中药；​优衣库中国员工涨薪28%](https://36kr.com/p/2470669737826179?f=rss)|
+|2023-10-12 00:45:23|[爱范儿](https://plink.anyfeeder.com/ifanr)|[早报｜小米整改电视开机广告/理想将华为视为第一强力对手/苹果客服回应 iPhone 被曝夜间自动关机](https://www.ifanr.com/1564547?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-12 00:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[尼日尔政变夺权军政府命令联合国协调员离开该国](https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20231011-%E5%B0%BC%E6%97%A5%E5%B0%94%E6%94%BF%E5%8F%98%E5%A4%BA%E6%9D%83%E5%86%9B%E6%94%BF%E5%BA%9C%E5%91%BD%E4%BB%A4%E8%81%94%E5%90%88%E5%9B%BD%E5%8D%8F%E8%B0%83%E5%91%98%E7%A6%BB%E5%BC%80%E8%AF%A5%E5%9B%BD)|
 |2023-10-12 00:30:58|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[被中国关押三年后，前CGTN主持人成蕾返回澳大利亚](https://cn.nytimes.com/world/20231012/china-releases-australian-journalist-lei/?utm_source=RSS)|
 |2023-10-12 00:52:15|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 爬虫怎么破解滑块验证码？](https://www.v2ex.com/t/981177#reply0)|
 |2023-10-12 00:40:29|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 C# 桌面客户端内置 http 服务器](https://www.v2ex.com/t/981174#reply2)|
