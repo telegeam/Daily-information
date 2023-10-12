@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-12 00:15:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[为何，巨头们都在角逐即时零售？](https://www.tmtpost.com/6739083.html)|
+|2023-10-12 01:31:42|[机核](https://plink.anyfeeder.com/gcores)|[《层层恐惧》（2023）将于本月24日迎来免费更新，带来全新章节](https://www.gcores.com/articles/172123)|
+|2023-10-12 01:30:22|[36氪](https://plink.anyfeeder.com/36kr)|[同济、北大校友冲击北交所，赛默飞为最大客户 专精快报](https://36kr.com/p/2470013386184837?f=rss)|
+|2023-10-12 01:30:02|[36氪](https://plink.anyfeeder.com/36kr)|[比亚迪十年老相好，中兴控股的锂电隔膜商IPO终止 专精快报](https://36kr.com/p/2469993722009475?f=rss)|
+|2023-10-12 01:00:47|[36氪](https://plink.anyfeeder.com/36kr)|[免税店的好日子到头了｜焦点分析](https://36kr.com/p/2469728535566473?f=rss)|
+|2023-10-12 01:44:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[摇滚青年尬遇村民，在迷笛“一无所有”丨失窃事件发生后，乐迷懵了，村民也一样。](https://dig.chouti.com/link/40262027)|
+|2023-10-12 02:01:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[公司给安排了员工改进计划，让我签字，我不想签](https://www.v2ex.com/t/981210#reply12)|
+|2023-10-12 01:57:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[接了一个项目，需要公司名义开发票以及签署合同](https://www.v2ex.com/t/981209#reply1)|
+|2023-10-12 02:05:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[程序员运动锻炼打卡群--金刚功方向](https://www.v2ex.com/t/981214#reply4)|
+|2023-10-12 02:12:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Nginx 做 webdav， obsidian remote-save 出现 405 状态码](https://www.v2ex.com/t/981218#reply0)|
+|2023-10-12 01:24:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求教下 MariaDB 数据库使用](https://www.v2ex.com/t/981190#reply7)|
+|2023-10-12 00:52:15|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[爬虫怎么破解滑块验证码？](https://www.v2ex.com/t/981177#reply6)|
+|2023-10-12 02:05:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[geoipupdate 下载更新 ip 地址数据库问题](https://www.v2ex.com/t/981213#reply0)|
 |2023-10-12 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美国在对华芯片战中为其亚洲盟友延长部分豁免](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E5%9C%A8%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E6%88%98%E4%B8%AD%E4%B8%BA%E5%85%B6%E4%BA%9A%E6%B4%B2%E7%9B%9F%E5%8F%8B%E5%BB%B6%E9%95%BF%E9%83%A8%E5%88%86%E8%B1%81%E5%85%8D-86ae8de6)|
 |2023-10-12 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[内塔尼亚胡同意与反对派组建联合政府指挥作战](https://cn.wsj.com/amp/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%90%8C%E6%84%8F%E4%B8%8E%E5%8F%8D%E5%AF%B9%E6%B4%BE%E6%88%90%E5%91%98%E7%BB%84%E5%BB%BA%E6%B0%91%E6%97%8F%E5%9B%A2%E7%BB%93%E6%94%BF%E5%BA%9C-c3fe3ea)|
 |2023-10-12 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[共和党人提名斯卡利塞为众议院议长候选人](https://cn.wsj.com/amp/articles/%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA%E6%8F%90%E5%90%8D%E6%96%AF%E5%8D%A1%E5%88%A9%E5%A1%9E%E4%B8%BA%E4%BC%97%E8%AE%AE%E9%99%A2%E8%AE%AE%E9%95%BF%E5%80%99%E9%80%89%E4%BA%BA-f995e536)|
