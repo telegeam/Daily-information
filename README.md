@@ -2,6 +2,31 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-12 03:02:47|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[《生成式人工智能服务 安全基本要求》（征求意见稿）发布](https://www.freebuf.com/news/380404.html)|
+|2023-10-12 02:39:10|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[网络犯罪分子正在利用 WordPress 后门劫持网站](https://www.freebuf.com/news/380395.html)|
+|2023-10-12 09:39:00|[plus studio](https://studyinglover.com/atom.xml)|[马踏棋盘](https://studyinglover.com/2023/10/12/%E9%A9%AC%E8%B8%8F%E6%A3%8B%E7%9B%98/)|
+|2023-10-12 02:29:00|[机核](https://www.gcores.com/rss)|[Booom作品《Infinite future》](https://www.gcores.com/videos/172117)|
+|2023-10-12 02:27:00|[机核](https://www.gcores.com/rss)|[就是个动画练习](https://www.gcores.com/videos/172107)|
+|2023-10-12 02:22:00|[机核](https://www.gcores.com/rss)|[【BOOOM 作品】MicroDoctor游戏介绍](https://www.gcores.com/videos/172108)|
+|2023-10-12 02:22:00|[机核](https://www.gcores.com/rss)|[夜之城掠影](https://www.gcores.com/articles/172082)|
+|2023-10-12 02:20:00|[机核](https://www.gcores.com/rss)|[摄影分享丨Ciao! Italia!](https://www.gcores.com/articles/172102)|
+|2023-10-12 02:15:00|[机核](https://www.gcores.com/rss)|[译介丨Maxwell Foxman 团结则立：Unity 引擎带来的平台、工具与创新 2019 ](https://www.gcores.com/articles/172111)|
+|2023-10-12 02:12:00|[机核](https://www.gcores.com/rss)|[《黑魂》的硬直“发展史”](https://www.gcores.com/articles/171143)|
+|2023-10-12 02:11:43|[机核](https://www.gcores.com/rss)|[2VS2对战动作游戏《咒术回战 双华乱舞》2024年2月1日发售](https://www.gcores.com/articles/172126)|
+|2023-10-12 02:11:00|[机核](https://www.gcores.com/rss)|[Booom 开发Solo完成经验总结（2/2）](https://www.gcores.com/articles/172114)|
+|2023-10-12 02:10:00|[机核](https://www.gcores.com/rss)|[截屏视觉小结丨《装甲核心6：境界天火》三周目真结局通关](https://www.gcores.com/articles/172099)|
+|2023-10-12 02:00:00|[机核](https://www.gcores.com/rss)|[飞天入地寻觅敌人踪迹，肉鸽跑酷游戏《塑战核心》EA版本初感受](https://www.gcores.com/articles/172071)|
+|2023-10-12 02:00:00|[机核](https://www.gcores.com/rss)|[《OMORI》：走进创伤、跨越梦境与现实的救赎](https://www.gcores.com/articles/171453)|
+|2023-10-12 01:51:21|[机核](https://www.gcores.com/rss)|[一个按键演绎五十六种精彩：《SUPER 56》现已于Steam发售](https://www.gcores.com/articles/172127)|
+|2023-10-12 01:48:38|[机核](https://www.gcores.com/rss)|[真人剧集《幽游白书》12月14日上线Netflix](https://www.gcores.com/articles/172125)|
+|2023-10-12 01:44:38|[机核](https://www.gcores.com/rss)|[含《极乐迪斯科 最终剪辑版》及《哥谭骑士》：索尼公布10月PS+新增游戏阵营](https://www.gcores.com/articles/172124)|
+|2023-10-12 00:44:29|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：高通公布骁龙 X 芯片、网页版 Illustrator 开放公测等](https://sspai.com/post/83511)|
+|2023-10-12 03:12:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何到国外著名游戏工作室工作](https://www.v2ex.com/t/981251#reply0)|
+|2023-10-12 02:01:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[公司给安排了员工改进计划，让我签字，我不想签](https://www.v2ex.com/t/981210#reply55)|
+|2023-10-12 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：《乐队的夏天》将举行“再见·夏天”演唱会、蓝瓶咖啡发布新歌单](http://www.toodaylab.com/82293)|
+|2023-10-12 00:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[被中国关押三年后，前CGTN主持人成蕾返回澳大利亚](https://cn.nytimes.com/world/20231012/china-releases-australian-journalist-lei/)|
+|2023-10-12 03:06:32|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[关于我如何机缘巧合步入独立开发这条路](https://w2solo.com/topics/4187)|
+|2023-10-12 02:54:26|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中国掀起消费降级潮：价格战“内卷”中的经济低迷](https://cn.nytimes.com/business/20231012/china-consumer-spending/?utm_source=RSS)|
 |2023-10-12 00:15:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[为何，巨头们都在角逐即时零售？](https://www.tmtpost.com/6739083.html)|
 |2023-10-12 01:31:42|[机核](https://plink.anyfeeder.com/gcores)|[《层层恐惧》（2023）将于本月24日迎来免费更新，带来全新章节](https://www.gcores.com/articles/172123)|
 |2023-10-12 01:30:22|[36氪](https://plink.anyfeeder.com/36kr)|[同济、北大校友冲击北交所，赛默飞为最大客户 专精快报](https://36kr.com/p/2470013386184837?f=rss)|
