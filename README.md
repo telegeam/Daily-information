@@ -1,7 +1,12 @@
-﻿# 每日资讯（2023-10-11）
+﻿# 每日资讯（2023-10-12）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-12 00:30:58|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[被中国关押三年后，前CGTN主持人成蕾返回澳大利亚](https://cn.nytimes.com/world/20231012/china-releases-australian-journalist-lei/?utm_source=RSS)|
+|2023-10-12 00:52:15|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 爬虫怎么破解滑块验证码？](https://www.v2ex.com/t/981177#reply0)|
+|2023-10-12 00:40:29|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 C# 桌面客户端内置 http 服务器](https://www.v2ex.com/t/981174#reply2)|
+|2023-10-12 00:39:59|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 公司饮水有异味，个人解决方案是否可行？](https://www.v2ex.com/t/981173#reply3)|
+|2023-10-12 00:03:42|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 除了 rust、lisp 外还有哪些可以用宏 macro 展开伪装成任何的语言的编程语言推荐吗？](https://www.v2ex.com/t/981171#reply0)|
 |2023-10-11 09:53:36|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[北芯生命：公司越亏越多，申报前夕，还遭股东清仓“跑路”｜IPO观察](https://www.tmtpost.com/6738598.html)|
 |2023-10-11 09:52:15|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[一高一深，我国风电找到新“蓝海”](https://www.tmtpost.com/6738428.html)|
 |2023-10-11 09:24:08|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[土味网红，开始当上“人生导师”](https://www.tmtpost.com/6738531.html)|
