@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-13 03:39:51|[少数派](https://plink.anyfeeder.com/sspai)|[3 年、4 个库目录、100 万字：也谈我的 Obsidian 笔记工作流](https://sspai.com/post/83042)|
+|2023-10-13 09:09:04|[V2EX](https://v2ex.com/index.xml)|[ Vim Vim 上远程开发有什么方案？](https://www.v2ex.com/t/981763#reply0)|
+|2023-10-13 09:09:00|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 10 多年 Java 程序员求活和工作](https://www.v2ex.com/t/981762#reply0)|
+|2023-10-13 09:03:00|[V2EX](https://v2ex.com/index.xml)|[ 问与答 笔记本电脑动不动就死机 宏碁暗影骑士](https://www.v2ex.com/t/981761#reply0)|
+|2023-10-13 09:00:26|[V2EX](https://v2ex.com/index.xml)|[ 问与答 才在 tether 注册了个账号，申请了钱包不会用。](https://www.v2ex.com/t/981758#reply0)|
+|2023-10-13 08:59:17|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 远程剪辑 HC（6k—10k）](https://www.v2ex.com/t/981757#reply0)|
+|2023-10-13 08:53:50|[V2EX](https://v2ex.com/index.xml)|[ 问与答 toutiao.io 怎么了，好久了打不开，有人知道么](https://www.v2ex.com/t/981756#reply0)|
+|2023-10-13 08:40:10|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 苹果三星为什么不上高功率快充？国产手机为什么要用私有协议？（转载充电头网：什么是 UFCS）](https://www.v2ex.com/t/981752#reply2)|
+|2023-10-13 08:36:25|[V2EX](https://v2ex.com/index.xml)|[ Apple 印度区 APP ID 怎么注册？](https://www.v2ex.com/t/981750#reply1)|
+|2023-10-13 08:24:11|[V2EX](https://v2ex.com/index.xml)|[ V2EX 隔壁论坛都有反代代码了，本站有吗？](https://www.v2ex.com/t/981747#reply6)|
+|2023-10-13 08:23:46|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 在线 markdown 编辑器，支持存储到文章列表](https://www.v2ex.com/t/981746#reply3)|
+|2023-10-13 08:21:43|[V2EX](https://v2ex.com/index.xml)|[ 微信 上线了一款微信小程序，急求运维经验](https://www.v2ex.com/t/981745#reply0)|
+|2023-10-13 08:17:32|[V2EX](https://v2ex.com/index.xml)|[ 程序员 前后端 页面 url 与 api url 如何统一命名风格.](https://www.v2ex.com/t/981744#reply2)|
+|2023-10-13 08:16:50|[Stories by Xiuer Old...](https://xiuer.medium.com/feed)|[20 JavaScript Abbreviation Techniques To Improve Efficiency](https://javascript.plainenglish.io/20-javascript-abbreviation-techniques-to-improve-efficiency-437969fbfe3b?source=rss-c3917681a8f5------2)|
 |2023-10-13 08:13:21|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 想做一把 dactyl manuform bluetooth keyboard，有小白教程推荐吗（没有任何基础知识储备）](https://www.v2ex.com/t/981743#reply0)|
 |2023-10-13 08:13:14|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如果没有房贷，而且还有 100 多万的存款，往后的生活你会选择怎么过？](https://www.v2ex.com/t/981742#reply0)|
 |2023-10-13 08:11:51|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 QQ 提示不是常用设备登陆，需要申诉，结果申诉一直不通过](https://www.v2ex.com/t/981741#reply0)|
