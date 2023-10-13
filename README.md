@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-13 04:03:33|[Mr. PM 下午先生](http://mrpm.cc/?feed=rss2)|[別再自己迫害自己](https://mrpm.cc/?p=1610)|
+|2023-10-13 05:40:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[万魔创始人谢冠宏：从不知到尽知，一个“阿甘”的艰辛创业路](https://www.tmtpost.com/6741448.html)|
+|2023-10-13 05:30:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[新能源车险的“魔咒”还得车企来解？](https://www.tmtpost.com/6741551.html)|
+|2023-10-13 05:22:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[麦肯锡发布人工智能10大洞察，怎么利用好这波机会？](https://www.tmtpost.com/6741524.html)|
+|2023-10-13 05:14:16|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[百亿以上市值物企仅剩7家，万物云提出“AI技术革新”](https://www.tmtpost.com/6741754.html)|
+|2023-10-13 05:03:52|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[高能环境加大原料采购及海外收料，大手笔为子公司担保称风险可控 直击业绩会](https://www.tmtpost.com/6741619.html)|
+|2023-10-13 05:00:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[一年开店6000多家，库迪拉瑞幸进巷战](https://www.tmtpost.com/6741510.html)|
+|2023-10-13 04:35:37|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[独家首发｜智创芯微电子与全球知名半导体企业签署战略合作协议](https://www.tmtpost.com/6741683.html)|
+|2023-10-13 04:25:43|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[人人向往的万店连锁的终点是什么？西贝贾国龙这次给说透了](https://www.tmtpost.com/6741597.html)|
+|2023-10-13 03:06:58|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[十分钟充电续航1200公里 丰田官宣与日本能源巨头合作量产全固态电池](https://m.cnbeta.com.tw/view/1389671.htm)|
+|2023-10-13 03:06:44|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[和特斯拉卡BUG 美国一男子骗走Model X等5辆新车获刑4年](https://m.cnbeta.com.tw/view/1389669.htm)|
+|2023-10-13 03:06:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉再次发出警告：明年起Model 3税收抵免优惠极有可能减半](https://m.cnbeta.com.tw/view/1389667.htm)|
+|2023-10-13 03:06:19|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[来总曝光OPPO Find N3典藏版真机图](https://m.cnbeta.com.tw/view/1389665.htm)|
+|2023-10-13 03:06:04|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉计划下月为1.1万名德国工厂员工涨薪 去年上调6%](https://m.cnbeta.com.tw/view/1389661.htm)|
+|2023-10-13 03:05:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[外媒：在电池竞赛中 中国如何将世界远远甩在后面](https://m.cnbeta.com.tw/view/1389659.htm)|
+|2023-10-13 03:05:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[欧盟向周受资提出严厉要求 TikTok回应](https://m.cnbeta.com.tw/view/1389657.htm)|
+|2023-10-13 03:05:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[骗子“盯”上董明珠 格力声明新型诈骗：这种抽奖卡是假的](https://m.cnbeta.com.tw/view/1389655.htm)|
+|2023-10-13 02:37:01|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[台积电在大陆业务再获美一年豁免](https://m.cnbeta.com.tw/view/1389653.htm)|
+|2023-10-13 02:36:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉亚洲首个V4超级充电站落地香港](https://m.cnbeta.com.tw/view/1389649.htm)|
+|2023-10-13 02:36:32|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[新能源车企假如“黄了”，车主咋办？车还能开吗？](https://m.cnbeta.com.tw/view/1389647.htm)|
+|2023-10-13 02:36:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[高通也难逃“科技裁员浪潮” 拟在加州裁逾1200人以降成本](https://m.cnbeta.com.tw/view/1389645.htm)|
+|2023-10-13 02:36:05|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国汽车业罢工骤然升级 福特高管喊话：让步“已达极限”](https://m.cnbeta.com.tw/view/1389643.htm)|
+|2023-10-13 02:35:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[贝索斯以7900万美元再入一座佛罗里达豪宅](https://m.cnbeta.com.tw/view/1389641.htm)|
+|2023-10-13 02:35:37|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉第三季度美国电动汽车市场份额降至50% 创历史新低](https://m.cnbeta.com.tw/view/1389639.htm)|
+|2023-10-13 02:35:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“很高兴遇见你”被传亏损上亿元 文艺韩寒难成商人](https://m.cnbeta.com.tw/view/1389637.htm)|
+|2023-10-13 05:32:58|[36氪](https://plink.anyfeeder.com/36kr)|[特斯拉得州超级工厂4680电池电芯累计产量突破2000万颗；九部门联合发布《关于推动汽车后市场高质量发展的指导意见》｜36氪新能源日报1012](https://36kr.com/p/2471538987866244?f=rss)|
+|2023-10-13 00:03:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[揭秘小程序短剧买量：占总成本90%，堪比股市量化交易](https://dig.chouti.com/link/40272528)|
+|2023-10-13 01:03:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[男子夜钓下水捞鱼竿溺亡，法院：属自陷风险，水库方无过错无需赔偿](https://dig.chouti.com/link/40272872)|
+|2023-10-13 04:17:57|[爱范儿](https://www.ifanr.com/feed)|[嘘！这份能让你准时下班的「打工秘籍」，千万别被老板看到](https://www.ifanr.com/1564661?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-13 04:08:40|[爱范儿](https://www.ifanr.com/feed)|[解散又重组，苹果到底还要不要造车了？](https://www.ifanr.com/1564577?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-13 06:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[六张图表解析中国的地方政府债务问题](https://cn.wsj.com/articles/%E5%85%AD%E5%BC%A0%E5%9B%BE%E8%A1%A8%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E5%80%BA%E5%8A%A1%E9%97%AE%E9%A2%98-311bf7a8)|
+|2023-10-13 04:00:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国9月份CPI同比持平，年内已两度零增长、一次负增长](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD9%E6%9C%88%E4%BB%BDcpi%E5%90%8C%E6%AF%94%E6%8C%81%E5%B9%B3-%E5%B9%B4%E5%86%85%E5%B7%B2%E4%B8%A4%E5%BA%A60%E5%A2%9E%E9%95%BF-%E4%B8%80%E6%AC%A1%E8%B4%9F%E5%A2%9E%E9%95%BF-87ff8a22)|
+|2023-10-13 03:00:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[报道：美国可能收紧对华AI芯片销售限制措施](https://cn.wsj.com/articles/%E6%8A%A5%E9%81%93-%E7%BE%8E%E5%9B%BD%E5%8F%AF%E8%83%BD%E6%94%B6%E7%B4%A7%E5%AF%B9%E5%8D%8Eai%E8%8A%AF%E7%89%87%E9%94%80%E5%94%AE%E9%99%90%E5%88%B6%E6%8E%AA%E6%96%BD-550fc6f8)|
+|2023-10-13 02:45:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国敦促以色列恢复和谈](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%95%A6%E4%BF%83%E4%BB%A5%E8%89%B2%E5%88%97%E6%81%A2%E5%A4%8D%E5%92%8C%E8%B0%88-ca3e9f8d)|
+|2023-10-13 05:31:00|[机核](https://www.gcores.com/rss)|[章节六的镇魂曲 赛后更新版本 畅聊试玩](https://www.gcores.com/videos/172199)|
 |2023-10-13 01:35:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[放弃北京户口去香港上学后，才发现轻松上名校的想法天真了](https://dig.chouti.com/link/40273329)|
 |2023-10-13 04:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[乳房和命，她们都保住了](https://dig.chouti.com/link/40275460)|
 |2023-10-13 02:04:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【菲律宾男篮球员布朗利药检呈阳性，但中国男篮还不能递补金牌】根据亚奥理事会规定，团体项目只有在队内至少2人出现药检呈阳性，才会有取消团体成绩等处罚。](https://dig.chouti.com/link/40273679)|
