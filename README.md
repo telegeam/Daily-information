@@ -1,7 +1,16 @@
-﻿# 每日资讯（2023-10-12）
+﻿# 每日资讯（2023-10-13）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-13 00:51:43|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Mac 上有什么好用的播放本地音乐的 app 吗？](https://www.v2ex.com/t/981521#reply1)|
+|2023-10-13 00:46:18|[V2EX](http://www.v2ex.com/index.xml)|[ Android 第三方浏览器没有系统自带的流畅？](https://www.v2ex.com/t/981519#reply0)|
+|2023-10-13 00:38:35|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 107 期）：一个 AI 播客工具，月收入 1.2 万美金](https://www.v2ex.com/t/981517#reply0)|
+|2023-10-13 00:14:39|[V2EX](http://www.v2ex.com/index.xml)|[ iCloud iCloud Drive 复制文件过去同步一直转圈怎么办？](https://www.v2ex.com/t/981515#reply2)|
+|2023-10-13 00:46:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“国家队”时隔八年出手，这些重仓股也有机会？](https://www.tmtpost.com/6740548.html)|
+|2023-10-13 00:27:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[县城，新茶饮的“绞肉机”](https://www.tmtpost.com/6740463.html)|
+|2023-10-13 00:14:06|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[钛媒体科股早知道：实现6G万物互联的关键，这类资源已成为必争之地](https://www.tmtpost.com/6741063.html)|
+|2023-10-13 00:31:49|[爱范儿](https://www.ifanr.com/feed)|[早报｜iPhone 16 Pro 或将支持 5.5G / 小米社区负责人回应雷军被封号 / OPPO Find N3 发布会官宣](https://www.ifanr.com/1564762?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-13 00:44:15|[精品MAC应用分享](https://xclient.info/feed)|[Reeder 5.4 将RSS阅读体验发挥到极致](https://xclient.info/s/reeder.html)|
 |2023-10-12 10:12:48|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 0512 联通可以低成本升级 FTTR 了](https://www.v2ex.com/t/981418#reply0)|
 |2023-10-12 10:05:09|[V2EX](http://www.v2ex.com/index.xml)|[ 加密货币 评估这个](https://www.v2ex.com/t/981417#reply0)|
 |2023-10-12 09:56:43|[V2EX](http://www.v2ex.com/index.xml)|[ Bitcoin Trezor 推出带 Secure Element 安全芯片的新型号 Trezor Safe 3](https://www.v2ex.com/t/981415#reply0)|
