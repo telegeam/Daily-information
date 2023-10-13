@@ -2,6 +2,38 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-13 01:30:29|[36氪](https://plink.anyfeeder.com/36kr)|[深度绑定中芯国际，清华无线电系将迎来一IPO 专精快报](https://36kr.com/p/2471311773440132?f=rss)|
+|2023-10-13 01:00:07|[36氪](https://plink.anyfeeder.com/36kr)|[第一大客户为vivo的思泉新材开启申购，营收翻了近四倍 专精快报](https://36kr.com/p/2471287422474375?f=rss)|
+|2023-10-13 00:10:12|[36氪](https://plink.anyfeeder.com/36kr)|[8点1氪丨淘宝否认主持人李思思入淘开直播；​脑白金回应胶囊主要成分是褪黑素；日本东芝将于12月20日退市](https://36kr.com/p/2472078298372225?f=rss)|
+|2023-10-13 02:22:48|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 芜湖程序员交友](https://www.v2ex.com/t/981574#reply0)|
+|2023-10-13 02:19:23|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有哪些你在前端开发中会用到的浏览器插件？](https://www.v2ex.com/t/981573#reply1)|
+|2023-10-13 02:18:56|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 分享一个简单-便捷翻译的开源小工具（Go+Wails+Vue 组件开发）](https://www.v2ex.com/t/981572#reply0)|
+|2023-10-13 02:16:53|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 V2EX 的分页是不是有问题，经常出现翻页后出现很多上一页的内容？](https://www.v2ex.com/t/981571#reply0)|
+|2023-10-13 02:15:21|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 黑苹果使用 WPS 感觉非常不友好，顿顿的， office365 是不是很流畅](https://www.v2ex.com/t/981569#reply0)|
+|2023-10-13 02:14:49|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 在已知咸鱼内的折扣话费有可能是销赃的情况下，你会购买这类话费充值吗](https://www.v2ex.com/t/981568#reply0)|
+|2023-10-13 02:13:40|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 请教， iPhone 8P 有啥办法让绑定的手表升级到 watch OS10 吗](https://www.v2ex.com/t/981566#reply0)|
+|2023-10-13 02:13:17|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud 土区 icloud 缺 3 人](https://www.v2ex.com/t/981565#reply0)|
+|2023-10-13 02:10:40|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 如何解决接口脱离浏览器环境，调用报错。](https://www.v2ex.com/t/981563#reply0)|
+|2023-10-13 02:10:40|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 广东电信 ITV 已经抓包 IPOE 鉴权数据 并在 ROS 里 DHCPClient 里成功获取了跟 ITV 盒子一样的内网网段](https://www.v2ex.com/t/981562#reply1)|
+|2023-10-13 02:10:01|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 我买的 Procreate, Goodnotes, Mindnode, Omnifocus 在明年四月份之后会怎么样？](https://www.v2ex.com/t/981560#reply3)|
+|2023-10-13 02:09:52|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 内推 上海 得物 移动端架构组 Android、ios](https://www.v2ex.com/t/981559#reply0)|
+|2023-10-13 02:09:47|[V2EX](https://www.v2ex.com/index.xml)|[ Google Google 搜索出来的 排名第二的浏览次数统计工具居然带病毒](https://www.v2ex.com/t/981558#reply1)|
+|2023-10-13 02:09:24|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 🚀 赠码 Eul - SwiftUI 简明教程（2.5.0）已发布](https://www.v2ex.com/t/981557#reply0)|
+|2023-10-13 02:05:23|[V2EX](https://www.v2ex.com/index.xml)|[ macOS macOS 不响应 display_brightness_decrement 这个按键码](https://www.v2ex.com/t/981556#reply0)|
+|2023-10-13 01:59:42|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 大家 Sonoma 桌面有什么推荐的小组件](https://www.v2ex.com/t/981553#reply0)|
+|2023-10-13 01:57:33|[V2EX](https://www.v2ex.com/index.xml)|[ 数据库 前后端分离时，常量字典大家一般怎么处理和使用的呢？](https://www.v2ex.com/t/981552#reply3)|
+|2023-10-13 01:57:26|[V2EX](https://www.v2ex.com/index.xml)|[ Linux Ubuntu 23.10 发布了，升级桌面系统啦！](https://www.v2ex.com/t/981551#reply12)|
+|2023-10-13 01:56:22|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 旧衣服捐出去前有必要先洗干净么](https://www.v2ex.com/t/981549#reply21)|
+|2023-10-13 01:54:38|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 有点儿离谱，官网买的 iPhone 15 Pro 屏幕左上角有一块儿疏油层掉了，还有一丝很小的划痕 或屏幕里的灰 ](https://www.v2ex.com/t/981547#reply6)|
+|2023-10-13 01:54:22|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone iPhone 15PM 假烧屏？](https://www.v2ex.com/t/981546#reply2)|
+|2023-10-13 01:49:40|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 累求，视频在第三方手机浏览器内被拦截导致破坏页面效果问题](https://www.v2ex.com/t/981545#reply8)|
+|2023-10-13 01:47:13|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 订多了武汉今天到店取货的 15pro 原色 128G,有没有需要的](https://www.v2ex.com/t/981543#reply6)|
+|2023-10-13 00:37:50|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 107 期）：一个 AI 播客工具，月收入 1.2 万美金](https://w2solo.com/topics/4191)|
+|2023-10-13 02:10:16|[虎嗅](https://rss.huxiu.com/)|[人们为何会相信自己编造的谎言？](https://www.huxiu.com/article/2166597.html?f=rss)|
+|2023-10-13 01:55:05|[虎嗅](https://rss.huxiu.com/)|[中学生表演“刺杀安倍”，仇恨教育让人担忧](https://www.huxiu.com/article/2160664.html?f=rss)|
+|2023-10-13 01:46:00|[虎嗅](https://rss.huxiu.com/)|[“印欧经济走廊”，能不能复刻我们的成功？](https://www.huxiu.com/article/2166555.html?f=rss)|
+|2023-10-13 01:33:00|[虎嗅](https://rss.huxiu.com/)|[小而美网剧，十年浮沉录](https://www.huxiu.com/article/2165249.html?f=rss)|
+|2023-10-13 01:24:44|[虎嗅](https://rss.huxiu.com/)|[养殖与野生三文鱼，营养价值有区别吗？](https://www.huxiu.com/article/2166557.html?f=rss)|
 |2023-10-13 00:09:33|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html)|
 |2023-10-13 01:09:53|[虎嗅](https://plink.anyfeeder.com/huxiu)|[中办、国办调整中国人民银行职责、机构、编制](https://www.huxiu.com/article/2166586.html?f=rss)|
 |2023-10-13 01:09:39|[虎嗅](https://plink.anyfeeder.com/huxiu)|[文艺韩寒，难成商人](https://www.huxiu.com/article/2166522.html?f=rss)|
