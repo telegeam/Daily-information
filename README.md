@@ -2,6 +2,53 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-13 04:35:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[拜登考虑对海外中国企业施加人工智能芯片限制](https://m.cnbeta.com.tw/view/1389697.htm)|
+|2023-10-13 04:06:56|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[联合国主要互联网治理机构正面临互联网审查正常化的风险](https://m.cnbeta.com.tw/view/1389699.htm)|
+|2023-10-13 04:06:39|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[用户反馈威马车机已恢复正常 官方暂未回应事情缘由](https://m.cnbeta.com.tw/view/1389713.htm)|
+|2023-10-13 04:06:28|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[丹麦物流巨头马士基将在330多艘船上安装Starlink终端 预计明年初完成](https://m.cnbeta.com.tw/view/1389707.htm)|
+|2023-10-13 04:06:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克回应欧盟调查X平台传播虚假信息：拜托举个例子](https://m.cnbeta.com.tw/view/1389705.htm)|
+|2023-10-13 04:06:05|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[腾讯QQ群恢复功能今日正式下线](https://m.cnbeta.com.tw/view/1389703.htm)|
+|2023-10-13 04:05:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[大闸蟹入侵英国 当地人吓坏不敢碰](https://m.cnbeta.com.tw/view/1389701.htm)|
+|2023-10-13 04:05:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[雷克萨斯全新电车曝光：采用模块化平台生产 2026年实现量产](https://m.cnbeta.com.tw/view/1389695.htm)|
+|2023-10-13 04:05:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Ubuntu Desktop 23.10 ISO 因恶意用户翻译而被召回](https://m.cnbeta.com.tw/view/1389693.htm)|
+|2023-10-13 03:36:11|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[350元“智商税”？特斯拉CyberOpener开瓶器开售：号称有收藏价值](https://m.cnbeta.com.tw/view/1389687.htm)|
+|2023-10-13 03:35:59|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[股价走高 大量招人 被苹果抛弃的欧菲光进入华为供应链后绝处逢生](https://m.cnbeta.com.tw/view/1389685.htm)|
+|2023-10-13 03:35:44|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[三星将于明年1月正式发布Galaxy S24系列](https://m.cnbeta.com.tw/view/1389677.htm)|
+|2023-10-13 03:35:32|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[保时捷设计推出911蓝牙音箱：外形酷似排气管](https://m.cnbeta.com.tw/view/1389675.htm)|
+|2023-10-13 03:35:19|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[宝马与印度车企合作生产BMW CE 02电动摩托 约售5.5万元](https://m.cnbeta.com.tw/view/1389673.htm)|
+|2023-10-13 06:35:31|[虎嗅](https://rss.huxiu.com/)|[出手近5亿增持四大银行：中央汇金到底啥来头？](https://www.huxiu.com/article/2166246.html?f=rss)|
+|2023-10-13 06:20:07|[虎嗅](https://rss.huxiu.com/)|[客舱中上演的“农夫与蛇”](https://www.huxiu.com/article/2167525.html?f=rss)|
+|2023-10-13 06:16:11|[虎嗅](https://rss.huxiu.com/)|[凉拌见手青、刺身知了猴、生腌水蟑螂，菜市场都有？](https://www.huxiu.com/article/2166974.html?f=rss)|
+|2023-10-13 05:59:00|[虎嗅](https://rss.huxiu.com/)|[微软Bing血泪史：“有谷歌在，苹果三星不会选我们”](https://www.huxiu.com/article/2167575.html?f=rss)|
+|2023-10-13 05:57:50|[虎嗅](https://rss.huxiu.com/)|[A股IPO收紧，投行人盯上了并购](https://www.huxiu.com/article/2164265.html?f=rss)|
+|2023-10-13 05:57:02|[虎嗅](https://rss.huxiu.com/)|[9月CPI同比持平，原因在哪儿？](https://www.huxiu.com/article/2167564.html?f=rss)|
+|2023-10-13 05:09:00|[虎嗅](https://rss.huxiu.com/)|[抛弃手机的年轻人，不想再交“线上税”](https://www.huxiu.com/article/2166951.html?f=rss)|
+|2023-10-13 05:06:09|[虎嗅](https://rss.huxiu.com/)|[如何“保养”可重复使用火箭？](https://www.huxiu.com/article/2166945.html?f=rss)|
+|2023-10-13 00:31:56|[极客公园](https://plink.anyfeeder.com/geekpark)|[今年应届生平均招聘月薪 10342 元，人工智能行业最高；传OpenAI将推出重大更新；华为官宣全球首个5.5G 极客早知道](http://www.geekpark.net/news/325883)|
+|2023-10-13 04:04:12|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国货精华液中，有哪些能够改善皮肤氧化、糖化造成的皮肤暗黄？](https://www.zhihu.com/question/618787261)|
+|2023-10-13 04:04:12|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[学生时期参与运动会的经历，对你现在的运动健身习惯有哪些积极影响？](https://www.zhihu.com/question/622740555)|
+|2023-10-13 04:04:12|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大多数人庸庸碌碌一生，一事无成的本质是什么 ？](https://www.zhihu.com/question/625753739)|
+|2023-10-13 04:04:11|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[哪种航天器推进系统，最有可能率先实现星际远航？](https://www.zhihu.com/question/624973831)|
+|2023-10-13 04:04:11|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[每天翻半小时轮胎能减肥吗？](https://www.zhihu.com/question/622462394)|
+|2023-10-13 04:04:11|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[皇马买下贝林厄姆，物有所值吗？](https://www.zhihu.com/question/606171832)|
+|2023-10-13 04:04:11|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国家统计局数据显示，9 月份居民消费价格同比持平 ，环比上涨 0.2%，这一数字意味着什么？](https://www.zhihu.com/question/625912847)|
+|2023-10-13 04:04:11|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[想要跳槽一般提前多久投递简历是比较合适的？](https://www.zhihu.com/question/622554257)|
+|2023-10-13 04:04:11|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[40 岁（中年）还不油腻的男人长什么样？过着怎样的生活？](https://www.zhihu.com/question/339005414)|
+|2023-10-13 04:04:11|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《崩坏：星穹铁道》镜流的角色塑造？](https://www.zhihu.com/question/625441787)|
+|2023-10-13 04:04:11|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[E 人和 I 人在运动健身方式偏好上有哪些不同？](https://www.zhihu.com/question/623675592)|
+|2023-10-13 04:04:11|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[汇金公司增持四大行，银行股集体高开，瑞丰银行涨停，哪些信息值得关注？](https://www.zhihu.com/question/625752577)|
+|2023-10-13 04:04:10|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[商务部表示「研究进一步取消或放宽外资股比限制的可行性」，释放了什么信号？](https://www.zhihu.com/question/625792908)|
+|2023-10-13 04:04:10|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些古诗带有「药」字?](https://www.zhihu.com/question/625758160)|
+|2023-10-13 04:04:10|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《一人之下》漫画 643（682）话？](https://www.zhihu.com/question/625879568)|
+|2023-10-13 04:04:10|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[最新研究显示，低学历男性终身不婚率或继续走高，如何评价这一判断？将带来哪些影响？](https://www.zhihu.com/question/625743753)|
+|2023-10-13 04:04:10|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[注意缺陷多动障碍「ADHD」是不是真的学习能力差？](https://www.zhihu.com/question/616706494)|
+|2023-10-13 04:04:10|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国 9 月 CPI 同比增长 3.7% 高于预期，核心 CPI 连续六个月下降，这一数据说明了什么？](https://www.zhihu.com/question/625862851)|
+|2023-10-13 04:04:10|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《大宅门》导演郭宝昌离世，享年 83 岁，对他及他的作品你有哪些印象？](https://www.zhihu.com/question/625785565)|
+|2023-10-13 06:32:13|[爱范儿](https://plink.anyfeeder.com/ifanr)|[越来越「丑」的宝马，在践行自己的信条](https://www.ifanr.com/1564421?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-13 06:40:52|[36氪](https://plink.anyfeeder.com/36kr)|[穿越北回归线，看5G赋能云南大山深处的数字化转型 36氪专访](https://36kr.com/p/2472430148769671?f=rss)|
+|2023-10-13 06:25:22|[36氪](https://plink.anyfeeder.com/36kr)|[「中财数碳」完成千万元Pre-A轮融资，专注于碳定价智能技术服务和碳金融产品全周期管理 36氪首发](https://36kr.com/p/2471331296958340?f=rss)|
+|2023-10-13 06:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[AI写小说不完全指南：请注意，别被AI气死](https://36kr.com/p/2472218449860741?f=rss)|
+|2023-10-13 07:00:26|[了迹奇有没](https://whrss.com/feed)|[使用 rclone 命令行管理 Cloudflare R2 对象存储](https://whrss.com/post/r2-rclone)|
 |2023-10-13 04:03:33|[Mr. PM 下午先生](http://mrpm.cc/?feed=rss2)|[別再自己迫害自己](https://mrpm.cc/?p=1610)|
 |2023-10-13 05:40:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[万魔创始人谢冠宏：从不知到尽知，一个“阿甘”的艰辛创业路](https://www.tmtpost.com/6741448.html)|
 |2023-10-13 05:30:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[新能源车险的“魔咒”还得车企来解？](https://www.tmtpost.com/6741551.html)|
