@@ -2,6 +2,54 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-13 06:27:23|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[NBA 前球星托尼-帕克旗下球队 ASVEL 遭网络攻击，球员数据被盗](https://www.freebuf.com/news/380658.html)|
+|2023-10-13 08:02:11|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[和农大打磨十年的山核桃，有更好吃的算我输](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653443862&idx=1&sn=ea382c4947d81ebd0909b9c227c7b4fd)|
+|2023-10-13 10:07:37|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[10月13日个股公告精选：掌趣科技拟以5000万-1亿元回购股份；中核钛白控股股东自愿承诺6个月不减持公司股份](https://www.tmtpost.com/6742276.html)|
+|2023-10-13 10:07:36|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[门店超2500家，霸王茶姬能成为茶饮界的“星巴克”吗？](https://www.tmtpost.com/6742169.html)|
+|2023-10-13 10:01:49|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[伽蓝集团进击IPO：原料端价值是国货美妆的新“解药”？](https://www.tmtpost.com/6742200.html)|
+|2023-10-13 09:47:06|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“手段尽出”的智己，亟需一台爆款车｜钛度车库](https://www.tmtpost.com/6741002.html)|
+|2023-10-13 09:45:20|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[泡泡玛特入局乐园，做中国版迪士尼？](https://www.tmtpost.com/6741831.html)|
+|2023-10-13 09:27:26|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[5G都还没玩明白，怎么又来了个5.5G？](https://www.tmtpost.com/6742165.html)|
+|2023-10-13 09:16:31|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[京东集团-SW遭多间国际大行削价，股价创上市以来最低](https://www.tmtpost.com/6742122.html)|
+|2023-10-13 09:14:32|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[2023未来之星TOP20榜单发布！这些科技企业上榜](https://www.tmtpost.com/6741946.html)|
+|2023-10-13 09:08:05|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[搭载AI视觉感知深度学习功能，萤石发布家用及首款商用清洁机器人](https://www.tmtpost.com/6742052.html)|
+|2023-10-13 08:53:13|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[9月房企融资、回款未得到明显改善，流动性压力仍大](https://www.tmtpost.com/6742066.html)|
+|2023-10-13 07:58:40|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[对话黄泽铧：零一汽车要造什么样的车？](https://www.tmtpost.com/6741937.html)|
+|2023-10-13 07:48:28|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[四度入狱的前湖北首富兰世立“疯了”：想靠1.99元/罐的汽水干翻可口可乐](https://www.tmtpost.com/6741872.html)|
+|2023-10-13 07:40:33|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[我，直男，整天在小红书看啥？](https://www.tmtpost.com/6741709.html)|
+|2023-10-13 07:32:56|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[好莱坞编剧大罢工落幕：创作者的近忧与远虑，不止有AI](https://www.tmtpost.com/6741861.html)|
+|2023-10-13 07:31:14|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[被工作逼疯的年轻人，把Loopy捧成了顶流](https://www.tmtpost.com/6741893.html)|
+|2023-10-13 07:30:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[近3个月，A股超200起医药并购的背后：药企过冬，各显神通](https://www.tmtpost.com/6741539.html)|
+|2023-10-13 07:19:56|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[10月13日A股分析：沪指跌0.64%，两市成交额较上一交易日减少228.58亿元，6G概念涨幅居前](https://www.tmtpost.com/6741947.html)|
+|2023-10-13 08:07:03|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[小米14 Pro渲染图首曝 首发骁龙8 Gen3](https://m.cnbeta.com.tw/view/1389745.htm)|
+|2023-10-13 08:06:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“卷王”大众推出ID.4 CROZZ纯享版车型：售19.93万元](https://m.cnbeta.com.tw/view/1389743.htm)|
+|2023-10-13 08:06:37|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[一加Open折叠屏手机影像曝光 双层晶体管大底主摄](https://m.cnbeta.com.tw/view/1389741.htm)|
+|2023-10-13 08:06:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[遭网红铁头打假 “50的产品故事就要40块” 东方甄选发律师函](https://m.cnbeta.com.tw/view/1389739.htm)|
+|2023-10-13 08:06:08|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[劳斯莱斯“蚀日幻冕”版古斯特发布：星空顶完美还原日蚀全貌](https://m.cnbeta.com.tw/view/1389737.htm)|
+|2023-10-13 08:05:50|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[米其林餐厅用蜜罐蚁做甜品 胖得像葡萄：一口爆浆全是花蜜](https://m.cnbeta.com.tw/view/1389733.htm)|
+|2023-10-13 08:05:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[分析师预计小米汽车售价低于30万元：自动驾驶、800V快充是关键卖点](https://m.cnbeta.com.tw/view/1389731.htm)|
+|2023-10-13 08:05:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[纳德拉讲述Bing血泪史：有谷歌在，付出再多钱和努力 苹果、三星也不会选择我们](https://m.cnbeta.com.tw/view/1389727.htm)|
+|2023-10-13 07:35:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[京东：关注到有谣言称“刘姓商人涉嫌违法被抓”已报案](https://m.cnbeta.com.tw/view/1389721.htm)|
+|2023-10-13 07:35:36|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[消息称滴滴将于2024年在香港上市，开始回购员工股票](https://m.cnbeta.com.tw/view/1389719.htm)|
+|2023-10-13 07:35:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[OpenAI年营收达13亿美元 同比暴涨4500%](https://m.cnbeta.com.tw/view/1389717.htm)|
+|2023-10-13 09:00:00|[机核](https://plink.anyfeeder.com/gcores)|[回乡琐事，录音笔 Vol.55](https://www.gcores.com/radios/172243)|
+|2023-10-13 08:30:00|[机核](https://plink.anyfeeder.com/gcores)|[哪来的傻缺图202期:又过一周，该收就收](https://www.gcores.com/articles/170244)|
+|2023-10-13 08:11:56|[机核](https://plink.anyfeeder.com/gcores)|[汽笛长鸣:铁路建造自动化游戏《异星铁路》现已登陆Steam](https://www.gcores.com/articles/172237)|
+|2023-10-13 08:11:56|[机核](https://plink.anyfeeder.com/gcores)|[无限制出牌：卡牌战斗游戏《夺牌狂飙》现已开启抢先体验](https://www.gcores.com/articles/172236)|
+|2023-10-13 07:12:54|[机核](https://plink.anyfeeder.com/gcores)|[生存成为一种传染病:《海岛大亨6》最新DLC“病毒式传播”将于10月26日发售](https://www.gcores.com/articles/172235)|
+|2023-10-13 06:20:45|[机核](https://plink.anyfeeder.com/gcores)|[CMA正式批准微软收购动视暴雪收购案](https://www.gcores.com/articles/172229)|
+|2023-10-13 06:15:17|[机核](https://plink.anyfeeder.com/gcores)|[一小时破关：推理游戏《和阶堂真的案件簿 TRILOGY DELUXE》10月19日发售](https://www.gcores.com/articles/172228)|
+|2023-10-13 04:02:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本如何挥霍了生物制药竞争力：伊戈尔警示故事](https://dig.chouti.com/link/40274770)|
+|2023-10-13 09:43:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[读了一下这个国产大语言模型监管征求意见稿，我的感觉是算了咱还是说说巴以冲突吧。](https://dig.chouti.com/link/40279143)|
+|2023-10-13 04:02:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[因发布嘲弄以色列老年人质广告，一巴勒斯坦披萨店被以军拆除](https://dig.chouti.com/link/40274790)|
+|2023-10-13 05:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[连阔如：评书大师和他的江湖奇书](https://dig.chouti.com/link/40276137)|
+|2023-10-13 06:03:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[杨氏家族近期向碧桂园提供3亿美元无息借款，正出售私人飞机：已售一架，另一架待售](https://dig.chouti.com/link/40276621)|
+|2023-10-13 06:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[全中国最野的老司机，一半在贵州丨人与人的悲欢总不相通，尤其是在考驾照这事上](https://dig.chouti.com/link/40276849)|
+|2023-10-13 07:42:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[孙卓、符建涛被拐案宣判：两名被告分别被判刑5年、2年](https://dig.chouti.com/link/40277664)|
+|2023-10-13 06:03:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[威马汽车公开致歉：车机系统已恢复正常使用](https://dig.chouti.com/link/40276397)|
+|2023-10-13 06:04:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[聚美创始人陈欧正筹建短剧平台，推进版权收购](https://dig.chouti.com/link/40276674)|
+|2023-10-13 06:03:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[基督教锡安运动与《贝尔福宣言》——当代巴勒斯坦问题的重要起源](https://dig.chouti.com/link/40276498)|
+|2023-10-13 04:05:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[SpaceX：星链将推出直连手机业务](https://dig.chouti.com/link/40275212)|
 |2023-10-13 03:39:51|[少数派](https://plink.anyfeeder.com/sspai)|[3 年、4 个库目录、100 万字：也谈我的 Obsidian 笔记工作流](https://sspai.com/post/83042)|
 |2023-10-13 09:09:04|[V2EX](https://v2ex.com/index.xml)|[ Vim Vim 上远程开发有什么方案？](https://www.v2ex.com/t/981763#reply0)|
 |2023-10-13 09:09:00|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 10 多年 Java 程序员求活和工作](https://www.v2ex.com/t/981762#reply0)|
