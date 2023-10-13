@@ -2,6 +2,51 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-13 00:09:33|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html)|
+|2023-10-13 01:09:53|[虎嗅](https://plink.anyfeeder.com/huxiu)|[中办、国办调整中国人民银行职责、机构、编制](https://www.huxiu.com/article/2166586.html?f=rss)|
+|2023-10-13 01:09:39|[虎嗅](https://plink.anyfeeder.com/huxiu)|[文艺韩寒，难成商人](https://www.huxiu.com/article/2166522.html?f=rss)|
+|2023-10-13 01:09:08|[虎嗅](https://plink.anyfeeder.com/huxiu)|[激励的高手，懂人性](https://www.huxiu.com/article/2166553.html?f=rss)|
+|2023-10-13 01:00:22|[虎嗅](https://plink.anyfeeder.com/huxiu)|[全球最健康饮食出炉，能降低20%早死概率](https://www.huxiu.com/article/2159821.html?f=rss)|
+|2023-10-13 01:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[披萨外卖鼻祖达美乐，为何在国内没法接着乐？](https://www.huxiu.com/article/2163424.html?f=rss)|
+|2023-10-13 00:57:04|[虎嗅](https://plink.anyfeeder.com/huxiu)|[站在VC视角，为什么要限制“平台经济”？](https://www.huxiu.com/article/2166255.html?f=rss)|
+|2023-10-13 00:55:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[从“冠军基”到业绩倒数，金鹰基金韩广哲搬来的“救兵”有用吗？](https://www.huxiu.com/article/2165280.html?f=rss)|
+|2023-10-13 00:55:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[关系质量高的伴侣，这件事上最平等](https://www.huxiu.com/article/2165207.html?f=rss)|
+|2023-10-13 00:51:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[国家卫健委：2022年出生人口956万人，二孩占比为38.9%](https://www.huxiu.com/article/2166582.html?f=rss)|
+|2023-10-13 00:46:32|[虎嗅](https://plink.anyfeeder.com/huxiu)|[与广州一样，深圳将有5个市中心](https://www.huxiu.com/article/2165248.html?f=rss)|
+|2023-10-13 00:46:27|[虎嗅](https://plink.anyfeeder.com/huxiu)|[德国央行行长：德国不是“欧洲病夫”](https://www.huxiu.com/article/2166226.html?f=rss)|
+|2023-10-13 00:40:14|[虎嗅](https://plink.anyfeeder.com/huxiu)|[分析师热议“汇金增持四大行”：或可驱动普遍性估值修复](https://www.huxiu.com/article/2165272.html?f=rss)|
+|2023-10-13 00:31:45|[虎嗅](https://plink.anyfeeder.com/huxiu)|[你知道5G，但你知道什么是5G-R吗？](https://www.huxiu.com/article/2164891.html?f=rss)|
+|2023-10-13 00:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[谁成全了德军的“逃跑计划”？](https://www.huxiu.com/article/2163417.html?f=rss)|
+|2023-10-13 00:14:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[李长江：我为什么辞任碧桂园服务总裁？](https://www.huxiu.com/article/2165269.html?f=rss)|
+|2023-10-13 00:10:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[券商分析师没人看的研报背后，是一盘大棋](https://www.huxiu.com/article/2162442.html?f=rss)|
+|2023-10-13 00:09:14|[虎嗅](https://plink.anyfeeder.com/huxiu)|[五十岁，还能做什么？](https://www.huxiu.com/article/2165709.html?f=rss)|
+|2023-10-13 00:08:26|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“真假光刻机”事件后续](https://www.huxiu.com/article/2166228.html?f=rss)|
+|2023-10-13 01:49:40|[V2EX](https://v2ex.com/index.xml)|[ 程序员 累求，视频在第三方手机浏览器内被拦截导致破坏页面效果问题](https://www.v2ex.com/t/981545#reply1)|
+|2023-10-13 01:47:13|[V2EX](https://v2ex.com/index.xml)|[ Apple 订多了武汉今天到店取货的 15pro 原色 128G,有没有需要的](https://www.v2ex.com/t/981543#reply0)|
+|2023-10-13 01:44:57|[V2EX](https://v2ex.com/index.xml)|[ 问与答 2022 年的 amd 核显用啥 Linux 发行版做开发机](https://www.v2ex.com/t/981542#reply0)|
+|2023-10-13 01:43:59|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没有适合小学生的博客系统](https://www.v2ex.com/t/981541#reply1)|
+|2023-10-13 01:43:32|[V2EX](https://v2ex.com/index.xml)|[ 问与答 强人工智能的实现代码量估计只有 0.65952MB？](https://www.v2ex.com/t/981540#reply0)|
+|2023-10-13 01:39:48|[V2EX](https://v2ex.com/index.xml)|[ 汽车 之前一直在 4S 店保养，今年想去外面汽修店，应该怎么找合适的店？](https://www.v2ex.com/t/981539#reply6)|
+|2023-10-13 01:38:04|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 定制传统节日头像 2.0，大佬们看看有盈利方式吗](https://www.v2ex.com/t/981538#reply3)|
+|2023-10-13 01:37:15|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 车载导航备用机 & 车载 wifi 方案求推荐](https://www.v2ex.com/t/981537#reply8)|
+|2023-10-13 01:37:07|[V2EX](https://v2ex.com/index.xml)|[ iPhone 升级 iOS 17 之后，偶尔需要重启才能充电](https://www.v2ex.com/t/981536#reply1)|
+|2023-10-13 01:37:00|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 限免 仅剩 3 天，简单实用的 Mac 倒数日应用 DateTracker 带来船新版本：下班倒计时](https://www.v2ex.com/t/981535#reply0)|
+|2023-10-13 01:34:18|[V2EX](https://v2ex.com/index.xml)|[ 程序员 如何解决“上传了附件但是最后其实没用”这个问题？](https://www.v2ex.com/t/981534#reply5)|
+|2023-10-13 01:29:34|[V2EX](https://v2ex.com/index.xml)|[ MacBook mac 有哪些开发人员必备软件？](https://www.v2ex.com/t/981532#reply8)|
+|2023-10-13 01:28:37|[V2EX](https://v2ex.com/index.xml)|[ 旅行 各位旅游达人，年底和明年计划玩几个地方，有几个问题求解](https://www.v2ex.com/t/981531#reply13)|
+|2023-10-13 01:25:54|[V2EX](https://v2ex.com/index.xml)|[ Telegram archlinux 上使用 tproxy 设置 nftables 规则透明代理本机流量，如何让 telegram 的纯 ip 流量也走透明代理？](https://www.v2ex.com/t/981529#reply0)|
+|2023-10-13 01:24:40|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 win11 最新版又调换了资源管理器地址栏与工具栏的顺序](https://www.v2ex.com/t/981528#reply3)|
+|2023-10-13 01:19:18|[V2EX](https://v2ex.com/index.xml)|[ Apple 有啥低成本可以在国行索尼电视上投 airplay2 的设备或方案吗？](https://www.v2ex.com/t/981527#reply6)|
+|2023-10-13 01:13:31|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 把我自己改造成 AI 结合体了](https://www.v2ex.com/t/981526#reply0)|
+|2023-10-13 00:51:43|[V2EX](https://v2ex.com/index.xml)|[ macOS Mac 上有什么好用的播放本地音乐的 app 吗？](https://www.v2ex.com/t/981521#reply10)|
+|2023-10-13 00:46:18|[V2EX](https://v2ex.com/index.xml)|[ Android 第三方浏览器没有系统自带的流畅？](https://www.v2ex.com/t/981519#reply14)|
+|2023-10-13 00:38:35|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 107 期）：一个 AI 播客工具，月收入 1.2 万美金](https://www.v2ex.com/t/981517#reply1)|
+|2023-10-13 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国财经媒体报道汇总：商务部：研究进一步取消或放宽外资股比限制的可行性](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E5%95%86%E5%8A%A1%E9%83%A8-%E7%A0%94%E7%A9%B6%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8F%96%E6%B6%88%E6%88%96%E6%94%BE%E5%AE%BD%E5%A4%96%E8%B5%84%E8%82%A1%E6%AF%94%E9%99%90%E5%88%B6%E7%9A%84%E5%8F%AF%E8%A1%8C%E6%80%A7-f02ac3c0)|
+|2023-10-13 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[哈马斯武装分子持有以色列城镇、军事基地和渗透路线的详细地图](https://cn.wsj.com/amp/articles/%E5%93%88%E9%A9%AC%E6%96%AF%E6%AD%A6%E8%A3%85%E5%88%86%E5%AD%90%E6%8C%81%E6%9C%89%E4%BB%A5%E8%89%B2%E5%88%97%E5%9F%8E%E9%95%87-%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E5%92%8C%E6%B8%97%E9%80%8F%E8%B7%AF%E7%BA%BF%E7%9A%84%E8%AF%A6%E7%BB%86%E5%9C%B0%E5%9B%BE-8a70914c)|
+|2023-10-13 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[蒙大拿州禁令生效时间临近，TikTok寻求在法庭上自救](https://cn.wsj.com/amp/articles/%E8%92%99%E5%A4%A7%E6%8B%BF%E5%B7%9E%E7%A6%81%E4%BB%A4%E7%94%9F%E6%95%88%E6%97%B6%E9%97%B4%E4%B8%B4%E8%BF%91-tiktok%E5%AF%BB%E6%B1%82%E5%9C%A8%E6%B3%95%E5%BA%AD%E4%B8%8A%E8%87%AA%E6%95%91-bfd5849f)|
+|2023-10-13 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[以色列打算摧毁哈马斯，布林肯试图阻止战争扩大](https://cn.wsj.com/amp/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E6%89%93%E7%AE%97%E6%91%A7%E6%AF%81%E5%93%88%E9%A9%AC%E6%96%AF-%E5%B8%83%E6%9E%97%E8%82%AF%E8%AF%95%E5%9B%BE%E9%98%BB%E6%AD%A2%E6%88%98%E4%BA%89%E6%89%A9%E5%A4%A7-37352dbe)|
+|2023-10-13 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[高通将裁员约2.5%，主要集中在加州](https://cn.wsj.com/amp/articles/%E9%AB%98%E9%80%9A%E5%B0%86%E8%A3%81%E5%91%98%E7%BA%A62-5-%E4%B8%BB%E8%A6%81%E9%9B%86%E4%B8%AD%E5%9C%A8%E5%8A%A0%E5%B7%9E-ec93202d)|
+|2023-10-13 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[欧佩克基本维持全球石油需求预测不变](https://cn.wsj.com/amp/articles/%E6%AC%A7%E4%BD%A9%E5%85%8B%E5%9F%BA%E6%9C%AC%E7%BB%B4%E6%8C%81%E5%85%A8%E7%90%83%E7%9F%B3%E6%B2%B9%E9%9C%80%E6%B1%82%E9%A2%84%E6%B5%8B%E4%B8%8D%E5%8F%98-4261b2f2)|
 |2023-10-13 00:51:43|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Mac 上有什么好用的播放本地音乐的 app 吗？](https://www.v2ex.com/t/981521#reply1)|
 |2023-10-13 00:46:18|[V2EX](http://www.v2ex.com/index.xml)|[ Android 第三方浏览器没有系统自带的流畅？](https://www.v2ex.com/t/981519#reply0)|
 |2023-10-13 00:38:35|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 107 期）：一个 AI 播客工具，月收入 1.2 万美金](https://www.v2ex.com/t/981517#reply0)|
