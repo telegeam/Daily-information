@@ -2,6 +2,38 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-13 01:35:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[放弃北京户口去香港上学后，才发现轻松上名校的想法天真了](https://dig.chouti.com/link/40273329)|
+|2023-10-13 04:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[乳房和命，她们都保住了](https://dig.chouti.com/link/40275460)|
+|2023-10-13 02:04:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【菲律宾男篮球员布朗利药检呈阳性，但中国男篮还不能递补金牌】根据亚奥理事会规定，团体项目只有在队内至少2人出现药检呈阳性，才会有取消团体成绩等处罚。](https://dig.chouti.com/link/40273679)|
+|2023-10-13 02:11:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当地时间12日，数千名支持巴勒斯坦的抗议者聚集在巴黎街头，挥舞巴勒斯坦国旗，高呼口号，警方使用高压水枪和催泪瓦斯驱散人群。法国内政部长热拉尔德·达尔马宁日前宣布禁止所有支持巴勒斯坦的抗议活动，并称这些抗议活动可能对公共秩序造成干扰，任何违反抗议禁令的外国人将被驱逐出境。](https://dig.chouti.com/link/40273869)|
+|2023-10-13 05:05:44|[V2EX](https://www.v2ex.com/index.xml)|[ TypeScript 求助 类型 { K:V } --> { "type": K , "conf": V } 且约束](https://www.v2ex.com/t/981666#reply0)|
+|2023-10-13 05:04:21|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 程序员自由创业周记#13：第一桶金](https://www.v2ex.com/t/981665#reply0)|
+|2023-10-13 05:04:10|[V2EX](https://www.v2ex.com/index.xml)|[ Notion Notion 支持本地缓存么?](https://www.v2ex.com/t/981664#reply1)|
+|2023-10-13 04:57:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求助 6TB 照片从 dropbox 转移到 google photos](https://www.v2ex.com/t/981663#reply0)|
+|2023-10-13 04:37:23|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 陕西联通和移动的企业 PON 商宽还算比较便宜，就是不知道怎么办理？](https://www.v2ex.com/t/981662#reply0)|
+|2023-10-13 04:37:17|[V2EX](https://www.v2ex.com/index.xml)|[ macOS macOS 14 中的其他用户与共享占用 90 多 G](https://www.v2ex.com/t/981661#reply2)|
+|2023-10-13 04:35:29|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 黑群晖（笔记本电脑）上面插的启动 U 盘可以拔掉嘛？](https://www.v2ex.com/t/981660#reply1)|
+|2023-10-13 04:34:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 v 友们推荐一款 Gspace 替代品，谷歌框架 GMS](https://www.v2ex.com/t/981659#reply0)|
+|2023-10-13 04:33:53|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 咨询大佬们，最近宽带遇到几个问题，有没有好的思路](https://www.v2ex.com/t/981658#reply0)|
+|2023-10-13 04:32:03|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 摄影入门，买哪款相机比较好？](https://www.v2ex.com/t/981657#reply3)|
+|2023-10-13 04:14:59|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 把自己新的个人博客前端写完了](https://www.v2ex.com/t/981655#reply5)|
+|2023-10-13 05:07:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #13：第一桶金](https://w2solo.com/topics/4192)|
+|2023-10-13 03:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[人工智能人脸辨识科技夯 中国面临“被盗人脸”诈骗案也夯 - 生态 健康与科技](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%94%9F%E6%80%81-%E5%81%A5%E5%BA%B7%E4%B8%8E%E7%A7%91%E6%8A%80/20231013-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BA%BA%E8%84%B8%E8%BE%A8%E8%AF%86%E7%A7%91%E6%8A%80%E5%A4%AF-%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4-%E8%A2%AB%E7%9B%97%E4%BA%BA%E8%84%B8-%E8%AF%88%E9%AA%97%E6%A1%88%E4%B9%9F%E5%A4%AF)|
+|2023-10-13 03:29:47|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[黑客冒充 Meta 招聘人员，针对航空公司进行攻击](https://www.4hou.com/posts/qpnr)|
+|2023-10-13 03:29:15|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[“快速重置”DDoS攻击利用HTTP/2漏洞](https://www.4hou.com/posts/V2j1)|
+|2023-10-13 01:01:41|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：文石推出两款电子书新品、荣耀发布 Magic Vs2 折叠屏手机等](https://sspai.com/post/83533)|
+|2023-10-13 03:53:05|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[工业和信息化部等六部门印发《算力基础设施高质量发展行动计划》](https://www.freebuf.com/news/380641.html)|
+|2023-10-13 03:36:48|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[恶意 NuGet 软件包利用 SeroXen RAT ，针对 .NET 开发人员](https://www.freebuf.com/news/380623.html)|
+|2023-10-13 03:18:27|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[奖金最高15000美元！微软宣布Bing AI漏洞赏金计划](https://www.freebuf.com/news/380600.html)|
+|2023-10-13 05:00:16|[机核](https://plink.anyfeeder.com/gcores)|[CASETiFY推出迪士尼反派联盟联名系列科技配饰](https://www.gcores.com/articles/172222)|
+|2023-10-13 04:55:45|[机核](https://plink.anyfeeder.com/gcores)|[《传说法师》手机版公布10月27日正式发售，免费试玩Demo现已开启](https://www.gcores.com/articles/172221)|
+|2023-10-13 04:41:11|[机核](https://plink.anyfeeder.com/gcores)|[生存建造游戏《无径之林》上线联机体验版](https://www.gcores.com/articles/172220)|
+|2023-10-13 04:37:00|[机核](https://plink.anyfeeder.com/gcores)|[动画电影《窗边的小豆豆》公开正式预告片，日本12月8日上映](https://www.gcores.com/articles/172213)|
+|2023-10-13 02:51:32|[机核](https://plink.anyfeeder.com/gcores)|[动视暴雪股票暂时停牌，等待重大消息发布](https://www.gcores.com/articles/172212)|
+|2023-10-13 03:58:40|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中以混血女孩被哈马斯绑架，其母呼吁习近平提供帮助](https://cn.nytimes.com/world/20231013/noa-argamani-israel-hamas-hostage/?utm_source=RSS)|
+|2023-10-13 03:41:51|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[《星火》书评：让中国历史不再被遗忘](https://cn.nytimes.com/culture/20231013/sparks-ian-johnson/?utm_source=RSS)|
+|2023-10-13 04:02:03|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/83450)|
+|2023-10-13 04:02:03|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[万字详拆芯片：人类算力被锁死了吗？](https://sspai.com/post/83398)|
 |2023-10-13 04:03:02|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[中国堡：照西贝画中国的麦当劳](https://www.tmtpost.com/6741495.html)|
 |2023-10-13 03:37:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[印尼对跨境电商亮剑，TikTok卖家连夜清库存](https://www.tmtpost.com/6741402.html)|
 |2023-10-13 03:36:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[手握十余万充电桩，小桔能源依然“慌”](https://www.tmtpost.com/6741375.html)|
