@@ -2,6 +2,59 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-13 04:03:02|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[中国堡：照西贝画中国的麦当劳](https://www.tmtpost.com/6741495.html)|
+|2023-10-13 03:37:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[印尼对跨境电商亮剑，TikTok卖家连夜清库存](https://www.tmtpost.com/6741402.html)|
+|2023-10-13 03:36:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[手握十余万充电桩，小桔能源依然“慌”](https://www.tmtpost.com/6741375.html)|
+|2023-10-13 03:27:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[361度赞助亚运会，安踏却火了？](https://www.tmtpost.com/6741149.html)|
+|2023-10-13 03:20:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[联想创投贺志强：不追风口的人](https://www.tmtpost.com/6741400.html)|
+|2023-10-13 03:19:45|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[不吐不快！出海老兵首谈TikTok印尼电商的关停 钛媒体「出海参考」](https://www.tmtpost.com/6738816.html)|
+|2023-10-13 03:16:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[长租公寓“国家队”蜂拥而至，民营品牌还有多少机会？](https://www.tmtpost.com/6741132.html)|
+|2023-10-13 03:08:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[哪吒2要来了，国漫之光能带中国票房进入70亿时代吗？](https://www.tmtpost.com/6741255.html)|
+|2023-10-13 03:07:05|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[寻找地产新动能：房企逆势增长案例研究](https://www.tmtpost.com/6740292.html)|
+|2023-10-13 04:11:20|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI ChatGPT 识图 API 已经全球首发搞出来了，兼容 Chat 接口](https://www.v2ex.com/t/981654#reply0)|
+|2023-10-13 04:07:47|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 突然不能用 Tab 在界面上切换焦点了](https://www.v2ex.com/t/981652#reply0)|
+|2023-10-13 04:01:21|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 坐标东京 需要日语！ 有人问我要 C++的 hc 有 10 个 unity hc 有 5 个](https://www.v2ex.com/t/981651#reply0)|
+|2023-10-13 03:59:07|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 外区的 AppleID 在国内使用容易被封号吗](https://www.v2ex.com/t/981649#reply3)|
+|2023-10-13 03:53:38|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 社招 多职位 NewsBreak 北京招聘](https://www.v2ex.com/t/981648#reply0)|
+|2023-10-13 03:51:13|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 欧版 iPhone14PM 512G 现在价格才 7500，深圳口岸入关，靠谱吗？](https://www.v2ex.com/t/981647#reply1)|
+|2023-10-13 03:47:47|[V2EX](https://www.v2ex.com/index.xml)|[ 摄影 摄影小白微单问题终极汇总贴，跪求大法师们给点建议](https://www.v2ex.com/t/981646#reply0)|
+|2023-10-13 03:45:56|[V2EX](https://www.v2ex.com/index.xml)|[ 前端开发 chrome://flags/#third-party-storage-partitioning 默认启用导致问题](https://www.v2ex.com/t/981645#reply0)|
+|2023-10-13 03:43:52|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 小白求问，关于内网转发问题](https://www.v2ex.com/t/981644#reply1)|
+|2023-10-13 03:38:52|[V2EX](https://www.v2ex.com/index.xml)|[ Android 14 好像真的省电了一些](https://www.v2ex.com/t/981642#reply3)|
+|2023-10-13 03:37:50|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 杭州那个云栖大会怎么样啊，值得去吗](https://www.v2ex.com/t/981641#reply0)|
+|2023-10-13 03:35:34|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教下大家关于电视、回音壁、atv 在音频支持方面的一些问题](https://www.v2ex.com/t/981640#reply0)|
+|2023-10-13 03:35:22|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 模拟公司门禁卡](https://www.v2ex.com/t/981639#reply2)|
+|2023-10-13 03:34:39|[V2EX](https://www.v2ex.com/index.xml)|[ 商业模式 2023 年了，短视频、中视频变现还能搞吗，结合大模型有没有搞头？](https://www.v2ex.com/t/981637#reply0)|
+|2023-10-13 03:34:20|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Mac Studio Type-C/雷电 4 的接口是多少瓦的？](https://www.v2ex.com/t/981636#reply0)|
+|2023-10-13 03:30:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 win 游戏本遇到太多小问题了](https://www.v2ex.com/t/981634#reply1)|
+|2023-10-13 03:29:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 想组装一个核显的电脑过度，后面需要显卡的时候在装显卡。主要是 web 前后端开发，应该是 intel 的还是 AMD？大佬们推荐一款呗。后期显卡大概率是英伟达的显卡，不考虑 A 卡。](https://www.v2ex.com/t/981633#reply3)|
+|2023-10-13 03:27:47|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 上了 7 天班终于周五了，各位爱卿为何一言不发？](https://www.v2ex.com/t/981632#reply5)|
+|2023-10-13 03:26:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 今天突然接到银行电话，说我的卡进入到反洗钱名单了？？](https://www.v2ex.com/t/981631#reply6)|
+|2023-10-13 03:24:12|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 关于一种新的 BT 网络设想,大伙来讨论下可行吗](https://www.v2ex.com/t/981630#reply1)|
+|2023-10-13 03:23:47|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 支付宝买车险靠谱吗？](https://www.v2ex.com/t/981628#reply3)|
+|2023-10-13 03:19:53|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 通过渠道办理的套餐跟电信官方的有啥区别吗](https://www.v2ex.com/t/981626#reply1)|
+|2023-10-13 03:18:48|[V2EX](https://www.v2ex.com/index.xml)|[ Telegram 大家今天会掉线吗？](https://www.v2ex.com/t/981625#reply0)|
+|2023-10-13 03:18:32|[V2EX](https://www.v2ex.com/index.xml)|[ 云计算 有阿里云的兄弟吗?咨询下是否可以操作](https://www.v2ex.com/t/981624#reply0)|
+|2023-10-13 03:13:22|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 关于 iOS 系统的返回，为啥不修改成安卓的侧滑返回？](https://www.v2ex.com/t/981620#reply25)|
+|2023-10-13 03:13:11|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt 谁有 Glinet AX1800 路由器官方开源代码备份吗？](https://www.v2ex.com/t/981619#reply0)|
+|2023-10-13 03:12:07|[V2EX](https://www.v2ex.com/index.xml)|[ Docker docker 挂载 d:/data:/data，要求/data 必须 0700 权限如何设置](https://www.v2ex.com/t/981618#reply4)|
+|2023-10-13 03:11:53|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 深圳快 35 的程序员，何去何从？](https://www.v2ex.com/t/981617#reply16)|
+|2023-10-13 03:56:07|[36氪](https://plink.anyfeeder.com/36kr)|[联手肯德基、必胜客还不够，米哈游登上了刀塔赛场 营销观察](https://36kr.com/p/2466879274096771?f=rss)|
+|2023-10-13 02:59:38|[36氪](https://plink.anyfeeder.com/36kr)|[最前线 智己LS6标配激光雷达、OrinX芯片，拉低智驾车到21.49万元](https://36kr.com/p/2471492276574337?f=rss)|
+|2023-10-13 02:30:08|[36氪](https://plink.anyfeeder.com/36kr)|[36氪首发丨清维如风获千万级天使轮融资，试运营机场无人驾驶](https://36kr.com/p/2472161123260546?f=rss)|
+|2023-10-13 02:29:13|[36氪](https://plink.anyfeeder.com/36kr)|[36氪首发｜专注工商业储能，亿兰科再获近千万元融资](https://36kr.com/p/2472174540118152?f=rss)|
+|2023-10-13 02:19:52|[36氪](https://plink.anyfeeder.com/36kr)|[王怀南：ChatGPT、口述史、硅谷往事](https://36kr.com/p/2468120046327944?f=rss)|
+|2023-10-13 02:12:12|[36氪](https://plink.anyfeeder.com/36kr)|[升级“小时达”入口，抖音继续卷美团｜焦点分析](https://36kr.com/p/2471330856540032?f=rss)|
+|2023-10-13 02:06:23|[36氪](https://plink.anyfeeder.com/36kr)|[1美元转化72美元，古早但高回报的邮件营销领域仍有新增长｜产品观察](https://36kr.com/p/2466895135004801?f=rss)|
+|2023-10-13 04:03:53|[虎嗅](https://rss.huxiu.com/)|[从估值3000亿到濒临破产，共享办公霸主何以至此？](https://www.huxiu.com/article/2164362.html?f=rss)|
+|2023-10-13 03:59:55|[虎嗅](https://rss.huxiu.com/)|[音乐节，为何总成了“音乐劫”？](https://www.huxiu.com/article/2166914.html?f=rss)|
+|2023-10-13 03:41:49|[虎嗅](https://rss.huxiu.com/)|[万物皆周期，我们在哪儿？](https://www.huxiu.com/article/2166603.html?f=rss)|
+|2023-10-13 03:16:00|[虎嗅](https://rss.huxiu.com/)|[人人都爱用的优惠券，背后逻辑竟然这么复杂？](https://www.huxiu.com/article/2166600.html?f=rss)|
+|2023-10-13 03:07:16|[虎嗅](https://rss.huxiu.com/)|[三个地产链条上的人](https://www.huxiu.com/article/2166651.html?f=rss)|
+|2023-10-13 03:00:32|[虎嗅](https://rss.huxiu.com/)|[陈子和，古龙的“吃货”朋友](https://www.huxiu.com/article/2166581.html?f=rss)|
+|2023-10-13 02:31:23|[虎嗅](https://rss.huxiu.com/)|[黄金周后，旅游业还能复苏吗？](https://www.huxiu.com/article/2166632.html?f=rss)|
+|2023-10-13 02:30:05|[虎嗅](https://rss.huxiu.com/)|[智己CEO刘涛，被困在互联网里的26年汽车老将](https://www.huxiu.com/article/2164012.html?f=rss)|
+|2023-10-13 03:37:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[《星火》书评：让中国历史不再被遗忘](https://cn.nytimes.com/culture/20231013/sparks-ian-johnson/)|
 |2023-10-13 01:57:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[英伟达卖软件，微软造芯片，大模型竞争格局生变](https://www.tmtpost.com/6740580.html)|
 |2023-10-13 01:50:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[新能源车企假如“黄了”，车主咋办？车还能开吗？](https://www.tmtpost.com/6740753.html)|
 |2023-10-13 01:46:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[百威谋变](https://www.tmtpost.com/6740582.html)|
