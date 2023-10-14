@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-14 01:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[美洲科吉人替法国罗纳河环境作领土健康诊断 - 生态 健康与科技](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%94%9F%E6%80%81-%E5%81%A5%E5%BA%B7%E4%B8%8E%E7%A7%91%E6%8A%80/20231014-%E7%BE%8E%E6%B4%B2%E7%A7%91%E5%90%89%E4%BA%BA%E6%9B%BF%E6%B3%95%E5%9B%BD%E7%BD%97%E7%BA%B3%E6%B2%B3%E7%8E%AF%E5%A2%83%E4%BD%9C%E9%A2%86%E5%9C%9F%E5%81%A5%E5%BA%B7%E8%AF%8A%E6%96%AD)|
+|2023-10-14 01:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[消息人士：沙特搁置与以色列关系正常化协议](https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20231014-%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB-%E6%B2%99%E7%89%B9%E6%90%81%E7%BD%AE%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%B3%E7%B3%BB%E6%AD%A3%E5%B8%B8%E5%8C%96%E5%8D%8F%E8%AE%AE)|
+|2023-10-14 00:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[拜登政府支持以色列，但担心地面战风险](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20231014-%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E6%94%AF%E6%8C%81%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%8C%E4%BD%86%E6%8D%AE%E6%8A%A5%E6%8B%85%E5%BF%83%E5%9C%B0%E9%9D%A2%E6%88%98%E9%A3%8E%E9%99%A9)|
+|2023-10-14 00:15:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[乌克兰在美飞行员预计下周将开始F-16战机培训](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20231013-%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A3%9E%E8%A1%8C%E5%91%98%E9%A2%84%E8%AE%A1%E4%B8%8B%E5%91%A8%E5%B0%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%A7%8Bf-16%E6%88%98%E6%9C%BA%E5%9F%B9%E8%AE%AD)|
+|2023-10-14 03:40:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[通过 ChatGPT，用户现已可以获得互联网上最新的信息](https://www.4hou.com/posts/onlj)|
+|2023-10-14 03:30:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[对ASMCrypt,Lumma和Zanubis三种恶意程序的迭代分析](https://www.4hou.com/posts/nmkR)|
+|2023-10-14 03:07:00|[小众软件](https://www.appinn.com/feed/)|[2 款显示当前软件快捷键的小工具，还可以自定义显示内容 Windows ](https://www.appinn.com/2-apps-getting-shortcuts/)|
 |2023-10-14 01:30:00|[36氪](https://plink.anyfeeder.com/36kr)|[最前线｜搭载自适应声学技术，HiFi厂商「Denon天龙」发布真无线蓝牙降噪耳机新品](https://36kr.com/p/2472455022368647?f=rss)|
 |2023-10-14 01:00:12|[36氪](https://plink.anyfeeder.com/36kr)|[9点1氪｜12306推出静音车厢；活力28董事长宣布员工工资翻倍；银行回应拒绝为无工作人员办银行卡](https://36kr.com/p/2473518562629767?f=rss)|
 |2023-10-14 02:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[微软完成以750亿美元收购动视暴雪的交易](https://cn.wsj.com/amp/articles/%E5%BE%AE%E8%BD%AF%E5%AE%8C%E6%88%90%E4%BB%A5750%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8A%A8%E8%A7%86%E6%9A%B4%E9%9B%AA%E7%9A%84%E4%BA%A4%E6%98%93-8a67fe72)|
