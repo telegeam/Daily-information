@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-14 01:27:08|[虎嗅](https://rss.huxiu.com/)|[极速现代化下的中国世代差异](https://www.huxiu.com/article/2170573.html?f=rss)|
+|2023-10-14 01:15:19|[虎嗅](https://rss.huxiu.com/)|[中国人口往何处去？](https://www.huxiu.com/article/2169321.html?f=rss)|
+|2023-10-14 00:15:03|[虎嗅](https://rss.huxiu.com/)|[“接受调查”传闻不断：不再神奇的“公募一哥”](https://www.huxiu.com/article/2170167.html?f=rss)|
+|2023-10-14 00:35:15|[极客公园](https://plink.anyfeeder.com/geekpark)|[微软正式完成动视暴雪交易；问界新车火爆，工厂急招大量员工；高通将在美国裁员 1200 人](http://www.geekpark.net/news/325953)|
+|2023-10-14 01:37:58|[V2EX](https://www.v2ex.com/index.xml)|[ Flutter flutter 有没有好用的脚手架！](https://www.v2ex.com/t/981897#reply1)|
+|2023-10-14 01:37:32|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 升降桌升高会晃动吗？](https://www.v2ex.com/t/981896#reply4)|
+|2023-10-14 01:27:29|[V2EX](https://www.v2ex.com/index.xml)|[ Apple TV 用上了 appletv 当软路由，感觉很舒服](https://www.v2ex.com/t/981895#reply3)|
+|2023-10-14 01:26:21|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone iPhone 12 现在是 ios15.7, 有必要升级到 16.7.1 吗？现在电池健康度 86%, 怕升了后又跌](https://www.v2ex.com/t/981894#reply1)|
+|2023-10-14 01:24:56|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 失业 8 个月，各种探索开发 APP，几乎 0 收入，最近又折腾了一个设计走查工具，大家给给建议](https://www.v2ex.com/t/981893#reply0)|
+|2023-10-14 01:19:17|[V2EX](https://www.v2ex.com/index.xml)|[ React 暂时没有机会用 React 写项目，用 React Native 是否也能提高 React 能力？](https://www.v2ex.com/t/981892#reply3)|
+|2023-10-14 01:15:41|[V2EX](https://www.v2ex.com/index.xml)|[ iOS iOS17.0.3 自动锁屏出问题](https://www.v2ex.com/t/981891#reply0)|
+|2023-10-14 01:02:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有了解指尖玩具的兄弟，能给点建议。](https://www.v2ex.com/t/981890#reply2)|
+|2023-10-14 00:56:36|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 买车求助（我爸和我开...）](https://www.v2ex.com/t/981888#reply1)|
+|2023-10-14 00:40:01|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有懂手机（硬件为主）的兄弟，帮我解答下这是怎么回事](https://www.v2ex.com/t/981887#reply11)|
+|2023-10-14 00:25:49|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 曝光一个无良商家，希望大家引以为戒把](https://www.v2ex.com/t/981886#reply9)|
+|2023-10-14 00:18:16|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 求推荐类似自带的“播客”的 APP](https://www.v2ex.com/t/981885#reply5)|
 |2023-10-13 06:27:23|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[NBA 前球星托尼-帕克旗下球队 ASVEL 遭网络攻击，球员数据被盗](https://www.freebuf.com/news/380658.html)|
 |2023-10-13 08:02:11|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[和农大打磨十年的山核桃，有更好吃的算我输](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653443862&idx=1&sn=ea382c4947d81ebd0909b9c227c7b4fd)|
 |2023-10-13 10:07:37|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[10月13日个股公告精选：掌趣科技拟以5000万-1亿元回购股份；中核钛白控股股东自愿承诺6个月不减持公司股份](https://www.tmtpost.com/6742276.html)|
