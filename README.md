@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-14 01:30:00|[36氪](https://plink.anyfeeder.com/36kr)|[最前线｜搭载自适应声学技术，HiFi厂商「Denon天龙」发布真无线蓝牙降噪耳机新品](https://36kr.com/p/2472455022368647?f=rss)|
+|2023-10-14 01:00:12|[36氪](https://plink.anyfeeder.com/36kr)|[9点1氪｜12306推出静音车厢；活力28董事长宣布员工工资翻倍；银行回应拒绝为无工作人员办银行卡](https://36kr.com/p/2473518562629767?f=rss)|
+|2023-10-14 02:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[微软完成以750亿美元收购动视暴雪的交易](https://cn.wsj.com/amp/articles/%E5%BE%AE%E8%BD%AF%E5%AE%8C%E6%88%90%E4%BB%A5750%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8A%A8%E8%A7%86%E6%9A%B4%E9%9B%AA%E7%9A%84%E4%BA%A4%E6%98%93-8a67fe72)|
+|2023-10-14 02:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中东冲突导致油价上涨](https://cn.wsj.com/amp/articles/%E4%B8%AD%E4%B8%9C%E5%86%B2%E7%AA%81%E5%AF%BC%E8%87%B4%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8-fec83736)|
+|2023-10-14 03:07:13|[虎嗅](https://rss.huxiu.com/)|[对中间户的偏见，该改改了](https://www.huxiu.com/article/2170943.html?f=rss)|
+|2023-10-14 03:05:53|[虎嗅](https://rss.huxiu.com/)|[为何商界人士都在玩掼蛋？](https://www.huxiu.com/article/2171368.html?f=rss)|
+|2023-10-14 02:56:00|[虎嗅](https://rss.huxiu.com/)|[Mate 60系列，能让华为手机业务恢复多少？](https://www.huxiu.com/article/2169296.html?f=rss)|
+|2023-10-14 02:31:06|[虎嗅](https://rss.huxiu.com/)|[iPhone 15遇散热难题，与台积电3nm低良率有关？](https://www.huxiu.com/article/2170944.html?f=rss)|
+|2023-10-14 02:23:56|[虎嗅](https://rss.huxiu.com/)|[游戏大厂与渠道的战争，放到了桌面上](https://www.huxiu.com/article/2169789.html?f=rss)|
+|2023-10-14 02:20:45|[虎嗅](https://rss.huxiu.com/)|[BC电池，光伏技术线路之争？](https://www.huxiu.com/article/2169815.html?f=rss)|
+|2023-10-14 03:08:48|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[花了个把月肝了一篇制作落地页的文章，前端比较菜，所以用了 Framer 来搭](https://w2solo.com/topics/4195)|
+|2023-10-14 03:00:00|[机核](https://www.gcores.com/rss)|[《往日之影》游戏摄影——狗镇及支线：All the Pieces Matter](https://www.gcores.com/articles/172206)|
+|2023-10-14 02:45:13|[机核](https://www.gcores.com/rss)|[《堕落之主》正在修复游戏性能问题，并给出修复办法](https://www.gcores.com/articles/172279)|
+|2023-10-14 02:30:00|[机核](https://www.gcores.com/rss)|[特异现象研究部-机密音频档案丨BOOOM游戏作品原声带《Piece Together OST》](https://www.gcores.com/videos/172259)|
 |2023-10-14 02:05:00|[虎嗅](https://rss.huxiu.com/)|[今年最大的一笔物业收购出现了，为何资本市场却不买账？](https://www.huxiu.com/article/2170935.html?f=rss)|
 |2023-10-14 02:02:00|[虎嗅](https://rss.huxiu.com/)|[一觉醒来，原油、黄金爆发了](https://www.huxiu.com/article/2170966.html?f=rss)|
 |2023-10-14 01:48:00|[虎嗅](https://rss.huxiu.com/)|[中国民营企业创新启示录：别无选择](https://www.huxiu.com/article/2169824.html?f=rss)|
