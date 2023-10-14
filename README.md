@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-14 03:35:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果新功能“视频反应”让远程医疗行业变得异常尴尬](https://m.cnbeta.com.tw/view/1389879.htm)|
+|2023-10-14 03:35:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[业主欲在车位安装充电桩 物业是否应无条件配合？](https://m.cnbeta.com.tw/view/1389877.htm)|
+|2023-10-14 03:35:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[宝马、长城联手打造 全新电动MINI首车下线](https://m.cnbeta.com.tw/view/1389875.htm)|
+|2023-10-14 03:32:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Xubuntu 23.10 发布，提供细微但重要的改进](https://linux.cn/article-16282-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-14 02:42:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Kubuntu 23.10 版本已发布！](https://linux.cn/article-16281-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-14 06:15:04|[爱范儿](https://plink.anyfeeder.com/ifanr)|[天龙 Denon PerL 真无线降噪耳机发布：功能完整的标准款真无线，还比你更了解你的耳朵](https://www.ifanr.com/1564957?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-14 05:52:15|[极客公园](https://plink.anyfeeder.com/geekpark)|[纳德拉讲述 Bing 血泪史：有谷歌在，付出再多钱和努力，苹果、三星也不会选择我们](http://www.geekpark.net/news/325954)|
 |2023-10-14 04:02:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大模型会不会成为压死苹果小内存的那个稻草？](https://www.zhihu.com/question/617919500)|
 |2023-10-14 04:02:00|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[游戏《原神》双子中知道另一个在深渊后，为何不直接找深渊法师问哥哥下落，而是继续寻找神灵？](https://www.zhihu.com/question/485034912)|
