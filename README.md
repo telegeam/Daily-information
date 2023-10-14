@@ -1,4 +1,4 @@
-﻿# 每日资讯（2023-10-13）
+﻿# 每日资讯（2023-10-14）
 
 |时间|来源|标题|
 |---|---|---|
@@ -458,5 +458,6 @@
 |2023-10-13 00:46:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“国家队”时隔八年出手，这些重仓股也有机会？](https://www.tmtpost.com/6740548.html)|
 |2023-10-13 00:27:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[县城，新茶饮的“绞肉机”](https://www.tmtpost.com/6740463.html)|
 |2023-10-13 00:14:06|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[钛媒体科股早知道：实现6G万物互联的关键，这类资源已成为必争之地](https://www.tmtpost.com/6741063.html)|
+|2023-10-14 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 金枪鱼之夜：2023 年秋季学期迎新会 & TUNA 镜像站服务架构演进](https://tuna.moe/event/2023/welcome-and-mirrors-infra/)|
 |2023-10-13 00:31:49|[爱范儿](https://www.ifanr.com/feed)|[早报｜iPhone 16 Pro 或将支持 5.5G / 小米社区负责人回应雷军被封号 / OPPO Find N3 发布会官宣](https://www.ifanr.com/1564762?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-13 00:44:15|[精品MAC应用分享](https://xclient.info/feed)|[Reeder 5.4 将RSS阅读体验发挥到极致](https://xclient.info/s/reeder.html)|
