@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-15 04:13:47|[少数派](https://plink.anyfeeder.com/sspai)|[我开发了一套 Marp 主题，Markdown 直接转换的 PPT 也可以很好看：Awesome Marp](https://sspai.com/post/83182)|
+|2023-10-15 06:27:53|[虎嗅](https://rss.huxiu.com/)|[核污水排海后的生蚝养殖：有人提前卖掉，有人投入百万](https://www.huxiu.com/article/2175083.html?f=rss)|
+|2023-10-15 06:15:00|[虎嗅](https://rss.huxiu.com/)|[翻开一本阿拉伯奇书，原来耶稣在大唐也有故事？](https://www.huxiu.com/article/2172621.html?f=rss)|
+|2023-10-15 04:03:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“质疑王岑、理解王岑、成为王岑”](https://36kr.com/p/2473694869870470)|
+|2023-10-15 04:03:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[谁在“操控”虚拟人？](https://36kr.com/p/2474066740369541)|
+|2023-10-15 04:03:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[丛龙峰：见过500个CEO，我发现领导力无非3件事](https://36kr.com/p/2473688313763712)|
+|2023-10-15 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[于文亮，「让抖音回到2018年」的男人](https://36kr.com/p/2473587850320005)|
+|2023-10-15 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[许家印的五句话，恒大一句也没听](https://36kr.com/p/2474076951404678)|
+|2023-10-15 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[6000亿豪门做VC了](https://36kr.com/p/2473999107840136)|
+|2023-10-15 06:57:33|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[发布第一款产品，跨平台文件传输助手 “闪电藤”](https://w2solo.com/topics/4196)|
+|2023-10-15 05:17:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[群晖 DS3622xs+ 12 盘 18thc550 组 raid6，写入只有 200MB/s..求大神帮忙看下](https://www.v2ex.com/t/982128#reply6)|
+|2023-10-15 03:18:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[也分享一下自己的博客](https://www.v2ex.com/t/982101#reply19)|
+|2023-10-15 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：AAPE 发布 2023 年秋冬女装系列、HOKA ONE ONE 推出多款新品](http://www.toodaylab.com/82299)|
 |2023-10-15 05:16:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[中产讨厌的社会摇，给了无聊社会一大耳帖子](https://www.huxiu.com/article/2172665.html?f=rss)|
 |2023-10-15 05:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[狂降价，哪些SUV被低估了？](https://www.huxiu.com/article/2163958.html?f=rss)|
 |2023-10-15 04:55:09|[虎嗅](https://plink.anyfeeder.com/huxiu)|[什么样的区域，餐饮店铺在净增长？](https://www.huxiu.com/article/2163406.html?f=rss)|
