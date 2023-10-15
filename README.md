@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-10-14）
+﻿# 每日资讯（2023-10-15）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-15 10:15:00|[泠泫凝的异次元空间](https://lxnchan.cn/atom.xml)|[将黑群晖部署到ESXi（笔记）](https://lxnchan.cn/hack-dsm.html)|
 |2023-10-14 09:15:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[俄罗斯：纳瓦尔尼的三名律师均被捕](https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20231014-%E4%BF%84%E7%BD%97%E6%96%AF-%E7%BA%B3%E7%93%A6%E5%B0%94%E5%B0%BC%E7%9A%84%E4%B8%89%E5%90%8D%E5%BE%8B%E5%B8%88%E5%9D%87%E8%A2%AB%E6%8D%95)|
 |2023-10-14 08:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[普京将访华 法新社称遭孤立愈加依赖中国](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20231014-%E6%99%AE%E4%BA%AC%E5%B0%86%E8%AE%BF%E5%8D%8E-%E6%B3%95%E6%96%B0%E7%A4%BE%E7%A7%B0%E9%81%AD%E5%AD%A4%E7%AB%8B%E6%84%88%E5%8A%A0%E4%BE%9D%E8%B5%96%E4%B8%AD%E5%9B%BD)|
 |2023-10-14 08:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[中国人大常委会将开会 有猜或正式任命新防长](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20231014-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A%E5%B0%86%E5%BC%80%E4%BC%9A-%E6%9C%89%E7%8C%9C%E6%88%96%E6%AD%A3%E5%BC%8F%E4%BB%BB%E5%91%BD%E6%96%B0%E9%98%B2%E9%95%BF)|
