@@ -2,6 +2,33 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-15 07:36:14|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[全球陆上单体最大风电项目首批风机吊装完成 一年发电180亿度](https://m.cnbeta.com.tw/view/1390055.htm)|
+|2023-10-15 07:35:57|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[NVIDIA Blackwell B100 GPU将搭配SK Hynix HBM3e显存 预计于2024年Q2推出](https://m.cnbeta.com.tw/view/1390049.htm)|
+|2023-10-15 07:35:43|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[所有iPhone 16型号都将采用基于台积电N3E工艺的3纳米A18芯片](https://m.cnbeta.com.tw/view/1390047.htm)|
+|2023-10-15 07:35:31|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[长城确认魏牌CEO离职 空降上任仅8个月](https://m.cnbeta.com.tw/view/1390045.htm)|
+|2023-10-15 07:35:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[保时捷销量全球市场大涨 唯独中国区大跌](https://m.cnbeta.com.tw/view/1390043.htm)|
+|2023-10-15 07:06:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Fisker首家门店即将落地上海 美国新势力能否拿下中国市场？](https://m.cnbeta.com.tw/view/1390035.htm)|
+|2023-10-15 07:06:36|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[梅西再来中国 迈阿密国际官宣下个月将先后对阵青岛海牛和成都蓉城](https://m.cnbeta.com.tw/view/1390033.htm)|
+|2023-10-15 07:06:19|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[小鹏反腐内幕：订单暴增加剧采购问题 何小鹏亲自动手](https://m.cnbeta.com.tw/view/1390025.htm)|
+|2023-10-15 07:06:06|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[千万人围观“烧焦婴儿”图片 伯克利教授辟谣：AI图片检测器无用](https://m.cnbeta.com.tw/view/1390023.htm)|
+|2023-10-15 07:05:50|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[闪存市场，又打起来了？](https://m.cnbeta.com.tw/view/1390021.htm)|
+|2023-10-15 07:05:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[以色列为何能成为“芯片王国”？](https://m.cnbeta.com.tw/view/1390019.htm)|
+|2023-10-15 07:05:23|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[威马破产，车评人被骂惨？](https://m.cnbeta.com.tw/view/1390017.htm)|
+|2023-10-15 03:35:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[真·掩耳盗铃 自研芯片表现不佳 谷歌禁止Pixel 8安装测试软件](https://m.cnbeta.com.tw/view/1390011.htm)|
+|2023-10-15 03:06:29|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[微软正准备推送23H2更新的正式形态：Windows 11 2023 Update](https://m.cnbeta.com.tw/view/1390001.htm)|
+|2023-10-15 03:06:12|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[澳洲一学生发明低成本混动汽车装置 可提供100公里纯电续航](https://m.cnbeta.com.tw/view/1389995.htm)|
+|2023-10-15 03:06:01|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[大众总经理透露：为节约成本 明年将为ID.3换装磷酸铁锂电池](https://m.cnbeta.com.tw/view/1389993.htm)|
+|2023-10-15 03:05:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[小米汽车售价曝光：逼近25万 将直面华为问界等对手](https://m.cnbeta.com.tw/view/1389991.htm)|
+|2023-10-15 03:05:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉发布赛博啤酒套装 采用欧洲贵族啤酒花](https://m.cnbeta.com.tw/view/1389989.htm)|
+|2023-10-15 03:05:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉新款Model Y开始交付：26.39万起 动力更猛 配置更高](https://m.cnbeta.com.tw/view/1389987.htm)|
+|2023-10-15 02:35:32|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[许家印的五句话，恒大一句也没听](https://m.cnbeta.com.tw/view/1389979.htm)|
+|2023-10-15 02:35:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[台积电放弃龙潭2nm建厂计划？引发当地民众不满，仍在沟通](https://m.cnbeta.com.tw/view/1389977.htm)|
+|2023-10-15 08:22:47|[36氪](https://plink.anyfeeder.com/36kr)|[续航200公里，每年减碳超300吨，国内首艘氢能动力船完成首航 最前线](https://36kr.com/p/2472256949983367?f=rss)|
+|2023-10-15 04:11:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[赌城有人在床上能看到耗资23亿美元打造的全球最大球体馆……这个视角谁看谁那不好说呢！](https://dig.chouti.com/link/40294673)|
+|2023-10-15 04:11:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[食欲和色欲增加了！](https://dig.chouti.com/link/40294692)|
+|2023-10-15 09:35:10|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[「KUMO KUMO」的单品烘焙路径](https://www.tmtpost.com/6743842.html)|
+|2023-10-15 09:08:22|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[百年默沙东启示录：通过终点的“最后一战”永不落幕](https://www.tmtpost.com/6743540.html)|
+|2023-10-15 09:01:57|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[金价暴跌引黄金股投资担忧，在岸与离岸金价背离走势何去何从？](https://www.tmtpost.com/6743822.html)|
 |2023-10-15 07:30:00|[机核](https://plink.anyfeeder.com/gcores)|[暴造比赛的游戏这么有乐子？！《约会普拉斯 DatePlus》试玩实况](https://www.gcores.com/videos/172310)|
 |2023-10-15 06:03:44|[机核](https://plink.anyfeeder.com/gcores)|[BOOOM暴造作品《JINX&LUCKY》倒霉蛋和幸运儿一起飞跃天际！](https://www.gcores.com/videos/172321)|
 |2023-10-15 04:00:00|[机核](https://plink.anyfeeder.com/gcores)|[哥斯拉大战蝙蝠侠？古早超英有新漫 美漫新播报（10月版）](https://www.gcores.com/videos/172309)|
