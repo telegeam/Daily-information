@@ -2,6 +2,34 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-16 03:57:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一个关于 google 界面的问题](https://www.v2ex.com/t/982380#reply1)|
+|2023-10-16 03:21:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[数据模型/ER 图低代码开发求助](https://www.v2ex.com/t/982358#reply1)|
+|2023-10-16 02:56:30|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于程序员秃头，从梗到刻板印象](https://www.v2ex.com/t/982338#reply25)|
+|2023-10-16 01:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[充满挑战的夏季过后，中国经济基础仍不牢靠](https://cn.wsj.com/amp/articles/%E5%85%85%E6%BB%A1%E6%8C%91%E6%88%98%E7%9A%84%E5%A4%8F%E5%AD%A3%E8%BF%87%E5%90%8E-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9F%BA%E7%A1%80%E4%BB%8D%E4%B8%8D%E7%89%A2%E9%9D%A0-dce7d034)|
+|2023-10-16 01:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[以色列准备地面入侵加沙，以黎北部边界冲突加剧](https://cn.wsj.com/amp/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E5%87%86%E5%A4%87%E5%9C%B0%E9%9D%A2%E5%85%A5%E4%BE%B5%E5%8A%A0%E6%B2%99-%E4%BB%A5%E9%BB%8E%E5%8C%97%E9%83%A8%E8%BE%B9%E7%95%8C%E5%86%B2%E7%AA%81%E5%8A%A0%E5%89%A7-d3b1f04b)|
+|2023-10-16 01:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[六张图表说明美国为何会有长期劳动力危机](https://cn.wsj.com/amp/articles/%E5%85%AD%E5%BC%A0%E5%9B%BE%E8%A1%A8%E8%AF%B4%E6%98%8E%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%9C%89%E9%95%BF%E6%9C%9F%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%8D%B1%E6%9C%BA-2b513785)|
+|2023-10-16 01:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[腾讯支持的极兔速递计划在香港IPO中募集逾5亿美元](https://cn.wsj.com/amp/articles/%E8%85%BE%E8%AE%AF%E6%94%AF%E6%8C%81%E7%9A%84%E6%9E%81%E5%85%94%E9%80%9F%E9%80%92%E8%AE%A1%E5%88%92%E5%9C%A8%E9%A6%99%E6%B8%AFipo%E4%B8%AD%E5%8B%9F%E9%9B%86%E9%80%BE5%E4%BA%BF%E7%BE%8E%E5%85%83-efb4e196)|
+|2023-10-16 02:36:27|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[投资者劝马斯克：特斯拉与其降价促销 不如花钱打广告](https://m.cnbeta.com.tw/view/1390143.htm)|
+|2023-10-16 02:36:12|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[小米汽车工厂无限接近量产 用户却比雷军还要着急](https://m.cnbeta.com.tw/view/1390141.htm)|
+|2023-10-16 02:35:55|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“战时”CEO、带着武器进产房 以色列创业圈的战争实况](https://m.cnbeta.com.tw/view/1390139.htm)|
+|2023-10-16 02:35:44|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[极兔速递：香港IPO发行价为12港元 10月27日开始买卖](https://m.cnbeta.com.tw/view/1390137.htm)|
+|2023-10-16 02:35:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克称特斯拉汽车可以在奥斯汀街头自动驾驶一整天](https://m.cnbeta.com.tw/view/1390135.htm)|
+|2023-10-16 02:35:19|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国电动汽车价格下降22% “木头姐”称科技创新将加剧通缩压力](https://m.cnbeta.com.tw/view/1390133.htm)|
+|2023-10-16 02:05:23|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[贾跃亭致股东公开信：FF价值被严重低估心急如焚 六大举措捍卫股东利益](https://m.cnbeta.com.tw/view/1390129.htm)|
+|2023-10-16 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[90后回流东北，花10万块自建房：没有房贷，身体都变好了](https://36kr.com/p/2474901149341829)|
+|2023-10-16 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“养生茶饮”生存调查：有人一天300单，有人赔了30万](https://36kr.com/p/2474990687836291)|
+|2023-10-16 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[这个刷屏全世界的“球”，是什么来头？](https://36kr.com/p/2474349673584771)|
+|2023-10-16 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[续航200公里，每年减碳超300吨，国内首艘氢能动力船完成首航 最前线](https://36kr.com/p/2472256949983367)|
+|2023-10-16 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[未来的AI，该由谁来监管?](https://36kr.com/p/2473495903754376)|
+|2023-10-16 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[《封神训练营》：一部“偷懒”的团综？](https://36kr.com/p/2472964813297801)|
+|2023-10-16 04:03:50|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[月薪两万的新中产，都在沉迷这种快乐](https://36kr.com/p/2476330195769474)|
+|2023-10-16 04:03:50|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[不会做复盘，再努力都是低水平的勤奋](https://36kr.com/p/2475250506798983)|
+|2023-10-16 03:19:40|[Lenix Blog](https://blog.p2hp.com/feed)|[Linux Kernel Linux 内核项目是什么](https://blog.p2hp.com/archives/11683)|
+|2023-10-16 04:09:13|[V2EX](http://www.v2ex.com/index.xml)|[ HomePod 手机到 HomePod 5G 通道无声音， 2.4G 通道有声音。](https://www.v2ex.com/t/982385#reply0)|
+|2023-10-16 04:07:43|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 动画卡通人物生成](https://www.v2ex.com/t/982384#reply0)|
+|2023-10-16 04:05:11|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 上海 米哈游，内推](https://www.v2ex.com/t/982383#reply0)|
+|2023-10-16 04:03:26|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 深圳上市公司招聘前端](https://www.v2ex.com/t/982382#reply0)|
+|2023-10-16 02:32:24|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[巴以之间错失的和平机会](https://cn.nytimes.com/opinion/20231016/israel-palestinians-gaza-peace/?utm_source=RSS)|
 |2023-10-16 03:11:21|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 刀锋钛 z690 板载 225 网卡 wol 成功率很低](https://www.v2ex.com/t/982349#reply0)|
 |2023-10-16 03:11:10|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 求推荐一个装 4090 不会挡住插口的主板](https://www.v2ex.com/t/982348#reply0)|
 |2023-10-16 03:11:06|[V2EX](https://www.v2ex.com/index.xml)|[ iOS SIRI/提醒事项 好不智能。。](https://www.v2ex.com/t/982347#reply0)|
