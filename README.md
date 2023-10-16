@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-16 03:35:54|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[全国首单集装箱船海上生物燃料加注完成 最多减少21%碳排放](https://m.cnbeta.com.tw/view/1390181.htm)|
+|2023-10-16 03:35:40|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国阿片类药物危机的意外答案 - 监狱？](https://m.cnbeta.com.tw/view/1390175.htm)|
+|2023-10-16 03:35:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Windows 11 23H2 新增"系统组件"中心](https://m.cnbeta.com.tw/view/1390169.htm)|
+|2023-10-16 05:32:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[中国创新药公司生存实录2023](https://www.tmtpost.com/6744404.html)|
+|2023-10-16 05:01:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[10个问题，看懂大厂ESG](https://www.tmtpost.com/6744295.html)|
+|2023-10-16 04:42:23|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[大模型训练有多卷？揭开大模型算力之谜 钛媒体深度](https://www.tmtpost.com/6740673.html)|
+|2023-10-16 06:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[数读「雪糕」市场：“刺客”渐退场，产品价难涨](https://www.tmtpost.com/6744378.html)|
+|2023-10-16 04:02:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[存款利率一降再降：一年期定存击穿2%](https://dig.chouti.com/link/40303440)|
+|2023-10-16 04:02:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【选秀，重启？！】因为“创5”以“曲线救国”的方式——泰国举办的《创造营亚洲泰国季》，避免了最令人担心的问题。同时，这番热搜轰炸显然“有备而来”，选手大名单应该已尘埃落定，网络都流出了详细资料，可见选手背后团队都开始走营销流程了。](https://dig.chouti.com/link/40303475)|
+|2023-10-16 05:01:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[法拉第未来市值仅0.2亿美元，贾跃亭致股东公开信：被严重低估，心急如焚、深感惭愧](https://dig.chouti.com/link/40304081)|
 |2023-10-16 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 Python 的性能？](https://www.zhihu.com/question/40393531)|
 |2023-10-16 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待中科大拟撤销英语等 6 个本科专业，称系「学科优化设置需要」？](https://www.zhihu.com/question/625905700)|
 |2023-10-16 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《龙珠》中机械弗利萨与原来满血全功率的弗利萨相比，哪一个更强一些？](https://www.zhihu.com/question/624408931)|
