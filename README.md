@@ -2,6 +2,36 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-16 06:49:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【梅西二度中国行幕后】9月下旬，迈伽体育与前西班牙国脚伊涅斯塔的经纪公司NSN签约，后者负责邀请迈阿密国际俱乐部来华比赛的协调工作。做球员时，伊涅斯塔和梅西、贝克汉姆有着不错的私交。这次合作是迈伽体育能成功邀请迈阿密国际俱乐部来华比赛的关键原因。](https://dig.chouti.com/link/40305027)|
+|2023-10-16 06:38:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本歌手谷村新司去世 终年74岁](https://dig.chouti.com/link/40305024)|
+|2023-10-16 04:12:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[复旦人体科学馆馆长：与标本“交谈”，让人体不再神秘](https://dig.chouti.com/link/40303844)|
+|2023-10-16 02:56:30|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于程序员秃头，从梗到刻板印象](https://www.v2ex.com/t/982338#reply52)|
+|2023-10-16 06:42:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[入手 pixel7， google play 不让在非美区买 app](https://www.v2ex.com/t/982430#reply3)|
+|2023-10-16 03:49:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Golang 反射问题，从接口反射方法](https://www.v2ex.com/t/982377#reply2)|
+|2023-10-16 07:10:30|[V2EX](https://v2ex.com/index.xml)|[ 问与答 最近发现 apkpure 无法更新下载了](https://www.v2ex.com/t/982453#reply0)|
+|2023-10-16 07:09:09|[V2EX](https://v2ex.com/index.xml)|[ Spotify spotify 港区家庭组，还有一个位置，月付 15，有需要的➕](https://www.v2ex.com/t/982452#reply0)|
+|2023-10-16 07:08:49|[V2EX](https://v2ex.com/index.xml)|[ 求职 找前端工作，熟悉 nodejs 后端技术栈，活跃于开源社区的爱好者](https://www.v2ex.com/t/982450#reply0)|
+|2023-10-16 07:08:02|[V2EX](https://v2ex.com/index.xml)|[ macOS 妙控键盘什么时候会出 type-c 接口的？](https://www.v2ex.com/t/982449#reply0)|
+|2023-10-16 07:06:22|[V2EX](https://v2ex.com/index.xml)|[ 问与答 为什么网上很多人把“XX 万”说成“XX 个”？](https://www.v2ex.com/t/982448#reply5)|
+|2023-10-16 07:02:51|[V2EX](https://v2ex.com/index.xml)|[ 问与答 2022 年 3 月份至今，做过抖店、会员代理、电费话费代理、干过羊毛党、摆过地摊。反正涉及比较多，但是没赚到什么钱。大家有什么疑问的都可以交流交流。](https://www.v2ex.com/t/982447#reply2)|
+|2023-10-16 07:01:54|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 远程岗位](https://www.v2ex.com/t/982446#reply0)|
+|2023-10-16 07:00:15|[V2EX](https://v2ex.com/index.xml)|[ 问与答 前端开发女 离职了可以干点什么](https://www.v2ex.com/t/982445#reply4)|
+|2023-10-16 06:58:51|[V2EX](https://v2ex.com/index.xml)|[ 汽车 新手司机，小鹏 G6 580MAX、领克 08 245 超长续航、智己 LS6 LS6 Max 标准版，怎么选](https://www.v2ex.com/t/982444#reply2)|
+|2023-10-16 06:57:32|[V2EX](https://v2ex.com/index.xml)|[ iPhone iPhone 室内拍照，取景正常，拍完人脸很黑有解吗？](https://www.v2ex.com/t/982443#reply4)|
+|2023-10-16 06:57:13|[V2EX](https://v2ex.com/index.xml)|[ 生活 第一次买车，提车需要注意哪些方面啊？](https://www.v2ex.com/t/982442#reply4)|
+|2023-10-16 06:56:36|[V2EX](https://v2ex.com/index.xml)|[ Android 现在安卓手机相册里面还会有各个 app 缓存的图片吗](https://www.v2ex.com/t/982441#reply0)|
+|2023-10-16 06:55:58|[V2EX](https://v2ex.com/index.xml)|[ 问与答 咨询大佬们，关于刚需房产置换](https://www.v2ex.com/t/982440#reply3)|
+|2023-10-16 06:55:46|[V2EX](https://v2ex.com/index.xml)|[ 上海 上海租房地区求意见， 4000 想租两居室](https://www.v2ex.com/t/982439#reply0)|
+|2023-10-16 06:52:47|[V2EX](https://v2ex.com/index.xml)|[ 深圳 深圳婚纱照求推荐地方](https://www.v2ex.com/t/982438#reply0)|
+|2023-10-16 06:52:14|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 华硕 AX82u 科学上网突然消失，什么情况？](https://www.v2ex.com/t/982437#reply1)|
+|2023-10-16 06:50:47|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求推荐服务器的文件管理器](https://www.v2ex.com/t/982436#reply0)|
+|2023-10-16 06:48:19|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 当你们还在折腾 nas, infuse 啥的时候, 我只用 google 在线](https://www.v2ex.com/t/982435#reply3)|
+|2023-10-16 06:46:20|[V2EX](https://v2ex.com/index.xml)|[ 程序员 发一个$1300 奖金的 issue](https://www.v2ex.com/t/982434#reply0)|
+|2023-10-16 06:45:43|[V2EX](https://v2ex.com/index.xml)|[ VPS nnr+nat 合租](https://www.v2ex.com/t/982433#reply2)|
+|2023-10-16 06:42:21|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没有一款网页翻译插件，可以做到在对照界面鼠标划选译文实时显示对应原文？](https://www.v2ex.com/t/982431#reply2)|
+|2023-10-16 06:42:57|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[研究人员开发出新算法，可检测无人驾驶军用车辆中的 MitM 攻击](https://www.freebuf.com/news/380778.html)|
+|2023-10-16 03:58:12|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[“游蛇”黑产团伙专题分析报告](https://www.freebuf.com/articles/network/380649.html)|
+|2023-10-16 02:42:57|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[Kwik Trip遭遇“神秘”网络事件，导致IT系统中断](https://www.freebuf.com/news/380766.html)|
 |2023-10-16 03:35:54|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[全国首单集装箱船海上生物燃料加注完成 最多减少21%碳排放](https://m.cnbeta.com.tw/view/1390181.htm)|
 |2023-10-16 03:35:40|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国阿片类药物危机的意外答案 - 监狱？](https://m.cnbeta.com.tw/view/1390175.htm)|
 |2023-10-16 03:35:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Windows 11 23H2 新增"系统组件"中心](https://m.cnbeta.com.tw/view/1390169.htm)|
