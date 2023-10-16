@@ -2,6 +2,62 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-16 08:06:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[华为申请eKitChat商标 子品牌华为坤灵专用](https://m.cnbeta.com.tw/view/1390231.htm)|
+|2023-10-16 08:06:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[华为Mate60 Pro+长焦微距实拍蚊子吸血全过程 连嘴都能看清](https://m.cnbeta.com.tw/view/1390229.htm)|
+|2023-10-16 08:06:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[鸿海离子阱实验室正式启用：5年内推出5-10bit量子电脑](https://m.cnbeta.com.tw/view/1390227.htm)|
+|2023-10-16 08:06:07|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[RTX 3080公版高温超100℃：一看散热器破了个洞](https://m.cnbeta.com.tw/view/1390225.htm)|
+|2023-10-16 08:05:52|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[联想拯救者H7游戏耳机官宣：入耳式C口 支持7.1声卡](https://m.cnbeta.com.tw/view/1390217.htm)|
+|2023-10-16 08:05:37|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[销量缩水80% 现代败走中国：5座工厂已卖了3座](https://m.cnbeta.com.tw/view/1390215.htm)|
+|2023-10-16 08:05:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[16核22线程 酷睿Ultra 9 185H曝光：英特尔革命性架构转变](https://m.cnbeta.com.tw/view/1390213.htm)|
+|2023-10-16 07:36:58|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[茅台酒启用全新防伪：用上区块链 瓶盖也彻底变了](https://m.cnbeta.com.tw/view/1390211.htm)|
+|2023-10-16 07:36:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[新一代红旗L5完成申报：车长近6米 换装V8发动机](https://m.cnbeta.com.tw/view/1390209.htm)|
+|2023-10-16 07:36:31|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[微软希望最终在Windows 11中禁用 NTLM 身份验证](https://m.cnbeta.com.tw/view/1390207.htm)|
+|2023-10-16 07:36:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美媒：升级太慢，GPS系统不再领先，民用领域或受威胁](https://m.cnbeta.com.tw/view/1390199.htm)|
+|2023-10-16 07:36:08|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[GPT-4V被曝离谱bug：突然执行神秘代码 空白图片读出打折信息](https://m.cnbeta.com.tw/view/1390197.htm)|
+|2023-10-16 07:35:54|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[OpenAI悄悄更改“价值观”：不All in AGI的别来沾边](https://m.cnbeta.com.tw/view/1390195.htm)|
+|2023-10-16 07:35:37|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[让鸟儿能“看清楚”玻璃 腾讯总部大厦“贴膜”了](https://m.cnbeta.com.tw/view/1390193.htm)|
+|2023-10-16 07:35:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国SEC主席：AI威胁到金融稳定 要迅速采取监管行动](https://m.cnbeta.com.tw/view/1390191.htm)|
+|2023-10-16 07:06:01|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[盈利同比增长34% “五朵金花”或撑起美股Q3财报季](https://m.cnbeta.com.tw/view/1390187.htm)|
+|2023-10-16 07:05:43|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[减肥药市场是否过于火热了？行业人士的一番话似泼去冷水](https://m.cnbeta.com.tw/view/1390185.htm)|
+|2023-10-16 07:05:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[芯片需求触底迹象初现 韩国9月份NAND闪存出口一年来首次增长](https://m.cnbeta.com.tw/view/1390183.htm)|
+|2023-10-16 00:48:49|[精品MAC应用分享](https://xclient.info/feed)|[LilyView 1.6.0 手势看图](https://xclient.info/s/lilyview.html)|
+|2023-10-16 04:40:27|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPad 新品 本週推出？彭博社說明消息的可信度](https://applefans.today/2023-10-apple-to-announce-new-ipad-models-this-week/)|
+|2023-10-16 07:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[在港亲京传媒连日骂 民主党参选区会人数再减至6人 评论指新制毋须民主派装饰](https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20231016-%E5%9C%A8%E6%B8%AF%E4%BA%B2%E4%BA%AC%E4%BC%A0%E5%AA%92%E8%BF%9E%E6%97%A5%E9%AA%82-%E6%B0%91%E4%B8%BB%E5%85%9A%E5%8F%82%E9%80%89%E5%8C%BA%E4%BC%9A%E4%BA%BA%E6%95%B0%E5%86%8D%E5%87%8F%E8%87%B36%E4%BA%BA-%E8%AF%84%E8%AE%BA%E6%8C%87%E6%96%B0%E5%88%B6%E6%AF%8B%E9%A1%BB%E6%B0%91%E4%B8%BB%E6%B4%BE%E8%A3%85%E9%A5%B0)|
+|2023-10-16 06:13:42|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[【重要通知】“美亚杯”第九届全国电子数据取证竞赛报名进行中](https://www.4hou.com/posts/ongK)|
+|2023-10-16 03:50:31|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[工信部：组织开展2023年工业和信息化领域数据安全典型案例遴选工作的通知](https://www.4hou.com/posts/nm9l)|
+|2023-10-16 03:40:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[索尼XAV-AX5500车载设备的攻击面分析](https://www.4hou.com/posts/onlK)|
+|2023-10-16 09:00:00|[虎嗅](https://rss.huxiu.com/)|[骠骑兵：你30岁还没死，一定是个懦夫吧？](https://www.huxiu.com/article/2179899.html?f=rss)|
+|2023-10-16 08:58:15|[虎嗅](https://rss.huxiu.com/)|[人在线下，还得扫码点单？](https://www.huxiu.com/article/2179383.html?f=rss)|
+|2023-10-16 08:45:00|[虎嗅](https://rss.huxiu.com/)|[City Talk？一次和关雅荻的街头播客漫谈](https://www.huxiu.com/article/2179893.html?f=rss)|
+|2023-10-16 08:42:30|[虎嗅](https://rss.huxiu.com/)|[美国造车新势力上海开店，“不想做特斯拉模仿者”？](https://www.huxiu.com/article/2180107.html?f=rss)|
+|2023-10-16 08:42:26|[虎嗅](https://rss.huxiu.com/)|[泛生子退市：30亿烧出的体面结局](https://www.huxiu.com/article/2180098.html?f=rss)|
+|2023-10-16 08:40:57|[虎嗅](https://rss.huxiu.com/)|[当一个基金经理赔了50%](https://www.huxiu.com/article/2179901.html?f=rss)|
+|2023-10-16 08:30:00|[虎嗅](https://rss.huxiu.com/)|[民航客机为什么不愿意装摄像头？](https://www.huxiu.com/article/2167900.html?f=rss)|
+|2023-10-16 08:15:00|[虎嗅](https://rss.huxiu.com/)|[“双减”之后再出新规，能解决教育焦虑吗？](https://www.huxiu.com/article/2176651.html?f=rss)|
+|2023-10-16 08:14:18|[虎嗅](https://rss.huxiu.com/)|[1名正式员工，年收入超过千万美元：怎么做到的？](https://www.huxiu.com/article/2179884.html?f=rss)|
+|2023-10-16 08:12:45|[虎嗅](https://rss.huxiu.com/)|[反竞争VS反垄断：中国在线音乐市场，为何难管？](https://www.huxiu.com/article/2168970.html?f=rss)|
+|2023-10-16 08:11:12|[虎嗅](https://rss.huxiu.com/)|[风险投资，一门专业的生意？](https://www.huxiu.com/article/2179873.html?f=rss)|
+|2023-10-16 08:09:59|[虎嗅](https://rss.huxiu.com/)|[我国石油和天然气，有哪些发展趋势？](https://www.huxiu.com/article/2179346.html?f=rss)|
+|2023-10-16 08:05:34|[虎嗅](https://rss.huxiu.com/)|[微软5000亿收购暴雪，《魔兽世界》回归还远吗](https://www.huxiu.com/article/2179885.html?f=rss)|
+|2023-10-16 07:57:00|[虎嗅](https://rss.huxiu.com/)|[文学对他们，到底有什么“用”？](https://www.huxiu.com/article/2179874.html?f=rss)|
+|2023-10-16 07:52:01|[虎嗅](https://rss.huxiu.com/)|[中国台风，迷之走位](https://www.huxiu.com/article/2179865.html?f=rss)|
+|2023-10-16 07:25:57|[虎嗅](https://rss.huxiu.com/)|[陈凯歌X张艺谋：时代面前没有大师](https://www.huxiu.com/article/2178754.html?f=rss)|
+|2023-10-16 07:21:31|[虎嗅](https://rss.huxiu.com/)|[录屏软件Loom为何能卖10亿美金？](https://www.huxiu.com/article/2179876.html?f=rss)|
+|2023-10-16 07:17:56|[虎嗅](https://rss.huxiu.com/)|[验房师，为何是一个容易被打的职业？](https://www.huxiu.com/article/2178333.html?f=rss)|
+|2023-10-16 07:12:00|[虎嗅](https://rss.huxiu.com/)|[现代捐赠模式奠基人之一：泡沫破裂中起家的CIO](https://www.huxiu.com/article/2178349.html?f=rss)|
+|2023-10-16 07:06:00|[虎嗅](https://rss.huxiu.com/)|[谁是中国科幻第一城？](https://www.huxiu.com/article/2179256.html?f=rss)|
+|2023-10-16 07:03:31|[虎嗅](https://rss.huxiu.com/)|[1分钟搞懂啥是融券做空？](https://www.huxiu.com/article/2178344.html?f=rss)|
+|2023-10-16 07:00:06|[虎嗅](https://rss.huxiu.com/)|[在济州岛打黑工：担惊受怕，随时可能被抓](https://www.huxiu.com/article/2179382.html?f=rss)|
+|2023-10-16 06:58:25|[虎嗅](https://rss.huxiu.com/)|[种子到A轮之间，没有接盘侠](https://www.huxiu.com/article/2179398.html?f=rss)|
+|2023-10-16 06:56:49|[虎嗅](https://rss.huxiu.com/)|[董事长猝然离世后，“免税茅”中免的近忧与远虑](https://www.huxiu.com/article/2179857.html?f=rss)|
+|2023-10-16 06:54:00|[虎嗅](https://rss.huxiu.com/)|[年代剧播一部火一部，但《大宅门》再也不会有了](https://www.huxiu.com/article/2179852.html?f=rss)|
+|2023-10-16 06:50:06|[虎嗅](https://rss.huxiu.com/)|[这个老牌网红，还想再火一次](https://www.huxiu.com/article/2179252.html?f=rss)|
+|2023-10-16 06:33:52|[虎嗅](https://rss.huxiu.com/)|[爱面子不是错，只是有些人将屁股当成了面子](https://www.huxiu.com/article/2179282.html?f=rss)|
+|2023-10-16 06:00:01|[虎嗅](https://rss.huxiu.com/)|[“告状讨债”，医药销售链上的相爱相杀](https://www.huxiu.com/article/2178747.html?f=rss)|
+|2023-10-16 06:00:00|[虎嗅](https://rss.huxiu.com/)|[石棉不是矿，是一个城市](https://www.huxiu.com/article/2163930.html?f=rss)|
+|2023-10-16 05:59:39|[虎嗅](https://rss.huxiu.com/)|[赛事太多、赞助商也没钱了：马拉松经济，还能“跑”多远？](https://www.huxiu.com/article/2178766.html?f=rss)|
+|2023-10-16 05:54:35|[虎嗅](https://rss.huxiu.com/)|[市场记录：关于美元资产价值重估](https://www.huxiu.com/article/2178744.html?f=rss)|
+|2023-10-16 05:41:04|[虎嗅](https://rss.huxiu.com/)|[“非油炸”食品，真的健康吗？](https://www.huxiu.com/article/2179266.html?f=rss)|
 |2023-10-16 07:30:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[黄牛败走演唱会：实名也没用，没用也实名](https://www.tmtpost.com/6744369.html)|
 |2023-10-16 07:28:16|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[【Fintech 周报】央行职责机构编制调整；华为旗下支付公司更名“花瓣支付”；微信支付内测“经营账户”](https://www.tmtpost.com/6744820.html)|
 |2023-10-16 07:19:54|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[干湿一体化实验室半年拿到20多笔融资，AI制药企业纷纷押注的下一站风口](https://www.tmtpost.com/6744507.html)|
