@@ -2,6 +2,71 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-16 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 Python 的性能？](https://www.zhihu.com/question/40393531)|
+|2023-10-16 04:02:07|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待中科大拟撤销英语等 6 个本科专业，称系「学科优化设置需要」？](https://www.zhihu.com/question/625905700)|
+|2023-10-16 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《龙珠》中机械弗利萨与原来满血全功率的弗利萨相比，哪一个更强一些？](https://www.zhihu.com/question/624408931)|
+|2023-10-16 04:02:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[哪些 Python 库让你相见恨晚？](https://www.zhihu.com/question/24590883)|
+|2023-10-16 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[NASA「灵神星」号启程探索同名金属小行星，这对航天业有哪些意义？](https://www.zhihu.com/question/623693248)|
+|2023-10-16 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[已知密度最大的生物是什么？](https://www.zhihu.com/question/582461671)|
+|2023-10-16 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有什么事在 Windows 上显的顺理成章，在 Linux 上就很令人费解？](https://www.zhihu.com/question/613890497)|
+|2023-10-16 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价周也、王星越主演，根据知乎小说《洗铅华》改编的古装剧《为有暗香来》？](https://www.zhihu.com/question/625972772)|
+|2023-10-16 04:02:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美剧《绝命毒师》里，汉克为什么没有怀疑老白就是海森堡？](https://www.zhihu.com/question/286497744)|
+|2023-10-16 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[今年你有找到契合自己的工作状态吗？在无处不在的 city work 里，怎样才能自洽？](https://www.zhihu.com/question/625828128)|
+|2023-10-16 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[以军发言人称「以军将在中东任何地方行动」，透露了哪些信息？](https://www.zhihu.com/question/626235252)|
+|2023-10-16 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[职业学院毕业生分享追梦路「从高职生到北大博士生导师，我用了十五年」，你有哪些暗暗努力坚持的事情？](https://www.zhihu.com/question/625613408)|
+|2023-10-16 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《崩坏：星穹铁道》的「云上五骁」讲述了仙舟罗浮一段怎样的过往？他们的未来又何去何从？](https://www.zhihu.com/question/625607091)|
+|2023-10-16 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[古装悬疑剧《繁城之下》有哪些细思极恐的细节？](https://www.zhihu.com/question/625977674)|
+|2023-10-16 04:02:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[高级语言的程序设计中，对硬盘高频率地读写，这样的操作是需要担忧的吗？](https://www.zhihu.com/question/625239054)|
+|2023-10-16 04:02:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[销售拜访客户，怎么和客户聊天？](https://www.zhihu.com/question/53535781)|
+|2023-10-16 04:02:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[能分享一下你百看不厌的好诗词吗？](https://www.zhihu.com/question/625640076)|
+|2023-10-16 04:02:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你和你的遗憾和解了吗？](https://www.zhihu.com/question/613194766)|
+|2023-10-16 04:02:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[去年我国结婚人数跌破 700 万对，比上年下降 10.6％，为连续 9 年下降，哪些信息值得关注？](https://www.zhihu.com/question/626252873)|
+|2023-10-16 04:02:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么现在越来越多的人尤其是 00 后更喜欢打羽毛球而不是乒乓球?](https://www.zhihu.com/question/513675998)|
+|2023-10-16 04:02:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[假如《崩坏：星穹铁道》新剧情里未来市场，主角团去询问你是否接受帕的提议，你的回答是什么？](https://www.zhihu.com/question/626226558)|
+|2023-10-16 04:02:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[秋冬天气干燥，想给孩子买一个加湿器放在小房间里，哪款比较好？](https://www.zhihu.com/question/623029808)|
+|2023-10-16 04:02:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你认为大学有必要买电脑吗？](https://www.zhihu.com/question/626201202)|
+|2023-10-16 04:00:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[古早陈欧，低调追风](https://www.tmtpost.com/6744223.html)|
+|2023-10-16 03:30:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[AI不缺概念，甚至不缺技术，但实在缺产品](https://www.tmtpost.com/6744287.html)|
+|2023-10-16 03:06:57|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[高通将于10月25-26日举行2023骁龙峰会](https://m.cnbeta.com.tw/view/1390167.htm)|
+|2023-10-16 03:06:43|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[印度将申办2036年奥运会 实现14亿人的梦想](https://m.cnbeta.com.tw/view/1390165.htm)|
+|2023-10-16 03:06:30|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国造车新势力进军中国 首家门店于上海开设](https://m.cnbeta.com.tw/view/1390163.htm)|
+|2023-10-16 03:06:13|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果Vision Pro廉价版本曝光：砍掉Eyesight功能](https://m.cnbeta.com.tw/view/1390161.htm)|
+|2023-10-16 03:05:59|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[车主担心换电把新电池换成旧电池 蔚来总裁：没有新旧电池之分 终身质保](https://m.cnbeta.com.tw/view/1390159.htm)|
+|2023-10-16 03:05:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[消息称iPhone 17系列屏幕有重大升级 “胶囊屏”时代终结](https://m.cnbeta.com.tw/view/1390157.htm)|
+|2023-10-16 03:05:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[全新一代国产奔驰E级今晚首发](https://m.cnbeta.com.tw/view/1390155.htm)|
+|2023-10-16 03:05:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[买“会员”可绕过“青少年模式” 腾讯起诉一公司获赔300万](https://m.cnbeta.com.tw/view/1390153.htm)|
+|2023-10-16 04:39:28|[机核](https://www.gcores.com/rss)|[《使命召唤》x《暗黑破坏神4》联动宣传视频公布](https://www.gcores.com/articles/172348)|
+|2023-10-16 04:04:22|[机核](https://www.gcores.com/rss)|[《女神异闻录5 战略版》第三弹PV公开，全新战术挑战](https://www.gcores.com/articles/172347)|
+|2023-10-16 03:45:04|[机核](https://www.gcores.com/rss)|[创意总监Sam Lake透露《心灵杀手2》将推出免费DLC](https://www.gcores.com/articles/172345)|
+|2023-10-16 03:00:00|[机核](https://www.gcores.com/rss)|[BOOOMStore暴造市场正式营业啦](https://www.gcores.com/videos/172278)|
+|2023-10-16 02:32:19|[机核](https://www.gcores.com/rss)|[Mojang宣布《我的世界》销量超过3亿份](https://www.gcores.com/articles/172342)|
+|2023-10-16 02:45:33|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[假阳澄湖大闸蟹，如何做出百亿市场？](http://www.huxiu.com/article/2178630.html?f=wangzhan)|
+|2023-10-16 02:30:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[你能接受自己生活在谎言中吗？](http://www.huxiu.com/article/2173069.html?f=wangzhan)|
+|2023-10-16 05:03:33|[虎嗅](https://rss.huxiu.com/)|[世界上第一张组织结构图：管理者“低低在下”](https://www.huxiu.com/article/2178640.html?f=rss)|
+|2023-10-16 05:00:46|[虎嗅](https://rss.huxiu.com/)|[帮助人类看清黑暗，早该退休的哈勃还在加班](https://www.huxiu.com/article/2178606.html?f=rss)|
+|2023-10-16 04:57:02|[虎嗅](https://rss.huxiu.com/)|[10个问题，看懂大厂ESG](https://www.huxiu.com/article/2178631.html?f=rss)|
+|2023-10-16 04:54:05|[虎嗅](https://rss.huxiu.com/)|[她拿了诺贝尔奖，背后是美国“终身教职”的阴暗面](https://www.huxiu.com/article/2178699.html?f=rss)|
+|2023-10-16 04:48:54|[虎嗅](https://rss.huxiu.com/)|[现代败走中国：5座工厂卖3座，销量缩水八成](https://www.huxiu.com/article/2179254.html?f=rss)|
+|2023-10-16 04:17:53|[虎嗅](https://rss.huxiu.com/)|[迪士尼用AI做海报？好莱坞到底在紧张什么？](https://www.huxiu.com/article/2178622.html?f=rss)|
+|2023-10-16 03:48:01|[虎嗅](https://rss.huxiu.com/)|[一个月薪2000的年轻人的迷茫](https://www.huxiu.com/article/2178636.html?f=rss)|
+|2023-10-16 03:43:00|[虎嗅](https://rss.huxiu.com/)|[昔日的“行业灯塔”5000亿卖了](https://www.huxiu.com/article/2178700.html?f=rss)|
+|2023-10-16 03:42:28|[虎嗅](https://rss.huxiu.com/)|[去寺庙过别样人生的北漂，变化到底有多大？](https://www.huxiu.com/article/2166588.html?f=rss)|
+|2023-10-16 03:29:23|[虎嗅](https://rss.huxiu.com/)|[脉脉急了，“互联网茶水间”去向何方？](https://www.huxiu.com/article/2178645.html?f=rss)|
+|2023-10-16 03:12:09|[虎嗅](https://rss.huxiu.com/)|[很多问题，背后都有信任问题的影子](https://www.huxiu.com/article/2178661.html?f=rss)|
+|2023-10-16 02:45:33|[虎嗅](https://rss.huxiu.com/)|[假阳澄湖大闸蟹，如何做出百亿市场？](https://www.huxiu.com/article/2178630.html?f=rss)|
+|2023-10-16 02:42:00|[虎嗅](https://rss.huxiu.com/)|[酸枣仁暴涨至千元，谁在炒作？](https://www.huxiu.com/article/2178639.html?f=rss)|
+|2023-10-16 02:30:06|[13 報](https://ethanhuang13.substack.com/feed/)|[開發者週報 #205 Hello Developer](https://www.ethanhuang13.com/p/205)|
+|2023-10-16 05:08:34|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 免费程序员副业探索交流群 欢迎加入 目前已接近 1000 人，无韭菜套路](https://www.v2ex.com/t/982397#reply0)|
+|2023-10-16 05:01:34|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 杭州北京上海 抖音电商物流供应链-资深测试开发工程师](https://www.v2ex.com/t/982396#reply0)|
+|2023-10-16 04:55:38|[V2EX](http://www.v2ex.com/index.xml)|[ macOS Mac 系统里“用所选项目新建的文件夹 ”到底是什么？](https://www.v2ex.com/t/982395#reply3)|
+|2023-10-16 04:49:30|[V2EX](http://www.v2ex.com/index.xml)|[ macOS appletv 好不好用？](https://www.v2ex.com/t/982392#reply2)|
+|2023-10-16 04:43:19|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请教网络宽带替换方案](https://www.v2ex.com/t/982391#reply5)|
+|2023-10-16 04:34:54|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 完全免费的 GPT-4 你还不来白嫖？开源 AI 聊天、绘图软件 AIdea 1.0.6 发布啦](https://www.v2ex.com/t/982390#reply0)|
+|2023-10-16 04:31:51|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 三年 Java 求职](https://www.v2ex.com/t/982389#reply2)|
+|2023-10-16 04:26:44|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 注册 Apple 开发者账号，提示您的帐户可能存在问题，需要解决后才能继续注册流程](https://www.v2ex.com/t/982388#reply1)|
+|2023-10-16 04:20:58|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 Lime 招聘资深后端工程师，全职远程岗](https://www.v2ex.com/t/982387#reply3)|
+|2023-10-16 04:20:31|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 剃须刀~买哪一款好点](https://www.v2ex.com/t/982386#reply0)|
+|2023-10-16 00:49:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[伴侶的錢](http://mercurychong.blogspot.com/2023/10/blog-post_15.html)|
 |2023-10-16 03:57:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一个关于 google 界面的问题](https://www.v2ex.com/t/982380#reply1)|
 |2023-10-16 03:21:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[数据模型/ER 图低代码开发求助](https://www.v2ex.com/t/982358#reply1)|
 |2023-10-16 02:56:30|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于程序员秃头，从梗到刻板印象](https://www.v2ex.com/t/982338#reply25)|
