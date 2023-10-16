@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-10-15）
+﻿# 每日资讯（2023-10-16）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-16 00:02:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[部门有个 nas 想挂载到我的笔记本电脑上](https://www.v2ex.com/t/982260#reply4)|
 |2023-10-15 07:36:14|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[全球陆上单体最大风电项目首批风机吊装完成 一年发电180亿度](https://m.cnbeta.com.tw/view/1390055.htm)|
 |2023-10-15 07:35:57|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[NVIDIA Blackwell B100 GPU将搭配SK Hynix HBM3e显存 预计于2024年Q2推出](https://m.cnbeta.com.tw/view/1390049.htm)|
 |2023-10-15 07:35:43|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[所有iPhone 16型号都将采用基于台积电N3E工艺的3纳米A18芯片](https://m.cnbeta.com.tw/view/1390047.htm)|
