@@ -1,7 +1,11 @@
-﻿# 每日资讯（2023-10-16）
+﻿# 每日资讯（2023-10-17）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-17 00:32:23|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 求助 safari 在外部打开新网页时，如何在当前 safari 窗口打开](https://www.v2ex.com/t/982620#reply0)|
+|2023-10-17 00:29:20|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 几个小时前，我在 AutoGPT hackathon 上做了 MetaGPT 的主题演讲与 QA](https://www.v2ex.com/t/982619#reply0)|
+|2023-10-17 00:30:41|[极客公园](https://plink.anyfeeder.com/geekpark)|[小米：新系统即将曝光，但不叫 MIOS；李彦宏将亲自教大家做「AI原生应用」；传淘宝内测上线微信支付](http://www.geekpark.net/news/326021)|
+|2023-10-17 00:43:33|[爱范儿](https://www.ifanr.com/feed)|[早报｜iPhone 15 中国首发销量低于前代/小米王化否认新系统命名 MiOS/淘宝可以用微信支付？回应来了](https://www.ifanr.com/1565170?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-16 08:07:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[震惊与悲痛过后，以色列人面临一场新的战斗](https://cn.nytimes.com/world/20231016/hamas-israel-mood-distrust/)|
 |2023-10-16 06:07:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中国比特币矿场在美引发国安忧虑](https://cn.nytimes.com/usa/20231016/bitcoin-mines-china-united-states/)|
 |2023-10-16 02:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[巴以之间错失的和平机会](https://cn.nytimes.com/opinion/20231016/israel-palestinians-gaza-peace/)|
