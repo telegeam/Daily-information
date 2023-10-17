@@ -2,6 +2,78 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-17 05:07:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[成败皆由它：中国经济为押注房地产付出代价](https://cn.nytimes.com/business/20231017/china-evergrande-country-garden/)|
+|2023-10-17 04:37:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[华为如何在希腊进行游说活动：向政府官员送礼](https://cn.nytimes.com/technology/20231017/huawei-greece-lobbying-campaign/)|
+|2023-10-17 04:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[田径场上的坚守与激情](https://www.photoworld.com.cn/post/174952)|
+|2023-10-17 03:17:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“月曜中国采访”第三弹：四川成都篇】①月曜节目的知名度in成都问题；②妻冲和魔术师go在成都最知名？③元气十足的中国老年人。④清晨公园锻炼的老年人有多天秀？⑤独特的四川文化，火锅、兔子、采耳；⑥美丽的四川妹子（嬷嬷）；⑦四川的自豪之处。四川小哥：This is 成都！](https://dig.chouti.com/link/40313045)|
+|2023-10-17 03:33:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[文心大模型4.0正式发布 李彦宏：综合水平较GPT-4毫不逊色](https://dig.chouti.com/link/40313061)|
+|2023-10-17 04:40:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【当一个老人，在家中被要求有用】漠视、羞辱与弃养在农村并不罕见，特别是当老年人失去自理能力、需要经常看病以及家庭成员的持续照护时。随着老人们年岁渐长，传统父权制家庭结构所赋予他们的话语权日渐消失。很多老人被家人漠视，而乡间卫生院成了他们人生的最后一站。](https://dig.chouti.com/link/40313747)|
+|2023-10-17 05:45:39|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[Gartner发布2024 年十大战略技术趋势](https://www.freebuf.com/news/380888.html)|
+|2023-10-17 03:47:25|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[满分漏洞！思科未修补的零日漏洞正被积极利用](https://www.freebuf.com/news/380882.html)|
+|2023-10-17 03:06:11|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[因收到100万美元“侮辱性”赎金，Lockbit泄露经销商巨头CDW内部数据](https://www.freebuf.com/news/380865.html)|
+|2023-10-17 02:34:25|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[微软计划在 Win11 中弃用 NTLM 身份验证协议](https://www.freebuf.com/news/380859.html)|
+|2023-10-17 04:27:03|[36氪](https://plink.anyfeeder.com/36kr)|[最前线 「小米澎湃OS」诞生，打造「人车家全生态」操作系统](https://36kr.com/p/2477992335234953?f=rss)|
+|2023-10-17 04:04:15|[36氪](https://plink.anyfeeder.com/36kr)|[AI大模型「中文逍遥1.0」发布，机器写小说、设计配图的时代来了](https://36kr.com/p/2476979746690947?f=rss)|
+|2023-10-17 03:53:28|[36氪](https://plink.anyfeeder.com/36kr)|[拿下华为、先导订单，「威泰科技」今年收入目标7000万元 专精项目](https://36kr.com/p/2477176615196549?f=rss)|
+|2023-10-17 02:52:21|[36氪](https://plink.anyfeeder.com/36kr)|[百川智能完成A1轮3亿美元战略融资，阿里腾讯小米参与｜最前线](https://36kr.com/p/2477865355089792?f=rss)|
+|2023-10-17 02:30:00|[36氪](https://plink.anyfeeder.com/36kr)|[36氪独家 滴滴自动驾驶货运「KargoBot」独立运营，获超4.5亿元投资](https://36kr.com/p/2476893456799623?f=rss)|
+|2023-10-17 02:24:22|[36氪](https://plink.anyfeeder.com/36kr)|[安踏收购MAIA ACTIVE，一桩皆大欢喜的生意｜焦点分析](https://36kr.com/p/2476890610177924?f=rss)|
+|2023-10-17 01:05:00|[36氪](https://plink.anyfeeder.com/36kr)|[“碳中和航班”，让欧洲大型航空公司身陷洗绿官司 焦点分析](https://36kr.com/p/2475269943433096?f=rss)|
+|2023-10-17 01:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[36氪首发｜小米上线首款千元级3D打印机，同消费级3D打印机公司「胜马优创」合作发布](https://36kr.com/p/2476838000384136?f=rss)|
+|2023-10-17 00:30:38|[36氪](https://plink.anyfeeder.com/36kr)|[问界起死回生，华为震慑车圈｜深氪lite](https://36kr.com/p/2477330218014855?f=rss)|
+|2023-10-17 00:30:00|[36氪](https://plink.anyfeeder.com/36kr)|[36氪首发 ｜ 「逐际动力」完成近2亿元天使轮和 Pre-A 轮融资，2023年会推出人形双足机器人](https://36kr.com/p/2477042139240580?f=rss)|
+|2023-10-17 06:10:49|[36氪](https://plink.anyfeeder.com/36kr)|[理想汽车：10月9日-10月15日周销量达1.05万辆](https://36kr.com/newsflashes/2478097187133570?f=rss)|
+|2023-10-17 06:08:23|[36氪](https://plink.anyfeeder.com/36kr)|[化债传利好“网红”城投公司融资成本下降](https://36kr.com/newsflashes/2478094795528070?f=rss)|
+|2023-10-17 05:58:28|[36氪](https://plink.anyfeeder.com/36kr)|[俄直接投资基金：将与中国合作伙伴共创民航产业发展基金，规模1000亿卢布](https://36kr.com/newsflashes/2478085054978180?f=rss)|
+|2023-10-17 05:55:26|[36氪](https://plink.anyfeeder.com/36kr)|[博众精工：已研发出AOI芯片外观检测机、高速高精度固晶机等产品](https://36kr.com/newsflashes/2478082075203721?f=rss)|
+|2023-10-17 05:48:53|[36氪](https://plink.anyfeeder.com/36kr)|[存储芯片板块异动拉升，万润科技涨停](https://36kr.com/newsflashes/2478075632425096?f=rss)|
+|2023-10-17 05:43:47|[36氪](https://plink.anyfeeder.com/36kr)|[Mi Terro已与立顿、联合利华、SPB签订合作协议，开发水溶性包装材料](https://36kr.com/newsflashes/2478070613989257?f=rss)|
+|2023-10-17 05:39:14|[36氪](https://plink.anyfeeder.com/36kr)|[威马董事长行踪成谜，知情人士称其确已不在国内](https://36kr.com/newsflashes/2478066152560521?f=rss)|
+|2023-10-17 05:29:48|[36氪](https://plink.anyfeeder.com/36kr)|[普利特：LCP薄膜产品和纤维产品正在核心下游客户验证测试中](https://36kr.com/newsflashes/2478056879429511?f=rss)|
+|2023-10-17 05:22:31|[36氪](https://plink.anyfeeder.com/36kr)|[三大利空压顶，大摩首席：标普500到年底或跌超10%](https://36kr.com/newsflashes/2478049710118789?f=rss)|
+|2023-10-17 05:10:42|[36氪](https://plink.anyfeeder.com/36kr)|[北交所总经理隋强：加快研究制定北交所直接IPO相关制度规则](https://36kr.com/newsflashes/2478038099875975?f=rss)|
+|2023-10-17 05:08:03|[36氪](https://plink.anyfeeder.com/36kr)|[华为鸿蒙概念股探底回升，测绘股份涨超10%](https://36kr.com/newsflashes/2478035492329603?f=rss)|
+|2023-10-17 05:01:09|[36氪](https://plink.anyfeeder.com/36kr)|[卫星导航概念股快速拉升，上海沪工直线封板](https://36kr.com/newsflashes/2478028712499072?f=rss)|
+|2023-10-17 04:58:28|[36氪](https://plink.anyfeeder.com/36kr)|[小度推出全球首款大模型家庭智能机器人](https://36kr.com/newsflashes/2478026076559239?f=rss)|
+|2023-10-17 04:56:37|[36氪](https://plink.anyfeeder.com/36kr)|[北京证监局：对中信建投证券采取出具警示函措施](https://36kr.com/newsflashes/2478024257656707?f=rss)|
+|2023-10-17 04:50:43|[36氪](https://plink.anyfeeder.com/36kr)|[百度网盘已完成AI重构，云一朵用户已达到2000万](https://36kr.com/newsflashes/2478018455787398?f=rss)|
+|2023-10-17 04:46:32|[36氪](https://plink.anyfeeder.com/36kr)|[台积电：正在申请在中国营运的无限期豁免](https://36kr.com/newsflashes/2478014336718729?f=rss)|
+|2023-10-17 04:43:12|[36氪](https://plink.anyfeeder.com/36kr)|[探迹SalesGPT发布业内首个销售大模型SaaS产品](https://36kr.com/newsflashes/2477999977863301?f=rss)|
+|2023-10-17 04:30:17|[36氪](https://plink.anyfeeder.com/36kr)|[我国首个多基线干涉合成孔径雷达全球测绘系统成功在轨应用](https://36kr.com/newsflashes/2477980798801795?f=rss)|
+|2023-10-17 04:25:50|[36氪](https://plink.anyfeeder.com/36kr)|[台积电：不再考虑进驻桃园龙潭区三期](https://36kr.com/newsflashes/2477976400107392?f=rss)|
+|2023-10-17 04:19:29|[36氪](https://plink.anyfeeder.com/36kr)|[淘宝问问累计体验人次已超500万，即将上线双11大促模式](https://36kr.com/newsflashes/2477987743979652?f=rss)|
+|2023-10-17 04:44:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2023 Oct.8 - Oct.14](http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20231014/)|
+|2023-10-17 04:03:42|[小众软件](https://plink.anyfeeder.com/appinn)|[零泉 – 免费素材管理工具，支持一键收集图片，视频，音频，3D文件等格式](https://www.appinn.com/lingquan/)|
+|2023-10-17 06:10:45|[机核](https://www.gcores.com/rss)|[《最终幻想7 重生》文森特·瓦伦丁配音演员已确定](https://www.gcores.com/articles/172432)|
+|2023-10-17 05:40:00|[机核](https://www.gcores.com/rss)|[《怪物猎人》的战斗核心体验分析](https://www.gcores.com/articles/171165)|
+|2023-10-17 05:12:37|[机核](https://www.gcores.com/rss)|[反向跳票！看《荒野枪巫》如何躲开迎面而来的子弹](https://www.gcores.com/articles/172430)|
+|2023-10-17 05:00:00|[机核](https://www.gcores.com/rss)|[BOOOM暴造 游玩反馈与开发心得征集](https://www.gcores.com/articles/172079)|
+|2023-10-17 04:57:42|[机核](https://www.gcores.com/rss)|[《装甲核心6》全球销量280万达成，已超系列18部销量总和](https://www.gcores.com/articles/172428)|
+|2023-10-17 03:45:06|[机核](https://www.gcores.com/rss)|[BOOOM作品《约会普拉斯》官方MV](https://www.gcores.com/videos/172413)|
+|2023-10-17 06:09:57|[虎嗅](https://rss.huxiu.com/)|[村集体经济怎样继续？](https://www.huxiu.com/article/2183334.html?f=rss)|
+|2023-10-17 06:04:31|[虎嗅](https://rss.huxiu.com/)|[文化中国寻根谈：从草鞋山人谈起](https://www.huxiu.com/article/2183377.html?f=rss)|
+|2023-10-17 05:43:03|[虎嗅](https://rss.huxiu.com/)|[我们往何处去](https://www.huxiu.com/article/2183865.html?f=rss)|
+|2023-10-17 05:35:10|[虎嗅](https://rss.huxiu.com/)|[杭州住房限购区仅剩主城4区，外地户籍家庭有社保记录即可购房](https://www.huxiu.com/article/2183850.html?f=rss)|
+|2023-10-17 05:24:09|[虎嗅](https://rss.huxiu.com/)|[以色列导游：我让旅客穿着鞋睡觉，警报拉响立马就跑](https://www.huxiu.com/article/2182851.html?f=rss)|
+|2023-10-17 05:24:00|[虎嗅](https://rss.huxiu.com/)|[工业机器人，找到“重复”之外的痛点](https://www.huxiu.com/article/2183374.html?f=rss)|
+|2023-10-17 05:14:01|[虎嗅](https://rss.huxiu.com/)|[新冠之后的辉瑞：华尔街不相信“钞”能力](https://www.huxiu.com/article/2183357.html?f=rss)|
+|2023-10-17 05:09:22|[虎嗅](https://rss.huxiu.com/)|[明明有月薪翻倍的工作，你为什么不跳槽？](https://www.huxiu.com/article/2183795.html?f=rss)|
+|2023-10-17 05:00:01|[虎嗅](https://rss.huxiu.com/)|[现代人为什么越来越空心化？](https://www.huxiu.com/article/2181021.html?f=rss)|
+|2023-10-17 04:48:01|[虎嗅](https://rss.huxiu.com/)|[为了成为“英伟达平替”，大模型厂商开卷了](https://www.huxiu.com/article/2183793.html?f=rss)|
+|2023-10-17 04:44:00|[虎嗅](https://rss.huxiu.com/)|[为什么飞机上电影片单越来越少了？](https://www.huxiu.com/article/2183303.html?f=rss)|
+|2023-10-17 04:36:00|[虎嗅](https://rss.huxiu.com/)|[“募资，成了年终考核的加分项”](https://www.huxiu.com/article/2183312.html?f=rss)|
+|2023-10-17 04:34:17|[虎嗅](https://rss.huxiu.com/)|[日入5000都亏钱，开在县城的零食店，到底谁赚了？](https://www.huxiu.com/article/2183308.html?f=rss)|
+|2023-10-17 04:30:00|[虎嗅](https://rss.huxiu.com/)|[为什么我们总想让别人改变自己？](https://www.huxiu.com/article/2172020.html?f=rss)|
+|2023-10-17 04:04:23|[华山感染](https://feedpress.me/wx-hsinfect)|[CNS感染 读懂脑脊液化验单，主要看这些“指标”](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247500276&idx=1&sn=11ab1636ff868ec17ba5d41571febac8)|
+|2023-10-17 02:33:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Ubuntu20.04.5 没有配置清华源， update 什么是清华源？](https://www.v2ex.com/t/982665#reply15)|
+|2023-10-17 06:14:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[selenium chrome 爬网站出现 412 问题](https://www.v2ex.com/t/982750#reply0)|
+|2023-10-17 02:31:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有消息称小米即将“限制”解锁 bootloader](https://www.v2ex.com/t/982663#reply26)|
+|2023-10-17 03:23:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有些开发人员为什么执着要系统最大权限？](https://www.v2ex.com/t/982696#reply50)|
+|2023-10-17 03:40:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[职业方向迷茫，求建议](https://www.v2ex.com/t/982701#reply7)|
+|2023-10-17 05:55:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[golang 是单进程的吗?](https://www.v2ex.com/t/982738#reply5)|
+|2023-10-17 01:37:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[尊嘟假嘟， uniappx 将编译为原生语言](https://www.v2ex.com/t/982640#reply40)|
+|2023-10-17 05:10:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[django apscheduler 在哪里定义才能执行啊](https://www.v2ex.com/t/982729#reply2)|
+|2023-10-17 04:56:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[在 google play 上架了一款 app，用户订单有大量的异常，最常见的是付款待处理和付款遭拒，请问这个是哪里的问题？](https://www.v2ex.com/t/982723#reply3)|
 |2023-10-17 04:16:57|[Stories by Xiuer Old...](https://xiuer.medium.com/feed)|[9 Bad React Habits to Avoid in Your Daily Work](https://javascript.plainenglish.io/9-bad-react-habits-to-avoid-in-your-daily-work-9475cf95e500?source=rss-c3917681a8f5------2)|
 |2023-10-17 04:42:56|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[日入5000都亏钱，开在县城的零食店，到底谁赚了？](https://www.tmtpost.com/6746136.html)|
 |2023-10-17 04:13:01|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[多家“亿元酒店”摆上货架，为何一万元也无人接盘？](https://www.tmtpost.com/6745966.html)|
