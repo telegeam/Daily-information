@@ -2,6 +2,93 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-17 04:16:57|[Stories by Xiuer Old...](https://xiuer.medium.com/feed)|[9 Bad React Habits to Avoid in Your Daily Work](https://javascript.plainenglish.io/9-bad-react-habits-to-avoid-in-your-daily-work-9475cf95e500?source=rss-c3917681a8f5------2)|
+|2023-10-17 04:42:56|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[日入5000都亏钱，开在县城的零食店，到底谁赚了？](https://www.tmtpost.com/6746136.html)|
+|2023-10-17 04:13:01|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[多家“亿元酒店”摆上货架，为何一万元也无人接盘？](https://www.tmtpost.com/6745966.html)|
+|2023-10-17 03:57:11|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[Ten Chinese State-Owned Firms Join in Buyback Spree the same Day](https://www.tmtpost.com/6746273.html)|
+|2023-10-17 03:07:20|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[一场7500万，“边扔边带货”能火几天？](https://www.tmtpost.com/6746046.html)|
+|2023-10-17 03:05:55|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[剑指日均4000万单，滴滴急什么？](https://www.tmtpost.com/6745956.html)|
+|2023-10-17 05:10:22|[V2EX](https://www.v2ex.com/index.xml)|[ Python django apscheduler 在哪里定义才能执行啊](https://www.v2ex.com/t/982729#reply0)|
+|2023-10-17 05:07:50|[V2EX](https://www.v2ex.com/index.xml)|[ Android 不善社交的管理方式](https://www.v2ex.com/t/982727#reply1)|
+|2023-10-17 05:07:30|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 CTMO CTM CUHK CMCCHK celcom iphone13 series 55.0 ipcc profile file download ipcc 文件下载](https://www.v2ex.com/t/982726#reply0)|
+|2023-10-17 05:04:58|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 决赛圈了， 2023 款领克 01 型 Pro vs 2021 款星越 L 智尊型](https://www.v2ex.com/t/982725#reply0)|
+|2023-10-17 05:04:31|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 京东 plus 会员百万医疗险（免健康告知）靠谱吗？](https://www.v2ex.com/t/982724#reply0)|
+|2023-10-17 04:56:55|[V2EX](https://www.v2ex.com/index.xml)|[ Android 在 google play 上架了一款 app，用户订单有大量的异常，最常见的是付款待处理和付款遭拒，请问这个是哪里的问题？](https://www.v2ex.com/t/982723#reply0)|
+|2023-10-17 04:52:47|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 手持 12 promax,15.1.1, 有必要换代到 15promax 吗，还是等明年的 16](https://www.v2ex.com/t/982722#reply0)|
+|2023-10-17 04:44:38|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 网易免费企业邮箱使用，笑死我了](https://www.v2ex.com/t/982721#reply2)|
+|2023-10-17 04:43:17|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 坐标东京 需要日语！ c 语言系列岗位日 公司：株式会社 日立 需要管理经验](https://www.v2ex.com/t/982720#reply0)|
+|2023-10-17 04:39:09|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 13PM 换到 15PM，史上最无感的一次升级](https://www.v2ex.com/t/982719#reply5)|
+|2023-10-17 04:36:16|[V2EX](https://www.v2ex.com/index.xml)|[ 区块链 ETHMeta 的价值所在（八年深耕，一朝盛放）](https://www.v2ex.com/t/982718#reply0)|
+|2023-10-17 04:30:24|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud Apple one 美区 iCloud 共享疑问](https://www.v2ex.com/t/982717#reply0)|
+|2023-10-17 04:24:57|[V2EX](https://www.v2ex.com/index.xml)|[ macOS macOS 上的 Edge 确实是屎](https://www.v2ex.com/t/982716#reply5)|
+|2023-10-17 04:04:15|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 接前后端外包。时间充足，经验丰富](https://www.v2ex.com/t/982712#reply0)|
+|2023-10-17 04:03:07|[V2EX](https://www.v2ex.com/index.xml)|[ Google 美版有锁 Pixel7 现在有什么方法解除网络锁，使用国内卡？](https://www.v2ex.com/t/982711#reply0)|
+|2023-10-17 04:02:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 手贱删除 gv 号了](https://www.v2ex.com/t/982710#reply0)|
+|2023-10-17 03:56:21|[V2EX](https://www.v2ex.com/index.xml)|[ 生活方式 ADHD 注意力缺陷多动障碍怎么办](https://www.v2ex.com/t/982709#reply6)|
+|2023-10-17 03:55:45|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 开车直播当马路判官，有没有搞头](https://www.v2ex.com/t/982708#reply9)|
+|2023-10-17 03:53:25|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 上市公司招聘运维总监和研发总监，总包 100-150w , 有股票。 要能动手写代码和设计架构，不是纯管理。 汇报对象 CTO](https://www.v2ex.com/t/982707#reply4)|
+|2023-10-17 03:44:49|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 对一些知名或以低延时为目标的 C/C++ 日志库做的 Benchmark](https://www.v2ex.com/t/982706#reply2)|
+|2023-10-17 03:44:02|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 买到高位的房子你们怎么心里平衡的？](https://www.v2ex.com/t/982705#reply45)|
+|2023-10-17 03:43:14|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 win11 文件管理器上面的标签为什么不置顶？](https://www.v2ex.com/t/982704#reply1)|
+|2023-10-17 03:40:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 每当和政府机构打一次交道，我都会问自己：为什么这样的政府会存在呢？](https://www.v2ex.com/t/982702#reply1)|
+|2023-10-17 03:40:05|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 职业方向迷茫，求建议](https://www.v2ex.com/t/982701#reply4)|
+|2023-10-17 03:37:44|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 上海移动机顶盒问题](https://www.v2ex.com/t/982700#reply0)|
+|2023-10-17 03:37:04|[V2EX](https://www.v2ex.com/index.xml)|[ Apple IOS17 上面有没有免费好用的 LiDar 相关 APP](https://www.v2ex.com/t/982699#reply4)|
+|2023-10-17 03:33:16|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 可能是全网最准的在线统计测算 OpenAI Token 工具了](https://www.v2ex.com/t/982698#reply0)|
+|2023-10-17 03:24:36|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt ikuai+openwrt，如何使用 passwall 的 ipv6 透明代理](https://www.v2ex.com/t/982697#reply4)|
+|2023-10-17 03:23:59|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有些开发人员为什么执着要系统最大权限？](https://www.v2ex.com/t/982696#reply37)|
+|2023-10-17 03:23:08|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 脱毛仪有用吗？是智商税产品吗？想知道各位老哥会不会因为肚子上或者胸上长毛烦恼](https://www.v2ex.com/t/982695#reply11)|
+|2023-10-17 03:21:29|[V2EX](https://www.v2ex.com/index.xml)|[ NAS Frp 内网穿透后，怎么通过同一域名+SSL+不同端口来访问？](https://www.v2ex.com/t/982693#reply15)|
+|2023-10-17 03:20:49|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 各位大佬们问下数据集的授权方案](https://www.v2ex.com/t/982692#reply0)|
+|2023-10-17 03:13:09|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 在职考公的你们，下班后都是怎么学习的？](https://www.v2ex.com/t/982688#reply3)|
+|2023-10-17 03:11:18|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 怎么管理好程序员？简单不想写，难的几个月写不出来](https://www.v2ex.com/t/982687#reply12)|
+|2023-10-17 03:07:00|[V2EX](https://www.v2ex.com/index.xml)|[ Bitcoin sec 批准贝莱德 etf 的假消息](https://www.v2ex.com/t/982686#reply0)|
+|2023-10-17 03:04:27|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 关于 Apple epp](https://www.v2ex.com/t/982684#reply0)|
+|2023-10-17 03:00:52|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 卧式吸尘器 真的“逆天”](https://www.v2ex.com/t/982683#reply22)|
+|2023-10-17 02:59:28|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 让人吐血的经典翻译： LLM ==> 法学博士, YouTube ==> 优酷](https://www.v2ex.com/t/982681#reply9)|
+|2023-10-17 02:58:25|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 关于 MySQL 行格式的问题 《MySQL 是怎样运行的：从根上理解 MySQL》 ](https://www.v2ex.com/t/982680#reply4)|
+|2023-10-17 02:57:28|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 对一些知名的或以低延时为目标的 C/C++ 日志库做的 Benchmark](https://www.v2ex.com/t/982679#reply2)|
+|2023-10-17 02:57:08|[V2EX](https://www.v2ex.com/index.xml)|[ 小米 小米全新的操作系统，小米澎湃 OS（Xiaomi HyperOS）](https://www.v2ex.com/t/982678#reply1)|
+|2023-10-17 02:53:34|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 国外是不是倾向于小项目的重复逻辑交由 DB 层去处理](https://www.v2ex.com/t/982677#reply6)|
+|2023-10-17 02:47:18|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro m1 macbook pro 日版能通过软件映射 成英文布局的功能吗？](https://www.v2ex.com/t/982676#reply4)|
+|2023-10-17 02:46:38|[V2EX](https://www.v2ex.com/index.xml)|[ 北京 一线城市搞代扔垃圾？](https://www.v2ex.com/t/982675#reply14)|
+|2023-10-17 02:46:37|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 mdui2.0 发布了。使用 Web Components 实现 Material You 设计规范的前端组件库](https://www.v2ex.com/t/982674#reply3)|
+|2023-10-17 02:44:31|[V2EX](https://www.v2ex.com/index.xml)|[ 小米 有人讨论一下小米刚刚官宣的澎湃 OS 么？](https://www.v2ex.com/t/982673#reply37)|
+|2023-10-17 02:43:08|[V2EX](https://www.v2ex.com/index.xml)|[  WATCH 升级 watchOS10 之后， ultra 感觉屏幕变小了](https://www.v2ex.com/t/982671#reply1)|
+|2023-10-17 02:36:15|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 近期想买车，纯电，小鹏 G3i 460N+还是零跑 C11 500 智享](https://www.v2ex.com/t/982670#reply14)|
+|2023-10-17 02:36:11|[V2EX](https://www.v2ex.com/index.xml)|[ 重庆 重庆买房板块或者小区求推荐](https://www.v2ex.com/t/982669#reply8)|
+|2023-10-17 02:33:58|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 广州 内推阿里国际 LAZADA 买家端前端（要求本科，工作经验 3 年以上）](https://www.v2ex.com/t/982668#reply0)|
+|2023-10-17 03:37:02|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[雷军晒出疑似小米14真机 首发澎湃OS](https://m.cnbeta.com.tw/view/1390453.htm)|
+|2023-10-17 03:36:50|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[台积电日本第二座工厂计划采用6nm制程工艺 总投资2万亿日元](https://m.cnbeta.com.tw/view/1390449.htm)|
+|2023-10-17 03:36:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[英国特斯拉车主雨天停车电池损坏 被告知要花2.1万美元修理费](https://m.cnbeta.com.tw/view/1390445.htm)|
+|2023-10-17 03:36:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[MIUI再见！小米宣布启用全新操作系统澎湃OS](https://m.cnbeta.com.tw/view/1390439.htm)|
+|2023-10-17 03:36:10|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[自哈马斯发动袭击以来 其Telegram社交平台粉丝数量激增](https://m.cnbeta.com.tw/view/1390437.htm)|
+|2023-10-17 03:35:53|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[铃木展示可爬楼梯的奇异四脚担架摩托](https://m.cnbeta.com.tw/view/1390431.htm)|
+|2023-10-17 03:35:42|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Infinite Machine推出棱角分明的模块化单底盘电摩P1 展现赛博风格](https://m.cnbeta.com.tw/view/1390429.htm)|
+|2023-10-17 03:35:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[诺斯罗普-格鲁曼UBCS指挥中心成功在模拟攻击中保卫华盛顿特区](https://m.cnbeta.com.tw/view/1390425.htm)|
+|2023-10-17 03:06:56|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[全新一代奔驰E级长轴版发布 11项中国专属后排豪华增配](https://m.cnbeta.com.tw/view/1390421.htm)|
+|2023-10-17 03:06:43|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[可以合法上路的赛车 领克03++TCR版曝光：后排座椅换成防滚架](https://m.cnbeta.com.tw/view/1390419.htm)|
+|2023-10-17 03:06:29|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[理想旗舰纯电MPV实车首曝 这种设计着实罕见](https://m.cnbeta.com.tw/view/1390417.htm)|
+|2023-10-17 03:06:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[同比下滑8% 全球智能手机市场创下十年来最差](https://m.cnbeta.com.tw/view/1390415.htm)|
+|2023-10-17 03:06:01|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[雷军：全新操作系统澎湃OS已完成封包 小米14系列首发搭载](https://m.cnbeta.com.tw/view/1390409.htm)|
+|2023-10-17 03:05:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[汽车业大罢工愈演愈烈 已致近80亿美元损失](https://m.cnbeta.com.tw/view/1390407.htm)|
+|2023-10-17 03:05:36|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[李想曝光MPV车型理想MEGA外观](https://m.cnbeta.com.tw/view/1390405.htm)|
+|2023-10-17 03:05:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[微软旗下领英宣布裁员近700人 大多数为工程部门员工](https://m.cnbeta.com.tw/view/1390395.htm)|
+|2023-10-17 02:36:51|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[华裔工程师妹子吐槽马斯克被监测到 5天后12年工龄的她被炒了](https://m.cnbeta.com.tw/view/1390393.htm)|
+|2023-10-17 02:36:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[光线还能转弯？华为做出了能变道的车灯](https://m.cnbeta.com.tw/view/1390391.htm)|
+|2023-10-17 02:36:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[侵门踏户，拜登加入特朗普社交媒体：欢迎弃暗投明](https://m.cnbeta.com.tw/view/1390389.htm)|
+|2023-10-17 02:36:13|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[欧盟反补贴，为什么法国人最爽？](https://m.cnbeta.com.tw/view/1390387.htm)|
+|2023-10-17 02:36:01|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[消息称罗尔斯-罗伊斯拟裁员至多2500人](https://m.cnbeta.com.tw/view/1390385.htm)|
+|2023-10-17 02:35:49|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[福特董事长恳求员工结束罢工：特斯拉正在看我们的笑话](https://m.cnbeta.com.tw/view/1390383.htm)|
+|2023-10-17 02:35:32|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[贝佐斯重夺全球第二大富豪宝座 LV老板跌至第三](https://m.cnbeta.com.tw/view/1390381.htm)|
+|2023-10-17 02:35:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[贝莱德现货ETF获批“闹乌龙” 比特币涨超10%后回吐大部分涨幅](https://m.cnbeta.com.tw/view/1390379.htm)|
+|2023-10-17 02:06:01|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[欧洲工商管理学院教授：中国电动车能否走出“丰田之路”](https://m.cnbeta.com.tw/view/1390377.htm)|
+|2023-10-17 00:01:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【当城中村的孩子上台说话】从2018年至今的每年夏天，深圳牛始埔城中村的孩子们会定期参与一场戏剧演出。舞台上，他们将自己的经历演出来：在深圳和家乡之间不停流动，因为积分不够没法上学，终于和父母在一起却又成了另一种意义上的留守儿童。](https://dig.chouti.com/link/40311131)|
+|2023-10-17 03:03:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【巴勒斯坦人自研的“战狼”游戏，在危险边缘游走】《阿克萨清真寺的骑士》是由现居巴西的巴勒斯坦人尼达尔•尼姆（Nidal Nijm）独自开发的射击游戏。](https://dig.chouti.com/link/40312791)|
+|2023-10-17 03:18:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【酸枣仁暴涨至千元，谁在炒作】这两年中药材行情大涨有一个共同原因，就是社会游资的大量进入。](https://dig.chouti.com/link/40313049)|
+|2023-10-17 01:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[为减少经济对华依赖 德国政府重组投资担保](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20231017-%E4%B8%BA%E5%87%8F%E5%B0%91%E7%BB%8F%E6%B5%8E%E5%AF%B9%E5%8D%8E%E4%BE%9D%E8%B5%96-%E5%BE%B7%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%87%8D%E7%BB%84%E6%8A%95%E8%B5%84%E6%8B%85%E4%BF%9D)|
+|2023-10-17 00:45:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[冯德莱恩以色列行在欧盟内部引发的一场风暴 - 要闻分析](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20231017-%E5%86%AF%E5%BE%B7%E8%8E%B1%E6%81%A9%E4%BB%A5%E8%89%B2%E5%88%97%E8%A1%8C%E5%9C%A8%E6%AC%A7%E7%9B%9F%E5%86%85%E9%83%A8%E5%BC%95%E5%8F%91%E7%9A%84%E4%B8%80%E5%9C%BA%E9%A3%8E%E6%9A%B4)|
+|2023-10-17 00:15:02|[法广](https://plink.anyfeeder.com/rfi/cn)|[一带一路哥俩好 普京高抬习近平](https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20231017-%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%93%A5%E4%BF%A9%E5%A5%BD-%E6%99%AE%E4%BA%AC%E9%AB%98%E6%8A%AC%E4%B9%A0%E8%BF%91%E5%B9%B3)|
 |2023-10-17 00:09:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据英国《每日邮报》15日报道，英国广播公司BBC著名野生动物摄影师哈姆扎·亚辛承认，他拍摄的一些野生动物故事是伪造的，只为激发观众的同情。](https://dig.chouti.com/link/40311441)|
 |2023-10-17 01:08:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【印度空间研究组织主席：月船3号技术令人震惊，NASA想买】在听取完“月船3号”的设计、制造以及如何落月的情况后，NASA科学家们对印度“以如此低的成本开发出先进技术”感到“惊讶”。“看看这些科学仪器，它们这么好看又非常便宜，容易制造，而且技术含量很高。你们是如何制造的？为什么不把这个卖给美国呢？”](https://dig.chouti.com/link/40311609)|
 |2023-10-17 01:35:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我们可能奶活了一个即将灭绝的物种](https://dig.chouti.com/link/40311773)|
