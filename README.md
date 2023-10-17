@@ -2,6 +2,54 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-17 07:24:44|[小众软件](https://www.appinn.com/feed/)|[Speechless 微博备份 – 批量打包微博内容为 PDF 文档，支持保存图片 Chrome ](https://www.appinn.com/speechless-weibo-backups/)|
+|2023-10-17 08:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[以哈战争如何导致世界权力平衡向中俄倾斜？](https://cn.wsj.com/articles/%E4%BB%A5%E5%93%88%E6%88%98%E4%BA%89%E5%A6%82%E4%BD%95%E5%AF%BC%E8%87%B4%E4%B8%96%E7%95%8C%E6%9D%83%E5%8A%9B%E5%B9%B3%E8%A1%A1%E5%90%91%E4%B8%AD%E4%BF%84%E5%80%BE%E6%96%9C-eb2af4f9)|
+|2023-10-17 09:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[不顾美国压力，中国欢迎普京访华](https://cn.wsj.com/articles/%E4%B8%8D%E9%A1%BE%E7%BE%8E%E5%9B%BD%E5%8E%8B%E5%8A%9B-%E4%B8%AD%E5%9B%BD%E6%AC%A2%E8%BF%8E%E6%99%AE%E4%BA%AC%E8%AE%BF%E5%8D%8E-a44e2d31)|
+|2023-10-17 09:16:13|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[思维世纪荣获“2023年网络安企优秀创新成果大赛一数据安全和个人信息保护专题赛”优胜奖](https://www.4hou.com/posts/rql6)|
+|2023-10-17 08:35:28|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[雾帜智能发布编排自动化产品社区免费版](https://www.4hou.com/posts/qpkr)|
+|2023-10-17 06:56:59|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[EDLP：全面保护邮件数据防泄露，确保企业数据安全！](https://www.4hou.com/posts/poj6)|
+|2023-10-17 07:13:32|[极客公园](https://plink.anyfeeder.com/geekpark)|[李彦宏：百度文心大模型 4.0，直接对标 GPT-4](http://www.geekpark.net/news/326049)|
+|2023-10-17 09:07:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[普京访华参加“一带一路”论坛，中俄寻求加强伙伴关系](https://cn.nytimes.com/world/20231017/putin-china-xi/)|
+|2023-10-17 09:53:23|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[原募资金额缩减，募投项目毛利率下滑，中贝通信发行5.17亿可转债](https://www.tmtpost.com/6746963.html)|
+|2023-10-17 09:15:14|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[小米集团-W股价创8个月新高，全新操作系统“小米澎湃OS”将启用](https://www.tmtpost.com/6746927.html)|
+|2023-10-17 09:13:26|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[【医疗健康周报】第41周：“互联网+”医药商业科技平台“上药云健康”完成5亿元人民币C轮融资；医疗保健组织“Main Street Health”获得3.15亿美元资金](https://www.tmtpost.com/6744968.html)|
+|2023-10-17 09:11:52|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[极兔上市之路：步步高系背景、拼多多式崛起](https://www.tmtpost.com/6747166.html)|
+|2023-10-17 09:11:21|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[温州银行，明日之后](https://www.tmtpost.com/6747088.html)|
+|2023-10-17 09:11:10|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[没有欧洲，中国车企出海就是一句空话](https://www.tmtpost.com/6747145.html)|
+|2023-10-17 09:03:27|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[一位山东商业领袖准备退休](https://www.tmtpost.com/6747061.html)|
+|2023-10-17 08:54:45|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[电动自行车“花哨”背后，每年5000亿还能再涨？](https://www.tmtpost.com/6747035.html)|
+|2023-10-17 08:51:29|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[国综平淡，韩综也遇冷？](https://www.tmtpost.com/6746810.html)|
+|2023-10-17 08:50:16|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[盗版图书，拼多多的“毒刺”？](https://www.tmtpost.com/6747049.html)|
+|2023-10-17 08:33:37|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[安踏瞄准爱穿瑜伽裤的年轻人](https://www.tmtpost.com/6746732.html)|
+|2023-10-17 08:32:09|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[City ride火出圈背后：共享电单车助推旅游“加速跑”](https://www.tmtpost.com/6746727.html)|
+|2023-10-17 08:31:13|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[安踏收购MAIA，新品牌如何抓住产业并购潮](https://www.tmtpost.com/6746690.html)|
+|2023-10-17 10:12:05|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 baidu 搜索支持 ipv6 了](https://www.v2ex.com/t/982862#reply0)|
+|2023-10-17 10:10:23|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 奇怪问题， Acer 某型号笔记本仅支持某些特定 SATA-SSD](https://www.v2ex.com/t/982861#reply0)|
+|2023-10-17 10:07:02|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有无 iPhone 12 Pro Max 推荐的手机壳？](https://www.v2ex.com/t/982860#reply0)|
+|2023-10-17 10:04:00|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 大家可以帮忙优化下我的简历吗 PHP 的](https://www.v2ex.com/t/982859#reply0)|
+|2023-10-17 10:03:56|[V2EX](http://www.v2ex.com/index.xml)|[ iCloud 国区 iCloud 2T ➕ apple music➕ infuse pro ， 5 人车，招 1 人](https://www.v2ex.com/t/982858#reply0)|
+|2023-10-17 09:58:06|[V2EX](http://www.v2ex.com/index.xml)|[ 全球工单系统 现在备案这么无聊了吗，意义何在？](https://www.v2ex.com/t/982857#reply2)|
+|2023-10-17 09:56:55|[V2EX](http://www.v2ex.com/index.xml)|[ 深圳 深圳周末租 5 座 suv 出去玩两天，一般要多少钱啊？](https://www.v2ex.com/t/982856#reply0)|
+|2023-10-17 09:52:21|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 日本的大学学部的真实价格](https://www.v2ex.com/t/982855#reply0)|
+|2023-10-17 09:49:18|[V2EX](http://www.v2ex.com/index.xml)|[ Android 有没有 Native 大佬求教](https://www.v2ex.com/t/982854#reply0)|
+|2023-10-17 09:48:54|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 为什么国内运营商没 iPhone 的语音信箱留言？在美国的时候所有套餐无限通话短信对方有事没接就语音留言等待回拨，或者发个短信感觉挺方便的](https://www.v2ex.com/t/982853#reply11)|
+|2023-10-17 09:41:52|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 发现 iphone15 pro 17.0.3 版本的一个发烫 Bug](https://www.v2ex.com/t/982851#reply2)|
+|2023-10-17 09:29:15|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 如果要去 US 长期出差 6 个月，需要注意哪些问题...](https://www.v2ex.com/t/982850#reply7)|
+|2023-10-17 09:28:59|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 为什么苹果的微信 callkit 不可用，安卓端就可以像普通电话那样提示微信电话？](https://www.v2ex.com/t/982849#reply13)|
+|2023-10-17 09:28:32|[V2EX](http://www.v2ex.com/index.xml)|[ macOS MacOS Sonoma 经常出现 AssetCache 长时间占用大量 CPU 和跑满网络带宽的情况](https://www.v2ex.com/t/982848#reply0)|
+|2023-10-17 09:26:20|[V2EX](http://www.v2ex.com/index.xml)|[ C++ 指针和 const 结合使用的一个问题](https://www.v2ex.com/t/982847#reply1)|
+|2023-10-17 09:21:38|[V2EX](http://www.v2ex.com/index.xml)|[ HomeKit 请问 home assistant 局域网连接设备](https://www.v2ex.com/t/982846#reply6)|
+|2023-10-17 09:21:30|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Google voice 更换号码回收方式了？](https://www.v2ex.com/t/982845#reply1)|
+|2023-10-17 09:19:08|[V2EX](http://www.v2ex.com/index.xml)|[ 装修 请教下懂电路的老哥，一开双控、一开多控和多控都有啥区别？](https://www.v2ex.com/t/982844#reply2)|
+|2023-10-17 09:18:53|[V2EX](http://www.v2ex.com/index.xml)|[ 健康 刚才去重医附二院预约了种牙](https://www.v2ex.com/t/982843#reply0)|
+|2023-10-17 09:18:52|[V2EX](http://www.v2ex.com/index.xml)|[ Kubernetes 求一份 k8s 运维工程师的日常工作的简历](https://www.v2ex.com/t/982842#reply11)|
+|2023-10-17 09:15:04|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 想折腾下全屋 2.5g，探讨一下低成本方案](https://www.v2ex.com/t/982841#reply0)|
+|2023-10-17 09:13:20|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 V2 上关于 dae（大鹅）（ebpf）的讨论还是比较少啊，完美的旁路科学方案了吧？](https://www.v2ex.com/t/982840#reply9)|
+|2023-10-17 09:54:04|[机核](https://www.gcores.com/rss)|[《暗黑破坏神4》公布第二赛季「鲜血赛季」玩法宣传片](https://www.gcores.com/articles/172465)|
+|2023-10-17 09:13:10|[机核](https://www.gcores.com/rss)|[索尼INZONE首款真无线降噪电竞耳机INZONE Buds上市](https://www.gcores.com/articles/172463)|
+|2023-10-17 09:56:30|[虎嗅](https://rss.huxiu.com/)|[文化在行走中成长壮大](https://www.huxiu.com/article/2184971.html?f=rss)|
+|2023-10-17 09:38:56|[虎嗅](https://rss.huxiu.com/)|[一文读懂“印度月球探测任务”](https://www.huxiu.com/article/2184951.html?f=rss)|
+|2023-10-17 09:27:59|[虎嗅](https://rss.huxiu.com/)|[谁敢接盘上海宝格丽酒店？](https://www.huxiu.com/article/2184961.html?f=rss)|
 |2023-10-17 08:11:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[老哥们，问一个 go 在 Linux 把自生加入开机自启的问题](https://www.v2ex.com/t/982815#reply13)|
 |2023-10-17 02:31:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有消息称小米即将“限制”解锁 bootloader](https://www.v2ex.com/t/982663#reply38)|
 |2023-10-17 06:30:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[周爱民：告前端同学书](https://www.v2ex.com/t/982763#reply23)|
