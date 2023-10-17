@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-17 04:11:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[哈马斯首次公布人质视频 ，为21岁法以双重国籍女孩](https://dig.chouti.com/link/40313577)|
+|2023-10-17 05:09:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大学生永远不缺梗](https://dig.chouti.com/link/40314097)|
+|2023-10-17 04:53:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国是如何对付恶狗和狗主的？](https://dig.chouti.com/link/40313749)|
+|2023-10-17 05:37:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[美国是如何在台湾问题上“火上浇油”的](https://cn.nytimes.com/opinion/20231017/china-us-taiwan-war/)|
+|2023-10-17 01:08:11|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：腾讯待办将停运，淘宝回应微信扫码支付等](https://sspai.com/post/83640)|
+|2023-10-17 02:38:36|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 在 Arch Linux 上安装 Brave](https://linux.cn/article-16291-1.html?utm_source=rss&utm_medium=rss)|
 |2023-10-17 05:07:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[成败皆由它：中国经济为押注房地产付出代价](https://cn.nytimes.com/business/20231017/china-evergrande-country-garden/)|
 |2023-10-17 04:37:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[华为如何在希腊进行游说活动：向政府官员送礼](https://cn.nytimes.com/technology/20231017/huawei-greece-lobbying-campaign/)|
 |2023-10-17 04:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[田径场上的坚守与激情](https://www.photoworld.com.cn/post/174952)|
