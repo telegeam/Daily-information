@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-18 12:35:58|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Android版酷我音乐 v10.6.2破解豪华VIP版](https://masuit.com/1763)|
+|2023-10-18 03:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[老板们遇到个麻烦：员工请病假天数激增](https://cn.wsj.com/amp/articles/%E8%80%81%E6%9D%BF%E4%BB%AC%E9%81%87%E5%88%B0%E4%B8%AA%E9%BA%BB%E7%83%A6-%E5%91%98%E5%B7%A5%E8%AF%B7%E7%97%85%E5%81%87%E5%A4%A9%E6%95%B0%E6%BF%80%E5%A2%9E-c462268a)|
+|2023-10-18 04:30:00|[机核](https://www.gcores.com/rss)|[EP.7 聊聊为什么要做电台](https://www.gcores.com/videos/172500)|
+|2023-10-18 03:29:38|[机核](https://www.gcores.com/rss)|[《光环：无限》第 5 赛季《清算》（Reckoning）现已上线，暗影鎏金特别版无线控制器现已发售](https://www.gcores.com/articles/172519)|
+|2023-10-18 03:14:08|[机核](https://www.gcores.com/rss)|[《蜡笔小新：新次元！超能力大决战》官宣定档 11 月 25 日](https://www.gcores.com/articles/172518)|
+|2023-10-18 01:27:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【谷村新司丨再会吧，昴！】四十余年间，谷村新司到亚洲各国演出、走访，常听到当地人唱起《昴》，不分男女，无论老幼。对方甚至觉得这是自己国家的歌，他曾被问：“你知道这首歌吗？”](https://dig.chouti.com/link/40322996)|
+|2023-10-18 02:01:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[起底许家印家族境外资产：离岸公司、全球豪宅与首富命运浮沉](https://dig.chouti.com/link/40323137)|
+|2023-10-18 02:24:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[全球首颗忆阻器芯片，清华团队突破了什么？](https://dig.chouti.com/link/40323674)|
+|2023-10-18 03:07:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【看台上的“孤勇者”，8年后带队夺冠了】曾是看台唯一的球迷，如今带队夺冠的主席。从互相拖累，到相互成就。](https://dig.chouti.com/link/40324301)|
+|2023-10-18 02:10:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[神之转身！乌拉圭vs巴西，第76分钟，努涅斯助攻德拉克鲁斯破门](https://dig.chouti.com/link/40323539)|
+|2023-10-18 03:03:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国家统计局：三季度GDP同比增长4.9%，环比增长1.3%，四季度如能增长4.4%以上，即可完成全年5%左右预期目标](https://dig.chouti.com/link/40324161)|
 |2023-10-18 03:06:14|[机核](https://plink.anyfeeder.com/gcores)|[《使命召唤》不搞独占，Phil Spencer谈动视暴雪与King加入Xbox大家庭](https://www.gcores.com/articles/172510)|
 |2023-10-18 02:33:11|[机核](https://plink.anyfeeder.com/gcores)|[多人合作冒险《舍伍德侠盗团》放出游戏概览预告片](https://www.gcores.com/articles/172506)|
 |2023-10-18 01:50:40|[机核](https://plink.anyfeeder.com/gcores)|[XGP十月下旬新增游戏阵容揭晓，新增《城市 天际线2》、《死亡空间》等7款](https://www.gcores.com/articles/172503)|
