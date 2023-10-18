@@ -2,6 +2,26 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-18 02:47:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[桌面应用 在 GNOME 中添加最小化和最大化按钮](https://linux.cn/article-16295-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-18 03:00:00|[少数派](https://plink.anyfeeder.com/sspai)|[跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3](https://sspai.com/post/83657)|
+|2023-10-18 05:16:02|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[大厂洗牌：从BAT到TTMAP](https://www.tmtpost.com/6747744.html)|
+|2023-10-18 05:15:31|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[投资视角下的“贝壳”家居家装：成长性有余，确定性不足](https://www.tmtpost.com/6747999.html)|
+|2023-10-18 05:09:52|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[TCL中环沙特阿拉伯光伏项目续写新章，目标产能预计20GW](https://www.tmtpost.com/6748329.html)|
+|2023-10-18 05:07:03|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[猛开店、普降价，盒马不过日子了？](https://www.tmtpost.com/6748170.html)|
+|2023-10-18 05:04:56|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[70后夫妇网上卖蚊香卖出一家上市公司，市值近90亿元](https://www.tmtpost.com/6748258.html)|
+|2023-10-18 05:04:49|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[门业新时代来临，霍曼门业“德国技术结合中国元素”能否继续引领高端市场？](https://www.tmtpost.com/6745268.html)|
+|2023-10-18 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[和同事说完面试的事，第二天就被辞退了...](https://36kr.com/p/2478033689467012)|
+|2023-10-18 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[最前线 「小米澎湃OS」诞生，打造「人车家全生态」操作系统](https://36kr.com/p/2477992335234953)|
+|2023-10-18 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[陆正耀模式接班人，两个河南狠人](https://36kr.com/p/2478501736734598)|
+|2023-10-18 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[淘宝B站抱团，双十一流量大战打响](https://36kr.com/p/2478367039479687)|
+|2023-10-18 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[MIUI 时代落幕，雷军官宣：全新「小米澎湃OS」来了](https://36kr.com/p/2478242446678153)|
+|2023-10-18 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米全新操作系统登场，小米14系列首发](https://36kr.com/p/2478373836595081)|
+|2023-10-18 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[年费199元，东方甄选要做“直播界的山姆”？](https://36kr.com/p/2478707023304585)|
+|2023-10-18 04:03:50|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[GPT-4V多模态能力惊人，公式截图直出代码，「龙与魔法世界」瞬间生成，OpenAI总裁激动转发](https://36kr.com/p/2478173756561288)|
+|2023-10-18 04:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[总投资近万亿美元，中国还能维系“一带一路”模式吗](https://cn.nytimes.com/business/20231018/chinas-belt-and-road-initiative-bri/)|
+|2023-10-18 03:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[拜登出访以色列：一次充满政治风险和人身危险的旅行](https://cn.nytimes.com/world/20231018/biden-israel-trip/)|
+|2023-10-18 05:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[安徽毛坦厂镇，一个拥有“亚洲高考工厂”的地方](https://www.huxiu.com/article/2188688.html?f=rss)|
+|2023-10-18 04:56:53|[虎嗅](https://plink.anyfeeder.com/huxiu)|[紧扼创新药咽喉，实验猴究竟是怎样一门生意？](https://www.huxiu.com/article/2188617.html?f=rss)|
 |2023-10-18 12:35:58|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Android版酷我音乐 v10.6.2破解豪华VIP版](https://masuit.com/1763)|
 |2023-10-18 03:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[老板们遇到个麻烦：员工请病假天数激增](https://cn.wsj.com/amp/articles/%E8%80%81%E6%9D%BF%E4%BB%AC%E9%81%87%E5%88%B0%E4%B8%AA%E9%BA%BB%E7%83%A6-%E5%91%98%E5%B7%A5%E8%AF%B7%E7%97%85%E5%81%87%E5%A4%A9%E6%95%B0%E6%BF%80%E5%A2%9E-c462268a)|
 |2023-10-18 04:30:00|[机核](https://www.gcores.com/rss)|[EP.7 聊聊为什么要做电台](https://www.gcores.com/videos/172500)|
