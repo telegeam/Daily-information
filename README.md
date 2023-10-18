@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-18 00:05:03|[36氪](https://plink.anyfeeder.com/36kr)|[8点1氪丨南航回应飞机餐发4个馒头1片白菜；华为旗下支付牌照机构更名为花瓣支付；iPhone 15 Pro被曝生产成本523美元](https://36kr.com/p/2479152231864450?f=rss)|
 |2023-10-17 07:24:44|[小众软件](https://www.appinn.com/feed/)|[Speechless 微博备份 – 批量打包微博内容为 PDF 文档，支持保存图片 Chrome ](https://www.appinn.com/speechless-weibo-backups/)|
 |2023-10-17 08:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[以哈战争如何导致世界权力平衡向中俄倾斜？](https://cn.wsj.com/articles/%E4%BB%A5%E5%93%88%E6%88%98%E4%BA%89%E5%A6%82%E4%BD%95%E5%AF%BC%E8%87%B4%E4%B8%96%E7%95%8C%E6%9D%83%E5%8A%9B%E5%B9%B3%E8%A1%A1%E5%90%91%E4%B8%AD%E4%BF%84%E5%80%BE%E6%96%9C-eb2af4f9)|
 |2023-10-17 09:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[不顾美国压力，中国欢迎普京访华](https://cn.wsj.com/articles/%E4%B8%8D%E9%A1%BE%E7%BE%8E%E5%9B%BD%E5%8E%8B%E5%8A%9B-%E4%B8%AD%E5%9B%BD%E6%AC%A2%E8%BF%8E%E6%99%AE%E4%BA%AC%E8%AE%BF%E5%8D%8E-a44e2d31)|
