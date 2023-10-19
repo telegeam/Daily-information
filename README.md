@@ -1,7 +1,16 @@
-﻿# 每日资讯（2023-10-18）
+﻿# 每日资讯（2023-10-19）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-19 00:51:49|[V2EX](https://v2ex.com/index.xml)|[ 互联网 谈谈后台早已实名的背景下，为什么要推行前台实名制](https://www.v2ex.com/t/983339#reply0)|
+|2023-10-19 00:50:21|[V2EX](https://v2ex.com/index.xml)|[ Microsoft Office Microsoft Office 365 家庭版拼车， 40 元/年](https://www.v2ex.com/t/983338#reply0)|
+|2023-10-19 00:46:44|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有精通 ros 软路由的吗](https://www.v2ex.com/t/983336#reply0)|
+|2023-10-19 00:35:29|[V2EX](https://v2ex.com/index.xml)|[ 问与答 出去旅游约小伙伴的平台有哪些，现在穷游网上 10 个有 9 个都是导游了。](https://www.v2ex.com/t/983334#reply2)|
+|2023-10-19 00:34:59|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 因为域名，被通知强制拆机了！](https://www.v2ex.com/t/983333#reply11)|
+|2023-10-19 00:30:51|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 什么一觉醒来英伟达官方发布文件 4090 将被禁售 禁令 30 天后生效](https://www.v2ex.com/t/983332#reply5)|
+|2023-10-19 00:13:46|[V2EX](https://v2ex.com/index.xml)|[ Apple 苹果什么时候能发新款的触控板](https://www.v2ex.com/t/983331#reply2)|
+|2023-10-19 00:02:34|[V2EX](https://v2ex.com/index.xml)|[ Electron 请问： 如何把 chatGpt 整合到 electron 项目中？](https://www.v2ex.com/t/983330#reply2)|
+|2023-10-19 00:11:29|[36氪](https://plink.anyfeeder.com/36kr)|[8点1氪丨威马汽车称公司未申请破产；茅台董秘称员工离职率只有万分之三；iPhone15 Plus价格暴降](https://36kr.com/p/2480573840021637?f=rss)|
 |2023-10-18 06:44:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[黄牛败走演唱会](http://www.huxiu.com/article/2178662.html?f=wangzhan)|
 |2023-10-18 05:23:39|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[美国汉堡大战，给中国餐企哪些启示？](http://www.huxiu.com/article/2188607.html?f=wangzhan)|
 |2023-10-18 03:28:46|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[辞退员工难以启齿？管理者该如何卸下“解雇羞耻”](http://www.huxiu.com/article/2188115.html?f=wangzhan)|
