@@ -2,6 +2,54 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-19 03:37:26|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 如何在 Bash 脚本中添加注释](https://linux.cn/article-16298-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-19 05:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[习近平和普京强调“一带一路”是通往全球新秩序之路](https://cn.wsj.com/amp/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E6%99%AE%E4%BA%AC%E5%A4%A7%E5%8A%9B%E5%BC%BA%E8%B0%83-%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF-%E6%98%AF%E9%80%9A%E5%BE%80%E5%85%A8%E7%90%83%E6%96%B0%E7%A7%A9%E5%BA%8F%E4%B9%8B%E8%B7%AF-8c21c4eb)|
+|2023-10-19 04:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美国国防部称中国领导人指示战机骚扰美国飞机](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8C%87%E7%A4%BA%E6%88%98%E6%9C%BA%E9%AA%9A%E6%89%B0%E7%BE%8E%E5%9B%BD%E9%A3%9E%E6%9C%BA-28f6b318)|
+|2023-10-19 03:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[迪士尼再度揭示ESPN面临的财务挑战](https://cn.wsj.com/amp/articles/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%86%8D%E5%BA%A6%E6%8F%AD%E7%A4%BAespn%E9%9D%A2%E4%B8%B4%E7%9A%84%E8%B4%A2%E5%8A%A1%E6%8C%91%E6%88%98-a7dd932c)|
+|2023-10-19 03:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[本田汽车和通用汽车计划于2026年在日本开始提供无人驾驶乘车服务](https://cn.wsj.com/amp/articles/%E6%9C%AC%E7%94%B0%E6%B1%BD%E8%BD%A6%E5%92%8C%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E8%AE%A1%E5%88%92%E4%BA%8E2026%E5%B9%B4%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E6%8F%90%E4%BE%9B%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E4%B9%98%E8%BD%A6%E6%9C%8D%E5%8A%A1-ede2220c)|
+|2023-10-19 02:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国经济未来几年面临深重困境](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E9%9D%A2%E4%B8%B4%E6%B7%B1%E9%87%8D%E5%9B%B0%E5%A2%83-37a4e5ce)|
+|2023-10-19 01:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国财经媒体报道汇总：中国将全面取消制造业外资准入限制](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E5%88%B6%E9%80%A0%E4%B8%9A%E9%A2%86%E5%9F%9F%E5%A4%96%E8%B5%84%E5%87%86%E5%85%A5%E9%99%90%E5%88%B6%E6%8E%AA%E6%96%BD-e10f6aa5)|
+|2023-10-19 01:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[荷兰消费者组织就数据追踪作法起诉亚马逊公司](https://cn.wsj.com/amp/articles/%E8%8D%B7%E5%85%B0%E6%B6%88%E8%B4%B9%E8%80%85%E7%BB%84%E7%BB%87%E5%B0%B1%E6%95%B0%E6%8D%AE%E8%BF%BD%E8%B8%AA%E4%BD%9C%E6%B3%95%E8%B5%B7%E8%AF%89%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%85%AC%E5%8F%B8-c7e9b869)|
+|2023-10-19 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美国和专家称有证据表明加沙医院爆炸是杰哈德火箭弹所致](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%89%E8%AF%81%E6%8D%AE%E8%A1%A8%E6%98%8E%E6%98%AF%E6%9D%B0%E5%93%88%E5%BE%B7%E7%81%AB%E7%AE%AD%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BA%86%E5%8A%A0%E6%B2%99%E5%8C%BB%E9%99%A2-30285787)|
+|2023-10-19 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[10年期美债收益率逼近5%，美国三大股指跌逾1%](https://cn.wsj.com/amp/articles/10%E5%B9%B4%E6%9C%9F%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E9%80%BC%E8%BF%915-%E7%BE%8E%E5%9B%BD%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E8%B7%8C%E9%80%BE1-92204a9d)|
+|2023-10-19 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[特斯拉利润暴跌，降价挤压利润](https://cn.wsj.com/amp/articles/%E7%89%B9%E6%96%AF%E6%8B%89%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C-%E9%99%8D%E4%BB%B7%E6%8C%A4%E5%8E%8B%E5%88%A9%E6%B6%A6-ff47bff7)|
+|2023-10-19 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[特斯拉Cybertruck定于11月30日开售，马斯克试图降低外界预期](https://cn.wsj.com/amp/articles/%E7%89%B9%E6%96%AF%E6%8B%89cybertruck%E5%AE%9A%E4%BA%8E11%E6%9C%8830%E6%97%A5%E5%BC%80%E5%94%AE-%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%95%E5%9B%BE%E9%99%8D%E4%BD%8E%E5%A4%96%E7%95%8C%E9%A2%84%E6%9C%9F-1135cb26)|
+|2023-10-19 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中概股简报：传蔚来汽车拟建立经销商网络以提高欧洲电动车销量](https://cn.wsj.com/amp/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E4%BC%A0%E8%94%9A%E6%9D%A5%E6%B1%BD%E8%BD%A6%E6%8B%9F%E5%BB%BA%E7%AB%8B%E7%BB%8F%E9%94%80%E5%95%86%E7%BD%91%E7%BB%9C%E4%BB%A5%E6%8F%90%E9%AB%98%E6%AC%A7%E6%B4%B2%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%94%80%E9%87%8F-c4dd692e)|
+|2023-10-19 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[Netflix计划提价，限制密码共享促进订户增长](https://cn.wsj.com/amp/articles/netflix%E8%AE%A1%E5%88%92%E6%8F%90%E4%BB%B7-%E9%99%90%E5%88%B6%E5%AF%86%E7%A0%81%E5%85%B1%E4%BA%AB%E4%BF%83%E8%BF%9B%E8%AE%A2%E6%88%B7%E5%A2%9E%E9%95%BF-21b5cf0a)|
+|2023-10-19 00:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[欧洲央行将推进数字欧元计划](https://cn.wsj.com/amp/articles/%E6%AC%A7%E6%B4%B2%E5%A4%AE%E8%A1%8C%E5%B0%86%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%97%E6%AC%A7%E5%85%83%E8%AE%A1%E5%88%92-d461b42f)|
+|2023-10-19 05:12:24|[虎嗅](https://plink.anyfeeder.com/huxiu)|[攀比花钱？都在比省钱了](https://www.huxiu.com/article/2188700.html?f=rss)|
+|2023-10-19 05:11:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[刚募了全球最大PE基金的豪门，要IPO了](https://www.huxiu.com/article/2192664.html?f=rss)|
+|2023-10-19 05:03:39|[虎嗅](https://plink.anyfeeder.com/huxiu)|[教育培训行业该如何规范前行？](https://www.huxiu.com/article/2192728.html?f=rss)|
+|2023-10-19 04:40:46|[虎嗅](https://plink.anyfeeder.com/huxiu)|[46亿美元：“妖镍”空头又杀回来了](https://www.huxiu.com/article/2193094.html?f=rss)|
+|2023-10-19 04:31:37|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“能让英伟达输很惨的，也就只有美国政府”](https://www.huxiu.com/article/2192675.html?f=rss)|
+|2023-10-19 04:29:09|[虎嗅](https://plink.anyfeeder.com/huxiu)|[没参加过越野跑，不知道什么叫满汉全席](https://www.huxiu.com/article/2192679.html?f=rss)|
+|2023-10-19 04:25:07|[虎嗅](https://plink.anyfeeder.com/huxiu)|[光刻机巨头ASML，也难逃半导体周期魔咒](https://www.huxiu.com/article/2192640.html?f=rss)|
+|2023-10-19 04:22:04|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“支原体肺炎”上热搜，吃头孢无效](https://www.huxiu.com/article/2192655.html?f=rss)|
+|2023-10-19 04:17:46|[虎嗅](https://plink.anyfeeder.com/huxiu)|[GPT-4搞“人肉搜索”，准确率高达95.8%](https://www.huxiu.com/article/2192650.html?f=rss)|
+|2023-10-19 04:17:20|[虎嗅](https://plink.anyfeeder.com/huxiu)|[夜经济红火喧闹，但谁能照顾当地居民的感受？](https://www.huxiu.com/article/2192678.html?f=rss)|
+|2023-10-19 04:15:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[《坚如磐石》：靠“拼图式”营销翻盘](https://www.huxiu.com/article/2190477.html?f=rss)|
+|2023-10-19 04:13:36|[虎嗅](https://plink.anyfeeder.com/huxiu)|[优衣库逆势涨薪，待业年轻人的新选择？](https://www.huxiu.com/article/2192703.html?f=rss)|
+|2023-10-19 06:03:03|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[募投项目多次延期、投资进度仅73%，圣达生物5亿定增前路迷茫](https://www.tmtpost.com/6750363.html)|
+|2023-10-19 05:29:59|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[米哈游影射职场，多少人笑着笑着就哭了？](https://www.tmtpost.com/6749944.html)|
+|2023-10-19 05:25:43|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[那些共享单车的创始人们今何在？](https://www.tmtpost.com/6749572.html)|
+|2023-10-19 05:17:58|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Q3净利润同比增长194.86%，传音追平OPPO再次闯进全球前五｜看财报](https://www.tmtpost.com/6750206.html)|
+|2023-10-19 04:58:23|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[央企金茂、华侨城为何都在卖酒店？](https://www.tmtpost.com/6750197.html)|
+|2023-10-19 04:21:28|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[三季度复苏加快，全年经济有望超预期增长](https://www.tmtpost.com/6750130.html)|
+|2023-10-19 04:08:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[跟风出海，跨境电商是 “希望之地”，还是 “食如鸡肋”？](https://www.tmtpost.com/6749407.html)|
+|2023-10-19 03:54:01|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[我国能源企业聚焦“一带一路”，多家龙头公司签下海外大单](https://www.tmtpost.com/6750039.html)|
+|2023-10-19 03:44:58|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[七年换七将，魏牌翻身仗？](https://www.tmtpost.com/6749083.html)|
+|2023-10-19 03:14:47|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[谁是中国减肥药之王？](https://www.tmtpost.com/6749967.html)|
+|2023-10-19 02:39:04|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[智能手机大厂集体自研操作系统，究竟为哪般？](https://www.tmtpost.com/6749903.html)|
+|2023-10-19 02:31:20|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[双11，直播间能抢到低价名酒吗？](https://www.tmtpost.com/6749830.html)|
+|2023-10-19 02:29:13|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[日本化妆品150年，我们总结出五点规律](https://www.tmtpost.com/6749728.html)|
+|2023-10-19 01:50:17|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[极越CEO夏一平：大模型虽好，但不能迷信](https://www.tmtpost.com/6749479.html)|
+|2023-10-19 01:49:41|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[AR正在重构，一场千亿赛道的中场战事已悄然打响 钛媒体深度](https://www.tmtpost.com/6749768.html)|
+|2023-10-19 01:49:23|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[品类扩张、体感增强，GORE-TEX不再局限“户外”](https://www.tmtpost.com/6749874.html)|
+|2023-10-19 01:47:54|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[9块9大战，拖垮了我的咖啡店](https://www.tmtpost.com/6749840.html)|
+|2023-10-19 03:35:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Windows 11 Copilot日臻完善 但仍非人人可用](https://m.cnbeta.com.tw/view/1390947.htm)|
+|2023-10-19 03:30:00|[少数派](https://plink.anyfeeder.com/sspai)|[App+1 给你的 Windows 系统打上 mod：Windhawk](https://sspai.com/post/83569)|
+|2023-10-19 00:38:30|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等](https://sspai.com/post/83687)|
+|2023-10-19 06:10:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[IG 廣播頻道功能：宣布引入 Facebook 和 Messenger](https://www.iphonetaiwan.org/2023/10/meta-instagram-broadcast-channel.html)|
 |2023-10-19 04:06:16|[36氪](https://plink.anyfeeder.com/36kr)|[智氪 卷疯了的扫地机器人行业，石头科技行业老二的位置还稳吗？](https://36kr.com/p/2480796366002306?f=rss)|
 |2023-10-19 03:46:20|[36氪](https://plink.anyfeeder.com/36kr)|[为患者创造流程化、标准化的临床陪护体验，「捷乐科技」将线上线下陪护完成整合 早期项目](https://36kr.com/p/2476721419638663?f=rss)|
 |2023-10-19 03:27:13|[36氪](https://plink.anyfeeder.com/36kr)|[在山城能文能“舞”！搜狐视频直播活动燃爆重庆](https://36kr.com/p/2480729905666183?f=rss)|
