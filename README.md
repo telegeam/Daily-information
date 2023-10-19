@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-19 07:30:37|[爱范儿](https://www.ifanr.com/feed)|[现在，重新认识一下折叠屏手机](https://www.ifanr.com/1565392?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-19 08:36:11|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[利润暴跌69%后 诺基亚将裁员多达14000人](https://m.cnbeta.com.tw/view/1390997.htm)|
+|2023-10-19 08:35:59|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Google宣布将在印度生产Pixel智能手机](https://m.cnbeta.com.tw/view/1390995.htm)|
+|2023-10-19 08:35:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[OPPO Find N3发布：影像系统大幅升级 售价9999元](https://m.cnbeta.com.tw/view/1390993.htm)|
+|2023-10-19 08:35:36|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iPhone 15系列中国销量远不及iPhone 14 机构 消费者支出整体下滑](https://m.cnbeta.com.tw/view/1390991.htm)|
+|2023-10-19 08:35:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[调查称53.7%年轻人存款不足10万 存不住钱的原因有哪些？](https://m.cnbeta.com.tw/view/1390989.htm)|
+|2023-10-19 07:35:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[华为正式入局支付领域 但微信支付宝这次真没必要慌](https://m.cnbeta.com.tw/view/1390977.htm)|
+|2023-10-19 07:06:18|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Google开发Android原生维修模式 拒绝数据泄露 所有厂商都能用](https://m.cnbeta.com.tw/view/1390973.htm)|
+|2023-10-19 07:06:03|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[遛狗不栓绳：为什么受伤的总是孩子？](https://m.cnbeta.com.tw/view/1390971.htm)|
+|2023-10-19 07:05:49|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国商务部澄清：RTX 4090新卡仍可通过豁免形式在中国消费零售市场销售](https://m.cnbeta.com.tw/view/1390967.htm)|
+|2023-10-19 07:05:38|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[三星积极推进第五代HBM3e 传输速度高达1.228 TB/s](https://m.cnbeta.com.tw/view/1390965.htm)|
+|2023-10-19 07:05:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉担忧需求放缓 扩产计划不得不“靠后站”了](https://m.cnbeta.com.tw/view/1390963.htm)|
+|2023-10-19 06:36:05|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果App Store工作人员被曝涉嫌性侵米哈游员工 去年已被开除](https://m.cnbeta.com.tw/view/1390959.htm)|
+|2023-10-19 06:35:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[OpenAI开发智能手机的想法被否 CEO：没兴趣和苹果竞争](https://m.cnbeta.com.tw/view/1390957.htm)|
+|2023-10-19 06:35:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克再批居家工作：与现实脱节](https://m.cnbeta.com.tw/view/1390955.htm)|
+|2023-10-19 10:00:27|[虎嗅](https://rss.huxiu.com/)|[新能源车企卖车险，保费会降低吗？](https://www.huxiu.com/article/2194008.html?f=rss)|
+|2023-10-19 09:49:53|[虎嗅](https://rss.huxiu.com/)|[戈尔丁为何获得诺贝尔经济学奖](https://www.huxiu.com/article/2194013.html?f=rss)|
+|2023-10-19 09:46:56|[虎嗅](https://rss.huxiu.com/)|[利润大降 44%，马斯克：这让我想起了特斯拉“至暗时刻”](https://www.huxiu.com/article/2194006.html?f=rss)|
+|2023-10-19 09:43:49|[虎嗅](https://rss.huxiu.com/)|[去一带一路，触摸不同国家的建筑](https://www.huxiu.com/article/2194010.html?f=rss)|
+|2023-10-19 09:42:32|[虎嗅](https://rss.huxiu.com/)|[大型银行向农村发起“战略转移”，农村金融机构怎么办？](https://www.huxiu.com/article/2193964.html?f=rss)|
+|2023-10-19 09:36:28|[虎嗅](https://rss.huxiu.com/)|[新旧交接之际，特斯拉“两难”的三季度](https://www.huxiu.com/article/2192671.html?f=rss)|
+|2023-10-19 09:34:32|[虎嗅](https://rss.huxiu.com/)|[市场人该学什么专业？](https://www.huxiu.com/article/2193990.html?f=rss)|
+|2023-10-19 09:14:10|[虎嗅](https://rss.huxiu.com/)|[酒吧营销，关系江湖](https://www.huxiu.com/article/2104294.html?f=rss)|
+|2023-10-19 04:02:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价小程序公布的原神 4.1（第二期）深渊使用率，水龙王使用率第一名？](https://www.zhihu.com/question/626566989)|
+|2023-10-19 08:56:15|[Blog | Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AIGC 重塑软件工程 Code Review 篇：IDE 插件 + DevOps 平台协同组合](http://www.phodal.com/blog/llm-empowered-software-engineering-code-review/)|
+|2023-10-19 10:00:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[财政和金融失衡严重，警惕中国可能爆发危机](https://cn.wsj.com/articles/%E8%B4%A2%E6%94%BF%E5%92%8C%E9%87%91%E8%9E%8D%E5%A4%B1%E8%A1%A1%E4%B8%A5%E9%87%8D-%E8%AD%A6%E6%83%95%E4%B8%AD%E5%9B%BD%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E5%8D%B1%E6%9C%BA-b5c51af0)|
+|2023-10-19 07:05:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[宽限期已过，碧桂园未能抓住第二次机会兑付美元债利息](https://cn.wsj.com/articles/%E5%AE%BD%E9%99%90%E6%9C%9F%E5%B7%B2%E8%BF%87-%E7%A2%A7%E6%A1%82%E5%9B%AD%E6%9C%AA%E8%83%BD%E6%8A%93%E4%BD%8F%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%BA%E4%BC%9A%E5%85%91%E4%BB%98%E7%BE%8E%E5%85%83%E5%80%BA%E5%88%A9%E6%81%AF-1f88d5c4)|
+|2023-10-19 06:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[习近平和普京强调“一带一路”是通往全球新秩序之路](https://cn.wsj.com/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E6%99%AE%E4%BA%AC%E5%A4%A7%E5%8A%9B%E5%BC%BA%E8%B0%83-%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF-%E6%98%AF%E9%80%9A%E5%BE%80%E5%85%A8%E7%90%83%E6%96%B0%E7%A7%A9%E5%BA%8F%E4%B9%8B%E8%B7%AF-8c21c4eb)|
+|2023-10-19 03:50:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国国防部称中国领导人指示战机骚扰美国飞机](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8C%87%E7%A4%BA%E6%88%98%E6%9C%BA%E9%AA%9A%E6%89%B0%E7%BE%8E%E5%9B%BD%E9%A3%9E%E6%9C%BA-28f6b318)|
+|2023-10-19 04:16:41|[Stories by Xiuer Old...](https://xiuer.medium.com/feed)|[The Difference Between Promise and Async/Await](https://blog.stackademic.com/the-difference-between-promise-and-async-await-e297e48573f3?source=rss-c3917681a8f5------2)|
+|2023-10-19 01:43:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[裸辞一年了，焦虑](https://www.v2ex.com/t/983360#reply77)|
+|2023-10-19 06:45:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[JetBrains 推出 Writerside，创建技术文档的工具](https://www.v2ex.com/t/983486#reply9)|
+|2023-10-19 08:38:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么市面上没有很流行的基于栈的指令集构架（ISA），而全是基于寄存器的？](https://www.v2ex.com/t/983524#reply9)|
+|2023-10-19 07:39:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有手出汗的同学，怎么彻底根除的](https://www.v2ex.com/t/983499#reply75)|
+|2023-10-19 05:39:37|[知乎每日精选](https://www.zhihu.com/rss)|[如何评价 10 月 16 日发布的 Intel 14代酷睿处理器，这代性能提升如何，有哪些亮点和不足？](http://www.zhihu.com/question/626356832/answer/3253813768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-10-19 07:44:16|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[当我们谈论量化时，我们在谈论什么？](http://www.huxiu.com/article/2193447.html?f=wangzhan)|
 |2023-10-19 08:38:12|[KAIX.IN](https://kaix.in/feed/)|[避坑](https://kaix.in/2023/1019-avoid-pitfalls/)|
 |2023-10-19 08:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[36氪研究院 2023年中国超级自动化行业洞察报告](https://36kr.com/p/2480951520434313?f=rss)|
