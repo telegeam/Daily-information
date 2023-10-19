@@ -2,6 +2,28 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-19 01:44:06|[虎嗅](https://plink.anyfeeder.com/huxiu)|[总觉得自己不够好？可能是你不会回应赞美](https://www.huxiu.com/article/2186395.html?f=rss)|
+|2023-10-19 01:39:35|[虎嗅](https://plink.anyfeeder.com/huxiu)|[OpenAI中断开发新AI模型，发生了啥？](https://www.huxiu.com/article/2192165.html?f=rss)|
+|2023-10-19 01:36:09|[虎嗅](https://plink.anyfeeder.com/huxiu)|[南航，塞不下的馒头白菜](https://www.huxiu.com/article/2192174.html?f=rss)|
+|2023-10-19 01:33:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“最卷赛道”投资记：幸得、错失与新可能](https://www.huxiu.com/article/2192129.html?f=rss)|
+|2023-10-19 01:18:32|[虎嗅](https://plink.anyfeeder.com/huxiu)|[马斯克：特斯拉开发Cybertruck是自掘坟墓](https://www.huxiu.com/article/2192161.html?f=rss)|
+|2023-10-19 01:17:24|[虎嗅](https://plink.anyfeeder.com/huxiu)|[赴港读书的孕妇：为了孩子，硕士决定读大专](https://www.huxiu.com/article/2132067.html?f=rss)|
+|2023-10-19 01:14:52|[虎嗅](https://plink.anyfeeder.com/huxiu)|[幕后：“狗咬人”四大背景与结论](https://www.huxiu.com/article/2191985.html?f=rss)|
+|2023-10-19 01:08:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[这届金棕榈，凭什么是“消失的他”?](https://www.huxiu.com/article/2192120.html?f=rss)|
+|2023-10-19 00:49:51|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“世界铜王”王文银被限高，正威怎么了？](https://www.huxiu.com/article/2191104.html?f=rss)|
+|2023-10-19 00:47:49|[虎嗅](https://plink.anyfeeder.com/huxiu)|[iPhone用上C口这半个多月，网友们差点吵翻天](https://www.huxiu.com/article/2191598.html?f=rss)|
+|2023-10-19 00:25:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[美国半导体管制新规，有什么影响？](https://www.huxiu.com/article/2190345.html?f=rss)|
+|2023-10-19 00:19:55|[虎嗅](https://plink.anyfeeder.com/huxiu)|[城市这么大，孩子却放不开手脚？](https://www.huxiu.com/article/2081580.html?f=rss)|
+|2023-10-19 00:15:30|[虎嗅](https://plink.anyfeeder.com/huxiu)|[杭州“登顶”，苏州、合肥“撞线”，南京怎么办？](https://www.huxiu.com/article/2191129.html?f=rss)|
+|2023-10-19 00:15:16|[虎嗅](https://plink.anyfeeder.com/huxiu)|[氯胺酮为什么能长效抗抑郁，其分子机制揭开了](https://www.huxiu.com/article/2191589.html?f=rss)|
+|2023-10-19 00:05:38|[虎嗅](https://plink.anyfeeder.com/huxiu)|[读书人向往的学术界，其实一地鸡毛](https://www.huxiu.com/article/2191121.html?f=rss)|
+|2023-10-19 02:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国经济未来几年面临深重困境](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E9%9D%A2%E4%B8%B4%E6%B7%B1%E9%87%8D%E5%9B%B0%E5%A2%83-37a4e5ce)|
+|2023-10-19 01:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国财经媒体报道汇总：中国将全面取消制造业外资准入限制](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E5%88%B6%E9%80%A0%E4%B8%9A%E9%A2%86%E5%9F%9F%E5%A4%96%E8%B5%84%E5%87%86%E5%85%A5%E9%99%90%E5%88%B6%E6%8E%AA%E6%96%BD-e10f6aa5)|
+|2023-10-19 02:00:00|[虎嗅](https://rss.huxiu.com/)|[克隆羊之父去世，他为我们留下哪些“遗产”？](https://www.huxiu.com/article/2189902.html?f=rss)|
+|2023-10-19 02:01:39|[爱范儿](https://www.ifanr.com/feed)|[理想 MEGA，李想选择了流量最大的玩法](https://www.ifanr.com/1565298?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-19 00:31:46|[爱范儿](https://www.ifanr.com/feed)|[早报｜消息称苹果正开发可折叠 iPad / 特斯拉 Cybertruck 下月底开始交付 / 威马汽车回应破产风波](https://www.ifanr.com/1565446?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-19 01:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[理想汽车，如何“流水线”式打造产品体验？｜产品观察](https://36kr.com/p/2479493147089031?f=rss)|
+|2023-10-19 00:30:38|[36氪](https://plink.anyfeeder.com/36kr)|[健康检验小便池布局全国市场，「遇测」助力开发疾病早筛新场景｜早期项目](https://36kr.com/p/2479745659738244?f=rss)|
 |2023-10-19 01:00:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[晨光股份8年电商崎岖路，第二增长曲线难扛盈利大旗 钛媒体深度](https://www.tmtpost.com/6747689.html)|
 |2023-10-19 00:57:45|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[东方日升重大诉讼2年未披露背后，或为50亿定增顺利落地](https://www.tmtpost.com/6749571.html)|
 |2023-10-19 00:52:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[大厂裸辞入局“身心灵”，打着“疗愈”旗号掏空年轻人的口袋？](https://www.tmtpost.com/6749253.html)|
