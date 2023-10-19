@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-19 01:34:43|[36氪](https://plink.anyfeeder.com/36kr)|[大疆早期员工做起吹风机，不当戴森学徒，新品月销百万元 产品观察](https://36kr.com/p/2480656379467909?f=rss)|
 |2023-10-19 01:44:06|[虎嗅](https://plink.anyfeeder.com/huxiu)|[总觉得自己不够好？可能是你不会回应赞美](https://www.huxiu.com/article/2186395.html?f=rss)|
 |2023-10-19 01:39:35|[虎嗅](https://plink.anyfeeder.com/huxiu)|[OpenAI中断开发新AI模型，发生了啥？](https://www.huxiu.com/article/2192165.html?f=rss)|
 |2023-10-19 01:36:09|[虎嗅](https://plink.anyfeeder.com/huxiu)|[南航，塞不下的馒头白菜](https://www.huxiu.com/article/2192174.html?f=rss)|
