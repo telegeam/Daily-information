@@ -2,6 +2,42 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-19 04:06:16|[36氪](https://plink.anyfeeder.com/36kr)|[智氪 卷疯了的扫地机器人行业，石头科技行业老二的位置还稳吗？](https://36kr.com/p/2480796366002306?f=rss)|
+|2023-10-19 03:46:20|[36氪](https://plink.anyfeeder.com/36kr)|[为患者创造流程化、标准化的临床陪护体验，「捷乐科技」将线上线下陪护完成整合 早期项目](https://36kr.com/p/2476721419638663?f=rss)|
+|2023-10-19 03:27:13|[36氪](https://plink.anyfeeder.com/36kr)|[在山城能文能“舞”！搜狐视频直播活动燃爆重庆](https://36kr.com/p/2480729905666183?f=rss)|
+|2023-10-19 03:47:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ubuntu cron 执行失败，急](https://www.v2ex.com/t/983430#reply8)|
+|2023-10-19 01:23:53|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[程序員一般是怎麼積累自己人脈的](https://www.v2ex.com/t/983353#reply34)|
+|2023-10-19 03:06:31|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[希捷推出Exos系列24TB硬盘：配备增强型缓存 性能提高三倍](https://m.cnbeta.com.tw/view/1390945.htm)|
+|2023-10-19 03:06:19|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[魅族20 Classic发布：大Logo超吸睛 3099元起](https://m.cnbeta.com.tw/view/1390943.htm)|
+|2023-10-19 03:06:07|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[日本开启道路无线充电技术实验：可实现边走边充](https://m.cnbeta.com.tw/view/1390941.htm)|
+|2023-10-19 03:05:55|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Windows 11终于有了类似Android的Wi-Fi 密码分享功能](https://m.cnbeta.com.tw/view/1390939.htm)|
+|2023-10-19 03:05:38|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[本田拟2026年初在日本推出自动驾驶出租车服务](https://m.cnbeta.com.tw/view/1390937.htm)|
+|2023-10-19 03:05:22|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[研究认为IT管理员也应为密码使用不力承担责任 最爱用的是"admin"](https://m.cnbeta.com.tw/view/1390929.htm)|
+|2023-10-19 02:36:42|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[王思聪现身理想门店 买了一台L9](https://m.cnbeta.com.tw/view/1390921.htm)|
+|2023-10-19 02:36:31|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[最远跑713公里 全新特斯拉Model 3开售：25.99万起](https://m.cnbeta.com.tw/view/1390917.htm)|
+|2023-10-19 02:36:19|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[首款“灵动岛”骁龙8 Gen3旗舰 荣耀Magic6 Pro真机泄露](https://m.cnbeta.com.tw/view/1390915.htm)|
+|2023-10-19 02:36:04|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[消息称OpenAI将以860亿美元的估值出售股票](https://m.cnbeta.com.tw/view/1390905.htm)|
+|2023-10-19 02:35:53|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克对经济有些悲观：风暴中 即使是大船也面临着挑战](https://m.cnbeta.com.tw/view/1390903.htm)|
+|2023-10-19 02:35:36|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉股价盘后下跌 马斯克称Cybertruck量产面临巨大挑战](https://m.cnbeta.com.tw/view/1390899.htm)|
+|2023-10-19 02:35:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[消息称马斯克考虑让X平台退出欧洲](https://m.cnbeta.com.tw/view/1390897.htm)|
+|2023-10-19 02:06:04|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[辉瑞宣布抗新冠病毒药物Paxlovid商业定价1390美元](https://m.cnbeta.com.tw/view/1390895.htm)|
+|2023-10-19 02:05:50|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克：世界经济“风雨飘摇” 特斯拉将坚持继续降价](https://m.cnbeta.com.tw/view/1390891.htm)|
+|2023-10-19 02:05:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克称担心高利率让人们买不起车 降低成本犹如用勺子挖隧道](https://m.cnbeta.com.tw/view/1390889.htm)|
+|2023-10-19 02:05:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉第三季度营收不及预期 净利润同比下降44%](https://m.cnbeta.com.tw/view/1390885.htm)|
+|2023-10-19 02:41:46|[煎蛋](http://jandan.net/feed)|[一些没品笑话](http://jandan.net/p/114534)|
+|2023-10-19 05:09:50|[V2EX](http://www.v2ex.com/index.xml)|[ 支付宝 本站之前不死后挂了一个聚合支付广告吗？](https://www.v2ex.com/t/983448#reply0)|
+|2023-10-19 05:08:51|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 老铁们，有没有 49 寸显示推荐一下？](https://www.v2ex.com/t/983447#reply0)|
+|2023-10-19 05:08:21|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 饿了么左上角这个通知是怎么实现的？](https://www.v2ex.com/t/983446#reply0)|
+|2023-10-19 04:59:30|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 在车库转弯处，压虚线准备右转，被对方车辆左转撞上，责任怎么划分？](https://www.v2ex.com/t/983445#reply1)|
+|2023-10-19 04:47:10|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问各位有没有带 usb 口，可以刷 openwrt 的路由器推荐？](https://www.v2ex.com/t/983444#reply0)|
+|2023-10-19 04:42:24|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 giffgaff 激活之后插手机上没反应，手机是 iPhone14pro Max 国行版本](https://www.v2ex.com/t/983443#reply0)|
+|2023-10-19 04:28:58|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 招 前端（react）招 IOS（OB）招安卓，前期远程，后期来菲](https://www.v2ex.com/t/983441#reply2)|
+|2023-10-19 04:22:05|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 我的小项目上线啦](https://www.v2ex.com/t/983440#reply1)|
+|2023-10-19 04:19:39|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 openpay - 独立分离微信支付系统, 一次部署即可接入多个产品收款。](https://www.v2ex.com/t/983438#reply0)|
+|2023-10-19 03:59:09|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI ChatGPT4 的能力一直在降低](https://www.v2ex.com/t/983436#reply4)|
+|2023-10-19 03:57:51|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 清华 MIT 创业者寻技术合伙人](https://www.v2ex.com/t/983435#reply0)|
+|2023-10-19 03:54:31|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 如何更好地扩展 Macbook 的硬盘](https://www.v2ex.com/t/983433#reply2)|
+|2023-10-19 03:52:12|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 做了个日历小程序，覆盖自己的需求](https://www.v2ex.com/t/983432#reply0)|
 |2023-10-19 01:44:06|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[总觉得自己不够好？可能是你不会回应赞美](http://www.huxiu.com/article/2186395.html?f=wangzhan)|
 |2023-10-19 03:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[为了万物互联，雷军竟要抛弃MIUI?](https://www.huxiu.com/article/2189880.html?f=rss)|
 |2023-10-19 03:22:14|[虎嗅](https://plink.anyfeeder.com/huxiu)|[蚂蚁森林卖没卖，打官司也要讲清楚](https://www.huxiu.com/article/2192657.html?f=rss)|
