@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-19 07:44:16|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[当我们谈论量化时，我们在谈论什么？](http://www.huxiu.com/article/2193447.html?f=wangzhan)|
+|2023-10-19 08:38:12|[KAIX.IN](https://kaix.in/feed/)|[避坑](https://kaix.in/2023/1019-avoid-pitfalls/)|
+|2023-10-19 08:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[36氪研究院 2023年中国超级自动化行业洞察报告](https://36kr.com/p/2480951520434313?f=rss)|
+|2023-10-19 09:03:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[如何衡量农民收入质量？](https://www.huxiu.com/article/2193490.html?f=rss)|
+|2023-10-19 09:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[谁说棋牌室一年能回本？我用亲身经历堵住他的嘴](https://www.huxiu.com/article/2193457.html?f=rss)|
+|2023-10-19 08:30:55|[虎嗅](https://plink.anyfeeder.com/huxiu)|[全职儿女的“合同”，他们明年还会续吗？](https://www.huxiu.com/article/2189865.html?f=rss)|
+|2023-10-19 08:22:30|[虎嗅](https://plink.anyfeeder.com/huxiu)|[RTX 4090显卡也被禁售了？](https://www.huxiu.com/article/2193135.html?f=rss)|
+|2023-10-19 08:20:29|[虎嗅](https://plink.anyfeeder.com/huxiu)|[房价、土地与居民债务](https://www.huxiu.com/article/2193466.html?f=rss)|
+|2023-10-19 08:16:41|[虎嗅](https://plink.anyfeeder.com/huxiu)|[中国餐饮何以迈入万店时代？](https://www.huxiu.com/article/2193480.html?f=rss)|
 |2023-10-19 07:49:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[两轮动力变迁史：自行车、电瓶车与摩托车的故事](https://www.huxiu.com/article/2193434.html?f=rss)|
 |2023-10-19 07:44:16|[虎嗅](https://plink.anyfeeder.com/huxiu)|[当我们谈论量化时，我们在谈论什么？](https://www.huxiu.com/article/2193447.html?f=rss)|
 |2023-10-19 07:28:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[大厂打工人，在羊毛面前依旧要认怂](https://www.huxiu.com/article/2192716.html?f=rss)|
