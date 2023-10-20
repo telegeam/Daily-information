@@ -2,6 +2,44 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-20 07:48:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有无懂哥解释下 @PostMapping 与 @PutMapping 注解本质上到底有什么区别](https://www.v2ex.com/t/983827#reply16)|
+|2023-10-20 09:59:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教一下各位 V 友关于 Pybind11 封装 Python 接口， pyd 库对于各个版本的 Python 的兼容问题](https://www.v2ex.com/t/983880#reply1)|
+|2023-10-20 06:38:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 Golang 不处理数据库操作的 error 的一点思考](https://www.v2ex.com/t/983809#reply20)|
+|2023-10-20 09:11:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教大佬 k8s 资源分配问题](https://www.v2ex.com/t/983865#reply7)|
+|2023-10-20 09:43:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位大佬们， PHP composer 阿里云的源现在要验证了吗](https://www.v2ex.com/t/983875#reply1)|
+|2023-10-20 09:22:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[国内有类似 slack 的 app 吗？开放式及时推送消息的](https://www.v2ex.com/t/983870#reply6)|
+|2023-10-20 03:33:43|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[推荐个男士双肩包吧， ja 人们](https://www.v2ex.com/t/983741#reply98)|
+|2023-10-20 06:16:59|[Stories by Xiuer Old...](https://xiuer.medium.com/feed)|[4 Advanced Methods Commonly Used In Vue](https://javascript.plainenglish.io/4-advanced-methods-commonly-used-in-vue-88ed2f252956?source=rss-c3917681a8f5------2)|
+|2023-10-20 09:15:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[美司法部：朝鲜IT技工大规模诈领美企薪水，资助其武器计划](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20231020-%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8-%E6%9C%9D%E9%B2%9Cit%E6%8A%80%E5%B7%A5%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%AF%88%E9%A2%86%E7%BE%8E%E4%BC%81%E8%96%AA%E6%B0%B4%EF%BC%8C%E8%B5%84%E5%8A%A9%E5%85%B6%E6%AD%A6%E5%99%A8%E8%AE%A1%E5%88%92)|
+|2023-10-20 08:37:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[拜登的生涯时刻：证明美国是决定世界历史走向的唯一国家](https://cn.nytimes.com/usa/20231020/biden-israel-ukraine/)|
+|2023-10-20 07:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[美国寻求与印度加强防务合作，抗衡中国海上力量](https://cn.nytimes.com/asia-pacific/20231020/india-us-defense/)|
+|2023-10-20 04:37:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[五角大楼：中国加快核武库扩张，军方“高风险”行动增多](https://cn.nytimes.com/china/20231020/china-military-nuclear-weapons/)|
+|2023-10-20 04:07:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[碧桂园濒临违约，否认创始人父女离境](https://cn.nytimes.com/business/20231020/country-garden-bond-payment/)|
+|2023-10-20 03:07:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中企承建尼泊尔机场背后：债务、霸王条款和地缘政治](https://cn.nytimes.com/business/20231020/nepal-pokhara-airport-china/)|
+|2023-10-20 10:10:13|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 特斯拉 V 友群](https://www.v2ex.com/t/983883#reply0)|
+|2023-10-20 09:45:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[从AI写真到AI扩图，图像应用更易出圈？](https://www.tmtpost.com/6752521.html)|
+|2023-10-20 09:30:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[消费医疗复苏，增速最快的竟是这个赛道](https://www.tmtpost.com/6752246.html)|
+|2023-10-20 09:17:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[南非是如何从发达国家跌落至发展中国家的？](https://www.tmtpost.com/6752041.html)|
+|2023-10-20 09:15:19|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[九号公司刘淼：电动滑板车，是对新国标两轮电动车的一个有效补充](https://www.tmtpost.com/6752514.html)|
+|2023-10-20 09:10:54|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[京东急需在“双十一”打一场胜仗](https://www.tmtpost.com/6752045.html)|
+|2023-10-20 07:15:44|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[风物 ｜ 吉田鎏金红薯](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653444350&idx=2&sn=29b57bde3588e73e2f29d92c34ef7624)|
+|2023-10-20 07:15:43|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[破罐破摔，双十一折扣现货开买！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653444350&idx=1&sn=d966acaee62875595f945b37c608f5c9)|
+|2023-10-20 09:36:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[4000年前的奸商如何对付投诉？](https://dig.chouti.com/link/40351600)|
+|2023-10-20 06:41:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【战火下的巴勒斯坦创业者】巴勒斯坦员工的技术才能与美国或土耳其办事处的同事无异，但他们使用的是3G网络，而不是4G或5G。](https://dig.chouti.com/link/40349550)|
+|2023-10-20 07:02:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[门户之羞、有损族望——中国古代为何“贱讼”？](https://dig.chouti.com/link/40349746)|
+|2023-10-20 03:11:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[明天上午，印度ISRO将对加冈扬号载人飞船（Gaganyaan）进行一次飞行中止测试。测试载具将携带模拟的乘员舱在17公里高度分离，让逃生系统演示自动救生程序，并安全降落在斯里哈里科塔近海。此次测试的目标是演示载人飞船的逃逸系统。印度的目标是在2025年发射载人飞船进入近地轨道并安全返回。图源：ISRO](https://dig.chouti.com/link/40347555)|
+|2023-10-20 02:11:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[重卡踩刹车……杯具！](https://dig.chouti.com/link/40346735)|
+|2023-10-20 03:02:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[揭秘“ChatGPT中介”：“直售账号”和“集成分销”背后的“兼职商机”](https://dig.chouti.com/link/40347251)|
+|2023-10-20 02:33:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[嘲讽“伪女权”的日本AV，出现又消失了](https://dig.chouti.com/link/40346880)|
+|2023-10-20 04:33:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国汽车工人联合会 UAW 与通用汽车接近达成临时协议，大罢工或将结束](https://dig.chouti.com/link/40348307)|
+|2023-10-20 05:11:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[铸铁厂的炉渣](https://dig.chouti.com/link/40348754)|
+|2023-10-20 03:01:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被爆欠薪，官微官博停更，线下遭“甩卖”……钟薛高怎么了？丨钟薛高回应欠薪：公司正在积极解决相关纠纷，目前运营一切正常](https://dig.chouti.com/link/40346995)|
+|2023-10-20 08:49:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[如何看待学生模仿领导“视察”拍视频引关注？](https://www.huxiu.com/article/2197644.html?f=rss)|
+|2023-10-20 08:48:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[烈犬伤人事件频发，我们只能学习自保吗](https://www.huxiu.com/article/2197624.html?f=rss)|
+|2023-10-20 08:34:41|[虎嗅](https://plink.anyfeeder.com/huxiu)|[又是致癌又是自闭症，无糖可乐不能再喝了？](https://www.huxiu.com/article/2198043.html?f=rss)|
+|2023-10-20 08:33:07|[虎嗅](https://plink.anyfeeder.com/huxiu)|[父母在等孩子的感谢，而孩子在等父母的道歉](https://www.huxiu.com/article/2196910.html?f=rss)|
+|2023-10-20 08:30:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[Craigslist的传奇：超丑的网站能做成美国前十？](https://www.huxiu.com/article/2194916.html?f=rss)|
+|2023-10-20 08:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[没有梦想，和咸鱼有什么区别？](https://www.huxiu.com/article/2192653.html?f=rss)|
 |2023-10-20 07:51:01|[极客公园](https://plink.anyfeeder.com/geekpark)|[1% 的份额，100% 的增长，在折叠屏手机里能看到什么？](http://www.geekpark.net/news/326277)|
 |2023-10-20 07:47:25|[极客公园](https://plink.anyfeeder.com/geekpark)|[对话百度肖阳：生成式大模型，搜索最重要的一块拼图](http://www.geekpark.net/news/326276)|
 |2023-10-20 08:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[华尔街投行业务的“绿芽”恐将枯萎](https://cn.wsj.com/amp/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%8A%95%E8%A1%8C%E4%B8%9A%E5%8A%A1%E7%9A%84-%E7%BB%BF%E8%8A%BD-%E6%81%90%E5%B0%86%E6%9E%AF%E8%90%8E-8aa09967)|
