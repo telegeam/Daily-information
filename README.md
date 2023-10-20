@@ -2,6 +2,38 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-20 03:27:03|[少数派](https://plink.anyfeeder.com/sspai)|[面对危害性的网络谣言，我们就是父母最好的武器](https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos)|
+|2023-10-20 05:27:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[退休半年](http://mercurychong.blogspot.com/2023/10/blog-post_19.html)|
+|2023-10-20 05:33:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[微博CEO“来去之间”内测前台实名制——“老粉都知道，争议功能自己先用，自己做的菜自己先吃”。](https://dig.chouti.com/link/40348862)|
+|2023-10-20 03:02:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[好莱坞演员工会和制片方谈判陷入僵局，一线演员想通过多交会费结束罢工](https://dig.chouti.com/link/40347288)|
+|2023-10-20 05:01:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【《死侍3》撤档，原定于明年5月3日北美上映】美国演员工会仍在罢工中，该片此前在拍摄中，也已在7月初停拍。即使最早未来几周能结束罢工，要再次集结剧组人员恢复拍摄也是明年的事了，不可能赶得上5月上映。](https://dig.chouti.com/link/40348402)|
+|2023-10-20 03:25:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被消费贷背刺的购车人：买车究竟是一次性付清，还是办理分期贷款？](https://dig.chouti.com/link/40347622)|
+|2023-10-20 03:34:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[加密故事：一条价值1亿美元、可以载入史册的假新闻](https://dig.chouti.com/link/40347710)|
+|2023-10-20 04:02:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[此前越界入朝美士兵已被美军方拘留，面临逃兵罪等多项指控](https://dig.chouti.com/link/40348028)|
+|2023-10-20 03:36:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【告别程序争议：上级检察院如何调用下级检察官？】对异地用检的合理性，并无争议，分歧在于如何调用，在实践中确实存在“对于被调用到下级检察机关的上级检察院检察官，因其职级较高而不敢监督或监督松懈的情形”。“新规出台了，异地用检若不遵守，一旦律师提出检察人员的身份问题，检察院这边就会很被动。”](https://dig.chouti.com/link/40347714)|
+|2023-10-20 04:03:52|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[提完离职后，我成了全部门最嚣张的人](https://36kr.com/p/2480928420681606)|
+|2023-10-20 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[焦点分析 特斯拉：车越卖越多，利润越赚越少](https://36kr.com/p/2481024174856321)|
+|2023-10-20 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[特斯拉居然卖不动了？](https://36kr.com/p/2481083386550146)|
+|2023-10-20 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[理想 MEGA 的「跳楼款」设计，真的丑吗？](https://36kr.com/p/2481006841337987)|
+|2023-10-20 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发｜“月子中心”品牌JEAN锦恩健康获数千万A轮融资](https://36kr.com/p/2481163669526405)|
+|2023-10-20 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[人手一个编程助手，北大最强代码大模型CodeShell-7B开源，性能霸榜，IDE插件全开源](https://36kr.com/p/2480992848074632)|
+|2023-10-20 04:03:51|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[5块预制菜，称霸商场外卖](https://36kr.com/p/2481043855743113)|
+|2023-10-20 06:53:31|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[【硬科技周报】第40、41周：人形机器人公司“加速进化”完成数千万天使轮融资，美国新兴航天企业Stoke Space获1亿美金B轮投资](https://www.tmtpost.com/6751633.html)|
+|2023-10-20 06:52:05|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[拿下“中国汽水第一股”，武汉二厂以并购方式登陆港交所](https://www.tmtpost.com/6752039.html)|
+|2023-10-20 06:38:02|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[社科院发布宏观金融三季报：复苏态势好于上季度，防风险任务依然艰巨](https://www.tmtpost.com/6752206.html)|
+|2023-10-20 06:32:52|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[9月顺丰、申通跑赢行业增速，前三季快递行业价格竞争激烈](https://www.tmtpost.com/6752214.html)|
+|2023-10-20 06:15:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[滴滴自动驾驶再获10亿+融资，滴滴在下一盘大棋？](https://www.tmtpost.com/6751934.html)|
+|2023-10-20 07:08:39|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 极限二选一！ Macbook 外接 4K 显示器， 24 寸 or27 寸？](https://www.v2ex.com/t/983815#reply0)|
+|2023-10-20 06:54:54|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 锐捷路由器 VPN 借线路由设置求解](https://www.v2ex.com/t/983813#reply0)|
+|2023-10-20 06:52:09|[V2EX](https://www.v2ex.com/index.xml)|[ 互联网 医疗信息化该怎么入坑？大佬们](https://www.v2ex.com/t/983812#reply0)|
+|2023-10-20 06:38:42|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 关于 Golang 不处理数据库操作的 error 的一点思考](https://www.v2ex.com/t/983809#reply3)|
+|2023-10-20 06:35:08|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 腾讯 坐标深圳，招聘 golang 开发工程师](https://www.v2ex.com/t/983807#reply2)|
+|2023-10-20 06:28:37|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 在游戏行业十几年，寻求一份远程工作](https://www.v2ex.com/t/983805#reply0)|
+|2023-10-20 06:25:55|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如何购买便宜的服务器，或者自己搭建服务器？](https://www.v2ex.com/t/983802#reply16)|
+|2023-10-20 06:21:26|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 除了带壳,有什么办法能缓解 14pro 的边框指纹问题?](https://www.v2ex.com/t/983801#reply6)|
+|2023-10-20 06:21:22|[V2EX](https://www.v2ex.com/index.xml)|[ Vercel 有人用过 vercel 的 postgres 吗？ 通过请求把数据修改了，但是必须重新通过 vercel 部署一次 nextjs 应用，请求返回的数据才会更新？](https://www.v2ex.com/t/983800#reply0)|
+|2023-10-20 06:19:38|[V2EX](https://www.v2ex.com/index.xml)|[ 上海 上海纪梵希婚纱摄影婚纱照怎么样啊？](https://www.v2ex.com/t/983799#reply0)|
+|2023-10-20 06:12:14|[V2EX](https://www.v2ex.com/index.xml)|[ 植物 这两年醉心于收集树莓，现在黑莓和红/黄/蓝树莓都齐了，看到国外有品种名为 Glencoe 的紫树莓，这个国内有引进吗？估计直接到国外买也带不回来吧？](https://www.v2ex.com/t/983797#reply11)|
 |2023-10-20 05:08:56|[36氪](https://plink.anyfeeder.com/36kr)|[可局部精确修改，「木目AI」要做高度个性化的AI写真应用 早期项目](https://36kr.com/p/2478254055937922?f=rss)|
 |2023-10-20 03:06:29|[36氪](https://plink.anyfeeder.com/36kr)|[对话北京协和医院：国产医疗设备打开“三甲大门”的“钥匙”是什么？](https://36kr.com/p/2479568501774217?f=rss)|
 |2023-10-20 02:59:48|[36氪](https://plink.anyfeeder.com/36kr)|[这张大地图，打造链接中国商业的“超级朋友圈”](https://36kr.com/p/2482137540646784?f=rss)|
