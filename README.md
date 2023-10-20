@@ -1,7 +1,13 @@
-﻿# 每日资讯（2023-10-19）
+﻿# 每日资讯（2023-10-20）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-20 00:53:38|[精品MAC应用分享](https://xclient.info/feed)|[Piezo 1.8.1 录音软件](https://xclient.info/s/pizeo.html)|
+|2023-10-20 00:42:50|[爱范儿](https://www.ifanr.com/feed)|[早报｜英伟达 4090 显卡全网断货，最高涨至 5 万/马斯克称特斯拉将坚持降价/OpenAI 开放 AI 绘图神器](https://www.ifanr.com/1565528?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-20 00:42:55|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 108 期）：一个 AI 网站聊天机器人，月收入 1.5 万美元](https://www.v2ex.com/t/983649#reply0)|
+|2023-10-20 00:33:14|[V2EX](https://v2ex.com/index.xml)|[ Chrome Chrome 的标题栏怎么变成淡紫色了，还多了一个左边的箭头](https://www.v2ex.com/t/983647#reply0)|
+|2023-10-20 00:23:39|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 我的新版个人网站上线啦！](https://www.v2ex.com/t/983646#reply9)|
+|2023-10-20 00:21:51|[V2EX](https://v2ex.com/index.xml)|[ 推广 支付宝绑定的 wise 卡，每天差不多有免费早餐优惠。](https://www.v2ex.com/t/983645#reply6)|
 |2023-10-19 07:30:37|[爱范儿](https://www.ifanr.com/feed)|[现在，重新认识一下折叠屏手机](https://www.ifanr.com/1565392?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-19 08:36:11|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[利润暴跌69%后 诺基亚将裁员多达14000人](https://m.cnbeta.com.tw/view/1390997.htm)|
 |2023-10-19 08:35:59|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Google宣布将在印度生产Pixel智能手机](https://m.cnbeta.com.tw/view/1390995.htm)|
