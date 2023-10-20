@@ -2,6 +2,37 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-20 01:14:37|[虎嗅](https://plink.anyfeeder.com/huxiu)|[注册资本均高达7.3万亿元：这4家“巨无霸”公司什么来头？](https://www.huxiu.com/article/2196003.html?f=rss)|
+|2023-10-20 01:13:39|[虎嗅](https://plink.anyfeeder.com/huxiu)|[要花多少钱，才敢说自己在“徒步”](https://www.huxiu.com/article/2195035.html?f=rss)|
+|2023-10-20 01:09:14|[虎嗅](https://plink.anyfeeder.com/huxiu)|[万亿英伟达，一夜蒸发4000亿](https://www.huxiu.com/article/2196451.html?f=rss)|
+|2023-10-20 01:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[给老员工升职，犯法吗？](https://www.huxiu.com/article/2193123.html?f=rss)|
+|2023-10-20 00:54:51|[虎嗅](https://plink.anyfeeder.com/huxiu)|[残雪无缘文学诺奖，然后呢？](https://www.huxiu.com/article/2195665.html?f=rss)|
+|2023-10-20 00:37:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[云南弥勒电梯坠落致3死17伤，商户：出事货梯有时站四五十人](https://www.huxiu.com/article/2195679.html?f=rss)|
+|2023-10-20 00:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[免费医疗，是解决医疗难题的终极方案吗？](https://www.huxiu.com/article/2190490.html?f=rss)|
+|2023-10-20 00:25:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[A股又到3000点，到最悲观的时候了吗？](https://www.huxiu.com/article/2195970.html?f=rss)|
+|2023-10-20 00:16:55|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“大模型”生意，真的能帮云厂商翻身吗？](https://www.huxiu.com/article/2195392.html?f=rss)|
+|2023-10-20 00:09:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[线上轻食套餐，背后的骗局](https://www.huxiu.com/article/2195997.html?f=rss)|
+|2023-10-20 00:00:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[霍华德·马克斯：投资环境正在全面改变](https://www.huxiu.com/article/2179353.html?f=rss)|
+|2023-10-20 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：喜茶澳大利亚首店在墨尔本开业、PUMA 和威廉姆斯车队建立长期合作伙伴关系](http://www.toodaylab.com/82317)|
+|2023-10-20 00:15:40|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html)|
+|2023-10-20 00:48:51|[极客公园](https://plink.anyfeeder.com/geekpark)|[iPhone 最早明年搭载 AI 功能；OpenAI 廉价版 GPT-4 夭折；新闻出版署：网游不要「又肝又氪」｜极客早知道](http://www.geekpark.net/news/326219)|
+|2023-10-20 01:49:31|[V2EX](http://www.v2ex.com/index.xml)|[ Apple IOS 17 的待机显示功能，怎么在横屏下解锁呢？](https://www.v2ex.com/t/983668#reply0)|
+|2023-10-20 01:47:50|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 各位高台都订阅的哪款 AI 助手： ChatGPT plus、Claude、Bard 分别订阅? 还是选 POE 或者 Monica?](https://www.v2ex.com/t/983667#reply0)|
+|2023-10-20 01:46:42|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 C++ 创建 zip 压缩包遇到的内存问题分析 -](https://www.v2ex.com/t/983666#reply0)|
+|2023-10-20 01:44:21|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 watch4 电池监控低于 80%了，保外。修电池是给新机吗？](https://www.v2ex.com/t/983665#reply1)|
+|2023-10-20 01:43:40|[V2EX](http://www.v2ex.com/index.xml)|[ Apple iPhone 媒体音量无法静音](https://www.v2ex.com/t/983664#reply0)|
+|2023-10-20 01:42:30|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 what happend，今天 OPE - NAI 好像不能用了](https://www.v2ex.com/t/983663#reply0)|
+|2023-10-20 01:26:38|[V2EX](http://www.v2ex.com/index.xml)|[ Android 有无 cordova 技术交流群或者大神，救急救急](https://www.v2ex.com/t/983659#reply0)|
+|2023-10-20 01:25:09|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 非国产安卓手机买哪个牌子好？](https://www.v2ex.com/t/983658#reply2)|
+|2023-10-20 01:24:25|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 AI bookmarklet 刚写了一个 关于 bookmarklet 的网站 这不体验一波？](https://www.v2ex.com/t/983657#reply1)|
+|2023-10-20 01:22:24|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 有没有办法把 IPTV 盒子放在另一个家里用？](https://www.v2ex.com/t/983656#reply4)|
+|2023-10-20 01:21:19|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 大家的微信聊天记录都保存多久？](https://www.v2ex.com/t/983655#reply8)|
+|2023-10-20 01:19:57|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 添加标签的油猴脚本大更新，添加标签更加方便了](https://www.v2ex.com/t/983654#reply2)|
+|2023-10-20 01:19:27|[V2EX](http://www.v2ex.com/index.xml)|[ 奇思妙想 求理想的记读书笔记软件（或方法）](https://www.v2ex.com/t/983653#reply3)|
+|2023-10-20 01:09:55|[V2EX](http://www.v2ex.com/index.xml)|[ VMware 找一个能支持 realtek 的 esxi7 或 8~](https://www.v2ex.com/t/983652#reply1)|
+|2023-10-20 01:06:44|[V2EX](http://www.v2ex.com/index.xml)|[ VMware VMWare Fusion 安装 EL8 没反应？](https://www.v2ex.com/t/983651#reply0)|
+|2023-10-20 01:03:29|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 8 年前端工程师，想换个工作](https://www.v2ex.com/t/983650#reply2)|
+|2023-10-20 00:30:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[免费医疗，是解决医疗难题的终极方案吗？](http://www.huxiu.com/article/2190490.html?f=wangzhan)|
 |2023-10-20 00:53:38|[精品MAC应用分享](https://xclient.info/feed)|[Piezo 1.8.1 录音软件](https://xclient.info/s/pizeo.html)|
 |2023-10-20 00:42:50|[爱范儿](https://www.ifanr.com/feed)|[早报｜英伟达 4090 显卡全网断货，最高涨至 5 万/马斯克称特斯拉将坚持降价/OpenAI 开放 AI 绘图神器](https://www.ifanr.com/1565528?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-20 00:42:55|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 108 期）：一个 AI 网站聊天机器人，月收入 1.5 万美元](https://www.v2ex.com/t/983649#reply0)|
