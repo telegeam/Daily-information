@@ -2,6 +2,73 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-20 05:08:56|[36氪](https://plink.anyfeeder.com/36kr)|[可局部精确修改，「木目AI」要做高度个性化的AI写真应用 早期项目](https://36kr.com/p/2478254055937922?f=rss)|
+|2023-10-20 03:06:29|[36氪](https://plink.anyfeeder.com/36kr)|[对话北京协和医院：国产医疗设备打开“三甲大门”的“钥匙”是什么？](https://36kr.com/p/2479568501774217?f=rss)|
+|2023-10-20 02:59:48|[36氪](https://plink.anyfeeder.com/36kr)|[这张大地图，打造链接中国商业的“超级朋友圈”](https://36kr.com/p/2482137540646784?f=rss)|
+|2023-10-20 02:43:22|[36氪](https://plink.anyfeeder.com/36kr)|[更硬核or更休闲，户外品牌的一道选择题｜产业新风向](https://36kr.com/p/2463746350061703?f=rss)|
+|2023-10-20 02:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[「中科赛飞」获数千万天使轮融资，主攻车规级数模混合芯片丨36氪首发](https://36kr.com/p/2481058651756422?f=rss)|
+|2023-10-20 01:37:01|[36氪](https://plink.anyfeeder.com/36kr)|[前任首富身家缩水约500亿元，奢侈品房东迎来挑战｜氪金 · 大事件](https://36kr.com/p/2482071627388801?f=rss)|
+|2023-10-20 01:30:00|[36氪](https://plink.anyfeeder.com/36kr)|[暂缓！灿芯半导体IPO进展停滞，或系过度依赖中芯国际 专精快报](https://36kr.com/p/2481257658112134?f=rss)|
+|2023-10-20 01:30:00|[36氪](https://plink.anyfeeder.com/36kr)|[「希微科技」发布2x2 MIMO Wi-Fi6/6E+BT5.3 Combo芯片](https://36kr.com/p/2481289130235784?f=rss)|
+|2023-10-20 01:05:35|[36氪](https://plink.anyfeeder.com/36kr)|[对话美图创始人吴欣鸿：“妙鸭们”昙花一现，我们要做中国的Midjourney ｜ 36氪专访](https://36kr.com/p/2481265900869511?f=rss)|
+|2023-10-20 01:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[焦点分析 特斯拉：车越卖越多，利润越赚越少](https://36kr.com/p/2481024174856321?f=rss)|
+|2023-10-20 05:48:08|[36氪](https://plink.anyfeeder.com/36kr)|[三安光电盘中快速跳水](https://36kr.com/newsflashes/2482321628076161?f=rss)|
+|2023-10-20 05:45:13|[36氪](https://plink.anyfeeder.com/36kr)|[淡水河谷成立可持续砂业务新公司](https://36kr.com/newsflashes/2482248064833671?f=rss)|
+|2023-10-20 05:41:01|[36氪](https://plink.anyfeeder.com/36kr)|[中国物流与采购联合会：物流基础设施初具规模，现代物流体系加快构建](https://36kr.com/newsflashes/2482314641069961?f=rss)|
+|2023-10-20 05:37:59|[36氪](https://plink.anyfeeder.com/36kr)|[金地集团已兑付于10月18日到期的购房尾款ABS，本金额7.89亿元](https://36kr.com/newsflashes/2482311650613122?f=rss)|
+|2023-10-20 05:35:16|[36氪](https://plink.anyfeeder.com/36kr)|[中信证券：风电行业建议关注桩基、海缆、升降梯和轴承等环节](https://36kr.com/newsflashes/2482244197603459?f=rss)|
+|2023-10-20 05:32:41|[36氪](https://plink.anyfeeder.com/36kr)|[美国前六大银行今年累计裁员超2万人](https://36kr.com/newsflashes/2482306442401669?f=rss)|
+|2023-10-20 05:31:31|[36氪](https://plink.anyfeeder.com/36kr)|[2023年三季度全国铁路发送旅客11.5亿人次](https://36kr.com/newsflashes/2482305300961412?f=rss)|
+|2023-10-20 05:27:35|[36氪](https://plink.anyfeeder.com/36kr)|[钟薛高回应欠薪：公司正在积极解决相关纠纷，目前运营一切正常](https://36kr.com/newsflashes/2482301419804546?f=rss)|
+|2023-10-20 05:25:40|[36氪](https://plink.anyfeeder.com/36kr)|[分析师：苹果计划最早明年底开始在iPhone和iPad上应用生成式AI技术](https://36kr.com/newsflashes/2482242627770245?f=rss)|
+|2023-10-20 05:15:42|[36氪](https://plink.anyfeeder.com/36kr)|[日本第一三共股价涨幅创新高，默沙东拟至多220亿美元购买其抗癌药销售权](https://36kr.com/newsflashes/2482213158655881?f=rss)|
+|2023-10-20 05:13:46|[36氪](https://plink.anyfeeder.com/36kr)|[中国证监会公众公司部商庆军：全国股转公司要与各区域性股权市场共同把好入口关](https://36kr.com/newsflashes/2482287841974152?f=rss)|
+|2023-10-20 05:05:13|[36氪](https://plink.anyfeeder.com/36kr)|[中信证券：消费产业总体估值合理偏低，建议关注估值切换机会](https://36kr.com/newsflashes/2482211693959045?f=rss)|
+|2023-10-20 04:55:32|[36氪](https://plink.anyfeeder.com/36kr)|[亚马逊授权管理人员解雇每周到岗不满三天的员工](https://36kr.com/newsflashes/2482211055490947?f=rss)|
+|2023-10-20 04:45:23|[36氪](https://plink.anyfeeder.com/36kr)|[报道称苹果正开发12.9英寸iPad Air，采用传统LCD技术](https://36kr.com/newsflashes/2482201052616579?f=rss)|
+|2023-10-20 04:37:58|[36氪](https://plink.anyfeeder.com/36kr)|[国家电投在上交所发行全市场规模最大类REITs，金额达81.01亿元](https://36kr.com/newsflashes/2482252657531008?f=rss)|
+|2023-10-20 04:37:01|[36氪](https://plink.anyfeeder.com/36kr)|[华泰证券：房地产投资仍待改善，期待政策加力](https://36kr.com/newsflashes/2482251724085384?f=rss)|
+|2023-10-20 04:36:21|[36氪](https://plink.anyfeeder.com/36kr)|[生意社：多方因素利好，碳酸锂迎触底回升](https://36kr.com/newsflashes/2482251064088456?f=rss)|
+|2023-10-20 04:35:17|[36氪](https://plink.anyfeeder.com/36kr)|[中信证券：继续看好智慧矿区赛道投资机会，行业高景气度仍在](https://36kr.com/newsflashes/2482198986365059?f=rss)|
+|2023-10-20 04:34:56|[36氪](https://plink.anyfeeder.com/36kr)|[蔚来全链智能工厂正式面向公众开放](https://36kr.com/newsflashes/2482249664239497?f=rss)|
+|2023-10-20 04:31:29|[36氪](https://plink.anyfeeder.com/36kr)|[中国恒大：原定于10月25日由美国破产法院审理的聆讯将延期](https://36kr.com/newsflashes/2482246276339845?f=rss)|
+|2023-10-20 06:12:14|[V2EX](https://v2ex.com/index.xml)|[ 植物 这两年醉心于收集树莓，现在黑莓和红/黄/蓝树莓都齐了，看到国外有品种名为 Glencoe 的紫树莓，这个国内有引进吗？估计直接到国外买也带不回来吧？](https://www.v2ex.com/t/983797#reply2)|
+|2023-10-20 06:08:44|[V2EX](https://v2ex.com/index.xml)|[ Windows window 10 下不同浏览器的油管 HDR 视频选项的问题](https://www.v2ex.com/t/983796#reply0)|
+|2023-10-20 06:00:40|[V2EX](https://v2ex.com/index.xml)|[ iPhone 刚刚 JD 爱回收上门把旧的 14PM 收走了 6050 块钱还行吗 感觉挺方便的](https://www.v2ex.com/t/983795#reply5)|
+|2023-10-20 05:59:46|[V2EX](https://v2ex.com/index.xml)|[ OpenWrt 为 openwrt 放行特定下游机器 IPv6 端口的方法](https://www.v2ex.com/t/983794#reply0)|
+|2023-10-20 05:53:02|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 ChatHub 一个各种 AI 的 chrome 聚合插件](https://www.v2ex.com/t/983793#reply0)|
+|2023-10-20 05:51:37|[V2EX](https://v2ex.com/index.xml)|[ 问与答 双 11 求推荐一套电脑桌椅、电脑、外设](https://www.v2ex.com/t/983792#reply0)|
+|2023-10-20 05:50:45|[V2EX](https://v2ex.com/index.xml)|[ 程序员 JUC 相关的知识到底学到什么程度面试才 OK?](https://www.v2ex.com/t/983791#reply0)|
+|2023-10-20 05:47:09|[V2EX](https://v2ex.com/index.xml)|[ iCloud iCloud 拼车贴](https://www.v2ex.com/t/983790#reply1)|
+|2023-10-20 05:43:45|[V2EX](https://v2ex.com/index.xml)|[ 程序员 大模型都普及了，哪家的 ocr 可以比较完美的识别图中格式？](https://www.v2ex.com/t/983789#reply0)|
+|2023-10-20 05:41:51|[V2EX](https://v2ex.com/index.xml)|[ Surge Surge for Mac 5 开五人车](https://www.v2ex.com/t/983788#reply0)|
+|2023-10-20 05:39:08|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求助 苹果笔记本屏幕进水了怎么办啊？ 在深圳，有没有好点不坑的店哈](https://www.v2ex.com/t/983786#reply0)|
+|2023-10-20 05:34:53|[V2EX](https://v2ex.com/index.xml)|[ AirPods 每天都在提示我自己的 AirPods 在跟踪我，无语](https://www.v2ex.com/t/983785#reply1)|
+|2023-10-20 05:28:13|[V2EX](https://v2ex.com/index.xml)|[ 问与答 chatgpt 注册问题](https://www.v2ex.com/t/983783#reply0)|
+|2023-10-20 05:24:13|[V2EX](https://v2ex.com/index.xml)|[ 游戏 现在 PC 平台哪几个游戏最吃硬件？](https://www.v2ex.com/t/983781#reply5)|
+|2023-10-20 05:21:08|[V2EX](https://v2ex.com/index.xml)|[ 问与答 2024 年即将来临， 有什么类似于泡泡马特 类似的且值得收集的东西分享呢](https://www.v2ex.com/t/983780#reply12)|
+|2023-10-20 05:12:49|[V2EX](https://v2ex.com/index.xml)|[ Surge Surge For Mac 招乘客](https://www.v2ex.com/t/983778#reply1)|
+|2023-10-20 06:04:40|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[PC市场触底，人工智能或成反弹原动力](https://www.tmtpost.com/6749413.html)|
+|2023-10-20 06:03:47|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[AIGC时代创意人才需求提升，Adobe联合网易有道推出了创意设计在线课程](https://www.tmtpost.com/6752135.html)|
+|2023-10-20 06:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“电子榨菜”的配方是什么？](https://www.tmtpost.com/6751978.html)|
+|2023-10-20 05:40:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[别硬把大模型往手机里塞](https://www.tmtpost.com/6751116.html)|
+|2023-10-20 05:20:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Biotech丢掉野望，大药厂加速扫荡](https://www.tmtpost.com/6752013.html)|
+|2023-10-20 05:01:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[李佳琦们的「面子」，双十一的「里子」](https://www.tmtpost.com/6751840.html)|
+|2023-10-20 04:32:21|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[一年半内房企锐减不止26万人，减员降薪持续，地产从业者该何去何从？](https://www.tmtpost.com/6752036.html)|
+|2023-10-20 03:55:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[又火又卷的咸鱼之王们，怎样月入过亿？](https://www.tmtpost.com/6751879.html)|
+|2023-10-20 03:41:13|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[中药茶饮，究竟是噱头还是风口？](https://www.tmtpost.com/6752011.html)|
+|2023-10-20 03:37:26|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[认知大模型投入加大，科大讯飞对标ChatGPT后的业绩能否有起色？ 看财报](https://www.tmtpost.com/6751839.html)|
+|2023-10-20 03:15:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[面对一群卷王，马斯克也有点卷不动了](https://www.tmtpost.com/6751821.html)|
+|2023-10-20 03:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[零食折扣店狂卷县城：忙扩张的品牌，苦熬的加盟商](https://www.tmtpost.com/6751844.html)|
+|2023-10-20 02:40:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[外资正在抄底哪些A股医药资产？](https://www.tmtpost.com/6751852.html)|
+|2023-10-20 02:24:05|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[李佳琦小杨哥们深度绑定美妆背后](https://www.tmtpost.com/6751818.html)|
+|2023-10-20 02:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[小米造车：“价格屠夫”还挥得动刀吗？](https://www.tmtpost.com/6751314.html)|
+|2023-10-20 01:40:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[减肥药概念遭遇爆炒，肥不起也飞不高](https://www.tmtpost.com/6751295.html)|
+|2023-10-20 01:35:17|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[中国互联网，在东南亚“重启” 钛媒体深度](https://www.tmtpost.com/6746595.html)|
+|2023-10-20 01:30:46|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Alibaba and Tencent Join in AI Startup Baichuan's Funding as Baidu Releases GPT-4 Rival Model](https://www.tmtpost.com/6750172.html)|
+|2023-10-20 04:50:00|[机核](https://plink.anyfeeder.com/gcores)|[相信、坚持、热爱制作的我们](https://www.gcores.com/articles/172592)|
+|2023-10-20 04:26:52|[机核](https://plink.anyfeeder.com/gcores)|[译介丨《神圣而可怕的空气》第五章](https://www.gcores.com/articles/172606)|
+|2023-10-20 04:24:26|[机核](https://plink.anyfeeder.com/gcores)|[关于无缝大世界的设计管线](https://www.gcores.com/articles/172612)|
 |2023-10-20 04:02:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大一大二可以为考研做什么准备？](https://www.zhihu.com/question/59611334)|
 |2023-10-20 04:02:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么有些工程制图老师不允许学生用自动铅笔画图？](https://www.zhihu.com/question/346815509)|
 |2023-10-20 04:02:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果给一艘二战时期的战列舰配一台算力约等于八十年代超级计算机的系统，对战力的提升有多大？](https://www.zhihu.com/question/624958353)|
