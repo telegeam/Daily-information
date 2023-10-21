@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-21 02:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中概股简报：拼多多开启“双11”大促，百亿补贴上线新玩法](https://cn.wsj.com/amp/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%BC%80%E5%90%AF-%E5%8F%8C11-%E5%A4%A7%E4%BF%83-%E7%99%BE%E4%BA%BF%E8%A1%A5%E8%B4%B4%E4%B8%8A%E7%BA%BF%E6%96%B0%E7%8E%A9%E6%B3%95-3ddc812c)|
+|2023-10-21 01:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[俄罗斯法院延长美国记者Alsu Kurmasheva的审前拘留期](https://cn.wsj.com/amp/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E6%B3%95%E9%99%A2%E5%BB%B6%E9%95%BF%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85alsu-kurmasheva%E7%9A%84%E5%AE%A1%E5%89%8D%E6%8B%98%E7%95%99%E6%9C%9F-be50fe0a)|
+|2023-10-21 01:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美国和欧洲未能在峰会前解决特朗普时代的钢铁关税问题](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E5%92%8C%E6%AC%A7%E6%B4%B2%E6%9C%AA%E8%83%BD%E5%9C%A8%E5%B3%B0%E4%BC%9A%E5%89%8D%E8%A7%A3%E5%86%B3%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%B6%E4%BB%A3%E7%9A%84%E9%92%A2%E9%93%81%E5%85%B3%E7%A8%8E%E9%97%AE%E9%A2%98-2e451ec2)|
+|2023-10-21 01:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[马斯克宣布X将推出两种新的会员费套餐](https://cn.wsj.com/amp/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E5%B8%83x%E5%B0%86%E6%8E%A8%E5%87%BA%E4%B8%A4%E7%A7%8D%E6%96%B0%E7%9A%84%E4%BC%9A%E5%91%98%E8%B4%B9%E5%A5%97%E9%A4%90-e2474a2a)|
+|2023-10-21 01:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[UAW领导人称合同谈判取得进展，暂不扩大罢工规模](https://cn.wsj.com/amp/articles/uaw%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%A7%B0%E5%90%88%E5%90%8C%E8%B0%88%E5%88%A4%E5%8F%96%E5%BE%97%E8%BF%9B%E5%B1%95-%E6%9A%82%E4%B8%8D%E6%89%A9%E5%A4%A7%E7%BD%A2%E5%B7%A5%E8%A7%84%E6%A8%A1-f5b1cfd9)|
+|2023-10-21 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[哈马斯释放两名美国人质，美国向以色列施压要求推迟入侵加沙](https://cn.wsj.com/amp/articles/%E5%93%88%E9%A9%AC%E6%96%AF%E9%87%8A%E6%94%BE%E4%B8%A4%E5%90%8D%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%B4%A8-%E7%BE%8E%E5%9B%BD%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%BD%E5%8E%8B%E8%A6%81%E6%B1%82%E6%8E%A8%E8%BF%9F%E5%85%A5%E4%BE%B5%E5%8A%A0%E6%B2%99-fa333b68)|
+|2023-10-21 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美国股市收盘下跌，本周也走软](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E8%82%A1%E5%B8%82%E6%94%B6%E7%9B%98%E4%B8%8B%E8%B7%8C-%E6%9C%AC%E5%91%A8%E4%B9%9F%E8%B5%B0%E8%BD%AF-ed867196)|
+|2023-10-21 07:44:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[貌似“缺席”的父亲，一路在背后指引方向](https://dig.chouti.com/link/40359892)|
+|2023-10-21 06:07:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[过时的事｜李诞：这应该就是我人生中第一篇专栏文章了](https://dig.chouti.com/link/40359345)|
+|2023-10-21 03:10:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[狗主人亲属回应2岁女童被咬伤：大门没关好两只狗偷跑出门，主人曾出门寻找但没找到](https://dig.chouti.com/link/40358173)|
+|2023-10-21 07:01:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[法国著名演员伊莎贝尔·阿佳妮因税务欺诈及洗钱被处一年半监禁，缓期执行](https://dig.chouti.com/link/40359534)|
+|2023-10-21 07:00:00|[少数派](https://plink.anyfeeder.com/sspai)|[一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook](https://sspai.com/post/83728)|
+|2023-10-21 04:03:45|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[估值860亿美元，OpenAI再抛员工股票，仅次SpaceX，成顶级明星独角兽](https://36kr.com/p/2482494104622980)|
+|2023-10-21 04:03:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[欧莱雅连弃两子，化妆品快卷成处方药了｜ 焦点分析](https://36kr.com/p/2482485769426823)|
+|2023-10-21 04:03:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[TikTok跌倒后，Shopee和Lazada更疯了](https://36kr.com/p/2482533387098240)|
+|2023-10-21 04:03:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[抖音加码小时达，张一鸣暗战王兴](https://36kr.com/p/2482574372264067)|
+|2023-10-21 04:03:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[新信号！一线城市房价止跌，上海领涨](https://36kr.com/p/2482334283470722)|
+|2023-10-21 04:03:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[氪星晚报丨天猫双11首次大规模推出官方直降、立减；我国累计建成5G基站318.9万个；宁德时代：预期明年行业健康增长](https://36kr.com/p/2482567448156038)|
+|2023-10-21 07:05:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[诺基亚宣布裁减1.4万人 科技巨头为何频曝裁员？](https://m.cnbeta.com.tw/view/1391369.htm)|
 |2023-10-21 02:53:47|[木木木木木](https://immmmm.com/atom.xml)|[Memos x Telegram Bot](https://immmmm.com/memos-by-telegram-bot/)|
 |2023-10-21 08:12:36|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 Quantumult X 的策略组应该是最好用的](https://www.v2ex.com/t/984059#reply0)|
 |2023-10-21 08:09:23|[V2EX](https://v2ex.com/index.xml)|[ 问与答 我想给用 flutter 开发的听书 app 接广告](https://www.v2ex.com/t/984058#reply0)|
