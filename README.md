@@ -2,6 +2,37 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-21 00:51:44|[极客公园](https://plink.anyfeeder.com/geekpark)|[宿华辞任快手董事长，CEO 程一笑兼任；科大讯飞：华为处理器可对标英伟达 A100；英特尔：2025 发展 1 亿台 AI PC 极客早知道](http://www.geekpark.net/news/326304)|
+|2023-10-21 03:00:59|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 新写的一个方便大家发邀请码的网站 https://invitecode.cc/](https://www.v2ex.com/t/984006#reply1)|
+|2023-10-21 02:58:10|[V2EX](https://v2ex.com/index.xml)|[ 问与答 开源项目推广有什么好的渠道吗？](https://www.v2ex.com/t/984005#reply4)|
+|2023-10-21 02:53:55|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 iPhone SE giffgaff eSIM 历经坎坷激活成功](https://www.v2ex.com/t/984004#reply0)|
+|2023-10-21 02:49:09|[V2EX](https://v2ex.com/index.xml)|[ 问与答 如何控制 Windows 窗口程序 和 获取对应数据? 没有接口, 也没有继续开发的情况下 ](https://www.v2ex.com/t/984002#reply1)|
+|2023-10-21 02:47:44|[V2EX](https://v2ex.com/index.xml)|[ Apple TV 空闲时间写了一个 Apple TV 的聚合直播，欢迎下载](https://www.v2ex.com/t/984001#reply4)|
+|2023-10-21 02:47:13|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 有没有这种一种套餐](https://www.v2ex.com/t/984000#reply0)|
+|2023-10-21 02:45:43|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没有老哥锐评一下今年的皮鞋吧和皮鞋巴普洛](https://www.v2ex.com/t/983999#reply0)|
+|2023-10-21 02:43:29|[V2EX](https://v2ex.com/index.xml)|[ Chrome 怎么关闭 chrome 的密码自动填充，已经在设置里面关闭了自动填充还是会弹出来](https://www.v2ex.com/t/983998#reply0)|
+|2023-10-21 02:40:51|[V2EX](https://v2ex.com/index.xml)|[ Android android pixel 系统复制 nfc 门卡，哪个 app 比较好？](https://www.v2ex.com/t/983997#reply0)|
+|2023-10-21 02:37:31|[V2EX](https://v2ex.com/index.xml)|[ 耳机 有没有用过睡眠耳机的](https://www.v2ex.com/t/983996#reply5)|
+|2023-10-21 02:15:43|[V2EX](https://v2ex.com/index.xml)|[ 问与答 请问大佬们这套值几个钱](https://www.v2ex.com/t/983993#reply6)|
+|2023-10-21 02:10:28|[V2EX](https://v2ex.com/index.xml)|[ Apple 有没有什么软件能用 Mac 的键盘操作 Windows？](https://www.v2ex.com/t/983991#reply1)|
+|2023-10-21 02:04:37|[V2EX](https://v2ex.com/index.xml)|[ 问与答 Thinkbook 2023 14+ 能升级 64G 内存么？](https://www.v2ex.com/t/983989#reply4)|
+|2023-10-21 02:03:47|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想要对接一个简单的支付接口，支持微信支付宝的](https://www.v2ex.com/t/983988#reply1)|
+|2023-10-21 01:54:14|[V2EX](https://v2ex.com/index.xml)|[ 服务器 咨询一下零刻 EQ12 N100](https://www.v2ex.com/t/983987#reply2)|
+|2023-10-21 01:47:21|[V2EX](https://v2ex.com/index.xml)|[ iPhone iPhone15PM 系列大面积铺货了，今年双十一有可能有优惠](https://www.v2ex.com/t/983986#reply3)|
+|2023-10-21 01:42:40|[V2EX](https://v2ex.com/index.xml)|[ OpenAI API 注册太难了](https://www.v2ex.com/t/983984#reply3)|
+|2023-10-21 01:41:35|[V2EX](https://v2ex.com/index.xml)|[  WATCH Apple Watch Ultra 在温度低的情景下有没有检测不到心率的情况？](https://www.v2ex.com/t/983983#reply4)|
+|2023-10-21 01:33:13|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 我的 SMB 传输速度为什么这么慢？](https://www.v2ex.com/t/983981#reply4)|
+|2023-10-21 01:26:14|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 来了，新版 Escrcpy@v1.8.11 发布，全平台支持与高级定制功能，不一样的体验；使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。](https://www.v2ex.com/t/983979#reply4)|
+|2023-10-21 01:25:23|[V2EX](https://v2ex.com/index.xml)|[ 职场话题 第一次当“面试官”的感受](https://www.v2ex.com/t/983978#reply8)|
+|2023-10-21 01:17:18|[V2EX](https://v2ex.com/index.xml)|[ NAS nas 加装 ssd 使用问题](https://www.v2ex.com/t/983977#reply15)|
+|2023-10-21 01:09:43|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 请教大佬们个情况， wireguard 能 ping 通，但是各种服务都连不上是怎么回事。。。](https://www.v2ex.com/t/983976#reply3)|
+|2023-10-21 01:09:13|[V2EX](https://v2ex.com/index.xml)|[ 求职 谈谈目前失业两个月后状态，顺带求个职，武汉 or 深圳，五年 Java 经验](https://www.v2ex.com/t/983975#reply8)|
+|2023-10-21 01:00:47|[V2EX](https://v2ex.com/index.xml)|[ iPad 急问， mini 7 没出，决定买 6 了，容量选多大？](https://www.v2ex.com/t/983973#reply24)|
+|2023-10-21 00:45:44|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 安卓 装了太多应用找不到？让我帮你一秒开启应用](https://www.v2ex.com/t/983972#reply36)|
+|2023-10-21 00:39:48|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 frp 不能同时转发同一端口的 UDP/TCP](https://www.v2ex.com/t/983971#reply4)|
+|2023-10-21 00:39:08|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 支付宝体验技术部招人啦！前端研发（AI 方向）](https://www.v2ex.com/t/983970#reply2)|
+|2023-10-21 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：《涉过愤怒的海》定档 11 月 25 日、Wacom 发布两款 Cintiq Pro 新品](http://www.toodaylab.com/82319)|
+|2023-10-21 01:00:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[大投机：人类历史最早的股灾，竟是政府攒的局？](http://www.huxiu.com/article/2190499.html?f=wangzhan)|
 |2023-10-21 00:40:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[为什么成功的人多半有点“变态”？](https://www.huxiu.com/article/2199698.html?f=rss)|
 |2023-10-21 00:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[Livehouse的钱，开始好赚了](https://www.huxiu.com/article/2199973.html?f=rss)|
 |2023-10-21 00:45:44|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 安卓 装了太多应用找不到？让我帮你一秒开启应用](https://www.v2ex.com/t/983972#reply0)|
