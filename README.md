@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-21 00:40:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[为什么成功的人多半有点“变态”？](https://www.huxiu.com/article/2199698.html?f=rss)|
+|2023-10-21 00:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[Livehouse的钱，开始好赚了](https://www.huxiu.com/article/2199973.html?f=rss)|
 |2023-10-21 00:45:44|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 安卓 装了太多应用找不到？让我帮你一秒开启应用](https://www.v2ex.com/t/983972#reply0)|
 |2023-10-21 00:39:48|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 frp 不能同时转发同一端口的 UDP/TCP](https://www.v2ex.com/t/983971#reply0)|
 |2023-10-21 00:39:08|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 支付宝体验技术部招人啦！前端研发（AI 方向）](https://www.v2ex.com/t/983970#reply0)|
