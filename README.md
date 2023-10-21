@@ -2,6 +2,75 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-21 03:35:27|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[耐克大中华区将实行四天工作制](https://m.cnbeta.com.tw/view/1391361.htm)|
+|2023-10-21 03:06:30|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[黄仁勋回应AI芯片禁令：整晚都在与公司团队讨论 全力支持中国客户](https://m.cnbeta.com.tw/view/1391355.htm)|
+|2023-10-21 03:06:16|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[CRH2G高寒动车组即将上线成都 零下40度仍可正常运行](https://m.cnbeta.com.tw/view/1391353.htm)|
+|2023-10-21 03:06:03|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果发布iOS 17.1 RC版：修复iPhone 15烧屏问题](https://m.cnbeta.com.tw/view/1391351.htm)|
+|2023-10-21 03:05:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iPhone 14车祸检测功能又救了司机一命](https://m.cnbeta.com.tw/view/1391349.htm)|
+|2023-10-21 03:05:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[人工智能正在整理维基百科的参考资料以提高可靠性](https://m.cnbeta.com.tw/view/1391345.htm)|
+|2023-10-21 03:05:18|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[开源AI公司"Hugging Face"确认在中国存在"令人遗憾的可访问性问题"](https://m.cnbeta.com.tw/view/1391343.htm)|
+|2023-10-21 02:36:53|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果员工性侵米哈游员工被解雇 网友爆料：双方都是男的](https://m.cnbeta.com.tw/view/1391333.htm)|
+|2023-10-21 02:36:43|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[中国调整出口管制清单 三种高敏感石墨物项列入其中](https://m.cnbeta.com.tw/view/1391331.htm)|
+|2023-10-21 02:36:32|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[直播间人气爆棚，原来是26000部手机自动刷屏……](https://m.cnbeta.com.tw/view/1391329.htm)|
+|2023-10-21 02:36:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[达摩院首个遥感AI大模型发布 一个模型即可识别地表万物](https://m.cnbeta.com.tw/view/1391327.htm)|
+|2023-10-21 02:36:05|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[英伟达将如何应对新的芯片出口限制？](https://m.cnbeta.com.tw/view/1391325.htm)|
+|2023-10-21 02:35:51|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[“非洲手机之王”走出非洲，净利暴涨](https://m.cnbeta.com.tw/view/1391323.htm)|
+|2023-10-21 02:35:38|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[标普上调希腊信用评级 时隔10逾年后重返投资级](https://m.cnbeta.com.tw/view/1391321.htm)|
+|2023-10-21 02:35:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美联航拟让靠窗乘客先登机 实测可以省2分钟](https://m.cnbeta.com.tw/view/1391319.htm)|
+|2023-10-21 05:28:47|[虎嗅](https://plink.anyfeeder.com/huxiu)|[我让“马斯克”和“扎克伯格”在这个群大吵了一架](https://www.huxiu.com/article/2201070.html?f=rss)|
+|2023-10-21 05:00:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[不靠3A大作，靠降智广告在游戏界杀出血路？](https://www.huxiu.com/article/2198156.html?f=rss)|
+|2023-10-21 04:47:29|[虎嗅](https://plink.anyfeeder.com/huxiu)|[山西原地税局局长卢晓中被查](https://www.huxiu.com/article/2199479.html?f=rss)|
+|2023-10-21 04:40:51|[虎嗅](https://plink.anyfeeder.com/huxiu)|[低价团购，餐饮老板卷不动了](https://www.huxiu.com/article/2200525.html?f=rss)|
+|2023-10-21 04:30:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[​去婺源，晒一场秋](https://www.huxiu.com/article/2200578.html?f=rss)|
+|2023-10-21 05:18:22|[爱范儿](https://www.ifanr.com/feed)|[我让马斯克和扎克伯格在这个群大吵了一架](https://www.ifanr.com/1565501?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-21 05:34:24|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[5000亿苏州银行管理层频“换血”，70后王强执掌“帅印”，副行长已“两进一出”](https://www.tmtpost.com/6753370.html)|
+|2023-10-21 05:30:49|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[万科郁亮：市场短期存压力，长期要有信心｜ 直击交流会](https://www.tmtpost.com/6753414.html)|
+|2023-10-21 05:28:44|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[和邦生物Q3扣非净利润环比增长102%，拟落子印尼继续加码IDA法草甘膦及纯碱产能｜看财报](https://www.tmtpost.com/6753597.html)|
+|2023-10-21 03:10:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[TikTok跌倒后，Shopee和Lazada更疯了](https://www.tmtpost.com/6753359.html)|
+|2023-10-21 03:04:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[短剧商业化寻路，让用户付费到底难不难？](https://www.tmtpost.com/6753298.html)|
+|2023-10-21 02:57:56|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[快手2023：宿华离任遇上33次回购，新看点还有哪些？](https://www.tmtpost.com/6753579.html)|
+|2023-10-21 02:49:53|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[苦难祛魅，这届年轻人只想要「一帆风顺」](https://www.tmtpost.com/6753563.html)|
+|2023-10-21 02:45:51|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[团购卷向9块9，餐饮老板成“炮灰”？](https://www.tmtpost.com/6753544.html)|
+|2023-10-21 02:38:47|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[又一个增长故事，明星小卡“药不能停”](https://www.tmtpost.com/6753431.html)|
+|2023-10-21 02:20:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[《繁城之下》:凶手在乱杀，腾讯在偷家](https://www.tmtpost.com/6753249.html)|
+|2023-10-21 02:15:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[猛兽派对，南辕北辙](https://www.tmtpost.com/6753238.html)|
+|2023-10-21 02:12:51|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[清华系独角兽融资超25亿，中美大模型持续“狂飙”｜钛媒体焦点](https://www.tmtpost.com/6753393.html)|
+|2023-10-21 02:12:15|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[OpenAI CEO首次回应：不排除自研芯片｜钛媒体独家](https://www.tmtpost.com/6749611.html)|
+|2023-10-21 02:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[从演员转型为制作人，谁是“内娱林心如”？](https://www.tmtpost.com/6753201.html)|
+|2023-10-21 01:50:26|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[China Imposes Export Control on Graphite, the Key EV Battery Material](https://www.tmtpost.com/6753492.html)|
+|2023-10-21 01:42:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[东方甄选推会员制，能留下多少“丈母娘”？](https://www.tmtpost.com/6753200.html)|
+|2023-10-21 06:11:24|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 家人们有什么鞋推荐](https://www.v2ex.com/t/984035#reply0)|
+|2023-10-21 06:07:40|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 想问一下大家的 15pm 都买了那些配件，可以分享一下吗？](https://www.v2ex.com/t/984034#reply0)|
+|2023-10-21 06:01:04|[V2EX](http://www.v2ex.com/index.xml)|[ YouTube 今年以来， YouTube 官方是否对视频下载工具/网站作出了下载限制？](https://www.v2ex.com/t/984033#reply2)|
+|2023-10-21 06:00:31|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 感觉 15PM 散热还不如 15Pro](https://www.v2ex.com/t/984032#reply1)|
+|2023-10-21 05:57:41|[V2EX](http://www.v2ex.com/index.xml)|[ Docker 如何让一个 Docker 容器在系统启动时延迟启动](https://www.v2ex.com/t/984031#reply4)|
+|2023-10-21 05:54:08|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Google Pay 可以接入个人独立站吗？](https://www.v2ex.com/t/984030#reply0)|
+|2023-10-21 05:53:28|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 如果别人拿我的微信云环境当图床使用，微信有没有防御措施？](https://www.v2ex.com/t/984029#reply0)|
+|2023-10-21 05:50:28|[V2EX](http://www.v2ex.com/index.xml)|[ Netflix 奈飞 4k 老车补车友](https://www.v2ex.com/t/984028#reply0)|
+|2023-10-21 05:29:36|[V2EX](http://www.v2ex.com/index.xml)|[ 投资 港卡理财？](https://www.v2ex.com/t/984027#reply3)|
+|2023-10-21 05:18:00|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 大家都是怎么用台前调度的](https://www.v2ex.com/t/984025#reply10)|
+|2023-10-21 05:13:02|[V2EX](http://www.v2ex.com/index.xml)|[ LeetCode 2018 年之前大家怎么准备的面试？](https://www.v2ex.com/t/984024#reply0)|
+|2023-10-21 05:07:34|[V2EX](http://www.v2ex.com/index.xml)|[ iOS 分享一个切换蜂窝数据的快捷指令（shortcut）](https://www.v2ex.com/t/984023#reply3)|
+|2023-10-21 04:45:36|[V2EX](http://www.v2ex.com/index.xml)|[ iOS ios 有什么规则可以屏蔽 twitter 上的广告吗？](https://www.v2ex.com/t/984022#reply3)|
+|2023-10-21 04:45:29|[V2EX](http://www.v2ex.com/index.xml)|[ Linux 小白问个 crontab 定时任务执行的问题](https://www.v2ex.com/t/984021#reply9)|
+|2023-10-21 04:44:20|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 腾讯现在还提供 url.cn 这种短链接服务吗？ 还有大公司提供吗？](https://www.v2ex.com/t/984020#reply3)|
+|2023-10-21 04:42:27|[V2EX](http://www.v2ex.com/index.xml)|[ Firefox ios 版 firefox 居然不支持密码填充？](https://www.v2ex.com/t/984019#reply0)|
+|2023-10-21 04:31:55|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 有人知道经常小视频那种 成人小孩音 是怎么配得吗](https://www.v2ex.com/t/984018#reply1)|
+|2023-10-21 04:29:41|[V2EX](http://www.v2ex.com/index.xml)|[ 站长 转 jabber.ru 遭中间人攻击（似乎是机房劫持 IP 签发 TLS 证书）](https://www.v2ex.com/t/984017#reply0)|
+|2023-10-21 04:29:32|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 tailon](https://www.v2ex.com/t/984016#reply2)|
+|2023-10-21 03:58:33|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 杭州/宁波/济南 内推 恒生云融招聘 Java 开发工程师、测试、项目经理、架构师等。HC 有 10 多个](https://www.v2ex.com/t/984014#reply0)|
+|2023-10-21 03:58:29|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 家里有款 09 年 iMac ，请问能自己手动 diy 升级下配置么](https://www.v2ex.com/t/984013#reply5)|
+|2023-10-21 03:41:38|[V2EX](http://www.v2ex.com/index.xml)|[ Go 编程语言 go mod tidy 总是安装最新依赖，如何查找哪个模块导致某个包安装最新依赖，提供一个小工具](https://www.v2ex.com/t/984012#reply2)|
+|2023-10-21 03:27:12|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Redis 服务挂了，一段时间后又恢复，不会造成缓存与数据库不一致吗?](https://www.v2ex.com/t/984010#reply3)|
+|2023-10-21 03:22:54|[V2EX](http://www.v2ex.com/index.xml)|[ macOS 2023 年在 MAC M 系列运行安卓模拟器有什么好的方法吗？](https://www.v2ex.com/t/984009#reply1)|
+|2023-10-21 03:13:36|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro 刚买的 MacBook Pro 14' 翻新版到了，但是有点小瑕疵，不知是不是通病？](https://www.v2ex.com/t/984007#reply0)|
+|2023-10-21 03:00:59|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 新写的一个方便大家发邀请码的网站 https://invitecode.cc/](https://www.v2ex.com/t/984006#reply18)|
+|2023-10-21 02:58:10|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 开源项目推广有什么好的渠道吗？](https://www.v2ex.com/t/984005#reply7)|
+|2023-10-21 02:53:55|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 iPhone SE giffgaff eSIM 历经坎坷激活成功](https://www.v2ex.com/t/984004#reply2)|
+|2023-10-21 02:49:09|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 如何控制 Windows 窗口程序 和 获取对应数据? 没有接口, 也没有继续开发的情况下 ](https://www.v2ex.com/t/984002#reply10)|
+|2023-10-21 02:47:44|[V2EX](http://www.v2ex.com/index.xml)|[ Apple TV 空闲时间写了一个 Apple TV 的聚合直播，欢迎下载](https://www.v2ex.com/t/984001#reply30)|
+|2023-10-21 02:47:13|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 有没有这种一种套餐](https://www.v2ex.com/t/984000#reply13)|
+|2023-10-21 02:00:03|[机核](https://plink.anyfeeder.com/gcores)|[我们制作的游戏《DriftSurvivor漂移幸存者》今天发售了！](https://www.gcores.com/videos/172650)|
 |2023-10-21 02:40:51|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[android pixel 系统复制 nfc 门卡，哪个 app 比较好？](https://www.v2ex.com/t/983997#reply6)|
 |2023-10-21 01:17:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[nas 加装 ssd 使用问题](https://www.v2ex.com/t/983977#reply18)|
 |2023-10-21 04:45:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[小白问个 crontab 定时任务执行的问题](https://www.v2ex.com/t/984021#reply0)|
