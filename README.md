@@ -1,7 +1,14 @@
-﻿# 每日资讯（2023-10-20）
+﻿# 每日资讯（2023-10-21）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-21 00:45:44|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 安卓 装了太多应用找不到？让我帮你一秒开启应用](https://www.v2ex.com/t/983972#reply0)|
+|2023-10-21 00:39:48|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 frp 不能同时转发同一端口的 UDP/TCP](https://www.v2ex.com/t/983971#reply0)|
+|2023-10-21 00:39:08|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 支付宝体验技术部招人啦！前端研发（AI 方向）](https://www.v2ex.com/t/983970#reply0)|
+|2023-10-21 00:30:33|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 有对密室逃脱游戏感兴趣的吗，我做了一个开源模板](https://www.v2ex.com/t/983969#reply0)|
+|2023-10-21 00:25:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 中文文案排版指北有没有插件实现？](https://www.v2ex.com/t/983968#reply3)|
+|2023-10-21 00:30:55|[爱范儿](https://www.ifanr.com/feed)|[华为六周内售出 160 万部 Mate60 Pro/耐克中国将试行 4+1 混合工作制/钟薛高回应欠薪传闻 未来周报](https://www.ifanr.com/1565657?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-21 00:34:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[两个月开4店，奈雪加盟交卷](https://www.tmtpost.com/6753111.html)|
 |2023-10-20 07:48:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有无懂哥解释下 @PostMapping 与 @PutMapping 注解本质上到底有什么区别](https://www.v2ex.com/t/983827#reply16)|
 |2023-10-20 09:59:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教一下各位 V 友关于 Pybind11 封装 Python 接口， pyd 库对于各个版本的 Python 的兼容问题](https://www.v2ex.com/t/983880#reply1)|
 |2023-10-20 06:38:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 Golang 不处理数据库操作的 error 的一点思考](https://www.v2ex.com/t/983809#reply20)|
