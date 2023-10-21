@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-21 10:00:00|[虎嗅](https://rss.huxiu.com/)|[手机成瘾危害大脑，直接戒只会起反作用？](https://www.huxiu.com/article/2200120.html?f=rss)|
+|2023-10-21 09:14:14|[虎嗅](https://rss.huxiu.com/)|[游戏教父，祸起萧墙？](https://www.huxiu.com/article/2202019.html?f=rss)|
+|2023-10-21 09:00:00|[虎嗅](https://rss.huxiu.com/)|[直播卖艺可以，卖货不行？](https://www.huxiu.com/article/2198573.html?f=rss)|
+|2023-10-21 08:00:00|[虎嗅](https://rss.huxiu.com/)|[劝人文身，容易遭雷劈](https://www.huxiu.com/article/2193107.html?f=rss)|
+|2023-10-21 08:45:01|[法广](https://plink.anyfeeder.com/rfi/cn)|[面对移民、医保、气候危机，瑞士开启立法选举](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20231021-%E9%9D%A2%E5%AF%B9%E7%A7%BB%E6%B0%91-%E5%8C%BB%E4%BF%9D-%E6%B0%94%E5%80%99%E5%8D%B1%E6%9C%BA%EF%BC%8C%E7%91%9E%E5%A3%AB%E5%BC%80%E5%90%AF%E7%AB%8B%E6%B3%95%E9%80%89%E4%B8%BE)|
+|2023-10-21 05:59:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【乌镇戏剧节十年对话赖声川】十年前，为了让更多国外戏剧作品来到乌镇，赖声川只能靠自己的人脉去“求”对方来。十年后的赖声川，带着点小小的骄傲感告诉记者：“十年了，现在我可以跟大家报告，已经全部倒过来了，（现在）是这些伟大的团队主动跟我们联系。”](https://dig.chouti.com/link/40359151)|
+|2023-10-21 06:09:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被称为“杂技天后”的歌手P!NK为了训练唱功与核心能力的幕后释出（13秒开始）：在腹部上面站着人的情况下唱歌](https://dig.chouti.com/link/40359393)|
 |2023-10-21 02:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中概股简报：拼多多开启“双11”大促，百亿补贴上线新玩法](https://cn.wsj.com/amp/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%BC%80%E5%90%AF-%E5%8F%8C11-%E5%A4%A7%E4%BF%83-%E7%99%BE%E4%BA%BF%E8%A1%A5%E8%B4%B4%E4%B8%8A%E7%BA%BF%E6%96%B0%E7%8E%A9%E6%B3%95-3ddc812c)|
 |2023-10-21 01:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[俄罗斯法院延长美国记者Alsu Kurmasheva的审前拘留期](https://cn.wsj.com/amp/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E6%B3%95%E9%99%A2%E5%BB%B6%E9%95%BF%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85alsu-kurmasheva%E7%9A%84%E5%AE%A1%E5%89%8D%E6%8B%98%E7%95%99%E6%9C%9F-be50fe0a)|
 |2023-10-21 01:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[美国和欧洲未能在峰会前解决特朗普时代的钢铁关税问题](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E5%92%8C%E6%AC%A7%E6%B4%B2%E6%9C%AA%E8%83%BD%E5%9C%A8%E5%B3%B0%E4%BC%9A%E5%89%8D%E8%A7%A3%E5%86%B3%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%B6%E4%BB%A3%E7%9A%84%E9%92%A2%E9%93%81%E5%85%B3%E7%A8%8E%E9%97%AE%E9%A2%98-2e451ec2)|
