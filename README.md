@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-21 02:40:51|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[android pixel 系统复制 nfc 门卡，哪个 app 比较好？](https://www.v2ex.com/t/983997#reply6)|
+|2023-10-21 01:17:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[nas 加装 ssd 使用问题](https://www.v2ex.com/t/983977#reply18)|
+|2023-10-21 04:45:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[小白问个 crontab 定时任务执行的问题](https://www.v2ex.com/t/984021#reply0)|
+|2023-10-21 03:32:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[Telegram、AWS和阿里云的用户们遭到最新的供应链攻击](https://www.4hou.com/posts/xzrr)|
+|2023-10-21 03:30:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[钓鱼电子邮件使用二维码发起攻击的可能性](https://www.4hou.com/posts/9APx)|
 |2023-10-21 04:12:23|[虎嗅](https://rss.huxiu.com/)|[揭秘“ChatGPT中介”背后的“兼职商机”](https://www.huxiu.com/article/2199477.html?f=rss)|
 |2023-10-21 04:00:00|[虎嗅](https://rss.huxiu.com/)|[为什么现在越来越多的人情绪亚健康？](https://www.huxiu.com/article/2194555.html?f=rss)|
 |2023-10-21 03:34:00|[虎嗅](https://rss.huxiu.com/)|[A股等待“戈多”](https://www.huxiu.com/article/2199476.html?f=rss)|
