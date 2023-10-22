@@ -1,7 +1,10 @@
-﻿# 每日资讯（2023-10-21）
+﻿# 每日资讯（2023-10-22）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-22 00:47:42|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 想招几个实习生](https://www.v2ex.com/t/984184#reply0)|
+|2023-10-22 00:03:26|[V2EX](http://www.v2ex.com/index.xml)|[ 微信 Windows2022 的服务器，允许多人同时远程访问，请问这样的系统里面每个用户可以跑一个独立的微信的 Windows 客户端么？](https://www.v2ex.com/t/984181#reply6)|
+|2023-10-22 00:25:38|[虎嗅](https://rss.huxiu.com/)|[为什么年轻人变得“抠门”了？](https://www.huxiu.com/article/2202299.html?f=rss)|
 |2023-10-21 10:00:00|[虎嗅](https://rss.huxiu.com/)|[手机成瘾危害大脑，直接戒只会起反作用？](https://www.huxiu.com/article/2200120.html?f=rss)|
 |2023-10-21 09:14:14|[虎嗅](https://rss.huxiu.com/)|[游戏教父，祸起萧墙？](https://www.huxiu.com/article/2202019.html?f=rss)|
 |2023-10-21 09:00:00|[虎嗅](https://rss.huxiu.com/)|[直播卖艺可以，卖货不行？](https://www.huxiu.com/article/2198573.html?f=rss)|
