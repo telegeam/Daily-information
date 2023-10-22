@@ -2,6 +2,23 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-22 06:07:56|[渚碧](https://jubeny.com/feed.xml)|[新手机的最大好处](https://jubeny.com/2023/10/the-biggest-advantage-of-my-new-phone/)|
+|2023-10-22 10:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#257：《妖精：阿瓦隆传奇》](https://www.gcores.com/articles/172666)|
+|2023-10-22 06:33:15|[机核](https://www.gcores.com/rss)|[JOYTOY战锤40K新品公布：先锋老兵与仇天使参战](https://www.gcores.com/articles/172693)|
+|2023-10-22 10:00:37|[V2EX](https://v2ex.com/index.xml)|[ 问与答 预算 200 帮忙看个 Linux 问题，帮我重启物理机](https://www.v2ex.com/t/984264#reply1)|
+|2023-10-22 09:57:59|[V2EX](https://v2ex.com/index.xml)|[ 互联网 在内网中成功做种（BitTorrent）](https://www.v2ex.com/t/984263#reply0)|
+|2023-10-22 09:55:34|[V2EX](https://v2ex.com/index.xml)|[ 程序员 edge 扩展和 chrome 扩展审核一般是几天？](https://www.v2ex.com/t/984262#reply0)|
+|2023-10-22 09:31:39|[V2EX](https://v2ex.com/index.xml)|[ 问与答 很多浏览器插件都可以读取网页上的全部内容，那敏感私人信息会不会因此而大量泄漏？](https://www.v2ex.com/t/984261#reply0)|
+|2023-10-22 09:25:48|[V2EX](https://v2ex.com/index.xml)|[ 程序员 轻薄笔记本是不是都无法自己加装内存? 顺带求一款码农笔记本, 双十一入](https://www.v2ex.com/t/984259#reply1)|
+|2023-10-22 09:15:04|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 三年缅北打工日记](https://www.v2ex.com/t/984258#reply1)|
+|2023-10-22 09:14:23|[V2EX](https://v2ex.com/index.xml)|[ 程序员 有没有厂商发布的兼容列表中包含 Windows Server 的笔记本电脑？](https://www.v2ex.com/t/984257#reply0)|
+|2023-10-22 09:13:55|[V2EX](https://v2ex.com/index.xml)|[ 问与答 yarn 安装的包， vscode 就无法提示导入，有救吗](https://www.v2ex.com/t/984256#reply0)|
+|2023-10-22 09:10:08|[V2EX](https://v2ex.com/index.xml)|[ 问与答 机场好像屏蔽了包含 torrent 的所有站点，能反屏蔽么？](https://www.v2ex.com/t/984255#reply4)|
+|2023-10-22 09:08:53|[V2EX](https://v2ex.com/index.xml)|[ 问与答 你的 100 万- 1000 万，是如何赚到的？](https://www.v2ex.com/t/984254#reply5)|
+|2023-10-22 07:35:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[理想高铁头开到上海滩 热梗又爆了](https://m.cnbeta.com.tw/view/1391513.htm)|
+|2023-10-22 07:35:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[一地鸡毛的威马汽车，还能“像牲口活下去”吗？](https://m.cnbeta.com.tw/view/1391511.htm)|
+|2023-10-22 08:02:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[别拿威马的“死”，绑架所有新势力](http://www.huxiu.com/article/2205181.html?f=wangzhan)|
+|2023-10-22 09:05:25|[虎嗅](https://plink.anyfeeder.com/huxiu)|[日本终身雇佣制塑造的“人上人”、“人下人”](https://www.huxiu.com/article/2205510.html?f=rss)|
 |2023-10-22 10:57:30|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[王的♂演讲（光明圣经）](https://masuit.com/2120)|
 |2023-10-22 09:10:25|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[新品上市，专属价3200元起，27寸2k240Hz IPS新电竞屏旗舰来了！直降200元！](https://masuit.com/p133)|
 |2023-10-22 10:56:59|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[威力导演CyberLink PowerDirector 2024 Ultimate 22.0.2129多语言学习版](https://masuit.com/1307)|
