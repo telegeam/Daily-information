@@ -2,6 +2,26 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-22 04:05:20|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[一代经典即将回归 smart 确认推出纯电双座汽车：有望定名精灵#2](https://m.cnbeta.com.tw/view/1391507.htm)|
+|2023-10-22 03:36:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[微软扫雷（Minesweeper）游戏的前世今生](https://m.cnbeta.com.tw/view/1391495.htm)|
+|2023-10-22 03:36:13|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[配备大尺寸LCD显示屏的苹果HomePod谍照曝光](https://m.cnbeta.com.tw/view/1391493.htm)|
+|2023-10-22 03:35:57|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[日产推出全新豪华MPV 与丰田埃尔法同级 明年一季度上市](https://m.cnbeta.com.tw/view/1391491.htm)|
+|2023-10-22 03:35:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[可远程控制 自带轮毂电机 Pebble首款智能拖挂房车专为新能源汽车打造](https://m.cnbeta.com.tw/view/1391489.htm)|
+|2023-10-22 03:35:31|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[超市里十块一斤的火锅肉丸 能吃吗？](https://m.cnbeta.com.tw/view/1391487.htm)|
+|2023-10-22 03:35:16|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[俞敏洪谈情侣海外求学：如果女生先出国 80%会跟男生分手](https://m.cnbeta.com.tw/view/1391485.htm)|
+|2023-10-22 03:06:29|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[直达手机的SpaceX Starlink Direct-to-Cell蜂窝通信卫星有望于明年发射](https://m.cnbeta.com.tw/view/1391479.htm)|
+|2023-10-22 03:06:13|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[三星为Galaxy S24系列机型找到第四家电池供应商 来自印度](https://m.cnbeta.com.tw/view/1391477.htm)|
+|2023-10-22 03:05:58|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[官宣倒计时 小米14系列即将发布](https://m.cnbeta.com.tw/view/1391475.htm)|
+|2023-10-22 03:05:45|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[分析师：苹果最早将于明年底将生成式AI整合到iPhone和iPad中](https://m.cnbeta.com.tw/view/1391467.htm)|
+|2023-10-22 03:05:30|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[外媒：NASA与SpaceX因登月计划推迟而关系紧张](https://m.cnbeta.com.tw/view/1391465.htm)|
+|2023-10-22 03:05:19|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[库克悄悄去了趟成都 居然还看了一场《王者荣耀》比赛？](https://m.cnbeta.com.tw/view/1391463.htm)|
+|2023-10-22 02:36:02|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[余承东的起死回生 全靠“学习”爱马仕？](https://m.cnbeta.com.tw/view/1391459.htm)|
+|2023-10-22 02:35:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[理想MEGA实车街头曝光 设计师：这是真正期待的时刻](https://m.cnbeta.com.tw/view/1391455.htm)|
+|2023-10-22 02:35:35|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[华为非凡大师新Logo亮相：中间H图案抢眼 有奢侈品那味了](https://m.cnbeta.com.tw/view/1391453.htm)|
+|2023-10-22 02:35:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[发不出工资的钟薛高，何以至此？](https://m.cnbeta.com.tw/view/1391451.htm)|
+|2023-10-22 06:47:07|[虎嗅](https://rss.huxiu.com/)|[GPT-4的“自我纠正”，反而越改越错？](https://www.huxiu.com/article/2204840.html?f=rss)|
+|2023-10-22 04:01:29|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[失望三年后恰好相见：闲话 iPhone 15 Pro](https://sspai.com/post/83577)|
+|2023-10-22 05:35:39|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“钙王”朗迪被顶格重罚1.4亿，昔日“老东家”振东制药为其代工厂丨钛媒体焦点](https://www.tmtpost.com/6754059.html)|
 |2023-10-22 06:13:26|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 网线测通疑惑](https://www.v2ex.com/t/984219#reply0)|
 |2023-10-22 05:39:27|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 请教这种网站用什么程序做？看到好多同款了，好像分分钟就能搞一个官网出来](https://www.v2ex.com/t/984218#reply1)|
 |2023-10-22 04:43:58|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 这是一条十分强大的 Prompt，大家用过吗？](https://www.v2ex.com/t/984214#reply4)|
