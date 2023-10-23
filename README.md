@@ -2,6 +2,52 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-23 01:10:08|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立产品灵感周刊 DecoHack #053 - 有意思的地图网站](https://w2solo.com/topics/4208)|
+|2023-10-23 00:40:39|[极客公园](https://plink.anyfeeder.com/geekpark)|[苹果计划每年投资 10 亿美元发展生成式 AI；微信更新聊天消息提示功能；LLM 新缺陷曝光](http://www.geekpark.net/news/326310)|
+|2023-10-23 02:17:48|[V2EX](http://www.v2ex.com/index.xml)|[ VMware Vmware Workstation 真的是不思进取了](https://www.v2ex.com/t/984404#reply0)|
+|2023-10-23 02:14:47|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 有什么推荐的技术知识付费平台吗](https://www.v2ex.com/t/984403#reply2)|
+|2023-10-23 02:09:09|[V2EX](http://www.v2ex.com/index.xml)|[ VPS 202310 求推荐科学上网快一些的搭建方案](https://www.v2ex.com/t/984402#reply2)|
+|2023-10-23 02:08:26|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 想在双十一买个硬盘请问是买 16t 还是 18T 或者更大的](https://www.v2ex.com/t/984401#reply1)|
+|2023-10-23 02:05:58|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 深圳哪里可以租短租房？](https://www.v2ex.com/t/984399#reply0)|
+|2023-10-23 02:05:22|[V2EX](http://www.v2ex.com/index.xml)|[ 全球工单系统 有没有 Boss 直聘的同行？“优先提醒 Boss”这个功能在 iOS 上经常不触发，这个是我买会员的痛点啊，盼急修复](https://www.v2ex.com/t/984398#reply0)|
+|2023-10-23 02:01:05|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 前端，目前居家办公，寻找兼职](https://www.v2ex.com/t/984397#reply0)|
+|2023-10-23 01:59:47|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 15pro 终于换货了](https://www.v2ex.com/t/984396#reply2)|
+|2023-10-23 01:57:35|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 降费提速，上海手机卡套餐求推荐](https://www.v2ex.com/t/984394#reply5)|
+|2023-10-23 01:56:08|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 关于 IntelliJ IDEA 声明变量快捷键问题，提升效率](https://www.v2ex.com/t/984392#reply0)|
+|2023-10-23 01:55:27|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 WebSocket 频繁爆出异常](https://www.v2ex.com/t/984391#reply3)|
+|2023-10-23 01:52:11|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 该不该去考个雅思/托福来提升自己的英语水平用来面试外企呢?](https://www.v2ex.com/t/984390#reply0)|
+|2023-10-23 01:51:50|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 最近家里修整了下，需要买个电热水器，油烟机，以及净水器总价预算 3-4K，请问有推荐吗？](https://www.v2ex.com/t/984389#reply2)|
+|2023-10-23 01:49:58|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 wechat 已删除记录恢复？](https://www.v2ex.com/t/984388#reply3)|
+|2023-10-23 01:47:23|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 目前只打算用 Homekit，智能门锁直接买 Aqara 还是买其他牌子通过 HA 接入到 Homekit](https://www.v2ex.com/t/984386#reply7)|
+|2023-10-23 01:45:11|[V2EX](http://www.v2ex.com/index.xml)|[ git git 如何不显示 merge branch xx into xx 的记录](https://www.v2ex.com/t/984385#reply9)|
+|2023-10-23 01:45:09|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 洛雪音乐助手，凉凉](https://www.v2ex.com/t/984384#reply14)|
+|2023-10-23 01:43:11|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 现在有机场专门做 GPT 不被 block 节点吗？](https://www.v2ex.com/t/984383#reply5)|
+|2023-10-23 01:42:32|[V2EX](http://www.v2ex.com/index.xml)|[ 信息安全 KeePass 在谷歌搜搜出现广告钓鱼官网，请注意风险！](https://www.v2ex.com/t/984382#reply1)|
+|2023-10-23 01:40:55|[V2EX](http://www.v2ex.com/index.xml)|[ macOS Safari 要如何折腾得才好用？](https://www.v2ex.com/t/984381#reply6)|
+|2023-10-23 01:40:33|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 kindle 拯救计划 ？ 上个帖子看出来，很多 V 友的 kindle 和我一样，处于吃灰或者半吃灰状态。 这个帖子看下大家有没有什么好的 kindle 拯救计划，主要目的是增加 kindle 屏幕使用时长，减少手机和电脑屏幕使用时长。](https://www.v2ex.com/t/984380#reply7)|
+|2023-10-23 01:40:01|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 现在企业网络接入，是选择路由器还是防火墙？](https://www.v2ex.com/t/984379#reply3)|
+|2023-10-23 01:39:46|[V2EX](http://www.v2ex.com/index.xml)|[ 反馈 这边有个灰产交易的](https://www.v2ex.com/t/984378#reply1)|
+|2023-10-23 01:39:31|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 一到秋天，指纹锁就很难开锁](https://www.v2ex.com/t/984377#reply4)|
+|2023-10-23 01:39:25|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 关于穿衣服这件事， V 友怎么看？](https://www.v2ex.com/t/984376#reply20)|
+|2023-10-23 01:38:29|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问有没有一款能记录家里药的 app 啊](https://www.v2ex.com/t/984375#reply8)|
+|2023-10-23 01:35:06|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 如何用 rss 的方式看某个推特博主的帖子, 黄推让我分心](https://www.v2ex.com/t/984374#reply1)|
+|2023-10-23 01:32:10|[V2EX](http://www.v2ex.com/index.xml)|[ macOS mac 怎么卸载飞连](https://www.v2ex.com/t/984370#reply9)|
+|2023-10-23 01:30:14|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 700 元以下的冲锋衣推荐哪款？](https://www.v2ex.com/t/984369#reply8)|
+|2023-10-23 01:22:13|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 为什么 YouTube 可以突破 Firefox 默认禁用音频的限制？](https://www.v2ex.com/t/984368#reply6)|
+|2023-10-23 01:19:12|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 友友们,现在买 macbook，应该选 m1 pro 还是 m2 呢？](https://www.v2ex.com/t/984367#reply14)|
+|2023-10-23 01:19:02|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 全栈工程师想找份远程工作](https://www.v2ex.com/t/984366#reply13)|
+|2023-10-23 01:18:14|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 哪里港版 iphone15pro 正规渠道](https://www.v2ex.com/t/984365#reply7)|
+|2023-10-23 01:18:00|[V2EX](http://www.v2ex.com/index.xml)|[ Apple TV Apple TV 以及 Chromecast 的各种软件求推荐](https://www.v2ex.com/t/984364#reply1)|
+|2023-10-23 01:12:13|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 水獭输入工具 app store 上架啦，可以自定义 javascript 脚本的 iOS 输入法工具](https://www.v2ex.com/t/984361#reply11)|
+|2023-10-23 01:10:23|[V2EX](http://www.v2ex.com/index.xml)|[ 站长 想在家弄一个机房式服务器，兄弟们有推荐的吗](https://www.v2ex.com/t/984360#reply31)|
+|2023-10-23 01:09:53|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 适配 iPhone 15 Pro 的 硬盘盒怎么选择？](https://www.v2ex.com/t/984358#reply5)|
+|2023-10-23 01:08:37|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 利益最大化？故意制造 Bug 从而让消费者转战线下定制化智能家居？](https://www.v2ex.com/t/984357#reply17)|
+|2023-10-23 00:57:39|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 现在还能在正规渠道买到 esim 手机吗？](https://www.v2ex.com/t/984356#reply7)|
+|2023-10-23 00:54:18|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 关于 Apple Music 的免费试用问题](https://www.v2ex.com/t/984355#reply1)|
+|2023-10-23 00:38:32|[V2EX](http://www.v2ex.com/index.xml)|[ macOS M2 芯片的 Mac 可以刷回 Big Sur 系统版本吗？](https://www.v2ex.com/t/984354#reply3)|
+|2023-10-23 00:34:50|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 目前为止，你有多少负债](https://www.v2ex.com/t/984353#reply76)|
+|2023-10-23 00:03:09|[V2EX](http://www.v2ex.com/index.xml)|[ 随想 地下铁](https://www.v2ex.com/t/984350#reply11)|
+|2023-10-23 01:46:31|[心的道理](https://stephenleng.com/feed/)|[为什么用户的产品满意度是不靠谱的](https://stephenleng.com/product-satisfaction-does-not-matter/)|
 |2023-10-23 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：富艺斯钟表在香港开出 Phillips Perpetual 零售店、PUMA 推出 MB.03 Toxic](http://www.toodaylab.com/82325)|
 |2023-10-23 01:05:04|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[鸥翼门开路，广汽埃安能否走向高端？｜钛度车库](https://www.tmtpost.com/6753693.html)|
 |2023-10-23 01:00:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[失算与错位，医药外包风口下的美诺华转型道阻且长｜钛媒体深度](https://www.tmtpost.com/6752076.html)|
