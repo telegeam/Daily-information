@@ -2,6 +2,34 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-23 02:00:12|[13 報](https://ethanhuang13.substack.com/feed/)|[開發者週報 #206 匹克球、價值 Apple Pencil，與 $129 的線](https://www.ethanhuang13.com/p/206)|
+|2023-10-23 03:35:09|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[邮件网关&amp;CAC2.0防御并行：提升高校师生邮箱账号的全面安全](https://www.4hou.com/posts/OX0N)|
+|2023-10-23 03:30:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[威胁分子通过多条攻击链大肆利用Progress WS_FTP漏洞](https://www.4hou.com/posts/WK0g)|
+|2023-10-23 03:30:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[员工必知！10大常见网络钓鱼模板](https://www.4hou.com/posts/z4z8)|
+|2023-10-23 03:59:10|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[雷米心潮“澎湃”，但小米操作系统才刚到起点](https://www.tmtpost.com/6754912.html)|
+|2023-10-23 03:52:49|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[美敦力、雅培、波科去年这个赛道营收100亿美元，国产品牌有心无力？](https://www.tmtpost.com/6754892.html)|
+|2023-10-23 03:49:03|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[遭遇医疗史上最大罢工风波，HMO模式不香了？](https://www.tmtpost.com/6754886.html)|
+|2023-10-23 03:43:17|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[​默沙东持续押注背后，肿瘤免疫新时代的赌局开始了](https://www.tmtpost.com/6754843.html)|
+|2023-10-23 03:42:11|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[二手涨价几十倍，高端自行车成“理财产品”？](https://www.tmtpost.com/6754825.html)|
+|2023-10-23 03:40:43|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[网红雪糕现形记](https://www.tmtpost.com/6754799.html)|
+|2023-10-23 03:14:51|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[对标比亚迪秦 PLUS，启源 A05 凭什么？](https://www.tmtpost.com/6754186.html)|
+|2023-10-23 03:08:42|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[2023婴童尿裤行业趋势白皮书：解读3大消费趋势4大机会赛道](https://www.tmtpost.com/6754737.html)|
+|2023-10-23 04:09:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[PHP 编译器 BPC 6.5 发布,支持 gmp 扩展,实现 SplObjectStorage](https://www.v2ex.com/t/984456#reply0)|
+|2023-10-23 03:02:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[双十一准备搞个海景房，大佬帮忙看看配置](https://www.v2ex.com/t/984427#reply13)|
+|2023-10-23 01:55:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[WebSocket 频繁爆出异常](https://www.v2ex.com/t/984391#reply9)|
+|2023-10-23 01:48:04|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中澳关系解冻，北京或取消对澳葡萄酒关税](https://cn.nytimes.com/asia-pacific/20231023/australia-china-wine-tariff/?utm_source=RSS)|
+|2023-10-23 01:22:35|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中美芯片冲突的关键机器：光刻机](https://cn.nytimes.com/business/20231023/us-china-chip-manufacturing-asml/?utm_source=RSS)|
+|2023-10-23 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[快手不需要“分歧终端机”了](https://36kr.com/p/2485320950962313)|
+|2023-10-23 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[找来前阿里女高管，星巴克重兵布局中国市场](https://36kr.com/p/2451609830840193)|
+|2023-10-23 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一家600亿独角兽宣布破产](https://36kr.com/p/2485288905021317)|
+|2023-10-23 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[YouTube涨粉270万后，李子柒能在抖音成功复出吗？](https://36kr.com/p/2472774509254784)|
+|2023-10-23 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[东北六线小城缩影：无大型商超、房价未降、受大环境影响小](https://36kr.com/p/2472819205347456)|
+|2023-10-23 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[困在短视频平台里的“萝卜刀”](https://36kr.com/p/2485041224603776)|
+|2023-10-23 04:14:24|[V2EX](https://www.v2ex.com/index.xml)|[ Django 请教下大家,Django 的 tests 测试模块,如何不创建新从测试数据库,而是直接操作生产环境数据库谢谢!](https://www.v2ex.com/t/984457#reply0)|
+|2023-10-23 02:07:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中澳关系解冻，北京或取消对澳葡萄酒关税](https://cn.nytimes.com/asia-pacific/20231023/australia-china-wine-tariff/)|
+|2023-10-23 01:37:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中美芯片冲突的关键机器：光刻机](https://cn.nytimes.com/business/20231023/us-china-chip-manufacturing-asml/)|
+|2023-10-23 02:06:21|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 HashiCorp CEO 预测，除非开源模型发展，否则硅谷将没有开源公司](https://linux.cn/article-16309-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-23 03:09:44|[中文信息学报](https://feedpress.me/wx-jcip1986)|[《中文信息学报》新刊概览∣ 2023年第8期（37卷第8期）](http://mp.weixin.qq.com/s?__biz=MzI2NjY1NDE3MQ%3D%3D&mid=2247485377&idx=1&sn=77379571251d8431f593b784ac599745)|
 |2023-10-23 02:05:24|[机核](https://plink.anyfeeder.com/gcores)|[ROG DAY暨英特尔新品玩家体验会登陆成都，华硕Z790新主板、BTF 2.0天选背置主板展上亮相](https://www.gcores.com/articles/172713)|
 |2023-10-23 00:58:04|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：Excel 允许关闭日期自动转换，12315 公示平台上线](https://sspai.com/post/83764)|
 |2023-10-23 02:10:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[买奢侈品等于阶级跃升？或许你买的是“智商税”](https://www.huxiu.com/article/2205698.html?f=rss)|
