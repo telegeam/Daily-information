@@ -1,7 +1,12 @@
-﻿# 每日资讯（2023-10-22）
+﻿# 每日资讯（2023-10-23）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-23 00:54:18|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 关于 Apple Music 的免费试用问题](https://www.v2ex.com/t/984355#reply0)|
+|2023-10-23 00:38:32|[V2EX](https://www.v2ex.com/index.xml)|[ macOS M2 芯片的 Mac 可以刷回 Big Sur 系统版本吗？](https://www.v2ex.com/t/984354#reply1)|
+|2023-10-23 00:34:50|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 目前为止，你有多少负债](https://www.v2ex.com/t/984353#reply8)|
+|2023-10-23 00:03:09|[V2EX](https://www.v2ex.com/index.xml)|[ 随想 地下铁](https://www.v2ex.com/t/984350#reply4)|
+|2023-10-23 00:37:31|[爱范儿](https://www.ifanr.com/feed)|[早报｜华为全面完成 5.5G 关键技术测试 / 苹果或于本月底发布新款 Mac / 微信消息弹窗大更新](https://www.ifanr.com/1565762?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-22 06:07:56|[渚碧](https://jubeny.com/feed.xml)|[新手机的最大好处](https://jubeny.com/2023/10/the-biggest-advantage-of-my-new-phone/)|
 |2023-10-22 10:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#257：《妖精：阿瓦隆传奇》](https://www.gcores.com/articles/172666)|
 |2023-10-22 06:33:15|[机核](https://www.gcores.com/rss)|[JOYTOY战锤40K新品公布：先锋老兵与仇天使参战](https://www.gcores.com/articles/172693)|
