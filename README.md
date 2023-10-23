@@ -2,6 +2,31 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-23 08:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[立讯精密及其CEO如何成为iPhone生产不可或缺的一环？](https://cn.wsj.com/amp/articles/%E7%AB%8B%E8%AE%AF%E7%B2%BE%E5%AF%86%E5%8F%8A%E5%85%B6ceo%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BAiphone%E7%94%9F%E4%BA%A7%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA%E7%9A%84%E4%B8%80%E7%8E%AF-879cbed4)|
+|2023-10-23 08:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[以色列称空袭击中武装分子的隧道和指挥中心](https://cn.wsj.com/amp/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A7%B0%E7%A9%BA%E8%A2%AD%E5%87%BB%E4%B8%AD%E6%AD%A6%E8%A3%85%E5%88%86%E5%AD%90%E7%9A%84%E9%9A%A7%E9%81%93%E5%92%8C%E6%8C%87%E6%8C%A5%E4%B8%AD%E5%BF%83-5143df48)|
+|2023-10-23 07:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[港交所业绩不振影射香港金融业由盛转衰](https://cn.wsj.com/amp/articles/%E6%B8%AF%E4%BA%A4%E6%89%80%E4%B8%9A%E7%BB%A9%E4%B8%8D%E6%8C%AF%E5%BD%B1%E5%B0%84%E9%A6%99%E6%B8%AF%E9%87%91%E8%9E%8D%E4%B8%9A%E7%94%B1%E7%9B%9B%E8%BD%AC%E8%A1%B0-e3d8159)|
+|2023-10-23 07:55:46|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[YouTube Music 終於支援 HomePod 的 Siri 播放功能](https://applefans.today/2023-10-youtube-music-support-apple-homepod/)|
+|2023-10-23 03:53:26|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17 共享密碼 如何輕鬆共享你的密碼？](https://applefans.today/2023-10-ios-17-share-password/)|
+|2023-10-23 09:00:00|[机核](https://plink.anyfeeder.com/gcores)|[人为什么要玩《COD》，录音笔 Vol.61](https://www.gcores.com/radios/172745)|
+|2023-10-23 07:16:25|[机核](https://plink.anyfeeder.com/gcores)|[肯德基×《JOJO的奇妙冒险 石之海》联动宣传片公开，10月27日活动正式开始](https://www.gcores.com/articles/172735)|
+|2023-10-23 06:55:00|[机核](https://plink.anyfeeder.com/gcores)|[【福利】Solarain原创角色“栗毛酱”， 10月24日开售](https://www.gcores.com/articles/172728)|
+|2023-10-23 08:20:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[被“嫌弃”的安踏，如何捧出爆火的始祖鸟？](https://www.huxiu.com/article/2207934.html?f=rss)|
+|2023-10-23 08:17:41|[虎嗅](https://plink.anyfeeder.com/huxiu)|[周濂×刘擎：怎么避免过一种“二手生活”？](https://www.huxiu.com/article/2208001.html?f=rss)|
+|2023-10-23 07:38:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Win11 似乎在 CPU 满载时容易出现鼠标顿卡？](https://www.v2ex.com/t/984545#reply22)|
+|2023-10-23 04:59:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何在 🇨🇳 启用完整版的 Google 地图 iOS ](https://www.v2ex.com/t/984468#reply23)|
+|2023-10-23 06:21:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[不切换回旧版微软拼音的情况下，如何在 idea 中正常使用 shift+f6 进行重命名？](https://www.v2ex.com/t/984503#reply6)|
+|2023-10-23 08:04:30|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安卓平板刷 Linux](https://www.v2ex.com/t/984559#reply10)|
+|2023-10-23 09:11:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求助，想求一个薪资管理系统方面的 Mysql 设计思路](https://www.v2ex.com/t/984592#reply0)|
+|2023-10-23 08:00:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[前端 Vue，学到什么程度可以独挡一面？是能够看到一个图就能马上用代码画出来？当然这只是应用层面，但是应用层面也算个入门型了吧。](https://www.v2ex.com/t/984555#reply10)|
+|2023-10-23 07:01:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Raid6 阵列重建时间太长求助](https://www.v2ex.com/t/984529#reply14)|
+|2023-10-23 03:54:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[程序员下一个十年该做点什么？](https://www.v2ex.com/t/984447#reply44)|
+|2023-10-23 06:52:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[语雀挂了](https://www.v2ex.com/t/984524#reply47)|
+|2023-10-23 03:02:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[双十一准备搞个海景房，大佬帮忙看看配置](https://www.v2ex.com/t/984427#reply29)|
+|2023-10-23 03:54:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家是如何学习并且做笔记的？](https://www.v2ex.com/t/984448#reply9)|
+|2023-10-23 02:34:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[v 友们，博客互换一波友链](https://www.v2ex.com/t/984410#reply44)|
+|2023-10-23 04:35:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[深度学习作业找人](https://www.v2ex.com/t/984462#reply20)|
+|2023-10-23 02:49:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[都说 Flutter 是趋势，我怎么在 boss 上面没看到什么招 Flutter 的职位？](https://www.v2ex.com/t/984418#reply13)|
+|2023-10-23 07:50:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 15 成本創新高：iPhone 16 價格下降或上漲](https://www.iphonetaiwan.org/2023/10/iphone-15-production-costs-soar-iphone-16.html)|
 |2023-10-23 06:46:18|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[暴露客户数据！Okta 最新系统漏洞！](https://www.freebuf.com/news/381522.html)|
 |2023-10-23 03:14:51|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[卡西欧数据泄露涉及 149 个国家用户](https://www.freebuf.com/news/381495.html)|
 |2023-10-23 03:06:31|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[国际刑事法院遭网络间谍入侵！](https://www.freebuf.com/news/381494.html)|
