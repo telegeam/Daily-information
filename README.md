@@ -2,6 +2,50 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-23 12:06:25|[触乐](http://www.chuapp.com/feed)|[触乐对谈：“炎上”的二次元游戏剧情与愤怒的玩家（上）](http://www.chuapp.com/article/289582.html)|
+|2023-10-23 10:38:55|[触乐](http://www.chuapp.com/feed)|[触乐夜话：“参考”还是“抄袭”？](http://www.chuapp.com/article/289581.html)|
+|2023-10-23 08:04:30|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安卓平板刷 Linux](https://www.v2ex.com/t/984559#reply32)|
+|2023-10-23 01:45:11|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[git 如何不显示 merge branch xx into xx 的记录](https://www.v2ex.com/t/984385#reply27)|
+|2023-10-23 10:31:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[windows 中好用的图片查看器](https://www.v2ex.com/t/984622#reply15)|
+|2023-10-23 10:28:54|[爱范儿](https://www.ifanr.com/feed)|[和 GPT-4 聊天，一种很新的隐私泄露方式](https://www.ifanr.com/1565806?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-23 09:27:04|[爱范儿](https://www.ifanr.com/feed)|[3202 年了，国产 MPV 还没有走出「埃尔法」的阴影](https://www.ifanr.com/1565573?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-23 07:31:32|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[安徽省“第十届国家网安周网络与数据安全研讨会”顺利举办，梆梆安全分享移动应用安全监测体系建设新思路](https://www.4hou.com/posts/6xp9)|
+|2023-10-23 07:37:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[闭嘴倾听也许比大声疾呼更重要](https://cn.nytimes.com/opinion/20231023/social-media-israel-palestine/)|
+|2023-10-23 07:07:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[哈马斯未能提供证据证明以色列为轰炸加沙医院元凶](https://cn.nytimes.com/world/20231023/israel-gaza-hospital-evidence/)|
+|2023-10-23 05:01:13|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[高雄市公車的城鄉差距：縣市合併十三年之後的體驗](https://taiwan.chtsai.org/2023/10/23/gaoxiong_shi_gongche_de_chengxiang_chaju/)|
+|2023-10-23 10:39:27|[36氪](https://plink.anyfeeder.com/36kr)|[让霉霉说地道中文，背后玩家竟来自中国，7个月收入百万美元](https://36kr.com/p/2486841199433609?f=rss)|
+|2023-10-23 10:27:22|[36氪](https://plink.anyfeeder.com/36kr)|[36氪首发｜「宿迁时代储能」完成亿元A轮融资，专注水系有机液流储能电池商业化](https://36kr.com/p/2485326695291011?f=rss)|
+|2023-10-23 10:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[亚运决赛风波后，吴艳妮涨粉14.9万丨即氪运动 Vol.55](https://36kr.com/p/2482119795841158?f=rss)|
+|2023-10-23 09:35:20|[36氪](https://plink.anyfeeder.com/36kr)|[36氪晚报｜美团与Agoda达成合作；爱奇艺推出AI搜索；苹果计划提升iOS和Siri的人工智能技术，已投入10亿美元](https://36kr.com/p/2486777813112969?f=rss)|
+|2023-10-23 09:00:16|[36氪](https://plink.anyfeeder.com/36kr)|[科氪｜99.9%高能除菌洗地，戴森 WashG1 洗地机全球首发](https://36kr.com/p/2486756945139840?f=rss)|
+|2023-10-23 08:52:39|[36氪](https://plink.anyfeeder.com/36kr)|[因不及预期，Supreme或被威富卖掉；韩束在抖音GMV破17亿 ；库迪2025年门店要达2万家｜品牌日报](https://36kr.com/p/2486493574502536?f=rss)|
+|2023-10-23 08:50:32|[36氪](https://plink.anyfeeder.com/36kr)|[科氪｜荣耀Magic Vs2系列正式发布，将折叠屏带入主力机时代](https://36kr.com/p/2486741929531266?f=rss)|
+|2023-10-23 08:42:11|[36氪](https://plink.anyfeeder.com/36kr)|[市场日报丨三大指数齐跌超1%，卫星导航概念逆市拉升；富士康被查，2900亿市值大白马跌停！净利腰斩还能涨，圣龙股份走出12连板](https://36kr.com/p/2486553487579011?f=rss)|
+|2023-10-23 06:31:51|[36氪](https://plink.anyfeeder.com/36kr)|[你能和AI谈恋爱吗？你希望AI帮你做些什么？丨「年轻人玩转AI」小调查](https://36kr.com/p/2486609702000519?f=rss)|
+|2023-10-23 12:24:07|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 恍然大悟，我知道那天面试官想问我什么了……](https://www.v2ex.com/t/984650#reply1)|
+|2023-10-23 12:15:28|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Gmail 中怎样如图示合并同一发件人、同一标题的邮件](https://www.v2ex.com/t/984647#reply0)|
+|2023-10-23 12:12:58|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 兄弟们，谁有身份证号前六位籍贯对照表？不是行政区划代码对照表](https://www.v2ex.com/t/984646#reply0)|
+|2023-10-23 12:01:47|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 前端手机号可以做到自动去空格吗？](https://www.v2ex.com/t/984644#reply2)|
+|2023-10-23 11:52:33|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如何告别耳机依赖症？](https://www.v2ex.com/t/984643#reply3)|
+|2023-10-23 11:52:21|[V2EX](https://www.v2ex.com/index.xml)|[ 科技 2023 年了你有学习那些新技术，互联网技术新风向？](https://www.v2ex.com/t/984642#reply1)|
+|2023-10-23 11:45:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 书桌护眼灯有推荐的吗？](https://www.v2ex.com/t/984639#reply1)|
+|2023-10-23 11:43:58|[V2EX](https://www.v2ex.com/index.xml)|[ Java 一个项目有个多个端，在 Java 中如何实现？](https://www.v2ex.com/t/984638#reply0)|
+|2023-10-23 11:35:58|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 年经贴，考研还是？](https://www.v2ex.com/t/984636#reply2)|
+|2023-10-23 11:19:57|[V2EX](https://www.v2ex.com/index.xml)|[ Google 在国内使用 Google Maps App，地图不漂移，这是什么情况？！](https://www.v2ex.com/t/984635#reply5)|
+|2023-10-23 11:09:33|[V2EX](https://www.v2ex.com/index.xml)|[ 杭州 近阿里巴巴，杭师大地铁口 100 米内，海创绿谷， loft 公寓出租，入住时间可协调](https://www.v2ex.com/t/984634#reply0)|
+|2023-10-23 11:08:46|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 大模型你方唱罢我登场，到底谁在裸泳？](https://www.v2ex.com/t/984633#reply1)|
+|2023-10-23 11:08:04|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 怎么寻找前端 ui 设计的灵感](https://www.v2ex.com/t/984632#reply0)|
+|2023-10-23 11:06:26|[V2EX](https://www.v2ex.com/index.xml)|[ HTML element-ui 中 textarea 换行和空格回显最佳方案？](https://www.v2ex.com/t/984631#reply0)|
+|2023-10-23 11:05:58|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 小红书内推 社招/校招 base：北京/上海/广州](https://www.v2ex.com/t/984630#reply5)|
+|2023-10-23 11:02:47|[V2EX](https://www.v2ex.com/index.xml)|[ 电动汽车 西安 Tesla 车主群有吗](https://www.v2ex.com/t/984629#reply0)|
+|2023-10-23 11:00:52|[V2EX](https://www.v2ex.com/index.xml)|[ Windows 微软计算器的人民币兑美元汇率 0.64...](https://www.v2ex.com/t/984628#reply0)|
+|2023-10-23 10:57:36|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 冬季到来，而我又减肥成功了，之前的衣服都得丢掉重新买，选衣服真是个麻烦事](https://www.v2ex.com/t/984627#reply3)|
+|2023-10-23 10:50:13|[V2EX](https://www.v2ex.com/index.xml)|[ WebSocket 请教， websockets 模块起服务， websockets.serve 的方法问题。](https://www.v2ex.com/t/984626#reply0)|
+|2023-10-23 10:48:37|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 时隔两年多了，有人还记得 vivo 快应用的那个"后门"么？](https://www.v2ex.com/t/984625#reply2)|
+|2023-10-23 10:40:30|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 线报：双十一好价～ Apple TV 7 128g 京东 1153 拿下。](https://www.v2ex.com/t/984623#reply2)|
+|2023-10-23 08:31:02|[小众软件](https://www.appinn.com/feed/)|[μScale – 利用 AI 算法，将图像放大 4 倍，免费、在线](https://www.appinn.com/micro-scale/)|
+|2023-10-23 07:15:56|[小众软件](https://www.appinn.com/feed/)|[Background Music – 有其它声音时，自动暂停音乐 macOS ](https://www.appinn.com/background-music-for-macos-2/)|
+|2023-10-23 06:43:24|[智朋的个人博客](https://coffeelize.top/atom.xml)|[六级经验分享](https://coffeelize.top/posts/20231023144324.html)|
 |2023-10-23 08:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[立讯精密及其CEO如何成为iPhone生产不可或缺的一环？](https://cn.wsj.com/amp/articles/%E7%AB%8B%E8%AE%AF%E7%B2%BE%E5%AF%86%E5%8F%8A%E5%85%B6ceo%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BAiphone%E7%94%9F%E4%BA%A7%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA%E7%9A%84%E4%B8%80%E7%8E%AF-879cbed4)|
 |2023-10-23 08:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[以色列称空袭击中武装分子的隧道和指挥中心](https://cn.wsj.com/amp/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A7%B0%E7%A9%BA%E8%A2%AD%E5%87%BB%E4%B8%AD%E6%AD%A6%E8%A3%85%E5%88%86%E5%AD%90%E7%9A%84%E9%9A%A7%E9%81%93%E5%92%8C%E6%8C%87%E6%8C%A5%E4%B8%AD%E5%BF%83-5143df48)|
 |2023-10-23 07:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[港交所业绩不振影射香港金融业由盛转衰](https://cn.wsj.com/amp/articles/%E6%B8%AF%E4%BA%A4%E6%89%80%E4%B8%9A%E7%BB%A9%E4%B8%8D%E6%8C%AF%E5%BD%B1%E5%B0%84%E9%A6%99%E6%B8%AF%E9%87%91%E8%9E%8D%E4%B8%9A%E7%94%B1%E7%9B%9B%E8%BD%AC%E8%A1%B0-e3d8159)|
