@@ -2,6 +2,47 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-24 20:11:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Mac mini 加万兆网口当 NAS 用](https://www.v2ex.com/t/985110#reply0)|
+|2023-10-24 13:34:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[语雀赔偿：个人版用户 6 个月会员服务](https://www.v2ex.com/t/985060#reply27)|
+|2023-10-24 00:47:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[鉴于昨天的语雀，有啥推荐的笔记软件么](https://www.v2ex.com/t/984728#reply281)|
+|2023-10-24 01:12:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位程序员 1024 节日快乐](https://www.v2ex.com/t/984742#reply168)|
+|2023-10-24 09:56:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[谷歌要求我上传身份信息](https://www.v2ex.com/t/985005#reply8)|
+|2023-10-24 15:06:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[遇到一个理直气壮索要兑换码的客户，真的不知道该说啥。](https://www.v2ex.com/t/985091#reply17)|
+|2023-10-24 17:05:50|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[SEC警告人工智能恐将引发“几乎不可避免”的金融危机](https://m.cnbeta.com.tw/view/1392029.htm)|
+|2023-10-24 17:05:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[安全公司称可以解锁存有7000比特币密钥的IronKey U盘 但被所有者委婉拒绝](https://m.cnbeta.com.tw/view/1392027.htm)|
+|2023-10-24 17:05:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[亚马逊谴责纪录片制作人故意在网站上架由送货司机尿液制成的能量饮料](https://m.cnbeta.com.tw/view/1392025.htm)|
+|2023-10-24 16:35:48|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[NVIDIA公告称芯片禁令已生效 A800、H800等已被实行出口管制](https://m.cnbeta.com.tw/view/1392023.htm)|
+|2023-10-24 16:35:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果公司宣布十月Mac发布会主题："快得吓人"](https://m.cnbeta.com.tw/view/1392021.htm)|
+|2023-10-24 16:35:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果零售店面与授权服务商开始原机维修iPhone 15 零件现已开始提供](https://m.cnbeta.com.tw/view/1392019.htm)|
+|2023-10-24 16:05:40|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[欧美撤资后，俄罗斯车市补位实录](https://m.cnbeta.com.tw/view/1392017.htm)|
+|2023-10-24 16:05:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克把儿子扛肩上，3岁X娃有爸呵护很开心 但监护权争夺仍持续](https://m.cnbeta.com.tw/view/1392009.htm)|
+|2023-10-24 14:35:53|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[小鹏全新飞行汽车亮相：陆行体与飞行体可自动分离组合设计](https://m.cnbeta.com.tw/view/1392007.htm)|
+|2023-10-24 14:35:36|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[IEA：清洁能源已正式成为"势不可挡"的力量](https://m.cnbeta.com.tw/view/1392005.htm)|
+|2023-10-24 14:35:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Okta最新黑客攻击事件波及Cloudflare和1Password](https://m.cnbeta.com.tw/view/1392003.htm)|
+|2023-10-24 14:05:41|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Canonical将坚持Ubuntu LTS版本的10年支持周期](https://m.cnbeta.com.tw/view/1391999.htm)|
+|2023-10-24 14:05:23|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[加州陪审团即将处理特斯拉Autopilot致死案](https://m.cnbeta.com.tw/view/1391997.htm)|
+|2023-10-24 12:36:02|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Windows CE 的历史在不久前画上了句号](https://m.cnbeta.com.tw/view/1391995.htm)|
+|2023-10-24 12:35:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[传OLED iPad和MacBook将按用途与定位分别采用不同的显示屏材料](https://m.cnbeta.com.tw/view/1391993.htm)|
+|2023-10-24 12:35:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[英国政府正在使用AI协助管理民政体系 其缺陷和偏见引发一系列担忧](https://m.cnbeta.com.tw/view/1391991.htm)|
+|2023-10-24 12:35:18|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[欧盟小组称苹果公司的“碳中和”提法具有误导性](https://m.cnbeta.com.tw/view/1391989.htm)|
+|2023-10-24 12:05:56|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[可可西里网红野狼被投喂成了胖狗 但我劝你别再喂了](https://m.cnbeta.com.tw/view/1391981.htm)|
+|2023-10-24 12:05:40|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[9月中国汽车出口50万台创历史新高 对俄罗斯暴增6倍](https://m.cnbeta.com.tw/view/1391979.htm)|
+|2023-10-24 12:05:23|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[无敌防水！Apple Watch Ultra掉湖里3个月 找到竟还能正常用](https://m.cnbeta.com.tw/view/1391977.htm)|
+|2023-10-24 11:35:54|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美债收益率新高 5%，30年，买完可以躺平么？](https://m.cnbeta.com.tw/view/1391973.htm)|
+|2023-10-24 11:35:40|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[海氏电器：京东采销人员造谣拉踩 公司未签订任何“底价协议”](https://m.cnbeta.com.tw/view/1391971.htm)|
+|2023-10-24 11:35:28|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[锁后台、改半价 海氏电器向市场监管总局实名投诉京东](https://m.cnbeta.com.tw/view/1391969.htm)|
+|2023-10-24 09:35:23|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[全球最大人脸识别搜索引擎现已禁止儿童面部搜索](https://m.cnbeta.com.tw/view/1391965.htm)|
+|2023-10-24 09:06:16|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[德国将超过日本成为第三大经济体 日元疲软为主要因素](https://m.cnbeta.com.tw/view/1391963.htm)|
+|2023-10-24 08:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[哈马斯恐袭打破了多年来界定巴以冲突的一系列假设](https://cn.nytimes.com/world/20231024/israeli-hamas-middle-east-implications/)|
+|2023-10-24 18:18:51|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[苹果新发布会突然官宣，这次我们可以早上来看了](http://www.toodaylab.com/82333)|
+|2023-10-24 16:24:10|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[保时捷中国市场销量大幅下滑，但更严峻的情况还在后面](http://www.toodaylab.com/82332)|
+|2023-10-24 10:56:19|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[第 58 届台湾金钟奖揭晓了，有这几个看点是你可以知道的](http://www.toodaylab.com/82331)|
+|2023-10-24 12:32:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 #36：至暗时刻来临，还来了两次](https://w2solo.com/topics/4211)|
+|2023-10-24 04:29:37|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[藏趣云：独立开发一款跨平台浏览器书签同步工具，支持 WEB 端、PC 客户端、手机端](https://w2solo.com/topics/4210)|
+|2023-10-24 12:46:22|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[搭公車是最有「城市感」的社交生活](https://taiwan.chtsai.org/2023/10/24/da_gongche_chengshi_gan/)|
+|2023-10-24 11:01:01|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[只有吉利，能造“小奔驰”](http://www.huxiu.com/article/2213366.html?f=wangzhan)|
+|2023-10-24 10:10:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[从行业顶流到发不出工资，钟薛高怎么了？](http://www.huxiu.com/article/2212572.html?f=wangzhan)|
+|2023-10-24 07:20:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[新手投资如何分配股票仓位？诺奖得主“手把手”教学](http://www.huxiu.com/article/2212262.html?f=wangzhan)|
 |2023-10-24 12:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[跨国企业加速撤离香港](https://cn.wsj.com/amp/articles/%E8%B7%A8%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%8A%A0%E9%80%9F%E6%92%A4%E7%A6%BB%E9%A6%99%E6%B8%AF-e89036f0)|
 |2023-10-24 11:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[三菱汽车将终止在中国的汽车生产](https://cn.wsj.com/amp/articles/%E4%B8%89%E8%8F%B1%E6%B1%BD%E8%BD%A6%E5%B0%86%E7%BB%88%E6%AD%A2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B1%BD%E8%BD%A6%E7%94%9F%E4%BA%A7-10575810)|
 |2023-10-24 09:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[长城汽车率先回应欧盟反补贴调查](https://cn.wsj.com/amp/articles/%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E7%8E%87%E5%85%88%E5%9B%9E%E5%BA%94%E6%AC%A7%E7%9B%9F%E5%8F%8D%E8%A1%A5%E8%B4%B4%E8%B0%83%E6%9F%A5-16322ed1)|
