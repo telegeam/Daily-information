@@ -1,7 +1,19 @@
-﻿# 每日资讯（2023-10-23）
+﻿# 每日资讯（2023-10-24）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-24 01:07:08|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 请教 macOS 重启提示: the application can't be opened. -50](https://www.v2ex.com/t/984734#reply0)|
+|2023-10-24 01:05:17|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 初一的小女孩过生日适合送什么礼物好？](https://www.v2ex.com/t/984733#reply0)|
+|2023-10-24 01:02:33|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 就没有不挂的服务](https://www.v2ex.com/t/984731#reply0)|
+|2023-10-24 01:01:50|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 1024，今天是 1024](https://www.v2ex.com/t/984730#reply2)|
+|2023-10-24 00:59:07|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Apple Log 只提供给 15 pro 系列，苹果太鸡贼了。](https://www.v2ex.com/t/984729#reply1)|
+|2023-10-24 00:47:23|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 鉴于昨天的语雀，有啥推荐的笔记软件么](https://www.v2ex.com/t/984728#reply17)|
+|2023-10-24 00:26:17|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 服务接受请求过多就崩溃](https://www.v2ex.com/t/984724#reply11)|
+|2023-10-24 00:25:12|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 各位架构师，服务调用链路上某个服务报错怎么排查？](https://www.v2ex.com/t/984723#reply12)|
+|2023-10-24 00:18:26|[V2EX](https://www.v2ex.com/index.xml)|[ JetBrains 1024 了， idea 来一波买一送一吧](https://www.v2ex.com/t/984722#reply2)|
+|2023-10-24 00:08:53|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 有在武汉的小伙伴吗？ 11-20k 招一个 PHP 后端](https://www.v2ex.com/t/984721#reply4)|
+|2023-10-24 00:01:51|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI iOS 版的 chatgpt 是不是取消了一些账号的语音对话功能？今天打开准备用的时候发现没了？](https://www.v2ex.com/t/984720#reply0)|
+|2023-10-24 00:35:28|[极客公园](https://plink.anyfeeder.com/geekpark)|[雷军公布澎湃OS 完整系统架构；传苹果 2027 年发布折叠屏产品；英伟达开发 Arm 架构 PC 芯片](http://www.geekpark.net/news/326379)|
 |2023-10-23 16:07:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[七天1个亿，带货一姐换人了](https://36kr.com/p/2485632457349252)|
 |2023-10-23 16:07:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[我们也许不再需要购物节来刺激消费了](https://36kr.com/p/2485342281523077)|
 |2023-10-23 16:07:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[让霉霉说地道中文，背后玩家竟来自中国，7个月年订阅收入超百万美元](https://36kr.com/p/2486841199433609)|
