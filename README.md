@@ -2,6 +2,74 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-24 00:47:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[鉴于昨天的语雀，有啥推荐的笔记软件么](https://www.v2ex.com/t/984728#reply152)|
+|2023-10-24 03:52:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求一个 X5 内核的替代方案](https://www.v2ex.com/t/984858#reply2)|
+|2023-10-24 03:35:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[homebrew 安装的 fmpeg 转码速度比较慢？直接编译可以提高速度吗？](https://www.v2ex.com/t/984847#reply2)|
+|2023-10-24 00:28:29|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：Amazfit Active 发布，Google 承认在 Pixel 8 屏蔽跑分等](https://sspai.com/post/83813)|
+|2023-10-24 04:04:52|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 1024 快乐！请教下各位大佬一个关于 celery worker 的问题！](https://www.v2ex.com/t/984859#reply0)|
+|2023-10-24 03:18:11|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[谷歌计划从Chrome119起测试IP隐私保护功能](https://www.freebuf.com/news/381609.html)|
+|2023-10-24 04:09:10|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[雪佛龙斥530亿美元收购赫斯，油气行业或将迎来并购潮](https://www.tmtpost.com/6756636.html)|
+|2023-10-24 04:00:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[中国酒店集团出海难？](https://www.tmtpost.com/6756363.html)|
+|2023-10-24 03:50:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[先套现37亿港元，再辞任董事长，宿华不看好快手的未来？](https://www.tmtpost.com/6756608.html)|
+|2023-10-24 03:37:29|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[双11开战：快手抖音抢跑，京东、淘系、拼多多卷起“最低价”](https://www.tmtpost.com/6756422.html)|
+|2023-10-24 03:37:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[网红雪糕过冬](https://www.tmtpost.com/6756411.html)|
+|2023-10-24 03:00:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[组件价格难逃“1元魔咒”，光伏大洗牌还要多久？](https://www.tmtpost.com/6756340.html)|
+|2023-10-24 02:49:08|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[打折50%也没能挽回颓势，钟薛高的故事给新消费品牌哪些教训？](https://www.tmtpost.com/6756087.html)|
+|2023-10-24 02:45:59|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[【Fintech 周报】前三季度商业银行实现净利润1.9万亿；消金管理办法正向消金公司征集意见](https://www.tmtpost.com/6756389.html)|
+|2023-10-24 02:15:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[我们距离“裸眼3D自由”，还有多远？](https://www.tmtpost.com/6756146.html)|
+|2023-10-24 02:12:01|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[最受“00后”偏爱、订单量增长超1倍，网红城市长沙做对了什么？｜钛度热评](https://www.tmtpost.com/6756136.html)|
+|2023-10-24 02:11:03|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[出游数据与股票表现“冰火两重天”，如何解读“超级黄金周”数据？｜钛度热评](https://www.tmtpost.com/6755984.html)|
+|2023-10-24 02:00:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[直播卖穿戴甲、团购券，美甲的线上生意好做吗？](https://www.tmtpost.com/6755627.html)|
+|2023-10-24 01:38:18|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[China State Fund Central Huijin Boosts Stock Market Twice in Less Than Two Weeks](https://www.tmtpost.com/6756382.html)|
+|2023-10-24 01:28:25|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[CATL Profit Slowdown Deepens in Q3 amid Market Share Decline](https://www.tmtpost.com/6756383.html)|
+|2023-10-24 01:20:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[“猪茅”牧原股份，攀爬新的大山](https://www.tmtpost.com/6756134.html)|
+|2023-10-24 02:01:05|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[嫉妒心强见不得别人好，能治吗？](http://www.huxiu.com/article/2202525.html?f=wangzhan)|
+|2023-10-24 01:13:53|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[卡塔尔：一家都是“李世民”，是什么样的体验？](http://www.huxiu.com/article/2208685.html?f=wangzhan)|
+|2023-10-24 00:48:40|[爱范儿](https://www.ifanr.com/feed)|[早报｜小米 14 和澎湃 OS 发布会定档 / iPhone 15 全系电商价格跳水 / QQ 邮箱回应付费会员争议](https://www.ifanr.com/1565875?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-24 00:47:10|[爱范儿](https://www.ifanr.com/feed)|[特斯拉全新 Model 3 高性能版史诗级加强后，会有多「恐怖」？](https://www.ifanr.com/1565789?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-24 04:01:58|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的一大束作品](https://sspai.com/post/83726)|
+|2023-10-24 02:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国发起魅力攻势为习近平访美铺路](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8F%91%E8%B5%B7%E9%AD%85%E5%8A%9B%E6%94%BB%E5%8A%BF%E4%B8%BA%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E9%93%BA%E8%B7%AF-ca70b1cc)|
+|2023-10-24 02:05:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国股市跌势加剧，投资者对中国心存疑虑](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C%E5%8A%BF%E5%8A%A0%E5%89%A7-%E6%8A%95%E8%B5%84%E8%80%85%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%BF%83%E5%AD%98%E7%96%91%E8%99%91-1df4451f)|
+|2023-10-24 03:39:38|[虎嗅](https://rss.huxiu.com/)|[打工人最怕突出的地方，是腰](https://www.huxiu.com/article/2211500.html?f=rss)|
+|2023-10-24 03:35:00|[虎嗅](https://rss.huxiu.com/)|[道教中的“尸解仙”是什么仙？](https://www.huxiu.com/article/2208659.html?f=rss)|
+|2023-10-24 03:16:06|[虎嗅](https://rss.huxiu.com/)|[迈阿密青年沈恺伟：在中国再待一年](https://www.huxiu.com/article/2211847.html?f=rss)|
+|2023-10-24 03:02:21|[虎嗅](https://rss.huxiu.com/)|[吃不起的老乡鸡，何时才能从安徽开到洛杉矶？](https://www.huxiu.com/article/2209231.html?f=rss)|
+|2023-10-24 02:59:00|[虎嗅](https://rss.huxiu.com/)|[现场“人从众”，外商回来了](https://www.huxiu.com/article/2211509.html?f=rss)|
+|2023-10-24 02:55:02|[虎嗅](https://rss.huxiu.com/)|[专访辜朝明：如何摆脱“资产负债表衰退”？](https://www.huxiu.com/article/2211273.html?f=rss)|
+|2023-10-24 02:39:37|[虎嗅](https://rss.huxiu.com/)|[我们距离“裸眼3D自由”，还有多远？](https://www.huxiu.com/article/2210450.html?f=rss)|
+|2023-10-24 02:37:58|[虎嗅](https://rss.huxiu.com/)|[从游戏名词到电商营销，“秒杀”从何而来？](https://www.huxiu.com/article/2193441.html?f=rss)|
+|2023-10-24 02:23:02|[虎嗅](https://rss.huxiu.com/)|[光伏组件价格跌破1元，行业大洗牌要来？](https://www.huxiu.com/article/2211504.html?f=rss)|
+|2023-10-24 02:20:01|[虎嗅](https://rss.huxiu.com/)|[连ChatGPT都会“阿谀奉承”了？](https://www.huxiu.com/article/2211478.html?f=rss)|
+|2023-10-24 02:20:00|[虎嗅](https://rss.huxiu.com/)|[霜降已至，秋色已深](https://www.huxiu.com/article/2211831.html?f=rss)|
+|2023-10-24 02:15:35|[虎嗅](https://rss.huxiu.com/)|[关于“男朋友不会拍照”这件事](https://www.huxiu.com/article/2211502.html?f=rss)|
+|2023-10-24 02:15:05|[虎嗅](https://rss.huxiu.com/)|[新老农民工就业，天壤之别](https://www.huxiu.com/article/2211300.html?f=rss)|
+|2023-10-24 02:01:05|[虎嗅](https://rss.huxiu.com/)|[嫉妒心强见不得别人好，能治吗？](https://www.huxiu.com/article/2202525.html?f=rss)|
+|2023-10-24 01:51:26|[虎嗅](https://rss.huxiu.com/)|[从挫败中学到的4件事](https://www.huxiu.com/article/2209971.html?f=rss)|
+|2023-10-24 01:50:00|[虎嗅](https://rss.huxiu.com/)|[数学世界的“大卫王”：创造性、影响力和正义感](https://www.huxiu.com/article/2211448.html?f=rss)|
+|2023-10-24 01:36:00|[虎嗅](https://rss.huxiu.com/)|[乐视虚假陈述案：被告责任合理化的里程碑探索](https://www.huxiu.com/article/2210002.html?f=rss)|
+|2023-10-24 01:35:44|[虎嗅](https://rss.huxiu.com/)|[荷兰“食品谷”，凭什么能成为农业界的“硅谷”？](https://www.huxiu.com/article/2211469.html?f=rss)|
+|2023-10-24 01:33:36|[虎嗅](https://rss.huxiu.com/)|[28亿医院废止风波：西安医院格局巨变的这些年](https://www.huxiu.com/article/2211457.html?f=rss)|
+|2023-10-24 01:13:53|[虎嗅](https://rss.huxiu.com/)|[卡塔尔：一家都是“李世民”，是什么样的体验？](https://www.huxiu.com/article/2208685.html?f=rss)|
+|2023-10-24 01:00:00|[虎嗅](https://rss.huxiu.com/)|[撞破父母外遇的孩子们如何长大？](https://www.huxiu.com/article/2207390.html?f=rss)|
+|2023-10-24 00:55:26|[虎嗅](https://rss.huxiu.com/)|[章子怡汪峰离婚：八年婚姻，资本市场各自为战](https://www.huxiu.com/article/2210038.html?f=rss)|
+|2023-10-24 00:46:00|[虎嗅](https://rss.huxiu.com/)|[养老储蓄正当时](https://www.huxiu.com/article/2210000.html?f=rss)|
+|2023-10-24 00:42:53|[虎嗅](https://rss.huxiu.com/)|[如果AI有了意识，我们该如何得知？](https://www.huxiu.com/article/2210453.html?f=rss)|
+|2023-10-24 00:30:00|[虎嗅](https://rss.huxiu.com/)|[日本的未来，属于老年人](https://www.huxiu.com/article/2207352.html?f=rss)|
+|2023-10-24 00:30:00|[虎嗅](https://rss.huxiu.com/)|[为什么网吧必备营养快线？](https://www.huxiu.com/article/2205673.html?f=rss)|
+|2023-10-24 00:26:00|[虎嗅](https://rss.huxiu.com/)|[柔韧木材中的传统智慧](https://www.huxiu.com/article/2208622.html?f=rss)|
+|2023-10-24 00:21:00|[虎嗅](https://rss.huxiu.com/)|[大张伟《万物盛开法则》爆火，当代年轻人的朋克心经？](https://www.huxiu.com/article/2210435.html?f=rss)|
+|2023-10-24 00:15:44|[虎嗅](https://rss.huxiu.com/)|[城市养狗问题，到底该如何解决？](https://www.huxiu.com/article/2210442.html?f=rss)|
+|2023-10-24 00:13:00|[虎嗅](https://rss.huxiu.com/)|[李志强：马拉松赛事野蛮生长，大连事件是坏事也是好事](https://www.huxiu.com/article/2209999.html?f=rss)|
+|2023-10-24 00:13:00|[虎嗅](https://rss.huxiu.com/)|[以军进攻加沙箭在弦上，美国等6国再发声明](https://www.huxiu.com/article/2209996.html?f=rss)|
+|2023-10-24 00:07:32|[虎嗅](https://rss.huxiu.com/)|[每年10亿美元，苹果全力打造AI全家桶](https://www.huxiu.com/article/2207996.html?f=rss)|
+|2023-10-24 00:04:49|[虎嗅](https://rss.huxiu.com/)|[投放，最重要的规模杠杆工具之一](https://www.huxiu.com/article/2194966.html?f=rss)|
+|2023-10-24 02:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国股市跌势加剧，投资者对中国心存疑虑](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C%E5%8A%BF%E5%8A%A0%E5%89%A7-%E6%8A%95%E8%B5%84%E8%80%85%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%BF%83%E5%AD%98%E7%96%91%E8%99%91-1df4451f)|
+|2023-10-24 02:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国电影市场上民族主义影片风头渐弱](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%B8%82%E5%9C%BA%E4%B8%8A%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89%E5%BD%B1%E7%89%87%E9%A3%8E%E5%A4%B4%E6%B8%90%E5%BC%B1-5ecb89fe)|
+|2023-10-24 01:33:02|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[比特币涨至近18个月高点，受ETF获批憧憬提振](https://cn.wsj.com/amp/articles/%E6%AF%94%E7%89%B9%E5%B8%81%E6%B6%A8%E8%87%B3%E8%BF%9118%E4%B8%AA%E6%9C%88%E9%AB%98%E7%82%B9-%E5%8F%97etf%E8%8E%B7%E6%89%B9%E6%86%A7%E6%86%AC%E6%8F%90%E6%8C%AF-35c66b08)|
+|2023-10-24 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[Arm股价大涨，报道称英伟达使用其技术设计新的个人电脑芯片](https://cn.wsj.com/amp/articles/arm%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8-%E6%8A%A5%E9%81%93%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BD%BF%E7%94%A8%E5%85%B6%E6%8A%80%E6%9C%AF%E8%AE%BE%E8%AE%A1%E6%96%B0%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91%E8%8A%AF%E7%89%87-1b53923a)|
+|2023-10-24 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[UAW在Stellantis美国最大工厂举行罢工](https://cn.wsj.com/amp/articles/uaw%E5%9C%A8stellantis%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%A4%A7%E5%B7%A5%E5%8E%82%E4%B8%BE%E8%A1%8C%E7%BD%A2%E5%B7%A5-baaf703)|
+|2023-10-24 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中概股简报：江淮汽车转让部分资产背后：蔚来代工历史将结束](https://cn.wsj.com/amp/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A6%E8%BD%AC%E8%AE%A9%E9%83%A8%E5%88%86%E8%B5%84%E4%BA%A7%E8%83%8C%E5%90%8E-%E8%94%9A%E6%9D%A5%E4%BB%A3%E5%B7%A5%E5%8E%86%E5%8F%B2%E5%B0%86%E7%BB%93%E6%9D%9F-5cd12a2a)|
+|2023-10-24 00:33:03|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[阿拉斯加航空的一名休班飞行员试图使飞机引擎失灵后被捕](https://cn.wsj.com/amp/articles/%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%88%AA%E7%A9%BA%E7%9A%84%E4%B8%80%E5%90%8D%E4%BC%91%E7%8F%AD%E9%A3%9E%E8%A1%8C%E5%91%98%E8%AF%95%E5%9B%BE%E4%BD%BF%E9%A3%9E%E6%9C%BA%E5%BC%95%E6%93%8E%E5%A4%B1%E7%81%B5%E5%90%8E%E8%A2%AB%E6%8D%95-9b0fc48d)|
 |2023-10-24 01:07:08|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 请教 macOS 重启提示: the application can't be opened. -50](https://www.v2ex.com/t/984734#reply0)|
 |2023-10-24 01:05:17|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 初一的小女孩过生日适合送什么礼物好？](https://www.v2ex.com/t/984733#reply0)|
 |2023-10-24 01:02:33|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 就没有不挂的服务](https://www.v2ex.com/t/984731#reply0)|
