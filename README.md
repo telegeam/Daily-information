@@ -1,7 +1,13 @@
-﻿# 每日资讯（2023-10-24）
+﻿# 每日资讯（2023-10-25）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-25 00:44:14|[精品MAC应用分享](https://xclient.info/feed)|[Tembo 3.1.1 文件搜索工具](https://xclient.info/s/tembo.html)|
+|2023-10-25 00:20:38|[虎嗅](https://plink.anyfeeder.com/huxiu)|[再融资债券发行规模破1万亿，这意味着什么？](https://www.huxiu.com/article/2214781.html?f=rss)|
+|2023-10-25 00:19:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[年利率3.9%，存款“特种兵”火了](https://www.huxiu.com/article/2214264.html?f=rss)|
+|2023-10-25 00:13:47|[虎嗅](https://plink.anyfeeder.com/huxiu)|[赤字率3.8%：从“不可为”到“可为”的背后](https://www.huxiu.com/article/2214606.html?f=rss)|
+|2023-10-25 00:07:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[人大批准预算调整，四季度将增发万亿国债](https://www.huxiu.com/article/2214750.html?f=rss)|
+|2023-10-25 00:05:18|[虎嗅](https://plink.anyfeeder.com/huxiu)|[腾讯在海外的“微信梦”，Meta快做成了？](https://www.huxiu.com/article/2214038.html?f=rss)|
 |2023-10-24 20:11:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Mac mini 加万兆网口当 NAS 用](https://www.v2ex.com/t/985110#reply0)|
 |2023-10-24 13:34:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[语雀赔偿：个人版用户 6 个月会员服务](https://www.v2ex.com/t/985060#reply27)|
 |2023-10-24 00:47:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[鉴于昨天的语雀，有啥推荐的笔记软件么](https://www.v2ex.com/t/984728#reply281)|
