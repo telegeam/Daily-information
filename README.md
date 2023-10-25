@@ -2,6 +2,80 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-25 04:16:53|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 有没有了解 富途 技术岗位职级体系的朋友，想了解下](https://www.v2ex.com/t/985227#reply0)|
+|2023-10-25 04:11:25|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 语雀当机， Notion 莫名躺枪， Obsidian 成为最大赢家](https://www.v2ex.com/t/985226#reply2)|
+|2023-10-25 04:01:30|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 大家帮忙推荐一份学生报纸杂志](https://www.v2ex.com/t/985222#reply2)|
+|2023-10-25 03:54:51|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问甲醛 tvoc 问题新风能完全解决吗](https://www.v2ex.com/t/985218#reply1)|
+|2023-10-25 03:51:19|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 各位 V 友们紧急求助， Linux 装了一个 cs50 库，安装完后所有的指令都失灵了，提前谢谢大佬们了。](https://www.v2ex.com/t/985216#reply1)|
+|2023-10-25 03:50:58|[V2EX](http://www.v2ex.com/index.xml)|[ 深圳 深圳微合科技有人了解吗](https://www.v2ex.com/t/985215#reply0)|
+|2023-10-25 03:50:21|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 求职 Android 找远程工作](https://www.v2ex.com/t/985214#reply0)|
+|2023-10-25 03:37:51|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 如果配合带薪休假可以放假 9 天，堪称新年第一份大礼包](https://www.v2ex.com/t/985209#reply4)|
+|2023-10-25 03:33:58|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 系统错误日志疯狂刷新，我该如何优化](https://www.v2ex.com/t/985207#reply3)|
+|2023-10-25 03:28:46|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 咨询一下物业费的问题（律师请进）](https://www.v2ex.com/t/985206#reply0)|
+|2023-10-25 03:27:07|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 自用开发服务器被黑了，怎么看黑客在我机器上做了什么？](https://www.v2ex.com/t/985204#reply7)|
+|2023-10-25 03:22:22|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 为啥 iPhone 购买 AC+不能使用 paypal](https://www.v2ex.com/t/985203#reply0)|
+|2023-10-25 03:21:32|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 语雀这路子太野了](https://www.v2ex.com/t/985202#reply36)|
+|2023-10-25 03:19:24|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 一个 Chrome 中点击返回按钮页面不更新的问题](https://www.v2ex.com/t/985201#reply2)|
+|2023-10-25 03:19:07|[V2EX](http://www.v2ex.com/index.xml)|[ Flutter flutter_native_splash 中 splash 和 branding 图片设置多大不会变形](https://www.v2ex.com/t/985200#reply0)|
+|2023-10-25 03:14:54|[V2EX](http://www.v2ex.com/index.xml)|[ Apple iPhone 15 PRO Max 壳膜](https://www.v2ex.com/t/985196#reply7)|
+|2023-10-25 03:13:21|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 求助，安卓，没有锁屏密码，怎么保下资料。](https://www.v2ex.com/t/985195#reply0)|
+|2023-10-25 03:12:10|[V2EX](http://www.v2ex.com/index.xml)|[ 硬件 我可不可以认为商家标注的硬盘容量是在用旧有不合理标准衡量的？](https://www.v2ex.com/t/985194#reply7)|
+|2023-10-25 03:06:35|[V2EX](http://www.v2ex.com/index.xml)|[ 服务器 今年双十一上云怎么节约成本或者小赚](https://www.v2ex.com/t/985193#reply2)|
+|2023-10-25 03:04:40|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 下周末准备去武汉玩两天，哪些景点是推荐必须去的？](https://www.v2ex.com/t/985192#reply0)|
+|2023-10-25 03:00:35|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 出 14 pro 256G 暗紫色 购于今年 618 保修到 24.06.29 电池 100 箱说齐全 6.6k v 友可小🔪](https://www.v2ex.com/t/985191#reply0)|
+|2023-10-25 02:57:02|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 明年不算周末，把放假和补班算一算，总共公休日是 11 天。建议取消补班制，太破坏节奏](https://www.v2ex.com/t/985190#reply7)|
+|2023-10-25 02:56:31|[V2EX](http://www.v2ex.com/index.xml)|[ 推广 adguard 家庭版终身 9 设备 117 元](https://www.v2ex.com/t/985189#reply1)|
+|2023-10-25 02:55:51|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 过滤是解决 RSS 信息过载的一种方法，有没有更好的呢？ ReadBot 能够自定义主题 ](https://www.v2ex.com/t/985188#reply0)|
+|2023-10-25 02:54:17|[V2EX](http://www.v2ex.com/index.xml)|[ Apple appleStore 的付费应用或哪些软件的订阅值得购买？](https://www.v2ex.com/t/985186#reply4)|
+|2023-10-25 02:53:24|[V2EX](http://www.v2ex.com/index.xml)|[ 深圳 深圳南山市场对面整租](https://www.v2ex.com/t/985183#reply0)|
+|2023-10-25 02:49:22|[V2EX](http://www.v2ex.com/index.xml)|[ Android 备份 安卓同文 trime 的自然码双拼输入的配置](https://www.v2ex.com/t/985181#reply0)|
+|2023-10-25 02:48:39|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 除夕不放假？](https://www.v2ex.com/t/985180#reply0)|
+|2023-10-25 02:44:57|[V2EX](http://www.v2ex.com/index.xml)|[ Bitcoin 海外虚拟币收款](https://www.v2ex.com/t/985179#reply0)|
+|2023-10-25 02:43:41|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 2014 年除夕也没有放假](https://www.v2ex.com/t/985178#reply9)|
+|2023-10-25 02:42:00|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有什么基于 web 的文档管理工具推荐吗](https://www.v2ex.com/t/985177#reply0)|
+|2023-10-25 02:41:43|[V2EX](http://www.v2ex.com/index.xml)|[ NAS 双 11 想买个 nas 需要各位给点建议](https://www.v2ex.com/t/985176#reply18)|
+|2023-10-25 02:40:37|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 你能想象给你放 30 天年假吗？我花几个小时整理了各国的休假表，包括年假和病假。](https://www.v2ex.com/t/985173#reply1)|
+|2023-10-25 02:36:05|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 2024 假期安排来了](https://www.v2ex.com/t/985170#reply0)|
+|2023-10-25 02:34:48|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 说出来可能不信，你有可能除夕还要上班](https://www.v2ex.com/t/985169#reply9)|
+|2023-10-25 02:32:35|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 老爹种地被坑 2.5W，找律师能要回来吗？](https://www.v2ex.com/t/985168#reply31)|
+|2023-10-25 02:29:56|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 两台苹果手机如何都在手表看到推送？](https://www.v2ex.com/t/985167#reply2)|
+|2023-10-25 02:23:37|[V2EX](http://www.v2ex.com/index.xml)|[ 信息安全 海外的信息泄漏和骚扰有国内这么严重吗？](https://www.v2ex.com/t/985166#reply29)|
+|2023-10-25 02:21:33|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 公司经营困难让停工待业，只发基本工资和社保怎么破?](https://www.v2ex.com/t/985164#reply8)|
+|2023-10-25 02:20:54|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 24 年春节除夕不放假](https://www.v2ex.com/t/985163#reply0)|
+|2023-10-25 02:17:14|[V2EX](http://www.v2ex.com/index.xml)|[ 云计算 ESXI 7 虚拟硬盘快照合并](https://www.v2ex.com/t/985161#reply1)|
+|2023-10-25 02:16:50|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 2024 年放假安排出来了, 除夕要上班](https://www.v2ex.com/t/985160#reply149)|
+|2023-10-25 02:16:06|[V2EX](http://www.v2ex.com/index.xml)|[ 成都 成都周边眉山仁寿天府未来城个人房屋转租](https://www.v2ex.com/t/985158#reply2)|
+|2023-10-25 02:11:01|[V2EX](http://www.v2ex.com/index.xml)|[ 游戏 有没有什么放置类，或者无聊类的 ios 游戏推荐](https://www.v2ex.com/t/985157#reply21)|
+|2023-10-25 02:10:09|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 英伟达 C++开发工程师 上海、北京 ](https://www.v2ex.com/t/985156#reply0)|
+|2023-10-25 02:08:21|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 chrome 卸载之后安装不上了](https://www.v2ex.com/t/985155#reply1)|
+|2023-10-25 02:06:32|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 怎么看待李佳奇和 jd 大战](https://www.v2ex.com/t/985153#reply22)|
+|2023-10-25 02:05:56|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 苹果充电线是否原装有区别吗？](https://www.v2ex.com/t/985152#reply11)|
+|2023-10-25 02:04:14|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 除夕不放假！](https://www.v2ex.com/t/985151#reply8)|
+|2023-10-25 02:04:01|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 HHKB Studio](https://www.v2ex.com/t/985150#reply1)|
+|2023-10-25 04:03:50|[爱范儿](https://www.ifanr.com/feed)|[全新小鹏 X9 首发亮相：全球唯一标配后轮转向的 MPV](https://www.ifanr.com/1565978?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-25 00:50:17|[爱范儿](https://www.ifanr.com/feed)|[早报｜苹果官宣新品发布会 / 美 ONE 回应京东采销喊话李佳琦 / 华为新款 5G 手机或年底推出](https://www.ifanr.com/1566034?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-25 02:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国增发国债以帮助提振经济](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A2%9E%E5%8F%91%E5%9B%BD%E5%80%BA%E4%BB%A5%E5%B8%AE%E5%8A%A9%E6%8F%90%E6%8C%AF%E7%BB%8F%E6%B5%8E-c80d7a13)|
+|2023-10-25 02:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国久未公开露面的国防部长李尚福被免职](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%B9%85%E6%9C%AA%E5%85%AC%E5%BC%80%E9%9C%B2%E9%9D%A2%E7%9A%84%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E6%9D%8E%E5%B0%9A%E7%A6%8F%E8%A2%AB%E5%85%8D%E8%81%8C-5b347c1e)|
+|2023-10-25 01:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[跨国企业加速撤离香港](https://cn.wsj.com/articles/%E8%B7%A8%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%8A%A0%E9%80%9F%E6%92%A4%E7%A6%BB%E9%A6%99%E6%B8%AF-e89036f0)|
+|2023-10-25 03:06:55|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[联想展示首款AI PC：让每个人拥有自己的大模型](https://m.cnbeta.com.tw/view/1392107.htm)|
+|2023-10-25 03:06:39|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[李佳琦直播间再次带货花西子 本人未出镜 网友吵翻了](https://m.cnbeta.com.tw/view/1392105.htm)|
+|2023-10-25 03:06:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Canalys：预计2023年中国汽车出口量将突破500万辆](https://m.cnbeta.com.tw/view/1392103.htm)|
+|2023-10-25 03:06:10|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[微软砍掉工业元宇宙项目Project Airsim 将人工智能战略转向OpenAI](https://m.cnbeta.com.tw/view/1392097.htm)|
+|2023-10-25 03:06:00|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[芯片设计初创公司SiFive裁员20% 此前估值25亿美元](https://m.cnbeta.com.tw/view/1392095.htm)|
+|2023-10-25 03:05:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[OpenAI首批投资者科斯拉：大多数AI创企价值都被高估了](https://m.cnbeta.com.tw/view/1392093.htm)|
+|2023-10-25 03:05:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[24年前的苹果Mac电脑 竟然是触屏的？](https://m.cnbeta.com.tw/view/1392091.htm)|
+|2023-10-25 03:05:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果设法降低中国依赖？乔布斯自传作者：完全脱离行不通](https://m.cnbeta.com.tw/view/1392089.htm)|
+|2023-10-25 02:36:53|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iPhone 15 Pro满意度创新低 调查表现甚至低于iPhone 8](https://m.cnbeta.com.tw/view/1392087.htm)|
+|2023-10-25 02:36:42|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[你能买到这么便宜的国产车，是因为车企把他们全薅秃了](https://m.cnbeta.com.tw/view/1392085.htm)|
+|2023-10-25 02:36:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[黑石集团CEO苏世民：远程工作导致美国写字楼市场困境](https://m.cnbeta.com.tw/view/1392083.htm)|
+|2023-10-25 02:36:10|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[通用汽车Q3业绩超出市场预期 UAW这下更有动力罢工了](https://m.cnbeta.com.tw/view/1392081.htm)|
+|2023-10-25 02:35:54|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Google三季报营收和盈利超预期 但云业务表现不佳](https://m.cnbeta.com.tw/view/1392079.htm)|
+|2023-10-25 02:35:43|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克呼吁乌克兰用土地换取和平：避免第三次世界大战是最重要的事情](https://m.cnbeta.com.tw/view/1392077.htm)|
+|2023-10-25 02:35:27|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[微软营收创六个季度以来最大增长 受云计算服务推动](https://m.cnbeta.com.tw/view/1392075.htm)|
+|2023-10-25 02:35:16|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[欧盟尚未准备好对中国风电行业发起调查 “仍然缺乏明确证据”](https://m.cnbeta.com.tw/view/1392073.htm)|
+|2023-10-25 02:05:47|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[丰田CEO佐藤恒治：电池概念车将定义丰田汽车的未来](https://m.cnbeta.com.tw/view/1392071.htm)|
+|2023-10-25 02:05:34|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[摩托罗拉凌晨发新科技 命名“智变柔性屏”](https://m.cnbeta.com.tw/view/1392069.htm)|
+|2023-10-25 02:05:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[中国汽车再洗牌，谁会下牌桌？](https://m.cnbeta.com.tw/view/1392067.htm)|
 |2023-10-25 00:44:14|[精品MAC应用分享](https://xclient.info/feed)|[Tembo 3.1.1 文件搜索工具](https://xclient.info/s/tembo.html)|
 |2023-10-25 00:20:38|[虎嗅](https://plink.anyfeeder.com/huxiu)|[再融资债券发行规模破1万亿，这意味着什么？](https://www.huxiu.com/article/2214781.html?f=rss)|
 |2023-10-25 00:19:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[年利率3.9%，存款“特种兵”火了](https://www.huxiu.com/article/2214264.html?f=rss)|
