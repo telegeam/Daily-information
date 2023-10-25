@@ -2,6 +2,94 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-25 07:20:06|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1165 Windows CE 彻底落幕](https://linux.cn/article-16317-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-25 11:16:43|[36氪](https://plink.anyfeeder.com/36kr)|[科大讯飞联合万物云共创首个物业大模型、WeWork挂牌伦敦最后一栋办公楼、上海计划建成双万兆城市 PropTech周刊79期](https://36kr.com/p/2489721356654723?f=rss)|
+|2023-10-25 10:56:50|[36氪](https://plink.anyfeeder.com/36kr)|[讯飞大模型新品发布，股价一度跌停，讯飞：已上线新内容安全机制](https://36kr.com/p/2489701998729346?f=rss)|
+|2023-10-25 10:09:38|[36氪](https://plink.anyfeeder.com/36kr)|[CCER首批四项方法学正式发布 最前线](https://36kr.com/p/2489323063367809?f=rss)|
+|2023-10-25 09:54:32|[36氪](https://plink.anyfeeder.com/36kr)|[36氪首发｜「博睿鼎能」完成数千万元天使轮融资，聚焦液态二氧化碳储能技术](https://36kr.com/p/2487001618225280?f=rss)|
+|2023-10-25 09:48:57|[36氪](https://plink.anyfeeder.com/36kr)|[市场日报｜基建股大爆发！中字头个股遇挫，算力租赁概念全天活跃，白酒、汽车板块走高](https://36kr.com/p/2489427192420225?f=rss)|
+|2023-10-25 09:48:35|[36氪](https://plink.anyfeeder.com/36kr)|[默沙东200亿美元签下新单背后，是ADC赛道的集体焦虑｜焦点分析](https://36kr.com/p/2489615734396804?f=rss)|
+|2023-10-25 09:36:30|[36氪](https://plink.anyfeeder.com/36kr)|[贝泰妮无法摆脱李佳琦；可口可乐中国需要新想象；开云集团业绩踩刹车｜品牌日报](https://36kr.com/p/2489602823870342?f=rss)|
+|2023-10-25 09:35:00|[36氪](https://plink.anyfeeder.com/36kr)|[氪星晚报｜拼多多旗下Temu单季度GMV猛增至50亿美金，或超额完成年度目标；苹果公司宣布将于北京时间10月31日举行新品发布会；问界M9预定量突破15000台](https://36kr.com/p/2489619232364680?f=rss)|
+|2023-10-25 08:14:02|[36氪](https://plink.anyfeeder.com/36kr)|[36氪独家｜拼多多旗下Temu单季度GMV猛增至50亿美金，或超额完成年度目标](https://36kr.com/p/2488605371684741?f=rss)|
+|2023-10-25 07:53:06|[36氪](https://plink.anyfeeder.com/36kr)|[京东和商家打架，为什么李佳琦会被“创飞”？｜焦点分析](https://36kr.com/p/2489232289027975?f=rss)|
+|2023-10-25 11:43:53|[36氪](https://plink.anyfeeder.com/36kr)|[近六成私募选择越跌越买，逐步加仓](https://36kr.com/newsflashes/2489749226051459?f=rss)|
+|2023-10-25 11:43:25|[36氪](https://plink.anyfeeder.com/36kr)|[元成股份：公司未与长江存储科技有限责任公司有任何业务合作或接洽](https://36kr.com/newsflashes/2489726349662083?f=rss)|
+|2023-10-25 11:40:24|[36氪](https://plink.anyfeeder.com/36kr)|[TCL中环：拟5亿元-10亿元回购股份](https://36kr.com/newsflashes/2489738036778882?f=rss)|
+|2023-10-25 11:32:34|[36氪](https://plink.anyfeeder.com/36kr)|[中信银行：执行董事、副行长郭党怀辞任](https://36kr.com/newsflashes/2489730350323842?f=rss)|
+|2023-10-25 11:28:59|[36氪](https://plink.anyfeeder.com/36kr)|[爱美客：实控人拟5000万元-1亿元增持公司股份](https://36kr.com/newsflashes/2489725553072258?f=rss)|
+|2023-10-25 11:27:20|[36氪](https://plink.anyfeeder.com/36kr)|[杭州市调整优化住房公积金信贷有关政策](https://36kr.com/newsflashes/2489732966913923?f=rss)|
+|2023-10-25 11:20:50|[36氪](https://plink.anyfeeder.com/36kr)|[招商银行：副行长钟德胜任职资格获核准](https://36kr.com/newsflashes/2489720759637890?f=rss)|
+|2023-10-25 11:19:00|[36氪](https://plink.anyfeeder.com/36kr)|[比亚迪回应王传福卸任子公司董事长：为简化行政流程](https://36kr.com/newsflashes/2489724776535937?f=rss)|
+|2023-10-25 11:17:20|[36氪](https://plink.anyfeeder.com/36kr)|[蚂蚁消金增资至230亿元获批](https://36kr.com/newsflashes/2489723130664833?f=rss)|
+|2023-10-25 11:13:18|[36氪](https://plink.anyfeeder.com/36kr)|[荣科科技：公司与“超聚变”有资产注入的预期的消息与事实不符](https://36kr.com/newsflashes/2489719172487304?f=rss)|
+|2023-10-25 11:10:27|[36氪](https://plink.anyfeeder.com/36kr)|[爱尔眼科：第三季度净利润14.7亿元，同比增长37.82%](https://36kr.com/newsflashes/2489716364990340?f=rss)|
+|2023-10-25 11:08:50|[36氪](https://plink.anyfeeder.com/36kr)|[奇安信：前三季度营收36.86亿元，毛利增速达14.69%](https://36kr.com/newsflashes/2489714776021125?f=rss)|
+|2023-10-25 10:51:22|[36氪](https://plink.anyfeeder.com/36kr)|[乐普医疗：拟以2.5亿元-5亿元回购股份](https://36kr.com/newsflashes/2489697600854150?f=rss)|
+|2023-10-25 10:46:31|[36氪](https://plink.anyfeeder.com/36kr)|[闻泰科技：第三季度净利润8.48亿元，同比增长11.42%](https://36kr.com/newsflashes/2489692844840838?f=rss)|
+|2023-10-25 10:43:59|[36氪](https://plink.anyfeeder.com/36kr)|[国轩高科：拟在美国密歇根州建设电池材料项目](https://36kr.com/newsflashes/2489679056394368?f=rss)|
+|2023-10-25 10:42:08|[36氪](https://plink.anyfeeder.com/36kr)|[中国铝业：第三季度净利润19.36亿元，同比增长105.35%](https://36kr.com/newsflashes/2489681766570120?f=rss)|
+|2023-10-25 10:40:55|[36氪](https://plink.anyfeeder.com/36kr)|[腾讯企业服务不再设收入增长目标，转为加速扭亏](https://36kr.com/newsflashes/2489676280682370?f=rss)|
+|2023-10-25 10:40:46|[36氪](https://plink.anyfeeder.com/36kr)|[亿纬锂能：第三季度净利润12.73亿元，同比下降2.53%](https://36kr.com/newsflashes/2489687180498817?f=rss)|
+|2023-10-25 10:39:12|[36氪](https://plink.anyfeeder.com/36kr)|[2024年放假安排公布，春节机票搜索涨7倍](https://36kr.com/newsflashes/2489677881776009?f=rss)|
+|2023-10-25 10:30:09|[36氪](https://plink.anyfeeder.com/36kr)|[央行：截至9月末结构性货币政策工具合计余额为70180亿元](https://36kr.com/newsflashes/2489671029282947?f=rss)|
+|2023-10-25 10:49:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[2023 SDC 11大前沿技术议题，看雪·第七届安全开发者峰会于上海圆满落幕！](https://www.4hou.com/posts/poW6)|
+|2023-10-25 03:59:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[2023网络安全“金帽子”年度评选投票正式开启](https://www.4hou.com/posts/gDW6)|
+|2023-10-25 03:40:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[勒索软件Retch和S.H.O概述](https://www.4hou.com/posts/m0j0)|
+|2023-10-25 03:32:00|[嘶吼 RoarTalk – 网络安全行业...](http://www.4hou.com/feed/)|[AIGC技术加持，完成A2轮！「众智维科技」两年内已完成三轮融资](https://www.4hou.com/posts/0ojX)|
+|2023-10-25 12:29:02|[V2EX](https://www.v2ex.com/index.xml)|[ 北京 北京远郊密云的房子现在能买吗？还是再观望一下](https://www.v2ex.com/t/985415#reply1)|
+|2023-10-25 12:27:41|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 AMD Zen5 系列笔记本 CPU 消息汇总](https://www.v2ex.com/t/985414#reply0)|
+|2023-10-25 12:21:49|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 现在的 Java 主要是都是面试哪些内容、除了八股文和高并发那些](https://www.v2ex.com/t/985413#reply0)|
+|2023-10-25 12:11:36|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 怎么根据 cloudflare warp 的 ip 地址查询到真实的主机 ip](https://www.v2ex.com/t/985412#reply5)|
+|2023-10-25 12:04:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 除了富二代，那些有钱人和普通人的区别到底是什么？](https://www.v2ex.com/t/985410#reply0)|
+|2023-10-25 12:04:19|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 QQ 邮箱域名邮变相回归](https://www.v2ex.com/t/985409#reply1)|
+|2023-10-25 11:56:47|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 买了个屏幕挂灯 明基的，总能看到灯珠怎么办，有点刺眼](https://www.v2ex.com/t/985408#reply0)|
+|2023-10-25 11:54:58|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iPad esim 开通实测及是否支持其他设备](https://www.v2ex.com/t/985407#reply0)|
+|2023-10-25 11:49:58|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 Chrome 这个打印是默认的吗？以前好像没有啊](https://www.v2ex.com/t/985406#reply3)|
+|2023-10-25 11:47:17|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 富士康什么情况懂得来说说](https://www.v2ex.com/t/985404#reply3)|
+|2023-10-25 11:37:50|[V2EX](https://www.v2ex.com/index.xml)|[ 买买买 双 11 了，想入个人体工学椅，有推荐的没？](https://www.v2ex.com/t/985403#reply3)|
+|2023-10-25 11:34:21|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 大佬们，现在上海联通宽带还有优惠活动吗？](https://www.v2ex.com/t/985402#reply2)|
+|2023-10-25 11:21:42|[V2EX](https://www.v2ex.com/index.xml)|[ WireGuard wireguard 隧道大包拆分问题](https://www.v2ex.com/t/985398#reply0)|
+|2023-10-25 11:21:07|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 rancher 桌面太棒了。](https://www.v2ex.com/t/985397#reply0)|
+|2023-10-25 11:09:03|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 有没有玩 LOLm 的，只玩大乱斗](https://www.v2ex.com/t/985396#reply7)|
+|2023-10-25 11:01:05|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 看到了一个假的双十一，问问大家 1688 有没有店铺/代工厂推荐](https://www.v2ex.com/t/985395#reply2)|
+|2023-10-25 10:53:13|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 被庸医坑了，我根管治疗后 5 年没问题，突然让我加牙冠，一时脑热太信医生了花了 2800](https://www.v2ex.com/t/985394#reply0)|
+|2023-10-25 10:51:04|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大学本科专业 计算机类和电子信息类怎么选](https://www.v2ex.com/t/985393#reply4)|
+|2023-10-25 10:40:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 在有外国人的环境里，某个中国人想和另一个中国人交流，说中文是“失礼”的表现么？](https://www.v2ex.com/t/985392#reply21)|
+|2023-10-25 10:37:56|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 淘宝核心业务，招聘大量开发人员](https://www.v2ex.com/t/985390#reply5)|
+|2023-10-25 10:33:15|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 我的编程故事—7 第二个开源项目](https://www.v2ex.com/t/985389#reply0)|
+|2023-10-25 10:30:28|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 验证码自动清除功能好用吗？](https://www.v2ex.com/t/985388#reply0)|
+|2023-10-25 10:27:57|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 第一代的 M1MacBook pro 使用时风扇没转过。最近换了 14 寸的 MacBook pro M1pro 芯片动不动风扇就嗷嗷转！ 你们也会这样么？](https://www.v2ex.com/t/985387#reply13)|
+|2023-10-25 10:26:54|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 论闲鱼交易机制：闲鱼买到假内存，差评后，发现小丑竟是我自己](https://www.v2ex.com/t/985386#reply12)|
+|2023-10-25 10:26:27|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 如何设计一个前后端分类管理系统的权限管理？](https://www.v2ex.com/t/985385#reply3)|
+|2023-10-25 10:17:13|[V2EX](https://www.v2ex.com/index.xml)|[ Windows visual studio installer 中文字体显示问题，可能和回退有关？](https://www.v2ex.com/t/985384#reply7)|
+|2023-10-25 10:17:03|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 推荐款 MapleStory 冒险岛 079](https://www.v2ex.com/t/985383#reply4)|
+|2023-10-25 10:13:50|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 三星 S22U 换到苹果 15Pro,谈谈真实感受](https://www.v2ex.com/t/985382#reply6)|
+|2023-10-25 10:12:50|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 聊聊大家公司都使用 istio 了么？](https://www.v2ex.com/t/985381#reply3)|
+|2023-10-25 10:11:05|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 酸乳和发酵乳哪个好一点？](https://www.v2ex.com/t/985380#reply1)|
+|2023-10-25 10:08:42|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 苹果发布会发布新的 24 寸 iMac ， m3 芯片，还有 iPad air 7？](https://www.v2ex.com/t/985379#reply1)|
+|2023-10-25 10:07:22|[V2EX](https://www.v2ex.com/index.xml)|[ Edge Edge 浏览器是什么情况？](https://www.v2ex.com/t/985378#reply1)|
+|2023-10-25 10:07:12|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 百度贴吧能否从百度这个集团分出来？有这样类似的案例么，我是想问能有这种操作吗？](https://www.v2ex.com/t/985377#reply1)|
+|2023-10-25 10:07:11|[V2EX](https://www.v2ex.com/index.xml)|[ 上海 上海申请办居住证](https://www.v2ex.com/t/985376#reply5)|
+|2023-10-25 10:05:12|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 开源 基于 PHP 的 rustdesk api server](https://www.v2ex.com/t/985375#reply0)|
+|2023-10-25 09:54:55|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 上海 日薪 500-1000 招聘 machine learning engineer 实习, 有转正 hc](https://www.v2ex.com/t/985373#reply0)|
+|2023-10-25 09:53:37|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 腾讯文档高级前端工程师招聘](https://www.v2ex.com/t/985372#reply3)|
+|2023-10-25 09:49:56|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 iOS 推送 Bark 后端](https://www.v2ex.com/t/985370#reply0)|
+|2023-10-25 09:46:43|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 为什么要用乐观锁？什么场景下乐观锁比悲观锁有优势？](https://www.v2ex.com/t/985369#reply1)|
+|2023-10-25 09:43:59|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 拼多多前端招聘](https://www.v2ex.com/t/985367#reply7)|
+|2023-10-25 09:41:12|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 双 11 想购买一台电视](https://www.v2ex.com/t/985364#reply3)|
+|2023-10-25 09:38:38|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 如何优化像毒瘤一样的微信](https://www.v2ex.com/t/985363#reply3)|
+|2023-10-25 09:35:12|[V2EX](https://www.v2ex.com/index.xml)|[ 小米 小米设备解锁 Bootloader 需要一直插着 SIM 卡吗？](https://www.v2ex.com/t/985361#reply4)|
+|2023-10-25 09:35:07|[V2EX](https://www.v2ex.com/index.xml)|[ 数据库 像语雀这种文档型应用，一般是用什么数据库存数据啊](https://www.v2ex.com/t/985360#reply8)|
+|2023-10-25 09:31:39|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 怎么感觉市场不行，但是面试人也没准备，既然都参加外包面试，总得准备一下吧](https://www.v2ex.com/t/985359#reply0)|
+|2023-10-25 09:30:45|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 如何评价神说要有光面试失败挂人的行为？](https://www.v2ex.com/t/985358#reply8)|
+|2023-10-25 09:30:39|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于除夕不放假以及特色的调休制度](https://www.v2ex.com/t/985357#reply2)|
+|2023-10-25 09:29:52|[V2EX](https://www.v2ex.com/index.xml)|[ Python 请教一下，想找人爬金融管理总局 2020 起所有的处罚公开表，收费几何](https://www.v2ex.com/t/985356#reply27)|
+|2023-10-25 09:28:07|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 咨询一下 江苏农村自建光伏系统，余电上网 的问题](https://www.v2ex.com/t/985355#reply10)|
+|2023-10-25 09:26:18|[V2EX](https://www.v2ex.com/index.xml)|[ 浏览器 请教一个使用 Arc 浏览器的姿势](https://www.v2ex.com/t/985354#reply6)|
+|2023-10-25 09:07:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[“二战”以来最激烈的巷战？若以色列入侵加沙会发生什么](https://cn.nytimes.com/world/20231025/israel-hamas-invasion/)|
+|2023-10-25 03:07:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[反共、反通胀、反尹锡悦：韩国为何“盛产”抗议集会](https://cn.nytimes.com/asia-pacific/20231025/south-korea-protests/)|
+|2023-10-25 00:37:02|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中国国防部长李尚福被免职，此前已近两月未公开露面](https://cn.nytimes.com/china/20231025/china-defense-minister-ousted/)|
 |2023-10-25 06:43:35|[小众软件](https://plink.anyfeeder.com/appinn)|[hazakura – 为 Windows 屏幕顶部添加一个13合1工具条](https://www.appinn.com/hazakura/)|
 |2023-10-25 04:23:24|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[软件开发 一些被忽略的 Git 知识](https://linux.cn/article-16316-1.html?utm_source=rss&utm_medium=rss)|
 |2023-10-25 01:30:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 Overskride：刚刚出现的一款有趣的 Linux 蓝牙应用！](https://linux.cn/article-16315-1.html?utm_source=rss&utm_medium=rss)|
