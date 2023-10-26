@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-26 16:07:19|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1167 连谷歌 CEO 都不了解谷歌的隐私控制措施](https://linux.cn/article-16322-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-26 14:41:59|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 Warehouse：管理 Flatpak 应用的强大工具](https://linux.cn/article-16321-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-26 16:17:02|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[13 CSS Techniques that May Be Useful on the Frontend](https://javascript.plainenglish.io/13-css-techniques-that-may-be-useful-on-the-frontend-aadc24902370?source=rss-c3917681a8f5------2)|
+|2023-10-26 15:43:50|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[“写作的艺术”与“艺术的写作”](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892078&idx=1&sn=01cf951276e22cd01c9894adf0a47ab0)|
 |2023-10-26 15:00:00|[机核](https://www.gcores.com/rss)|[一场低科技低生活的资本主义未来盛宴 《天外世界》背后的故事](https://www.gcores.com/radios/172660)|
 |2023-10-26 13:01:45|[机核](https://www.gcores.com/rss)|[出色续作、致命之谜：《心灵杀手2》媒体评分汇总](https://www.gcores.com/articles/172934)|
 |2023-10-26 13:00:00|[机核](https://www.gcores.com/rss)|[（无剧透）字里行间不可觉知的诡异再度降临 《心灵杀手2》与Remedy的新怪谈宇宙](https://www.gcores.com/articles/172925)|
