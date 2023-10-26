@@ -27,7 +27,7 @@ def replace_brackets_with_space(string):
     return replaced_string
 
 # 处理长字符串
-def truncate_string(string, length = 20):
+def truncate_string(string, length = 18):
     if len(string) <= length:
         return string
     else:
@@ -47,7 +47,7 @@ def update_today():
         content += f'|时间|来源|标题|\n'
         content += f'|---|---|---|\n'
         for (feed, link, title, url, published_at) in data:
-            newfeed = truncate_string(feed)
+            newfeed = truncate_string(replace_brackets_with_space(feed))
             newtitle = replace_brackets_with_space(title)
             content += f'|{published_at}|[{newfeed}]({link})|[{newtitle}]({url})|\n'
         f1.write(content)
