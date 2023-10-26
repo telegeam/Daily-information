@@ -1,7 +1,11 @@
-﻿# 每日资讯（2023-10-25）
+﻿# 每日资讯（2023-10-26）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-26 08:44:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2023 Oct.15 - Oct.21](http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20231021/)|
+|2023-10-26 00:30:36|[精品MAC应用分享](https://xclient.info/feed)|[iStatistica Pro 5.2 一款高颜值的系统监控工具](https://xclient.info/s/istatistica-pro.html)|
+|2023-10-26 01:00:00|[机核](https://www.gcores.com/rss)|[万智牌《依夏兰迷窟》机核独家预览单卡](https://www.gcores.com/articles/172736)|
+|2023-10-26 00:34:21|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[退役运动员难找出路｜工劳小报 #30](https://feed.laborinfocn3.com/issue30/)|
 |2023-10-25 17:34:45|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 裸辞两个月了，再回原公司怎么样，就是不知道老东家还要不要我？当时因为一些事情心态炸了，就直接提桶跑路了。而且打听公司也没啥新业务，部门大部分人还是比较闲的。](https://www.v2ex.com/t/985478#reply0)|
 |2023-10-25 17:31:30|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有没有一款笔记软件同时支持以下功能？](https://www.v2ex.com/t/985477#reply1)|
 |2023-10-25 17:26:53|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Linux 上可以安装安卓模拟器吗？](https://www.v2ex.com/t/985476#reply1)|
