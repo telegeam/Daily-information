@@ -2,6 +2,75 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-26 15:00:00|[机核](https://www.gcores.com/rss)|[一场低科技低生活的资本主义未来盛宴 《天外世界》背后的故事](https://www.gcores.com/radios/172660)|
+|2023-10-26 13:01:45|[机核](https://www.gcores.com/rss)|[出色续作、致命之谜：《心灵杀手2》媒体评分汇总](https://www.gcores.com/articles/172934)|
+|2023-10-26 13:00:00|[机核](https://www.gcores.com/rss)|[（无剧透）字里行间不可觉知的诡异再度降临 《心灵杀手2》与Remedy的新怪谈宇宙](https://www.gcores.com/articles/172925)|
+|2023-10-26 12:00:00|[机核](https://www.gcores.com/rss)|[Bye，完美的一天！](https://www.gcores.com/articles/172922)|
+|2023-10-26 11:18:08|[机核](https://www.gcores.com/rss)|[《绝区零》、《鸣潮》过审，2023年10月份国产网络游戏审批信息公布](https://www.gcores.com/articles/172932)|
+|2023-10-26 10:53:00|[机核](https://www.gcores.com/rss)|[1+1>2，《堕落之主》让我感受到了一种新的“魂like风情”](https://www.gcores.com/articles/172878)|
+|2023-10-26 10:24:52|[机核](https://www.gcores.com/rss)|[恐怖蜘蛛号来袭！《站点连连》 X Choo Choo Charles -“万圣节更新”官方预告](https://www.gcores.com/articles/172927)|
+|2023-10-26 10:04:49|[机核](https://www.gcores.com/rss)|[引擎技术漫游指南：卡马克的魔法](https://www.gcores.com/articles/172917)|
+|2023-10-26 10:00:57|[机核](https://www.gcores.com/rss)|[手游《死亡爱丽丝》宣布2024年1月15日正式停运](https://www.gcores.com/articles/172923)|
+|2023-10-26 10:00:00|[机核](https://www.gcores.com/rss)|[打破13年“不能出续作”的诅咒！关于Alan Wake以及Remedy的故事](https://www.gcores.com/videos/172919)|
+|2023-10-26 09:06:11|[机核](https://www.gcores.com/rss)|[《生化危机4 重制版》累计销量545万份：卡普空公布2023财年上半年财报](https://www.gcores.com/articles/172915)|
+|2023-10-26 09:00:00|[机核](https://www.gcores.com/rss)|[喜欢万智牌的理由，录音笔 Vol.64](https://www.gcores.com/radios/172912)|
+|2023-10-26 16:10:29|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 如何看待前端女生转型擦边？](https://www.v2ex.com/t/985818#reply4)|
+|2023-10-26 15:57:58|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 前端娱乐周刊](https://www.v2ex.com/t/985817#reply0)|
+|2023-10-26 15:54:29|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 上班摸鱼可玩的文字游戏](https://www.v2ex.com/t/985814#reply0)|
+|2023-10-26 15:39:42|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 心好累啊. 每天都在跟 chatgpt 斗智斗勇.](https://www.v2ex.com/t/985812#reply0)|
+|2023-10-26 15:32:10|[V2EX](http://www.v2ex.com/index.xml)|[ macOS macOS 的 /etc/ssh/sshd_config 配置不生效](https://www.v2ex.com/t/985811#reply2)|
+|2023-10-26 15:32:07|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 请教下打包后的 js 代码混淆](https://www.v2ex.com/t/985810#reply2)|
+|2023-10-26 15:24:03|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 接码平台 ruibo.win 没了？](https://www.v2ex.com/t/985809#reply0)|
+|2023-10-26 15:23:05|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 大家好，现在市场炒得火热的算力是什么？好像是英伟达封锁导致。](https://www.v2ex.com/t/985808#reply4)|
+|2023-10-26 15:23:03|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 寻求一套黑苹果主机方案](https://www.v2ex.com/t/985807#reply3)|
+|2023-10-26 15:17:39|[V2EX](http://www.v2ex.com/index.xml)|[ Android 你们的安卓手机平常用 4G 还是 5G](https://www.v2ex.com/t/985806#reply0)|
+|2023-10-26 15:11:35|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 微软商店下载的软件 内购时闪退 有朋友遇到过吗？](https://www.v2ex.com/t/985805#reply0)|
+|2023-10-26 15:01:26|[V2EX](http://www.v2ex.com/index.xml)|[ Android 小米 14 官网上中英文间的空格依旧不统一](https://www.v2ex.com/t/985804#reply5)|
+|2023-10-26 14:57:26|[V2EX](http://www.v2ex.com/index.xml)|[ 优惠信息 腾讯视频会员随机天数福袋，共 10 个](https://www.v2ex.com/t/985803#reply0)|
+|2023-10-26 14:55:01|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 请教关于兼职的合作方式](https://www.v2ex.com/t/985802#reply1)|
+|2023-10-26 14:49:45|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 有 JS 或者 TS 的操作树的库吗？自己写起来感觉头都大了](https://www.v2ex.com/t/985801#reply3)|
+|2023-10-26 14:32:25|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 如何破解米式对比法](https://www.v2ex.com/t/985800#reply28)|
+|2023-10-26 14:21:52|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 什么型号的笔记本风扇声不大](https://www.v2ex.com/t/985799#reply5)|
+|2023-10-26 14:19:27|[V2EX](http://www.v2ex.com/index.xml)|[ 优惠信息 爱奇艺随机天数 VIP 会员免费领，共 10 个。](https://www.v2ex.com/t/985798#reply0)|
+|2023-10-26 14:14:56|[V2EX](http://www.v2ex.com/index.xml)|[ Java Hibernate entity association, persiste 玩不明白](https://www.v2ex.com/t/985797#reply0)|
+|2023-10-26 14:14:13|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 写给孙子玩的视觉错觉可视化](https://www.v2ex.com/t/985796#reply8)|
+|2023-10-26 14:13:48|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 Azure OpenAI GPT-4 不能申请了吗？](https://www.v2ex.com/t/985795#reply3)|
+|2023-10-26 14:06:16|[V2EX](http://www.v2ex.com/index.xml)|[ Pixel Pixel IMS 断连问题](https://www.v2ex.com/t/985793#reply0)|
+|2023-10-26 13:55:54|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 30 岁的迷茫](https://www.v2ex.com/t/985791#reply0)|
+|2023-10-26 13:52:15|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 用了两年 iOS 原生输入法，还是感觉别扭](https://www.v2ex.com/t/985790#reply3)|
+|2023-10-26 13:39:11|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 用什么工具解析原始网络数据包, 像 wireshark 那样清晰?](https://www.v2ex.com/t/985788#reply3)|
+|2023-10-26 13:22:58|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 海外卡全网最低价购买渠道汇总，让你免遭卡贩子收割](https://www.v2ex.com/t/985784#reply0)|
+|2023-10-26 13:18:15|[V2EX](http://www.v2ex.com/index.xml)|[ Python Python 如何在非主线程里实现一个弹窗式对话框？](https://www.v2ex.com/t/985783#reply13)|
+|2023-10-26 13:06:47|[V2EX](http://www.v2ex.com/index.xml)|[ 成都 5 年 Java 专科 Java 求内推](https://www.v2ex.com/t/985782#reply6)|
+|2023-10-26 13:00:47|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 求推机场，流量需求小](https://www.v2ex.com/t/985781#reply11)|
+|2023-10-26 12:51:59|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 打包只运行 NodeJs 上 Npm 项目，你们用什么打包？](https://www.v2ex.com/t/985778#reply0)|
+|2023-10-26 12:49:43|[V2EX](http://www.v2ex.com/index.xml)|[ 小米 小米 HyperOS 首批发布计划： 12 月开始陆续推送](https://www.v2ex.com/t/985776#reply6)|
+|2023-10-26 12:48:54|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 chatgpt 的长回答总是因为各种 error 而被截断, 如何解决?](https://www.v2ex.com/t/985775#reply3)|
+|2023-10-26 12:34:02|[V2EX](http://www.v2ex.com/index.xml)|[ 北京 吃了顿老北京火锅，可把我心疼坏了，太贵了](https://www.v2ex.com/t/985774#reply28)|
+|2023-10-26 12:31:18|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Safari 经常访问 V2 不上，显示"浏览器打不开该网页，因为已丢失网络连接"](https://www.v2ex.com/t/985772#reply0)|
+|2023-10-26 04:29:12|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Watch 雙指互點兩下手勢 現已隨 watchOS 10.1 推出](https://applefans.today/2023-10-apple-watch-double-tap-gesture-now-available-with-watchos-10-1/)|
+|2023-10-26 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[同部门同样的工资，其他人都闲着聊天，自己却被安排很多工作忙得不停，领导说是重视你，该怎么办？](https://www.zhihu.com/question/627707106)|
+|2023-10-26 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何用「琪亚娜」「姬子」造句？](https://www.zhihu.com/question/626934042)|
+|2023-10-26 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中超俱乐部到底要不要中性名？](https://www.zhihu.com/question/599683289)|
+|2023-10-26 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[DOTA2 Ti12 LGD 对阵 AR，本场比赛有哪些看点？](https://www.zhihu.com/question/627148383)|
+|2023-10-26 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[iPhone 的护城河究竟是什么？](https://www.zhihu.com/question/626391396)|
+|2023-10-26 16:04:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[恒星生成原理是否违反了热力学第二定律？](https://www.zhihu.com/question/618519969)|
+|2023-10-26 16:04:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 日本移动出行展（原东京车展）有什么值得关注的新品？](https://www.zhihu.com/question/625596508)|
+|2023-10-26 16:04:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果 DOTA2 里你和职业选手 solo，但允许你出门时点亮所有天赋，你会选择哪个英雄？](https://www.zhihu.com/question/621291184)|
+|2023-10-26 16:04:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大家都是怎么「精简护肤」的？有哪些护肤单品分享下？](https://www.zhihu.com/question/619866951)|
+|2023-10-26 16:04:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些冷门但好用的国货彩妆？](https://www.zhihu.com/question/626274083)|
+|2023-10-26 16:04:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[裸辞4个月后突然要上班了，心里产生了抗拒，该如何面对和解决呢？](https://www.zhihu.com/question/627694666)|
+|2023-10-26 16:04:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[领导嫌弃自己做事拖拉，办事效率低下，自己也想辞职了，应不应该提出辞职呢？](https://www.zhihu.com/question/627745768)|
+|2023-10-26 16:04:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[零跑汽车卖身，获 Stellantis 15 亿欧元投资，零跑汽车这把稳了吗？](https://www.zhihu.com/question/627875225)|
+|2023-10-26 16:04:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[越来越想独处的原因是什么？](https://www.zhihu.com/question/627728532)|
+|2023-10-26 16:04:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[用人为发出的电去电击树木，得到的算是雷击木吗？](https://www.zhihu.com/question/609146154)|
+|2023-10-26 16:04:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你习惯选择什么时间锻炼？](https://www.zhihu.com/question/625565467)|
+|2023-10-26 16:04:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[车企在招聘时，会有学历歧视吗？](https://www.zhihu.com/question/624595575)|
+|2023-10-26 16:04:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[可以留下一首你写的诗吗？](https://www.zhihu.com/question/626713561)|
+|2023-10-26 16:04:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[花小钱办大事，这个双 11 有什么「不能省」的健康好物？](https://www.zhihu.com/question/626834595)|
+|2023-10-26 16:04:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[新议长选出后，美众院通过「第一项」决议，支持以色列对哈马斯战争，释放了什么信号？](https://www.zhihu.com/question/627861733)|
+|2023-10-26 16:04:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[科技增加还是折损了体育魅力？](https://www.zhihu.com/question/627539354)|
+|2023-10-26 16:04:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[通勤的化妆包里应该带什么最精简？什么样的彩妆产品可以实现一物多用？](https://www.zhihu.com/question/625769723)|
 |2023-10-26 10:23:33|[沉舟侧畔 Blog](https://springwood.me/feed/)|[小棉袄去“上学”（日本托儿所 · 其一）](https://springwood.me/jp-nursery-school-part-1/)|
 |2023-10-26 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[薛定谔的体育摄影初体验——我用佳能 EOS R3 拍亚运](https://www.photoworld.com.cn/post/174990)|
 |2023-10-26 04:45:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[好莱坞大罢工，为何奈飞股票暴涨？](http://www.huxiu.com/article/2219384.html?f=wangzhan)|
