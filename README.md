@@ -1,7 +1,14 @@
-﻿# 每日资讯（2023-10-26）
+﻿# 每日资讯（2023-10-27）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-27 01:00:00|[机核](https://www.gcores.com/rss)|[就是想做像素美术，没考虑别的：《铃兰之剑》开发纪实 Vol.1](https://www.gcores.com/videos/172860)|
+|2023-10-27 01:00:00|[虎嗅](https://rss.huxiu.com/)|[跑滴滴，送外卖，灵活用工是少走弯路还是洪水猛兽？](https://www.huxiu.com/article/2219380.html?f=rss)|
+|2023-10-27 00:39:59|[虎嗅](https://rss.huxiu.com/)|[6%，山东经济韧性从何而来](https://www.huxiu.com/article/2221842.html?f=rss)|
+|2023-10-27 00:30:00|[虎嗅](https://rss.huxiu.com/)|[中年离婚，只因少年时委屈自己？](https://www.huxiu.com/article/2211826.html?f=rss)|
+|2023-10-27 00:21:00|[虎嗅](https://rss.huxiu.com/)|[中东财团现身抄底，上市公司密集回购：光伏板块离“触底”还有多远？](https://www.huxiu.com/article/2221839.html?f=rss)|
+|2023-10-27 00:13:12|[虎嗅](https://rss.huxiu.com/)|[超大特大城市何以扎堆长三角？](https://www.huxiu.com/article/2222034.html?f=rss)|
+|2023-10-27 00:52:37|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 109 期）：通过公开构建，赚到了 5 万美元](https://w2solo.com/topics/4213)|
 |2023-10-26 16:07:19|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1167 连谷歌 CEO 都不了解谷歌的隐私控制措施](https://linux.cn/article-16322-1.html?utm_source=rss&utm_medium=rss)|
 |2023-10-26 14:41:59|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 Warehouse：管理 Flatpak 应用的强大工具](https://linux.cn/article-16321-1.html?utm_source=rss&utm_medium=rss)|
 |2023-10-26 16:17:02|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[13 CSS Techniques that May Be Useful on the Frontend](https://javascript.plainenglish.io/13-css-techniques-that-may-be-useful-on-the-frontend-aadc24902370?source=rss-c3917681a8f5------2)|
