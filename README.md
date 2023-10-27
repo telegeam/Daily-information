@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-27 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[智康弘义黑永疆：创新药开发下半场，差异化、成药性和商业化是三大核心｜36氪专访](https://36kr.com/p/2490656770414464)|
+|2023-10-27 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[靠“卖圈子”赚1.25亿？这类博主凭啥这么会挣钱](https://36kr.com/p/2490834099574915)|
+|2023-10-27 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[从使命初心到商业化之旅：OpenAI 究竟想要什么？](https://36kr.com/p/2437112462545284)|
+|2023-10-27 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[即时零售“铲子大战”，王兴和刘强东掰手腕](https://36kr.com/p/2491113509101698)|
+|2023-10-27 04:03:47|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[吉利痛失2000亿，长城命悬一线，比亚迪赢麻了](https://36kr.com/p/2490912099244166)|
+|2023-10-27 04:03:47|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[价格翻十倍的“童年顶流”，让人“躺赚”两万元？](https://36kr.com/p/2490676189847432)|
+|2023-10-27 00:05:35|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html)|
+|2023-10-27 03:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[习近平寻求对中国房地产困局追责](https://cn.wsj.com/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%BB%E6%B1%82%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%9B%B0%E5%B1%80%E8%BF%BD%E8%B4%A3-1818e87b)|
+|2023-10-27 01:05:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国军方加强对抗力度之际，美国担心太平洋局势升级](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E5%8A%A0%E5%BC%BA%E5%AF%B9%E6%8A%97%E5%8A%9B%E5%BA%A6%E4%B9%8B%E9%99%85-%E7%BE%8E%E5%9B%BD%E6%8B%85%E5%BF%83%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7-3ec0bf67)|
+|2023-10-27 04:05:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国贸易漏洞助推中国低价电商Shein和Temu的崛起](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%B4%B8%E6%98%93%E6%BC%8F%E6%B4%9E%E5%8A%A9%E6%8E%A8%E4%B8%AD%E5%9B%BD%E4%BD%8E%E4%BB%B7%E7%94%B5%E5%95%86shein%E5%92%8Ctemu%E7%9A%84%E5%B4%9B%E8%B5%B7-b137b172)|
 |2023-10-27 01:00:00|[机核](https://www.gcores.com/rss)|[就是想做像素美术，没考虑别的：《铃兰之剑》开发纪实 Vol.1](https://www.gcores.com/videos/172860)|
 |2023-10-27 01:00:00|[虎嗅](https://rss.huxiu.com/)|[跑滴滴，送外卖，灵活用工是少走弯路还是洪水猛兽？](https://www.huxiu.com/article/2219380.html?f=rss)|
 |2023-10-27 00:39:59|[虎嗅](https://rss.huxiu.com/)|[6%，山东经济韧性从何而来](https://www.huxiu.com/article/2221842.html?f=rss)|
