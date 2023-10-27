@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-27 15:11:15|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Focusrite 帮助 Linux 开发人员提供驱动程序支持](https://linux.cn/article-16323-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-27 10:38:40|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[CP 值極高的 TCL C845 Mini LED 評測 ：高畫質、遊戲專屬設計、親民價](https://applefans.today/2023-10-tcl-c845-reviews/)|
+|2023-10-27 09:22:17|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[坐在家就能走遍世界玩遍魔物獵人 MH Now！iToolab AnyGo 模擬真實移動路徑、切換 iPhone 定位輕鬆完成](https://applefans.today/itoolab-anygo-2023-10-change-iphone-gps-location/)|
+|2023-10-27 00:37:30|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[交通人因工程之長輩們的搭公車反手刷卡神技](https://taiwan.chtsai.org/2023/10/27/jiaotong_renyin_gongcheng/)|
+|2023-10-27 12:59:28|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[日本に来た最初の月](https://blog.rxliuli.com/p/a699761971aa4669ac3c168e6a91b6b4/)|
+|2023-10-27 06:59:00|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[来日本的第一个月](https://blog.rxliuli.com/p/555e3035e0e24d22a98afbf526765705/)|
+|2023-10-27 04:01:49|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/83806)|
+|2023-10-27 06:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国前总理李克强去世，曾被习近平边缘化，终年68岁](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%89%8D%E6%80%BB%E7%90%86%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%8E%BB%E4%B8%96-%E6%9B%BE%E8%A2%AB%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%B9%E7%BC%98%E5%8C%96-%E7%BB%88%E5%B9%B468%E5%B2%81-0ae191fe)|
+|2023-10-27 22:46:20|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[简单两步，为ASP.NET Core应用程序开启gzip+Brotli响应压缩](https://masuit.com/1771)|
+|2023-10-27 22:45:34|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[新品上市，34寸新品高色域曲面显示器，3440*1440@165Hz电竞显示器，SG5461D10面板](https://masuit.com/2194)|
+|2023-10-27 22:33:50|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[画廊/快图浏览QP Gallery「9.3.3」修改版](https://masuit.com/1826)|
+|2023-10-27 21:19:27|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[哲学警示牌（螳螂大军）](https://masuit.com/1862)|
+|2023-10-27 12:00:00|[触乐](http://www.chuapp.com/feed)|[Unity平息了开发者的愤怒，但之后呢？](http://www.chuapp.com/article/289574.html)|
+|2023-10-27 10:58:42|[触乐](http://www.chuapp.com/feed)|[触乐夜话：新闻学的意义](http://www.chuapp.com/article/289593.html)|
+|2023-10-27 15:00:00|[机核](https://www.gcores.com/rss)|[新动画还挺多，看了什么说一说 天天ACG 10.27](https://www.gcores.com/radios/172661)|
+|2023-10-27 13:48:50|[机核](https://www.gcores.com/rss)|[《堕落之主》公布媒体赞誉宣传片](https://www.gcores.com/articles/173003)|
+|2023-10-27 10:07:59|[机核](https://www.gcores.com/rss)|[「Fear the Unknown」系列 season3 预告公开，新品下周二正式发售](https://www.gcores.com/articles/172994)|
+|2023-10-27 10:00:00|[机核](https://www.gcores.com/rss)|[通勤路上，极速施法 经典Roguelike《传说法师》移动端体验](https://www.gcores.com/articles/172914)|
+|2023-10-27 09:53:08|[机核](https://www.gcores.com/rss)|[再次聊聊游戏叙事与生活本身，录音笔 Vol.65](https://www.gcores.com/radios/172996)|
+|2023-10-27 09:51:01|[机核](https://www.gcores.com/rss)|[恐怖列车来袭，《站点连连》x《查尔斯小火车》联动活动开启](https://www.gcores.com/articles/172993)|
+|2023-10-27 09:04:38|[机核](https://www.gcores.com/rss)|[首周价68.8元，逃狱题材CRPG《动物迷城》将于11月3日上线](https://www.gcores.com/articles/172992)|
+|2023-10-27 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图204期:到家就躺，确实挺爽](https://www.gcores.com/articles/170819)|
+|2023-10-27 07:00:00|[机核](https://www.gcores.com/rss)|[“太怪了再看一眼”，聊聊《心灵杀手2》体验（无剧透），机浪 Vol.33](https://www.gcores.com/radios/172977)|
+|2023-10-27 05:22:34|[机核](https://www.gcores.com/rss)|[《守望先锋2》× 女子音乐组合LE SSERAFIM官方MV：“Perfect Night”正式上线](https://www.gcores.com/articles/172969)|
+|2023-10-27 05:00:00|[机核](https://www.gcores.com/rss)|[JOYTOY《英菲》幻影-5小队体验](https://www.gcores.com/videos/172289)|
+|2023-10-27 04:33:39|[机核](https://www.gcores.com/rss)|[新DEMO上线！科幻怪谈《挣脱：十三号站点》参与Steam尖叫游戏节](https://www.gcores.com/articles/172966)|
+|2023-10-27 04:28:11|[机核](https://www.gcores.com/rss)|[《传说法师》手机版正式发售！解锁畅快淋漓的Roguelike体验](https://www.gcores.com/articles/172965)|
+|2023-10-27 03:48:58|[机核](https://www.gcores.com/rss)|[《幽灵行者2》发售预告公布，游戏现已推出](https://www.gcores.com/articles/172962)|
+|2023-10-27 03:06:43|[机核](https://www.gcores.com/rss)|[寻找儿时回忆，独立游戏《变色龙童绘历险》Steam首次公开](https://www.gcores.com/articles/172959)|
+|2023-10-27 03:05:49|[机核](https://www.gcores.com/rss)|[Epic喜加二：《恶灵附身2》及《艾玛和泰迪熊：影子历险记》免费领](https://www.gcores.com/articles/172957)|
+|2023-10-27 02:47:34|[机核](https://www.gcores.com/rss)|[RE引擎进一步扩展：卡普空次世代游戏引擎“REX”开发中](https://www.gcores.com/articles/172951)|
+|2023-10-27 02:41:22|[机核](https://www.gcores.com/rss)|[寻找儿时回忆：独立游戏《变色龙童绘历险》Steam首次公开](https://www.gcores.com/articles/172956)|
+|2023-10-27 02:37:54|[机核](https://www.gcores.com/rss)|[《消逝的光芒2 人与仁之战》现已开启《吸血鬼：避世血族》联动](https://www.gcores.com/articles/172955)|
+|2023-10-27 01:57:34|[机核](https://www.gcores.com/rss)|[共庆万圣节：《暗黑4》将于今日在战网开启免费试玩周末](https://www.gcores.com/articles/172950)|
+|2023-10-27 00:14:50|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中国前总理李克强去世：习近平权威阴影下的温和派](https://cn.nytimes.com/china/20231027/li-keqiang-china-dead/?utm_source=RSS)|
 |2023-10-27 15:06:29|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Topaz Video Enhance AI 视频AI超分辨率转换器4.0.1学习版](https://masuit.com/1781)|
 |2023-10-27 12:28:39|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[嫩模背后的色欲世界——秀人网土豪撒币801万，杨晨晨狂赚450万](https://masuit.com/p235)|
 |2023-10-27 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：% ARABICA 上海影城店开业、舒淇出任 Bottega Veneta 全球品牌大使](http://www.toodaylab.com/82337)|
