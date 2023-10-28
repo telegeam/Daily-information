@@ -2,6 +2,58 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-28 22:49:41|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[抖音 v27.5 for Android 去除广告无水印版](https://masuit.com/1935)|
+|2023-10-28 18:18:56|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[三威显示器淘宝店铺双十一活动满99元立减10元，满500元立减30元，满1399元立减50元，还能和本站专属优惠叠加，最高立减550元！11月13日活动截止，保价双十一！](https://masuit.com/2102)|
+|2023-10-28 18:10:04|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[40寸新品旗舰高色域曲面显示器，5k NanoIPS，LM400RW1，LG 40WP95C同款面板](https://masuit.com/2180)|
+|2023-10-28 16:35:48|[竹林里有冰的博客](https://zhul.in/rss.xml)|[创建 b23.tv 追踪参数移除 bot](https://zhul.in/2023/10/29/create-b23tv-remover-bot/)|
+|2023-10-28 16:07:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[假如用离职的心态上班，会是什么样子？](https://www.zhihu.com/question/628033117)|
+|2023-10-28 16:07:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如今的家电是否存在过度重视外观、「中看不中用」的问题？](https://www.zhihu.com/question/628120186)|
+|2023-10-28 16:07:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[怎样才能不太在意别人的看法?](https://www.zhihu.com/question/628107477)|
+|2023-10-28 16:07:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「从沙漠空气中提取饮用水」这项科学新突破，是否会成为应对核废水污染的必备生存技能？](https://www.zhihu.com/question/627747338)|
+|2023-10-28 16:07:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你听过最治愈的话是什么呢？](https://www.zhihu.com/question/628005327)|
+|2023-10-28 16:07:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价前翼社新作《GINKA》?](https://www.zhihu.com/question/627896544)|
+|2023-10-28 16:07:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些提升生活品质的影音好物值得在双 11 入手？](https://www.zhihu.com/question/627698646)|
+|2023-10-28 19:17:36|[V2EX](https://v2ex.com/index.xml)|[ 生活 你在什么时候感觉到没有斗志，想躺平了。](https://www.v2ex.com/t/986350#reply1)|
+|2023-10-28 19:08:32|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 看同人本的时候，感觉用 OLED 电视体验更好](https://www.v2ex.com/t/986349#reply0)|
+|2023-10-28 18:53:42|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求➕多邻国好友](https://www.v2ex.com/t/986348#reply0)|
+|2023-10-28 18:31:04|[V2EX](https://v2ex.com/index.xml)|[ Apple Mac Mini 外接显示屏如何避免锁屏时屏幕自动关闭?](https://www.v2ex.com/t/986347#reply0)|
+|2023-10-28 17:51:34|[V2EX](https://v2ex.com/index.xml)|[ 问与答 什么软件可以实现 windows 串流到 Mac](https://www.v2ex.com/t/986346#reply2)|
+|2023-10-28 17:23:04|[V2EX](https://v2ex.com/index.xml)|[ 程序员 我召集了一帮同学，每周读 DDIA ，分享答疑，欢迎加入](https://www.v2ex.com/t/986345#reply4)|
+|2023-10-28 17:13:56|[V2EX](https://v2ex.com/index.xml)|[ OpenAI 请教关于 app store 内购关联被封账号的问题](https://www.v2ex.com/t/986344#reply0)|
+|2023-10-28 16:51:20|[V2EX](https://v2ex.com/index.xml)|[ Debian Debian 12 Linux 如何国内终端快速下载安装 PostgreSQL 数据库？](https://www.v2ex.com/t/986343#reply2)|
+|2023-10-28 16:24:54|[V2EX](https://v2ex.com/index.xml)|[ Windows 目前有哪些工具可以快速开发一款 Windows 桌面应用程序？](https://www.v2ex.com/t/986341#reply9)|
+|2023-10-28 15:59:07|[V2EX](https://v2ex.com/index.xml)|[ 问与答 对未来的丧气是正常的还是矫情](https://www.v2ex.com/t/986340#reply1)|
+|2023-10-28 15:51:10|[V2EX](https://v2ex.com/index.xml)|[ 程序员 有无真正开源的报餐系统推荐？](https://www.v2ex.com/t/986339#reply4)|
+|2023-10-28 15:41:05|[V2EX](https://v2ex.com/index.xml)|[ 问与答 两个为什么，请懂哥解惑。](https://www.v2ex.com/t/986338#reply4)|
+|2023-10-28 15:35:44|[V2EX](https://v2ex.com/index.xml)|[ 程序员 有没有开源的投票网站推荐啊，](https://www.v2ex.com/t/986337#reply0)|
+|2023-10-28 15:34:13|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 cdns：一个可自定义解析流程的 DNS 服务器](https://www.v2ex.com/t/986336#reply0)|
+|2023-10-28 15:30:19|[V2EX](https://v2ex.com/index.xml)|[ 问与答 国内百度云、华为云、阿里云、腾讯云这几家的人脸识别技术，那家的好用点啊](https://www.v2ex.com/t/986335#reply1)|
+|2023-10-28 15:24:38|[V2EX](https://v2ex.com/index.xml)|[ Android 折叠屏](https://www.v2ex.com/t/986334#reply4)|
+|2023-10-28 15:10:08|[V2EX](https://v2ex.com/index.xml)|[ Apple 有没有 Twitter, Instagram 的 QuanX 去广告重写规则，广告太多了](https://www.v2ex.com/t/986333#reply7)|
+|2023-10-28 14:50:09|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没有在亚马逊做跨境电商的朋友，谈一谈现在能否开始](https://www.v2ex.com/t/986331#reply1)|
+|2023-10-28 14:49:44|[V2EX](https://v2ex.com/index.xml)|[ NVIDIA NVIDIA Jetson Linux 35.4.1 安装 qt4 有朋友实践吗？](https://www.v2ex.com/t/986330#reply1)|
+|2023-10-28 14:47:21|[V2EX](https://v2ex.com/index.xml)|[ 问与答 还有什么办法可以把 token 转换成 ChatGPT API](https://www.v2ex.com/t/986329#reply3)|
+|2023-10-28 14:39:14|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没有这样的现成在线报价下单系统](https://www.v2ex.com/t/986328#reply0)|
+|2023-10-28 14:30:45|[V2EX](https://v2ex.com/index.xml)|[ 问与答 平时喜欢买数码产品， 抖音上面有个猫哥测评东西比较便宜， 靠谱不？](https://www.v2ex.com/t/986327#reply2)|
+|2023-10-28 14:26:36|[V2EX](https://v2ex.com/index.xml)|[ 问与答 用显示器看电视,日常有哪些不方便的地方](https://www.v2ex.com/t/986325#reply0)|
+|2023-10-28 14:26:22|[V2EX](https://v2ex.com/index.xml)|[ 程序员 农村程序员&独立开发者，在村里各处写代码的日常与一路走来的历程](https://www.v2ex.com/t/986324#reply8)|
+|2023-10-28 14:09:53|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想换个 8 GEN 3 的手机，换了之后能否用到真正全面屏到来？](https://www.v2ex.com/t/986323#reply4)|
+|2023-10-28 13:54:29|[V2EX](https://v2ex.com/index.xml)|[ 程序员 哪里有流行基础组件的基准性能测试?](https://www.v2ex.com/t/986322#reply2)|
+|2023-10-28 13:52:10|[V2EX](https://v2ex.com/index.xml)|[ 问与答 奶昔机场的充值问题](https://www.v2ex.com/t/986321#reply1)|
+|2023-10-28 13:50:39|[V2EX](https://v2ex.com/index.xml)|[ 北京 有人分析一下新一轮房改吗？](https://www.v2ex.com/t/986320#reply11)|
+|2023-10-28 13:46:56|[V2EX](https://v2ex.com/index.xml)|[ 生活 求助，我这种情况是否需要去看心理医生](https://www.v2ex.com/t/986319#reply1)|
+|2023-10-28 13:35:56|[V2EX](https://v2ex.com/index.xml)|[ iOS 求帮忙找一个 APP](https://www.v2ex.com/t/986318#reply2)|
+|2023-10-28 13:29:49|[V2EX](https://v2ex.com/index.xml)|[ Telegram 现在 Telegram 搜索中文群组频道的机器人哪家强？](https://www.v2ex.com/t/986317#reply2)|
+|2023-10-28 13:21:45|[V2EX](https://v2ex.com/index.xml)|[ 问与答 安卓有扩音器功能吗](https://www.v2ex.com/t/986315#reply1)|
+|2023-10-28 13:12:25|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 ipv6 到底是没有端口映射和 DMZ 主机？还是说这功能不是天然就支持的](https://www.v2ex.com/t/986314#reply17)|
+|2023-10-28 12:59:21|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 关于 ipv6 入口方向防火墙问题](https://www.v2ex.com/t/986313#reply3)|
+|2023-10-28 12:56:17|[V2EX](https://v2ex.com/index.xml)|[ 程序员 分享 一个生物实验汪的编程学习经历和开源项目总结](https://www.v2ex.com/t/986312#reply7)|
+|2023-10-28 12:52:36|[V2EX](https://v2ex.com/index.xml)|[ iPhone 有没有适合 iphone15pro（能轻松插进去）的充电线](https://www.v2ex.com/t/986311#reply6)|
+|2023-10-28 12:46:48|[V2EX](https://v2ex.com/index.xml)|[ VPS ****请大佬推荐 vps 或云服务，部署自己的网站前后端， 谢谢****](https://www.v2ex.com/t/986310#reply11)|
+|2023-10-28 12:26:44|[V2EX](https://v2ex.com/index.xml)|[ Go 编程语言 Go 不需要依赖注入？手把手带你在 Golang 使用像 Java Spring 注解一样的 DI 和 AOP](https://www.v2ex.com/t/986306#reply1)|
+|2023-10-28 12:02:26|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 为什么购买同样的电子版漫画， Pixiv 漫画比 DLsite 便宜 50%？](https://www.v2ex.com/t/986303#reply1)|
+|2023-10-28 11:38:32|[V2EX](https://v2ex.com/index.xml)|[ 问与答 大佬们，请教 ubuntu desktop 环境下安装软件的问题](https://www.v2ex.com/t/986302#reply2)|
+|2023-10-28 11:11:20|[V2EX](https://v2ex.com/index.xml)|[ 程序员 请问通过 ACM Skills Bundle Add-On 可以访问 O'Reilly 的全部内容吗？](https://www.v2ex.com/t/986300#reply2)|
 |2023-10-28 14:01:18|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[萬聖節已經是本土化且無包袱的台灣家庭節日了](https://taiwan.chtsai.org/2023/10/28/wanshengjie/)|
 |2023-10-28 10:36:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[高铁二等座盛不下的“大码女孩”，特意被大家看见](https://dig.chouti.com/link/40433191)|
 |2023-10-28 14:10:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[54岁的 Jennifer Lopez 内衣写真拍摄花絮](https://dig.chouti.com/link/40434729)|
