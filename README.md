@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-10-27）
+﻿# 每日资讯（2023-10-28）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-28 00:30:35|[爱范儿](https://www.ifanr.com/feed)|[早报｜华为前三季度销售收入 4566 亿元 / 品牌方否认李佳琦卖假货 / 2024 放假安排公布 未来周报](https://www.ifanr.com/1566391?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-27 16:05:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[应届生在签三方时该注意什么，接 offer 时薪资方面有哪些坑需要避开？](https://www.zhihu.com/question/622558862)|
 |2023-10-27 16:05:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 Nisqy 单杀 Xiaohu？](https://www.zhihu.com/question/627912133)|
 |2023-10-27 16:05:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[上班久了，你最大的感受是什么?](https://www.zhihu.com/question/627839341)|
