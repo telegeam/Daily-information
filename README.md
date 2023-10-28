@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-28 14:01:18|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[萬聖節已經是本土化且無包袱的台灣家庭節日了](https://taiwan.chtsai.org/2023/10/28/wanshengjie/)|
+|2023-10-28 10:36:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[高铁二等座盛不下的“大码女孩”，特意被大家看见](https://dig.chouti.com/link/40433191)|
+|2023-10-28 14:10:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[54岁的 Jennifer Lopez 内衣写真拍摄花絮](https://dig.chouti.com/link/40434729)|
+|2023-10-28 07:12:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【用牛车拉卫星！印度这样实现廉价探月计划】“印度现在在月球上了！”莫迪在“月船3号”着陆后，对着电视镜头高喊。随着任务成功，印度逐渐在太空竞赛中跟上了第一梯队。完成这一切的预算，甚至比一部科幻电影成本更低。极具性价比的印度式作风，让太空任务变得更加有趣起来。花小钱，办大事，是印度航天一直以来的风格。](https://dig.chouti.com/link/40431861)|
+|2023-10-28 11:09:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【厦门航空通报飞机被地面车辆意外刮蹭】10月26日凌晨，我司B-1457飞机航后在杭州机场机坪停场过夜，被地面车辆意外刮蹭，造成飞机右发进气整流罩轻微损伤。过程无人员受伤。修复后该架飞机已投入正常生产，发生原因正在进一步调查中。](https://dig.chouti.com/link/40433487)|
+|2023-10-28 12:30:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[缅北七日逃亡：树林挖洞藏身，被带长刀的人追捕，民警150条短信帮他自救](https://dig.chouti.com/link/40434004)|
+|2023-10-28 10:01:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[量化私募大佬徐进被妻子控诉出轨，公司将其停职，超3000万元股权被冻结](https://dig.chouti.com/link/40432750)|
+|2023-10-28 04:33:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[柏林护士：一支“出口转内销”的长沙乐队](https://dig.chouti.com/link/40430672)|
 |2023-10-28 12:26:44|[V2EX](https://www.v2ex.com/index.xml)|[ Go 编程语言 Go 不需要依赖注入？手把手带你在 Golang 使用像 Java Spring 注解一样的 DI 和 AOP](https://www.v2ex.com/t/986306#reply0)|
 |2023-10-28 12:03:13|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 完蛋！我被美女包围了！](https://www.v2ex.com/t/986304#reply3)|
 |2023-10-28 12:02:26|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 为什么购买同样的电子版漫画， Pixiv 漫画比 DLsite 便宜 50%？](https://www.v2ex.com/t/986303#reply0)|
