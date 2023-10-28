@@ -2,6 +2,103 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-28 12:26:44|[V2EX](https://www.v2ex.com/index.xml)|[ Go 编程语言 Go 不需要依赖注入？手把手带你在 Golang 使用像 Java Spring 注解一样的 DI 和 AOP](https://www.v2ex.com/t/986306#reply0)|
+|2023-10-28 12:03:13|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 完蛋！我被美女包围了！](https://www.v2ex.com/t/986304#reply3)|
+|2023-10-28 12:02:26|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 为什么购买同样的电子版漫画， Pixiv 漫画比 DLsite 便宜 50%？](https://www.v2ex.com/t/986303#reply0)|
+|2023-10-28 11:38:32|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大佬们，请教 ubuntu desktop 环境下安装软件的问题](https://www.v2ex.com/t/986302#reply1)|
+|2023-10-28 11:15:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 、](https://www.v2ex.com/t/986301#reply0)|
+|2023-10-28 11:11:20|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 请问通过 ACM Skills Bundle Add-On 可以访问 O'Reilly 的全部内容吗？](https://www.v2ex.com/t/986300#reply0)|
+|2023-10-28 11:00:12|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 如何给别的 app 增加 fliter 呢](https://www.v2ex.com/t/986299#reply0)|
+|2023-10-28 11:00:00|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI GPT-4 的识图功能突然失效了](https://www.v2ex.com/t/986298#reply6)|
+|2023-10-28 10:59:39|[V2EX](https://www.v2ex.com/index.xml)|[ 全球工单系统 coding 是准备放弃了吗？修一个 webhook 故障需要 4 天吗？](https://www.v2ex.com/t/986297#reply3)|
+|2023-10-28 10:48:21|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 失业回老家，身体状态越来越好](https://www.v2ex.com/t/986296#reply2)|
+|2023-10-28 10:46:52|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 有偿 找有 uniapp app 开发经验和打包经验， 且有接入过 vant weapp 的请联系我，](https://www.v2ex.com/t/986295#reply0)|
+|2023-10-28 10:40:01|[V2EX](https://www.v2ex.com/index.xml)|[ 京东 京东 plus 会员的 100 元礼金劵不再提供](https://www.v2ex.com/t/986294#reply2)|
+|2023-10-28 10:15:01|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 关于最近火热的 mistral 7b 模型我做了一个全盘的指南网站](https://www.v2ex.com/t/986293#reply0)|
+|2023-10-28 10:13:44|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 松果馋豆闪电藤！新一代文件传输助手：无伤无害，速度快过马保国！](https://www.v2ex.com/t/986292#reply2)|
+|2023-10-28 10:06:41|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 想找一个虚拟借记卡可以用于国际版 PAYPAL 的提现和收款，付款的](https://www.v2ex.com/t/986289#reply0)|
+|2023-10-28 09:58:45|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 小米 14 pro 那款安全芯片到底什么工作原理和方式，感觉很牛逼](https://www.v2ex.com/t/986288#reply7)|
+|2023-10-28 09:55:23|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 双十一家电购买求助，各种满减、优惠规则看的头晕](https://www.v2ex.com/t/986287#reply0)|
+|2023-10-28 09:54:04|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 为什么网站还没有黑白？](https://www.v2ex.com/t/986286#reply3)|
+|2023-10-28 09:51:33|[V2EX](https://www.v2ex.com/index.xml)|[ WireGuard WireGurad 组网问题请教。](https://www.v2ex.com/t/986284#reply0)|
+|2023-10-28 09:47:26|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 之前买的一个马拉松的虽然电池待机可以两天左右。 但是只要点亮屏幕去使用后电池就掉电很快了 ，什么牌子的 iphone7 电池好用些？](https://www.v2ex.com/t/986283#reply0)|
+|2023-10-28 09:39:39|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 GPU 软硬件招聘 - 多职位多城市](https://www.v2ex.com/t/986279#reply2)|
+|2023-10-28 09:35:57|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 ssh 执行时$PATH 变量未替换](https://www.v2ex.com/t/986278#reply5)|
+|2023-10-28 09:22:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 需要写社情民意，各位老哥有什么建议吗？](https://www.v2ex.com/t/986275#reply8)|
+|2023-10-28 09:11:32|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 这就是人生么，大起大落来的这么突然。](https://www.v2ex.com/t/986273#reply13)|
+|2023-10-28 09:10:38|[V2EX](https://www.v2ex.com/index.xml)|[ React expo 项目如何播放下载到本地的 m3u8？](https://www.v2ex.com/t/986272#reply2)|
+|2023-10-28 09:08:59|[V2EX](https://www.v2ex.com/index.xml)|[ macOS Paste 家庭组五缺一](https://www.v2ex.com/t/986271#reply7)|
+|2023-10-28 09:07:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问一下,想找款软件代替 discord,有什么软件在安全性上比 discord 好,功能要有社区功能有标签的](https://www.v2ex.com/t/986270#reply0)|
+|2023-10-28 09:07:24|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 淘宝内部现在也太乱了](https://www.v2ex.com/t/986269#reply8)|
+|2023-10-28 08:53:12|[V2EX](https://www.v2ex.com/index.xml)|[ NAS TrueNas scale 和 Unraid 选型对比](https://www.v2ex.com/t/986268#reply7)|
+|2023-10-28 08:53:11|[V2EX](https://www.v2ex.com/index.xml)|[ Linux Linux 系统如何恢复被覆盖的文件？救急](https://www.v2ex.com/t/986267#reply4)|
+|2023-10-28 08:49:32|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 老人想把农村的房子卖了 再买市里的房子 靠谱吗](https://www.v2ex.com/t/986266#reply20)|
+|2023-10-28 08:44:22|[V2EX](https://www.v2ex.com/index.xml)|[ VPS 云服务器涨价这么夸张吗？](https://www.v2ex.com/t/986264#reply10)|
+|2023-10-28 08:41:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Windows11 代理指向局域网的旁路由 surge 后， YouTube 无法访问了](https://www.v2ex.com/t/986263#reply0)|
+|2023-10-28 08:39:02|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 吐槽一下,苹果用户到底应该怎么选 typec 线](https://www.v2ex.com/t/986262#reply13)|
+|2023-10-28 08:28:37|[V2EX](https://www.v2ex.com/index.xml)|[ 全球工单系统 腾讯云控制台为什么不能自定义头像](https://www.v2ex.com/t/986261#reply2)|
+|2023-10-28 08:20:43|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 c++ string 函数优化后，执行反而耗时很高，求解惑](https://www.v2ex.com/t/986260#reply7)|
+|2023-10-28 08:19:51|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud 国区 icloud 发车](https://www.v2ex.com/t/986259#reply1)|
+|2023-10-28 08:18:37|[V2EX](https://www.v2ex.com/index.xml)|[ 上海 出租松江佘山电梯两房（整租）](https://www.v2ex.com/t/986258#reply1)|
+|2023-10-28 08:10:38|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 最早提出弱引用的是哪种语言](https://www.v2ex.com/t/986256#reply5)|
+|2023-10-28 08:09:24|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 香港的 Iphone15 pro 的卡槽](https://www.v2ex.com/t/986255#reply10)|
+|2023-10-28 08:05:28|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有装修方面的书籍推荐吗](https://www.v2ex.com/t/986253#reply9)|
+|2023-10-28 07:58:51|[V2EX](https://www.v2ex.com/index.xml)|[ JavaScript Automerge](https://www.v2ex.com/t/986251#reply2)|
+|2023-10-28 07:41:36|[V2EX](https://www.v2ex.com/index.xml)|[ App Store 请问 App Store 里这两个 app 什么关系](https://www.v2ex.com/t/986250#reply3)|
+|2023-10-28 07:35:24|[V2EX](https://www.v2ex.com/index.xml)|[ Stripe 收 buymeacoffee 账号](https://www.v2ex.com/t/986249#reply0)|
+|2023-10-28 07:24:37|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 aigc 工具导航， https://aigc-uni.com](https://www.v2ex.com/t/986248#reply2)|
+|2023-10-28 07:22:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 访问 poe 的时候登陆不了 出现：出错了。请稍候再试。](https://www.v2ex.com/t/986247#reply0)|
+|2023-10-28 07:16:44|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 为什么屏幕使用时间是不准的，这种是什么情况呀？](https://www.v2ex.com/t/986246#reply2)|
+|2023-10-28 07:06:49|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 找人买苹果员工优惠 理论上 即使被对方在苹果官网退款 、资金也是原路返回吧？](https://www.v2ex.com/t/986244#reply2)|
+|2023-10-28 06:43:52|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 整理了一份英语学习指南，分享给大家](https://www.v2ex.com/t/986241#reply3)|
+|2023-10-28 06:41:25|[V2EX](https://www.v2ex.com/index.xml)|[ Apple TV infuse pro 用 trakt 共享，车友登陆了 trakt 后发现 infuse 没有 pro 权限](https://www.v2ex.com/t/986240#reply11)|
+|2023-10-28 18:10:45|[I'm OWenT](https://owent.net/index.xml)|[Opentelemetry社区在gRPC的几个链接问题 静态库和动态库混用,musl工具链,符号裁剪 ](//owent.net/2023/2308.html)|
+|2023-10-28 11:52:35|[虎嗅](https://rss.huxiu.com/)|[取消课间十分钟，图什么？](https://www.huxiu.com/article/2229308.html?f=rss)|
+|2023-10-28 11:35:26|[虎嗅](https://rss.huxiu.com/)|[给我赚了钱的GP出轨，LP该不该管？](https://www.huxiu.com/article/2227755.html?f=rss)|
+|2023-10-28 11:32:12|[虎嗅](https://rss.huxiu.com/)|[追忆吴尊友：他曾竭力告诉你，新冠和艾滋可防可控](https://www.huxiu.com/article/2229036.html?f=rss)|
+|2023-10-28 11:14:00|[虎嗅](https://rss.huxiu.com/)|[估值行至历史较低位置，3000点的A股何以企稳？](https://www.huxiu.com/article/2229065.html?f=rss)|
+|2023-10-28 10:58:05|[虎嗅](https://rss.huxiu.com/)|[为什么每个人都应该学心肺复苏和AED的使用？](https://www.huxiu.com/article/2229250.html?f=rss)|
+|2023-10-28 10:53:23|[虎嗅](https://rss.huxiu.com/)|[李佳琦掉的每一根毛，都有人想黏自己身上](https://www.huxiu.com/article/2229027.html?f=rss)|
+|2023-10-28 08:53:25|[虎嗅](https://rss.huxiu.com/)|[美联储的息到底是哪个息？](https://www.huxiu.com/article/2228213.html?f=rss)|
+|2023-10-28 08:50:32|[虎嗅](https://rss.huxiu.com/)|[美国富人当前最关心和最担心什么？](https://www.huxiu.com/article/2228194.html?f=rss)|
+|2023-10-28 08:43:11|[虎嗅](https://rss.huxiu.com/)|[国产手机，该考虑考虑未来了](https://www.huxiu.com/article/2228691.html?f=rss)|
+|2023-10-28 07:14:00|[虎嗅](https://rss.huxiu.com/)|[人类的终极形态就是“程心”](https://www.huxiu.com/article/2228656.html?f=rss)|
+|2023-10-28 06:52:19|[虎嗅](https://rss.huxiu.com/)|[赶时间的人](https://www.huxiu.com/article/2228211.html?f=rss)|
+|2023-10-28 06:43:24|[虎嗅](https://rss.huxiu.com/)|[如果能回到过去重来一次，你的人生会更好吗？](https://www.huxiu.com/article/2224179.html?f=rss)|
+|2023-10-28 05:08:00|[虎嗅](https://rss.huxiu.com/)|[投资圈流行掼蛋，玩的不只是牌](https://www.huxiu.com/article/2227671.html?f=rss)|
+|2023-10-28 05:00:00|[虎嗅](https://rss.huxiu.com/)|[5块9一桶的速食面，创一年十多亿营收？](https://www.huxiu.com/article/2224225.html?f=rss)|
+|2023-10-28 04:52:41|[虎嗅](https://rss.huxiu.com/)|[自由教练，不自由](https://www.huxiu.com/article/2227724.html?f=rss)|
+|2023-10-28 04:50:00|[虎嗅](https://rss.huxiu.com/)|[好书分享《影响力》：你要的是真正想要的吗？](https://www.huxiu.com/article/2225069.html?f=rss)|
+|2023-10-28 03:40:00|[虎嗅](https://rss.huxiu.com/)|[做衣服像做饭？布上的颜色是怎么染出来的？](https://www.huxiu.com/article/2226196.html?f=rss)|
+|2023-10-28 03:27:39|[虎嗅](https://rss.huxiu.com/)|[国航下调机票退改手续费，经济舱降幅最大](https://www.huxiu.com/article/2227232.html?f=rss)|
+|2023-10-28 03:22:07|[虎嗅](https://rss.huxiu.com/)|[“全网最低价”，谁说了算？](https://www.huxiu.com/article/2227225.html?f=rss)|
+|2023-10-28 03:21:06|[虎嗅](https://rss.huxiu.com/)|[如何理解财政赤字？](https://www.huxiu.com/article/2227692.html?f=rss)|
+|2023-10-28 03:13:47|[虎嗅](https://rss.huxiu.com/)|[老实人雷军发布小米14求不被骂？](https://www.huxiu.com/article/2225638.html?f=rss)|
+|2023-10-28 02:49:54|[虎嗅](https://rss.huxiu.com/)|[南阳迷笛音乐节：失窃事件引发的舆论风暴与思考](https://www.huxiu.com/article/2224520.html?f=rss)|
+|2023-10-28 02:45:00|[虎嗅](https://rss.huxiu.com/)|[去乌镇，看戏](https://www.huxiu.com/article/2224495.html?f=rss)|
+|2023-10-28 02:42:00|[虎嗅](https://rss.huxiu.com/)|[地球上空，传来一个坏消息](https://www.huxiu.com/article/2225300.html?f=rss)|
+|2023-10-28 02:38:00|[虎嗅](https://rss.huxiu.com/)|[吴尊友去世，被称为“癌症之王”的胰腺癌该如何防治？](https://www.huxiu.com/article/2227670.html?f=rss)|
+|2023-10-28 02:26:00|[虎嗅](https://rss.huxiu.com/)|[充电费涨价，这下电车真成“电动爹”了](https://www.huxiu.com/article/2227197.html?f=rss)|
+|2023-10-28 02:18:19|[虎嗅](https://rss.huxiu.com/)|[中国的国境线，在这儿“打了个结”？](https://www.huxiu.com/article/2218184.html?f=rss)|
+|2023-10-28 01:32:54|[虎嗅](https://rss.huxiu.com/)|[美拉德，美不动了](https://www.huxiu.com/article/2227183.html?f=rss)|
+|2023-10-28 01:00:00|[虎嗅](https://rss.huxiu.com/)|[占用休息日团建？公司到底怎么想的？](https://www.huxiu.com/article/2222846.html?f=rss)|
+|2023-10-28 00:59:56|[虎嗅](https://rss.huxiu.com/)|[AI失控，谁是受害者？](https://www.huxiu.com/article/2226662.html?f=rss)|
+|2023-10-28 00:58:49|[虎嗅](https://rss.huxiu.com/)|[3年亏7亿，全聚德靠什么翻身？预制菜吗？](https://www.huxiu.com/article/2224461.html?f=rss)|
+|2023-10-28 00:58:00|[虎嗅](https://rss.huxiu.com/)|[用牛车拉卫星：印度这样实现廉价探月计划](https://www.huxiu.com/article/2227171.html?f=rss)|
+|2023-10-28 00:49:00|[虎嗅](https://rss.huxiu.com/)|[四个多月亏光75%的收益，2万多基民哭晕](https://www.huxiu.com/article/2225683.html?f=rss)|
+|2023-10-28 00:45:58|[虎嗅](https://rss.huxiu.com/)|[中国石墨出口管制，对汽车电池产业链影响几何？](https://www.huxiu.com/article/2217579.html?f=rss)|
+|2023-10-28 00:15:53|[虎嗅](https://rss.huxiu.com/)|[锂价连跌，锂王也难顶周期的力量](https://www.huxiu.com/article/2224217.html?f=rss)|
+|2023-10-28 00:14:00|[虎嗅](https://rss.huxiu.com/)|[小米发新机，果里果气](https://www.huxiu.com/article/2225678.html?f=rss)|
+|2023-10-28 00:09:00|[虎嗅](https://rss.huxiu.com/)|[抱团突围，谁来撑起中国制造脊梁？](https://www.huxiu.com/article/2225675.html?f=rss)|
+|2023-10-28 09:14:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Pensieve: 2310](https://xiaket.github.io/2023/pensieve-2310.html)|
+|2023-10-28 04:09:38|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：爬虫如何解析JavaScript Object？](https://www.kingname.info/2023/10/28/parse-json-object/)|
+|2023-10-28 03:33:18|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：HTML里面提取的JSON怎么解析不了？](https://www.kingname.info/2023/10/28/json-in-html/)|
+|2023-10-28 04:09:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这颗蛋白石里仿佛藏着一团星云 Video:Thee Ancients](https://dig.chouti.com/link/40430578)|
+|2023-10-28 08:01:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[李佳琦卷入“真假和田玉”风波：标准是什么，谁说了算？](https://dig.chouti.com/link/40431951)|
+|2023-10-28 08:28:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“第四代”跨国有组织犯罪，让人不寒而栗的权钱暗网】依托互联网、加密货币等众多新兴技术手段，在全球建立起了平行的“影子经济”体系，还在治理薄弱地区“攻城略地”以控制更多实体经济，与正式的政府机构分庭抗礼。](https://dig.chouti.com/link/40432331)|
+|2023-10-28 04:09:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在北方室内把苔藓养爆盆，我有经验了](https://dig.chouti.com/link/40430589)|
+|2023-10-28 08:16:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【北漂住进旧日方舱】抗疫标语、楼栋里的指路牌、超市门口的办公室名字、房间门背后的温馨提示……随处的痕迹在提醒：这里曾经是一个方舱医院。](https://dig.chouti.com/link/40432330)|
+|2023-10-28 04:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美拉德，美不动了](https://dig.chouti.com/link/40430648)|
 |2023-10-28 06:52:19|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[赶时间的人](http://www.huxiu.com/article/2228211.html?f=wangzhan)|
 |2023-10-28 05:00:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[5块9一桶的速食面，创一年十多亿营收？](http://www.huxiu.com/article/2224225.html?f=wangzhan)|
 |2023-10-28 03:40:00|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[做衣服像做饭？布上的颜色是怎么染出来的？](http://www.huxiu.com/article/2226196.html?f=wangzhan)|
