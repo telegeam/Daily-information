@@ -2,6 +2,59 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-29 04:53:41|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[每周一书：周颖琪《车墩墩野事记》](http://www.toodaylab.com/82344)|
+|2023-10-29 10:58:19|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1169 KDE 桌面立方体效果回归](https://linux.cn/article-16328-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-29 15:02:23|[Richie的时光机](https://www.riichiie.net/feed/)|[Tesla不支持HW 2.5的车机功能清单](https://riichiie.net/2023/10/29/unsupported-features-on-tesla-hw2-5/)|
+|2023-10-29 14:00:00|[Jason](https://atjason.com/atom.xml)|[1029 - 小米发布澎湃操作系统](https://atjason.com/daily/2023-10-29.html)|
+|2023-10-29 19:40:36|[V2EX](https://www.v2ex.com/index.xml)|[ Bitcoin paxful 上面那种非常划算的礼品卡有无风险？](https://www.v2ex.com/t/986549#reply0)|
+|2023-10-29 18:54:16|[V2EX](https://www.v2ex.com/index.xml)|[ CSS 有大佬接单吗?帮忙优化下手机端的 css,200rmb](https://www.v2ex.com/t/986548#reply0)|
+|2023-10-29 18:54:08|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 想做类似魔兽世界和激战 2 这样的游戏的话，应该用什么游戏引擎和编程语言呢](https://www.v2ex.com/t/986547#reply0)|
+|2023-10-29 18:52:36|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 大乌龙事件，有 apple care 却无法付费维修](https://www.v2ex.com/t/986546#reply8)|
+|2023-10-29 18:24:46|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 免费推广自己产品的方法&150 个产品创意集合 - 独立产品灵感周刊 DecoHack #054](https://www.v2ex.com/t/986545#reply0)|
+|2023-10-29 17:49:45|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求解，换了个路由器， surge 的 dhcp 服务找不到设备了](https://www.v2ex.com/t/986543#reply0)|
+|2023-10-29 17:47:42|[V2EX](https://www.v2ex.com/index.xml)|[ YouTube 土区油管家庭组发车 YouTube Premium 年付](https://www.v2ex.com/t/986542#reply0)|
+|2023-10-29 17:40:01|[V2EX](https://www.v2ex.com/index.xml)|[ 站长 吐槽 虽然 NameSilo 挺靠谱，但网站设计看起来不太靠谱](https://www.v2ex.com/t/986541#reply3)|
+|2023-10-29 17:29:16|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 来势凶猛、10 月 31 号上午八点 Apple 特别活动。](https://www.v2ex.com/t/986540#reply1)|
+|2023-10-29 16:12:20|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 以旧换新在执行退货后，会退回正在物流中的 trade in 货物](https://www.v2ex.com/t/986538#reply2)|
+|2023-10-29 16:03:44|[V2EX](https://www.v2ex.com/index.xml)|[ Apple pdd 上 15 promax 8898 了，接下来这一个月会更低吗？](https://www.v2ex.com/t/986537#reply0)|
+|2023-10-29 15:36:48|[V2EX](https://www.v2ex.com/index.xml)|[  WATCH Watch 闪屏（绿：黄）bug 已经修复](https://www.v2ex.com/t/986533#reply2)|
+|2023-10-29 15:34:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 中国电信 app 可以用 vpn 了？内核还是用的 xray？](https://www.v2ex.com/t/986532#reply0)|
+|2023-10-29 15:33:16|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI Android 端 ChatGPT 充值能用国内卡吗](https://www.v2ex.com/t/986531#reply0)|
+|2023-10-29 15:32:13|[V2EX](https://www.v2ex.com/index.xml)|[ macOS anywhere3 for mac 版鼠标，鼠标移动好掉帧.....](https://www.v2ex.com/t/986530#reply9)|
+|2023-10-29 15:30:57|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问一下，在家做饭如何高效方便磨刀？](https://www.v2ex.com/t/986529#reply0)|
+|2023-10-29 15:00:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有办法让 win11 不同程序的弹窗通知持续不同的时间？](https://www.v2ex.com/t/986524#reply1)|
+|2023-10-29 15:00:49|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 科班学习求助](https://www.v2ex.com/t/986523#reply0)|
+|2023-10-29 15:00:16|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 paxful 无法取消交易](https://www.v2ex.com/t/986522#reply2)|
+|2023-10-29 14:53:57|[V2EX](https://www.v2ex.com/index.xml)|[ 开源软件 花了两个月手撸的 微信图片自动备份软件（WxAutoExIm）开源](https://www.v2ex.com/t/986519#reply4)|
+|2023-10-29 14:52:55|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 目前比较省心的多平台 F2A 解决方案是什么呢](https://www.v2ex.com/t/986518#reply11)|
+|2023-10-29 14:52:10|[V2EX](https://www.v2ex.com/index.xml)|[ 北京 转租 -10 号线呼家楼附近主卧转租（无中介费）](https://www.v2ex.com/t/986517#reply0)|
+|2023-10-29 14:52:05|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 通过右下角弹出的广告，实现摸鱼看视频的功能](https://www.v2ex.com/t/986516#reply3)|
+|2023-10-29 14:46:07|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 急，急，急，字节跳动流量中台招前端， base 北京 /上海 /杭州 3 地任选，杭州优先考虑 ](https://www.v2ex.com/t/986514#reply0)|
+|2023-10-29 14:45:50|[V2EX](https://www.v2ex.com/index.xml)|[ Android adb 出错求助](https://www.v2ex.com/t/986513#reply10)|
+|2023-10-29 14:34:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有软件能跟随鼠标移动标出在屏幕的位置](https://www.v2ex.com/t/986512#reply3)|
+|2023-10-29 14:33:35|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 cloudflare 有几个域名，免费送出，转出码自取。](https://www.v2ex.com/t/986511#reply25)|
+|2023-10-29 14:27:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 感觉最近程序员被抓案件频发，是 kpi 要开始了吗？](https://www.v2ex.com/t/986509#reply7)|
+|2023-10-29 14:26:13|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 朋友们，这个移动光猫 H2-2 怎么禁止别人连 WIFI 呀？](https://www.v2ex.com/t/986508#reply3)|
+|2023-10-29 14:24:56|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 请问下各位 DBA/数据分析师是如何管理自己的 SQL 的？](https://www.v2ex.com/t/986507#reply2)|
+|2023-10-29 14:24:26|[V2EX](https://www.v2ex.com/index.xml)|[ Android 公司不让用苹果机后续来了。求推荐 APP](https://www.v2ex.com/t/986506#reply25)|
+|2023-10-29 14:22:04|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iPhone 恢复备份后重新配对原 watch ， watch 一定需要抹掉数据么？](https://www.v2ex.com/t/986505#reply9)|
+|2023-10-29 14:21:10|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 业务架构类的面试题该怎么答比较好？](https://www.v2ex.com/t/986504#reply0)|
+|2023-10-29 14:20:21|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教各位 v 友，商业银行校招管培生，法学应届生能入职吗？有何风险？](https://www.v2ex.com/t/986503#reply2)|
+|2023-10-29 14:17:42|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 跟风分享 2023 年个人订阅账单，附省钱小妙招](https://www.v2ex.com/t/986501#reply11)|
+|2023-10-29 14:11:44|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 2024 准备开始做独立开发，调研一下技术栈和资源](https://www.v2ex.com/t/986499#reply5)|
+|2023-10-29 14:00:34|[V2EX](https://www.v2ex.com/index.xml)|[  WATCH 这个最大摄氧量和什么有关呀](https://www.v2ex.com/t/986498#reply8)|
+|2023-10-29 13:45:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 一加 6 Magisk 无法获取 root 状态如何修复](https://www.v2ex.com/t/986497#reply0)|
+|2023-10-29 13:36:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 做生意要这么多钱周转的吗？](https://www.v2ex.com/t/986495#reply7)|
+|2023-10-29 13:29:41|[V2EX](https://www.v2ex.com/index.xml)|[ Google 为什么 admob 的 icon 不像 google 其他常见产品图标那样有红蓝黄绿四种颜色，而是唯独没有绿色？](https://www.v2ex.com/t/986494#reply0)|
+|2023-10-29 13:26:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 OPPO ColorOS 13 下拉控制中心竟然没有“音量调节”，咋办？](https://www.v2ex.com/t/986493#reply5)|
+|2023-10-29 13:19:19|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 哪一种路由器对于猫棒这样的 lan-wan 混合的逻辑接口支持比较好？](https://www.v2ex.com/t/986492#reply3)|
+|2023-10-29 13:15:02|[V2EX](https://www.v2ex.com/index.xml)|[ Android 国产系统都内置了吗，反诈突然打电话来](https://www.v2ex.com/t/986489#reply43)|
+|2023-10-29 13:05:07|[V2EX](https://www.v2ex.com/index.xml)|[ Python Python 潮流周刊#24： no-GIL 提案正式被采纳了！](https://www.v2ex.com/t/986488#reply0)|
+|2023-10-29 12:58:03|[V2EX](https://www.v2ex.com/index.xml)|[ 服务器 PVE 如何分配存储空间和数据备份？](https://www.v2ex.com/t/986487#reply0)|
+|2023-10-29 12:40:17|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone iphone15 pro aptx](https://www.v2ex.com/t/986485#reply5)|
+|2023-10-29 12:26:38|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 如何从群晖 photos 下载所有照片到安卓手机相册？这么基础的功能都没找到啊。。。](https://www.v2ex.com/t/986483#reply3)|
+|2023-10-29 13:14:57|[鸟窝](https://colobu.com/atom.xml)|[像Redis作者那样，使用Go实现一个聊天服务器，不到100行代码](https://colobu.com/2023/10/29/implement-a-small-chat-server-like-antirez-in-100-lines/)|
+|2023-10-29 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 163 期（2023.10.30）](https://www.ftium4.com/ux-weekly-163.html)|
 |2023-10-29 15:00:00|[一座島](https://island.shaform.com/zh/index.xml)|[上學還是上班更快樂？](https://island.shaform.com/zh/2023/10/29/school-or-work/)|
 |2023-10-29 12:29:05|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[呦呦鹿鸣十周年，我想这样感谢读者朋友](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892095&idx=1&sn=63a22e511721e4d1a02ff2c9a1f2189b)|
 |2023-10-29 05:31:44|[祝融说。](https://zhurongshuo.com/index.xml)|[你会对你的想象反应，就像亲历一样。](https://zhurongshuo.com/posts/2023/10/2901/)|
