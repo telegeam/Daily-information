@@ -1,7 +1,14 @@
-﻿# 每日资讯（2023-10-28）
+﻿# 每日资讯（2023-10-29）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-29 00:57:18|[V2EX](https://v2ex.com/index.xml)|[ 硬件 国产内存条值得信赖吗？](https://www.v2ex.com/t/986365#reply4)|
+|2023-10-29 00:52:59|[V2EX](https://v2ex.com/index.xml)|[ 前端开发 uniapp 如何用<picker>实现省市区三级联动](https://www.v2ex.com/t/986363#reply0)|
+|2023-10-29 00:50:00|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 快捷的站内搜索浏览器插件 https://www.plumbsearch.com](https://www.v2ex.com/t/986362#reply0)|
+|2023-10-29 00:44:19|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求教： thinkbook 14+ 7840H 风扇策略](https://www.v2ex.com/t/986360#reply2)|
+|2023-10-29 00:31:49|[V2EX](https://v2ex.com/index.xml)|[ Android 为什么我点击广告之后自动就给我装上了拼多多？](https://www.v2ex.com/t/986359#reply2)|
+|2023-10-29 00:28:05|[V2EX](https://v2ex.com/index.xml)|[ 配件 有什么略微平价的 airtag 替代品吗？求推荐一下](https://www.v2ex.com/t/986358#reply4)|
+|2023-10-29 01:09:34|[虎嗅](https://rss.huxiu.com/)|[流动人口，开始分化](https://www.huxiu.com/article/2231480.html?f=rss)|
 |2023-10-28 22:49:41|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[抖音 v27.5 for Android 去除广告无水印版](https://masuit.com/1935)|
 |2023-10-28 18:18:56|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[三威显示器淘宝店铺双十一活动满99元立减10元，满500元立减30元，满1399元立减50元，还能和本站专属优惠叠加，最高立减550元！11月13日活动截止，保价双十一！](https://masuit.com/2102)|
 |2023-10-28 18:10:04|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[40寸新品旗舰高色域曲面显示器，5k NanoIPS，LM400RW1，LG 40WP95C同款面板](https://masuit.com/2180)|
