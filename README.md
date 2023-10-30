@@ -1,7 +1,11 @@
-﻿# 每日资讯（2023-10-29）
+﻿# 每日资讯（2023-10-30）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-30 00:40:52|[爱范儿](https://www.ifanr.com/feed)|[早报｜苹果明日发布的新品详细信息曝光 / LPL 首次四支队伍进八强 /《老友记》钱德勒扮演者去世](https://www.ifanr.com/1566514?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-10-30 00:53:03|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 双 11 求国外云服务器推荐，我想建站，奈何国内审核严格，手续繁琐](https://www.v2ex.com/t/986558#reply1)|
+|2023-10-30 00:23:46|[V2EX](http://www.v2ex.com/index.xml)|[ 阅读 西游记取经结束后，唐僧和孙悟空的地位比观音菩萨还高了？](https://www.v2ex.com/t/986557#reply4)|
+|2023-10-30 00:00:55|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 （送码）🎁 嗯背单词更新 1.3.3 版本，轻松创建你的自定义词书，评论参与抽取今年最后一批兑换码~](https://www.v2ex.com/t/986556#reply4)|
 |2023-10-29 04:53:41|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[每周一书：周颖琪《车墩墩野事记》](http://www.toodaylab.com/82344)|
 |2023-10-29 10:58:19|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1169 KDE 桌面立方体效果回归](https://linux.cn/article-16328-1.html?utm_source=rss&utm_medium=rss)|
 |2023-10-29 15:02:23|[Richie的时光机](https://www.riichiie.net/feed/)|[Tesla不支持HW 2.5的车机功能清单](https://riichiie.net/2023/10/29/unsupported-features-on-tesla-hw2-5/)|
@@ -57,6 +61,7 @@
 |2023-10-29 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 163 期（2023.10.30）](https://www.ftium4.com/ux-weekly-163.html)|
 |2023-10-29 15:00:00|[一座島](https://island.shaform.com/zh/index.xml)|[上學還是上班更快樂？](https://island.shaform.com/zh/2023/10/29/school-or-work/)|
 |2023-10-29 12:29:05|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[呦呦鹿鸣十周年，我想这样感谢读者朋友](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892095&idx=1&sn=63a22e511721e4d1a02ff2c9a1f2189b)|
+|2023-10-30 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第151期 - 牛逼的楼](https://weekly.tw93.fun/posts/151-%E7%89%9B%E9%80%BC%E7%9A%84%E6%A5%BC/)|
 |2023-10-29 05:31:44|[祝融说。](https://zhurongshuo.com/index.xml)|[你会对你的想象反应，就像亲历一样。](https://zhurongshuo.com/posts/2023/10/2901/)|
 |2023-10-29 03:30:00|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[网络犯罪分子如何利用爱彼迎从事欺诈活动？](https://www.4hou.com/posts/rqoE)|
 |2023-10-29 12:26:38|[V2EX](https://v2ex.com/index.xml)|[ 问与答 如何从群晖 photos 下载所有照片到安卓手机相册？这么基础的功能都没找到啊。。。](https://www.v2ex.com/t/986483#reply0)|
@@ -141,6 +146,7 @@
 |2023-10-29 04:44:34|[静风说](http://www.jingfengshuo.com/feed)|[零基础报考“2023年中级会计师”记](https://www.jingfengshuo.com/archives/2554.html)|
 |2023-10-29 07:42:48|[小众软件](https://www.appinn.com/feed/)|[waifu2x – 改善图片和视频画质：iPhone、iPad、Mac 版本](https://www.appinn.com/waifu2x-for-apple/)|
 |2023-10-29 06:26:23|[触乐](http://www.chuapp.com/feed)|[“王者荣耀2023共创之夜”：八年比肩同行，共赴精彩未来](http://www.chuapp.com/article/289594.html)|
+|2023-10-30 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Matrix Block Diagonalization Theorem](https://leimao.github.io/blog/Matrix-Block-Diagonalization-Theorem/)|
 |2023-10-29 03:20:04|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[Team AI：简化繁琐日常任务，打造团队智能协作](http://www.phodal.com/blog/team-ai/)|
 |2023-10-29 01:00:59|[爱范儿](https://www.ifanr.com/feed)|[索尼 HT-AX7 体验：像积木一样分拆组合，索尼用真无线耳机的玩法做了一款音响](https://www.ifanr.com/1566366?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-10-29 04:16:31|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 想卖电脑，如何破局？求指点](https://www.v2ex.com/t/986398#reply0)|
