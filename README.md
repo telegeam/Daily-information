@@ -2,6 +2,35 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-30 11:02:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【湖北省原副省长曹广晶泄露的是哪家上市公司的内幕信息？】检察机关指控，曹广晶在担任副省长期间，其主导湖北省某上市公司的控股公司纾困重组事宜之时，将该纾困重组内幕信息透露给他人，致使他人在该内幕信息公开之前买入该上市公司股票，后将股票卖出获利1042万余元人民币。](https://dig.chouti.com/link/40452409)|
+|2023-10-30 19:27:39|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 项目: 预算 3w，某银行协议，能搞🉐️来](https://www.v2ex.com/t/986911#reply1)|
+|2023-10-30 18:03:01|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 真是等级森严， MacBook Air / Pro 的屏幕清晰度亦有差距](https://www.v2ex.com/t/986909#reply7)|
+|2023-10-30 17:43:52|[V2EX](https://www.v2ex.com/index.xml)|[ 科技 quest3 在国内真是食之无味，弃之可惜](https://www.v2ex.com/t/986908#reply3)|
+|2023-10-30 17:27:48|[V2EX](https://www.v2ex.com/index.xml)|[ macOS raycast 中怎么配置 chatgpt](https://www.v2ex.com/t/986906#reply0)|
+|2023-10-30 17:25:58|[V2EX](https://www.v2ex.com/index.xml)|[ macOS OnlySwitch 两周年更新](https://www.v2ex.com/t/986905#reply1)|
+|2023-10-30 16:55:15|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 视频制作软件 Wondershare Filmora Kdenlive Capcut 选择](https://www.v2ex.com/t/986902#reply2)|
+|2023-10-30 16:55:10|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 求助 单位台式机无法联网，所有想到查到的方法都试过了](https://www.v2ex.com/t/986901#reply5)|
+|2023-10-30 16:53:54|[V2EX](https://www.v2ex.com/index.xml)|[ Linux EndeavourOS 相比于 Arch Linux 有哪些地方做出了改动？](https://www.v2ex.com/t/986899#reply1)|
+|2023-10-30 16:47:57|[V2EX](https://www.v2ex.com/index.xml)|[ Telegram 有没有 tonER,讲讲现在还能用 ton 币买电报号吗](https://www.v2ex.com/t/986898#reply1)|
+|2023-10-30 16:39:49|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 话题（or 求解）： 公安是如何检测到下载恶意应用，并播打对应电话进行防诈提示的。](https://www.v2ex.com/t/986897#reply10)|
+|2023-10-30 16:31:19|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 在 Raycast 中如何配置 ChatGPT](https://www.v2ex.com/t/986896#reply0)|
+|2023-10-30 16:26:21|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 有没有大佬指点下家庭布网](https://www.v2ex.com/t/986895#reply3)|
+|2023-10-30 16:25:26|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 感觉外包公司的 HR 也在卷](https://www.v2ex.com/t/986894#reply0)|
+|2023-10-30 16:05:36|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI GPT4 第一次生成回复内容的时候，为什么滚动条会跳转到网页最顶端？后续回答中就不会有这个问题。超出限制提问数量后，暂时禁止新开 GPT4 窗口，在旧的 GPT4 聊天窗口中和用户对话的还是 GPT4 吗？](https://www.v2ex.com/t/986892#reply1)|
+|2023-10-30 15:54:49|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 IP 查询新选择](https://www.v2ex.com/t/986891#reply6)|
+|2023-10-30 10:53:10|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[寻找 iOS 开发合作的小伙伴，有好项目合作，请靠谱的小伙伴，顺便简单介绍下项目（有图）。](https://w2solo.com/topics/4221)|
+|2023-10-30 08:13:22|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一键为你的微信，微信公众号，飞书，钉钉，企业微信等接入智能客服，AI 能力 - 绝影小站](https://w2solo.com/topics/4220)|
+|2023-10-30 06:35:39|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[转自推特：如何创建伟大的公司（Sam Altman）](https://w2solo.com/topics/4219)|
+|2023-10-30 04:29:57|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 #37：远程工作半个月](https://w2solo.com/topics/4218)|
+|2023-10-30 06:43:32|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[研究发现基于 XMPP协议的社交软件面临严重窃听风险](https://www.freebuf.com/news/382227.html)|
+|2023-10-30 05:35:24|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[「年度安全技术变革」花落谁家 WitAwards 2023年度评选参评巡礼](https://www.freebuf.com/news/382212.html)|
+|2023-10-30 03:31:04|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[HackerOne 已向白帽支付了超 3 亿美元漏洞赏金](https://www.freebuf.com/news/382199.html)|
+|2023-10-30 02:33:38|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[Pwn2Own 大会落幕，三星多次被攻破，苹果和谷歌躲过一劫](https://www.freebuf.com/news/382191.html)|
+|2023-10-30 01:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美中就举行习拜会原则上达成一致](https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E5%9C%A8%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF%E4%B8%AD%E6%9C%9F%E5%BE%85%E6%8B%9C%E7%99%BB%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%B3%B0%E4%BC%9A-90155cbc)|
+|2023-10-30 09:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[香港将发放生育补贴应对人口外流](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E5%B0%86%E5%8F%91%E6%94%BE%E7%94%9F%E8%82%B2%E8%A1%A5%E8%B4%B4%E5%BA%94%E5%AF%B9%E4%BA%BA%E5%8F%A3%E5%A4%96%E6%B5%81-196e1f64)|
+|2023-10-30 14:52:07|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 KDE Plasma 6 将不支持较旧的桌面小部件](https://linux.cn/article-16333-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-30 13:54:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 我的一些 nix 学习经验：安装和打包](https://linux.cn/article-16332-1.html?utm_source=rss&utm_medium=rss)|
+|2023-10-30 12:08:14|[知乎每日精选](https://www.zhihu.com/rss)|[多动症（ADHD）人士的一生到底有多「苦」？能分享一段「最令你难忘」的经历吗？](http://www.zhihu.com/question/627743115/answer/3266813181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-10-30 08:15:00|[保罗的小宇宙](https://paugram.com/feed)|[记录一个部署 NodeJS 项目遇到的依赖问题](https://paugram.com/tech/pnpm-not-install-dev-deps-on-ci.html)|
 |2023-10-30 19:35:16|[Macin](https://www.macin.org/atom.xml)|[峨眉美食：吃吃喝喝快快乐乐](https://macin.org/2023/10/30/e-mei-mei-shi/)|
 |2023-10-30 16:05:36|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 GPT4 第一次生成回复内容的时候，为什么滚动条会跳转到网页最顶端？后续回答中就不会有这个问题。超出限制提问数量后，暂时禁止新开 GPT4 窗口，在旧的 GPT4 聊天窗口中和用户对话的还是 GPT4 吗？](https://www.v2ex.com/t/986892#reply0)|
