@@ -1,7 +1,24 @@
-﻿# 每日资讯（2023-10-30）
+﻿# 每日资讯（2023-10-31）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-10-31 00:30:00|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：MANNER 第 1000 家门店亮相、Louis Vuitton 三亚店正式开幕](http://www.toodaylab.com/82348)|
+|2023-10-31 00:27:09|[精品MAC应用分享](https://xclient.info/feed)|[PDF Reader Pro 2.9.9 PDF 文档阅读编辑批注](https://xclient.info/s/pdf-reader-pro.html)|
+|2023-10-31 01:08:08|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 一亩三分地为什么给我一种强烈的不适感？](https://www.v2ex.com/t/986934#reply0)|
+|2023-10-31 01:07:18|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro MacBook Pro 涨价了](https://www.v2ex.com/t/986933#reply0)|
+|2023-10-31 01:06:59|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 京东云路由器偷偷升级](https://www.v2ex.com/t/986932#reply0)|
+|2023-10-31 01:03:40|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 是因为 M1 系列牙膏挤爆了，后面挤不动了吗](https://www.v2ex.com/t/986931#reply0)|
+|2023-10-31 01:02:05|[V2EX](http://www.v2ex.com/index.xml)|[ Apple Mac 发布会毫无惊喜，越来越无趣](https://www.v2ex.com/t/986930#reply1)|
+|2023-10-31 00:59:29|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 弱弱的说一句，有一些基础款还是 8+256 起步。。。](https://www.v2ex.com/t/986929#reply1)|
+|2023-10-31 00:57:56|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 问一个数据库对业务数据存储的问题](https://www.v2ex.com/t/986928#reply1)|
+|2023-10-31 00:57:45|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro 明年想买个 MacBook Pro](https://www.v2ex.com/t/986927#reply1)|
+|2023-10-31 00:56:57|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 高配 m3 16 寸, 128G 内存, 39499](https://www.v2ex.com/t/986926#reply0)|
+|2023-10-31 00:46:08|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro 刚买 8 个月 21 天的 M2Max16 寸 MacBookPro 96GB RAM 2TB SSD 不检测教育优惠的 9 折教育优惠感觉到被 M3Max 128GBRAM 背刺](https://www.v2ex.com/t/986924#reply12)|
+|2023-10-31 00:37:11|[V2EX](http://www.v2ex.com/index.xml)|[ iPad 选购建议，买 iPad mini6 还是 iPad 10](https://www.v2ex.com/t/986923#reply5)|
+|2023-10-31 00:34:43|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro 又是一年的牙膏，除了 CPU 迭代一下，基本啥都没变，没有 Face ID，没有额外的显示器支持， 8G 内存起售，居然拿 Intel MBP 出来鞭尸...](https://www.v2ex.com/t/986922#reply33)|
+|2023-10-31 00:33:36|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 刚买没半年的 M2 Max 的 Mac Studio 感觉到了背刺](https://www.v2ex.com/t/986921#reply16)|
+|2023-10-31 00:31:54|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 更新了 M3 M3PRO M3MAX](https://www.v2ex.com/t/986920#reply11)|
+|2023-10-31 00:28:05|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 新 MacBook pro14 大降价！](https://www.v2ex.com/t/986919#reply32)|
 |2023-10-30 11:02:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【湖北省原副省长曹广晶泄露的是哪家上市公司的内幕信息？】检察机关指控，曹广晶在担任副省长期间，其主导湖北省某上市公司的控股公司纾困重组事宜之时，将该纾困重组内幕信息透露给他人，致使他人在该内幕信息公开之前买入该上市公司股票，后将股票卖出获利1042万余元人民币。](https://dig.chouti.com/link/40452409)|
 |2023-10-30 19:27:39|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 项目: 预算 3w，某银行协议，能搞🉐️来](https://www.v2ex.com/t/986911#reply1)|
 |2023-10-30 18:03:01|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 真是等级森严， MacBook Air / Pro 的屏幕清晰度亦有差距](https://www.v2ex.com/t/986909#reply7)|
