@@ -2,6 +2,54 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-01 20:00:44|[V2EX](http://www.v2ex.com/index.xml)|[ iCloud 最好的“使用中同步”网盘到底是什么， icloud 老是 hang](https://www.v2ex.com/t/987683#reply1)|
+|2023-11-01 19:58:05|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro 咸鱼买 mac 纠纷预防与处理 咨询](https://www.v2ex.com/t/987682#reply0)|
+|2023-11-01 19:35:06|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 新 iPhone 是备份恢复，还是当新的用？](https://www.v2ex.com/t/987681#reply1)|
+|2023-11-01 19:04:59|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 运营商给的光猫算国有资产吗？](https://www.v2ex.com/t/987680#reply2)|
+|2023-11-01 18:55:37|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 后知后觉 imazing 原来是免费备份 但是恢复备份是收费的](https://www.v2ex.com/t/987679#reply1)|
+|2023-11-01 18:40:17|[V2EX](http://www.v2ex.com/index.xml)|[ Surge Surge for iOS 三人车，空位剩余 2 人，人满发车](https://www.v2ex.com/t/987678#reply0)|
+|2023-11-01 18:25:06|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 看光猫插件贴有感，技术是否有罪？](https://www.v2ex.com/t/987677#reply5)|
+|2023-11-01 16:56:16|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro 有 AC， 1 年不到屏幕上划痕可以免费修吗](https://www.v2ex.com/t/987675#reply1)|
+|2023-11-01 16:18:35|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 遗憾越来越多](https://www.v2ex.com/t/987674#reply2)|
+|2023-11-01 16:09:53|[V2EX](http://www.v2ex.com/index.xml)|[ 云计算 大佬们，帮我看个问题](https://www.v2ex.com/t/987673#reply2)|
+|2023-11-01 15:52:41|[V2EX](http://www.v2ex.com/index.xml)|[ Apple M3 Pro 和 M2 Pro 相比是进步还是持平？](https://www.v2ex.com/t/987672#reply1)|
+|2023-11-01 15:50:36|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问 macOS 上有这么支持比如 Emby 这种媒体中心的开源播放器吗？](https://www.v2ex.com/t/987671#reply0)|
+|2023-11-01 15:49:01|[V2EX](http://www.v2ex.com/index.xml)|[ 全球工单系统 免费的新浪邮箱无法找回密码。。。。](https://www.v2ex.com/t/987670#reply1)|
+|2023-11-01 15:25:03|[V2EX](http://www.v2ex.com/index.xml)|[ Apple M3 Geekbench 评分出炉](https://www.v2ex.com/t/987666#reply15)|
+|2023-11-01 15:15:00|[V2EX](http://www.v2ex.com/index.xml)|[ 奇思妙想 电脑显示器可以做成竖屏的吗？](https://www.v2ex.com/t/987664#reply11)|
+|2023-11-01 14:58:50|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问 RevenueCat ID 是什么](https://www.v2ex.com/t/987663#reply1)|
+|2023-11-01 14:51:33|[V2EX](http://www.v2ex.com/index.xml)|[ JetBrains Goland Copy Reference 竟然拷贝的是文件名和行号](https://www.v2ex.com/t/987661#reply0)|
+|2023-11-01 14:50:44|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 请问大家 Python 应用如何通过代理服务器访问多个外网服务器啊?](https://www.v2ex.com/t/987660#reply2)|
+|2023-11-01 14:43:47|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 ITX、迷你主机还是笔记本](https://www.v2ex.com/t/987659#reply19)|
+|2023-11-01 14:25:08|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 京东自营 15 256G 蓝色已经到了 5798 的价位。](https://www.v2ex.com/t/987656#reply1)|
+|2023-11-01 14:10:45|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 请教一个关于 Clash Mixin 的配置某些情况不生效的问题](https://www.v2ex.com/t/987655#reply1)|
+|2023-11-01 14:09:21|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 杭州 8 年开发经验，想找一个 golang 开发岗，求捞](https://www.v2ex.com/t/987654#reply0)|
+|2023-11-01 13:59:37|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 米家的警戒模式，只有传统网关和空调伴侣可以吗？小爱音箱自带的网关可不可以使用警戒模式？](https://www.v2ex.com/t/987653#reply0)|
+|2023-11-01 13:59:04|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 耳疾，求推荐 500 以内的骨传导耳机，或有没有病友指导下外耳道湿疹治疗方法或医院](https://www.v2ex.com/t/987652#reply0)|
+|2023-11-01 13:58:44|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 java8 以后常用的新特性有哪些？](https://www.v2ex.com/t/987651#reply0)|
+|2023-11-01 13:57:20|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 今年存储这么贵吗？](https://www.v2ex.com/t/987650#reply5)|
+|2023-11-01 13:53:39|[V2EX](http://www.v2ex.com/index.xml)|[ macOS 数码荔枝双十一拼车！ Qbserve AlDente](https://www.v2ex.com/t/987649#reply1)|
+|2023-11-01 13:49:19|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 我做了一个新网站，来看看吧](https://www.v2ex.com/t/987648#reply9)|
+|2023-11-01 13:47:32|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请专业人士帮忙看下，选一个什么路由器呢？](https://www.v2ex.com/t/987647#reply3)|
+|2023-11-01 13:46:06|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 隔壁男的天天开着门怎么治?](https://www.v2ex.com/t/987646#reply17)|
+|2023-11-01 13:32:22|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 上海 米哈游 miHoYo 2023.11.1 最新招聘信息（业务平台、企业效能组内推专场）](https://www.v2ex.com/t/987645#reply0)|
+|2023-11-01 13:29:43|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 iOS 平台没有很强大的自建音乐库客户端吗？类似 Symfonium。](https://www.v2ex.com/t/987644#reply5)|
+|2023-11-01 13:24:13|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 上海联通奇怪问题](https://www.v2ex.com/t/987642#reply1)|
+|2023-11-01 13:15:52|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 刚买的阿里云 99 元机器反应很慢](https://www.v2ex.com/t/987641#reply8)|
+|2023-11-01 13:13:02|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 求推荐一款电子阅读器，市面上产品太多眼镜都花了。](https://www.v2ex.com/t/987640#reply5)|
+|2023-11-01 13:09:27|[V2EX](http://www.v2ex.com/index.xml)|[ 计算机 笔记本升级硬盘后如何迁移系统](https://www.v2ex.com/t/987639#reply1)|
+|2023-11-01 13:06:41|[V2EX](http://www.v2ex.com/index.xml)|[ Chrome chrome 应用商店无法安装插件](https://www.v2ex.com/t/987638#reply1)|
+|2023-11-01 13:01:56|[V2EX](http://www.v2ex.com/index.xml)|[ 跑步 也许是最好用的佳明二维码软件 MultiQRCode](https://www.v2ex.com/t/987637#reply1)|
+|2023-11-01 12:34:41|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 单网口的 Windows 主机，有多个用户时，是否可以为每个用户分配不同 IP？](https://www.v2ex.com/t/987635#reply4)|
+|2023-11-01 12:26:40|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 想润出去，啥语言我都愿意写。。。 我发现国外大厂投简历的流程都比较繁琐，又累了（太懒）不想在领英过多得勾搭人了，有什么润润技巧能推荐吗？小弟先谢过了。](https://www.v2ex.com/t/987634#reply27)|
+|2023-11-01 12:17:35|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 翻了翻大学时的日记，好像现在 Mac 的价格也没有那么贵，但心理上却觉得很贵](https://www.v2ex.com/t/987632#reply12)|
+|2023-11-01 15:29:04|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 为什么公司需要设立开源项目办公室（OSPO）](https://linux.cn/article-16341-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-01 05:11:00|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[知结社区 - 互联网从业者的资讯社区](https://w2solo.com/topics/4226)|
+|2023-11-01 05:01:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[让大数据的个性化分析，像 Excel 一样简单](https://w2solo.com/topics/4225)|
+|2023-11-01 03:46:49|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[肝了一个很基础的后台管理模板，vue3 + element-plus。](https://w2solo.com/topics/4224)|
+|2023-11-01 02:22:26|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一站式个人社交信息整理工具](https://w2solo.com/topics/4223)|
+|2023-11-01 01:07:54|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[「小产品独立变现实战」训练营第二期门票开售！](https://w2solo.com/topics/4222)|
+|2023-11-01 01:34:45|[Dennis](https://www.domon.cn/rss/)|[2023年10月阅读书摘](https://www.domon.cn/2023-10yue-yue-du-shu-zhai/)|
 |2023-11-01 10:39:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[最新微博：2023 年 11 月 01 日](https://www.changhai.org/articles/miscellaneous/blog/202311.php#latest)|
 |2023-11-01 14:37:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 开放文档格式 ODT 文件格式解析](https://linux.cn/article-16340-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-01 04:48:24|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 瓴羊重磅发布数据服务枢纽“瓴羊港”，推动企业数据流通及价值增长](https://linux.cn/article-16339-1.html?utm_source=rss&utm_medium=rss)|
