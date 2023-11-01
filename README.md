@@ -1,7 +1,18 @@
-﻿# 每日资讯（2023-10-31）
+﻿# 每日资讯（2023-11-01）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-01 00:59:50|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 「小产品独立变现实战」训练营第二期](https://www.v2ex.com/t/987310#reply0)|
+|2023-11-01 00:55:15|[V2EX](https://v2ex.com/index.xml)|[ iPhone 求推荐好用的 IOS 的 MFA 工具](https://www.v2ex.com/t/987309#reply1)|
+|2023-11-01 00:51:16|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想玩 stream 游戏 大表哥啥的 电脑要啥配置](https://www.v2ex.com/t/987308#reply6)|
+|2023-11-01 00:51:09|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 一个免费/干净/好用的 AI 文档阅读工具](https://www.v2ex.com/t/987307#reply0)|
+|2023-11-01 00:47:31|[V2EX](https://v2ex.com/index.xml)|[ 音乐 求推荐歌单](https://www.v2ex.com/t/987306#reply0)|
+|2023-11-01 00:44:08|[V2EX](https://v2ex.com/index.xml)|[ 硬件 哪位兄弟有华硕 TUF GAMING B560-PLUS WIFI 这块板子？](https://www.v2ex.com/t/987305#reply1)|
+|2023-11-01 00:43:14|[V2EX](https://v2ex.com/index.xml)|[ Apple 现在能买到支持 iPhone 15 carplay 的三合一数据线吗？](https://www.v2ex.com/t/987304#reply7)|
+|2023-11-01 00:35:29|[V2EX](https://v2ex.com/index.xml)|[ 问与答 请问 VS Code 如何查找指定目录下，指定类型文件中是否包含关键字？](https://www.v2ex.com/t/987303#reply10)|
+|2023-11-01 00:32:37|[V2EX](https://v2ex.com/index.xml)|[ macOS macOS Finder 连接 SMB](https://www.v2ex.com/t/987301#reply3)|
+|2023-11-01 00:16:59|[V2EX](https://v2ex.com/index.xml)|[ 问与答 这几年开始落伍的开发技术有哪些？](https://www.v2ex.com/t/987300#reply17)|
+|2023-11-01 00:12:46|[V2EX](https://v2ex.com/index.xml)|[ 问与答 怎么现在新房好多都是精装房了？装修质量可不可靠？](https://www.v2ex.com/t/987299#reply32)|
 |2023-10-31 09:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国经济再现放缓迹象](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%86%8D%E7%8E%B0%E6%94%BE%E7%BC%93%E8%BF%B9%E8%B1%A1-86b09ece)|
 |2023-10-31 05:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国“敲打”苹果供应商可能适得其反](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD-%E6%95%B2%E6%89%93-%E8%8B%B9%E6%9E%9C%E4%BE%9B%E5%BA%94%E5%95%86%E5%8F%AF%E8%83%BD%E9%80%82%E5%BE%97%E5%85%B6%E5%8F%8D-db12bc1e)|
 |2023-10-31 04:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[汇丰CEO：中国房地产危机已经见顶](https://cn.wsj.com/articles/%E6%B1%87%E4%B8%B0ceo-%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%8D%B1%E6%9C%BA%E5%B7%B2%E7%BB%8F%E8%A7%81%E9%A1%B6-d0098a2e)|
