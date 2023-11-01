@@ -2,6 +2,35 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-01 10:39:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[最新微博：2023 年 11 月 01 日](https://www.changhai.org/articles/miscellaneous/blog/202311.php#latest)|
+|2023-11-01 14:37:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 开放文档格式 ODT 文件格式解析](https://linux.cn/article-16340-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-01 04:48:24|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 瓴羊重磅发布数据服务枢纽“瓴羊港”，推动企业数据流通及价值增长](https://linux.cn/article-16339-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-01 15:50:00|[机核](https://www.gcores.com/rss)|[《明日方舟》莱塔尼亚文化符号无责任解读：黑与白的合奏，揭开帝国的面纱](https://www.gcores.com/articles/173201)|
+|2023-11-01 15:15:00|[机核](https://www.gcores.com/rss)|[暴造线上试玩评选结果公布！欢迎来试试哦](https://www.gcores.com/articles/173258)|
+|2023-11-01 14:59:48|[机核](https://www.gcores.com/rss)|[褒贬不一：《超级舞动 瓦力欧制造》媒体评分汇总](https://www.gcores.com/articles/173274)|
+|2023-11-01 14:28:47|[机核](https://www.gcores.com/rss)|[享受穿搭与点赞：《时尚造梦》制作人神山敬介Q&A](https://www.gcores.com/articles/173273)|
+|2023-11-01 13:00:00|[机核](https://www.gcores.com/rss)|[班宇的文学秘笈 Vol.5丨化身](https://www.gcores.com/radios/162792)|
+|2023-11-01 11:36:23|[机核](https://www.gcores.com/rss)|[《北斗神拳》专题节目（三）：动画剧场](https://www.gcores.com/videos/173265)|
+|2023-11-01 10:00:00|[机核](https://www.gcores.com/rss)|[月球坠落的无限三日循环！15分钟带你回顾塞尔达系列第六作《塞尔达传说：姆吉拉的假面》](https://www.gcores.com/videos/173233)|
+|2023-11-01 09:52:14|[机核](https://www.gcores.com/rss)|[退休人员的对话：神谷英树&三上真司将参与现场对谈](https://www.gcores.com/articles/173259)|
+|2023-11-01 09:28:41|[机核](https://www.gcores.com/rss)|[平台跳跃解谜新作《电兔拉比》正式公开，首支预告放出](https://www.gcores.com/articles/173254)|
+|2023-11-01 09:10:43|[机核](https://www.gcores.com/rss)|[边打太鼓边健身！《太鼓之达人》全新控制器将在12月13日登场](https://www.gcores.com/articles/173255)|
+|2023-11-01 09:00:04|[机核](https://www.gcores.com/rss)|[Devolver Digital收购《异星探险家》开发商System Era](https://www.gcores.com/articles/173257)|
+|2023-11-01 09:00:00|[机核](https://www.gcores.com/rss)|[摸鱼、咖啡和大马路，录音笔 Vol.68](https://www.gcores.com/radios/173245)|
+|2023-11-01 08:34:28|[机核](https://www.gcores.com/rss)|[国产奇幻动作肉鸽游戏《觉醒者：遗忘之誓》11月7日发售，国区定价58元](https://www.gcores.com/articles/173253)|
+|2023-11-01 08:16:59|[机核](https://www.gcores.com/rss)|[《匹诺曹的谎言》开发者信函，未来更新计划公布](https://www.gcores.com/articles/173250)|
+|2023-11-01 08:00:00|[机核](https://www.gcores.com/rss)|[4 年后，我们再度从机核出发](https://www.gcores.com/articles/173236)|
+|2023-11-01 07:14:13|[机核](https://www.gcores.com/rss)|[采用原相3398传感器，雷柏VT9PRO mini中小手4K轻量化双模无线游戏鼠标上市](https://www.gcores.com/articles/173247)|
+|2023-11-01 06:38:37|[机核](https://www.gcores.com/rss)|[反方向的刺客](https://www.gcores.com/articles/173243)|
+|2023-11-01 06:35:29|[机核](https://www.gcores.com/rss)|[黑白漫画风格悬疑恐怖视觉小说游戏《潜入》将于11月08日正式发售](https://www.gcores.com/articles/173242)|
+|2023-11-01 06:10:00|[机核](https://www.gcores.com/rss)|[从《隐形公司》为什么难，聊聊潜行玩法设计](https://www.gcores.com/articles/173227)|
+|2023-11-01 06:05:00|[机核](https://www.gcores.com/rss)|[BOOOM游戏《熵增扳机》美术内容制作历程分享](https://www.gcores.com/articles/173223)|
+|2023-11-01 16:07:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[那些网红市集，成了摊主“收割机”](https://36kr.com/p/2499022659344262)|
+|2023-11-01 16:07:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[我在网上编故事，月入十几万](https://36kr.com/p/2498281533954181)|
+|2023-11-01 16:07:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Open AI首席科学家：ChatGPT可能已经有了意识，AI将万世不朽](https://36kr.com/p/2499103970088838)|
+|2023-11-01 16:07:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[王炸，深夜，沸腾了](https://36kr.com/p/2499117910497157)|
+|2023-11-01 16:07:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[焦点分析 日赚一亿，是比亚迪的峰值时刻吗？](https://36kr.com/p/2497999857473665)|
+|2023-11-01 16:07:42|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[对话马岩松：如果必须要在一个空间生活一辈子，我选择跳海 ｜ CityTalk](https://36kr.com/p/2498996771084424)|
 |2023-11-01 12:26:40|[V2EX](https://v2ex.com/index.xml)|[ 程序员 想润出去，啥语言我都愿意写。。。 我发现国外大厂投简历的流程都比较繁琐，又累了（太懒）不想在领英过多得勾搭人了，有什么润润技巧能推荐吗？小弟先谢过了。](https://www.v2ex.com/t/987634#reply0)|
 |2023-11-01 12:17:35|[V2EX](https://v2ex.com/index.xml)|[ Apple 翻了翻大学时的日记，好像现在 Mac 的价格也没有那么贵，但心理上却觉得很贵](https://www.v2ex.com/t/987632#reply1)|
 |2023-11-01 12:15:24|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 北京 理想汽车 高级 Java 工程师<急>](https://www.v2ex.com/t/987630#reply0)|
