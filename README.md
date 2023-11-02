@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-02 12:48:45|[I'm TualatriX](https://imtx.me/feed/latest/)|[谈谈定购 M3 Max 的 16 寸 MacBook Pro 后的一些想法](https://imtx.me/blog/thoughts-after-ordering-16-inch-m3-max-macbook-pro/)|
+|2023-11-02 14:00:13|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 AI 模型的开源定义需要改变](https://linux.cn/article-16344-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-02 13:03:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 10 月份在 Fedora Linux 上值得尝试的酷炫 Flatpak应用](https://linux.cn/article-16343-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-02 10:20:51|[余晟以为](https://feedpress.me/wx-yurii-says)|[在德国，我陪小孩学音乐](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009763&idx=1&sn=7a059f72b6a7fd594fbc017409918655)|
+|2023-11-02 11:47:49|[Dennis](https://www.domon.cn/rss/)|[青春是什么？](https://www.domon.cn/qing-chun-shi-shen-me/)|
 |2023-11-02 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“价格暴跌”等于“大闸蟹自由”？真相是......](https://36kr.com/p/2499722344355973)|
 |2023-11-02 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AMD财报露怯，消费级显卡已经不是个好生意](https://36kr.com/p/2499636780671109)|
 |2023-11-02 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI潜入黑客群聊，盗用ChatGPT被换成“喵喵GPT”，网友：绝对的传奇](https://36kr.com/p/2499292093012103)|
