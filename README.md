@@ -1,7 +1,13 @@
-﻿# 每日资讯（2023-11-01）
+﻿# 每日资讯（2023-11-02）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-02 00:25:54|[精品MAC应用分享](https://xclient.info/feed)|[Xliff Editor 2.9.13 XLIFF文件编辑工具](https://xclient.info/s/xliff-editor.html)|
+|2023-11-02 00:23:02|[精品MAC应用分享](https://xclient.info/feed)|[JSON Wizard 2.0 JSON数据查看编辑工具](https://xclient.info/s/json-wizard.html)|
+|2023-11-02 00:21:25|[精品MAC应用分享](https://xclient.info/feed)|[Antivirus Zap Pro 3.13.0 杀毒软件](https://xclient.info/s/antivirus-zap-pro.html)|
+|2023-11-02 00:20:23|[精品MAC应用分享](https://xclient.info/feed)|[Debookee 8.1.5 网络数据抓包及分析工具](https://xclient.info/s/debookee.html)|
+|2023-11-02 00:19:14|[精品MAC应用分享](https://xclient.info/feed)|[ScreenFlow 10.0.10 优秀的屏幕录像软件](https://xclient.info/s/screenflow.html)|
+|2023-11-02 00:59:29|[爱范儿](https://www.ifanr.com/feed)|[早报｜下一代 Apple Watch 两大新功能曝光 / 茅台出厂价上调 20％ / 微软发布 Windows 11 重大更新](https://www.ifanr.com/1566751?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-11-01 20:00:44|[V2EX](http://www.v2ex.com/index.xml)|[ iCloud 最好的“使用中同步”网盘到底是什么， icloud 老是 hang](https://www.v2ex.com/t/987683#reply1)|
 |2023-11-01 19:58:05|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro 咸鱼买 mac 纠纷预防与处理 咨询](https://www.v2ex.com/t/987682#reply0)|
 |2023-11-01 19:35:06|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 新 iPhone 是备份恢复，还是当新的用？](https://www.v2ex.com/t/987681#reply1)|
@@ -293,6 +299,7 @@
 |2023-11-01 04:03:46|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[北漂中产撤离，如何选择第二城市](https://36kr.com/p/2497889282660232)|
 |2023-11-01 04:03:46|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微软论文一张截图，曝出GPT-3.5仅有200亿参数？AI圈巨震，网友大呼太离谱](https://36kr.com/p/2497973839812481)|
 |2023-11-01 04:03:46|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[全网都在喊“最低价”，竟然还是拼多多最便宜？丨双11特别策划](https://36kr.com/p/2499065793664900)|
+|2023-11-02 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 金枪鱼之夜：Moonbit 语言及平台](https://tuna.moe/event/2023/moonbit/)|
 |2023-11-01 00:59:50|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 「小产品独立变现实战」训练营第二期](https://www.v2ex.com/t/987310#reply0)|
 |2023-11-01 00:55:15|[V2EX](https://v2ex.com/index.xml)|[ iPhone 求推荐好用的 IOS 的 MFA 工具](https://www.v2ex.com/t/987309#reply1)|
 |2023-11-01 00:51:16|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想玩 stream 游戏 大表哥啥的 电脑要啥配置](https://www.v2ex.com/t/987308#reply6)|
