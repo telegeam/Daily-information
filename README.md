@@ -2,6 +2,65 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-02 08:56:38|[煎蛋](http://jandan.net/feed)|[2021才发现的最简单的排序算法](http://jandan.net/p/114682)|
+|2023-11-02 23:31:36|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[护眼神器——CareUEyes 2.2.9学习版](https://masuit.com/2224)|
+|2023-11-02 23:30:57|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Cubase 13.0.10 Pro 学习版](https://masuit.com/1827)|
+|2023-11-02 17:20:03|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[EaseUS®DataRecoveryWizard易我数据恢复17可激活技术员版](https://masuit.com/129)|
+|2023-11-02 17:19:42|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[RSS阅读器RSS Guardv4.5.3](https://masuit.com/2250)|
+|2023-11-02 19:32:35|[V2EX](https://v2ex.com/index.xml)|[ OpenAI 全网最稳定的 100%官方 Enterprise 企业级直连 key，均为高速渠道](https://www.v2ex.com/t/988077#reply0)|
+|2023-11-02 19:01:41|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 PayPal 国区目前似乎无法绑定 192 开头的广电号码](https://www.v2ex.com/t/988076#reply0)|
+|2023-11-02 18:01:09|[V2EX](https://v2ex.com/index.xml)|[ iPhone 求助 澳门版 iPhone 在大陆官网 Trade in 会被砍价吗？](https://www.v2ex.com/t/988075#reply0)|
+|2023-11-02 17:40:45|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没有润到国外的路子。](https://www.v2ex.com/t/988072#reply2)|
+|2023-11-02 17:34:14|[V2EX](https://v2ex.com/index.xml)|[ 阅读 2023 十月读建筑，觉醒，断食，经济，小说……13 本](https://www.v2ex.com/t/988070#reply0)|
+|2023-11-02 17:25:52|[V2EX](https://v2ex.com/index.xml)|[ Cloudflare cloudflare API down 机，大家都没感觉是吗？](https://www.v2ex.com/t/988069#reply3)|
+|2023-11-02 17:09:53|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 使用 Rust 和 WebAssembly 写了一个 NeuralRad Segment AnyTumor 模块，可以自动三维分割任意肿瘤](https://www.v2ex.com/t/988068#reply1)|
+|2023-11-02 17:04:17|[V2EX](https://v2ex.com/index.xml)|[ 优惠信息 阿里云学生送 300 元](https://www.v2ex.com/t/988067#reply0)|
+|2023-11-02 16:47:04|[V2EX](https://v2ex.com/index.xml)|[ OpenWrt 新版的 OP 如何禁用制定设备的 ipv6?](https://www.v2ex.com/t/988066#reply4)|
+|2023-11-02 16:44:20|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 小米移动锁卡还不支持苹果用户申诉](https://www.v2ex.com/t/988065#reply0)|
+|2023-11-02 16:37:11|[V2EX](https://v2ex.com/index.xml)|[ Apple 有用 Arc 浏览器的兄弟么，刚刚更新 1.15.0 后用不了了](https://www.v2ex.com/t/988063#reply5)|
+|2023-11-02 16:32:55|[V2EX](https://v2ex.com/index.xml)|[ 海外留学 人在大陆，微信移民，哪个地方比较好](https://www.v2ex.com/t/988062#reply4)|
+|2023-11-02 16:07:19|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没有纯远程的系统](https://www.v2ex.com/t/988061#reply4)|
+|2023-11-02 16:05:28|[V2EX](https://v2ex.com/index.xml)|[ MacBook Pro 现在的 AppleCare+竟然涨价那么多](https://www.v2ex.com/t/988060#reply13)|
+|2023-11-02 15:56:55|[V2EX](https://v2ex.com/index.xml)|[ 云计算 阿里云香港是不是出问题了，我有台小鸡，突然失联，能 ping 通， ssh 连不上，控制台重启一直卡在重启中](https://www.v2ex.com/t/988059#reply1)|
+|2023-11-02 15:55:44|[V2EX](https://v2ex.com/index.xml)|[ 音乐 问个敏感问题，高解析歌曲下载请教](https://www.v2ex.com/t/988058#reply0)|
+|2023-11-02 15:53:41|[V2EX](https://v2ex.com/index.xml)|[ 问与答 SupremeRAID 把 GPU 作为 RAID 卡，读带宽可以达到 200GB/s](https://www.v2ex.com/t/988057#reply0)|
+|2023-11-02 15:37:12|[V2EX](https://v2ex.com/index.xml)|[ 问与答 MKV 丢失时间轴如何修复？](https://www.v2ex.com/t/988056#reply2)|
+|2023-11-02 15:35:41|[V2EX](https://v2ex.com/index.xml)|[ 问与答 显卡炼丹 怎么赚钱](https://www.v2ex.com/t/988055#reply5)|
+|2023-11-02 15:32:56|[V2EX](https://v2ex.com/index.xml)|[ Cloudflare 请教一下，为什么 cloudflare 挂了，会导致我今天刚刚将域名的 dns 解析放到上面的网站访问不了呢？](https://www.v2ex.com/t/988053#reply4)|
+|2023-11-02 15:12:23|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 Vanilla Design，一个轻量且高性能的 React UI 库](https://www.v2ex.com/t/988052#reply2)|
+|2023-11-02 15:11:55|[V2EX](https://v2ex.com/index.xml)|[ Apple 大家请推荐几个 iPhone 15pro 的使用技巧网站](https://www.v2ex.com/t/988051#reply3)|
+|2023-11-02 14:52:15|[V2EX](https://v2ex.com/index.xml)|[ 程序员 有人遇到过用启动盘也启动不了的电脑吗？](https://www.v2ex.com/t/988047#reply7)|
+|2023-11-02 14:50:23|[V2EX](https://v2ex.com/index.xml)|[ 优惠信息 爱奇艺 vip 红包](https://www.v2ex.com/t/988046#reply1)|
+|2023-11-02 14:48:43|[V2EX](https://v2ex.com/index.xml)|[ 问与答 我火星了？ chrome 可以直接看 4k netflix 了吗？](https://www.v2ex.com/t/988045#reply1)|
+|2023-11-02 14:38:40|[V2EX](https://v2ex.com/index.xml)|[ 上海 双 11 搞了个麻将机，有没有喜欢打麻将的朋友？](https://www.v2ex.com/t/988043#reply1)|
+|2023-11-02 14:19:43|[V2EX](https://v2ex.com/index.xml)|[ 程序员 困扰我多年的问题，如何用 Webkit 内核的浏览器以文件夹的方式，打开本地文件夹？](https://www.v2ex.com/t/988040#reply0)|
+|2023-11-02 14:07:21|[V2EX](https://v2ex.com/index.xml)|[ Apple 求助 macOS 14 Sonoma 磁盘回收站 .Trashes 不显示了](https://www.v2ex.com/t/988039#reply0)|
+|2023-11-02 14:03:33|[V2EX](https://v2ex.com/index.xml)|[ 问与答 win11 切换窗口特别卡](https://www.v2ex.com/t/988038#reply2)|
+|2023-11-02 14:00:22|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 白嫖 阿里云服务器 5 年](https://www.v2ex.com/t/988037#reply3)|
+|2023-11-02 13:56:53|[V2EX](https://v2ex.com/index.xml)|[ macOS macos 鼠标点击后会出现方框，莫名其妙啊，咋解决呢哎](https://www.v2ex.com/t/988036#reply0)|
+|2023-11-02 13:56:13|[V2EX](https://v2ex.com/index.xml)|[ 问与答 cloudflare 无法登陆了 咋回事](https://www.v2ex.com/t/988035#reply2)|
+|2023-11-02 13:51:29|[V2EX](https://v2ex.com/index.xml)|[ Apple AppleTV 国行商店是否能下载到 infuse？](https://www.v2ex.com/t/988034#reply6)|
+|2023-11-02 13:48:49|[V2EX](https://v2ex.com/index.xml)|[ Cloudflare Cloudflare 挂了](https://www.v2ex.com/t/988032#reply14)|
+|2023-11-02 13:40:12|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 做了几个 UI 精美的小程序，社交论坛/积分圈子/品牌商城，有需求或者是客户有需求可以进来看看](https://www.v2ex.com/t/988031#reply5)|
+|2023-11-02 13:36:19|[V2EX](https://v2ex.com/index.xml)|[ 问与答 各位有什么推荐的机场吗](https://www.v2ex.com/t/988030#reply9)|
+|2023-11-02 13:34:07|[V2EX](https://v2ex.com/index.xml)|[ 问与答 新加坡 salesforce 开发薪资大概怎么样的？要报期望薪资了](https://www.v2ex.com/t/988029#reply5)|
+|2023-11-02 13:32:57|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 Apple silicon 版 VMware 13.5 更新，终于支持剪贴板了](https://www.v2ex.com/t/988028#reply0)|
+|2023-11-02 13:27:21|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 招银网络科技咨询（杭州）](https://www.v2ex.com/t/988027#reply1)|
+|2023-11-02 13:26:14|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 我开发了一个数据可视化编辑器+蓝图编辑器，请指点~](https://www.v2ex.com/t/988026#reply0)|
+|2023-11-02 13:18:42|[V2EX](https://v2ex.com/index.xml)|[ 问与答 android 手机接 U 盘的格式为 EXT4 格式无法读取，求解](https://www.v2ex.com/t/988024#reply1)|
+|2023-11-02 13:16:38|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 downg 这个站无了？](https://www.v2ex.com/t/988022#reply2)|
+|2023-11-02 13:11:58|[V2EX](https://v2ex.com/index.xml)|[ 程序员 macOS 中允许不同进程占用同一个端口？](https://www.v2ex.com/t/988021#reply9)|
+|2023-11-02 13:11:12|[V2EX](https://v2ex.com/index.xml)|[ 程序员 1password 可耻卑鄙，寻求 1Password 公司结束对经典浏览器扩展支持后的解决办法](https://www.v2ex.com/t/988020#reply23)|
+|2023-11-02 13:04:37|[V2EX](https://v2ex.com/index.xml)|[ 小米 米 14 可以刷旧系统吗，并且导入旧手机数据](https://www.v2ex.com/t/988019#reply1)|
+|2023-11-02 12:43:04|[V2EX](https://v2ex.com/index.xml)|[ 问与答 华为 GT4 搭配 iPhone 的问题](https://www.v2ex.com/t/988016#reply0)|
+|2023-11-02 12:40:44|[V2EX](https://v2ex.com/index.xml)|[ iPhone iPhone15 附的编织充电线手感真好，有没有 1.5 或 1.8m 的类似手感平替线？](https://www.v2ex.com/t/988015#reply3)|
+|2023-11-02 12:27:45|[V2EX](https://v2ex.com/index.xml)|[ 程序员 如何让 npm run dev 的 vue vite 项目走 clash mixin 代理呢？](https://www.v2ex.com/t/988014#reply10)|
+|2023-11-02 12:21:43|[V2EX](https://v2ex.com/index.xml)|[ 程序员 cloudflare 挂了](https://www.v2ex.com/t/988012#reply2)|
+|2023-11-02 12:20:21|[V2EX](https://v2ex.com/index.xml)|[ DNS 千万别用国内的域名管理商了了，真的头秃了](https://www.v2ex.com/t/988011#reply7)|
+|2023-11-02 13:46:18|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[AirPods Pro 2 USB-C 版本台灣開賣 即日起開放訂購，最快 11 月 24 日到貨](https://applefans.today/2023-11-airpods-pro-2-usb-c-official-annoncment/)|
+|2023-11-02 01:44:12|[est の 输入输出](https://blog.est.im/rss)|[FastAPI/Starlette graceful shutdown server-sent events](https://blog.est.im/2023/stdout-12)|
+|2023-11-02 04:01:40|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[如何用 Make 自动化将即刻动态同步到 Notion](https://sspai.com/post/83490)|
+|2023-11-02 07:39:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有研究过浏览器指纹的大佬？请教几个问题](https://www.v2ex.com/t/987912#reply13)|
 |2023-11-02 12:48:45|[I'm TualatriX](https://imtx.me/feed/latest/)|[谈谈定购 M3 Max 的 16 寸 MacBook Pro 后的一些想法](https://imtx.me/blog/thoughts-after-ordering-16-inch-m3-max-macbook-pro/)|
 |2023-11-02 14:00:13|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 AI 模型的开源定义需要改变](https://linux.cn/article-16344-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-02 13:03:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 10 月份在 Fedora Linux 上值得尝试的酷炫 Flatpak应用](https://linux.cn/article-16343-1.html?utm_source=rss&utm_medium=rss)|
