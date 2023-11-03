@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-03 05:46:19|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple M3 晶片 與 M2 與 M1 的規格差別 比較 ？](https://applefans.today/2023-11-apples-new-m3-compares-to-m1-and-m2-chips/)|
+|2023-11-03 03:37:00|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 忘記螢幕鎖定密碼有救嗎？這二招就能簡單破解、免送修更安心！](https://applefans.today/anyunlock-2023-10-how-to-unlock-iphone-screen-lock/)|
+|2023-11-03 10:30:52|[了迹奇有没](https://whrss.com/feed)|[API 设计中的多类型属性选择：OpenAPI 与 gRPC 的oneof与强类型对比](https://whrss.com/post/api-design-openapi&grpc)|
+|2023-11-03 13:08:14|[Dennis](https://www.domon.cn/rss/)|[反向世界](https://www.domon.cn/fan-xiang-shi-jie/)|
+|2023-11-03 13:31:19|[小众软件](https://www.appinn.com/feed/)|[双 11 大促！专业的文件压缩/解压缩工具 Bandizip 史低折扣](https://www.appinn.com/bandizip-20231111/)|
+|2023-11-03 04:27:06|[小众软件](https://www.appinn.com/feed/)|[布丁扫描 – 免费的口算批改、试卷擦除工具（自动去手写，还原试卷），学生党必备 Android/iOS ](https://www.appinn.com/budingscan/)|
+|2023-11-03 06:47:00|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[压缩剪贴板内图片并立即写入剪贴板，减轻服务器存储压力](https://hellodk.cn/post/1150)|
+|2023-11-03 12:08:02|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经｜美国抢 AI 人才；高通想收更多 “税”](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247508848&idx=2&sn=216af4ee46c05bf681e6ba6d913863af)|
+|2023-11-03 12:08:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[全民游戏如何做公益](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247508848&idx=1&sn=45b4567d83b047edb2949c42f6875439)|
+|2023-11-03 07:37:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[印度智慧手機市場崛起：蘋果出貨破紀錄，市場競爭概況](https://www.iphonetaiwan.org/2023/11/apple-india-smartphone-market-success.html)|
+|2023-11-03 05:53:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[YouTube 除了打擊廣告攔截器！Premium 還要漲價](https://www.iphonetaiwan.org/2023/11/youtube-premium-price-increase.html)|
 |2023-11-03 12:30:48|[V2EX](https://v2ex.com/index.xml)|[ 问与答 国内软件全没法正常联网了。。。求助](https://www.v2ex.com/t/988422#reply0)|
 |2023-11-03 12:18:39|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想找个老中医给号号脉](https://www.v2ex.com/t/988420#reply2)|
 |2023-11-03 12:14:58|[V2EX](https://v2ex.com/index.xml)|[ 问与答 请求 Clash Mac 客户端。](https://www.v2ex.com/t/988419#reply1)|
