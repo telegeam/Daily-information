@@ -1,7 +1,15 @@
-﻿# 每日资讯（2023-11-02）
+﻿# 每日资讯（2023-11-03）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-03 00:58:39|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 Java 转 GO 还是 Rust](https://www.v2ex.com/t/988098#reply5)|
+|2023-11-03 00:56:37|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 身边有 直 的朋友吗。怎么相处的](https://www.v2ex.com/t/988097#reply0)|
+|2023-11-03 00:55:12|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 110 期）：一个副业产品 24 小时内获得 12 万美元投资](https://www.v2ex.com/t/988095#reply0)|
+|2023-11-03 00:45:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大家用什么记账软件？](https://www.v2ex.com/t/988094#reply6)|
+|2023-11-03 00:16:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 进入决赛小米 s pro85 和鹤 7max 选哪个？](https://www.v2ex.com/t/988089#reply13)|
+|2023-11-03 00:07:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 朋友的孩子厌学，我该怎样帮她](https://www.v2ex.com/t/988088#reply34)|
+|2023-11-03 00:06:45|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 从 Intel Mac 转到 M2， MS Office 还是跳得欢](https://www.v2ex.com/t/988087#reply13)|
+|2023-11-03 00:36:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[内容行业的衰落](https://dig.chouti.com/link/40491033)|
 |2023-11-02 08:56:38|[煎蛋](http://jandan.net/feed)|[2021才发现的最简单的排序算法](http://jandan.net/p/114682)|
 |2023-11-02 23:31:36|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[护眼神器——CareUEyes 2.2.9学习版](https://masuit.com/2224)|
 |2023-11-02 23:30:57|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Cubase 13.0.10 Pro 学习版](https://masuit.com/1827)|
@@ -130,6 +138,7 @@
 |2023-11-02 02:17:02|[竹林里有冰的博客](https://zhul.in/rss.xml)|[通过巴法云将向日葵智能插座接入米家，实现小爱同学远程控制](https://zhul.in/2023/11/02/integrating-sunflower-smart-socket-with-mi-home-via-bemfa-cloud/)|
 |2023-11-02 05:32:21|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经｜中国最大奢侈品公司涨价；瑞幸还要接着价格战](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247508791&idx=2&sn=11e363bf88d724760ddb08755b2d6c3d)|
 |2023-11-02 05:32:20|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家｜1688 和闲鱼升级为淘天集团一级业务](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247508791&idx=1&sn=4c6f681f41b97d8fbe69c088c371ba62)|
+|2023-11-03 09:28:25|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[技术阅读周刊第第四期](http://crossoverjie.top/2023/11/03/ob/newsletter/Newsletter04-20231103/)|
 |2023-11-02 09:10:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 M3 晶片GeekBench測試出爐：性能再創高峰](https://www.iphonetaiwan.org/2023/11/m3-benchmarks.html)|
 |2023-11-02 08:54:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果為何放棄 Apple Watch Android 相容性計劃](https://www.iphonetaiwan.org/2023/11/blog-post_02.html)|
 |2023-11-02 03:26:53|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[招聘！蚂蚁集团招人啦](https://www.freebuf.com/jobs/382566.html)|
