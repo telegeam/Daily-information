@@ -2,6 +2,29 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-04 02:15:00|[Frank's Weblog](https://nyan.im/feed)|[教科书级别的云服务构建指南——「在一年内从零开始构建ClickHouse Cloud」一文的翻译与笔记](https://nyan.im/p/clickhouse-cloud)|
+|2023-11-04 12:03:00|[虎嗅](https://rss.huxiu.com/)|[三年狂砸440亿元搞体育，沙特到底在图什么？](https://www.huxiu.com/article/2256452.html?f=rss)|
+|2023-11-04 11:32:00|[虎嗅](https://rss.huxiu.com/)|[岳阳人的餐桌，活色生香](https://www.huxiu.com/article/2257333.html?f=rss)|
+|2023-11-04 11:29:16|[虎嗅](https://rss.huxiu.com/)|[省会城市经济实力比拼：福州超越西安挤进前十，成都增量第一](https://www.huxiu.com/article/2256451.html?f=rss)|
+|2023-11-04 11:24:54|[虎嗅](https://rss.huxiu.com/)|[线上税，正在大举收割消费者](https://www.huxiu.com/article/2256832.html?f=rss)|
+|2023-11-04 11:22:54|[虎嗅](https://rss.huxiu.com/)|[小鹏回应P5车主诉求：补偿2万代金券](https://www.huxiu.com/article/2256416.html?f=rss)|
+|2023-11-04 10:59:42|[虎嗅](https://rss.huxiu.com/)|[两场热战骑虎难下，美国兵工厂遭遇严重产能危机?](https://www.huxiu.com/article/2256102.html?f=rss)|
+|2023-11-04 10:54:20|[虎嗅](https://rss.huxiu.com/)|[烤包子，略大于整个宇宙](https://www.huxiu.com/article/2256058.html?f=rss)|
+|2023-11-04 10:52:47|[虎嗅](https://rss.huxiu.com/)|[在大时代里安顿身心：自然博物类读物带给我们的启示](https://www.huxiu.com/article/2255697.html?f=rss)|
+|2023-11-04 09:21:43|[虎嗅](https://rss.huxiu.com/)|[深圳大芬油画村，凭什么成为世界艺术品销售的主要市场？](https://www.huxiu.com/article/2256413.html?f=rss)|
+|2023-11-04 08:46:08|[虎嗅](https://rss.huxiu.com/)|[支持《完蛋！我被美女包围了！》的玩家，就是下头男吗？](https://www.huxiu.com/article/2254698.html?f=rss)|
+|2023-11-04 08:19:16|[虎嗅](https://rss.huxiu.com/)|[第二轮土地延包为何不能“一延了之”？](https://www.huxiu.com/article/2256419.html?f=rss)|
+|2023-11-04 08:14:00|[虎嗅](https://rss.huxiu.com/)|[一年减少2500万人，谁在“悄悄”断交居民医保？](https://www.huxiu.com/article/2253429.html?f=rss)|
+|2023-11-04 11:11:32|[Dennis](https://www.domon.cn/rss/)|[生活就是选择](https://www.domon.cn/sheng-huo-jiu-shi-xuan-ze/)|
+|2023-11-04 07:00:00|[触乐](http://www.chuapp.com/feed)|[周末玩什么：鸽子音游“大逃杀”，无法回归的“爱丽丝”，还有外星原始人“入侵”](http://www.chuapp.com/article/289606.html)|
+|2023-11-04 12:23:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[CSDN 的图床泄露了？](https://www.v2ex.com/t/988648#reply0)|
+|2023-11-04 10:27:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[红米 k40 比一加 8t 屏幕好 什么原因](https://www.v2ex.com/t/988621#reply12)|
+|2023-11-04 02:00:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于开源软件作者的激励问题](https://www.v2ex.com/t/988513#reply51)|
+|2023-11-04 02:16:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[程序员转行灵活就业做电商，怎么申报个税？](https://www.v2ex.com/t/988519#reply15)|
+|2023-11-04 04:19:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请问 Gboard 能设定中文输入法输入英文标点吗](https://www.v2ex.com/t/988552#reply13)|
+|2023-11-04 08:53:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最近在读 React 官方文档，读到「在渲染树中保留状态」这块了。文档提到，有两个示例程序是不同的，但没讲为什么。果然网上有一波人跟我有一模一样的困惑](https://www.v2ex.com/t/988602#reply9)|
+|2023-11-04 07:39:17|[fivestone](http://blog.fivest.one/feed)|[Nomadland – 6，燃气系统](https://blog.fivest.one/archives/6547)|
+|2023-11-04 11:38:57|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[docker-run vs docker-compose](https://www.edony.ink/docker-run-vs-docker-compose/)|
 |2023-11-04 07:09:03|[虎嗅](https://rss.huxiu.com/)|[年轻人的不快乐已经阻碍美国经济增长](https://www.huxiu.com/article/2256023.html?f=rss)|
 |2023-11-04 07:08:10|[虎嗅](https://rss.huxiu.com/)|[老城厢伟大的小商业：一家裁缝店的好奇心](https://www.huxiu.com/article/2254693.html?f=rss)|
 |2023-11-04 06:43:00|[虎嗅](https://rss.huxiu.com/)|[想提高记忆力？《无限记忆力》教你几招](https://www.huxiu.com/article/2252967.html?f=rss)|
