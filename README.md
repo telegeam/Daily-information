@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-05 08:22:15|[251 的魔法实验室](https://blog.251.sh/feed/)|[我的 10 个浏览器插件 & Userscripts 脚本推荐](https://blog.251.sh/my-top-ten-browser-extensions-and-userscripts)|
+|2023-11-05 06:19:25|[Diff客旅日记](https://diff.im/blog/?feed=rss2)|[做什么？](https://diff.im/blog/?p=1674)|
 |2023-11-05 01:40:26|[智识@IdeoBook™](http://www.ideobook.com/feed/)|[冯象：十有四而志于学](http://www.ideobook.com/3254/ambition-fourteen/)|
 |2023-11-05 07:04:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 活动资料下载 ｜ LLUG 成都场成功举办](https://linux.cn/article-16351-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-05 08:14:57|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 也撸了一个阿里云盘，百度网盘，夸克网盘资源搜索站](https://www.v2ex.com/t/988810#reply0)|
