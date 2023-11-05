@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-11-04）
+﻿# 每日资讯（2023-11-05）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-05 00:43:48|[V2EX](http://www.v2ex.com/index.xml)|[ Netflix 埃及🇪🇬Netflix 招车友 季付 30 元](https://www.v2ex.com/t/988723#reply0)|
 |2023-11-04 20:08:30|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 年纪轻轻的，就过起了望到头的养老生活](https://www.v2ex.com/t/988713#reply0)|
 |2023-11-04 19:47:08|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 关于 silicon mac 搭配 usb3 硬盘盒使用的问题](https://www.v2ex.com/t/988712#reply2)|
 |2023-11-04 18:56:48|[V2EX](https://www.v2ex.com/index.xml)|[ Android MIUI 中最后俩个开屏广告 百度网盘+微云 杀不掉,求广告域名列表?](https://www.v2ex.com/t/988711#reply0)|
