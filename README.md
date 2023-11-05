@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-05 15:50:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[微信能不能实现类似于 bot 的功能](https://www.v2ex.com/t/988885#reply6)|
+|2023-11-05 10:30:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么大部分程序员独立开发者都赚不到钱？](https://www.v2ex.com/t/988828#reply24)|
+|2023-11-05 14:57:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[在群晖上模拟静默错误并测试修复的实验，更正之前帖子中我错误的结论](https://www.v2ex.com/t/988874#reply1)|
+|2023-11-05 12:10:06|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点周末｜为什么说创新者都是熊彼特主义者？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247508860&idx=1&sn=928d68ea8ba52543ed9322414c3e7638)|
+|2023-11-05 09:27:23|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1176 Arm 收购了树莓派公司的少量股份，以免投向 RISC-V](https://linux.cn/article-16352-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-05 05:34:47|[晓空blog](https://blog.moeworld.tech/feed/)|[事情一堆近况&杂谈回 2023.11.5](https://blog.moeworld.tech/2023/11/05/%e4%ba%8b%e6%83%85%e4%b8%80%e5%a0%86%e8%bf%91%e5%86%b5%e6%9d%82%e8%b0%88%e5%9b%9e-2023-11-5/)|
+|2023-11-05 16:14:49|[V2EX](https://www.v2ex.com/index.xml)|[ 剧集 进击的巨人完结了](https://www.v2ex.com/t/988887#reply0)|
+|2023-11-05 16:02:13|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 墙是不是又加高了？](https://www.v2ex.com/t/988886#reply1)|
+|2023-11-05 14:47:04|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #15：微信被封](https://w2solo.com/topics/4231)|
 |2023-11-05 08:22:15|[251 的魔法实验室](https://blog.251.sh/feed/)|[我的 10 个浏览器插件 & Userscripts 脚本推荐](https://blog.251.sh/my-top-ten-browser-extensions-and-userscripts)|
 |2023-11-05 06:19:25|[Diff客旅日记](https://diff.im/blog/?feed=rss2)|[做什么？](https://diff.im/blog/?p=1674)|
 |2023-11-05 01:40:26|[智识@IdeoBook™](http://www.ideobook.com/feed/)|[冯象：十有四而志于学](http://www.ideobook.com/3254/ambition-fourteen/)|
