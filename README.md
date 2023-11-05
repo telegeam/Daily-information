@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-05 04:26:22|[physixfan](https://www.physixfan.com/feed)|[ChatGPT的画图模型DALL·E 3效果真的挺不错](https://www.physixfan.com/chatgptdehuahuamoxingdall/)|
+|2023-11-05 04:00:06|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《加油！李先生》：帅小伙8岁的智商却有7岁女儿，发现真相后大家都哭了！](https://www.ximalaya.com/sound/681250882)|
+|2023-11-05 15:00:00|[机核](https://www.gcores.com/rss)|[骑士团为何而战？《堕落之主》与西班牙黑色传说](https://www.gcores.com/radios/173329)|
+|2023-11-05 12:27:42|[机核](https://www.gcores.com/rss)|[节奏类音游《节奏医生》主线剧情第五幕免费更新已上线！](https://www.gcores.com/articles/173407)|
+|2023-11-05 11:21:32|[机核](https://www.gcores.com/rss)|[切蛋糕理论——如何在游戏任务中进行叙事](https://www.gcores.com/articles/173406)|
+|2023-11-05 10:37:22|[机核](https://www.gcores.com/rss)|[LPL三支队伍晋级《英雄联盟》全球总决赛四强创造历史，LNG止步八强](https://www.gcores.com/articles/173404)|
+|2023-11-05 10:17:00|[机核](https://www.gcores.com/rss)|[旅行、游戏、机核与歌（上）：ZA/UM、乌鸦、七姐妹与圣桑小教堂](https://www.gcores.com/articles/173400)|
+|2023-11-05 10:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#261：《魔法师学院》](https://www.gcores.com/articles/173380)|
+|2023-11-05 09:29:11|[机核](https://www.gcores.com/rss)|[关于《零》系列第三人称操作模式的演变](https://www.gcores.com/articles/173398)|
+|2023-11-05 08:51:25|[机核](https://www.gcores.com/rss)|[Joyce与Dylan的对比：艺术的复杂性与简单性，艺术的间接性与直接性](https://www.gcores.com/articles/173401)|
+|2023-11-05 06:20:00|[机核](https://www.gcores.com/rss)|[浅谈动作游戏战斗系统设计](https://www.gcores.com/articles/173346)|
+|2023-11-05 06:12:07|[机核](https://www.gcores.com/rss)|[壁纸摄影丨《往日之影》与《逆命殊途》自摄影壁纸级截图分享](https://www.gcores.com/articles/173094)|
+|2023-11-05 06:00:00|[机核](https://www.gcores.com/rss)|[圣巢为何深邃](https://www.gcores.com/articles/170483)|
+|2023-11-05 04:03:07|[机核](https://www.gcores.com/rss)|[《聚焦》：叙事 · 情绪 · 良知](https://www.gcores.com/articles/173389)|
+|2023-11-05 03:26:27|[机核](https://www.gcores.com/rss)|[跑团战报丨《晨昏湾的宝藏》Part3](https://www.gcores.com/articles/173390)|
+|2023-11-05 01:07:55|[机核](https://www.gcores.com/rss)|[《守望先锋》世界杯：沙特阿拉伯代表队3比2战胜中国代表队](https://www.gcores.com/articles/173386)|
+|2023-11-05 18:28:19|[V2EX](https://v2ex.com/index.xml)|[ Kubernetes 小白请教各路大佬，在 iptables 模式中， kube-proxy 的性能到底是受 service 数量的影响还是受 pod 数量的影响？](https://www.v2ex.com/t/988898#reply1)|
+|2023-11-05 18:01:55|[V2EX](https://v2ex.com/index.xml)|[ Apple 账号转区问题](https://www.v2ex.com/t/988895#reply2)|
+|2023-11-05 17:37:45|[V2EX](https://v2ex.com/index.xml)|[ 职场话题 年少不知大厂跪，老来望退空流泪](https://www.v2ex.com/t/988894#reply6)|
+|2023-11-05 17:26:05|[V2EX](https://v2ex.com/index.xml)|[ 问与答 双十一是怎么来的，为什么会选十一月十一日](https://www.v2ex.com/t/988893#reply3)|
+|2023-11-05 17:15:35|[V2EX](https://v2ex.com/index.xml)|[ 问与答 ChatGPT 重度用户们，大家现在都是怎么用 ChatGPT 的？](https://www.v2ex.com/t/988892#reply2)|
+|2023-11-05 17:07:21|[V2EX](https://v2ex.com/index.xml)|[ Linux 大佬们求助一个关于 Linux imgui 渲染的问题](https://www.v2ex.com/t/988891#reply0)|
+|2023-11-05 17:01:33|[V2EX](https://v2ex.com/index.xml)|[ 硬件 请推荐个二手便宜的，拿来远程（桌面）连接回主力机所用的上网本？ 可以丢失了也不心疼那种，但必须 2K 屏吧。。。](https://www.v2ex.com/t/988890#reply2)|
+|2023-11-05 16:59:00|[V2EX](https://v2ex.com/index.xml)|[ 问与答 请教一下这个 neovim 的发光主题是啥](https://www.v2ex.com/t/988889#reply2)|
+|2023-11-05 16:43:01|[V2EX](https://v2ex.com/index.xml)|[ Apple A17 Pro 和 M3 不支持 ARMv9 会影响未来软件的兼容性吗？](https://www.v2ex.com/t/988888#reply3)|
+|2023-11-05 16:14:49|[V2EX](https://v2ex.com/index.xml)|[ 剧集 进击的巨人完结了](https://www.v2ex.com/t/988887#reply3)|
+|2023-11-05 15:50:26|[V2EX](https://v2ex.com/index.xml)|[ 程序员 微信能不能实现类似于 bot 的功能](https://www.v2ex.com/t/988885#reply11)|
+|2023-11-05 15:42:50|[V2EX](https://v2ex.com/index.xml)|[ 深圳 哥哥们，睡觉开窗吗](https://www.v2ex.com/t/988884#reply5)|
+|2023-11-05 15:41:03|[V2EX](https://v2ex.com/index.xml)|[ 全球工单系统 腾讯网址中心人工申诉废了么，简直不胜其烦](https://www.v2ex.com/t/988883#reply0)|
+|2023-11-05 15:39:34|[V2EX](https://v2ex.com/index.xml)|[ Linux 有用 amd 7840h + Linux 的小伙伴吗？](https://www.v2ex.com/t/988882#reply4)|
+|2023-11-05 15:34:21|[V2EX](https://v2ex.com/index.xml)|[ OpenAI 什么是 ChatGPT Alpha 内测账号 GPT-4 All Tools ？](https://www.v2ex.com/t/988881#reply5)|
+|2023-11-05 15:27:00|[V2EX](https://v2ex.com/index.xml)|[ CentOS 你们如何读 CentOS](https://www.v2ex.com/t/988880#reply8)|
+|2023-11-05 15:21:05|[V2EX](https://v2ex.com/index.xml)|[ YouTube iOS 的 YouTube app 的小发现。](https://www.v2ex.com/t/988879#reply8)|
+|2023-11-05 15:14:45|[V2EX](https://v2ex.com/index.xml)|[ Android 有人遇到了 1password 无法显示内容都问题吗](https://www.v2ex.com/t/988878#reply3)|
+|2023-11-05 15:10:08|[V2EX](https://v2ex.com/index.xml)|[ 济南 济南有没有熟悉前后端想要兼职的 v 友](https://www.v2ex.com/t/988877#reply0)|
 |2023-11-05 15:50:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[微信能不能实现类似于 bot 的功能](https://www.v2ex.com/t/988885#reply6)|
 |2023-11-05 10:30:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么大部分程序员独立开发者都赚不到钱？](https://www.v2ex.com/t/988828#reply24)|
 |2023-11-05 14:57:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[在群晖上模拟静默错误并测试修复的实验，更正之前帖子中我错误的结论](https://www.v2ex.com/t/988874#reply1)|
