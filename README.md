@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-06 06:42:59|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[虚拟文件系统的资源惰性编译](https://blog.codingnow.com/2023/11/vfs_resource.html)|
+|2023-11-06 08:44:05|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1177 大多数使用 jQuery 的网站都运行着不再维护的版本](https://linux.cn/article-16355-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-06 10:37:24|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[离线KMS激活工具 HEU KMS Activator v41.2中文版](https://masuit.com/1508)|
+|2023-11-06 04:48:16|[13 報](https://ethanhuang13.substack.com/feed/)|[開發者週報 #208 iOS 開發配飯吃](https://www.ethanhuang13.com/p/208)|
 |2023-11-06 08:19:47|[V2EX](http://www.v2ex.com/index.xml)|[ 苏州 苏州科技城房子出租](https://www.v2ex.com/t/989170#reply0)|
 |2023-11-06 08:19:10|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 不在家时如知道到家里的动态公网 ip 是多少？](https://www.v2ex.com/t/989169#reply0)|
 |2023-11-06 08:19:02|[V2EX](http://www.v2ex.com/index.xml)|[ Windows 有没有 win11 上刷微博神器？](https://www.v2ex.com/t/989168#reply0)|
