@@ -2,6 +2,40 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-06 04:13:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩国院线推出的一些限量版电影票根](https://dig.chouti.com/link/40521645)|
+|2023-11-06 06:04:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不缺水的云南，为什么费这么大劲到金沙江调水？](https://dig.chouti.com/link/40522330)|
+|2023-11-06 13:15:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[根据统计预测，披头士乐团职业生涯最后一首新歌Now And Then本周将轻松空降英国单曲榜冠军，而且是巨大的优势空冠。这将是披头士职业生涯第18首冠单，也是他们时隔54年后的首支冠单。值得一提的是，官方确认AI帮助完成了这最后一首歌。](https://dig.chouti.com/link/40527203)|
+|2023-11-06 06:56:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为什么说创新者都是熊彼特主义者？](https://dig.chouti.com/link/40522914)|
+|2023-11-06 13:15:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[？？？（慎点️）](https://dig.chouti.com/link/40527154)|
+|2023-11-06 12:05:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[前“华北第一操盘手”李卫卫第四次被罚，操纵*ST金一领50万罚单](https://dig.chouti.com/link/40526298)|
+|2023-11-06 07:46:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【救护车送来一位全身黢黑的少女，主任看到也倒吸一口凉气】早在上个世纪 70 年代，我国的烧伤专家就考虑过使用新鲜野生型猪皮替代异体皮。但存在覆盖时间短、抗感染能力差的问题。救治团队最终制定了「多基因编辑猪皮联合自体皮片移植」为主的系列救治方案。](https://dig.chouti.com/link/40523573)|
+|2023-11-06 12:10:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[感受一下山东高速的防疲劳驾驶激光灯幕。。。不知效果如何](https://dig.chouti.com/link/40526500)|
+|2023-11-06 11:04:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[寺院住持称与女主播发生关系后被敲诈：涉案数百万，主播夫妇被诉](https://dig.chouti.com/link/40525630)|
+|2023-11-06 07:25:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[通车刚一个月，石家庄“网红桥”斜拉索断裂起火，建设单位：原因正在调查](https://dig.chouti.com/link/40523488)|
+|2023-11-06 08:04:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[青岛海牛沉浮30年：一家民营足球俱乐部的生存之道](https://dig.chouti.com/link/40523599)|
+|2023-11-06 11:16:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本NHK生活防灾频道发布的“48秒就可以理解的防熊对策（步行者篇）”，包括了不要仓皇转身逃跑、尽量保持目光接触逐渐远离、遇到威吓突进时要保持静止、万一被靠近要采取伏地姿势用双手护住头部、如果被熊翻过来一定要努力翻回去等等有用的知识……就是熊的画风有点潦草了](https://dig.chouti.com/link/40525985)|
+|2023-11-06 11:04:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[孙卓被拐案被告之一吴某光出狱，因包庇罪服刑二年，孙海洋：两被告至今未道歉](https://dig.chouti.com/link/40525634)|
+|2023-11-06 08:04:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【奇瑞捷豹路虎开启新一轮裁员，寒气席卷汽车圈】接近奇瑞捷豹路虎的人士说，今年初奇瑞捷豹路虎已经经历过一次裁员，“把外包都裁掉了，也零星裁掉了几个正式员工”。而这一次，裁员的风暴席卷了更多正式员工。](https://dig.chouti.com/link/40523583)|
+|2023-11-06 08:52:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[24个美院人画猫 会是什么样子](https://dig.chouti.com/link/40524211)|
+|2023-11-06 02:12:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一只成年苏卡达路龟的足部特写，被密密麻麻的角质层覆盖](https://dig.chouti.com/link/40520145)|
+|2023-11-06 02:48:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[无痛上班秘籍：学了职场头像学，领导再不给我派活了](https://dig.chouti.com/link/40520310)|
+|2023-11-06 04:04:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国开发出全固态热晶体管：可精确控制计算机芯片热量](https://dig.chouti.com/link/40521066)|
+|2023-11-06 03:06:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[AI能理解自己生成的东西吗? 在GPT-4、Midjourney上实验后，有人破案了](https://dig.chouti.com/link/40520754)|
+|2023-11-06 09:36:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阿斯麦：对中国市场明年业务非常乐观](https://dig.chouti.com/link/40524806)|
+|2023-11-06 10:07:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[前河南足协主席杨楠有重大犯罪嫌疑被立案调查，曾26岁任建业俱乐部老总，被称“美女老总”“河南足球功臣”](https://dig.chouti.com/link/40525307)|
+|2023-11-06 07:57:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[西湖大学创建医学院，免疫学家董晨院士任首任院长](https://dig.chouti.com/link/40523579)|
+|2023-11-06 09:13:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[权志龙简易药检结果呈阴性 后续或将进行精密鉴定](https://dig.chouti.com/link/40524769)|
+|2023-11-06 07:05:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网红涌向南通家纺城淘金：出厂价百元直播间标价千元，唯独不卖给本地人](https://dig.chouti.com/link/40523123)|
+|2023-11-06 04:10:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[哦哟…羞涩…o *////▽////* q](https://dig.chouti.com/link/40521517)|
+|2023-11-06 13:30:00|[触乐](http://www.chuapp.com/feed)|[一位游戏博主的“脚踏长征”](http://www.chuapp.com/article/289610.html)|
+|2023-11-06 12:05:11|[触乐](http://www.chuapp.com/feed)|[《三角洲行动》：沉浸枪战与博弈艺术](http://www.chuapp.com/article/289608.html)|
+|2023-11-06 11:11:44|[触乐](http://www.chuapp.com/feed)|[触乐夜话：碎片化信息传播带来的刻板印象](http://www.chuapp.com/article/289609.html)|
+|2023-11-06 10:01:53|[晚点LatePost](https://feedpress.me/wx-postlate)|[百度重整自动驾驶业务，换帅只是其中一步](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247508885&idx=2&sn=6d923e4a6418c1c9bd6bd49c0653c4a3)|
+|2023-11-06 10:01:53|[晚点LatePost](https://feedpress.me/wx-postlate)|[理想月销 4 万台，从 1 到 10 的满分答卷](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247508885&idx=1&sn=cb32c2e9375f0c6a5ec89a5a95ff9e44)|
+|2023-11-06 05:52:26|[Hi, I Am I](https://5ime.cn/atom.xml)|[Github Actions 自动化部署 Hexo](https://5ime.cn/hexo_auto_deploy.html)|
+|2023-11-06 09:02:45|[爱范儿](https://www.ifanr.com/feed)|[华为影像大赛揭晓获奖作品，XMAGE 诠释影像力量](https://www.ifanr.com/1567143?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-06 08:47:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Vision Pro 只有在蘋果直營店才買的到](https://www.iphonetaiwan.org/2023/11/apple-vision-pro-special-sales-strategy.html)|
+|2023-11-06 08:24:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 M3 系列晶片：花費 10 億美元的驚人成本](https://www.iphonetaiwan.org/2023/11/apple-m3-series-10-billion-investment-insights.html)|
 |2023-11-06 06:42:59|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[虚拟文件系统的资源惰性编译](https://blog.codingnow.com/2023/11/vfs_resource.html)|
 |2023-11-06 08:44:05|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1177 大多数使用 jQuery 的网站都运行着不再维护的版本](https://linux.cn/article-16355-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-06 10:37:24|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[离线KMS激活工具 HEU KMS Activator v41.2中文版](https://masuit.com/1508)|
