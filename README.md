@@ -2,6 +2,62 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-06 13:00:00|[机核](https://www.gcores.com/rss)|[太空安全 Vol.5丨快即安全：快速响应能力分析](https://www.gcores.com/radios/162614)|
+|2023-11-06 10:08:30|[机核](https://www.gcores.com/rss)|[PS5 Slim首批拆解视频放出，和原版PS5功耗一致](https://www.gcores.com/articles/173440)|
+|2023-11-06 09:30:00|[机核](https://www.gcores.com/rss)|[机组成员人才多 原创形象真不错](https://www.gcores.com/articles/172539)|
+|2023-11-06 09:00:00|[机核](https://www.gcores.com/rss)|[被美女包围有啥可完蛋的，录音笔 Vol.71](https://www.gcores.com/radios/173441)|
+|2023-11-06 19:44:52|[V2EX](https://www.v2ex.com/index.xml)|[ 哔哩哔哩 影视飓风的文案](https://www.v2ex.com/t/989319#reply0)|
+|2023-11-06 19:21:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 新浪微博是什么 SX 逻辑，香港手机号注册了微博却不能登录](https://www.v2ex.com/t/989318#reply0)|
+|2023-11-06 18:56:00|[V2EX](https://www.v2ex.com/index.xml)|[ Chrome Chrome 安卓是真的折磨](https://www.v2ex.com/t/989317#reply0)|
+|2023-11-06 18:51:25|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 思维导图,和 markdown 笔记和双向链接](https://www.v2ex.com/t/989316#reply0)|
+|2023-11-06 18:28:12|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 好玩有用的独立产品与开源项目 - 独立产品灵感周刊 DecoHack #055](https://www.v2ex.com/t/989315#reply0)|
+|2023-11-06 17:19:25|[V2EX](https://www.v2ex.com/index.xml)|[ Apple macOS Sonoma 14.2 beta, 合上盖子再打开, 无法上网](https://www.v2ex.com/t/989314#reply0)|
+|2023-11-06 17:11:50|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 谁分享下那个 Type-C 全功能数据线分享帖子](https://www.v2ex.com/t/989313#reply0)|
+|2023-11-06 17:09:14|[V2EX](https://www.v2ex.com/index.xml)|[ Google 土耳其 google one 涨价影响续费不](https://www.v2ex.com/t/989312#reply1)|
+|2023-11-06 17:05:20|[V2EX](https://www.v2ex.com/index.xml)|[ YouTube youtube premium 车， holder 是乌克兰区](https://www.v2ex.com/t/989311#reply0)|
+|2023-11-06 16:52:25|[V2EX](https://www.v2ex.com/index.xml)|[ iOS 我以损失拍摄大半天的迪士尼照片为代价得出了 iOS 剩余存储空间就是放屁的结论](https://www.v2ex.com/t/989309#reply13)|
+|2023-11-06 16:50:05|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud 土区 iCloud 2T 开车](https://www.v2ex.com/t/989308#reply0)|
+|2023-11-06 16:36:20|[V2EX](https://www.v2ex.com/index.xml)|[ Java Java 有办法实现，变量级别这种细颗粒度的锁吗？有第三方库就更好了](https://www.v2ex.com/t/989307#reply10)|
+|2023-11-06 16:35:26|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 抖音上瘾了怎么办，怎么戒掉](https://www.v2ex.com/t/989306#reply3)|
+|2023-11-06 16:29:45|[V2EX](https://www.v2ex.com/index.xml)|[ Apple ￥ 9200 的 M1Pro， 12000 的 M2 Pro， 12500 的 M3， 14500 的 M3 Pro 怎么选？](https://www.v2ex.com/t/989305#reply0)|
+|2023-11-06 16:11:45|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 14pm 有 AC+，电池健康度 85%，如何才能换电池？难道非要手动把屏幕砸碎？](https://www.v2ex.com/t/989303#reply0)|
+|2023-11-06 15:58:43|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 今天出了好多的 M3， M3 Max 评测，为啥不见 M3 Pro 呢？](https://www.v2ex.com/t/989302#reply6)|
+|2023-11-06 15:57:39|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 路由器访问不了百度、知乎、小红书……一通乱按莫名修好，但想知道这是怎么好的](https://www.v2ex.com/t/989301#reply2)|
+|2023-11-06 15:53:13|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 「080808185500_085_北京奧運 2008 開幕禮 直播 .ts」这个资源还有人有嘛，求补个种](https://www.v2ex.com/t/989300#reply0)|
+|2023-11-06 15:52:17|[V2EX](https://www.v2ex.com/index.xml)|[ Google 土区 google play 凉了?](https://www.v2ex.com/t/989299#reply3)|
+|2023-11-06 15:48:38|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请教大家问题---甲方让你先干活，后付款，你们愿意接此活？](https://www.v2ex.com/t/989298#reply6)|
+|2023-11-06 15:48:31|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 求一份远程工作 可上夜班， 9 年后端，主要 Java .Net，也可接受转岗 Python , Golang](https://www.v2ex.com/t/989297#reply0)|
+|2023-11-06 15:40:50|[V2EX](https://www.v2ex.com/index.xml)|[ macOS WallpaperVideoExtension 进程如何禁止](https://www.v2ex.com/t/989295#reply0)|
+|2023-11-06 15:35:34|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 准备保留编制 3 年搞街头艺术，卖唱器材的选择？](https://www.v2ex.com/t/989294#reply0)|
+|2023-11-06 15:34:39|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 上海联通光猫的管理员密码改了](https://www.v2ex.com/t/989293#reply3)|
+|2023-11-06 15:32:43|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 MacBook 外接显示器后是否还需要配一个桌面音箱？](https://www.v2ex.com/t/989292#reply2)|
+|2023-11-06 15:30:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 自己弄个小公司是本地找代理注册好还是在阿里云这种平台上的虚拟园区注册好](https://www.v2ex.com/t/989291#reply2)|
+|2023-11-06 15:23:15|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 我想实现一个流量伪装（或流量混淆）的方法，目的就是让我发出去的特殊流量和平时发出去的普通的流量看起来一样，最好很难被识别出来，有相关的技术或者开源的代码推荐吗，找了好久找不到合适的。](https://www.v2ex.com/t/989290#reply0)|
+|2023-11-06 15:21:36|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 29 岁的迷茫](https://www.v2ex.com/t/989289#reply5)|
+|2023-11-06 15:16:26|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 戴了一天 watch，确实是挺好的东西，就是除了提醒微信消息其他的暂时没用上](https://www.v2ex.com/t/989288#reply4)|
+|2023-11-06 15:15:26|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求类似 TG 的 GV 分流规则](https://www.v2ex.com/t/989287#reply0)|
+|2023-11-06 15:05:57|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 分享牙齿矫正三年的账单情况](https://www.v2ex.com/t/989284#reply1)|
+|2023-11-06 15:00:35|[V2EX](https://www.v2ex.com/index.xml)|[ 成都 现在是置换房子的好时机吗?](https://www.v2ex.com/t/989281#reply1)|
+|2023-11-06 14:41:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 马上要搬进新家了，耐用舒服的真皮沙发求推荐！](https://www.v2ex.com/t/989280#reply0)|
+|2023-11-06 14:36:13|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 极客湾: M3 系列评测](https://www.v2ex.com/t/989279#reply11)|
+|2023-11-06 14:26:26|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 被 Microsoft Authenticator 坑惨了，所有 2FA 全丢了](https://www.v2ex.com/t/989278#reply44)|
+|2023-11-06 14:21:26|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 做了个一站式 Bilibili 音乐下载器，以下是我的思考](https://www.v2ex.com/t/989277#reply8)|
+|2023-11-06 14:06:16|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 快男：钟文泽 M3 Max MacBook Pro 开箱：一台好用电脑的使命](https://www.v2ex.com/t/989275#reply1)|
+|2023-11-06 14:00:42|[V2EX](https://www.v2ex.com/index.xml)|[ DNS 第一次用 HW 手机设置安全 dns（dot），大家有这个情况吗？（虚假的查询）](https://www.v2ex.com/t/989274#reply1)|
+|2023-11-06 13:55:39|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求坐標](https://www.v2ex.com/t/989273#reply1)|
+|2023-11-06 13:48:41|[V2EX](https://www.v2ex.com/index.xml)|[ Python 求个大佬，帮我看看这个问题](https://www.v2ex.com/t/989272#reply2)|
+|2023-11-06 13:44:00|[V2EX](https://www.v2ex.com/index.xml)|[ 路由器 TP 无线路由器关于 ipv6 的一个奇葩问题，此路由器的 WAN 口上有 ipv6 网络，接 LAN 可以使用 ipv6，但是连 wifi 就不行，请教是什么原因？](https://www.v2ex.com/t/989271#reply1)|
+|2023-11-06 13:43:48|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 广州电信宽带 ipv6 问题，详细测试贴出来了](https://www.v2ex.com/t/989270#reply15)|
+|2023-11-06 13:35:53|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 字节跳动 剪映 CapCut 用户增长服务端大量招聘！](https://www.v2ex.com/t/989269#reply2)|
+|2023-11-06 13:34:46|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI ChatGPT 封号注意事项](https://www.v2ex.com/t/989268#reply2)|
+|2023-11-06 13:32:47|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 苹果因为我的 Airpods pro2 电池有问题，拒保了 AC+？](https://www.v2ex.com/t/989267#reply5)|
+|2023-11-06 13:31:06|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 Windows 的 Alfred， Wox v2 来了](https://www.v2ex.com/t/989266#reply0)|
+|2023-11-06 13:28:59|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 基于 Redis 作者 antirez 的 smallchat 项目开发了 Go 语言版本](https://www.v2ex.com/t/989265#reply0)|
+|2023-11-06 13:21:05|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有好用的 TODO 软件推荐吗](https://www.v2ex.com/t/989264#reply3)|
+|2023-11-06 13:08:31|[V2EX](https://www.v2ex.com/index.xml)|[  WATCH Watch OS 10 如何左右滑动切换表盘](https://www.v2ex.com/t/989263#reply2)|
+|2023-11-06 12:59:52|[V2EX](https://www.v2ex.com/index.xml)|[ Android Mate 60 Pro 为什么不做原彩模式？](https://www.v2ex.com/t/989260#reply0)|
+|2023-11-06 06:56:25|[小众软件](https://www.appinn.com/feed/)|[魔芋爽 – 俗话说：上班摸鱼一时爽，一直摸鱼一直爽｜上班摸鱼看小说 Windows ](https://www.appinn.com/moyushuang/)|
+|2023-11-06 08:25:44|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AI 助手背后的体验设计：从 AI 写作和编程的辅助增强说起](http://www.phodal.com/blog/llm-assistant-tool-design/)|
 |2023-11-06 04:13:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩国院线推出的一些限量版电影票根](https://dig.chouti.com/link/40521645)|
 |2023-11-06 06:04:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不缺水的云南，为什么费这么大劲到金沙江调水？](https://dig.chouti.com/link/40522330)|
 |2023-11-06 13:15:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[根据统计预测，披头士乐团职业生涯最后一首新歌Now And Then本周将轻松空降英国单曲榜冠军，而且是巨大的优势空冠。这将是披头士职业生涯第18首冠单，也是他们时隔54年后的首支冠单。值得一提的是，官方确认AI帮助完成了这最后一首歌。](https://dig.chouti.com/link/40527203)|
