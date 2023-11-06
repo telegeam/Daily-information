@@ -1,7 +1,27 @@
-﻿# 每日资讯（2023-11-05）
+﻿# 每日资讯（2023-11-06）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-06 01:10:08|[V2EX](https://v2ex.com/index.xml)|[ 程序员 下周从英国回来，有需要 giffgaff 卡的同学可以跟我说哈，纯帮忙，我回来后顺丰到付给您](https://www.v2ex.com/t/988928#reply0)|
+|2023-11-06 01:08:37|[V2EX](https://v2ex.com/index.xml)|[ macOS Mac 如何在切换 WiFi 时自动触发快捷指令？](https://www.v2ex.com/t/988927#reply0)|
+|2023-11-06 01:07:10|[V2EX](https://v2ex.com/index.xml)|[ 云计算 阿里云的销售打电话推销来了](https://www.v2ex.com/t/988926#reply0)|
+|2023-11-06 01:07:02|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 多年后端程序员，学习做 GUI 小工具，做了个简单的博客客户端，欢迎交流学习](https://www.v2ex.com/t/988925#reply0)|
+|2023-11-06 01:05:26|[V2EX](https://v2ex.com/index.xml)|[ 问与答 装破解软件的时候怎么预防病毒？](https://www.v2ex.com/t/988923#reply0)|
+|2023-11-06 01:04:03|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 多多买菜退款被 pdd 驳回了！](https://www.v2ex.com/t/988922#reply2)|
+|2023-11-06 01:02:06|[V2EX](https://v2ex.com/index.xml)|[ 问与答 Shadowrocket 里的 websocket 怎样设置？](https://www.v2ex.com/t/988920#reply0)|
+|2023-11-06 01:00:41|[V2EX](https://v2ex.com/index.xml)|[ 程序员 如何给 docker-compose 添加自定义 CA](https://www.v2ex.com/t/988919#reply2)|
+|2023-11-06 00:59:53|[V2EX](https://v2ex.com/index.xml)|[ Python 调用 API 调用烦了，就写了个小工具](https://www.v2ex.com/t/988918#reply1)|
+|2023-11-06 00:57:56|[V2EX](https://v2ex.com/index.xml)|[ Apple 求 Apple one 美区车](https://www.v2ex.com/t/988917#reply0)|
+|2023-11-06 00:52:57|[V2EX](https://v2ex.com/index.xml)|[ 问与答 好奇问下日本生活的朋友，日本人每餐吃那么少吗？](https://www.v2ex.com/t/988915#reply6)|
+|2023-11-06 00:52:11|[V2EX](https://v2ex.com/index.xml)|[ 问与答 大家多久没用 QQ 了？](https://www.v2ex.com/t/988914#reply11)|
+|2023-11-06 00:51:12|[V2EX](https://v2ex.com/index.xml)|[ iCloud icloud 2t 国区 新车](https://www.v2ex.com/t/988913#reply1)|
+|2023-11-06 00:51:11|[V2EX](https://v2ex.com/index.xml)|[ NAS 手机 照片 NAS 备份终极方案](https://www.v2ex.com/t/988912#reply5)|
+|2023-11-06 00:50:56|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 牙齿矫正的花费超乎想象](https://www.v2ex.com/t/988911#reply6)|
+|2023-11-06 00:45:37|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有没有“一键关闭安卓手机自带广告”的 app？](https://www.v2ex.com/t/988910#reply4)|
+|2023-11-06 00:33:04|[V2EX](https://v2ex.com/index.xml)|[ 操作系统 以后还有一方净土的操作系统么](https://www.v2ex.com/t/988909#reply7)|
+|2023-11-06 00:16:16|[V2EX](https://v2ex.com/index.xml)|[ Cloudflare Cloudflare 的免费证书在不使用代理的情况下无法使用](https://www.v2ex.com/t/988907#reply1)|
+|2023-11-06 00:13:56|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 今年的软考高级架构主打一个随性，以后刷题没用了，都背书了](https://www.v2ex.com/t/988906#reply12)|
+|2023-11-06 00:01:11|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 写了一个小故事](https://www.v2ex.com/t/988903#reply8)|
 |2023-11-05 04:26:22|[physixfan](https://www.physixfan.com/feed)|[ChatGPT的画图模型DALL·E 3效果真的挺不错](https://www.physixfan.com/chatgptdehuahuamoxingdall/)|
 |2023-11-05 04:00:06|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《加油！李先生》：帅小伙8岁的智商却有7岁女儿，发现真相后大家都哭了！](https://www.ximalaya.com/sound/681250882)|
 |2023-11-05 15:00:00|[机核](https://www.gcores.com/rss)|[骑士团为何而战？《堕落之主》与西班牙黑色传说](https://www.gcores.com/radios/173329)|
@@ -43,6 +63,7 @@
 |2023-11-05 12:10:06|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点周末｜为什么说创新者都是熊彼特主义者？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247508860&idx=1&sn=928d68ea8ba52543ed9322414c3e7638)|
 |2023-11-05 09:27:23|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1176 Arm 收购了树莓派公司的少量股份，以免投向 RISC-V](https://linux.cn/article-16352-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-05 05:34:47|[晓空blog](https://blog.moeworld.tech/feed/)|[事情一堆近况&杂谈回 2023.11.5](https://blog.moeworld.tech/2023/11/05/%e4%ba%8b%e6%83%85%e4%b8%80%e5%a0%86%e8%bf%91%e5%86%b5%e6%9d%82%e8%b0%88%e5%9b%9e-2023-11-5/)|
+|2023-11-06 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第152期 - 赛博红桥](https://weekly.tw93.fun/posts/152-%E8%B5%9B%E5%8D%9A%E7%BA%A2%E6%A1%A5/)|
 |2023-11-05 16:14:49|[V2EX](https://www.v2ex.com/index.xml)|[ 剧集 进击的巨人完结了](https://www.v2ex.com/t/988887#reply0)|
 |2023-11-05 16:02:13|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 墙是不是又加高了？](https://www.v2ex.com/t/988886#reply1)|
 |2023-11-05 14:47:04|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #15：微信被封](https://w2solo.com/topics/4231)|
