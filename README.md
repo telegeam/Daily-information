@@ -2,6 +2,56 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-07 08:55:44|[小众软件](https://www.appinn.com/feed/)|[CudaText – 开源多功能的文本编辑器（Sublime Text 开源平替）](https://www.appinn.com/cudatext/)|
+|2023-11-07 20:16:09|[V2EX](https://www.v2ex.com/index.xml)|[ iPad iPad Pro 啥时候发新款](https://www.v2ex.com/t/989709#reply0)|
+|2023-11-07 18:54:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 BTC 现货 ETF 获得批准上市意味着什么？](https://www.v2ex.com/t/989707#reply0)|
+|2023-11-07 18:34:24|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 speedtest 的测速排名哪里去了？](https://www.v2ex.com/t/989706#reply0)|
+|2023-11-07 18:05:43|[V2EX](https://www.v2ex.com/index.xml)|[ 优惠信息 Proton Mail 黑五折扣来了，六七折（33% off）](https://www.v2ex.com/t/989705#reply2)|
+|2023-11-07 17:43:18|[V2EX](https://www.v2ex.com/index.xml)|[ 随想 一个人在海底捞过生日是怎么样的体验？](https://www.v2ex.com/t/989704#reply2)|
+|2023-11-07 17:23:38|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 想问问，电商必须捆绑直播带货吗？](https://www.v2ex.com/t/989702#reply1)|
+|2023-11-07 17:02:27|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 赛博洁癖怎么治?](https://www.v2ex.com/t/989701#reply4)|
+|2023-11-07 16:30:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 怎样摆脱/排解/优化/改善这种揪心的感觉？](https://www.v2ex.com/t/989699#reply0)|
+|2023-11-07 16:27:37|[V2EX](https://www.v2ex.com/index.xml)|[ Windows 很好奇，为何一部分人非要使用 CPU 是基于 ARM 架构的 Windows 10 或 11？](https://www.v2ex.com/t/989698#reply10)|
+|2023-11-07 16:18:31|[V2EX](https://www.v2ex.com/index.xml)|[ Apple MacBook Pro 14-inch M3 Max 14C 简单体验](https://www.v2ex.com/t/989696#reply4)|
+|2023-11-07 16:05:47|[V2EX](https://www.v2ex.com/index.xml)|[ 前端开发 一个关于 Ant Design 复杂表单设计的问题](https://www.v2ex.com/t/989695#reply1)|
+|2023-11-07 15:58:11|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 各位 Arch Linux 大佬进来下，这个 git clone aur 仓库怎么加速，好慢啊，而且国内机器好容易报错](https://www.v2ex.com/t/989694#reply8)|
+|2023-11-07 15:52:40|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 很好奇，如果分配的上行带宽比下行带宽大，对网络中的实际应用有什么影响？](https://www.v2ex.com/t/989693#reply2)|
+|2023-11-07 15:47:16|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求教个简单的 C++ 语法问题](https://www.v2ex.com/t/989690#reply7)|
+|2023-11-07 07:22:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[改变命运这件事情是很重要的，但是改变命运不能等同于个体的阶层流动。我不觉得职校生实现阶层跃迁才是成功，而是，我今天所付出的劳动值得一个有保障的待遇，值得一个别人的尊敬，我应该是一个有尊严的劳动者丨梁自存，HOPE学堂创办人](https://dig.chouti.com/link/40535303)|
+|2023-11-07 11:12:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[reddit上的脑洞帖：你希望自己人生的最后一句话是啥？](https://dig.chouti.com/link/40537885)|
+|2023-11-07 12:05:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我在缅北这五年：教贫困学生识字，与电诈园区为邻](https://dig.chouti.com/link/40538173)|
+|2023-11-07 13:05:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在股市泡沫中，牛顿真的亏了2万英镑吗？](https://dig.chouti.com/link/40538839)|
+|2023-11-07 12:36:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[上海：在中心城区的特定时段、路段试点运营自动驾驶公交](https://dig.chouti.com/link/40538487)|
+|2023-11-07 01:05:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[加拿大男子种出一根长2.4米、直径0.12米的西葫芦：“充足光照和水”是种植秘诀](https://dig.chouti.com/link/40530895)|
+|2023-11-07 05:40:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[万科无小事｜“是有机构做空还是真的看空？”一位熟悉地产行业资本市场的人士向作者提出疑问，“如果是做空，应该有对应的获利工具。”或许只有万科和做市商知道这场“做空阻击战”的真实面目。而上述人士称：“万科能撑多久，这不仅是万科的问题，也关乎整个地产圈。](https://dig.chouti.com/link/40534130)|
+|2023-11-07 12:38:38|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[韩国黑色喜剧《无声》：社会边缘人的生存状态，很残酷也很真实！](https://www.ximalaya.com/sound/682082017)|
+|2023-11-07 16:20:12|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪独家｜新造车2024销量预测：理想超80万辆，蔚来务实、小鹏增长100%](https://36kr.com/p/2501044328753415)|
+|2023-11-07 16:20:12|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[阿里、菜鸟参与百世私有化，百世集团股价盘前涨超10%｜最前线](https://36kr.com/p/2507604868514049)|
+|2023-11-07 17:16:26|[机核](https://www.gcores.com/rss)|[《死亡搁浅》四周年纪念，游戏主要角色演员发来祝福](https://www.gcores.com/articles/173515)|
+|2023-11-07 15:00:00|[机核](https://www.gcores.com/rss)|[“这个硬核项目能走到今天，我们也很意外”：《钢岚》的开发者们 CLIPS Vol：13](https://www.gcores.com/radios/173330)|
+|2023-11-07 14:17:36|[机核](https://www.gcores.com/rss)|[机核车队出赛！原创科幻短片 Solar Pulse 太阳脉冲 ](https://www.gcores.com/videos/173477)|
+|2023-11-07 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：俱往矣（下）](https://www.gcores.com/radios/173437)|
+|2023-11-07 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：俱往矣（上）](https://www.gcores.com/radios/173436)|
+|2023-11-07 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：仁慈](https://www.gcores.com/radios/173435)|
+|2023-11-07 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：坐困愁城](https://www.gcores.com/radios/173434)|
+|2023-11-07 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：领袖](https://www.gcores.com/radios/173433)|
+|2023-11-07 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：斯凯林之椅](https://www.gcores.com/radios/173432)|
+|2023-11-07 10:19:15|[机核](https://www.gcores.com/rss)|[聚焦中国游戏产业发展 纪录片《中国游戏纪事》11月8日播出](https://www.gcores.com/articles/173501)|
+|2023-11-07 10:00:00|[机核](https://www.gcores.com/rss)|[这袜子卖么？办公出行好伴侣，这次全靠他们了！丨恰到好处拆快递](https://www.gcores.com/videos/173492)|
+|2023-11-07 09:57:52|[机核](https://www.gcores.com/rss)|[API收费过高:索尼即将取消主机X 推特 分享集成](https://www.gcores.com/articles/173499)|
+|2023-11-07 09:39:31|[机核](https://www.gcores.com/rss)|[血腥第一人称射击《海参2》今日推出豪华版](https://www.gcores.com/articles/173498)|
+|2023-11-07 09:30:51|[机核](https://www.gcores.com/rss)|[晚餐已备好：《同舟共济》现已推出免费更新“鱼和船舶”](https://www.gcores.com/articles/173495)|
+|2023-11-07 09:26:52|[机核](https://www.gcores.com/rss)|[数字业务利润下滑：万代南梦宫公布23~24上半财年财报](https://www.gcores.com/articles/173487)|
+|2023-11-07 09:00:00|[机核](https://www.gcores.com/rss)|[半场香槟，录音笔 Vol.72](https://www.gcores.com/radios/173475)|
+|2023-11-07 09:00:00|[机核](https://www.gcores.com/rss)|[JOYTOY战锤荷鲁斯大叛乱新品公布：罗格·多恩参战](https://www.gcores.com/articles/173467)|
+|2023-11-07 07:50:54|[机核](https://www.gcores.com/rss)|[营业额上涨、营业利润下降：SE公布23~24财年上半财年财报](https://www.gcores.com/articles/173478)|
+|2023-11-07 07:22:20|[机核](https://www.gcores.com/rss)|[《王国之泪》销量1950万：任天堂公布23~24财年上半财年财报](https://www.gcores.com/articles/173476)|
+|2023-11-07 06:16:55|[机核](https://www.gcores.com/rss)|[《黎明前20分钟》衍生作，动作肉鸽游戏《20MTD: Emberpath》Steam页面公开](https://www.gcores.com/articles/173474)|
+|2023-11-07 15:33:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 Graphite：由 AI 助力的基于网络的开源矢量图形编辑器](https://linux.cn/article-16359-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-07 11:58:44|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1178 Linux 系统也将出现 “蓝屏死机”](https://linux.cn/article-16358-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-07 09:24:31|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 如何在 Vim 中剪切、复制和粘贴](https://linux.cn/article-16357-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-07 08:58:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 红帽的付费墙让开源社区产生裂痕](https://linux.cn/article-16356-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-07 11:44:13|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[或许这是一个结束，或许只是一个开始](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892218&idx=1&sn=60aad9390801275fa38620f0d5978634)|
 |2023-11-07 12:50:00|[OreChou's Batcave](https://orechou.live/atom.xml)|[写在巨人完结之后](https://orechou.live/2023/50-attack-on-titan/)|
 |2023-11-07 16:18:31|[V2EX](https://www.v2ex.com/index.xml)|[ Apple MacBook Pro 14-inch M3 Max 14C 简单体验](https://www.v2ex.com/t/989696#reply0)|
 |2023-11-07 16:05:47|[V2EX](https://www.v2ex.com/index.xml)|[ 前端开发 一个关于 Ant Design 复杂表单设计的问题](https://www.v2ex.com/t/989695#reply0)|
