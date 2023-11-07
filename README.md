@@ -2,6 +2,51 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-07 06:12:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[WSA（Windows Subsystem for Android）出了这么久了，有没有大佬来分享一下使用感受的？](https://www.v2ex.com/t/989489#reply17)|
+|2023-11-07 11:41:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[从外包离场了，没有办公地点怎么打卡？](https://www.v2ex.com/t/989639#reply1)|
+|2023-11-07 02:44:11|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[N100、树莓派、J64XX，选择困难了](https://www.v2ex.com/t/989403#reply62)|
+|2023-11-07 02:38:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[哪个软件让你用起来感觉特别舒服，看见就发自内心的喜欢](https://www.v2ex.com/t/989398#reply288)|
+|2023-11-07 08:06:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[调用好几个外部接口组成的事务，怎么优雅的去处理](https://www.v2ex.com/t/989552#reply7)|
+|2023-11-07 08:16:40|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Niche Finder 一款全能 SEO 伙伴，提供一站式解决方案](https://w2solo.com/topics/4234)|
+|2023-11-07 12:23:35|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 字节跳动 智能编程助手研发工程师](https://www.v2ex.com/t/989652#reply1)|
+|2023-11-07 12:16:57|[V2EX](https://v2ex.com/index.xml)|[ iCloud icloud 组区的问题 请教](https://www.v2ex.com/t/989651#reply0)|
+|2023-11-07 12:13:16|[V2EX](https://v2ex.com/index.xml)|[ 问与答 iOS 端 Quantumult X， Loon， Stash， Loon 四大代理工具选择困难，求教](https://www.v2ex.com/t/989650#reply10)|
+|2023-11-07 12:12:17|[V2EX](https://v2ex.com/index.xml)|[ 问与答 大量 ping TCPping 算攻击吗？会被拉黑吗？](https://www.v2ex.com/t/989649#reply0)|
+|2023-11-07 12:10:57|[V2EX](https://v2ex.com/index.xml)|[ Apple 各位的 15pro / pm 目前有碎的嘛？这代的 ac+ 是否值得购入？](https://www.v2ex.com/t/989648#reply0)|
+|2023-11-07 12:08:24|[V2EX](https://v2ex.com/index.xml)|[ Android 发现 gboard 有五笔了，但是平板还是没有单手模式](https://www.v2ex.com/t/989647#reply0)|
+|2023-11-07 11:59:11|[V2EX](https://v2ex.com/index.xml)|[ 程序员 程序员如何写好一份简历](https://www.v2ex.com/t/989645#reply0)|
+|2023-11-07 11:53:49|[V2EX](https://v2ex.com/index.xml)|[ 问与答 大佬们现在怎么开 tg 会员最便宜](https://www.v2ex.com/t/989643#reply0)|
+|2023-11-07 11:46:25|[V2EX](https://v2ex.com/index.xml)|[ OpenAI 如何开通官方 API？](https://www.v2ex.com/t/989642#reply3)|
+|2023-11-07 11:44:52|[V2EX](https://v2ex.com/index.xml)|[  WATCH 天气冷了 Apple Watch 充电速度令人发指](https://www.v2ex.com/t/989641#reply2)|
+|2023-11-07 11:41:19|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 做了一个下载 m3u8 视频的 Chrome 插件](https://www.v2ex.com/t/989640#reply0)|
+|2023-11-07 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[长期评测｜索尼 Alpha 6700 相机和 ECM-M1 数字音频枪型麦克风](https://www.photoworld.com.cn/post/175003)|
+|2023-11-07 03:01:33|[Tinyfool的个人网站](https://codechina.org/feed/)|[ChatGPT又发布了一堆新功能，普通人在AI时代应该如何应对](https://codechina.org/2023/11/chatgpt-man/)|
+|2023-11-07 11:05:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[志愿者讲述卧底襄阳健桥医院经历：曾劝院长员工去自首](https://dig.chouti.com/link/40537596)|
+|2023-11-07 11:13:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[今天Coldplay演唱会上Chris又提到了来中国开演唱会的事。他说希望有天能到中国开演唱会，we just need the permission](https://dig.chouti.com/link/40537904)|
+|2023-11-07 05:52:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【被“出租”的残疾证】虚假挂靠残疾证背后，是一个由用人单位、劳务公司、蛇头、残疾人组成的“产业链”。](https://dig.chouti.com/link/40534133)|
+|2023-11-07 06:16:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[二十世纪六十年代，Maurice Zalewski镜头下巴黎圣丹尼斯街区上的站街女](https://dig.chouti.com/link/40534636)|
+|2023-11-07 10:10:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[已经成精 大家小心](https://dig.chouti.com/link/40537287)|
+|2023-11-07 06:15:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[柯基放屁崩飞澡盆里的球……噢~斯米马赛~我自己都没想到~](https://dig.chouti.com/link/40534607)|
+|2023-11-07 10:09:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【5.10事件与上海国际电影节】@肥啾电影：上海国际电影节，中国唯一A类电影节，丧失了选片自主权，看这篇文章的意思，北京电影节也没有选片自主权。5.10事件就是上影节官宣展映《瞬息全宇宙》。](https://dig.chouti.com/link/40537254)|
+|2023-11-07 09:21:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【存量房贷利率降不了？河南濮阳多人贷款买房被银行办成消费贷】近日，多位河南濮阳市民反映，自己的存量首套房贷利率降不了，一问才知，已经还了两年多的房贷竟是消费贷。记者调查发现，濮阳两家农商银行在2021年大量发放消费贷，而这些本该助力消费的贷款最终流向了房地产市场。](https://dig.chouti.com/link/40536707)|
+|2023-11-07 06:15:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[让bing画画，主题是《好烦啊，明天又要上班了》。风格分别是：浮世绘、毕加索、莫奈、原始人岩画和敦煌。](https://dig.chouti.com/link/40534618)|
+|2023-11-07 08:36:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[IMF将中国2023年GDP增速预测从5%上调至5.4%，2024年从4.2%上调至4.6%](https://dig.chouti.com/link/40536044)|
+|2023-11-07 09:11:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[字节VR业务PICO裁员靴子落地：仅保住核心团队，维持正常运营](https://dig.chouti.com/link/40536585)|
+|2023-11-07 07:05:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“网红”鼻吸能量棒靠谱吗？专家：不建议反复经常使用](https://dig.chouti.com/link/40534945)|
+|2023-11-07 06:31:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【最小生命的生存考验】JCVI-syn3.0只含有约53.1万个碱基对和473个基因，科学家将能繁殖和生长的有机体基因组缩减到最基础的形式创造的细胞。](https://dig.chouti.com/link/40534640)|
+|2023-11-07 04:23:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【日本女子半年给牛郎花1800万却遭家暴，愤怒当街捅伤牛郎】“被牛郎榨取1800万日元”其实只是一小部分损失。这位女子其实之前跟该牛郎同居，两人甚至从来不是主客关系，而是一开始通过社交软件交往的。牛郎就是“软饭男”，所有生活费用，包括衣服和美容费，都是由女子掏钱。尽管如此，牛郎还经常对女子进行暴力殴打。](https://dig.chouti.com/link/40533404)|
+|2023-11-07 06:38:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【体育馆坍塌事故后续：5年前刚竣工，县长3个月前曾视察安全工作】新华社从官方处还原了事件经过，6日，桦南县7名初中生相约18时许到悦城体育俱乐部打篮球。19时20分许，有学生发现屋顶异常并向门口跑去，随即屋顶发生坍塌。](https://dig.chouti.com/link/40534719)|
+|2023-11-07 03:10:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这种特效到底是谁在用](https://dig.chouti.com/link/40532566)|
+|2023-11-07 06:23:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[湖北省襄阳市健桥医院卖出生证明一事引发关注。11月6日，记者通过多种渠道证实，13年前，该院院长叶有芝曾因非法鉴定胎儿性别被拘，后一审被判处拘役5个月，并处罚金1万元。她还在看守所内写下悔过书，称她一时糊涂走上犯罪道路，有损白衣天使的形象。](https://dig.chouti.com/link/40534638)|
+|2023-11-07 03:10:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[全国各地都有自己的《花束般的恋爱》](https://dig.chouti.com/link/40532587)|
+|2023-11-07 05:05:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国足球的12岁退役现象】一位来自北京的比赛监督对记者说，“那些10岁、11岁的孩子比我们小时候踢得都好，但到了12岁，一半孩子消失了；到了13岁不会踢了，原来那些会踢球的孩子都走了。我去问教练：‘人呢？’他说，他耗费了四年心血培养了那批孩子，刚有点型儿，上初中了，队伍解散了。”](https://dig.chouti.com/link/40533601)|
+|2023-11-07 05:36:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一名普通计算机科学家都用些什么装备](https://dig.chouti.com/link/40534127)|
+|2023-11-07 02:13:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[是时候展示真正的技术了](https://dig.chouti.com/link/40531792)|
+|2023-11-07 03:10:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[雄安新区发布“雄才十六条”：积极引进顶尖科学家到雄安工作，给予2000万至5000万元科研经费和300万元生活补贴，奖励一套不低于200平方米的住房；支持海内外高层次人才及团队带技术、带项目、带资金来雄安创办企业，给予最高5000万元资金支持；为外籍人才开辟出入境绿色通道，开设外籍人员子女学校。](https://dig.chouti.com/link/40532522)|
+|2023-11-07 03:06:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[任天堂颁布“最严赛事规章”后，大乱斗玩家们开始反抗](https://dig.chouti.com/link/40532407)|
+|2023-11-07 04:02:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【网传湖北荆州一4岁半女童遭未满12周岁男孩杀害】家属发文称，2023年8月30日，其唯一的4岁半女儿被未满12周岁男孩残忍谋害。“肇事男孩哄骗我的女儿说带她到一个好玩的地方，直接手牵手给带到离家庭住址约3-4百米处左右的一处荒弃杂草丛生的菜园”，之后男孩将网友女儿推入粪缸致其死亡。](https://dig.chouti.com/link/40532782)|
+|2023-11-07 04:35:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据北京市规划和自然资源委员会，北京“取消地价上限”为不实消息](https://dig.chouti.com/link/40533430)|
+|2023-11-07 08:48:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[1200萬時代結束？iPhone SE 4升級4800萬像素相機](https://www.iphonetaiwan.org/2023/11/iphone-se-4-4800-million-pixel.html)|
 |2023-11-07 06:20:22|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[易被黑客利用！谷歌披露最新概念验证（PoC）漏洞](https://www.freebuf.com/news/383056.html)|
 |2023-11-07 03:23:22|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[虚拟绑架：人工智能正在助长勒索诈骗](https://www.freebuf.com/news/383029.html)|
 |2023-11-07 02:46:32|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[警示！QNAP QTS 操作系统和应用程序中存在高危漏洞](https://www.freebuf.com/articles/383019.html)|
