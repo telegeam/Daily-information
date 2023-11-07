@@ -2,6 +2,48 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-07 12:50:00|[OreChou's Batcave](https://orechou.live/atom.xml)|[写在巨人完结之后](https://orechou.live/2023/50-attack-on-titan/)|
+|2023-11-07 16:18:31|[V2EX](https://www.v2ex.com/index.xml)|[ Apple MacBook Pro 14-inch M3 Max 14C 简单体验](https://www.v2ex.com/t/989696#reply0)|
+|2023-11-07 16:05:47|[V2EX](https://www.v2ex.com/index.xml)|[ 前端开发 一个关于 Ant Design 复杂表单设计的问题](https://www.v2ex.com/t/989695#reply0)|
+|2023-11-07 15:58:11|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 各位 Arch Linux 大佬进来下，这个 git clone aur 仓库怎么加速，好慢啊，而且国内机器好容易报错](https://www.v2ex.com/t/989694#reply5)|
+|2023-11-07 15:52:40|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 很好奇，如果分配的上行带宽比下行带宽大，对网络中的实际应用有什么影响？](https://www.v2ex.com/t/989693#reply0)|
+|2023-11-07 15:47:16|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求教个简单的 C++ 语法问题](https://www.v2ex.com/t/989690#reply2)|
+|2023-11-07 15:37:52|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud Apple iCloud 国区家庭组 2T+music 招三人](https://www.v2ex.com/t/989689#reply0)|
+|2023-11-07 15:33:40|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 原价 16999 的 m3pro 14 寸跌到多少可以入了？](https://www.v2ex.com/t/989688#reply0)|
+|2023-11-07 15:28:36|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud 土区 iCloud 准备翻车，请教解决办法](https://www.v2ex.com/t/989687#reply10)|
+|2023-11-07 15:18:16|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Cheat Engine 捆绑安装 Avast](https://www.v2ex.com/t/989683#reply1)|
+|2023-11-07 15:12:36|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 各位 cook 们 M3 Pro 的 512G 还是单颗低速版吗？](https://www.v2ex.com/t/989682#reply1)|
+|2023-11-07 15:07:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 谈谈关于“折腾”这个事儿吧](https://www.v2ex.com/t/989681#reply2)|
+|2023-11-07 14:49:29|[V2EX](https://www.v2ex.com/index.xml)|[ 全球工单系统 准备长期投诉：广东联通 0 元 plus 黄金会员](https://www.v2ex.com/t/989679#reply2)|
+|2023-11-07 14:44:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 虚心请教爬虫大佬，爬虫问题](https://www.v2ex.com/t/989678#reply6)|
+|2023-11-07 14:43:21|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 遇见 15Pro 掉 SIM 卡了](https://www.v2ex.com/t/989677#reply1)|
+|2023-11-07 14:30:59|[V2EX](https://www.v2ex.com/index.xml)|[ Windows windows11 如何共享一个硬盘？](https://www.v2ex.com/t/989676#reply3)|
+|2023-11-07 14:27:18|[V2EX](https://www.v2ex.com/index.xml)|[ macOS Mac 下 Finder 替代品 QSpace Pro](https://www.v2ex.com/t/989673#reply2)|
+|2023-11-07 14:11:28|[V2EX](https://www.v2ex.com/index.xml)|[ Kubernetes k8s 并行处理有没有相关代码例子](https://www.v2ex.com/t/989672#reply2)|
+|2023-11-07 14:11:11|[V2EX](https://www.v2ex.com/index.xml)|[ macOS mac 14.1 快捷键 command+~切换窗口偶尔失效，你们也会吗？](https://www.v2ex.com/t/989671#reply1)|
+|2023-11-07 13:56:03|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 大佬们 求这两个表白源码 谢谢！我太需要它了！](https://www.v2ex.com/t/989670#reply15)|
+|2023-11-07 13:51:12|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone iPhone 15 Pro Max 掉电感觉格外的快](https://www.v2ex.com/t/989669#reply8)|
+|2023-11-07 13:49:55|[V2EX](https://www.v2ex.com/index.xml)|[ Windows Windows 可以编译 ios app 吗？](https://www.v2ex.com/t/989668#reply1)|
+|2023-11-07 13:47:54|[V2EX](https://www.v2ex.com/index.xml)|[ Fedora Fedora 39 正式版马上就要官宣了](https://www.v2ex.com/t/989667#reply2)|
+|2023-11-07 13:45:48|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 远程 区块链老牌大厂「币信」招聘啦，移动端开发+产品+运营多个岗位等你来～](https://www.v2ex.com/t/989665#reply0)|
+|2023-11-07 13:32:42|[V2EX](https://www.v2ex.com/index.xml)|[ Windows Windows 的糟糕视觉设计依然没让人失望](https://www.v2ex.com/t/989662#reply17)|
+|2023-11-07 13:32:38|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有大佬推荐无雾加湿器吗？](https://www.v2ex.com/t/989661#reply1)|
+|2023-11-07 13:02:29|[V2EX](https://www.v2ex.com/index.xml)|[ 云修电脑 同一个插座下，关闭风扇后显示屏黑屏几秒钟的问题](https://www.v2ex.com/t/989659#reply0)|
+|2023-11-07 13:01:19|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 这是咸鱼的什么套路呢？](https://www.v2ex.com/t/989658#reply3)|
+|2023-11-07 12:53:56|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 出新版 alpha](https://www.v2ex.com/t/989656#reply3)|
+|2023-11-07 12:53:36|[V2EX](https://www.v2ex.com/index.xml)|[ NGINX nginx 如何转发 HTTP PATCH 请求](https://www.v2ex.com/t/989655#reply3)|
+|2023-11-07 12:46:03|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如果一个软件有病毒，是不是禁止这个软件就能防止病毒](https://www.v2ex.com/t/989654#reply0)|
+|2023-11-07 12:35:31|[V2EX](https://www.v2ex.com/index.xml)|[ Apple mbp m1pro 21 款（应该也包括 m2pro 款）屏幕亮度的小发现](https://www.v2ex.com/t/989653#reply8)|
+|2023-11-07 12:23:35|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 字节跳动 智能编程助手研发工程师](https://www.v2ex.com/t/989652#reply2)|
+|2023-11-07 12:16:57|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud icloud 组区的问题 请教](https://www.v2ex.com/t/989651#reply1)|
+|2023-11-07 12:13:16|[V2EX](https://www.v2ex.com/index.xml)|[ iOS iOS 端 Quantumult X， Loon， Stash， Loon 四大代理工具选择困难，求教](https://www.v2ex.com/t/989650#reply35)|
+|2023-11-07 12:12:17|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大量 ping TCPping 算攻击吗？会被拉黑吗？](https://www.v2ex.com/t/989649#reply7)|
+|2023-11-07 12:10:57|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 各位的 15pro / pm 目前有碎的嘛？这代的 ac+ 是否值得购入？](https://www.v2ex.com/t/989648#reply4)|
+|2023-11-07 12:08:24|[V2EX](https://www.v2ex.com/index.xml)|[ Android 发现 gboard 有五笔了，但是平板还是没有单手模式](https://www.v2ex.com/t/989647#reply6)|
+|2023-11-07 02:38:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[哪个软件让你用起来感觉特别舒服，看见就发自内心的喜欢](https://www.v2ex.com/t/989398#reply313)|
+|2023-11-07 14:01:05|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[低调给米其林餐厅供货，这就是饱记腊肠的实力](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653445480&idx=1&sn=1825c0844de63bde108258032afa4937)|
+|2023-11-07 21:49:43|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Office Tool Plus v10.4.1.1自定义安装 Office小工具](https://masuit.com/1226)|
+|2023-11-07 16:20:25|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[A0KE-莆田潮牌鞋服【六年老店一手货源，主打中高端品质】](https://masuit.com/p359)|
 |2023-11-07 06:12:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[WSA（Windows Subsystem for Android）出了这么久了，有没有大佬来分享一下使用感受的？](https://www.v2ex.com/t/989489#reply17)|
 |2023-11-07 11:41:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[从外包离场了，没有办公地点怎么打卡？](https://www.v2ex.com/t/989639#reply1)|
 |2023-11-07 02:44:11|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[N100、树莓派、J64XX，选择困难了](https://www.v2ex.com/t/989403#reply62)|
