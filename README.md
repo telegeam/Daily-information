@@ -1,7 +1,17 @@
-﻿# 每日资讯（2023-11-06）
+﻿# 每日资讯（2023-11-07）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-07 01:01:59|[虎嗅](https://rss.huxiu.com/)|[跨境电商独立站赛道为什么那么火爆？](https://www.huxiu.com/article/2266650.html?f=rss)|
+|2023-11-07 00:52:25|[虎嗅](https://rss.huxiu.com/)|[CEO失联名单上，多了一位80后](https://www.huxiu.com/article/2266035.html?f=rss)|
+|2023-11-07 00:51:54|[虎嗅](https://rss.huxiu.com/)|[零余的一代人，在原野上呼啸](https://www.huxiu.com/article/2267041.html?f=rss)|
+|2023-11-07 00:46:00|[虎嗅](https://rss.huxiu.com/)|[ChatGPT又变强了，OpenAI会变成下一个苹果吗？](https://www.huxiu.com/article/2267922.html?f=rss)|
+|2023-11-07 00:42:45|[虎嗅](https://rss.huxiu.com/)|[语言可以杀死爱情：伴侣沟通时的5个陷阱](https://www.huxiu.com/article/2266565.html?f=rss)|
+|2023-11-07 00:42:00|[虎嗅](https://rss.huxiu.com/)|[茅台提价一周后：经销商接受涨价，股东却担忧了](https://www.huxiu.com/article/2266645.html?f=rss)|
+|2023-11-07 00:34:35|[虎嗅](https://rss.huxiu.com/)|[传统菜市场中的经济学](https://www.huxiu.com/article/2267591.html?f=rss)|
+|2023-11-07 00:13:03|[虎嗅](https://rss.huxiu.com/)|[ChatGPT王炸升级，奥特曼喊你定制GPT赚钱](https://www.huxiu.com/article/2267572.html?f=rss)|
+|2023-11-07 00:10:09|[虎嗅](https://rss.huxiu.com/)|[家族企业为何更易成长为“专精特新”小巨人](https://www.huxiu.com/article/2265983.html?f=rss)|
+|2023-11-07 00:00:01|[虎嗅](https://rss.huxiu.com/)|[为什么别人家的孩子那么乖巧？我家的却这么难搞？](https://www.huxiu.com/article/2263463.html?f=rss)|
 |2023-11-06 13:00:00|[机核](https://www.gcores.com/rss)|[太空安全 Vol.5丨快即安全：快速响应能力分析](https://www.gcores.com/radios/162614)|
 |2023-11-06 10:08:30|[机核](https://www.gcores.com/rss)|[PS5 Slim首批拆解视频放出，和原版PS5功耗一致](https://www.gcores.com/articles/173440)|
 |2023-11-06 09:30:00|[机核](https://www.gcores.com/rss)|[机组成员人才多 原创形象真不错](https://www.gcores.com/articles/172539)|
