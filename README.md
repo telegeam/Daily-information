@@ -1,7 +1,29 @@
-﻿# 每日资讯（2023-11-07）
+﻿# 每日资讯（2023-11-08）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-08 01:08:39|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 Xmake v2.8.5 发布，支持链接排序和单元测试](https://www.v2ex.com/t/989730#reply0)|
+|2023-11-08 01:08:10|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 健身 app，新增共享数据，过来一起监督打卡](https://www.v2ex.com/t/989729#reply0)|
+|2023-11-08 00:55:34|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 （送码 Mac App）❤️ 最近几天开发了一个 Mac App，用来定时提醒休息，防止过度疲劳的，欢迎体验试用。](https://www.v2ex.com/t/989726#reply7)|
+|2023-11-08 00:40:47|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 听着 apple music 打开朋友圈（还没有点开视频），音乐会自动暂停…… 难受😣](https://www.v2ex.com/t/989723#reply8)|
+|2023-11-08 00:36:48|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求 Mac 免费/开源的文件夹大小分析软件](https://www.v2ex.com/t/989721#reply2)|
+|2023-11-08 00:31:25|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 专为开发者开发一个工具集合网站](https://www.v2ex.com/t/989720#reply6)|
+|2023-11-08 00:28:48|[V2EX](https://www.v2ex.com/index.xml)|[ Dell Dell U3223QE 频闪问题](https://www.v2ex.com/t/989719#reply3)|
+|2023-11-08 00:20:35|[V2EX](https://www.v2ex.com/index.xml)|[ Visual Studio Code 听说 vscode 马上要有浮窗了啊？](https://www.v2ex.com/t/989718#reply2)|
+|2023-11-08 00:06:31|[V2EX](https://www.v2ex.com/index.xml)|[ iOS iOS GPT app 无法使用怎么整？](https://www.v2ex.com/t/989717#reply5)|
+|2023-11-08 00:54:39|[机核](https://www.gcores.com/rss)|[《塞尔达传说》将改编为真人电影，由索尼影业全球发行](https://www.gcores.com/articles/173519)|
+|2023-11-08 01:03:09|[虎嗅](https://rss.huxiu.com/)|[有多少AI创业公司，被OpenAI发布会判了“死刑”？](https://www.huxiu.com/article/2272604.html?f=rss)|
+|2023-11-08 01:00:54|[虎嗅](https://rss.huxiu.com/)|[知名私募合伙人内讧，加盖19个公章只为开除一位合伙人](https://www.huxiu.com/article/2272583.html?f=rss)|
+|2023-11-08 01:00:07|[虎嗅](https://rss.huxiu.com/)|[面试资管机构：我只和AI聊了几分钟](https://www.huxiu.com/article/2273151.html?f=rss)|
+|2023-11-08 00:57:16|[虎嗅](https://rss.huxiu.com/)|[WeWork在美正式申请破产保护，孙正义“最惨投资案例”问题在哪？](https://www.huxiu.com/article/2272622.html?f=rss)|
+|2023-11-08 00:56:33|[虎嗅](https://rss.huxiu.com/)|[规则不再公平时，我们该怎么办？](https://www.huxiu.com/article/2264623.html?f=rss)|
+|2023-11-08 00:54:04|[虎嗅](https://rss.huxiu.com/)|[心盲，是我病了吗？](https://www.huxiu.com/article/2271240.html?f=rss)|
+|2023-11-08 00:53:30|[虎嗅](https://rss.huxiu.com/)|[发生了什么？油价大跌超4%，创三个多月新低](https://www.huxiu.com/article/2273119.html?f=rss)|
+|2023-11-08 00:40:42|[虎嗅](https://rss.huxiu.com/)|[折扣牛硬刚刘润，行者和言者不可调和的矛盾](https://www.huxiu.com/article/2271586.html?f=rss)|
+|2023-11-08 00:22:01|[虎嗅](https://rss.huxiu.com/)|[到处都有的“公主请xx”是怎么火起来的？](https://www.huxiu.com/article/2271270.html?f=rss)|
+|2023-11-08 00:20:09|[虎嗅](https://rss.huxiu.com/)|[为什么说二奢让现有奢侈品牌进退两难？](https://www.huxiu.com/article/2272613.html?f=rss)|
+|2023-11-08 00:06:10|[虎嗅](https://rss.huxiu.com/)|[bug太多罕见叫停：苹果推迟开发明年新版iPhone、iPad和Mac软件](https://www.huxiu.com/article/2272601.html?f=rss)|
+|2023-11-08 00:04:37|[虎嗅](https://rss.huxiu.com/)|[最新城市排名出炉，谁快了谁慢了谁晋级谁掉队？](https://www.huxiu.com/article/2271716.html?f=rss)|
 |2023-11-07 08:55:44|[小众软件](https://www.appinn.com/feed/)|[CudaText – 开源多功能的文本编辑器（Sublime Text 开源平替）](https://www.appinn.com/cudatext/)|
 |2023-11-07 20:16:09|[V2EX](https://www.v2ex.com/index.xml)|[ iPad iPad Pro 啥时候发新款](https://www.v2ex.com/t/989709#reply0)|
 |2023-11-07 18:54:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 BTC 现货 ETF 获得批准上市意味着什么？](https://www.v2ex.com/t/989707#reply0)|
