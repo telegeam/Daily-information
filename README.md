@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-08 16:09:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[特斯拉“2.5万”车型来了？最新效果图曝光：外观出乎意料，价格大惊喜](https://36kr.com/p/2509034500259841)|
+|2023-11-08 16:09:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[《完蛋1》还在回味，《完蛋2》就要来了？帅哥美女在互动剧游戏相见 焦点分析](https://36kr.com/p/2507829243248649)|
+|2023-11-08 16:09:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小红书肥水不流外人田](https://36kr.com/p/2509455995076870)|
+|2023-11-08 16:09:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[在抖音“批量制造”小杨哥，月赚20万的野蛮生意](https://36kr.com/p/2508946753585409)|
+|2023-11-08 16:09:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[X 掉蓝鸟，对标微信，马斯克收购 Twitter 一年后搞砸了吗？](https://36kr.com/p/2508123393605640)|
+|2023-11-08 16:09:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Vision Pro只在线下卖，苹果打的什么算盘？](https://36kr.com/p/2508103773757575)|
+|2023-11-08 19:50:58|[V2EX](https://www.v2ex.com/index.xml)|[ WebRTC 有在生产环境用过的 livekit 的吗？体验怎么样？](https://www.v2ex.com/t/990070#reply0)|
+|2023-11-08 18:23:15|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问手机访问 github.dev 为啥一直卡在“setting up your web editor ”啊？](https://www.v2ex.com/t/990069#reply0)|
+|2023-11-08 17:04:29|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 edge 打字光标 "l" 消失,有人一样吗?](https://www.v2ex.com/t/990068#reply3)|
+|2023-11-08 17:02:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 深夜问一个关于安装 arch+i3 的系统 日常怎么做备份，可以防止系统在更新出问题或软件安装出问题时可以回滚回去呀？是用是不是也可以安装 time shift 这个工具呀](https://www.v2ex.com/t/990067#reply0)|
+|2023-11-08 16:20:27|[V2EX](https://www.v2ex.com/index.xml)|[ Flutter 准备开发个自用的记账本， flutter 够用吗，开发效率会比用 kotlin 快一点吗？](https://www.v2ex.com/t/990065#reply1)|
+|2023-11-08 14:33:34|[爱范儿](https://www.ifanr.com/feed)|[余承东何小鹏隔空互怼，为的不是 AEB](https://www.ifanr.com/1567474?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-08 02:23:42|[爱范儿](https://www.ifanr.com/feed)|[裁员 10%，蔚来的「自救」难题](https://www.ifanr.com/1567332?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-08 00:44:12|[爱范儿](https://www.ifanr.com/feed)|[早报｜多家手机厂商取消 5G 开关 / 字节旗下 PICO 宣布裁员 /雷军证实小米 14 销量已超百万台](https://www.ifanr.com/1567385?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-08 17:47:00|[保罗的小宇宙](https://paugram.com/feed)|[一个由时间字符串引出的风波](https://paugram.com/coding/an-issue-about-time-string.html)|
 |2023-11-08 04:22:30|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 15 USB-C 充電頭推薦，充電同時還能轉接電視追劇玩遊戲！GAME’NIR 電玩酒吧 DOCK CHARGER 4](https://applefans.today/2023-11-iphone-15-usb-c-gamenir/)|
 |2023-11-08 16:07:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[11 月 8 日是中国记者节，你眼中的记者是什么样的？有哪些令你印象深刻的记者故事？](https://www.zhihu.com/question/629408861)|
 |2023-11-08 16:20:27|[V2EX](https://www.v2ex.com/index.xml)|[ Flutter 准备开发个自用的记账本， flutter 够用吗，开发效率会比用 kotlin 快一点吗？](https://www.v2ex.com/t/990065#reply0)|
