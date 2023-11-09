@@ -1,7 +1,20 @@
-﻿# 每日资讯（2023-11-08）
+﻿# 每日资讯（2023-11-09）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-09 01:07:00|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI GPTs build 现在已可供使用](https://www.v2ex.com/t/990095#reply0)|
+|2023-11-09 01:05:20|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 GPTs 上线了，大家有什么想法](https://www.v2ex.com/t/990094#reply0)|
+|2023-11-09 01:04:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大佬们，创业公司老板昨晚请吃饭，让我加入他团队，最后谈到 7500/月+1%股权，能去吗](https://www.v2ex.com/t/990093#reply0)|
+|2023-11-09 01:03:49|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 买车决赛圈了，卡罗拉双擎 VS 帕萨特 280](https://www.v2ex.com/t/990092#reply4)|
+|2023-11-09 01:01:39|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 Github Profile 组件收集网站](https://www.v2ex.com/t/990091#reply1)|
+|2023-11-09 01:00:49|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 研究生文凭的探讨](https://www.v2ex.com/t/990090#reply6)|
+|2023-11-09 00:50:54|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 想问下大佬们抖音上那些剪视频的素菜都是哪来的呀](https://www.v2ex.com/t/990088#reply2)|
+|2023-11-09 00:49:03|[V2EX](https://www.v2ex.com/index.xml)|[ Android 写了一个屏蔽摇一摇的 xp 模块](https://www.v2ex.com/t/990087#reply3)|
+|2023-11-09 00:45:43|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 macOS Mojave 10.14.3 上面大多数软件停止更新了，该怎么办？](https://www.v2ex.com/t/990085#reply0)|
+|2023-11-09 00:44:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 一闲下来就心慌、心悸，必须坐在电脑前哪怕什么都不干才能好点，怎么办？](https://www.v2ex.com/t/990084#reply4)|
+|2023-11-09 00:28:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 全民直播的时代，你身边有经常直播的朋友吗](https://www.v2ex.com/t/990082#reply10)|
+|2023-11-09 00:17:59|[V2EX](https://www.v2ex.com/index.xml)|[ macOS MacBook 咋选版本](https://www.v2ex.com/t/990081#reply1)|
+|2023-11-09 00:12:56|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 这几款 Mac 该怎么选](https://www.v2ex.com/t/990080#reply6)|
 |2023-11-08 16:09:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[特斯拉“2.5万”车型来了？最新效果图曝光：外观出乎意料，价格大惊喜](https://36kr.com/p/2509034500259841)|
 |2023-11-08 16:09:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[《完蛋1》还在回味，《完蛋2》就要来了？帅哥美女在互动剧游戏相见 焦点分析](https://36kr.com/p/2507829243248649)|
 |2023-11-08 16:09:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小红书肥水不流外人田](https://36kr.com/p/2509455995076870)|
