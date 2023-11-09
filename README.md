@@ -2,6 +2,70 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-09 09:03:27|[华山感染](https://feedpress.me/wx-hsinfect)|[CNS感染 中枢神经系统念珠菌病的诊断与治疗](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247500372&idx=1&sn=8402d870e52b0cc3be14913d738f8e5e)|
+|2023-11-09 08:12:42|[煎蛋](http://jandan.net/feed)|[没品笑话集：我老婆让我收拾东西滚出这个家](http://jandan.net/p/114739)|
+|2023-11-09 10:10:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[海边约90%溺水是因为离岸流！](https://dig.chouti.com/link/40560718)|
+|2023-11-09 13:05:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[探访“患癌”风波中的中山二院：争议实验室未拆除，设备、仪器均在](https://dig.chouti.com/link/40562213)|
+|2023-11-09 14:05:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【外媒：印方称在克什米尔地区与巴基斯坦发生交火，一名印度士兵死亡】据美联社报道，印控克什米尔当局表示，8日夜间，巴基斯坦士兵使用迫击炮和机关枪向印方发动“无端”袭击。印度边境保安部队在一份声明中说，该部士兵“进行了适当还击”，一名印军士兵在交火中死亡。交火持续到9日凌晨才结束，巴方没有立即就此事表态。](https://dig.chouti.com/link/40562887)|
+|2023-11-09 13:13:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[柯南越来越离谱了，最新一集把人笑晕](https://dig.chouti.com/link/40562458)|
+|2023-11-09 13:14:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[匈牙利摄影师Tibor Litauszki在水下拍摄的一只正在捕食蛙卵的蝾螈，摘得大自然保护协会（TNC）2023年摄影大赛特等奖](https://dig.chouti.com/link/40562555)|
+|2023-11-09 11:04:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国工程院外籍院士施敏去世，被称为“半导体一代宗师”](https://dig.chouti.com/link/40561031)|
+|2023-11-09 10:10:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[今天凌晨3点左右，千叶县松户市发生一起命案。一位二三十岁的中国女子在自家家门口遭2年轻男子殴打，随后在医院里因出血性休克不治身亡。行凶男子1人身高180cm，身穿夹克衫和帽子，另一人身材较瘦。目前警方正在追踪凶手的行踪。 凶手国籍不详。](https://dig.chouti.com/link/40560760)|
+|2023-11-09 11:12:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[互联网降本增效笑话：猪厂茶水间新的制冰机是淘的鹅厂二手的……](https://dig.chouti.com/link/40561364)|
+|2023-11-09 11:13:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[竟有这种操作。。。秘鲁体育大学对今天在客场加冕联赛冠军，作为同城死敌，主队利马联盟在终场哨响时马上拉闸关灯！](https://dig.chouti.com/link/40561418)|
+|2023-11-09 10:10:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[毕加索名画《戴手表的女人》拍出1.39亿美元 创今年全球艺术品拍卖最高价](https://dig.chouti.com/link/40560806)|
+|2023-11-09 10:36:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[瞄准“富贵闲人”，这2款社交App月入百万美金](https://dig.chouti.com/link/40560943)|
+|2023-11-09 06:40:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【他是天体物理学的一代宗师，也是学科发展的绊脚石？】亚瑟·爱丁顿是天体物理学领域一代宗师，也因为观测证实广义相对论而名声大噪，直接将爱因斯坦推上神坛。然而，因一些固执观点，他被许多人认为是阻碍恒星物理学发展的粗暴学阀。在一次学术报告上，因为持反对意见，他直接登台撕掉了天体物理学家钱德拉塞卡的讲稿。](https://dig.chouti.com/link/40558340)|
+|2023-11-09 07:05:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[以色列境内的阿拉伯人：生活在“敌国”](https://dig.chouti.com/link/40558609)|
+|2023-11-09 07:17:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[77岁的Kenneth Darlington在巴拿马开枪打死两名堵住高速公路的环保活动分子。这老爷子有美国和巴拿马国籍，是退休律师/大学教授。目前已被警方逮捕。](https://dig.chouti.com/link/40558859)|
+|2023-11-09 07:37:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[时隔17年再度盈利，AC米兰做对了什么？](https://dig.chouti.com/link/40558964)|
+|2023-11-09 07:44:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[淘宝上，一件商品从52亿元降价到40亿](https://dig.chouti.com/link/40558965)|
+|2023-11-09 03:06:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[创作于180年前的《丑小鸭》，是否仍在被我们误解或简化？](https://dig.chouti.com/link/40556199)|
+|2023-11-09 03:13:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩国击剑皇后南贤喜被女人骗婚，后续更炸裂…南贤喜被家人朋友警察一起劝分之后，终于选择分手，并透露这段关系的内幕：其实她知道对方是女人，但接受了这一切，和对方发生了关系，还两次“怀孕”…](https://dig.chouti.com/link/40556332)|
+|2023-11-09 03:05:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[实探苏州85亿元“毒地块”：现场存污染风险严禁入内，记者大门口等了近1个小时被放鸽子](https://dig.chouti.com/link/40555920)|
+|2023-11-09 04:08:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【罗文忠自缢事件续：争议中的“非自愿”精神病治疗】到自缢时，罗文忠已经在“非自愿”的情况下，接受了100天的精神病治疗。身陷家庭财产纠纷的千万富翁、住进精神病院后的数次求救、亲友“解救”失败后的自杀悲剧……当一个人在非自愿的情况下住院接受精神病治疗时，他的个人权益该如何保障？](https://dig.chouti.com/link/40556956)|
+|2023-11-09 04:08:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美记者新书曝乱港分子黄之锋曾寻美国庇护被拒】书中称黄在2020年6月30日早上，即香港国安法通过前，于美国驻港总领事馆与两名美国外交官定期会面，黄在会面尾声说：“我想入美国领事馆。”但被美方拒绝。美方也曾考虑秘密将黄之锋经水路带离香港，因担心可能演变成国际事件而作罢，并且也没有把决定通知黄之锋。](https://dig.chouti.com/link/40556957)|
+|2023-11-09 05:36:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[辛柏青 适度的，饱满的丨“你总觉得他有点小秘密，恰好在剧本里找到了一个出口。”](https://dig.chouti.com/link/40557650)|
+|2023-11-09 16:05:22|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[以军逼近哈马斯「指挥中心」，并宣称哈马斯加沙地带领导人「困在地堡内」，还有哪些信息值得关注？](https://www.zhihu.com/question/629555909)|
+|2023-11-09 16:05:22|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[快递平均单票收入 15 年降幅高达 66% ，什么原因导致快递越来越便宜？](https://www.zhihu.com/question/629443669)|
+|2023-11-09 16:05:22|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何理解经济学家刘元春所说「中美经济周期交错点即将到来」？这一看法是否合理？](https://www.zhihu.com/question/629449106)|
+|2023-11-09 16:05:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[金庸小说最匪夷所思的是哪一片段?](https://www.zhihu.com/question/579609893)|
+|2023-11-09 16:05:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[网友自嘲「长期躺着偶尔翻身，脂肪含量高，压力大会爆」，正式被确诊为烤肠，如何看待该状态？如何自我调整？](https://www.zhihu.com/question/629592179)|
+|2023-11-09 16:05:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[高瓴旗下 HHLR 涉嫌违反限制性规定转让隆基绿能股票，证监会已立案调查，借转融通规避信披义务何时休？](https://www.zhihu.com/question/629513364)|
+|2023-11-09 16:05:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[计算机等级考试和软考哪个更有用？](https://www.zhihu.com/question/23524169)|
+|2023-11-09 16:05:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[最新发布的 iQOO 12 系列真实体验如何？3999 元起售是否值得购买？](https://www.zhihu.com/question/629581644)|
+|2023-11-09 16:05:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你家的宠物的「MBTI」是 I 还是 E ？何以见得？](https://www.zhihu.com/question/628668557)|
+|2023-11-09 16:05:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[11 月 9 日三大指数低开，龙字辈个股大幅走低，光刻机板块竞价活跃，如何看待今日行情？](https://www.zhihu.com/question/629559214)|
+|2023-11-09 16:05:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待越来越多的年轻人理性消费，开始追求不贵的生活了？](https://www.zhihu.com/question/629575318)|
+|2023-11-09 16:05:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年 10 月份居民消费价格同比下降 0.2% ，环比下降 0.1% ，如何解读？](https://www.zhihu.com/question/629559347)|
+|2023-11-09 16:05:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美军空袭叙利亚，报道称「是两周来第二次」，当前具体情况如何？哪些信息值得关注？](https://www.zhihu.com/question/629553737)|
+|2023-11-09 16:05:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[天猫双十一晚会又回来了，为什么说此晚会成为明星商业价值风向标？](https://www.zhihu.com/question/629578034)|
+|2023-11-09 16:05:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你知道哪些超冷门的冷知识？](https://www.zhihu.com/question/295086289)|
+|2023-11-09 16:05:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[何小鹏再发文谈 AEB 争议，称感谢余承东的建议和大度，哪些信息值得关注？](https://www.zhihu.com/question/629573309)|
+|2023-11-09 16:05:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我国 10 月 CPI 同比下降 0.2%，PPI 同比下降 2.6%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/629559236)|
+|2023-11-09 16:05:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[网红仲尼疑似在巴厘岛溺亡，当地政府机构确认其身份，具体情况如何？](https://www.zhihu.com/question/629513547)|
+|2023-11-09 16:05:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 5G 赋能大山中的企业数字化转型？在实际应用场景中 5G 又发挥着怎样的作用？](https://www.zhihu.com/question/629592612)|
+|2023-11-09 16:05:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 湖人 94:128 火箭，如何评价这场比赛？](https://www.zhihu.com/question/629555186)|
+|2023-11-09 16:05:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[对出院患者追踪两年，国内首次发现 23 个长新冠标志物，将带来哪些影响？](https://www.zhihu.com/question/629552795)|
+|2023-11-09 16:05:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[媒体三问「中山二院乳腺外科团队多人致癌」事件，是否是「毒试剂」致癌？此事还有哪些疑点？](https://www.zhihu.com/question/629566268)|
+|2023-11-09 16:05:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 0713 再就业男团综艺《快乐老友记》？](https://www.zhihu.com/question/629459248)|
+|2023-11-09 16:05:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「女生称生病拒绝周末无偿加班被辞退」，请假越来越难，年轻人甚至产生「请假羞耻」，如何看待这一现象？](https://www.zhihu.com/question/629245616)|
+|2023-11-09 16:05:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待苹果手机也有「摇一摇」开屏广告？](https://www.zhihu.com/question/629188818)|
+|2023-11-09 16:05:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大家电换新，双十一如何选购才能省钱不踩坑？](https://www.zhihu.com/question/629574247)|
+|2023-11-09 16:05:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[这个 11.11 有没有更省钱的买手机攻略？](https://www.zhihu.com/question/629609622)|
+|2023-11-09 16:05:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中山二院博士黄某所患的「SMARCB1 缺失型癌」有多严重？为什么说很罕见？](https://www.zhihu.com/question/629414943)|
+|2023-11-09 16:05:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[沙特王储表示支持巴勒斯坦人民，令拜登政府「感到意外」，本次冲突是否会阻碍美方推动沙以关系正常化进程？](https://www.zhihu.com/question/625431858)|
+|2023-11-09 16:05:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[什么材质的铠甲不会被捅破？](https://www.zhihu.com/question/625786986)|
+|2023-11-09 16:05:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[厨房装修应该选择蒸烤一体集成灶吗？它究竟有哪些实用的功能？](https://www.zhihu.com/question/496811832)|
+|2023-11-09 16:05:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[现在一两千元的手机已经可以满足大部分人的需求了，为什么要买 4000 元以上的中高端手机呢？](https://www.zhihu.com/question/629167864)|
+|2023-11-09 16:05:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[想给爸爸买双跑鞋，他经常跑半马，有什么推荐？](https://www.zhihu.com/question/628294167)|
+|2023-11-09 16:05:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我能不能跟老师说放养（正常学习放平心态 尊重孩子的优劣势 不卷 不逼 不赶 ）我家孩子？](https://www.zhihu.com/question/625606518)|
+|2023-11-09 16:05:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[以色列前总理称西方对于以色列的支持正在减弱，表示作战窗口可能只剩两到三周，这对以色列将造成哪些影响？](https://www.zhihu.com/question/629377562)|
+|2023-11-09 16:05:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[S13 半决赛 JDG 与 WBG 在各自半区分别选择红色及蓝色方，为什么不都选择胜率更高的蓝方呢？](https://www.zhihu.com/question/629582861)|
+|2023-11-09 16:05:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《原神》4.2 新剧情？](https://www.zhihu.com/question/629552870)|
+|2023-11-09 16:05:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你最喜欢的诗句，很治愈的，有哪些？](https://www.zhihu.com/question/625475357)|
+|2023-11-09 16:05:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待佳木斯体育馆遇难学生母亲讨说法，并表示「拿我们家两个公职人员的工作压我」？](https://www.zhihu.com/question/629563578)|
+|2023-11-09 16:05:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[央行发文，将适时调整优化房地产政策，促进房地产市场平稳健康发展，具有哪些意义？](https://www.zhihu.com/question/629622586)|
 |2023-11-09 12:43:05|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何將 Gogoro 愛車鑰匙加入 Apple 錢包 呢？](https://applefans.today/2023-11-how-to-add-gogoro-key-to-apple-wallet/)|
 |2023-11-09 15:00:00|[机核](https://www.gcores.com/rss)|[为了给你推荐这些BOOOM游戏，我们专门办了个颁奖礼](https://www.gcores.com/radios/173331)|
 |2023-11-09 13:03:16|[机核](https://www.gcores.com/rss)|[《雨中冒险》十周年庆典，Gearbox公布系列多个新项目](https://www.gcores.com/articles/173586)|
