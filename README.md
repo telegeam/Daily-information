@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-10 07:02:43|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[开源简易的文件服务器——CuteHttpFileServer 3.1中文版](https://masuit.com/89)|
+|2023-11-10 08:16:02|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[12 TypeScript Tips for Clean Code](https://javascript.plainenglish.io/12-typescript-tips-for-clean-code-854bda77137c?source=rss-c3917681a8f5------2)|
+|2023-11-10 06:16:58|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[18 Commonly Used JavaScript Methods](https://javascript.plainenglish.io/18-commonly-used-javascript-methods-463fd83d8eae?source=rss-c3917681a8f5------2)|
+|2023-11-10 08:28:13|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[水果上新 ｜ 甜脆柿，桂林恭城百年老树产](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653445710&idx=2&sn=53d927dc722a96fe81c3c933fb0a4cdc)|
+|2023-11-10 08:28:12|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[给尊贵的 88 VIP 一些凑单想法](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653445710&idx=1&sn=ad9a683c3ab0546f3734e6e32bb3be84)|
+|2023-11-10 16:05:40|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年双十一，有什么值得买的家装好物？](https://www.zhihu.com/question/629378203)|
+|2023-11-10 06:41:33|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[攻击者正利用虚假Windows 新闻门户传播恶意软件](https://www.freebuf.com/news/383497.html)|
+|2023-11-10 06:09:01|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[年度 AI 安全创新应用 WitAwards 2023 年度评选参评巡礼](https://www.freebuf.com/fevents/383471.html)|
+|2023-11-10 05:25:06|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[Cloudflare 网站遭受 DDoS 攻击，Anonymous Sudan声称对事件负责](https://www.freebuf.com/news/383459.html)|
+|2023-11-10 02:39:29|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[SysAid IT 曝出零日漏洞，需尽快安装补丁](https://www.freebuf.com/news/383432.html)|
+|2023-11-10 01:49:01|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[国内未受影响！工商银行美国子公司声明：遭勒索攻击致部分系统中断](https://www.freebuf.com/news/383423.html)|
+|2023-11-10 13:58:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想买一台三星 Galaxy Fold 5～](https://www.v2ex.com/t/990805#reply3)|
+|2023-11-10 08:22:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何成为下一轮经济增长的受益者？](https://www.v2ex.com/t/990726#reply35)|
+|2023-11-10 14:52:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[iPhone 的相册导入功能失效了吗？](https://www.v2ex.com/t/990817#reply3)|
+|2023-11-10 02:39:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[因小米 BL 解锁条件提高，我大致调查了一下各家厂商国行手机对解锁的做法](https://www.v2ex.com/t/990560#reply109)|
+|2023-11-10 03:24:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Bitwarden 支持保存 passkey 了](https://www.v2ex.com/t/990597#reply34)|
+|2023-11-10 07:41:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[vercel 套 cloudflare 速度这么快了？平均 59 ms](https://www.v2ex.com/t/990710#reply26)|
+|2023-11-10 00:28:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[卷应用层的开发技术永无出头之日，求老哥指一个底层开发方向](https://www.v2ex.com/t/990483#reply86)|
+|2023-11-10 12:16:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[内网 ddns-go 和 cloudflare tunnel 对比](https://www.v2ex.com/t/990787#reply11)|
+|2023-11-10 15:38:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[双系统双硬盘的硬盘扩容问题请教](https://www.v2ex.com/t/990822#reply0)|
+|2023-11-10 03:12:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[双十一 nas 从入门到劝退](https://www.v2ex.com/t/990585#reply39)|
+|2023-11-10 07:41:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[微软是在群体梦游吗？ WIN11 23H2 装完发现很多明显的界面 bug](https://www.v2ex.com/t/990711#reply38)|
+|2023-11-10 08:49:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[已知加密方式, 求破解密码明文](https://www.v2ex.com/t/990741#reply12)|
+|2023-11-10 15:33:33|[KAIX.IN](https://kaix.in/feed/)|[定格咖啡休业](https://kaix.in/2023/1110-pause-for-rest/)|
+|2023-11-10 16:15:22|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 利用 chatgpt 的 gpts 制作的算卦老头角色。](https://www.v2ex.com/t/990828#reply0)|
+|2023-11-10 16:12:57|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 赞一波 SiYuan 笔记 App](https://www.v2ex.com/t/990827#reply0)|
+|2023-11-10 16:11:24|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 面试求问： Redssion 实现 公平锁 为什么要使用 ZSet 数据结构？](https://www.v2ex.com/t/990826#reply0)|
+|2023-11-10 16:01:15|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 兄弟们有性价比高安全无有害物质的床垫推荐吗？](https://www.v2ex.com/t/990825#reply1)|
+|2023-11-10 16:06:42|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[颠覆iPhone？首款AI原生无屏幕手机发布，OpenAI参投，699美元起](https://36kr.com/p/2512289767706888)|
+|2023-11-10 16:06:42|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[卷过“韩女”的中国大学生，已经学疯了](https://36kr.com/p/2511872403685634)|
+|2023-11-10 16:06:42|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[这个双11，治好了我的手抖](https://36kr.com/p/2511925771190279)|
+|2023-11-10 16:06:42|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[寺庙数字化，一个没有坏账的赛道](https://36kr.com/p/2511084543745922)|
+|2023-11-10 16:06:42|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[当代抠门女孩](https://36kr.com/p/2511706958774272)|
+|2023-11-10 16:06:42|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[智氪 三年挣百亿，卖味精居然这么挣钱？](https://36kr.com/p/2511967412076553)|
+|2023-11-10 08:36:17|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[做了个 ai 网页应用，没一个用户，😭](https://w2solo.com/topics/4242)|
 |2023-11-10 12:19:00|[V2EX](https://v2ex.com/index.xml)|[ iPhone iPhone13Pro 经常提示需要密码解锁手机以开启面容](https://www.v2ex.com/t/990788#reply0)|
 |2023-11-10 12:16:54|[V2EX](https://v2ex.com/index.xml)|[ 程序员 内网 ddns-go 和 cloudflare tunnel 对比](https://www.v2ex.com/t/990787#reply0)|
 |2023-11-10 12:08:41|[V2EX](https://v2ex.com/index.xml)|[ Apple Apple tv 好价可入](https://www.v2ex.com/t/990786#reply0)|
