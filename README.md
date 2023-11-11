@@ -2,6 +2,32 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-11 03:17:24|[心的道理](https://stephenleng.com/feed/)|[中国究竟是集体主义社会还是原子化社会？](https://stephenleng.com/social-atomisation-china/)|
+|2023-11-11 02:53:30|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[双十一与我](https://scottyeung.top/2023/11-11-shopping-festival/)|
+|2023-11-11 04:05:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美军参联会主席警告以色列「每一个加沙平民遇难，都可能催生新的哈马斯成员」，透露出哪些信息？](https://www.zhihu.com/question/629719694)|
+|2023-11-11 04:05:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[理想汽车连续四个季度盈利，李想称面对华为 80% 学习、 20% 尊敬、零抱怨，哪些信息值得关注？](https://www.zhihu.com/question/629714980)|
+|2023-11-11 04:05:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些是生孩子以后才知道的事情？](https://www.zhihu.com/question/569304898)|
+|2023-11-11 04:05:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[央行行长潘功胜表示引导金融机构通过展期、借新还旧、置换等方式化解融资平台债务风险，哪些信息值得关注？](https://www.zhihu.com/question/629724957)|
+|2023-11-11 04:05:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[一个人该怎么运动，才能保持年轻？](https://www.zhihu.com/question/578290862)|
+|2023-11-11 04:05:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[哪些口红 / 唇釉是你化妆包里的「常驻选手」？](https://www.zhihu.com/question/628953771)|
+|2023-11-11 04:05:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[报道称巴菲特以个人账户交易伯克希尔正在或即将买卖的股票，涉及富国银行、强生、沃尔玛，具体情况如何？](https://www.zhihu.com/question/629733613)|
+|2023-11-11 04:05:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大学的日落为什么没有高中的好看？](https://www.zhihu.com/question/629696394)|
+|2023-11-11 04:05:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么一看见领导我就胆怯呢？我该怎么在一群领导面前表现的不怯场呢？](https://www.zhihu.com/question/629570265)|
+|2023-11-11 04:05:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[现在光学前沿方向有哪些？](https://www.zhihu.com/question/38060543)|
+|2023-11-11 04:05:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价游戏《明日方舟：终末地》？](https://www.zhihu.com/question/628008543)|
+|2023-11-11 04:05:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[天气渐冷，有哪些冬季户外运动的好物值得买？](https://www.zhihu.com/question/629724903)|
+|2023-11-11 04:05:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人类在 100 年内是否有可能探测到暗物质？](https://www.zhihu.com/question/629355519)|
+|2023-11-11 04:05:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你读过的书里，最让你受益的一句话是什么？](https://www.zhihu.com/question/629443726)|
+|2023-11-11 04:05:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[明兰为什么突然答应顾廷烨了？](https://www.zhihu.com/question/309582482)|
+|2023-11-11 04:05:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年将成有史以来最热一年，厄尔尼诺至少持续至明年四月，葡萄酒产量将创 60 年新低，有何影响？](https://www.zhihu.com/question/629730236)|
+|2023-11-11 04:05:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么好多学校都喜欢挖个湖？](https://www.zhihu.com/question/268227369)|
+|2023-11-11 04:05:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[班宇、陈春成等知名青年作家拟获武汉市文联所属事业单位聘用，如何看待此事？](https://www.zhihu.com/question/629450541)|
+|2023-11-11 04:05:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[JDG 和 T1 今年哪个胜算大一些？](https://www.zhihu.com/question/629346342)|
+|2023-11-11 04:05:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《三体》雷迪亚兹的方法为什么受到民众这么大的厌恶?](https://www.zhihu.com/question/629068945)|
+|2023-11-11 04:00:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[智己为了展示自家LS6的后排磁吸生态，应该是上演了行业第一次CEO在车内包饺子的盛况](https://dig.chouti.com/link/40578770)|
+|2023-11-11 04:07:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[新能源车企为什么要把门把手藏起来？](https://36kr.com/p/2512161619775488)|
+|2023-11-11 04:07:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[李书福的第八个IPO来了，极氪将赴美上市，三年烧掉百亿](https://36kr.com/p/2512388554149891)|
+|2023-11-11 04:07:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪「SHE POWER·2023影响力女性」重磅发布，韧与慧的力量](https://36kr.com/p/2512407219261448)|
 |2023-11-11 02:09:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 OpenAI 能堵上这个漏洞吗？](https://www.v2ex.com/t/990874#reply0)|
 |2023-11-11 02:07:05|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 最近 openAI 挺火的,但是我的 iPhone 下载了用不到](https://www.v2ex.com/t/990873#reply0)|
 |2023-11-11 02:02:01|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iOS 一个文字菜单一个奇葩的设计](https://www.v2ex.com/t/990872#reply1)|
