@@ -1,7 +1,35 @@
-﻿# 每日资讯（2023-11-10）
+﻿# 每日资讯（2023-11-11）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-11 02:09:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 OpenAI 能堵上这个漏洞吗？](https://www.v2ex.com/t/990874#reply0)|
+|2023-11-11 02:07:05|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 最近 openAI 挺火的,但是我的 iPhone 下载了用不到](https://www.v2ex.com/t/990873#reply0)|
+|2023-11-11 02:02:01|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iOS 一个文字菜单一个奇葩的设计](https://www.v2ex.com/t/990872#reply1)|
+|2023-11-11 02:01:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求助， iPhone 咋输入`呢？](https://www.v2ex.com/t/990871#reply1)|
+|2023-11-11 01:59:36|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 双十一期间购买的鼠标，京东拒绝价保，已向 12315 投诉](https://www.v2ex.com/t/990870#reply4)|
+|2023-11-11 01:58:09|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro MacBook Pro 16 吋 140W 充电器怎么选？](https://www.v2ex.com/t/990869#reply0)|
+|2023-11-11 01:57:22|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有这样的 AI 图片生成网站？](https://www.v2ex.com/t/990868#reply0)|
+|2023-11-11 01:53:59|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 请教两个关于 iOS 端小红书和淘宝 app 的小问题](https://www.v2ex.com/t/990867#reply0)|
+|2023-11-11 01:53:59|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 职场求助🆘](https://www.v2ex.com/t/990866#reply0)|
+|2023-11-11 01:45:34|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 寻求日区 Apple 礼品卡可靠购入渠道](https://www.v2ex.com/t/990865#reply0)|
+|2023-11-11 01:38:55|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 v 站有来自 13%的中国 ip 访问](https://www.v2ex.com/t/990864#reply18)|
+|2023-11-11 01:38:19|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 求一枚开源，轻量级的分布式任务调度系统](https://www.v2ex.com/t/990863#reply1)|
+|2023-11-11 01:37:47|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 出海公司网络加速](https://www.v2ex.com/t/990862#reply3)|
+|2023-11-11 01:30:55|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 讯飞星火 AI IOS 客户端五点难用期望优化](https://www.v2ex.com/t/990861#reply0)|
+|2023-11-11 01:20:24|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有适合飘窗使用的高低腿的桌子推荐？](https://www.v2ex.com/t/990859#reply1)|
+|2023-11-11 01:17:10|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Apple TV 4K 128 GB（海外自营）京东 PLUS 用户 1161 元](https://www.v2ex.com/t/990858#reply16)|
+|2023-11-11 01:15:53|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 一加是小米的平替吗?](https://www.v2ex.com/t/990857#reply2)|
+|2023-11-11 01:06:24|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 分享一个可指定生成相似的美女网站](https://www.v2ex.com/t/990856#reply10)|
+|2023-11-11 00:38:48|[V2EX](https://www.v2ex.com/index.xml)|[ 苏州 我靠，啥都可能有毒，作为消费者只能擦亮眼睛吗？以后买房还得调查下这块地之前干啥了](https://www.v2ex.com/t/990854#reply8)|
+|2023-11-11 00:36:54|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 群晖 DS 423+的内存条和 SSD 购买建议](https://www.v2ex.com/t/990853#reply9)|
+|2023-11-11 02:05:00|[虎嗅](https://rss.huxiu.com/)|[发明了蓝光LED的诺奖得主，只得了一千块奖金？](https://www.huxiu.com/article/2282367.html?f=rss)|
+|2023-11-11 01:38:00|[虎嗅](https://rss.huxiu.com/)|[不列颠漫游指南：一个关于时间旅行的故事](https://www.huxiu.com/article/2284569.html?f=rss)|
+|2023-11-11 00:49:00|[虎嗅](https://rss.huxiu.com/)|[经济冷暖，市场知否？](https://www.huxiu.com/article/2283244.html?f=rss)|
+|2023-11-11 00:11:00|[虎嗅](https://rss.huxiu.com/)|[又有近300位车主给何小鹏写联名信：我们是不是被抛弃了？](https://www.huxiu.com/article/2283751.html?f=rss)|
+|2023-11-11 00:09:00|[虎嗅](https://rss.huxiu.com/)|[5位医学生眼中的实验室](https://www.huxiu.com/article/2283246.html?f=rss)|
+|2023-11-11 00:05:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网飞版《三体》定档3月21日上线：预告片、海报齐发布](https://dig.chouti.com/link/40577205)|
+|2023-11-11 01:38:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[@圆周率等于31415926:历史悠久，穷过的地方，肯定都吃内脏。只有近2，300年开辟出来的新世界肉充裕就不吃内脏//@水獭otter:西人不吃内脏是个误解。匮乏年代也大量吃内脏。而且流行到了现在。法国的里昂菜，意大利的罗马菜都有大量的内脏类菜。这个团队不错。](https://dig.chouti.com/link/40577776)|
+|2023-11-11 00:14:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[B-21袭击者首飞，机身上竖起来的是辅助进气门，尾巴上拖着牵引静压锥用于校验空速管，该机被命名为地狱三头犬](https://dig.chouti.com/link/40577325)|
 |2023-11-10 17:43:00|[机核](https://www.gcores.com/rss)|[旅行、游戏、机核与歌（下）：夜莺、巨石阵、托尔金、莎士比亚与诗篇四十六](https://www.gcores.com/articles/172101)|
 |2023-11-10 16:30:00|[机核](https://www.gcores.com/rss)|[《明日方舟：终末地》技术测试体验：路无坦途，行者不知](https://www.gcores.com/articles/173637)|
 |2023-11-10 15:00:00|[机核](https://www.gcores.com/rss)|[断了网就效率高，手机不能经常掏 天天ACG 11.10](https://www.gcores.com/radios/173332)|
@@ -28,6 +56,7 @@
 |2023-11-10 16:51:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[这样的简单的分布式设计是否可以呢？](https://www.v2ex.com/t/990833#reply1)|
 |2023-11-10 19:22:23|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想买个电视纯当显示器用，有没有合适的推荐一下](https://www.v2ex.com/t/990840#reply0)|
 |2023-11-10 14:32:52|[知乎每日精选](https://www.zhihu.com/rss)|[【LLM】从零开始训练大模型](http://zhuanlan.zhihu.com/p/636270877?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2023-11-11 00:00:01|[瓦解的生活记事](https://hin.cool/atom.xml)|[卡片相机，从了解到放弃](https://hin.cool/posts/camerano.html)|
 |2023-11-10 07:02:43|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[开源简易的文件服务器——CuteHttpFileServer 3.1中文版](https://masuit.com/89)|
 |2023-11-10 08:16:02|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[12 TypeScript Tips for Clean Code](https://javascript.plainenglish.io/12-typescript-tips-for-clean-code-854bda77137c?source=rss-c3917681a8f5------2)|
 |2023-11-10 06:16:58|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[18 Commonly Used JavaScript Methods](https://javascript.plainenglish.io/18-commonly-used-javascript-methods-463fd83d8eae?source=rss-c3917681a8f5------2)|
@@ -63,6 +92,7 @@
 |2023-11-10 16:06:42|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[当代抠门女孩](https://36kr.com/p/2511706958774272)|
 |2023-11-10 16:06:42|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[智氪 三年挣百亿，卖味精居然这么挣钱？](https://36kr.com/p/2511967412076553)|
 |2023-11-10 08:36:17|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[做了个 ai 网页应用，没一个用户，😭](https://w2solo.com/topics/4242)|
+|2023-11-11 08:05:48|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[容器下的 Go 应用程序优化](https://www.chenshaowen.com/blog/optimization-go-applications-in-containers.html)|
 |2023-11-10 12:19:00|[V2EX](https://v2ex.com/index.xml)|[ iPhone iPhone13Pro 经常提示需要密码解锁手机以开启面容](https://www.v2ex.com/t/990788#reply0)|
 |2023-11-10 12:16:54|[V2EX](https://v2ex.com/index.xml)|[ 程序员 内网 ddns-go 和 cloudflare tunnel 对比](https://www.v2ex.com/t/990787#reply0)|
 |2023-11-10 12:08:41|[V2EX](https://v2ex.com/index.xml)|[ Apple Apple tv 好价可入](https://www.v2ex.com/t/990786#reply0)|
