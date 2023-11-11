@@ -2,6 +2,64 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-11 16:08:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[iPhone SE4再爆新消息，安卓旗舰的老对手要回来了](https://36kr.com/p/2512462525308806)|
+|2023-11-11 16:08:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[专访苹果高管：看待iPhone的方式，苹果和我们想的不一样](https://36kr.com/p/2513243206963208)|
+|2023-11-11 16:08:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[淘宝帝国的一条裂缝](https://36kr.com/p/2512577530568834)|
+|2023-11-11 16:08:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[当年轻人都在穿始祖鸟时，另一些人选择放弃它｜商业Friday](https://36kr.com/p/2512006260637701)|
+|2023-11-11 16:08:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[这届双11，快递业为何“静悄悄”？](https://36kr.com/p/2512578639224960)|
+|2023-11-11 16:08:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[工商业储能，遍地“第一名” 焦点分析](https://36kr.com/p/2512003379937285)|
+|2023-11-11 16:08:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[李书福第八个IPO来了，估值130亿美元](https://36kr.com/p/2512274385411970)|
+|2023-11-11 19:41:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 今天发现有人在国内上传了 google 街景](https://www.v2ex.com/t/991079#reply0)|
+|2023-11-11 18:25:45|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 最近感觉自己岁数大了。。要吃的药多了，有什么方便的管理办法吗？](https://www.v2ex.com/t/991078#reply2)|
+|2023-11-11 17:48:07|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 大厂低 p 工作几年的感悟和大实话](https://www.v2ex.com/t/991077#reply9)|
+|2023-11-11 17:08:37|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 微信简单聊天记账](https://www.v2ex.com/t/991076#reply5)|
+|2023-11-11 17:08:07|[V2EX](https://www.v2ex.com/index.xml)|[ 京东 京东真是越来越狗了，保价越来越难申请，变着花样坑消费者](https://www.v2ex.com/t/991075#reply3)|
+|2023-11-11 16:59:17|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 使用了诺基亚猫棒，在 WIFI 环境遇到了个很奇怪的问题](https://www.v2ex.com/t/991074#reply1)|
+|2023-11-11 16:58:34|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 某 Clash 客户端被卡巴斯基误报蠕虫](https://www.v2ex.com/t/991073#reply1)|
+|2023-11-11 16:46:00|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 记得有一个要写代码玩的游戏，很有深度，好像是 rpg，忘记名字了，有朋友知道吗？](https://www.v2ex.com/t/991070#reply1)|
+|2023-11-11 16:43:01|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 GPTs 一键分享到 X](https://www.v2ex.com/t/991069#reply0)|
+|2023-11-11 16:27:32|[V2EX](https://www.v2ex.com/index.xml)|[ SONY 大法这样的显示算是漏光吗？](https://www.v2ex.com/t/991068#reply0)|
+|2023-11-11 16:20:15|[V2EX](https://www.v2ex.com/index.xml)|[ 互联网 阿里熟悉的味道，被淘宝的介入客服整得只能微笑](https://www.v2ex.com/t/991067#reply5)|
+|2023-11-11 15:34:23|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 贝尔金扩展坞无法使用 61W 充电头给 macbook pro m1 充电](https://www.v2ex.com/t/991066#reply1)|
+|2023-11-11 15:31:23|[V2EX](https://www.v2ex.com/index.xml)|[ Apple m3 的 512g 存储比 1tb 版本速度慢吗，有朋友知道吗](https://www.v2ex.com/t/991065#reply3)|
+|2023-11-11 15:30:16|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 最近用 pillow 发现喝咖啡影响深度睡眠](https://www.v2ex.com/t/991064#reply1)|
+|2023-11-11 15:28:50|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 刚入了 AIDente Pro，请问一下老哥们，这个 App 大概怎么个用法额](https://www.v2ex.com/t/991063#reply1)|
+|2023-11-11 15:22:15|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 京东上面的二手 mac 靠谱吗](https://www.v2ex.com/t/991062#reply0)|
+|2023-11-11 15:18:12|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求推荐降噪麦克风耳机（注意是降低麦克风周围环境噪音包括人声，提升收音质量）](https://www.v2ex.com/t/991061#reply2)|
+|2023-11-11 15:16:09|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 想问下大佬 40M 的字符串适合放到 redis 缓存吗？](https://www.v2ex.com/t/991060#reply5)|
+|2023-11-11 15:03:39|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 iPad 小火箭无法联网](https://www.v2ex.com/t/991057#reply2)|
+|2023-11-11 14:57:47|[V2EX](https://www.v2ex.com/index.xml)|[ 深圳 11/9 龙华大浪持刀伤人有详细吗](https://www.v2ex.com/t/991056#reply0)|
+|2023-11-11 14:56:45|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有什么方便浏览和管理 HTML 笔记文件的软件吗？](https://www.v2ex.com/t/991055#reply1)|
+|2023-11-11 14:39:56|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 问下各位 v 友 15pro 的真实续航](https://www.v2ex.com/t/991053#reply8)|
+|2023-11-11 14:39:34|[V2EX](https://www.v2ex.com/index.xml)|[ 旅行 西藏-318 旅游照片和部分视频](https://www.v2ex.com/t/991052#reply18)|
+|2023-11-11 14:36:12|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 选择 Macbook Pro M2 13 英寸 还是 Macbook M3 14 英寸](https://www.v2ex.com/t/991050#reply2)|
+|2023-11-11 14:32:33|[V2EX](https://www.v2ex.com/index.xml)|[ Chrome win11 桌面打开右键菜单后 chrome 崩溃](https://www.v2ex.com/t/991049#reply2)|
+|2023-11-11 14:31:43|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 作为研发的你会写单元测试、e2e 测试吗](https://www.v2ex.com/t/991047#reply0)|
+|2023-11-11 14:26:01|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 想问一下大佬们现在抄代码还有价值吗](https://www.v2ex.com/t/991045#reply3)|
+|2023-11-11 14:25:58|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 我这个 iPhone 是出了恶意 bug？](https://www.v2ex.com/t/991044#reply1)|
+|2023-11-11 14:20:33|[V2EX](https://www.v2ex.com/index.xml)|[ VPS 便宜转发 NNR 双十一折扣](https://www.v2ex.com/t/991043#reply1)|
+|2023-11-11 14:18:09|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 柳比歇夫时间记录](https://www.v2ex.com/t/991042#reply3)|
+|2023-11-11 14:12:58|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大哥们有没有网盘迁移方案](https://www.v2ex.com/t/991039#reply4)|
+|2023-11-11 14:08:51|[V2EX](https://www.v2ex.com/index.xml)|[ Google Google 账号和 Gmail 邮箱～](https://www.v2ex.com/t/991038#reply8)|
+|2023-11-11 14:08:47|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 站长能增加个直播/录播和短视频运营的节点吗？](https://www.v2ex.com/t/991037#reply0)|
+|2023-11-11 14:01:38|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 通过 API 与 OpenAI 交互时，修改了系统的回应会怎么样？](https://www.v2ex.com/t/991035#reply2)|
+|2023-11-11 13:59:53|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 阅读文章的网站分享](https://www.v2ex.com/t/991034#reply0)|
+|2023-11-11 13:57:52|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 双 11 决赛圈：雷鸟 75 寸与酷开 85 怎么选呢](https://www.v2ex.com/t/991032#reply4)|
+|2023-11-11 13:52:50|[V2EX](https://www.v2ex.com/index.xml)|[ Java 继承成员变量和继承方法的疑问](https://www.v2ex.com/t/991031#reply0)|
+|2023-11-11 13:49:17|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 双 11 看了一圈 NAS 和小主机，还是想买 HP Gen10 Plus，请问现在哪买便宜点](https://www.v2ex.com/t/991030#reply10)|
+|2023-11-11 13:45:18|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 问下买 15pro 的伙伴， 特别是黑色和蓝色真的有掉漆吗？](https://www.v2ex.com/t/991029#reply5)|
+|2023-11-11 13:42:38|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 畅网 j4125 运行大约 20 小时会失联， 求大神帮助](https://www.v2ex.com/t/991028#reply6)|
+|2023-11-11 13:15:20|[V2EX](https://www.v2ex.com/index.xml)|[ Logseq Logseq 拼车](https://www.v2ex.com/t/991027#reply0)|
+|2023-11-11 13:05:50|[V2EX](https://www.v2ex.com/index.xml)|[ WordPress 求推荐，面向 CDN 优化的方法](https://www.v2ex.com/t/991024#reply1)|
+|2023-11-11 13:02:17|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 双十一了，域名续费有什么优惠的渠道吗？](https://www.v2ex.com/t/991023#reply0)|
+|2023-11-11 12:59:18|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 苹果 iOS 17.2 代码发现新 API，可在 iPhone 上侧载应用](https://www.v2ex.com/t/991022#reply0)|
+|2023-11-11 12:55:44|[V2EX](https://www.v2ex.com/index.xml)|[ VPS 为什么 VPS 新建和重装系统那么快？](https://www.v2ex.com/t/991021#reply10)|
+|2023-11-11 12:35:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有什么办法能把软件做成免安装版？](https://www.v2ex.com/t/991020#reply2)|
+|2023-11-11 12:13:00|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 二手 iPhone 当测试机，能升级新版 ios，价钱便宜的是哪个型号？](https://www.v2ex.com/t/991018#reply1)|
+|2023-11-11 12:11:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 MacBook Pro M1 Max 10cpu+32gpu 32g 内存 512g 存储，¥12000 值吗](https://www.v2ex.com/t/991017#reply0)|
+|2023-11-11 12:07:18|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 Flutter 向 pub.dev 提交 packages 问题求助](https://www.v2ex.com/t/991016#reply6)|
+|2023-11-11 12:02:21|[V2EX](https://www.v2ex.com/index.xml)|[ macOS Surge for Mac 5 差 4](https://www.v2ex.com/t/991015#reply3)|
+|2023-11-11 11:12:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[神级蝎子摆尾绝杀！土超第12轮，特拉布宗体育2-1战胜科尼亚体育。比赛第85分钟，身高2米01的奥努阿楚在禁区内上演神级蝎子摆尾进球！](https://dig.chouti.com/link/40581869)|
 |2023-11-11 14:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ *╹▽╹* ](https://dig.chouti.com/link/40583153)|
 |2023-11-11 11:35:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《哆啦A梦》大雄父亲配音演员中庸助去世，享年93岁](https://dig.chouti.com/link/40581970)|
 |2023-11-11 13:05:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巴厘岛，为什么总死人？](https://dig.chouti.com/link/40582658)|
