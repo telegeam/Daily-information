@@ -2,6 +2,54 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-12 10:17:49|[小众软件](https://www.appinn.com/feed/)|[Eagle 4.0 beta 公测版正式发布，新增插件系统：Ai 放大、去背，Pinterest 以图找图等](https://www.appinn.com/eagle-4-beta/)|
+|2023-11-12 13:59:40|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[恐怖奇幻片《地狱铁匠》：铁匠与恶魔做了交易，结果恶魔被调戏了！](https://www.ximalaya.com/sound/683714768)|
+|2023-11-12 16:08:01|[V2EX](http://www.v2ex.com/index.xml)|[ Android Google Pay 改用 Play Integrity 检测“安全性”了， root 搞机党注意](https://www.v2ex.com/t/991290#reply1)|
+|2023-11-12 15:52:50|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 隆力奇也涉足 Python 了](https://www.v2ex.com/t/991288#reply1)|
+|2023-11-12 15:40:31|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 阿里科学家 n+1,诸位起来加班了吗](https://www.v2ex.com/t/991286#reply2)|
+|2023-11-12 15:34:02|[V2EX](http://www.v2ex.com/index.xml)|[ iOS ios17 新增屏幕距离功能 会增加耗电么](https://www.v2ex.com/t/991285#reply5)|
+|2023-11-12 15:17:55|[V2EX](http://www.v2ex.com/index.xml)|[ iOS 之前在 ios 卸载软件但是保留数据，再重新安装的话还是安装当时的版本，怎么就在这几天变成强制安装新版本了？](https://www.v2ex.com/t/991283#reply0)|
+|2023-11-12 14:55:50|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 上海联通千兆，桥接降速到 50M，换猫解决](https://www.v2ex.com/t/991280#reply0)|
+|2023-11-12 14:51:46|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 小米社区自动签到脚本，无需 ROOT，支持定时执行、熄屏解锁](https://www.v2ex.com/t/991279#reply1)|
+|2023-11-12 14:51:12|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 esim 的手机号，可以同时在多台手机使用么？](https://www.v2ex.com/t/991278#reply4)|
+|2023-11-12 14:50:36|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 我 win10 系统如何做成 iso 镜像？](https://www.v2ex.com/t/991277#reply2)|
+|2023-11-12 14:46:36|[V2EX](http://www.v2ex.com/index.xml)|[ 路由器 有啥稳定且管理界面友好的有线路由器推荐的？](https://www.v2ex.com/t/991275#reply1)|
+|2023-11-12 14:33:35|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 小白求教关于移动硬盘在 win 和 mac 下读写的问题](https://www.v2ex.com/t/991274#reply1)|
+|2023-11-12 14:32:38|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 有些地区是不是限制了，即使自己更换 2.5G 电口光猫也无法突破千兆瓶颈？](https://www.v2ex.com/t/991273#reply3)|
+|2023-11-12 14:30:35|[V2EX](http://www.v2ex.com/index.xml)|[ 微信 吐槽微信小程序最近收 300 认证费缘由](https://www.v2ex.com/t/991272#reply2)|
+|2023-11-12 14:25:27|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 iso Youtube app 能正常连接但是视频不能播放](https://www.v2ex.com/t/991271#reply1)|
+|2023-11-12 14:25:14|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 powershell 怎么设置代理？](https://www.v2ex.com/t/991270#reply1)|
+|2023-11-12 14:22:35|[V2EX](http://www.v2ex.com/index.xml)|[ Android 小米 13 国行刷了国际版 MIUI 居然可以用 esim](https://www.v2ex.com/t/991269#reply16)|
+|2023-11-12 14:21:14|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有什么文字展示类的视频制作的最佳实践？](https://www.v2ex.com/t/991268#reply0)|
+|2023-11-12 14:13:15|[V2EX](http://www.v2ex.com/index.xml)|[ NAS 能否结合阿里云 ECS 和群晖，实现快速访问和 4T 硬盘兼得](https://www.v2ex.com/t/991265#reply11)|
+|2023-11-12 14:11:29|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 帮助中心一般是用什么实现的？](https://www.v2ex.com/t/991264#reply0)|
+|2023-11-12 14:10:42|[V2EX](http://www.v2ex.com/index.xml)|[ 浏览器 Edge 正常文本上显示光标？](https://www.v2ex.com/t/991263#reply2)|
+|2023-11-12 14:07:31|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 开源了一个 Flutter 功能引导小工具「feature_guider」，给大家介绍一下](https://www.v2ex.com/t/991262#reply1)|
+|2023-11-12 13:53:54|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 联通套餐凑抵消](https://www.v2ex.com/t/991261#reply1)|
+|2023-11-12 13:50:27|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Linux 服务器系统盘的 inode 数有没有办法修改](https://www.v2ex.com/t/991260#reply5)|
+|2023-11-12 13:45:05|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 腾讯 teg 云架构平台部怎么样？](https://www.v2ex.com/t/991259#reply1)|
+|2023-11-12 13:44:42|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 美区账号如何绑定国内信用卡，好给交通卡用啊](https://www.v2ex.com/t/991258#reply14)|
+|2023-11-12 13:43:10|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有没有体验类似 vscode 的终端?](https://www.v2ex.com/t/991257#reply0)|
+|2023-11-12 13:42:25|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 寻找之前开沃柑小店的兄弟](https://www.v2ex.com/t/991256#reply2)|
+|2023-11-12 13:41:25|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 聊聊大家公司里的架构部门都做的什么工作吧？](https://www.v2ex.com/t/991255#reply0)|
+|2023-11-12 13:40:55|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有没有破解软件的教程？](https://www.v2ex.com/t/991254#reply1)|
+|2023-11-12 13:30:57|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 有个想法， gpt 这种流行后，前端需求将大幅减少](https://www.v2ex.com/t/991251#reply2)|
+|2023-11-12 13:30:28|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 请教一个关于中职生实习就业的问题](https://www.v2ex.com/t/991250#reply10)|
+|2023-11-12 13:13:44|[V2EX](http://www.v2ex.com/index.xml)|[ Flutter flutter 状态管理使用 getx 还是 riverpod](https://www.v2ex.com/t/991247#reply5)|
+|2023-11-12 13:12:41|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 鉴于广东电信拿不到公网 ipv4,请问群晖能用 ipv6 跑群晖自带的 DDNS 吗](https://www.v2ex.com/t/991246#reply6)|
+|2023-11-12 12:59:40|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 更新 Chrome 浏览器后发现浏览网页时，加载很慢，最后发现原来是安装 ublock 插件后就无法打开网页预加载功能，禁用 ublock 之后就可以打开了， Ublock 是被 Chrome 针对了吗？](https://www.v2ex.com/t/991244#reply3)|
+|2023-11-12 12:58:01|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 家宽 ddns 如何复用域名及申请 ssl 证书？](https://www.v2ex.com/t/991243#reply11)|
+|2023-11-12 12:57:43|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 移植电芯必须使用超容电芯的原理](https://www.v2ex.com/t/991242#reply7)|
+|2023-11-12 12:44:29|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 老哥们，假墙有办法破么， cf cft 优选得到的延迟全是随机假的](https://www.v2ex.com/t/991241#reply1)|
+|2023-11-12 12:39:27|[V2EX](http://www.v2ex.com/index.xml)|[ Android 安卓手机有无根据环境音量自动调节媒体音量的功能或软件](https://www.v2ex.com/t/991240#reply0)|
+|2023-11-12 12:39:20|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 推荐一个显示器管理软件 betterdisplay](https://www.v2ex.com/t/991239#reply6)|
+|2023-11-12 15:00:00|[机核](https://www.gcores.com/rss)|[在巴格达扒房顶，游戏茶话会Vol.56](https://www.gcores.com/radios/173621)|
+|2023-11-12 08:54:03|[观人看世界](https://feedpress.me/wx-iwatch1024)|[被审核了](http://mp.weixin.qq.com/s?__biz=MzI5NDI2NTAxMA%3D%3D&mid=2247489336&idx=1&sn=0a18395d12f5471dd19cab8a67aa0219)|
+|2023-11-12 08:10:47|[Hi, I Am I](https://5ime.cn/atom.xml)|[强网拟态 2023 Writeup](https://5ime.cn/mimic-2023.html)|
+|2023-11-12 10:37:10|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1183 开发了四年的 NetBSD 10 接近发布](https://linux.cn/article-16373-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-12 08:00:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[桌面应用 4 种超简单的自定义 Budgie 桌面的方式](https://linux.cn/article-16372-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-12 05:07:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 Canonical 告诉你如何不通过 Snap 商店使用 Snap 包](https://linux.cn/article-16371-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-12 14:17:47|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[那是一个告别](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892263&idx=1&sn=d14f1a2286956053f2de627739415864)|
 |2023-11-12 11:46:16|[机核](https://www.gcores.com/rss)|[WBG及T1晋级《英雄联盟》S13总决赛](https://www.gcores.com/articles/173682)|
 |2023-11-12 10:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#263：《黑客战队：异度神兆》](https://www.gcores.com/articles/173657)|
 |2023-11-12 09:30:00|[机核](https://www.gcores.com/rss)|[异常空间调查圈](https://www.gcores.com/articles/173673)|
