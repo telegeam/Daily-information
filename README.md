@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-12 12:19:00|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[记录下一次服务器迁移](https://nicksxs.me/2023/11/12/%E8%AE%B0%E5%BD%95%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%81%E7%A7%BB/)|
+|2023-11-12 08:04:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【网曝大批中国公民滞留俄罗斯无法回国？官方：运力不足导致】黑河市外办工作人员表示，“随着气温不断降低，黑龙江黑河段进入流冰期，河面上漂浮着大大小小的冰块，目前已启动气垫船进行运输。但双方口岸的气垫船较少，所以造成运力不足。”每年开春和流冰期都会遇到类似情况，今年是疫情后互通第一年，所以整体运力不足。](https://dig.chouti.com/link/40588489)|
+|2023-11-12 08:12:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[恐袭阴影下的足球：以色列队开始10天4战马拉松](https://dig.chouti.com/link/40588748)|
+|2023-11-12 06:55:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【Taylor Swift重制专辑接连爆红，三大唱片却有点慌了】粗暴来讲，便是谁持有母本版权，谁就直接拿大头的钱，既得利益主体绝大多数时候便是唱片公司。](https://dig.chouti.com/link/40588073)|
+|2023-11-12 10:19:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“反诈老陈”成吃播博主？本人回应：做吃播是探索反诈新形式](https://dig.chouti.com/link/40589636)|
+|2023-11-12 11:08:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[重庆兴手付传销案始末](https://dig.chouti.com/link/40589907)|
+|2023-11-12 05:08:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[科幻作家糖匪：被AI替代的人如何生活？](https://dig.chouti.com/link/40587594)|
+|2023-11-12 11:05:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[暴雪前员工爆料：《魔兽世界》一匹马比《星际争霸2》赚得还多](https://dig.chouti.com/link/40589820)|
+|2023-11-12 19:21:39|[V2EX](https://v2ex.com/index.xml)|[ Python 有什么 mac 软件可以前置窗口自定义内容？](https://www.v2ex.com/t/991300#reply2)|
+|2023-11-12 18:33:21|[V2EX](https://v2ex.com/index.xml)|[ 问与答 是前端改还是后端改？](https://www.v2ex.com/t/991299#reply0)|
+|2023-11-12 18:12:40|[V2EX](https://v2ex.com/index.xml)|[ 全球工单系统 Cloudflare 大崩溃后遗症？ - 边缘证书签发延迟，或导致网站离线一天以上？](https://www.v2ex.com/t/991298#reply0)|
+|2023-11-12 18:00:33|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有什么软件可以追踪其他应用在什么地方拉过屎？](https://www.v2ex.com/t/991297#reply1)|
+|2023-11-12 17:08:39|[V2EX](https://v2ex.com/index.xml)|[ 问与答 除了方便面还有什么可以吃饱的方便食品推荐吗？](https://www.v2ex.com/t/991293#reply12)|
+|2023-11-12 17:00:15|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 GPTs CAT：这只小猫能帮你找到最新有趣的 GPTs](https://www.v2ex.com/t/991291#reply1)|
+|2023-11-12 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 165 期（2023.11.13）](https://www.ftium4.com/ux-weekly-165.html)|
+|2023-11-12 06:37:14|[太隐](https://wangyurui.com/feed.xml)|[棱镜通讯 No .102 森政弘](https://wangyurui.com/posts/leng-jing-tong-xun-no-102-sen-zheng-hong-1e265590)|
+|2023-11-12 06:37:03|[太隐](https://wangyurui.com/feed.xml)|[一生一代一双人](https://wangyurui.com/posts/yi-sheng-yi-dai-yi-shuang-ren-108dc20b)|
+|2023-11-12 06:36:59|[太隐](https://wangyurui.com/feed.xml)|[沉思的生活](https://wangyurui.com/posts/chen-si-de-sheng-huo-9e024a9a)|
+|2023-11-12 06:36:39|[太隐](https://wangyurui.com/feed.xml)|[荒谬人生](https://wangyurui.com/posts/huang-miu-ren-sheng-05162867)|
+|2023-11-12 06:36:32|[太隐](https://wangyurui.com/feed.xml)|[品断肠集](https://wangyurui.com/posts/pin-duan-chang-ji-3cd1dd5b)|
+|2023-11-12 06:36:25|[太隐](https://wangyurui.com/feed.xml)|[品阳春集](https://wangyurui.com/posts/yang-chun-ji-c9a5e455)|
 |2023-11-12 10:17:49|[小众软件](https://www.appinn.com/feed/)|[Eagle 4.0 beta 公测版正式发布，新增插件系统：Ai 放大、去背，Pinterest 以图找图等](https://www.appinn.com/eagle-4-beta/)|
 |2023-11-12 13:59:40|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[恐怖奇幻片《地狱铁匠》：铁匠与恶魔做了交易，结果恶魔被调戏了！](https://www.ximalaya.com/sound/683714768)|
 |2023-11-12 16:08:01|[V2EX](http://www.v2ex.com/index.xml)|[ Android Google Pay 改用 Play Integrity 检测“安全性”了， root 搞机党注意](https://www.v2ex.com/t/991290#reply1)|
