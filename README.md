@@ -1,7 +1,14 @@
-﻿# 每日资讯（2023-11-11）
+﻿# 每日资讯（2023-11-12）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-12 01:12:48|[V2EX](https://v2ex.com/index.xml)|[ 问与答 iso 鏡像是怎麼製作的呢？](https://www.v2ex.com/t/991088#reply0)|
+|2023-11-12 01:11:14|[V2EX](https://v2ex.com/index.xml)|[ Python Python 潮流周刊#26： requests3 的现状](https://www.v2ex.com/t/991087#reply0)|
+|2023-11-12 01:04:41|[V2EX](https://v2ex.com/index.xml)|[ 程序员 请教下局域网路由相关设置](https://www.v2ex.com/t/991086#reply0)|
+|2023-11-12 01:03:13|[V2EX](https://v2ex.com/index.xml)|[ Mac mini 请问， wifi 和有线同时连接的情况下上网走的哪个通道？](https://www.v2ex.com/t/991085#reply1)|
+|2023-11-12 00:43:08|[V2EX](https://v2ex.com/index.xml)|[ Android 如何拯救 Android 糟糕的分享菜单？](https://www.v2ex.com/t/991084#reply5)|
+|2023-11-12 00:29:48|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求助: 关于网页和服务器端口跑的程序不匹配的问题](https://www.v2ex.com/t/991083#reply1)|
+|2023-11-12 00:07:25|[V2EX](https://v2ex.com/index.xml)|[ 问与答 联想拯救者 y7000p 安全吗？](https://www.v2ex.com/t/991082#reply3)|
 |2023-11-11 16:08:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[iPhone SE4再爆新消息，安卓旗舰的老对手要回来了](https://36kr.com/p/2512462525308806)|
 |2023-11-11 16:08:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[专访苹果高管：看待iPhone的方式，苹果和我们想的不一样](https://36kr.com/p/2513243206963208)|
 |2023-11-11 16:08:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[淘宝帝国的一条裂缝](https://36kr.com/p/2512577530568834)|
