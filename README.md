@@ -2,6 +2,37 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-12 03:36:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国公安机关公开通缉缅北果敢电诈集团头目明学昌、明国平、明菊兰、明珍珍](https://dig.chouti.com/link/40586890)|
+|2023-11-12 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马斯克收购推特一周年，“X”有哪些变化？](https://36kr.com/p/2512494137905415)|
+|2023-11-12 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[行业老大和老三突然抱团，零食行业面临洗牌还是寒冬？](https://36kr.com/p/2513259320447239)|
+|2023-11-12 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[县城又一超级独角兽，诞生了](https://36kr.com/p/2513561671323655)|
+|2023-11-12 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[B站，闯入双11激烈战局｜焦点分析](https://36kr.com/p/2511184358162435)|
+|2023-11-12 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[爽文、爽剧、爽游，爽就完了](https://36kr.com/p/2512637135114246)|
+|2023-11-12 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小杨哥踩进辛巴的坑](https://36kr.com/p/2513458755620864)|
+|2023-11-12 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[睡眠不足干掉了3%的GDP，日本在这条赛道卷起来了](https://36kr.com/p/2512538354585605)|
+|2023-11-12 04:17:14|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 平时微信和 qq 的私聊消息,会不会把检测到敏感的内容自动传给人工审查？](https://www.v2ex.com/t/991128#reply0)|
+|2023-11-12 04:12:01|[V2EX](https://www.v2ex.com/index.xml)|[ Podcast 纵横四海主播初印象](https://www.v2ex.com/t/991127#reply0)|
+|2023-11-12 04:07:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 怎么让唱歌变好听](https://www.v2ex.com/t/991125#reply0)|
+|2023-11-12 04:04:12|[V2EX](https://www.v2ex.com/index.xml)|[ Kindle 为什么现在向 kindle 邮箱发送个人文档，每次都要验证呢？](https://www.v2ex.com/t/991123#reply2)|
+|2023-11-12 04:03:32|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI Google play 订阅 ChatGPT plus 方法求教](https://www.v2ex.com/t/991122#reply1)|
+|2023-11-12 04:02:25|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问有对学校的人脸识别技术比较熟悉的大佬么](https://www.v2ex.com/t/991121#reply3)|
+|2023-11-12 03:49:03|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 我做了一个统计汽车品牌的 iOS App 圆周 - 汽车品牌统计](https://www.v2ex.com/t/991119#reply0)|
+|2023-11-12 03:46:32|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 联通的国际游戏直通车/9929 不生效？](https://www.v2ex.com/t/991118#reply0)|
+|2023-11-12 03:43:08|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 入职时薪资 25*14，现在一年半了，在这个环境加薪 10%可行吗？](https://www.v2ex.com/t/991117#reply0)|
+|2023-11-12 03:39:51|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 个人开发者认证的微信小程序要怎么做支付？](https://www.v2ex.com/t/991116#reply1)|
+|2023-11-12 03:39:50|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 深圳 找一枚云计算售前工程师](https://www.v2ex.com/t/991115#reply1)|
+|2023-11-12 03:32:33|[V2EX](https://www.v2ex.com/index.xml)|[ 前端开发 问一个前端 canvas rotate transform 的坐标问题](https://www.v2ex.com/t/991114#reply0)|
+|2023-11-12 03:30:15|[V2EX](https://www.v2ex.com/index.xml)|[ 信息安全 如何评价欧盟的 eIDAS2.0 法案，要求信任由欧盟政府颁发的证书？](https://www.v2ex.com/t/991113#reply0)|
+|2023-11-12 03:23:46|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 肉身去国外有啥可以做的](https://www.v2ex.com/t/991112#reply6)|
+|2023-11-12 03:21:57|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有人知道 outline 文档编辑器中文档集的图标怎么自定义的吗？](https://www.v2ex.com/t/991110#reply0)|
+|2023-11-12 02:59:52|[V2EX](https://www.v2ex.com/index.xml)|[ Java Java 中一个保存了 1 万个整数的 ArrayList 占多少内存？](https://www.v2ex.com/t/991104#reply8)|
+|2023-11-12 02:38:32|[V2EX](https://www.v2ex.com/index.xml)|[ 健康 右踝骨折 6 个月之后还有一边骨没长出来](https://www.v2ex.com/t/991101#reply0)|
+|2023-11-12 02:16:07|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 小程序 300 块现在看样子是强制咯](https://www.v2ex.com/t/991096#reply7)|
+|2023-11-12 02:04:46|[V2EX](https://www.v2ex.com/index.xml)|[ English 有没有那种学习英语口语发声的 app，类似于跟读的 app， app 读一句话，你可以有一个时间停顿也跟着读一句话，这样练习发声比较方便](https://www.v2ex.com/t/991094#reply8)|
+|2023-11-12 01:45:28|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 TIM - QQ 办公简洁版寄了？](https://www.v2ex.com/t/991091#reply14)|
+|2023-11-12 01:29:03|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 根据 gitbook、mdbook url 一键生成 PDF 电子书](https://www.v2ex.com/t/991090#reply0)|
+|2023-11-12 01:14:00|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 过保的苹果手机自费返厂更换新机后出现的保修日期怪事](https://www.v2ex.com/t/991089#reply7)|
+|2023-11-12 01:12:48|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 iso 鏡像是怎麼製作的呢？](https://www.v2ex.com/t/991088#reply9)|
 |2023-11-12 01:12:48|[V2EX](https://v2ex.com/index.xml)|[ 问与答 iso 鏡像是怎麼製作的呢？](https://www.v2ex.com/t/991088#reply0)|
 |2023-11-12 01:11:14|[V2EX](https://v2ex.com/index.xml)|[ Python Python 潮流周刊#26： requests3 的现状](https://www.v2ex.com/t/991087#reply0)|
 |2023-11-12 01:04:41|[V2EX](https://v2ex.com/index.xml)|[ 程序员 请教下局域网路由相关设置](https://www.v2ex.com/t/991086#reply0)|
