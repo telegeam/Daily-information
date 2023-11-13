@@ -2,6 +2,31 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-13 04:03:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[医疗健康行业周报 睿璟生物获数千万元Pre-B轮融资；第九批药品国采纳入重点监控品种](https://36kr.com/p/2514797060149249)|
+|2023-11-13 04:03:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[乌镇世界互联网大会“关键词”：AI、AIGC和算力](https://36kr.com/p/2514648097415047)|
+|2023-11-13 04:03:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国公司全球化周报｜传SHEIN希望获得900亿美元的IPO估值 / 前10个月汽车出口累计近400万辆，新能源车出口增幅显著](https://36kr.com/p/2513492222841094)|
+|2023-11-13 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨官方通报知名博主在大连遭遇“鬼秤”事件；“双11”当天全国快递业务量达6.39亿件；55个品牌被移出中华老字号](https://36kr.com/p/2515970548584709)|
+|2023-11-13 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[双 11 战报出炉，iPhone 15 和小米 14 卖疯了...](https://36kr.com/p/2515397845078022)|
+|2023-11-13 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[重启「猫晚」，天猫在下怎样一盘大棋？](https://36kr.com/p/2515012128198921)|
+|2023-11-13 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[李宁的1000亿市值哪去了](https://36kr.com/p/2513895697289221)|
+|2023-11-13 12:16:53|[虎嗅](https://rss.huxiu.com/)|[苏州毒地案罗生门：相互矛盾的环评是怎么做出的？](https://www.huxiu.com/article/2294830.html?f=rss)|
+|2023-11-13 12:07:53|[虎嗅](https://rss.huxiu.com/)|[虎嗅【作·嗅之星】周榜第183期](https://www.huxiu.com/article/2294965.html?f=rss)|
+|2023-11-13 12:05:46|[虎嗅](https://rss.huxiu.com/)|[脑机接口，真的要爆发了？](https://www.huxiu.com/article/2294494.html?f=rss)|
+|2023-11-13 11:08:13|[虎嗅](https://rss.huxiu.com/)|[港漂10年的中产妈妈，揭露香港教育的真相](https://www.huxiu.com/article/2294476.html?f=rss)|
+|2023-11-13 10:57:08|[虎嗅](https://rss.huxiu.com/)|[大模型这“人肉搜索”能力吓到我了](https://www.huxiu.com/article/2294855.html?f=rss)|
+|2023-11-13 10:55:24|[虎嗅](https://rss.huxiu.com/)|[花束般的恋爱，北上广不配](https://www.huxiu.com/article/2294520.html?f=rss)|
+|2023-11-13 09:52:56|[虎嗅](https://rss.huxiu.com/)|[说暴汗服是智商税，都侮辱了智商税](https://www.huxiu.com/article/2294075.html?f=rss)|
+|2023-11-13 09:51:00|[虎嗅](https://rss.huxiu.com/)|[消费投资，难在找人？](https://www.huxiu.com/article/2285734.html?f=rss)|
+|2023-11-13 09:27:07|[虎嗅](https://rss.huxiu.com/)|[王传福搞的智能驾驶，真不是忽悠吗？](https://www.huxiu.com/article/2290234.html?f=rss)|
+|2023-11-13 09:12:39|[虎嗅](https://rss.huxiu.com/)|[为什么对抗虚无主义的方法都没用？](https://www.huxiu.com/article/2294131.html?f=rss)|
+|2023-11-13 08:43:05|[虎嗅](https://rss.huxiu.com/)|[“漫改韩剧”凭什么虏获东亚观众？](https://www.huxiu.com/article/2294140.html?f=rss)|
+|2023-11-13 08:34:44|[虎嗅](https://rss.huxiu.com/)|[陆家嘴苏州百亿“毒地案”，谁之过？](https://www.huxiu.com/article/2294129.html?f=rss)|
+|2023-11-13 08:34:02|[虎嗅](https://rss.huxiu.com/)|[现代最“神秘”的男人是谁？](https://www.huxiu.com/article/2294453.html?f=rss)|
+|2023-11-13 11:57:50|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[《电信网络诈骗及其关联违法犯罪联合惩戒办法（征求意见稿）》](https://www.freebuf.com/articles/383717.html)|
+|2023-11-13 07:28:09|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[攻防漏洞利用与红队反溯源 FCIS 2023大会议题前瞻](https://www.freebuf.com/fevents/383676.html)|
+|2023-11-13 01:36:49|[13 報](https://ethanhuang13.substack.com/feed/)|[開發者週報 #209 Steam Deck OLED 也太有誠意了](https://www.ethanhuang13.com/p/209)|
+|2023-11-13 07:23:12|[静风说](http://www.jingfengshuo.com/feed)|[普宁两日游](https://www.jingfengshuo.com/archives/2693.html)|
+|2023-11-13 04:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[习拜会峰会前的外交博弈内幕](https://cn.wsj.com/articles/%E4%B9%A0%E6%8B%9C%E4%BC%9A%E5%B3%B0%E4%BC%9A%E5%89%8D%E7%9A%84%E5%A4%96%E4%BA%A4%E5%8D%9A%E5%BC%88%E5%86%85%E5%B9%95-34f403e1)|
 |2023-11-13 05:35:04|[小众软件](https://www.appinn.com/feed/)|[Github 发布了适合显示代码的开源字体超级家族 Monaspace，支持编程连字，其 Texture Healing 特性可让 w、m、i、l 读起来更舒服](https://www.appinn.com/github-superfamily-fonts-monaspace/)|
 |2023-11-13 01:24:41|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 你应该知道的主流开源数据库](https://linux.cn/article-16374-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-13 08:08:20|[虎嗅](https://rss.huxiu.com/)|[为什么明星总在直播间啃鸡爪？](https://www.huxiu.com/article/2293473.html?f=rss)|
