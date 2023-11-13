@@ -2,6 +2,64 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-13 04:15:12|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 又一个 GPTs 导航站，可向量检索，有 Chrome 插件](https://www.v2ex.com/t/991426#reply0)|
+|2023-11-13 04:12:10|[V2EX](https://v2ex.com/index.xml)|[ 程序员 问一下各位，这种图片是使用什么工具制作的](https://www.v2ex.com/t/991425#reply1)|
+|2023-11-13 04:10:48|[V2EX](https://v2ex.com/index.xml)|[ 问与答 赴日 Java （要求日语）](https://www.v2ex.com/t/991424#reply0)|
+|2023-11-13 04:06:48|[V2EX](https://v2ex.com/index.xml)|[ Python Matter+ Python +homepod 实现语音控制有人懂吗？](https://www.v2ex.com/t/991422#reply0)|
+|2023-11-13 04:04:03|[V2EX](https://v2ex.com/index.xml)|[ 问与答 以润为目标，研究什么技术栈收益最大？](https://www.v2ex.com/t/991421#reply6)|
+|2023-11-13 03:59:59|[V2EX](https://v2ex.com/index.xml)|[ 生活 求蒸煮一体锅推荐](https://www.v2ex.com/t/991420#reply1)|
+|2023-11-13 03:56:01|[V2EX](https://v2ex.com/index.xml)|[ 程序员 plsql 存储过程的学习,想问一下存储过程是不是有点类似 c 语言的函数封装](https://www.v2ex.com/t/991419#reply0)|
+|2023-11-13 03:55:16|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 开源一个基于网页的共享剪切板 PHP ](https://www.v2ex.com/t/991418#reply2)|
+|2023-11-13 03:54:07|[V2EX](https://v2ex.com/index.xml)|[ 问与答 都在缺钱，那么钱去哪了？](https://www.v2ex.com/t/991417#reply1)|
+|2023-11-13 03:52:42|[V2EX](https://v2ex.com/index.xml)|[ FFmpeg 求助使用 ffmpeg 压缩.mov 视频输出后丢失元数据问题如何解决](https://www.v2ex.com/t/991416#reply1)|
+|2023-11-13 03:51:32|[V2EX](https://v2ex.com/index.xml)|[ 求职 求职 Base 贵阳或远程 30+年工作经验,分析师架构师双证, Java /C++](https://www.v2ex.com/t/991415#reply3)|
+|2023-11-13 03:50:12|[V2EX](https://v2ex.com/index.xml)|[ 生活 银离子鞋袜除臭喷雾真的是我这种鞋臭的人的救星](https://www.v2ex.com/t/991413#reply1)|
+|2023-11-13 03:50:00|[V2EX](https://v2ex.com/index.xml)|[ 问与答 支持 DCI-P3 的显示器，如何以 Display P3 色域显示？](https://www.v2ex.com/t/991412#reply0)|
+|2023-11-13 03:48:49|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 大模型应用方向创业，找靠谱的 高级前端开发工程师 / Node.js 后端开发工程师](https://www.v2ex.com/t/991411#reply0)|
+|2023-11-13 03:48:44|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 杭州 网易云音乐 招资深前端开发](https://www.v2ex.com/t/991410#reply0)|
+|2023-11-13 03:41:57|[V2EX](https://v2ex.com/index.xml)|[ 程序员 光猫为何无法设置静态路由的网关 , 上级路由无法访问子路由中的设备,请问如何解决?](https://www.v2ex.com/t/991407#reply0)|
+|2023-11-13 03:40:14|[V2EX](https://v2ex.com/index.xml)|[ 问与答 工行的美元理财有买的吗](https://www.v2ex.com/t/991406#reply0)|
+|2023-11-13 03:38:37|[V2EX](https://v2ex.com/index.xml)|[ 程序员 大家有加密 u 盘推荐的吗？](https://www.v2ex.com/t/991404#reply4)|
+|2023-11-13 03:38:21|[V2EX](https://v2ex.com/index.xml)|[ 程序员 关于 NBD 网络协议，有老哥遇到这个问题吗](https://www.v2ex.com/t/991403#reply0)|
+|2023-11-13 03:34:43|[V2EX](https://v2ex.com/index.xml)|[ MySQL MYSQL 8.0.33 8 核 64G my.cnf 配置](https://www.v2ex.com/t/991402#reply0)|
+|2023-11-13 03:29:51|[V2EX](https://v2ex.com/index.xml)|[ Ruby on Rails 推荐一个 Admin Panel](https://www.v2ex.com/t/991400#reply2)|
+|2023-11-13 03:29:31|[V2EX](https://v2ex.com/index.xml)|[ 问与答 如何使用 ONEDRIVE 世纪互联）备份大容量移动硬盘（4T ](https://www.v2ex.com/t/991399#reply0)|
+|2023-11-13 03:28:37|[V2EX](https://v2ex.com/index.xml)|[ 站长 大家能不能把我服务器发挂？](https://www.v2ex.com/t/991398#reply23)|
+|2023-11-13 03:27:20|[V2EX](https://v2ex.com/index.xml)|[ Docker 使用 pve 作为 all in one 主机中的 docker 的容器,如何在 docker-compose 文件中指定静态 ip 和 dns?](https://www.v2ex.com/t/991397#reply1)|
+|2023-11-13 03:26:34|[V2EX](https://v2ex.com/index.xml)|[ 推广 有红包的问卷调查（1/2 概率），≥1 元， Doctor B. 的科研前期调查问卷，超重男性程序员的精子质量会怎样？](https://www.v2ex.com/t/991396#reply0)|
+|2023-11-13 03:24:45|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 我闲着没事开发一款网文创作应用——芒果云创作。](https://www.v2ex.com/t/991395#reply1)|
+|2023-11-13 03:24:10|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 新买的 N100 小主机双螃蟹网卡跑 PVE 虚拟机网卡不定时挂掉求助](https://www.v2ex.com/t/991394#reply5)|
+|2023-11-13 03:23:30|[V2EX](https://v2ex.com/index.xml)|[ 问与答 眼镜镜架怎么买啊？](https://www.v2ex.com/t/991393#reply0)|
+|2023-11-13 03:16:28|[V2EX](https://v2ex.com/index.xml)|[ 程序员 封装了一个阿里云 NodeJS 客户端](https://www.v2ex.com/t/991391#reply2)|
+|2023-11-13 03:16:01|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 台湾 ESIM，输入兑换码获得 1G 亚洲漫游流量，之前兑换 Eskimo 攒了 1.5G 新加坡流量](https://www.v2ex.com/t/991390#reply1)|
+|2023-11-13 03:14:07|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想统计一下双 11 各位的支出情况！](https://www.v2ex.com/t/991389#reply33)|
+|2023-11-13 03:12:06|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求推荐远程解决电脑疑难杂症的店铺](https://www.v2ex.com/t/991388#reply0)|
+|2023-11-13 03:08:03|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有哪些软件可以实现对 exe 程序打包授权的服务](https://www.v2ex.com/t/991387#reply1)|
+|2023-11-13 03:07:56|[V2EX](https://v2ex.com/index.xml)|[ 问与答 关于 iOS 的专注模式设置问题](https://www.v2ex.com/t/991386#reply6)|
+|2023-11-13 02:56:47|[V2EX](https://v2ex.com/index.xml)|[ 程序员 数电发票接口有研究的吗](https://www.v2ex.com/t/991381#reply2)|
+|2023-11-13 02:55:49|[V2EX](https://v2ex.com/index.xml)|[ 分享发现 《蓝眼武士》有没有人看完啊，本来看到《拾荒者统治》已经感叹了，](https://www.v2ex.com/t/991380#reply4)|
+|2023-11-13 02:55:42|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 无注册、免广告、无内购的电子木鱼 app —— 一起敲电子木鱼，积赛博功德吧~](https://www.v2ex.com/t/991379#reply0)|
+|2023-11-13 02:55:10|[V2EX](https://v2ex.com/index.xml)|[ 微信 微信小程序如何实现视频的简单剪辑？](https://www.v2ex.com/t/991378#reply3)|
+|2023-11-13 02:51:32|[V2EX](https://v2ex.com/index.xml)|[ 问与答 关于转 AI 大模型的一些疑问](https://www.v2ex.com/t/991375#reply8)|
+|2023-11-13 02:50:09|[V2EX](https://v2ex.com/index.xml)|[ 生活 家庭音影方案](https://www.v2ex.com/t/991374#reply0)|
+|2023-11-13 02:46:09|[V2EX](https://v2ex.com/index.xml)|[ 程序员 家用 NAS 用什么软件构建内网，全平台都能用的，现在手机连不上](https://www.v2ex.com/t/991372#reply14)|
+|2023-11-13 02:45:58|[V2EX](https://v2ex.com/index.xml)|[ 求职 深圳/东莞/Remote 找前端工作， Rust 初学者，活跃于大型开源项目（Vite, Vitest, UnoCSS, OXC）](https://www.v2ex.com/t/991371#reply0)|
+|2023-11-13 02:44:48|[V2EX](https://v2ex.com/index.xml)|[ OpenAI 小白求教 gpt 有应用在教育领域的应用吗？](https://www.v2ex.com/t/991370#reply5)|
+|2023-11-13 02:43:11|[V2EX](https://v2ex.com/index.xml)|[ 问与答 关于拖拉拽实现开发功能的低代码平台](https://www.v2ex.com/t/991369#reply9)|
+|2023-11-13 02:38:06|[V2EX](https://v2ex.com/index.xml)|[ Android 想海鲜市场收个安卓手机](https://www.v2ex.com/t/991368#reply20)|
+|2023-11-13 02:28:05|[V2EX](https://v2ex.com/index.xml)|[ 问与答 裁员后是去申请失业金还是继续交灵活就业社保？](https://www.v2ex.com/t/991362#reply27)|
+|2023-11-13 02:27:36|[V2EX](https://v2ex.com/index.xml)|[ 问与答 闲鱼可以卖 chatgpt 账号么？](https://www.v2ex.com/t/991361#reply0)|
+|2023-11-13 02:24:29|[V2EX](https://v2ex.com/index.xml)|[ 问与答 老铁们 请教下 有啥靠谱恢复安卓手机数据的软件？](https://www.v2ex.com/t/991360#reply0)|
+|2023-11-13 02:22:07|[V2EX](https://v2ex.com/index.xml)|[ 职场话题 公司发不出工资了，惨兮兮](https://www.v2ex.com/t/991359#reply34)|
+|2023-11-13 02:16:11|[V2EX](https://v2ex.com/index.xml)|[ Apple mac 上有没有软件能把放大、缩小、关闭按钮移动到窗口的右边 ？](https://www.v2ex.com/t/991355#reply5)|
+|2023-11-13 03:41:41|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新人报道](https://w2solo.com/topics/4245)|
+|2023-11-13 03:56:33|[爱范儿](https://www.ifanr.com/feed)|[卡戴珊的内衣品牌不只是 CK 劲敌，还想做下一个耐克](https://www.ifanr.com/1567814?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-13 02:41:57|[爱范儿](https://www.ifanr.com/feed)|[苹果：我们的产品不收「环保税」 Feel Good 周报](https://www.ifanr.com/1567775?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-13 00:44:05|[爱范儿](https://www.ifanr.com/feed)|[早报｜阿里回应多款产品「崩了」/ 郭明錤爆料 2024 款 iPad 系列 / 华为悬赏 200 万解答 2 道题](https://www.ifanr.com/1567847?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-13 10:08:15|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[不虚此行 4K下载](https://masuit.com/2077)|
+|2023-11-13 03:09:16|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[阿里云“崩了”，相关App组团上热搜](https://www.freebuf.com/news/383618.html)|
+|2023-11-13 03:07:35|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[MuddyC2Go：伊朗黑客对以色列使用的新C2框架](https://www.freebuf.com/news/383617.html)|
+|2023-11-13 02:50:13|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[波音公司拒绝支付赎金，LockBit直接公布43GB文件](https://www.freebuf.com/news/383609.html)|
 |2023-11-13 01:03:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[搭建私人像册，最合适/经济的机型是什么？](https://www.v2ex.com/t/991318#reply3)|
 |2023-11-12 12:19:00|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[记录下一次服务器迁移](https://nicksxs.me/2023/11/12/%E8%AE%B0%E5%BD%95%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%81%E7%A7%BB/)|
 |2023-11-12 08:04:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【网曝大批中国公民滞留俄罗斯无法回国？官方：运力不足导致】黑河市外办工作人员表示，“随着气温不断降低，黑龙江黑河段进入流冰期，河面上漂浮着大大小小的冰块，目前已启动气垫船进行运输。但双方口岸的气垫船较少，所以造成运力不足。”每年开春和流冰期都会遇到类似情况，今年是疫情后互通第一年，所以整体运力不足。](https://dig.chouti.com/link/40588489)|
