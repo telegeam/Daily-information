@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-11-12）
+﻿# 每日资讯（2023-11-13）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-13 01:03:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[搭建私人像册，最合适/经济的机型是什么？](https://www.v2ex.com/t/991318#reply3)|
 |2023-11-12 12:19:00|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[记录下一次服务器迁移](https://nicksxs.me/2023/11/12/%E8%AE%B0%E5%BD%95%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%81%E7%A7%BB/)|
 |2023-11-12 08:04:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【网曝大批中国公民滞留俄罗斯无法回国？官方：运力不足导致】黑河市外办工作人员表示，“随着气温不断降低，黑龙江黑河段进入流冰期，河面上漂浮着大大小小的冰块，目前已启动气垫船进行运输。但双方口岸的气垫船较少，所以造成运力不足。”每年开春和流冰期都会遇到类似情况，今年是疫情后互通第一年，所以整体运力不足。](https://dig.chouti.com/link/40588489)|
 |2023-11-12 08:12:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[恐袭阴影下的足球：以色列队开始10天4战马拉松](https://dig.chouti.com/link/40588748)|
@@ -17,6 +18,7 @@
 |2023-11-12 17:08:39|[V2EX](https://v2ex.com/index.xml)|[ 问与答 除了方便面还有什么可以吃饱的方便食品推荐吗？](https://www.v2ex.com/t/991293#reply12)|
 |2023-11-12 17:00:15|[V2EX](https://v2ex.com/index.xml)|[ 分享创造 GPTs CAT：这只小猫能帮你找到最新有趣的 GPTs](https://www.v2ex.com/t/991291#reply1)|
 |2023-11-12 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 165 期（2023.11.13）](https://www.ftium4.com/ux-weekly-165.html)|
+|2023-11-13 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第153期 - 高空画家](https://weekly.tw93.fun/posts/153-%E9%AB%98%E7%A9%BA%E7%94%BB%E5%AE%B6/)|
 |2023-11-12 06:37:14|[太隐](https://wangyurui.com/feed.xml)|[棱镜通讯 No .102 森政弘](https://wangyurui.com/posts/leng-jing-tong-xun-no-102-sen-zheng-hong-1e265590)|
 |2023-11-12 06:37:03|[太隐](https://wangyurui.com/feed.xml)|[一生一代一双人](https://wangyurui.com/posts/yi-sheng-yi-dai-yi-shuang-ren-108dc20b)|
 |2023-11-12 06:36:59|[太隐](https://wangyurui.com/feed.xml)|[沉思的生活](https://wangyurui.com/posts/chen-si-de-sheng-huo-9e024a9a)|
