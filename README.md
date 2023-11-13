@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-13 02:22:08|[Diff客旅日记](https://diff.im/blog/?feed=rss2)|[重拾绘画](https://diff.im/blog/?p=1676)|
+|2023-11-13 05:56:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[不同的路](http://mercurychong.blogspot.com/2023/11/blog-post.html)|
 |2023-11-13 14:41:24|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 新款 Fedora Slimbook 14 加入 Fedora Slimbook 阵营](https://linux.cn/article-16377-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-13 09:28:16|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1184 等不及官方发布，创客制作了自己的树莓派 CM5](https://linux.cn/article-16376-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-13 07:49:22|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 下一代 elementary OS 8 剧透](https://linux.cn/article-16375-1.html?utm_source=rss&utm_medium=rss)|
