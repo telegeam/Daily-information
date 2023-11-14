@@ -1,7 +1,19 @@
-﻿# 每日资讯（2023-11-13）
+﻿# 每日资讯（2023-11-14）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-14 01:08:35|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 广东电信存量 IPv4，一直非标组网，现在取消 IPTV 了还是拨不到 IPv4](https://www.v2ex.com/t/991675#reply0)|
+|2023-11-14 01:05:53|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 冲牙器也太牛了](https://www.v2ex.com/t/991674#reply1)|
+|2023-11-14 01:05:27|[V2EX](https://www.v2ex.com/index.xml)|[ 服务器 有没有推荐的服务器日志管理方面的软件或者第三方服务？](https://www.v2ex.com/t/991673#reply0)|
+|2023-11-14 01:03:22|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 微信支付中，平台代收资金如何合法合规？](https://www.v2ex.com/t/991672#reply0)|
+|2023-11-14 00:56:56|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 https://github.com/Breeze1203/JavaAdvanced/blob/main/%E5%BD%AD%E6%B6%9B.pdf](https://www.v2ex.com/t/991671#reply0)|
+|2023-11-14 00:55:03|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 现在进军短视频会不会 49 年入国军。主要拍拍 vlog 那些。](https://www.v2ex.com/t/991670#reply8)|
+|2023-11-14 00:52:19|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 美区 Apple One 超大杯车位一个, 赶紧上车了!](https://www.v2ex.com/t/991669#reply0)|
+|2023-11-14 00:51:42|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 想开发个安卓无障碍服务](https://www.v2ex.com/t/991668#reply0)|
+|2023-11-14 00:49:49|[V2EX](https://www.v2ex.com/index.xml)|[ Java 在 bean 之间复制具有不同名称的属性，不使用其他依赖库的情况下](https://www.v2ex.com/t/991667#reply3)|
+|2023-11-14 00:42:44|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问有没有支持蓝牙发射的体积小巧内置电池的 FM 设备？我想搭配马歇尔来听收音机。](https://www.v2ex.com/t/991665#reply3)|
+|2023-11-14 00:33:18|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 很多 app 居然把陀螺仪等传感器用作风控](https://www.v2ex.com/t/991663#reply16)|
+|2023-11-14 00:29:37|[V2EX](https://www.v2ex.com/index.xml)|[ 云计算 携程 云原生研发工程师](https://www.v2ex.com/t/991662#reply0)|
 |2023-11-13 02:22:08|[Diff客旅日记](https://diff.im/blog/?feed=rss2)|[重拾绘画](https://diff.im/blog/?p=1676)|
 |2023-11-13 05:56:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[不同的路](http://mercurychong.blogspot.com/2023/11/blog-post.html)|
 |2023-11-13 14:41:24|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 新款 Fedora Slimbook 14 加入 Fedora Slimbook 阵营](https://linux.cn/article-16377-1.html?utm_source=rss&utm_medium=rss)|
