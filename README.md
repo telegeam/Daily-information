@@ -2,6 +2,59 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-14 12:03:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[从阿里云全面崩溃看，真的需要「快速跨云迁移」](https://www.v2ex.com/t/991920#reply32)|
+|2023-11-14 13:32:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[等明天一觉醒来，时间戳就 17 开头了哦 🥰](https://www.v2ex.com/t/991933#reply50)|
+|2023-11-14 16:05:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有个 Sunbird 可以在安卓来发 iMessage 了](https://www.v2ex.com/t/991951#reply8)|
+|2023-11-14 17:53:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[.NET 8 发布正式版了](https://www.v2ex.com/t/991958#reply3)|
+|2023-11-14 09:11:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[对于“酷安”这波评论接口各位有啥看法？](https://www.v2ex.com/t/991880#reply55)|
+|2023-11-14 17:53:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[《SRS 原理》第一版完成了](https://www.v2ex.com/t/991957#reply0)|
+|2023-11-14 04:05:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家挂 pt 都是啥配置机器呀，我还在用 J1900， 4*16T 的硬盘](https://www.v2ex.com/t/991777#reply57)|
+|2023-11-14 13:41:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[接口响应结果应该以请求头里的 Accept 字段为准吗](https://www.v2ex.com/t/991934#reply14)|
+|2023-11-14 13:16:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[讯飞 android demo 返回错误码 18301，但自己的错误码平台没有这个码，厉害了](https://www.v2ex.com/t/991930#reply1)|
+|2023-11-14 09:04:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教一个 nginx 转发请求后， uri 的%28%29 被还原成 的问题](https://www.v2ex.com/t/991876#reply11)|
+|2023-11-14 14:41:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么《大话西游》这部电影无法被 emby 找到元数据？](https://www.v2ex.com/t/991943#reply2)|
+|2023-11-14 14:06:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[内网转发的 DNS 困惑](https://www.v2ex.com/t/991937#reply4)|
+|2023-11-14 05:57:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想要黑群晖的 5000 端口用 Nginx 反代出来,会有什么安全问题?](https://www.v2ex.com/t/991802#reply21)|
+|2023-11-14 02:07:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[需要一个 sql 语法解析器](https://www.v2ex.com/t/991707#reply17)|
+|2023-11-14 03:35:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[vivo x100 发布了，蓝科技，年度超满分旗舰手机，感觉很能打](https://www.v2ex.com/t/991764#reply46)|
+|2023-11-14 08:07:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一个冒充淘宝客服的诈骗网站，有技术的爆了他吧，好恶心](https://www.v2ex.com/t/991849#reply28)|
+|2023-11-14 13:41:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有熟悉 Python -docx 的大佬吗？](https://www.v2ex.com/t/991935#reply1)|
+|2023-11-14 11:26:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[tp6 框架 composer 的时候报 @ PHP think service:discover handling the post-autoload-dump event returned with error code 255](https://www.v2ex.com/t/991908#reply8)|
+|2023-11-14 09:40:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[面向找工作， Java 后端，想拓宽些技术栈，应该学习什么](https://www.v2ex.com/t/991893#reply9)|
+|2023-11-14 08:55:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有什么不要求格式化旧硬盘（Ext4）的 NAS 系统？](https://www.v2ex.com/t/991872#reply10)|
+|2023-11-14 07:41:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于写外包代码的代码保护问题，写的一些小代码如何防止别人拿了代码跑路？做 license？有什么方案呢？如果只是几个 Java 类，或者前端的几个页面，应该如何保护？](https://www.v2ex.com/t/991839#reply8)|
+|2023-11-14 08:50:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教一下大佬们二维矩阵的 DFS 问题，不知道为什么总是报错](https://www.v2ex.com/t/991869#reply10)|
+|2023-11-14 11:35:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[windows beta 频道最新系统读取 exfat 硬盘异常](https://www.v2ex.com/t/991910#reply0)|
+|2023-11-14 03:49:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于存储选型问题](https://www.v2ex.com/t/991770#reply12)|
+|2023-11-14 07:01:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 powershell 执行 node 程序假死](https://www.v2ex.com/t/991827#reply4)|
+|2023-11-14 13:19:43|[触乐](http://www.chuapp.com/feed)|[三消还能诞生《宝石迷阵》那样的优秀游戏吗？](http://www.chuapp.com/article/289625.html)|
+|2023-11-14 12:48:53|[触乐](http://www.chuapp.com/feed)|[触乐夜话：如何制作一个二次元手游角色](http://www.chuapp.com/article/289624.html)|
+|2023-11-14 10:33:29|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[财政部、国家网信办发布《会计师事务所数据安全管理暂行办法（征求意见稿）》](https://www.freebuf.com/articles/383846.html)|
+|2023-11-14 10:00:51|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[30岁，年薪百万，网络安全总监的聊天记录被流出](https://www.freebuf.com/articles/network/383718.html)|
+|2023-11-14 18:55:19|[V2EX](https://www.v2ex.com/index.xml)|[ Bitcoin paxful 上面这些高价买币的人是啥情况...](https://www.v2ex.com/t/991960#reply1)|
+|2023-11-14 18:51:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Python 官方文档的这 2 个 CSS 文件导致浏览器空白无响应是什么原因啊？](https://www.v2ex.com/t/991959#reply0)|
+|2023-11-14 18:26:31|[SHRIK3](https://shrik3.com/index.xml)|[bits 0x2e - Calender Week 46, 2023 WIP ](https://shrik3.com/bits/0x2e/)|
+|2023-11-14 17:33:34|[机核](https://www.gcores.com/rss)|[《时空幻境》周年纪念版将于2024年4月30日登陆NS](https://www.gcores.com/articles/173785)|
+|2023-11-14 15:00:00|[机核](https://www.gcores.com/rss)|[游戏圆桌 聊聊魂like游戏](https://www.gcores.com/radios/173622)|
+|2023-11-14 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：牺牲](https://www.gcores.com/radios/173768)|
+|2023-11-14 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：审判日](https://www.gcores.com/radios/173766)|
+|2023-11-14 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：问](https://www.gcores.com/radios/173765)|
+|2023-11-14 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：夜幕降临](https://www.gcores.com/radios/173763)|
+|2023-11-14 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：明天的英雄](https://www.gcores.com/radios/173762)|
+|2023-11-14 11:39:54|[机核](https://www.gcores.com/rss)|[IGN8分：索尼串流掌机PlayStation Portal媒体体验汇总](https://www.gcores.com/articles/173778)|
+|2023-11-14 10:00:00|[机核](https://www.gcores.com/rss)|[用一盏灯就能在生死两界中反复横跳？聊聊《堕落之主》的世界观设计](https://www.gcores.com/videos/173769)|
+|2023-11-14 10:00:00|[机核](https://www.gcores.com/rss)|[寻找英雄：关于《战火英雄》回归前后那些事](https://www.gcores.com/articles/173751)|
+|2023-11-14 10:00:00|[机核](https://www.gcores.com/rss)|[阴郁神秘的异星世界探险！《幽灵之歌》通关体验](https://www.gcores.com/videos/173735)|
+|2023-11-14 09:00:00|[机核](https://www.gcores.com/rss)|[黑龙波，录音笔 Vol.77](https://www.gcores.com/radios/173759)|
+|2023-11-14 08:30:00|[机核](https://www.gcores.com/rss)|[万智牌依夏兰迷窟单卡点评（下）](https://www.gcores.com/articles/173742)|
+|2023-11-14 08:18:05|[机核](https://www.gcores.com/rss)|[《回头的弥留者》丨序章（试写）](https://www.gcores.com/articles/173756)|
+|2023-11-14 07:01:19|[机核](https://www.gcores.com/rss)|[《全网公敌》系列新作：《全网公敌：新世界》Steam限时试玩版首次公开](https://www.gcores.com/articles/173757)|
+|2023-11-14 06:32:00|[机核](https://www.gcores.com/rss)|[拉瑞安工作室电影动画主管Jim Southworth去世，官方发文悼念](https://www.gcores.com/articles/173753)|
+|2023-11-14 06:00:00|[机核](https://www.gcores.com/rss)|[仿生德州人的电子犁杖：Hori农场车辆模拟控制器上手体验](https://www.gcores.com/articles/173609)|
+|2023-11-14 05:59:49|[机核](https://www.gcores.com/rss)|[鸟山明《沙漠大冒险》宣布推出动画系列，2024年春季上线Disney+](https://www.gcores.com/articles/173752)|
+|2023-11-14 04:32:37|[机核](https://www.gcores.com/rss)|[B站TGA 2023玩家投票开启，快来评选你心中的年度最佳](https://www.gcores.com/articles/173747)|
+|2023-11-14 03:22:29|[机核](https://www.gcores.com/rss)|[成为管理大亨：《迪斯科模拟器》现已上线试玩序章](https://www.gcores.com/articles/173743)|
+|2023-11-14 11:54:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1185 宇宙射线可以导致 SSH 私钥被窃取](https://linux.cn/article-16380-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-14 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[​六边形战士——体育摄影利器佳能 EOS R3](https://www.photoworld.com.cn/post/175007)|
 |2023-11-14 04:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[2023 北京时装周摄影大赛报名即将截止，欢迎踊跃投稿！](https://www.photoworld.com.cn/post/175242)|
 |2023-11-14 04:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[蔡司影像，心临其境 vivo X100 系列正式发布](https://www.photoworld.com.cn/post/175206)|
