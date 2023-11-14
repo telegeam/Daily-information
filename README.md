@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-14 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[​六边形战士——体育摄影利器佳能 EOS R3](https://www.photoworld.com.cn/post/175007)|
+|2023-11-14 04:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[2023 北京时装周摄影大赛报名即将截止，欢迎踊跃投稿！](https://www.photoworld.com.cn/post/175242)|
+|2023-11-14 04:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[蔡司影像，心临其境 vivo X100 系列正式发布](https://www.photoworld.com.cn/post/175206)|
+|2023-11-14 07:12:57|[小众软件](https://www.appinn.com/feed/)|[Obsidian Web – 连接 Chrome 与 Obsidian，从网页创建笔记，支持自定义模板](https://www.appinn.com/obsidian-web-connect-chrome/)|
+|2023-11-14 04:01:31|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的 9 部作品](https://sspai.com/post/84326)|
+|2023-11-14 04:01:31|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[全场满赠、买一送一，正版软件「双十一」开始了](https://sspai.com/post/84322)|
+|2023-11-14 13:21:12|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：警告但不禁止，遗留代码的优化策略](https://www.kingname.info/2023/11/14/typeddict/)|
 |2023-11-14 10:05:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[习近平为何不能再夸口中国经济？](https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8D%E8%83%BD%E5%86%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A4%B8%E5%8F%A3-43cc0da5)|
 |2023-11-14 01:36:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[工行黑客事件使用了美国政府曾曝光的攻击方式](https://cn.wsj.com/articles/%E5%B7%A5%E8%A1%8C%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6%E4%BD%BF%E7%94%A8%E4%BA%86%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%9B%BE%E6%9B%9D%E5%85%89%E7%9A%84%E6%94%BB%E5%87%BB%E6%96%B9%E5%BC%8F-09ae13e1)|
 |2023-11-14 02:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国电商巨头“双十一”报喜，分析师因销售数据“保密”持谨慎态度](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E5%B7%A8%E5%A4%B4-%E5%8F%8C%E5%8D%81%E4%B8%80-%E6%8A%A5%E5%96%9C-%E5%88%86%E6%9E%90%E5%B8%88%E5%9B%A0%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE-%E4%BF%9D%E5%AF%86-%E6%8C%81%E8%B0%A8%E6%85%8E%E6%80%81%E5%BA%A6-3762b436)|
