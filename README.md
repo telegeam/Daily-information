@@ -2,6 +2,83 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-15 09:04:45|[华山感染](https://feedpress.me/wx-hsinfect)|[CNS感染 一文读懂隐球菌性脑膜炎](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247500376&idx=1&sn=94588f46f7acb18cc67eb4370ef8ab20)|
+|2023-11-15 14:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[习拜会利益攸关，争议问题多，妥协空间小](https://cn.wsj.com/articles/%E4%B9%A0%E6%8B%9C%E4%BC%9A%E5%88%A9%E7%9B%8A%E6%94%B8%E5%85%B3-%E4%BA%89%E8%AE%AE%E9%97%AE%E9%A2%98%E5%A4%9A-%E5%A6%A5%E5%8D%8F%E7%A9%BA%E9%97%B4%E5%B0%8F-f36f4f1d)|
+|2023-11-15 09:45:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国消费支出回升，房地产颓势加剧](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E6%94%AF%E5%87%BA%E5%9B%9E%E5%8D%87-%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A2%93%E5%8A%BF%E5%8A%A0%E5%89%A7-7e635806)|
+|2023-11-15 12:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[富士康制定方案以防郭台铭竞选冲击中国业务](https://cn.wsj.com/articles/%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%88%B6%E5%AE%9A%E6%96%B9%E6%A1%88%E4%BB%A5%E9%98%B2%E9%83%AD%E5%8F%B0%E9%93%AD%E7%AB%9E%E9%80%89%E5%86%B2%E5%87%BB%E4%B8%AD%E5%9B%BD%E4%B8%9A%E5%8A%A1-35196274)|
+|2023-11-15 13:18:48|[机核](https://www.gcores.com/rss)|[那些年，我们一起追过的4399游戏：《战火英雄》重制版](https://www.gcores.com/articles/173835)|
+|2023-11-15 13:00:00|[机核](https://www.gcores.com/rss)|[班宇的文学秘笈 Vol.6丨班宇](https://www.gcores.com/radios/162793)|
+|2023-11-15 10:00:00|[机核](https://www.gcores.com/rss)|[COD20烂的彻底，大锤却出来疯狂甩锅，都是动视和iw的错？](https://www.gcores.com/videos/173833)|
+|2023-11-15 09:00:00|[机核](https://www.gcores.com/rss)|[在成都，录音笔 Vol.78](https://www.gcores.com/radios/173825)|
+|2023-11-15 11:30:36|[晚点LatePost](https://feedpress.me/wx-postlate)|[​​晚点财经｜对手环伺，英伟达加速跑；埃克森美孚迈步锂业](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247509218&idx=2&sn=7c96ce9e5ce2dbc2608acc7897d9068e)|
+|2023-11-15 11:30:35|[晚点LatePost](https://feedpress.me/wx-postlate)|[新新访谈｜云鲸张峻彬：只有创始人走出低谷，公司才能走出来](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247509218&idx=1&sn=4e3a1a8f6ff147f2193bcd81ef54bf37)|
+|2023-11-15 11:39:42|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone SE 4 傳聞 的規格與升級重點、推出時間 一次掌握 7 大變化](https://applefans.today/2023-11-iphone-se-4-rumors/)|
+|2023-11-15 16:19:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 smarttupe 的 socks 代理用不了是咋回事？](https://www.v2ex.com/t/992285#reply0)|
+|2023-11-15 16:16:37|[V2EX](https://www.v2ex.com/index.xml)|[ 云计算 AWS 发了篇文章教用户如何利用 Lambda 监控 Lightsail 流量并自动触发关闭实例操作](https://www.v2ex.com/t/992284#reply0)|
+|2023-11-15 16:13:51|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 Meproc：简单高效的跨平台进程管理工具](https://www.v2ex.com/t/992283#reply0)|
+|2023-11-15 16:02:57|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 在 ChatGPT-4 的加持下用 rust 搞了个命令行版本练手。 https://github.com/54corbin/cli-gpt](https://www.v2ex.com/t/992281#reply0)|
+|2023-11-15 16:01:47|[V2EX](https://www.v2ex.com/index.xml)|[ Google Play google play 的软件怎么下载 apk?](https://www.v2ex.com/t/992280#reply0)|
+|2023-11-15 16:01:29|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 请大佬来帮忙， Linux 桌面图形环境下， shift+del 误删了桌面一个包含 word/excel/pdf 的文件夹，请问能有什么方法可以恢复出来吗？送盘去专业恢复数据暂时没有必要。](https://www.v2ex.com/t/992279#reply0)|
+|2023-11-15 15:42:41|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 我是没想到，文心一言这广告真的如大家所想。](https://www.v2ex.com/t/992277#reply1)|
+|2023-11-15 15:23:45|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 更换光猫确影响了路由器？千兆带宽用手机只能跑两三百兆](https://www.v2ex.com/t/992275#reply2)|
+|2023-11-15 15:16:27|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Google 账号设置页面错位，不知哪里出了问题](https://www.v2ex.com/t/992272#reply2)|
+|2023-11-15 15:06:59|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 微信小程序求助,换电脑后 wx.login 不执行](https://www.v2ex.com/t/992271#reply0)|
+|2023-11-15 14:54:05|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 写着玩的油猴脚本： Bilibili 暗黑模式](https://www.v2ex.com/t/992270#reply0)|
+|2023-11-15 14:53:45|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 建议 v 站可以在提醒系统里面加一个感谢的按钮](https://www.v2ex.com/t/992269#reply0)|
+|2023-11-15 14:53:15|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有蓝光刻录机推荐，几十 T 文件需要备份](https://www.v2ex.com/t/992268#reply1)|
+|2023-11-15 14:49:13|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有 chrome 插件 实现 对网页 的类似 PDF 的功能（高亮/加粗/划线/添加备注笔记）？](https://www.v2ex.com/t/992267#reply0)|
+|2023-11-15 14:47:03|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 高价收 120 刀 欠费号 逾期号 结清号](https://www.v2ex.com/t/992266#reply0)|
+|2023-11-15 14:45:19|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 怎么用脚本对 txt 文件里面的 sql 格式进行校验？](https://www.v2ex.com/t/992265#reply1)|
+|2023-11-15 14:39:29|[V2EX](https://www.v2ex.com/index.xml)|[ Spotify 试开🇮🇳 spotify 家庭车 人齐开](https://www.v2ex.com/t/992264#reply0)|
+|2023-11-15 14:38:13|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 对 electron 系软件的无响应问题实在是烦不胜烦,不知道何时才能解脱](https://www.v2ex.com/t/992263#reply0)|
+|2023-11-15 14:37:45|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 紫微命理 迷茫 && 第一次复盘](https://www.v2ex.com/t/992262#reply0)|
+|2023-11-15 14:31:18|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 win11 笔记本外接了个显示器，请问如何设置笔记本和外界显示器分别显示不同的桌面？](https://www.v2ex.com/t/992261#reply14)|
+|2023-11-15 14:30:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Cloudflare 代理的域名 ping 不通了怎么自动换](https://www.v2ex.com/t/992260#reply1)|
+|2023-11-15 14:28:22|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 字节内推！商业化广告平台，后端岗，社招/校招/实习机会都有， hc 充足，欢迎来聊。年后跳槽人多竞争激烈，想等年终的朋友也可以先过来面，入职时间都可以聊。](https://www.v2ex.com/t/992259#reply0)|
+|2023-11-15 14:19:20|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 日本服务器建站，目标用户是国内，有必要套 CloudFlare 吗？](https://www.v2ex.com/t/992257#reply9)|
+|2023-11-15 14:14:00|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 加入 waitlist 了，不知道要等多久](https://www.v2ex.com/t/992256#reply1)|
+|2023-11-15 14:12:41|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 coursera plus 会员共享车免费送](https://www.v2ex.com/t/992255#reply4)|
+|2023-11-15 14:08:57|[V2EX](https://www.v2ex.com/index.xml)|[ Windows wsl: 检测到 localhost 代理配置](https://www.v2ex.com/t/992252#reply1)|
+|2023-11-15 13:51:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 我的知乎账号已经被封了 5 个月了， 四万多条（46,661 条）收藏还是没有导出来](https://www.v2ex.com/t/992250#reply2)|
+|2023-11-15 13:51:00|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 解决合宙 esp32c3 开发板在 platformio 下的串口调试问题](https://www.v2ex.com/t/992249#reply0)|
+|2023-11-15 13:35:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有什么买断式的播放软件吗？](https://www.v2ex.com/t/992248#reply4)|
+|2023-11-15 13:35:51|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 出租深圳电信宽带 300M（小区）](https://www.v2ex.com/t/992247#reply0)|
+|2023-11-15 13:33:16|[V2EX](https://www.v2ex.com/index.xml)|[ Surge surge 咋代理 udp 流量额？](https://www.v2ex.com/t/992246#reply3)|
+|2023-11-15 13:30:56|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 裸辞 965 的程序员工作 4 年之后，我找到一份 776 的保安工作](https://www.v2ex.com/t/992244#reply14)|
+|2023-11-15 13:30:46|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 MacOS 上的 Appstore 已经好几天都上不去了](https://www.v2ex.com/t/992243#reply3)|
+|2023-11-15 13:29:44|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 新版 Windows11 23H2 将 filters 翻译成滤镜，简直不能忍啊!](https://www.v2ex.com/t/992242#reply8)|
+|2023-11-15 13:27:57|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 我的开源项目支持 gpt-4-vision-preview 啦](https://www.v2ex.com/t/992241#reply2)|
+|2023-11-15 13:21:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求推荐的哔咔漫画客户端](https://www.v2ex.com/t/992239#reply3)|
+|2023-11-15 13:19:04|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 二战还是就业？](https://www.v2ex.com/t/992238#reply7)|
+|2023-11-15 13:18:03|[V2EX](https://www.v2ex.com/index.xml)|[ NAS MoviePilot 用户认证需求](https://www.v2ex.com/t/992237#reply9)|
+|2023-11-15 13:01:43|[V2EX](https://www.v2ex.com/index.xml)|[ Notion Google 账号登录的 Notion 有办法设置密码吗？](https://www.v2ex.com/t/992236#reply0)|
+|2023-11-15 12:57:21|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 日本东京 日本综管，日本商务负责人， Golang， DBA，大数据，系统集成工程师，弱电集成工程师！](https://www.v2ex.com/t/992235#reply1)|
+|2023-11-15 12:24:38|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 2023 Bundlehunt 黑五 Bundle](https://www.v2ex.com/t/992232#reply1)|
+|2023-11-15 12:16:47|[V2EX](https://www.v2ex.com/index.xml)|[ Ubuntu ubuntu 不能配置某个子网掩码](https://www.v2ex.com/t/992231#reply5)|
+|2023-11-15 12:12:57|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求助：大学工作室想装一个集群，来实战 k8s 以及部署一些本地的测试项目，希望大家来帮忙做一些选择](https://www.v2ex.com/t/992229#reply8)|
+|2023-11-15 11:55:11|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有什么深度学习算力租借平台推荐吗？](https://www.v2ex.com/t/992227#reply4)|
+|2023-11-15 11:45:27|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 分享一下我日常用的打洞回家法，不知道有没有 V 友也用这个的](https://www.v2ex.com/t/992226#reply5)|
+|2023-11-15 11:36:12|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 准备校招面试用到的项目，要到哪种程度才算属于自己？](https://www.v2ex.com/t/992224#reply1)|
+|2023-11-15 11:33:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大佬们，请问 Mac 的这个软件是啥， windows 有同款吗？](https://www.v2ex.com/t/992223#reply3)|
+|2023-11-15 11:25:52|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 大家来分享下 edu.cn 结尾的邮箱的妙用呗](https://www.v2ex.com/t/992222#reply2)|
+|2023-11-15 11:20:26|[V2EX](https://www.v2ex.com/index.xml)|[ 阅读 有没有比较好的书推荐，有关于人生的 技术的都可以](https://www.v2ex.com/t/992221#reply3)|
+|2023-11-15 11:17:52|[V2EX](https://www.v2ex.com/index.xml)|[ 招商银行 招行强制换卡号？两张卡都是](https://www.v2ex.com/t/992220#reply8)|
+|2023-11-15 16:05:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[京东集团CEO许冉兼任京东零售CEO，原京东零售CEO辛利军另有任用｜36氪独家](https://36kr.com/p/2519298230232580)|
+|2023-11-15 16:05:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[在视频号卖货的品牌，现在赚到钱了吗？](https://36kr.com/p/2518918570892808)|
+|2023-11-15 16:05:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[10年后，百度终于造出第一辆车](https://36kr.com/p/2518996343121667)|
+|2023-11-15 16:05:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[恢复上架十个月，滴滴重生了吗？](https://36kr.com/p/2518975773745288)|
+|2023-11-15 16:05:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[互联网巨头纷纷加入鸿蒙了](https://36kr.com/p/2518169557081856)|
+|2023-11-15 04:02:50|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[人人喊打的「摇一摇」广告，将被苹果终结](https://36kr.com/p/2518044138610564)|
+|2023-11-15 04:02:50|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[升级了ChatGPT-4，简单聊聊AI对普通职场人的影响](https://36kr.com/p/2517702937862021)|
+|2023-11-15 04:02:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[字节跳动上半年营收约540亿美元，其中Q2达290亿美元｜最前线](https://36kr.com/p/2518293296357129)|
+|2023-11-15 04:02:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大快人心，iPhone封杀“摇一摇”广告，安卓只能羡慕](https://36kr.com/p/2517992771899398)|
+|2023-11-15 04:02:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[说一个某「大厂」的骗局](https://36kr.com/p/2517674384412928)|
+|2023-11-15 04:02:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[谁在疯狂“制造”小杨哥？](https://36kr.com/p/2518074662870916)|
+|2023-11-15 04:02:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[每三分钟诞生一个新GPT！GPT比价、AI算命……我们挑选了10款有意思的GPT应用](https://36kr.com/p/2516599443755265)|
+|2023-11-15 04:02:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨网易向国家市场监管总局举报雀巢；iPhone 15系列双11最后两小时再降价；麦当劳门店客服回应网友吐槽牛奶1杯23元](https://36kr.com/p/2518797514219012)|
+|2023-11-15 04:22:08|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《七囚徒》：巴西版缅北诈骗案，打工人被当成奴隶，与其痛反抗不如加入享受！](https://www.ximalaya.com/sound/684619776)|
+|2023-11-15 12:26:13|[触乐](http://www.chuapp.com/feed)|[当专业AI团队介入游戏开发](http://www.chuapp.com/article/289627.html)|
+|2023-11-15 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：2023年的阿童木](http://www.chuapp.com/article/289626.html)|
 |2023-11-15 04:34:40|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Arcade 必玩遊戲推薦](https://applefans.today/2023-11-apple-arcade-game-recommend/)|
 |2023-11-15 09:37:43|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[毕业四年多以来的编程经历与感想](https://www.v2ex.com/t/992189#reply13)|
 |2023-11-15 06:14:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[已有成品 NAS 的情况下，跑服务用小主机推荐](https://www.v2ex.com/t/992103#reply30)|
