@@ -2,6 +2,98 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-15 04:34:40|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Arcade 必玩遊戲推薦](https://applefans.today/2023-11-apple-arcade-game-recommend/)|
+|2023-11-15 09:37:43|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[毕业四年多以来的编程经历与感想](https://www.v2ex.com/t/992189#reply13)|
+|2023-11-15 06:14:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[已有成品 NAS 的情况下，跑服务用小主机推荐](https://www.v2ex.com/t/992103#reply30)|
+|2023-11-15 12:16:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ubuntu 不能配置某个子网掩码](https://www.v2ex.com/t/992231#reply3)|
+|2023-11-15 09:41:28|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1186 每月 5 美元的虚拟机性能超过了 30 年前的第三快的超算](https://linux.cn/article-16382-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-15 07:48:58|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[技术 这儿几个字节，那里几个字节，我们说的是真正的内存](https://linux.cn/article-16381-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-15 08:47:39|[碗丸食事](https://feedpress.me/wx-foodfile-111010)|[浪，起来～](http://mp.weixin.qq.com/s?__biz=MzU3MjcxOTk5NQ%3D%3D&mid=2247488557&idx=1&sn=98f5812b9a376f2b431081e673d7089c)|
+|2023-11-15 04:16:48|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[6 Advanced TypeScript Tips To Help You Write Clearer Code](https://javascript.plainenglish.io/6-advanced-typescript-tips-to-help-you-write-clearer-code-c93a9180b4eb?source=rss-c3917681a8f5------2)|
+|2023-11-15 12:10:03|[虎嗅](https://rss.huxiu.com/)|[宽松难停？消费疲软，日本经济三季度萎缩](https://www.huxiu.com/article/2304062.html?f=rss)|
+|2023-11-15 12:06:22|[虎嗅](https://rss.huxiu.com/)|[罗永浩离开之后，交个朋友悄然变阵](https://www.huxiu.com/article/2303465.html?f=rss)|
+|2023-11-15 12:02:21|[虎嗅](https://rss.huxiu.com/)|[中国女首富易主，94岁邝肖卿登顶](https://www.huxiu.com/article/2303463.html?f=rss)|
+|2023-11-15 12:00:44|[虎嗅](https://rss.huxiu.com/)|[美团和抖音，谁能成为本地生活的赢家？](https://www.huxiu.com/article/2302769.html?f=rss)|
+|2023-11-15 11:53:34|[虎嗅](https://rss.huxiu.com/)|[到底什么是算力？](https://www.huxiu.com/article/2304001.html?f=rss)|
+|2023-11-15 11:16:53|[虎嗅](https://rss.huxiu.com/)|[李开复被大模型绊了一跤](https://www.huxiu.com/article/2303442.html?f=rss)|
+|2023-11-15 10:38:01|[虎嗅](https://rss.huxiu.com/)|[被苹果抽成36%，谷歌为保住默认搜索引擎位置付出了太多](https://www.huxiu.com/article/2303441.html?f=rss)|
+|2023-11-15 10:31:40|[虎嗅](https://rss.huxiu.com/)|[储能，下一个万亿大赛道？](https://www.huxiu.com/article/2303429.html?f=rss)|
+|2023-11-15 10:29:50|[虎嗅](https://rss.huxiu.com/)|[3.8亿人围观，怒怼李佳琦的采销直播间火了](https://www.huxiu.com/article/2303119.html?f=rss)|
+|2023-11-15 10:24:20|[虎嗅](https://rss.huxiu.com/)|[代孕产业中的出生证“生意经”：3万可买到，45岁以上“客户”要加钱](https://www.huxiu.com/article/2303381.html?f=rss)|
+|2023-11-15 10:23:51|[虎嗅](https://rss.huxiu.com/)|[裁员来了，爱情怎么办？](https://www.huxiu.com/article/2303388.html?f=rss)|
+|2023-11-15 09:54:17|[虎嗅](https://rss.huxiu.com/)|[“莆田首富”，虚名之下的困局](https://www.huxiu.com/article/2302760.html?f=rss)|
+|2023-11-15 09:47:03|[虎嗅](https://rss.huxiu.com/)|[再挑剔的味蕾，在茂名都能得到满足](https://www.huxiu.com/article/2303420.html?f=rss)|
+|2023-11-15 09:12:01|[虎嗅](https://rss.huxiu.com/)|[AI工业大模型是曙光初现还是幻觉严重？](https://www.huxiu.com/article/2301752.html?f=rss)|
+|2023-11-15 09:05:00|[虎嗅](https://rss.huxiu.com/)|[椰树直播负责人：如何打造爆款直播间？](https://www.huxiu.com/article/2303127.html?f=rss)|
+|2023-11-15 09:04:00|[虎嗅](https://rss.huxiu.com/)|[去美国，极星不能输的一战](https://www.huxiu.com/article/2303125.html?f=rss)|
+|2023-11-15 09:03:00|[虎嗅](https://rss.huxiu.com/)|[谁在害怕亲密关系？](https://www.huxiu.com/article/2303360.html?f=rss)|
+|2023-11-15 08:59:05|[虎嗅](https://rss.huxiu.com/)|[24小时内地震超过1000次，冰岛火山喷发在即？](https://www.huxiu.com/article/2303364.html?f=rss)|
+|2023-11-15 08:55:00|[虎嗅](https://rss.huxiu.com/)|[“孩子王”丁磊，如何拿捏熊孩子喜好？](https://www.huxiu.com/article/2302343.html?f=rss)|
+|2023-11-15 08:47:17|[虎嗅](https://rss.huxiu.com/)|[房地产的哪些传统模式将被取代？](https://www.huxiu.com/article/2303090.html?f=rss)|
+|2023-11-15 08:35:00|[虎嗅](https://rss.huxiu.com/)|[中国芯片大师梁孟松到底有多传奇？](https://www.huxiu.com/article/2303117.html?f=rss)|
+|2023-11-15 08:30:26|[虎嗅](https://rss.huxiu.com/)|[脑机接口，“接入”现实？](https://www.huxiu.com/article/2300367.html?f=rss)|
+|2023-11-15 08:25:42|[虎嗅](https://rss.huxiu.com/)|[听他们的，拒当赛博陶渊明](https://www.huxiu.com/article/2303081.html?f=rss)|
+|2023-11-15 08:21:39|[虎嗅](https://rss.huxiu.com/)|[非独生家庭的快乐，独生子女永远不懂](https://www.huxiu.com/article/2275712.html?f=rss)|
+|2023-11-15 08:17:00|[虎嗅](https://rss.huxiu.com/)|[面对经济下行，普通人应该如何自处？](https://www.huxiu.com/article/2303095.html?f=rss)|
+|2023-11-15 08:13:37|[虎嗅](https://rss.huxiu.com/)|[广电总局将再次开展为期1个月的网络微短剧专项整治工作](https://www.huxiu.com/article/2303118.html?f=rss)|
+|2023-11-15 07:58:00|[虎嗅](https://rss.huxiu.com/)|[用千年等一回的方式，打开杭州](https://www.huxiu.com/article/2302724.html?f=rss)|
+|2023-11-15 07:49:30|[虎嗅](https://rss.huxiu.com/)|[VC 打工人出差图鉴：“二三线都飞得少了，这周刚飞了内蒙古”](https://www.huxiu.com/article/2303077.html?f=rss)|
+|2023-11-15 07:32:00|[虎嗅](https://rss.huxiu.com/)|[开个共享教室躺赚？结果累成狗还亏钱](https://www.huxiu.com/article/2299666.html?f=rss)|
+|2023-11-15 07:30:00|[虎嗅](https://rss.huxiu.com/)|[名牌企业都开始做“贴牌”生意了？](https://www.huxiu.com/article/2302262.html?f=rss)|
+|2023-11-15 07:22:08|[虎嗅](https://rss.huxiu.com/)|[韩国防猝死套餐，收割中国年轻人](https://www.huxiu.com/article/2302731.html?f=rss)|
+|2023-11-15 07:15:04|[虎嗅](https://rss.huxiu.com/)|[OpenAI投资的AI硬件，会是下一个iPhone么？](https://www.huxiu.com/article/2302661.html?f=rss)|
+|2023-11-15 07:00:00|[虎嗅](https://rss.huxiu.com/)|[爆火的宅男游戏，崛起的男性经济](https://www.huxiu.com/article/2302336.html?f=rss)|
+|2023-11-15 07:00:00|[虎嗅](https://rss.huxiu.com/)|[“屁味”暴露了你的抑郁体质？](https://www.huxiu.com/article/2288516.html?f=rss)|
+|2023-11-15 06:59:00|[虎嗅](https://rss.huxiu.com/)|[APP摇一摇跳转广告的苦，苹果来解？](https://www.huxiu.com/article/2302278.html?f=rss)|
+|2023-11-15 06:47:01|[虎嗅](https://rss.huxiu.com/)|[查岗，情侣APP的敛财术](https://www.huxiu.com/article/2302732.html?f=rss)|
+|2023-11-15 06:31:23|[虎嗅](https://rss.huxiu.com/)|[1分钟搞懂为啥大股东不能瞎减持](https://www.huxiu.com/article/2302717.html?f=rss)|
+|2023-11-15 06:27:54|[虎嗅](https://rss.huxiu.com/)|[利率持稳：央行超额续作14500亿元MLF](https://www.huxiu.com/article/2302778.html?f=rss)|
+|2023-11-15 06:27:46|[虎嗅](https://rss.huxiu.com/)|[上班天刚亮，到家天黑了，你还买什么冲锋衣？](https://www.huxiu.com/article/2302331.html?f=rss)|
+|2023-11-15 06:22:08|[虎嗅](https://rss.huxiu.com/)|[这个村，老爷们儿为啥爱戴假睫毛？](https://www.huxiu.com/article/2302276.html?f=rss)|
+|2023-11-15 06:12:13|[虎嗅](https://rss.huxiu.com/)|[运动鞋又出奇招，能延长使用寿命吗？](https://www.huxiu.com/article/2302750.html?f=rss)|
+|2023-11-15 06:02:54|[虎嗅](https://rss.huxiu.com/)|[操控缅北诈骗帝国，四大家族有多狂？](https://www.huxiu.com/article/2299691.html?f=rss)|
+|2023-11-15 05:59:29|[虎嗅](https://rss.huxiu.com/)|[基因编辑治疗常见病的“历史性突破”，却引来安全担忧？](https://www.huxiu.com/article/2301670.html?f=rss)|
+|2023-11-15 05:40:00|[虎嗅](https://rss.huxiu.com/)|[实探小米汽车生产基地：已实现小批量试生产，新车或明年2月上市](https://www.huxiu.com/article/2302681.html?f=rss)|
+|2023-11-15 05:32:40|[虎嗅](https://rss.huxiu.com/)|[真假对错与理想主义](https://www.huxiu.com/article/2302716.html?f=rss)|
+|2023-11-15 05:29:35|[虎嗅](https://rss.huxiu.com/)|[生鲜创业“黑帮”：走出十余家公司，累计融资过10亿](https://www.huxiu.com/article/2302281.html?f=rss)|
+|2023-11-15 04:57:22|[虎嗅](https://rss.huxiu.com/)|[金钱世界是怎样运行的？](https://www.huxiu.com/article/2302685.html?f=rss)|
+|2023-11-15 04:24:15|[虎嗅](https://rss.huxiu.com/)|[关于美联储的“降息”策略问题](https://www.huxiu.com/article/2301722.html?f=rss)|
+|2023-11-15 04:00:00|[虎嗅](https://rss.huxiu.com/)|[42块钱的“选妃游戏”，让百万直男找回爱情](https://www.huxiu.com/article/2298398.html?f=rss)|
+|2023-11-15 03:53:03|[虎嗅](https://rss.huxiu.com/)|[十年前裸婚的人，现在后悔了吗？](https://www.huxiu.com/article/2294138.html?f=rss)|
+|2023-11-15 03:41:01|[虎嗅](https://rss.huxiu.com/)|[读懂王自如，读懂大公司](https://www.huxiu.com/article/2301735.html?f=rss)|
+|2023-11-15 03:41:00|[虎嗅](https://rss.huxiu.com/)|[县城零食店火热，背后是商业帝国还是内卷迷局？](https://www.huxiu.com/article/2301739.html?f=rss)|
+|2023-11-15 03:36:00|[虎嗅](https://rss.huxiu.com/)|[Shopee：要增长又不顾利润](https://www.huxiu.com/article/2301757.html?f=rss)|
+|2023-11-15 03:31:30|[虎嗅](https://rss.huxiu.com/)|[通用和Cruise，都站在岔路口](https://www.huxiu.com/article/2301185.html?f=rss)|
+|2023-11-15 03:29:45|[虎嗅](https://rss.huxiu.com/)|[10月份规模以上工业增加值同比增长4.6%，国民经济持续恢复向好](https://www.huxiu.com/article/2302300.html?f=rss)|
+|2023-11-15 03:23:10|[虎嗅](https://rss.huxiu.com/)|[真的存在“灵魂伴侣”吗？从《花束般的恋爱》成网络梗谈起](https://www.huxiu.com/article/2297290.html?f=rss)|
+|2023-11-15 03:05:41|[虎嗅](https://rss.huxiu.com/)|[对话OpenAI科学家：伟大的创新无法被计划](https://www.huxiu.com/article/2294106.html?f=rss)|
+|2023-11-15 03:01:12|[虎嗅](https://rss.huxiu.com/)|[美国经济将迎来“良性通胀”？](https://www.huxiu.com/article/2302279.html?f=rss)|
+|2023-11-15 03:00:00|[虎嗅](https://rss.huxiu.com/)|[从买房到买箱子，集装箱成为下一代经济适用房？](https://www.huxiu.com/article/2299202.html?f=rss)|
+|2023-11-15 02:40:04|[虎嗅](https://rss.huxiu.com/)|[美的少东家，闷声发大财？](https://www.huxiu.com/article/2298353.html?f=rss)|
+|2023-11-15 02:27:00|[虎嗅](https://rss.huxiu.com/)|[中国神秘的“四大财团”](https://www.huxiu.com/article/2294112.html?f=rss)|
+|2023-11-15 02:23:00|[虎嗅](https://rss.huxiu.com/)|[量子物理中的微观粒子](https://www.huxiu.com/article/2301699.html?f=rss)|
+|2023-11-15 02:19:03|[虎嗅](https://rss.huxiu.com/)|[小农户为何开始退出土地？](https://www.huxiu.com/article/2301733.html?f=rss)|
+|2023-11-15 02:06:50|[虎嗅](https://rss.huxiu.com/)|[租个“看病搭子”，老百姓怎么看不明白病了？](https://www.huxiu.com/article/2298618.html?f=rss)|
+|2023-11-15 02:02:45|[虎嗅](https://rss.huxiu.com/)|[出乎意料，双十一销售不降反升？](https://www.huxiu.com/article/2300326.html?f=rss)|
+|2023-11-15 01:56:00|[虎嗅](https://rss.huxiu.com/)|[剑桥的科学女杰：在不受认可的时代，她们技压群雄](https://www.huxiu.com/article/2301702.html?f=rss)|
+|2023-11-15 01:52:00|[虎嗅](https://rss.huxiu.com/)|[赚钱从未如此之难](https://www.huxiu.com/article/2301687.html?f=rss)|
+|2023-11-15 01:33:17|[虎嗅](https://rss.huxiu.com/)|[被父母扫兴的人，尝试在自我养育中重生](https://www.huxiu.com/article/2299822.html?f=rss)|
+|2023-11-15 01:28:00|[虎嗅](https://rss.huxiu.com/)|[Meme“模因”：从达尔文到互联网](https://www.huxiu.com/article/2300347.html?f=rss)|
+|2023-11-15 01:11:00|[虎嗅](https://rss.huxiu.com/)|[王自如，让全网打工人自愧不如](https://www.huxiu.com/article/2301667.html?f=rss)|
+|2023-11-15 01:03:01|[虎嗅](https://rss.huxiu.com/)|[职场女性为什么怕生孩子？](https://www.huxiu.com/article/2296168.html?f=rss)|
+|2023-11-15 00:59:32|[虎嗅](https://rss.huxiu.com/)|[AI与区块链结合，会诞生出什么？](https://www.huxiu.com/article/2300794.html?f=rss)|
+|2023-11-15 00:50:50|[虎嗅](https://rss.huxiu.com/)|[一点点没有倒闭，但在一点点老去](https://www.huxiu.com/article/2299835.html?f=rss)|
+|2023-11-15 00:43:44|[虎嗅](https://rss.huxiu.com/)|[扫地机器人，降价也卖不动了](https://www.huxiu.com/article/2296772.html?f=rss)|
+|2023-11-15 00:38:12|[虎嗅](https://rss.huxiu.com/)|[“杭州私募造假跑路”传言引发私募圈震荡：华软新动力最新回应采取法律手段](https://www.huxiu.com/article/2300350.html?f=rss)|
+|2023-11-15 00:37:31|[虎嗅](https://rss.huxiu.com/)|[Meta的逆袭，应该归功于扎克伯格吗？](https://www.huxiu.com/article/2298629.html?f=rss)|
+|2023-11-15 00:30:00|[虎嗅](https://rss.huxiu.com/)|[我们为什么逃不过预制菜？](https://www.huxiu.com/article/2298362.html?f=rss)|
+|2023-11-15 00:30:00|[虎嗅](https://rss.huxiu.com/)|[进入“倦怠社会”的小学生](https://www.huxiu.com/article/2297831.html?f=rss)|
+|2023-11-15 00:24:00|[虎嗅](https://rss.huxiu.com/)|[《完蛋！》游戏爆火背后：短剧上演新暴富故事](https://www.huxiu.com/article/2300344.html?f=rss)|
+|2023-11-15 00:09:00|[虎嗅](https://rss.huxiu.com/)|[每年超30万中国女性失去乳房，她们不必全都如此](https://www.huxiu.com/article/2300346.html?f=rss)|
+|2023-11-15 00:03:44|[虎嗅](https://rss.huxiu.com/)|[夜校的风，韭菜的刀](https://www.huxiu.com/article/2299831.html?f=rss)|
+|2023-11-15 04:31:03|[知乎每日精选](https://www.zhihu.com/rss)|[如果三国演义中的人物同一个姓的为一个势力，哪几个姓有可能统一天下?](http://www.zhihu.com/question/619746650/answer/3193808841?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2023-11-15 03:38:18|[知乎每日精选](https://www.zhihu.com/rss)|[如果珠穆朗玛峰矗立在平原中或者城市中是什么画面呢？](http://www.zhihu.com/question/411106731/answer/3285596118?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2023-11-15 07:05:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone「輕點支付」登陸法國，商家搶先體驗獨家支付](https://www.iphonetaiwan.org/2023/11/tap-to-pay-on-iphone-in-france.html)|
 |2023-11-15 05:34:48|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[LockBit 勒索软件利用 Citrix Bleed 进行攻击，10K 服务器暴露](https://www.freebuf.com/news/383908.html)|
 |2023-11-15 02:45:59|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[史上最大！丹麦关键基础设施遭受网络攻击](https://www.freebuf.com/news/383886.html)|
 |2023-11-15 02:34:18|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[Intel曝出 Reptar 高危漏洞，可绕过CPU安全边界](https://www.freebuf.com/news/383884.html)|
