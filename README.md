@@ -1,7 +1,16 @@
-﻿# 每日资讯（2023-11-14）
+﻿# 每日资讯（2023-11-15）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-15 01:06:04|[V2EX](http://www.v2ex.com/index.xml)|[ Android 有没有 酷安 平替的 app 呢？](https://www.v2ex.com/t/991975#reply3)|
+|2023-11-15 01:04:20|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 大家使用 archlinux 的时候有哪些必备软件？](https://www.v2ex.com/t/991974#reply2)|
+|2023-11-15 01:01:16|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 上海 招一名前端开发人员，可远程 上限 15K](https://www.v2ex.com/t/991973#reply1)|
+|2023-11-15 00:55:08|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI 老哥们 来个能访问的 gpt 啊](https://www.v2ex.com/t/991971#reply10)|
+|2023-11-15 00:48:56|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 大数据学习](https://www.v2ex.com/t/991970#reply2)|
+|2023-11-15 00:48:06|[V2EX](http://www.v2ex.com/index.xml)|[ NAS 家庭监控安全性问题](https://www.v2ex.com/t/991969#reply3)|
+|2023-11-15 00:30:03|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 status 200 empty response](https://www.v2ex.com/t/991967#reply5)|
+|2023-11-15 00:23:04|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 国外电影、电视剧网站推荐？带英文字幕的网站， 720p 及以上](https://www.v2ex.com/t/991966#reply1)|
+|2023-11-15 00:14:10|[V2EX](http://www.v2ex.com/index.xml)|[ VPS 求推荐稳定好用的按流量计费的 VPS](https://www.v2ex.com/t/991965#reply5)|
 |2023-11-14 12:03:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[从阿里云全面崩溃看，真的需要「快速跨云迁移」](https://www.v2ex.com/t/991920#reply32)|
 |2023-11-14 13:32:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[等明天一觉醒来，时间戳就 17 开头了哦 🥰](https://www.v2ex.com/t/991933#reply50)|
 |2023-11-14 16:05:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有个 Sunbird 可以在安卓来发 iMessage 了](https://www.v2ex.com/t/991951#reply8)|
