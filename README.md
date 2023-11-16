@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-11-15）
+﻿# 每日资讯（2023-11-16）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-16 00:44:01|[爱范儿](https://www.ifanr.com/feed)|[早报｜小米汽车终于要来了 / SpaceX 星舰本周五再度发射 / 扛不住，ChatGPT Plus 暂停新用户注册](https://www.ifanr.com/1568091?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-11-15 06:14:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[已有成品 NAS 的情况下，跑服务用小主机推荐](https://www.v2ex.com/t/992103#reply37)|
 |2023-11-15 06:14:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[酷安这广告有够离谱的](https://www.v2ex.com/t/992102#reply17)|
 |2023-11-15 07:30:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在 win 下还有什么好用的轻量文本编辑器](https://www.v2ex.com/t/992137#reply53)|
