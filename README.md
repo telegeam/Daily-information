@@ -2,6 +2,96 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-16 15:00:00|[机核](https://www.gcores.com/rss)|[三部电影 Vol.07 闲谈文艺作品中的死亡](https://www.gcores.com/radios/173624)|
+|2023-11-16 10:10:00|[机核](https://www.gcores.com/rss)|[【福利】《无尽地牢》体验分享：工欲善其事必先大其炮！](https://www.gcores.com/articles/173777)|
+|2023-11-16 10:00:00|[机核](https://www.gcores.com/rss)|[该拿什么拯救你？《使命召唤 现代战争3》，机浪 Vol.34](https://www.gcores.com/radios/173875)|
+|2023-11-16 09:40:00|[机核](https://www.gcores.com/rss)|[原创场景设计丨暂留地](https://www.gcores.com/videos/173854)|
+|2023-11-16 09:26:02|[机核](https://www.gcores.com/rss)|[《鸣潮》全新预告视频「明玉」，可操作角色共鸣者「丹瑾」PV公开](https://www.gcores.com/articles/173880)|
+|2023-11-16 09:14:00|[机核](https://www.gcores.com/rss)|[漫威原创剧集《假如…？》第二季预告公开](https://www.gcores.com/articles/173878)|
+|2023-11-16 09:00:00|[机核](https://www.gcores.com/rss)|[西爸爸给秃子讲故事，录音笔 Vol.79](https://www.gcores.com/radios/173877)|
+|2023-11-16 08:43:24|[机核](https://www.gcores.com/rss)|[任天堂公布《斯普拉遁3》新赛季2023冬“Chill Season”宣传视频](https://www.gcores.com/articles/173874)|
+|2023-11-16 08:34:59|[机核](https://www.gcores.com/rss)|[《小鸡快跑2：鸡块新时代》公布预告，十二月登录网飞](https://www.gcores.com/articles/173873)|
+|2023-11-16 07:38:28|[机核](https://www.gcores.com/rss)|[《地狱弹珠》弹珠台上的肉鸽塔防！现开放Demo](https://www.gcores.com/articles/173869)|
+|2023-11-16 07:23:24|[机核](https://www.gcores.com/rss)|[限时抽选登舰资格，解锁大刘同款沉浸式《三体》体验之旅](https://www.gcores.com/articles/173870)|
+|2023-11-16 07:17:57|[机核](https://www.gcores.com/rss)|[从创作故事到游戏剧本的自学手册指北（二）](https://www.gcores.com/articles/173864)|
+|2023-11-16 07:03:13|[机核](https://www.gcores.com/rss)|[这才是风灵高达最终形态-风灵白雪姬](https://www.gcores.com/videos/173862)|
+|2023-11-16 06:52:49|[机核](https://www.gcores.com/rss)|[舞台、同伴、地图探索：《圣兽之王》公开新详情介绍](https://www.gcores.com/articles/173863)|
+|2023-11-16 06:43:10|[机核](https://www.gcores.com/rss)|[开放世界推箱子冒险游戏《海天岛传说》中文Demo现已更新](https://www.gcores.com/articles/173866)|
+|2023-11-16 06:43:10|[机核](https://www.gcores.com/rss)|[策略卡牌构筑RPG游戏《纵横命途》将于11月29日发售](https://www.gcores.com/articles/173865)|
+|2023-11-16 06:00:00|[机核](https://www.gcores.com/rss)|[今年压轴的舞台活动，两日节目分别精彩！｜核聚变2023成都站](https://www.gcores.com/articles/173831)|
+|2023-11-16 12:00:00|[触乐](http://www.chuapp.com/feed)|[澳大利亚政府推出新游戏扶持基金，涵盖小众类型和独立开发者](http://www.chuapp.com/article/289630.html)|
+|2023-11-16 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：SD发展小谈](http://www.chuapp.com/article/289629.html)|
+|2023-11-16 16:14:06|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[招募 iOS 客户端开发小伙伴，需全职可远程](https://w2solo.com/topics/4255)|
+|2023-11-16 09:55:36|[爱范儿](https://www.ifanr.com/feed)|[专访「什么都没有」CEO 丨多样性公司](https://www.ifanr.com/1568174?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-16 09:30:53|[爱范儿](https://www.ifanr.com/feed)|[ColorOS 14 超前众测体验，新系统，新在哪里？](https://www.ifanr.com/1568057?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-16 12:35:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[深圳官方：网传“深圳取消商品住房销售限价”为不实消息](https://dig.chouti.com/link/40634387)|
+|2023-11-16 02:52:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[歌圩上的农民运动会](https://dig.chouti.com/link/40628269)|
+|2023-11-16 12:05:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阿里巴巴不再推进阿里云分拆，盒马鲜生IPO计划已暂停](https://dig.chouti.com/link/40634029)|
+|2023-11-16 13:46:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[缅北电诈头目明学昌自杀死亡](https://dig.chouti.com/link/40634966)|
+|2023-11-16 12:12:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【云南临沧对缅甸果敢发故障停电通知】11月15日，网传云南临沧供电局供电服务中心对缅甸果敢下达了《故障停电通知书》。通知书称，两条线路故障点均临近中缅交界，目前因缅北战事不具备抢修安全作业条件，具体恢复时间暂不确定。16日，临沧供电部门工作人员告诉二三里资讯，文件属实。](https://dig.chouti.com/link/40634277)|
+|2023-11-16 12:35:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[缅北电诈头目明国平、明菊兰、明珍珍被移交中国公安机关](https://dig.chouti.com/link/40634378)|
+|2023-11-16 10:05:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[员工浮亏超15亿！东方雨虹“兜底式员工持股”变脸记](https://dig.chouti.com/link/40632997)|
+|2023-11-16 12:28:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马云家族信托拟减持1000万股阿里股票，市值超8.7亿美元](https://dig.chouti.com/link/40634367)|
+|2023-11-16 12:15:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[布林肯，你在看啥](https://dig.chouti.com/link/40634362)|
+|2023-11-16 07:34:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【《PLUTO 冥王》讲了一个怎样的故事？】“《PLUTO 冥王》与其说是最强‘二创’，不如说是对阿童木漫画近乎原教旨般的致敬。”](https://dig.chouti.com/link/40631255)|
+|2023-11-16 10:36:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Travis Scott 正在申请就读哈佛大学建筑系](https://dig.chouti.com/link/40633303)|
+|2023-11-16 09:30:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【花19块9玩“躲猫猫”，揭秘网红游戏背后的生意经】多位主理人透露，每场活动的利润往往不超过500元。以50人规模的活动为例，如果票价为19.9元，门票收入则为995元，如果是两家合办，则每家的收入不足500元。](https://dig.chouti.com/link/40632601)|
+|2023-11-16 10:44:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[明学昌、明珍珍、明国平三名缅北电诈重要头目被缅甸警方逮捕](https://dig.chouti.com/link/40633374)|
+|2023-11-16 07:07:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国资本的海外足球投资，垮了？】目前唯一掌控欧洲豪门俱乐部的中资是苏宁。](https://dig.chouti.com/link/40631131)|
+|2023-11-16 09:54:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【2024上海米其林发榜】新年份最大的黑马应该是去年上了热搜“黑红”的头灶，主打精致镬气的板前中餐，硬刚着熬出了头。](https://dig.chouti.com/link/40632698)|
+|2023-11-16 06:05:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[来自魔都的帝都神车配色](https://dig.chouti.com/link/40630351)|
+|2023-11-16 08:52:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【加沙地道：能送炸鸡，能搞袭击】《侏罗纪公园》里说，“生命会找到出路”。一座城市也是如此。](https://dig.chouti.com/link/40632009)|
+|2023-11-16 08:12:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[11月13日，美国得克萨斯州59号高速公路发生警察与劫匪的枪战，一名男子冲进现场枪林弹雨，救下一名中枪的警察，并将其拉至安全地带。枪战最终以19岁的枪手被击毙而告终。](https://dig.chouti.com/link/40631827)|
+|2023-11-16 06:35:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ZARA收紧退换货要求：网上买的商品不能在门店退换](https://dig.chouti.com/link/40630615)|
+|2023-11-16 06:48:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【当睡眠成为一种病】“不像癌症、白血病，只会恶性化发展，睡病总体是一个良性发展的病情，也不直接危害生命和身体健康，只是多睡会儿觉。”他最大的担忧是，儿子逐渐长大，要维持学业，恐怕不能不吃药。必要时，儿子会终身服药，以留住正常人的生活状态，这是他目前的设想。](https://dig.chouti.com/link/40630670)|
+|2023-11-16 07:04:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[首飞炸毁后，SpaceX“星舰”获NASA许可将于11月17日再次发射](https://dig.chouti.com/link/40630705)|
+|2023-11-16 07:06:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[广东“最牛挡道钉子楼”被实施拆除](https://dig.chouti.com/link/40631044)|
+|2023-11-16 07:15:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[11月15日，英国剑桥词典宣布2023年的年度词汇是“Hallucinate”（产生幻觉），因为新含义“触及了人们谈论人工智能的核心原因”。传统上，“产生幻觉”是指某人似乎感觉到不存在的事物，通常是由于健康状况或药物使用。新定义指出，“当人工智能像人类一样‘产生幻觉’时，它会产生虚假信息”。](https://dig.chouti.com/link/40631195)|
+|2023-11-16 07:02:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“费大厨”们，批量攻占北上广】在不同统计口径之下，湘菜是否超越川菜仍有争议，但从规模和增长上都算是不容小视的黑马。](https://dig.chouti.com/link/40630696)|
+|2023-11-16 06:05:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中美将优化签证申请流程](https://dig.chouti.com/link/40630420)|
+|2023-11-16 16:04:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你平时压力的的时候，最喜欢的「解压搭子」是什么美食？](https://www.zhihu.com/question/628659052)|
+|2023-11-16 16:04:04|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中年少女这个词怎么理解？](https://www.zhihu.com/question/629995259)|
+|2023-11-16 16:04:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中美在平等尊重基础上恢复两军高层沟通，开展中美两军战区领导通话，有哪些信息值得关注？](https://www.zhihu.com/question/630385390)|
+|2023-11-16 16:04:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[上班人也偶尔会有厌倦上班的情况吗？](https://www.zhihu.com/question/630283173)|
+|2023-11-16 16:04:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中年男性，最难得的品质是什么？](https://www.zhihu.com/question/630375970)|
+|2023-11-16 16:04:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果你想安慰芙宁娜应该怎么说呢？](https://www.zhihu.com/question/630275613)|
+|2023-11-16 16:04:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[新手学摄影最开始要买什么价位的相机？](https://www.zhihu.com/question/629944117)|
+|2023-11-16 16:04:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[写湖水的诗句有哪些？](https://www.zhihu.com/question/630411264)|
+|2023-11-16 16:04:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2G 的显卡平时负载一般在 20% 左右，有必要升级到 4G 或者 8G 吗？](https://www.zhihu.com/question/629150602)|
+|2023-11-16 16:04:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[对工作提不起劲儿、感觉被掏空，困在「职场心霾」的状态中，该如何调整？](https://www.zhihu.com/question/630020692)|
+|2023-11-16 16:04:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[张译在电影《无价之宝》中的表现如何？](https://www.zhihu.com/question/629565367)|
+|2023-11-16 16:04:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[那些充满力量的语录你知道几个？](https://www.zhihu.com/question/630351847)|
+|2023-11-16 16:04:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[油痘肌秋冬适合什么洗面奶？](https://www.zhihu.com/question/626988216)|
+|2023-11-16 16:04:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[上班几年后逐渐感觉躺不平又卷不动，时不时流露出「厌班」情绪，该怎么办？](https://www.zhihu.com/question/630020822)|
+|2023-11-16 16:04:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[想给老爸送个吉他，老爸现在用的吉他还是几十年前的一把旧吉他，想给老爸送一款 5k 左右的，请大神推荐下？](https://www.zhihu.com/question/629706289)|
+|2023-11-16 16:04:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些好用且性价比高的便携式音响?](https://www.zhihu.com/question/628937822)|
+|2023-11-16 16:04:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大体重减肥，从何开始？](https://www.zhihu.com/question/630059701)|
+|2023-11-16 16:04:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[多家信托踩雷杭州私募跑路事件，知情人士称最大的一家 30 亿左右，监管已启动调查，哪些信息值得关注？](https://www.zhihu.com/question/630391920)|
+|2023-11-16 16:04:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[高强度的工作让人产生厌班情绪，「gap day」能缓解厌班情绪吗？](https://www.zhihu.com/question/630020787)|
+|2023-11-16 16:04:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你是否认同「追星是一种放弃自我价值，而将价值寄托在别人身上的过程」？](https://www.zhihu.com/question/630200700)|
+|2023-11-16 16:04:02|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你印象中最深刻的叫外卖经历是什么？](https://www.zhihu.com/question/61139335)|
+|2023-11-16 16:04:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 2023 OPPO 开发者大会？潘塔纳尔进展如何？AndesGPT 有哪些亮点？](https://www.zhihu.com/question/630308031)|
+|2023-11-16 16:04:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[电脑自由，你还记得第一台自己组装的台式机吗？](https://www.zhihu.com/question/630057327)|
+|2023-11-16 16:04:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[冬天让宝宝「动」起来，家长都有哪些好地方可以推荐？](https://www.zhihu.com/question/493904727)|
+|2023-11-16 16:04:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[上班是一种精神摩擦吗? 上完一天班你是否有一种精神透支的感觉？](https://www.zhihu.com/question/630274405)|
+|2023-11-16 16:04:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《原神》4.2 任务：问题美露莘与答案机器人？](https://www.zhihu.com/question/629634190)|
+|2023-11-16 16:04:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[想到的第一句含有「东」字的古诗词有哪些？](https://www.zhihu.com/question/626476826)|
+|2023-11-16 16:04:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你给你的自行车买的第一个改装件是什么？](https://www.zhihu.com/question/630059766)|
+|2023-11-16 16:04:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[冬天坚持哪些事，可以把自己的皮肤养得好好的？](https://www.zhihu.com/question/630033088)|
+|2023-11-16 16:04:00|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《虹猫蓝兔七侠传》结局为何不用日漫常用的双方先打一架然后一通嘴炮，最后双方握手言和相互谅解的套路?](https://www.zhihu.com/question/593368571)|
+|2023-11-16 16:04:00|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年数字外贸真牛奖举行，95 后 00 后成主力军，如何看待该现象？数字外贸是否已成年轻人创业新赛道？](https://www.zhihu.com/question/630423145)|
+|2023-11-16 16:04:00|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 2023 年第九届数维杯国际大学生数学建模挑战赛？](https://www.zhihu.com/question/630139353)|
+|2023-11-16 16:04:00|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你改装自行车走过最大的弯路是什么？](https://www.zhihu.com/question/630163184)|
+|2023-11-16 16:04:00|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[宇宙中没有氧气，将尸体放到太空中，它会腐烂吗？](https://www.zhihu.com/question/627364448)|
+|2023-11-16 16:04:00|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[上海顶流学区房溢价正在消失，两年血亏近 300 万，中介称「跌回 2017 年」，释放了哪些信息？](https://www.zhihu.com/question/630383035)|
+|2023-11-16 16:04:00|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国家发展改革委表示，推动青年就业扩容提质，千方百计为青年就业营造良好环境，将带来哪些影响？](https://www.zhihu.com/question/630419940)|
+|2023-11-16 16:04:00|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[永聚煤业火灾已致 26 人遇难，前员工称「起火建筑用于工人洗澡开会」，目前当地具体情况如何？](https://www.zhihu.com/question/630416322)|
+|2023-11-16 16:04:00|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[程序员每天会阅读哪些技术网站来提升自己?](https://www.zhihu.com/question/629894384)|
+|2023-11-16 16:04:00|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[十年了，为什么 Faker 还是可以这么强？](https://www.zhihu.com/question/629944181)|
+|2023-11-16 16:03:59|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价浦泽直树的《Pluto》？](https://www.zhihu.com/question/21523214)|
+|2023-11-16 15:32:05|[晚点LatePost](https://feedpress.me/wx-postlate)|[低迷半年后，小鹏三季度业绩迎来拐点](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247509287&idx=3&sn=12e6108e4292c02295e52d5f910a2abc)|
+|2023-11-16 15:32:05|[晚点LatePost](https://feedpress.me/wx-postlate)|[​​晚点财经｜阿里改组计划又变了；微软变成了 Copilot 公司](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247509287&idx=2&sn=022e044fe24ebe38167577a8e911f6d3)|
+|2023-11-16 15:32:04|[晚点LatePost](https://feedpress.me/wx-postlate)|[把客户逼成敌人，英伟达走向两万亿的方法](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247509287&idx=1&sn=142d9a73736843f75e23b881c9936609)|
 |2023-11-16 07:01:37|[祝融说。](https://zhurongshuo.com/index.xml)|[词汇量是认知的基本盘。](https://zhurongshuo.com/posts/2023/11/0401/)|
 |2023-11-16 12:12:03|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 女朋友家的脐橙，欢迎订购](https://www.v2ex.com/t/992563#reply0)|
 |2023-11-16 12:02:44|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有语雀的平替吗？](https://www.v2ex.com/t/992562#reply2)|
