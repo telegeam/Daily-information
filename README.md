@@ -2,6 +2,62 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-16 18:33:30|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 寻找技术小伙伴，主要协助我搭建各种环境还有拉 github 上的项目](https://www.v2ex.com/t/992634#reply2)|
+|2023-11-16 17:43:55|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 请问你用什么 AI 工具来创作视频？](https://www.v2ex.com/t/992633#reply0)|
+|2023-11-16 17:28:10|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 一个基于 Python 的 ChatGPT Telegram Bot 无限 Token （代码已开源）](https://www.v2ex.com/t/992631#reply0)|
+|2023-11-16 17:06:56|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 求问，换了个机场，结果 MerlinClash 的面板没有国内媒体，国内网站和国外媒体，国外网站分类了，怎么把他搞出来](https://www.v2ex.com/t/992630#reply1)|
+|2023-11-16 17:05:27|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iPad Mini 6 坐飞机起飞降落时会被空姐要求关掉吗？](https://www.v2ex.com/t/992629#reply12)|
+|2023-11-16 17:04:58|[V2EX](https://www.v2ex.com/index.xml)|[ 编程 不算项目核心功能的 IM 组件能采用 HTTP 长轮询、而非 WebSocket 吗](https://www.v2ex.com/t/992628#reply1)|
+|2023-11-16 16:29:18|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 一款专为低代码平台打造的轻量级 GUI 库，欢迎围观！](https://www.v2ex.com/t/992627#reply1)|
+|2023-11-16 16:25:03|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 谁能告诉我 QQ 邮箱该用哪个密码？](https://www.v2ex.com/t/992625#reply4)|
+|2023-11-16 16:15:38|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Apple One 新加坡区求车友](https://www.v2ex.com/t/992623#reply1)|
+|2023-11-16 16:08:48|[V2EX](https://www.v2ex.com/index.xml)|[ Surge Surge 5 for iOS 2 人位](https://www.v2ex.com/t/992622#reply0)|
+|2023-11-16 16:07:45|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 机器学习小白，有个项目打工 QAQ 预测效果很差，求指点。](https://www.v2ex.com/t/992621#reply1)|
+|2023-11-16 16:07:20|[V2EX](https://www.v2ex.com/index.xml)|[ iOS 如何实时传输 iPhone 摄像头的 1080p@240fps 到电脑上](https://www.v2ex.com/t/992620#reply0)|
+|2023-11-16 15:54:06|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 二台路由器设置 tailscale 组网不成功，路由器之间不能互相访问，应如何解决？](https://www.v2ex.com/t/992618#reply1)|
+|2023-11-16 15:52:04|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 有用 clean Shot X 这个截图软件的朋友吗？求教几个操作](https://www.v2ex.com/t/992617#reply1)|
+|2023-11-16 15:51:50|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 国外的群晖可以做节点使用吗？](https://www.v2ex.com/t/992616#reply13)|
+|2023-11-16 15:35:33|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 馒头求药啊，在一个小 pt 站练手感觉没事资源可以下了](https://www.v2ex.com/t/992615#reply1)|
+|2023-11-16 15:11:16|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 Win10 打不开 Windows store 是什么个情况](https://www.v2ex.com/t/992613#reply11)|
+|2023-11-16 15:08:15|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 有没有接 scratch 二开的团队或者个人（💰💰💰💰💰）](https://www.v2ex.com/t/992612#reply0)|
+|2023-11-16 15:06:58|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 （完蛋！我被 LLM 包围了）在线版](https://www.v2ex.com/t/992611#reply25)|
+|2023-11-16 15:03:56|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 老妈今年 50 退休了，但是社保还差 4 年咋办](https://www.v2ex.com/t/992610#reply2)|
+|2023-11-16 14:58:35|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有兄弟姐妹的进来说说如果自己独生子女是不是更好？](https://www.v2ex.com/t/992609#reply7)|
+|2023-11-16 14:49:39|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 关于 iPhone 15 Pro 系列发热问题的疑问？](https://www.v2ex.com/t/992608#reply1)|
+|2023-11-16 14:44:57|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有大佬认识这是哪个靶场平台吗](https://www.v2ex.com/t/992607#reply0)|
+|2023-11-16 14:44:48|[V2EX](https://www.v2ex.com/index.xml)|[ 随想 失业一个月，我经历了什么（三）](https://www.v2ex.com/t/992606#reply3)|
+|2023-11-16 14:40:48|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 求一个动态规划算法](https://www.v2ex.com/t/992605#reply5)|
+|2023-11-16 14:39:29|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 求教怎么才能去 google?](https://www.v2ex.com/t/992604#reply3)|
+|2023-11-16 14:36:50|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI OpenAi make mistakes 无法打开，应该是 cdn 没有走代理吧？](https://www.v2ex.com/t/992603#reply2)|
+|2023-11-16 14:35:48|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 大家有没有发现 iPhone 的震动触感变了？](https://www.v2ex.com/t/992602#reply5)|
+|2023-11-16 14:35:11|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有没有服务器优惠呀](https://www.v2ex.com/t/992601#reply7)|
+|2023-11-16 14:26:36|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Java 开发， cpu 应该买高主频少核心还是多核心低主频？](https://www.v2ex.com/t/992599#reply7)|
+|2023-11-16 14:25:46|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 闲鱼上 5 年车的 adobe 全家桶只要 1680，有没有坑，自己的邮箱登陆](https://www.v2ex.com/t/992598#reply15)|
+|2023-11-16 14:20:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 使用 Surge 或 Clash 的前后端或全栈小哥进来看看](https://www.v2ex.com/t/992596#reply0)|
+|2023-11-16 14:18:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 MAC 重装系统后 SVN 无法使用 。跪求大神](https://www.v2ex.com/t/992595#reply0)|
+|2023-11-16 14:18:14|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 现在人的底线都这么低了吗](https://www.v2ex.com/t/992594#reply9)|
+|2023-11-16 14:17:30|[V2EX](https://www.v2ex.com/index.xml)|[ NAS Nas 硬盘做完碎片整理和清理后显示的空间和实际使用空间不一致](https://www.v2ex.com/t/992593#reply2)|
+|2023-11-16 14:15:08|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt openclash 怎么这么难用啊（是小白）](https://www.v2ex.com/t/992592#reply0)|
+|2023-11-16 14:10:36|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 小米 14 的澎湃 OS 感觉好难用啊，为啥那么多人吹他好用，我觉得给魅族的 flyme 提鞋都不配](https://www.v2ex.com/t/992591#reply9)|
+|2023-11-16 14:09:57|[V2EX](https://www.v2ex.com/index.xml)|[ Android 请问各位大佬有没有 android 13 免 root 可以修改微信定位的 app](https://www.v2ex.com/t/992590#reply6)|
+|2023-11-16 14:08:59|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 17.1.1](https://www.v2ex.com/t/992589#reply0)|
+|2023-11-16 14:08:48|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 请教各位大神软路由问题的问题](https://www.v2ex.com/t/992588#reply1)|
+|2023-11-16 13:56:38|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI api.openai.com: Sorry, there's nothing but a cat in a teapot here.](https://www.v2ex.com/t/992587#reply3)|
+|2023-11-16 13:50:05|[V2EX](https://www.v2ex.com/index.xml)|[ 全球工单系统 京东 PC 网页版循环跳转登录页？](https://www.v2ex.com/t/992586#reply0)|
+|2023-11-16 13:48:19|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 坐标广州, 项目做完裁员, 让人主动离职, 我该如何应对](https://www.v2ex.com/t/992585#reply2)|
+|2023-11-16 13:42:49|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 一个简单的开源单点登录（IDaaS、SSO）系统，有没有小伙伴共同维护](https://www.v2ex.com/t/992584#reply2)|
+|2023-11-16 13:41:32|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI CF Workers 反代失效](https://www.v2ex.com/t/992583#reply7)|
+|2023-11-16 13:41:17|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 什么语言写 gui 脚本最快呢！](https://www.v2ex.com/t/992582#reply43)|
+|2023-11-16 13:40:36|[V2EX](https://www.v2ex.com/index.xml)|[ iCloud #iCloud 土区 2TB 五人车 补二人](https://www.v2ex.com/t/992581#reply1)|
+|2023-11-16 13:34:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 搭建网站，刚开始研究 CF 的 R2，求助，怎么自动把 WP 网站的图直接传到 R2](https://www.v2ex.com/t/992580#reply1)|
+|2023-11-16 13:31:35|[V2EX](https://www.v2ex.com/index.xml)|[ Windows 为何会发生无法通过在线安装 Microsoft .NET Framework XXX 基础环境库？](https://www.v2ex.com/t/992579#reply8)|
+|2023-11-16 13:27:31|[V2EX](https://www.v2ex.com/index.xml)|[ macOS Raycast 新版加入了邀请计划, pro 用户可以邀请其他用户免费试用高级版, 自带 chatgpt3.5](https://www.v2ex.com/t/992578#reply2)|
+|2023-11-16 17:00:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 真的，宇宙射线会导致部分 SSH 服务器的私钥泄露](https://linux.cn/article-16385-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-16 16:01:39|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1188 科学家利用树莓派“胶囊”保护气球望远镜数据](https://linux.cn/article-16390-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-16 13:44:20|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[科幻片《环形使者》：时空杀手要干掉幼年万磁王，幸好母亲枪法惊人打跑来犯之敌！](https://www.ximalaya.com/sound/685103640)|
+|2023-11-16 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[小米 14 Pro｜性能旗舰，影像强者，高端设计](https://www.photoworld.com.cn/post/175103)|
+|2023-11-16 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[探索趋势，重塑影像——DJI 大疆天空之城 9 周年影像大赛正式启动](https://www.photoworld.com.cn/post/175122)|
+|2023-11-16 06:52:26|[小众软件](https://www.appinn.com/feed/)|[PotPlayer 直接播放网盘视频：连接 Alist，接入阿里云盘、百度/夸克网盘等](https://www.appinn.com/potplayer-webdav-alist/)|
 |2023-11-16 15:00:00|[机核](https://www.gcores.com/rss)|[三部电影 Vol.07 闲谈文艺作品中的死亡](https://www.gcores.com/radios/173624)|
 |2023-11-16 10:10:00|[机核](https://www.gcores.com/rss)|[【福利】《无尽地牢》体验分享：工欲善其事必先大其炮！](https://www.gcores.com/articles/173777)|
 |2023-11-16 10:00:00|[机核](https://www.gcores.com/rss)|[该拿什么拯救你？《使命召唤 现代战争3》，机浪 Vol.34](https://www.gcores.com/radios/173875)|
