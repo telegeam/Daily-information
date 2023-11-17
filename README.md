@@ -2,6 +2,53 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-17 11:32:54|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新人报道](https://w2solo.com/topics/4259)|
+|2023-11-17 12:05:00|[虎嗅](https://rss.huxiu.com/)|[美国是如何解决“以药养医”的？](https://www.huxiu.com/article/2311178.html?f=rss)|
+|2023-11-17 11:51:50|[虎嗅](https://rss.huxiu.com/)|[香港或新加坡，谁将成为南部转型的金融枢纽](https://www.huxiu.com/article/2308154.html?f=rss)|
+|2023-11-17 11:19:13|[虎嗅](https://rss.huxiu.com/)|[小米汽车亮相，雷军要不要学李想？](https://www.huxiu.com/article/2311574.html?f=rss)|
+|2023-11-17 11:19:01|[虎嗅](https://rss.huxiu.com/)|[25/26号要有大事发生](https://www.huxiu.com/article/2312086.html?f=rss)|
+|2023-11-17 11:19:00|[虎嗅](https://rss.huxiu.com/)|[李嘉诚投资的抗癌药，杀入美国市场](https://www.huxiu.com/article/2311587.html?f=rss)|
+|2023-11-17 11:09:54|[虎嗅](https://rss.huxiu.com/)|[新手教师的压力，从何而来？](https://www.huxiu.com/article/2294839.html?f=rss)|
+|2023-11-17 11:00:00|[虎嗅](https://rss.huxiu.com/)|[我在那达慕大会，差点被摔哭？](https://www.huxiu.com/article/2311101.html?f=rss)|
+|2023-11-17 10:58:37|[虎嗅](https://rss.huxiu.com/)|[投资餐饮，我半年亏掉50万](https://www.huxiu.com/article/2311568.html?f=rss)|
+|2023-11-17 10:56:54|[虎嗅](https://rss.huxiu.com/)|[最大钒钛磁铁矿采矿权拍卖，61亿落锤](https://www.huxiu.com/article/2311586.html?f=rss)|
+|2023-11-17 10:40:00|[虎嗅](https://rss.huxiu.com/)|[厦门全域解除限购背后：二手业主降价抛售，开发商一周卖6套房即成销冠](https://www.huxiu.com/article/2311594.html?f=rss)|
+|2023-11-17 10:34:35|[虎嗅](https://rss.huxiu.com/)|[字节跳动的“张”与“缩”：第二季度营收或已直逼Meta，收缩战线聚焦主业](https://www.huxiu.com/article/2311593.html?f=rss)|
+|2023-11-17 10:25:00|[虎嗅](https://rss.huxiu.com/)|[门店数均破万家，这门生意有多赚钱？](https://www.huxiu.com/article/2311156.html?f=rss)|
+|2023-11-17 10:15:00|[虎嗅](https://rss.huxiu.com/)|[“人就像是实验室一样的东西”——村上春树的自我雕刻史](https://www.huxiu.com/article/2311555.html?f=rss)|
+|2023-11-17 10:00:00|[虎嗅](https://rss.huxiu.com/)|[狂飙的韩国：财阀五指山和它的芸芸众生](https://www.huxiu.com/article/2311556.html?f=rss)|
+|2023-11-17 09:48:01|[虎嗅](https://rss.huxiu.com/)|[全球各地的中餐馆，是怎么冒出来的？](https://www.huxiu.com/article/2311551.html?f=rss)|
+|2023-11-17 09:33:00|[虎嗅](https://rss.huxiu.com/)|[卖的不是饺子，而是大妈的温度?](https://www.huxiu.com/article/2307224.html?f=rss)|
+|2023-11-17 09:10:50|[虎嗅](https://rss.huxiu.com/)|[“也许下一次，我会带着床来演奏爵士乐” 专访钢琴大师马祖耶夫](https://www.huxiu.com/article/2311529.html?f=rss)|
+|2023-11-17 09:06:04|[虎嗅](https://rss.huxiu.com/)|[宝马 i5 国产长轴距版，后排也有小桌板了？](https://www.huxiu.com/article/2310236.html?f=rss)|
+|2023-11-17 08:59:24|[虎嗅](https://rss.huxiu.com/)|[王传君：在《孤注一掷》里，我是个被困住的人](https://www.huxiu.com/article/2311150.html?f=rss)|
+|2023-11-17 08:59:00|[虎嗅](https://rss.huxiu.com/)|[重大突破：全球首款CRISPR基因编辑疗法上市，售价或达“百万美元”](https://www.huxiu.com/article/2311162.html?f=rss)|
+|2023-11-17 08:48:38|[虎嗅](https://rss.huxiu.com/)|[连续通宵直播不幸猝死，可千万别再熬夜了](https://www.huxiu.com/article/2309934.html?f=rss)|
+|2023-11-17 08:43:23|[虎嗅](https://rss.huxiu.com/)|[美债已经“涨过头”了吗？](https://www.huxiu.com/article/2311155.html?f=rss)|
+|2023-11-17 08:39:29|[虎嗅](https://rss.huxiu.com/)|[网友呼吁成立“淮海省”，是个什么省？](https://www.huxiu.com/article/2310763.html?f=rss)|
+|2023-11-17 08:32:43|[虎嗅](https://rss.huxiu.com/)|[学校小卖部月租34万？房租凭什么这么贵？](https://www.huxiu.com/article/2311166.html?f=rss)|
+|2023-11-17 08:27:00|[虎嗅](https://rss.huxiu.com/)|[马拉松背后的城市战争](https://www.huxiu.com/article/2311165.html?f=rss)|
+|2023-11-17 08:16:40|[虎嗅](https://rss.huxiu.com/)|[重新拿回计算机硬件的红利](https://www.huxiu.com/article/2311151.html?f=rss)|
+|2023-11-17 04:56:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【交友，能靠四个字母吗？】在与MBTI相关的评论里，人们批评这个测试的刻板之处，说这是“贴标签”的幼稚行为，“人不只有16种”，人不能轻易被装进16个“抽屉”中的一个。但现实中，16个“抽屉”似乎太奢侈了，我们会被装进2个“抽屉”中的1个：好坏、男女、穷富、城里人和农村人、学霸和学渣、某某主义者和非某某主义者…](https://dig.chouti.com/link/40640189)|
+|2023-11-17 12:16:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[看到后，沉默了](https://dig.chouti.com/link/40645232)|
+|2023-11-17 10:05:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[起底缅北明氏家族：明学昌早年从军，两个儿子都掌握武装力量](https://dig.chouti.com/link/40643693)|
+|2023-11-17 08:56:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当代中产，正把抖音“薅”成互联网夜校](https://dig.chouti.com/link/40642871)|
+|2023-11-17 09:06:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【知情人士称北京已上报放松郊区限购方案，北京市住建委：未接到相关通知】“广州、上海对部分郊区放松限购后，北京也有这方面的计划，但还需要上级部门批准。”上述知情人士告诉记者。](https://dig.chouti.com/link/40643242)|
+|2023-11-17 10:00:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[苗炜：中国孩子学的“哑巴英语”，是浪费时间吗？](https://dig.chouti.com/link/40643527)|
+|2023-11-17 10:22:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[缅甸民族民主同盟军：缅甸“四大家族”之首头目白所成出逃时被缅军拦下，目前仍在果敢](https://dig.chouti.com/link/40644081)|
+|2023-11-17 05:14:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[高速公鹿，这么大，还会飞](https://dig.chouti.com/link/40640649)|
+|2023-11-17 05:05:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马拉松背后的城市竞争：一场比赛带动近2亿收入，三四线城市争抢“蛋糕”](https://dig.chouti.com/link/40640523)|
+|2023-11-17 05:06:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在Mac与iPad上远程使用Windows系统，这是我的折腾笔记](https://dig.chouti.com/link/40640571)|
+|2023-11-17 05:44:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【逃离家暴后，一对母女的漫长重逢】她们是一对逃离了家暴的母女。女儿小时候，妈妈在一次次遭受家暴后逃出婚姻，到北京做票贩子。因为妈妈在京居无定所，女儿只能留在老家，在亲戚家、邻居家和寄宿学校里「迁徙」。几年前，女儿毕业来到北京，和妈妈住到一起，母女二十多年来第一次长时间相处，矛盾和错位无处不在。](https://dig.chouti.com/link/40640776)|
+|2023-11-17 05:10:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[11月16日，挪威大西洋航空（Norse Atlantic Airways）一架波音787-9梦想飞机首次飞抵南极洲。这架波音787搭载着科学家和生活物资从开普敦机场飞往南极特洛尔科考站。该站位于挪威对南极洲的索玛女王地的主张区，是一座自2005年起全年运营的研究站，可容纳最多70名研究人员。特洛尔科考站拥有一条3300米的冰雪覆盖的跑道。](https://dig.chouti.com/link/40640579)|
+|2023-11-17 06:05:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[直男答女网友问：到底什么下头男会玩《完蛋！我被美女包围了！》？](https://dig.chouti.com/link/40641031)|
+|2023-11-17 06:12:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[反 emo 行 为 图 鉴](https://dig.chouti.com/link/40641255)|
+|2023-11-17 06:11:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[继35岁以上不要之后，7年以上的也不要了……//3年以上7年以下，这特么判刑呢](https://dig.chouti.com/link/40641229)|
+|2023-11-17 00:05:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“小张”成为“这英”：一个“打工人”的“发疯文学”](https://dig.chouti.com/link/40637173)|
+|2023-11-17 06:48:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不鸡娃不放任：陶渊明是怎样教育自己孩子的？](https://dig.chouti.com/link/40641410)|
+|2023-11-17 01:04:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[揭秘“攻击”工行在美全资子公司的“勒索病毒”：像自己抽屉被别人上了锁](https://dig.chouti.com/link/40637470)|
+|2023-11-17 01:04:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“课间10分钟”的严苛管理之下，许多荒诞的现象正在发生——小朋友们只好进行“厕所社交”，甚至在厕所交换零食。无论规则如何严密，孩子们总能在其中找到间隙，进行微小的“反叛”——有人发明了原创游戏，有人洞悉老师的视野盲区，有人主动承包了班级扔垃圾的脏活儿。](https://dig.chouti.com/link/40637457)|
+|2023-11-17 08:21:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Google Maps 最新功能！協作清單、交通導航進化](https://www.iphonetaiwan.org/2023/11/google-maps-new-features-collaboration-navigation.html)|
 |2023-11-17 02:45:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[习近平未就中国营商环境安抚美国商界领袖](https://cn.wsj.com/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%9C%AA%E5%B0%B1%E4%B8%AD%E5%9B%BD%E8%90%A5%E5%95%86%E7%8E%AF%E5%A2%83%E5%AE%89%E6%8A%9A%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96-8a931b2e)|
 |2023-11-17 07:50:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[“不碰中国”的投资战略行之有效，但摆脱对华敞口并不容易](https://cn.wsj.com/articles/%E4%B8%8D%E7%A2%B0%E4%B8%AD%E5%9B%BD-%E7%9A%84%E6%8A%95%E8%B5%84%E6%88%98%E7%95%A5%E8%A1%8C%E4%B9%8B%E6%9C%89%E6%95%88-%E4%BD%86%E6%91%86%E8%84%B1%E5%AF%B9%E5%8D%8E%E6%95%9E%E5%8F%A3%E5%B9%B6%E4%B8%8D%E5%AE%B9%E6%98%93-e104f657)|
 |2023-11-17 06:18:45|[小众软件](https://www.appinn.com/feed/)|[Windows App – 微软发布新预览版程序连接到远程桌面，支持 Azure、Windows 365、Dev Box、远程电脑](https://www.appinn.com/windows-app-for-windows/)|
