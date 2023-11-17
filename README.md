@@ -1,7 +1,18 @@
-﻿# 每日资讯（2023-11-16）
+﻿# 每日资讯（2023-11-17）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-17 00:05:39|[鸟窝](https://colobu.com/atom.xml)|[TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/)|
+|2023-11-17 01:04:37|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有偿请求解决一个 ASP.NET Core 程序部署问题](https://www.v2ex.com/t/992651#reply0)|
+|2023-11-17 00:56:45|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 雷雳 4 口的网线？](https://www.v2ex.com/t/992649#reply1)|
+|2023-11-17 00:54:07|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 112 期）：基于 Shopify 开发月收入 2.9 万美元的 WhatsApp 插件](https://www.v2ex.com/t/992648#reply0)|
+|2023-11-17 00:49:46|[V2EX](https://www.v2ex.com/index.xml)|[ 计算机 win11 同时接音响耳机的声音设置好难搞哦](https://www.v2ex.com/t/992647#reply2)|
+|2023-11-17 00:33:35|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 Obsidian 英语单词词频高亮插件](https://www.v2ex.com/t/992645#reply2)|
+|2023-11-17 00:32:45|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 移动端的 rss 应用一定要依赖服务吗?](https://www.v2ex.com/t/992644#reply2)|
+|2023-11-17 00:17:20|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 点击任务栏天气里面的链接都是当前无法使用此页面 www.msn.com 重定向次数过多......？](https://www.v2ex.com/t/992643#reply1)|
+|2023-11-17 00:01:02|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Apple 明年将会支持 RCS 消息](https://www.v2ex.com/t/992642#reply13)|
+|2023-11-17 00:10:10|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 278 期）：棘手的 AI 版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html)|
+|2023-11-17 00:53:19|[爱范儿](https://www.ifanr.com/feed)|[早报｜iPhone 消息发送明年将迎来大更新 / 抖音测试付费短视频 / 小米汽车将于明年上半年正式发布](https://www.ifanr.com/1568245?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-11-16 18:33:30|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 寻找技术小伙伴，主要协助我搭建各种环境还有拉 github 上的项目](https://www.v2ex.com/t/992634#reply2)|
 |2023-11-16 17:43:55|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 请问你用什么 AI 工具来创作视频？](https://www.v2ex.com/t/992633#reply0)|
 |2023-11-16 17:28:10|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 一个基于 Python 的 ChatGPT Telegram Bot 无限 Token （代码已开源）](https://www.v2ex.com/t/992631#reply0)|
