@@ -2,6 +2,24 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-17 08:28:36|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[少苛责自己，多否定领导。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653446160&idx=1&sn=75fc82e2ac4708fc13340888e330877e)|
+|2023-11-17 19:33:38|[V2EX](https://www.v2ex.com/index.xml)|[ Android 对于国行系统是否支持 Project Mainline 的情况调查](https://www.v2ex.com/t/992966#reply0)|
+|2023-11-17 19:00:02|[V2EX](https://www.v2ex.com/index.xml)|[ 云修电脑 4 根 DDR5 内存简单测试](https://www.v2ex.com/t/992965#reply2)|
+|2023-11-17 16:38:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 武汉适合办公的房车驻车地分享](https://www.v2ex.com/t/992963#reply0)|
+|2023-11-17 16:34:45|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 我坐高铁过山洞耳朵都会堵，我能坐飞机吗](https://www.v2ex.com/t/992962#reply3)|
+|2023-11-17 16:32:31|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI ios chatgpt 登录不进去](https://www.v2ex.com/t/992961#reply4)|
+|2023-11-17 16:32:08|[V2EX](https://www.v2ex.com/index.xml)|[ Redis 故障模拟 redis cluster 3 机 3 主 6 从，主节点都转移到了其中一台机器上，然后这台机器宕机](https://www.v2ex.com/t/992960#reply4)|
+|2023-11-17 15:26:13|[触乐](http://www.chuapp.com/feed)|[创造进化，元梦如何为创作者“圆梦”](http://www.chuapp.com/article/289634.html)|
+|2023-11-17 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：主播啊主播](http://www.chuapp.com/article/289633.html)|
+|2023-11-17 12:03:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[留学生带一块 4090 回国就可以抵机票了？](https://www.v2ex.com/t/992904#reply12)|
+|2023-11-17 14:04:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[三星电子会长李在镕被韩国检方求刑5年](https://dig.chouti.com/link/40645917)|
+|2023-11-17 02:52:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[治痔疮的马应龙，又被嫌弃了](https://dig.chouti.com/link/40638612)|
+|2023-11-17 03:06:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为什么在90年代，大陆PC单机可以做到基本与世界同步？](https://dig.chouti.com/link/40638991)|
+|2023-11-17 12:14:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[学习日语的外国网友发现，「骨」的汉字看起来像一个小骷髅，现在他完全挥之不去了](https://dig.chouti.com/link/40645169)|
+|2023-11-17 13:14:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【英超史上最大罚分！埃弗顿违反财务规则被扣除10个积分】英超官方宣布，埃弗顿足球俱乐部违反英超联赛的盈利和可持续发展规则，对其立即扣分立即生效，扣分后，埃弗顿排名倒数第二](https://dig.chouti.com/link/40645691)|
+|2023-11-17 10:15:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[歌手马克莫尔的演唱会上，一位13岁的小粉丝被邀请上台跳舞。结果太兴奋的她失误在上万人面前滑倒。 而马克莫尔的一番话不但为姑娘化解了尴尬，还让全场为她欢呼！ 这样的偶像真的值得去追啊！](https://dig.chouti.com/link/40644052)|
+|2023-11-17 12:34:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[试用最新药物和器械，渐冻人蔡磊激动宣称有效](https://dig.chouti.com/link/40645239)|
+|2023-11-17 11:05:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美团外卖感谢首位用户隋蕊：过去10年消费全部免单](https://dig.chouti.com/link/40644420)|
 |2023-11-17 09:28:25|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[技术阅读周刊第第6️⃣期](http://crossoverjie.top/2023/11/17/ob/newsletter/Newsletter06-20231117/)|
 |2023-11-17 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 11 月 17 日阿根廷世预赛主场 0-2 不敌乌拉圭？](https://www.zhihu.com/question/630517739)|
 |2023-11-17 16:03:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人该不该有负面情绪，负面情绪一定是坏的吗？](https://www.zhihu.com/question/430067397)|
