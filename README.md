@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-17 00:12:07|[Tinyfool的个人网站](https://codechina.org/feed/)|[从智能手机到人工智能：创新为什么总会被质疑，以及我们应该如何聪明的对待创新](https://codechina.org/2023/11/iphone-2-ai/)|
+|2023-11-17 03:07:37|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[如何使用 Niche Finder 关键词工具做好营销关键词筛选提升流量](https://w2solo.com/topics/4258)|
+|2023-11-17 03:02:32|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #17：说不完的感谢](https://w2solo.com/topics/4257)|
+|2023-11-17 01:01:35|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 112 期）：基于 Shopify 开发月收入 2.9 万美元的 WhatsApp 插件](https://w2solo.com/topics/4256)|
+|2023-11-17 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[追击OpenAI，微软深夜发布100+更新：人人定制Copilot，自研两款AI芯片 焦点分析](https://36kr.com/p/2520821384374017)|
+|2023-11-17 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“费大厨”们，批量攻占北上广](https://36kr.com/p/2520448678962947)|
+|2023-11-17 04:03:43|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米汽车，年轻人可能买不起](https://36kr.com/p/2520847681922560)|
+|2023-11-17 04:03:42|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发 「易控智驾」获4.5亿元融资，单矿运营超200台无人驾驶矿卡](https://36kr.com/p/2519712953263618)|
+|2023-11-17 04:03:42|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[iPhone 16 外观曝光，国产手机看完笑了](https://36kr.com/p/2519699091088901)|
+|2023-11-17 04:03:42|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨抖音测试付费短视频功能，7日内可观看；马云家族信托拟减持阿里巴巴超8.7亿美元；小杨哥演唱会成本超3000万元](https://36kr.com/p/2521630070580744)|
 |2023-11-17 00:05:39|[鸟窝](https://colobu.com/atom.xml)|[TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/)|
 |2023-11-17 01:04:37|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有偿请求解决一个 ASP.NET Core 程序部署问题](https://www.v2ex.com/t/992651#reply0)|
 |2023-11-17 00:56:45|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 雷雳 4 口的网线？](https://www.v2ex.com/t/992649#reply1)|
