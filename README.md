@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-18 07:46:51|[祝融说。](https://zhurongshuo.com/index.xml)|[思想与情绪有其物理的或化学的性质。](https://zhurongshuo.com/posts/2023/11/1801/)|
+|2023-11-18 00:30:19|[爱范儿](https://www.ifanr.com/feed)|[早报｜微软回应 OpenAI CEO 离职/格力就自媒体侮辱诽谤高管报案/马云办公室称坚定看好阿里｜未来周报](https://www.ifanr.com/1568326?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-18 00:27:19|[爱范儿](https://www.ifanr.com/feed)|[突发 ChatGPT 之父被 OpenAI 开除！AI 圈迎来地震](https://www.ifanr.com/1568331?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-18 00:35:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[伦敦掠影 一 ](https://www.changhai.org/articles/tours/2023_London/index1.php)|
+|2023-11-18 07:14:21|[沈唁志](https://qq52o.me/feed)|[WordPress 文章内容审核增强版](https://qq52o.me/2827.html)|
 |2023-11-18 03:31:16|[机核](https://www.gcores.com/rss)|[对莱姆《无敌号》的另一种解读](https://www.gcores.com/articles/173944)|
 |2023-11-18 03:10:43|[机核](https://www.gcores.com/rss)|[藏在字里行间的文化冲突：《Heaven Will Be Mine》世界观概念解读](https://www.gcores.com/articles/173943)|
 |2023-11-18 02:45:19|[机核](https://www.gcores.com/rss)|[包含Roguelike生存模式，《最后生还者 第二章 复刻版》将于2024年1月19日登陆PS5](https://www.gcores.com/articles/173945)|
