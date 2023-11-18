@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-18 08:15:51|[est の 输入输出](http://feeds.feedburner.com/initiative)|[太阳系天体的 unicode 符号](https://blog.est.im/2023/stdout-15)|
+|2023-11-18 15:08:25|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[cross-rs: 无配置可跨平台编译与测试](https://scottyeung.top/2023/cross-rs-build/)|
+|2023-11-18 04:03:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 在 Ubuntu 上安装最新版的 Calibre](https://linux.cn/article-16394-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-18 03:37:43|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 全新的 Linux 电子书阅读器 Foliate 3.0 发布](https://linux.cn/article-16393-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-18 01:27:19|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1189 苹果宣布将在明年支持谷歌力推的 RCS 标准](https://linux.cn/article-16392-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-18 15:03:56|[爱范儿](https://www.ifanr.com/feed)|[马斯克的星舰又炸了，但有两个好消息](https://www.ifanr.com/1568350?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-18 08:15:50|[触乐](http://www.chuapp.com/feed)|[《白荆回廊》：为“二游”做出玩法革新](http://www.chuapp.com/article/289632.html)|
+|2023-11-18 07:19:51|[触乐](http://www.chuapp.com/feed)|[周末玩什么：在《因果动物园》里“功德+1”，在异世界王国开地下城酒馆](http://www.chuapp.com/article/289631.html)|
 |2023-11-18 07:46:51|[祝融说。](https://zhurongshuo.com/index.xml)|[思想与情绪有其物理的或化学的性质。](https://zhurongshuo.com/posts/2023/11/1801/)|
 |2023-11-18 00:30:19|[爱范儿](https://www.ifanr.com/feed)|[早报｜微软回应 OpenAI CEO 离职/格力就自媒体侮辱诽谤高管报案/马云办公室称坚定看好阿里｜未来周报](https://www.ifanr.com/1568326?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-11-18 00:27:19|[爱范儿](https://www.ifanr.com/feed)|[突发 ChatGPT 之父被 OpenAI 开除！AI 圈迎来地震](https://www.ifanr.com/1568331?utm_source=rss&utm_medium=rss&utm_campaign=)|
