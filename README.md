@@ -2,6 +2,75 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-18 12:47:10|[LiesAuer's Blog](https://www.liesauer.net/blog/feed/)|[Cloudflare 开启 DNS Proxy后Websocket连不上的问题排查](https://www.liesauer.net/blog/post/cloudflare-websocket-failed-to-connect-with-dns-proxy-troubleshooting.html)|
+|2023-11-18 09:13:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【河南夫妇投资2千万盘活烂尾楼，被指非法吸收公众存款刑事拘留】2021年8月，徐庆利和丈夫王小文接手了烂尾楼龙苑小区。他们计划投资2000万元，在6个月内完成后期建设。如果顺利，既能小赚一笔，还能解决很多人买了房住不进去的问题。但他们当时没有想到，这个本可以“名利双收”的决定，最后却会以刑事涉案的悲剧收场。](https://dig.chouti.com/link/40653018)|
+|2023-11-18 09:13:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[隔着屏幕都觉得酸…](https://dig.chouti.com/link/40653035)|
+|2023-11-18 14:13:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[来自John Kraus的现场照片，这次星舰发射虽然最终失败，但升空阶段堪称完美，一级33台猛禽发动机全部点燃，尾焰超帅～～](https://dig.chouti.com/link/40655158)|
+|2023-11-18 12:14:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从上市到现在，马云累计套现955亿，持股从7.8%降至4.8%…在阿里巴巴美股上市的当月，其市值达到1.4万亿，而当时亚马逊市值为9000亿。如今亚马逊市值超过10万亿，相当于6-7个阿里巴巴…二者的投资者回报迥异：2014-2023年，投资者买入亚马逊的回报是760%，而阿里巴巴在0附近徘徊…](https://dig.chouti.com/link/40654236)|
+|2023-11-18 12:04:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[达・芬奇是如何利用《蒙娜丽莎》“欺骗”你的？](https://dig.chouti.com/link/40653940)|
+|2023-11-18 13:24:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[星舰在第二次试射中首次进入太空，但SpaceX与星舰助推器失去联系，推定火箭故障，被迫触发自毁程序、已官宣发射失败](https://dig.chouti.com/link/40654740)|
+|2023-11-18 10:15:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[悔婚拒退彩礼引发血案：当从悲剧中吸取教训](https://dig.chouti.com/link/40653453)|
+|2023-11-18 11:14:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[北京时间今晚21时起，SpaceX的星舰火箭将进行第二次试飞。这段视频是著名航天播主Everyday Astronaut为今天的直播准备的动画，展示了星舰二次试飞的任务轨迹。当然，前提是试飞一切顺利。 要是不顺利的话，升空后过不了多久又炸了，也不一定…… 视频来源：Spencer Tetik](https://dig.chouti.com/link/40653873)|
+|2023-11-18 10:05:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【柯文哲致电称“蓝白合没破局”，马办：双方择期再议】国民党与民众党15日确定共同推派“大选”候选人，由三方推派民调专家检视市面民调决定正副人选组合。三位民调专家昨夜开会，检视11月7日至17日民调结果。原定今天早上10点在马英九基金会公布结果，但最后仍没有共识，民众党代表拒绝签名，决定择期再议。](https://dig.chouti.com/link/40653253)|
+|2023-11-18 06:50:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[插一次队交2900万：巴拿马运河到底有多赚钱？](https://dig.chouti.com/link/40651948)|
+|2023-11-18 11:44:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大众点评现在有多艹蛋呢，我和我朋友在个陌生地，中午随便找了家4.4分的吃，难吃哭了。晚上受不了找了家开了八年3.9分的，好吃哭了，后者环境服务味道秒杀前者。难以理解一家互联网企业为啥要把自己赖以生存的卖点这么毁。](https://dig.chouti.com/link/40653934)|
+|2023-11-18 07:05:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[非必须不要做CT？94万人数据显示CT剂量累积和血液恶性肿瘤风险存在正关联](https://dig.chouti.com/link/40652103)|
+|2023-11-18 07:13:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【《早春的中国》久保田博二】今年收到最震撼的书，第一次看到这么大开本，每一张照片都值得反复观看，满满的时代感，虽然没有现在的科技感，但是却如此的蓬勃。](https://dig.chouti.com/link/40652266)|
+|2023-11-18 07:40:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[长安立交下，流浪骑士和他的落魄公主](https://dig.chouti.com/link/40652378)|
+|2023-11-18 02:05:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[实探钟薛高总部：有一层已无人办公，渠道批发价断崖式下降](https://dig.chouti.com/link/40649839)|
+|2023-11-18 02:15:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[孩子总摸小鸡鸡正常吗？一位男孩公开了他的秘密](https://dig.chouti.com/link/40650066)|
+|2023-11-18 02:36:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[玩转围棋、国际象棋、扑克、苏格兰场，DeepMind推出通用学习算法Student of Games（SoG）](https://dig.chouti.com/link/40650108)|
+|2023-11-18 18:27:22|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 分享我对 DiscuzQ 这款现代化开源轻社区的二次开发成果。DiscuzQ 依然是站长的最佳选择！](https://www.v2ex.com/t/993155#reply2)|
+|2023-11-18 18:00:12|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 Elog 最佳实践 语雀 + Elog + VitePress + GitHub Actions + Vercel 文档站点解决方案](https://www.v2ex.com/t/993153#reply0)|
+|2023-11-18 17:42:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 discord bot 我想知道如何登录](https://www.v2ex.com/t/993152#reply0)|
+|2023-11-18 17:40:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 30 岁大龄后端程序员， matrixport 和比亚迪该怎么选？](https://www.v2ex.com/t/993151#reply0)|
+|2023-11-18 17:30:06|[V2EX](https://www.v2ex.com/index.xml)|[ 天黑以后 20231119 午夜俱乐部](https://www.v2ex.com/t/993150#reply1)|
+|2023-11-18 17:08:28|[V2EX](https://www.v2ex.com/index.xml)|[ NAS transmission 怎么比较种子和文件](https://www.v2ex.com/t/993148#reply1)|
+|2023-11-18 16:50:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 自己写的 uptime 监控及状态页 UptimeFlare, 使用 Cloudflare Workers 部署](https://www.v2ex.com/t/993147#reply1)|
+|2023-11-18 16:46:04|[V2EX](https://www.v2ex.com/index.xml)|[ Windows 求救 win10 系统网易云音乐为何会更改系统应用音量](https://www.v2ex.com/t/993146#reply0)|
+|2023-11-18 16:39:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 SS 套 WARP 的奇怪 IP 问题](https://www.v2ex.com/t/993144#reply2)|
+|2023-11-18 16:37:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 预算只有 1000 元以内，是该选择 2k144Hz 还是 4k60Hz 的显示器](https://www.v2ex.com/t/993143#reply2)|
+|2023-11-18 16:32:17|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 大家 NAS 防尘有什么妙招没？](https://www.v2ex.com/t/993142#reply8)|
+|2023-11-18 16:16:39|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 遇到信用卡乱扣费的，真的完全没有办法吗？](https://www.v2ex.com/t/993141#reply2)|
+|2023-11-18 16:12:28|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 安卓模拟器哪个好用](https://www.v2ex.com/t/993140#reply1)|
+|2023-11-18 16:09:54|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 HK 中银开户一日游全过程分享，无需提交任何额外资料](https://www.v2ex.com/t/993139#reply4)|
+|2023-11-18 15:46:13|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 准备调空调的时候静电打了一下不亮了能自救么](https://www.v2ex.com/t/993138#reply1)|
+|2023-11-18 15:25:28|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 更新 sonoma14.1.1 后高动态 hdr 没了？](https://www.v2ex.com/t/993136#reply1)|
+|2023-11-18 15:22:39|[V2EX](https://www.v2ex.com/index.xml)|[ V2EX 请问卖课类的推广可以发在推广节点吗？](https://www.v2ex.com/t/993135#reply0)|
+|2023-11-18 14:55:36|[V2EX](https://www.v2ex.com/index.xml)|[ Spotify Spotify 日区家庭组长期拼车！季度付 45 元](https://www.v2ex.com/t/993134#reply0)|
+|2023-11-18 14:53:09|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 小白装机，跳线开机能进 bios 是不是说明硬件没问题了](https://www.v2ex.com/t/993133#reply6)|
+|2023-11-18 14:48:39|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 一次 iPhone 拍摄的照片失而复得的经历](https://www.v2ex.com/t/993132#reply3)|
+|2023-11-18 14:40:08|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 马斯克的星舰发射成功分离了](https://www.v2ex.com/t/993131#reply0)|
+|2023-11-18 14:29:23|[V2EX](https://www.v2ex.com/index.xml)|[ Android 发现 Fcitx 输入法上线了 Android 版](https://www.v2ex.com/t/993129#reply0)|
+|2023-11-18 14:06:57|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 开个脑洞想了一个结合软硬路由优点的方案](https://www.v2ex.com/t/993126#reply7)|
+|2023-11-18 14:02:34|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 宽带带宽到底如何限制的？](https://www.v2ex.com/t/993125#reply8)|
+|2023-11-18 13:56:51|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大家觉得找对象需要有共同话题吗？](https://www.v2ex.com/t/993124#reply10)|
+|2023-11-18 13:50:48|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 告别用了二十几年的罗技，新鼠标换了绿联](https://www.v2ex.com/t/993123#reply10)|
+|2023-11-18 13:45:26|[V2EX](https://www.v2ex.com/index.xml)|[ 云计算 有一些站点的内容可能有点敏感，可能有侵权风险。有么有哪个美国主机商能接的？](https://www.v2ex.com/t/993122#reply7)|
+|2023-11-18 13:39:59|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 成都电信升级 2000M 后，你们的公网 ip 还在吗？](https://www.v2ex.com/t/993121#reply0)|
+|2023-11-18 13:26:34|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 目前移动联通两张卡都有用，想办个流量卡，有木有办法原卡变虚拟卡](https://www.v2ex.com/t/993120#reply2)|
+|2023-11-18 13:20:44|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 新安装的电信自带光猫提示如下](https://www.v2ex.com/t/993119#reply1)|
+|2023-11-18 12:55:57|[V2EX](https://www.v2ex.com/index.xml)|[ Telegram 来一些高质量&少数的 telegram 推荐](https://www.v2ex.com/t/993116#reply4)|
+|2023-11-18 12:34:37|[V2EX](https://www.v2ex.com/index.xml)|[ 云计算 云数据库也太贵了，小规模使用有什么优势吗？](https://www.v2ex.com/t/993114#reply23)|
+|2023-11-18 12:29:41|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 有朋友分享个 iptv m3u 么](https://www.v2ex.com/t/993112#reply1)|
+|2023-11-18 12:28:55|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于群晖套件 docker 的问题](https://www.v2ex.com/t/993111#reply0)|
+|2023-11-18 12:11:52|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 亚马逊的英睿达 T500 疑似标错 SKU 4T 不到 900](https://www.v2ex.com/t/993109#reply1)|
+|2023-11-18 12:03:09|[V2EX](https://www.v2ex.com/index.xml)|[ macOS mac 系统设置打不开](https://www.v2ex.com/t/993107#reply2)|
+|2023-11-18 12:02:53|[V2EX](https://www.v2ex.com/index.xml)|[ WireGuard wg 打洞 tailscale 是如何保障服务质量的探讨](https://www.v2ex.com/t/993106#reply2)|
+|2023-11-18 11:47:48|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 windows 远程桌面， rdp 通过端口映射开放到公网访问，有什么好的安全措施吗](https://www.v2ex.com/t/993104#reply22)|
+|2023-11-18 11:44:40|[V2EX](https://www.v2ex.com/index.xml)|[ Go 编程语言 net/http 这种异常有没有办法重试修复?](https://www.v2ex.com/t/993103#reply0)|
+|2023-11-18 11:30:56|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 apk 反编译后重新签名似乎总是有问题](https://www.v2ex.com/t/993101#reply10)|
+|2023-11-18 11:30:15|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 一次 github 跟开源大佬的抬杠经历](https://www.v2ex.com/t/993100#reply88)|
+|2023-11-18 11:28:10|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 MVP 项目开发，类似 ProductHunt，游戏领域](https://www.v2ex.com/t/993099#reply2)|
+|2023-11-18 11:18:56|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 已经被 Mac 上 Chrome ERR_NETWORK_CHANGED 搞疯了](https://www.v2ex.com/t/993098#reply5)|
+|2023-11-18 11:18:35|[V2EX](https://www.v2ex.com/index.xml)|[ 互联网 腾讯云 api 网关乱扣费](https://www.v2ex.com/t/993097#reply5)|
+|2023-11-18 11:16:44|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 请问土区 apple music 学生认证，选择国别的时候，点不动是什么回事](https://www.v2ex.com/t/993096#reply0)|
+|2023-11-18 11:01:27|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 安卓下类似 ios 的 bark 推送 app 是啥](https://www.v2ex.com/t/993095#reply7)|
+|2023-11-18 10:46:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 这周看到有个 V 友发帖宣传他的日程啥的管理软件，当时想下载发现得升级 ios ，今天升级好了，结果找不到那个帖子了。如有看到的 V 友，麻烦贴个连接。](https://www.v2ex.com/t/993094#reply3)|
+|2023-11-18 10:44:46|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 油猴 自动加载标题内容到当前页，效率提高；有希望添加的功能留言](https://www.v2ex.com/t/993093#reply1)|
+|2023-11-18 10:27:24|[V2EX](https://www.v2ex.com/index.xml)|[ Linux manjaro plasma 23 上的 fcitx5-rime 打字时字母乱跳](https://www.v2ex.com/t/993092#reply3)|
+|2023-11-18 10:15:20|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 做了一个给独立创造者使用的导航网站](https://www.v2ex.com/t/993091#reply8)|
+|2023-11-18 16:01:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1190 “Windows” 现在是一个 iOS 应用](https://linux.cn/article-16395-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-18 08:15:51|[est の 输入输出](http://feeds.feedburner.com/initiative)|[太阳系天体的 unicode 符号](https://blog.est.im/2023/stdout-15)|
 |2023-11-18 15:08:25|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[cross-rs: 无配置可跨平台编译与测试](https://scottyeung.top/2023/cross-rs-build/)|
 |2023-11-18 04:03:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 在 Ubuntu 上安装最新版的 Calibre](https://linux.cn/article-16394-1.html?utm_source=rss&utm_medium=rss)|
