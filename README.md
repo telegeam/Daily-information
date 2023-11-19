@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-19 16:00:41|[Dvel's Blog](https://dvel.me/index.xml)|[Rime 全拼双拼混输](https://dvel.me/posts/rime-full-pinyin-double-pinyin-mixed-input/)|
+|2023-11-19 15:12:20|[张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/feed/)|[剪映APP的视频特效如何在Web中JS实现](https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/)|
 |2023-11-19 08:37:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【曾被中国逮捕的两个加拿大间谍闹内讧：迈克尔起诉康明凯和加拿大外交部】迈克尔称，自己当年被中国政府逮捕，是因为遭到康明凯及加拿大外交部坑骗。他曾经把在中国期间了解到的朝鲜方面的情报分享给自称已离职加拿大外交部并在一家智库就职的康明凯。但事实上加拿大驻华大使馆情报部门仍将康明凯视作“情报资产”。](https://dig.chouti.com/link/40660892)|
 |2023-11-19 14:36:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阿里再辟谣“裁员两万五千人”：裁员谣言接二连三，已报警](https://dig.chouti.com/link/40663441)|
 |2023-11-19 09:05:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[警方曝光40名滞留境外涉诈人员照片，其中一高颜值女子引发关注](https://dig.chouti.com/link/40661081)|
