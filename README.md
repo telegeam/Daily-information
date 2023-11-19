@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-19 11:12:00|[plus studio](https://studyinglover.com/atom.xml)|[pua大模型](https://studyinglover.com/2023/11/19/pua%E5%A4%A7%E6%A8%A1%E5%9E%8B/)|
+|2023-11-19 04:18:24|[Stephen Leng](https://stephenleng.com/feed/)|[测试](https://stephenleng.com/blog/%e6%b5%8b%e8%af%95/)|
+|2023-11-19 03:15:07|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[做了一个独立创造者的导航网站 duli.one](https://w2solo.com/topics/4262)|
+|2023-11-19 04:12:07|[祝融说。](https://zhurongshuo.com/index.xml)|[从来就没有偶然，有的都是显性或隐性的合作。](https://zhurongshuo.com/posts/2023/11/1901/)|
 |2023-11-18 12:47:10|[LiesAuer's Blog](https://www.liesauer.net/blog/feed/)|[Cloudflare 开启 DNS Proxy后Websocket连不上的问题排查](https://www.liesauer.net/blog/post/cloudflare-websocket-failed-to-connect-with-dns-proxy-troubleshooting.html)|
 |2023-11-18 09:13:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【河南夫妇投资2千万盘活烂尾楼，被指非法吸收公众存款刑事拘留】2021年8月，徐庆利和丈夫王小文接手了烂尾楼龙苑小区。他们计划投资2000万元，在6个月内完成后期建设。如果顺利，既能小赚一笔，还能解决很多人买了房住不进去的问题。但他们当时没有想到，这个本可以“名利双收”的决定，最后却会以刑事涉案的悲剧收场。](https://dig.chouti.com/link/40653018)|
 |2023-11-18 09:13:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[隔着屏幕都觉得酸…](https://dig.chouti.com/link/40653035)|
