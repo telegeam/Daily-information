@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-20 15:31:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[普通二本的四年半](https://www.v2ex.com/t/993646#reply8)|
+|2023-11-20 10:23:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[家里两台电视分别是乐视 X65 和乐视超 3 X55，有什么好的固件选择吗？](https://www.v2ex.com/t/993576#reply11)|
+|2023-11-20 05:54:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[app 开发人手不够，我，今年写完 Android 写 iOS，明年写完 Android 写 iOS 再写‘不兼容的’？](https://www.v2ex.com/t/993461#reply14)|
+|2023-11-20 16:03:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[oracle cloud 的免费小机， iptables 全干掉了还是访问不通](https://www.v2ex.com/t/993654#reply0)|
+|2023-11-20 01:42:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[V 友们 你们使用的数据库管理工具是什么](https://www.v2ex.com/t/993341#reply121)|
+|2023-11-20 16:04:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[开源 Go 开发框架： Airway - 视频介绍（Golang）](https://www.v2ex.com/t/993655#reply0)|
+|2023-11-20 15:44:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[荣耀 70 港版手机购买十个月后出现烧屏（图像残留），不得已换屏后，为何会偶发亮屏延迟故障？](https://www.v2ex.com/t/993650#reply0)|
+|2023-11-20 07:30:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[edge 浏览器时不时的同步来自 chrome 的数据](https://www.v2ex.com/t/993501#reply10)|
+|2023-11-20 11:43:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[邮件增量拉取](https://www.v2ex.com/t/993594#reply4)|
+|2023-11-20 16:16:48|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 OpenAI DALL·E 3 Playground](https://www.v2ex.com/t/993659#reply0)|
+|2023-11-20 16:12:50|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Mac 如何让不同浏览器走不同的节点？](https://www.v2ex.com/t/993658#reply1)|
+|2023-11-20 16:10:47|[V2EX](http://www.v2ex.com/index.xml)|[ YouTube 如何评价 Google 故意给 Firefox 用户访问 YouTube 增加延迟](https://www.v2ex.com/t/993657#reply0)|
+|2023-11-20 16:04:45|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问现在有开源的 NPU 设计吗](https://www.v2ex.com/t/993656#reply0)|
+|2023-11-20 13:13:55|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 在 Fedora Linux 上值得尝试的酷炫 Flatpak 应用（11 月）](https://linux.cn/article-16401-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-20 13:36:43|[爱范儿](https://www.ifanr.com/feed)|[突发！李斌内部讲话曝光：蔚来将开放换电网络，首个合作伙伴明日公布](https://www.ifanr.com/1568584?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-20 06:55:20|[爱范儿](https://www.ifanr.com/feed)|[突发 Sam Altman 加入微软，OpenAI 三天换了三个 CEO](https://www.ifanr.com/1568496?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-20 00:52:13|[爱范儿](https://www.ifanr.com/feed)|[早报｜「ChatGPT 之父」或将回归 OpenAI/苹果考虑自研相机影像传感器/蔚来总裁回应倒闭质疑](https://www.ifanr.com/1568448?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-20 15:00:37|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Flash Switcher 闪记 —— 浏览器超级助手](https://w2solo.com/topics/4265)|
+|2023-11-20 13:20:45|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 #40：双标 Vivo / 第八年苹果开发者 / App 备案](https://w2solo.com/topics/4264)|
+|2023-11-20 08:41:56|[小众软件](https://www.appinn.com/feed/)|[OpenTrace – 开源跨、平台，基于 NextTrace，可视化路由跟踪工具，在地图上追踪并显示 IP 地址](https://www.appinn.com/opentrace/)|
+|2023-11-20 07:33:50|[小众软件](https://www.appinn.com/feed/)|[开源视频转码器 HandBrake 1.7.0 发布](https://www.appinn.com/handbrake-1-7-0/)|
 |2023-11-20 11:00:00|[机核](https://www.gcores.com/rss)|[最魂的银河城？两级反转般的体验！《最后的信仰》通关赏析](https://www.gcores.com/videos/174027)|
 |2023-11-20 09:37:02|[机核](https://www.gcores.com/rss)|[译介丨尼采导论（三）尼采身后](https://www.gcores.com/articles/174030)|
 |2023-11-20 09:35:55|[机核](https://www.gcores.com/rss)|[于狂暴的命运中拥抱自由——从存在主义再论游戏里的悲剧人物塑造](https://www.gcores.com/articles/174031)|
