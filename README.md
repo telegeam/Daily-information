@@ -1,9 +1,22 @@
-﻿# 每日资讯（2023-11-19）
+﻿# 每日资讯（2023-11-20）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-20 01:11:06|[V2EX](https://www.v2ex.com/index.xml)|[ 微信 别作死，看昨天 wechat 被封有感， GV 连夜换绑 hahasim，早上电脑登录后，被封了](https://www.v2ex.com/t/993332#reply0)|
+|2023-11-20 01:02:52|[V2EX](https://www.v2ex.com/index.xml)|[ 北京 在北京租房可算开了眼](https://www.v2ex.com/t/993330#reply1)|
+|2023-11-20 00:57:47|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有没有在用文石 leaf3 的，实际体验如何？](https://www.v2ex.com/t/993329#reply0)|
+|2023-11-20 00:46:17|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 职业生涯的十字路口](https://www.v2ex.com/t/993326#reply0)|
+|2023-11-20 00:34:39|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 macbook aip m2 的能买吗](https://www.v2ex.com/t/993325#reply2)|
+|2023-11-20 00:04:18|[V2EX](https://www.v2ex.com/index.xml)|[ 清华大学 签到](https://www.v2ex.com/t/993322#reply5)|
+|2023-11-20 01:02:23|[虎嗅](https://rss.huxiu.com/)|[地方电视台倒闭潮下，诈骗广告通过盒子走进家庭](https://www.huxiu.com/article/2322208.html?f=rss)|
+|2023-11-20 00:58:46|[虎嗅](https://rss.huxiu.com/)|[还在为明年降息欢呼雀跃？](https://www.huxiu.com/article/2322366.html?f=rss)|
+|2023-11-20 00:58:15|[虎嗅](https://rss.huxiu.com/)|[卧底新业主群，我看见了买房者的焦虑](https://www.huxiu.com/article/2314358.html?f=rss)|
+|2023-11-20 00:35:40|[虎嗅](https://rss.huxiu.com/)|[OpenAI“政变”事件：我支持Ilya](https://www.huxiu.com/article/2322199.html?f=rss)|
+|2023-11-20 00:29:42|[虎嗅](https://rss.huxiu.com/)|[货币的生产及代价：谁创造了终极需求？](https://www.huxiu.com/article/2320890.html?f=rss)|
+|2023-11-20 00:08:58|[虎嗅](https://rss.huxiu.com/)|[OpenAI“政变”续：剧情开始反转](https://www.huxiu.com/article/2321709.html?f=rss)|
 |2023-11-19 16:00:41|[Dvel's Blog](https://dvel.me/index.xml)|[Rime 全拼双拼混输](https://dvel.me/posts/rime-full-pinyin-double-pinyin-mixed-input/)|
 |2023-11-19 15:12:20|[张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/feed/)|[剪映APP的视频特效如何在Web中JS实现](https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/)|
+|2023-11-20 00:00:00|[t9t.io](https://blog.t9t.io/atom.xml)|[我如何帮助 GPT-4 在 1 小时内自主解决 LeetCode 上 100 个编程问题](https://blog.t9t.io/leetcode-gpt-4-2023-11-20/)|
 |2023-11-19 08:37:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【曾被中国逮捕的两个加拿大间谍闹内讧：迈克尔起诉康明凯和加拿大外交部】迈克尔称，自己当年被中国政府逮捕，是因为遭到康明凯及加拿大外交部坑骗。他曾经把在中国期间了解到的朝鲜方面的情报分享给自称已离职加拿大外交部并在一家智库就职的康明凯。但事实上加拿大驻华大使馆情报部门仍将康明凯视作“情报资产”。](https://dig.chouti.com/link/40660892)|
 |2023-11-19 14:36:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阿里再辟谣“裁员两万五千人”：裁员谣言接二连三，已报警](https://dig.chouti.com/link/40663441)|
 |2023-11-19 09:05:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[警方曝光40名滞留境外涉诈人员照片，其中一高颜值女子引发关注](https://dig.chouti.com/link/40661081)|
