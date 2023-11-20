@@ -2,6 +2,28 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-20 06:48:00|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[桌面不再乱，桌面图标分类工具 Stardock Fences v5.0中文学习版](https://masuit.com/1583)|
+|2023-11-20 06:46:35|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Ashampoo WinOptimizer 26.0.20多语言学习版](https://masuit.com/1225)|
+|2023-11-20 20:17:15|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[.NET Conf 2023 成都会场线下活动持续招募讲师中…](https://masuit.com/p362)|
+|2023-11-20 15:59:00|[机核](https://www.gcores.com/rss)|[《潜水员戴夫》团队新作《纳克园：最后的乐园》全新预告片公布](https://www.gcores.com/articles/174051)|
+|2023-11-20 13:54:01|[机核](https://www.gcores.com/rss)|[日本一新作《Bar Stella Abyss》正式公布，2024年2月29日发售](https://www.gcores.com/articles/174047)|
+|2023-11-20 13:00:00|[机核](https://www.gcores.com/rss)|[太空安全 Vol.6丨既是对手，也是朋友：国际太空安全合作](https://www.gcores.com/radios/162615)|
+|2023-11-20 16:55:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安卓都有云控嘛？都是随时通过 WebView 下载安全核心更新？](https://www.v2ex.com/t/993666#reply4)|
+|2023-11-20 05:54:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[app 开发人手不够，我，今年写完 Android 写 iOS，明年写完 Android 写 iOS 再写‘不兼容的’？](https://www.v2ex.com/t/993461#reply16)|
+|2023-11-20 15:44:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[荣耀 70 港版手机购买十个月后出现烧屏（图像残留），不得已换屏后，为何会偶发亮屏延迟故障？](https://www.v2ex.com/t/993650#reply2)|
+|2023-11-20 16:50:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大佬们，自建机房的 k8s 有什么好的部署和运维工具？](https://www.v2ex.com/t/993664#reply2)|
+|2023-11-20 16:03:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[oracle cloud 的免费小机， iptables 全干掉了还是访问不通](https://www.v2ex.com/t/993654#reply2)|
+|2023-11-20 16:23:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[阿里云-通义千问 文档好歹认真点啊-参数 typo](https://www.v2ex.com/t/993660#reply2)|
+|2023-11-20 01:42:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[V 友们 你们使用的数据库管理工具是什么](https://www.v2ex.com/t/993341#reply122)|
+|2023-11-20 23:34:42|[Macin](https://www.macin.org/atom.xml)|[苏北的海：从羊窝头到野鹿荡](https://macin.org/2023/11/20/lian-yun-gang/)|
+|2023-11-20 09:43:23|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[马上登船，2天后启航！](https://www.freebuf.com/news/384375.html)|
+|2023-11-20 14:42:25|[SHRIK3](https://shrik3.com/index.xml)|[bits 0x2f - Calender Week 47, 2023 WIP ](https://shrik3.com/bits/0x2f/)|
+|2023-11-20 16:05:07|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[SpaceX的星舰又炸了，马斯克却说成功了？｜焦点分析](https://36kr.com/p/2526075515086594)|
+|2023-11-20 16:05:07|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[应届生进大厂，真的大厂](https://36kr.com/p/2525808189089287)|
+|2023-11-20 16:05:06|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Altman加入微软，OpenAI聘请新CEO 最前线](https://36kr.com/p/2526162685765121)|
+|2023-11-20 16:05:06|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国式小区衰败：房贷没还完，小区变破烂](https://36kr.com/p/2526048167847427)|
+|2023-11-20 16:05:06|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Altman王者归来，强势要求解散董事会，OpenAI终极宫斗一触即发](https://36kr.com/p/2526060855469829)|
+|2023-11-20 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 46/2023](https://weekly.pychina.org/pyrecap/pyrw-2346.html)|
 |2023-11-20 15:31:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[普通二本的四年半](https://www.v2ex.com/t/993646#reply8)|
 |2023-11-20 10:23:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[家里两台电视分别是乐视 X65 和乐视超 3 X55，有什么好的固件选择吗？](https://www.v2ex.com/t/993576#reply11)|
 |2023-11-20 05:54:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[app 开发人手不够，我，今年写完 Android 写 iOS，明年写完 Android 写 iOS 再写‘不兼容的’？](https://www.v2ex.com/t/993461#reply14)|
