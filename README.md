@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-21 12:11:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[喚醒](http://mercurychong.blogspot.com/2023/11/blog-post_21.html)|
+|2023-11-21 19:29:12|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 一个小工具，在线生成条形码和二维码](https://www.v2ex.com/t/993998#reply0)|
+|2023-11-21 19:14:17|[V2EX](https://www.v2ex.com/index.xml)|[ Go 编程语言 go 如何实现反序列提供默认值](https://www.v2ex.com/t/993997#reply1)|
+|2023-11-21 18:48:48|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有人做过 Apple Pay 支付接入没？](https://www.v2ex.com/t/993996#reply2)|
+|2023-11-21 17:31:36|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 关于 macmini 外接显示器的问题](https://www.v2ex.com/t/993995#reply3)|
+|2023-11-21 17:09:49|[V2EX](https://www.v2ex.com/index.xml)|[ macOS aria2c mac 下怎么老出现 6800 被占用？](https://www.v2ex.com/t/993994#reply1)|
+|2023-11-21 17:04:01|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 LG 42C3 游戏电视到了，简单说下感受吧。](https://www.v2ex.com/t/993993#reply3)|
+|2023-11-21 16:08:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 想了解教员](https://www.v2ex.com/t/993989#reply12)|
+|2023-11-21 13:20:49|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[技术 Linux 黑话解释：Linux 中的 Super 键是什么？](https://linux.cn/article-16404-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-21 12:16:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[技术 故障排除：在 Arch Linux 上启用蓝牙](https://linux.cn/article-16403-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-21 07:08:56|[小众软件](https://www.appinn.com/feed/)|[PixPin – 新截图工具：贴图、截长图、截动图、OCR 文字识别 Windows ](https://www.appinn.com/pixpin/)|
+|2023-11-21 13:32:46|[爱范儿](https://www.ifanr.com/feed)|[影石 Insta360 Ace Pro 发布：自带翻转屏的运动相机，超友好的入门选择](https://www.ifanr.com/1568596?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-21 12:07:40|[爱范儿](https://www.ifanr.com/feed)|[原来，MacBook Pro 的「小黑本」是这样「炼」成的](https://www.ifanr.com/1568658?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-21 08:06:01|[爱范儿](https://www.ifanr.com/feed)|[官宣！蔚来正式开放换电网络，李斌公布首个合作伙伴](https://www.ifanr.com/1568642?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-21 15:23:43|[Josh Comeau's blog](https://www.joshwcomeau.com/rss.xml)|[An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)|
 |2023-11-21 15:07:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[业务系统日志存储选型讨论](https://www.v2ex.com/t/993983#reply8)|
 |2023-11-21 09:08:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[讨论：当前环境下程序员如何苟活或弯道超车？](https://www.v2ex.com/t/993898#reply12)|
 |2023-11-21 11:03:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安卓和 iPhone 双持。求推荐一款安卓手机](https://www.v2ex.com/t/993933#reply25)|
