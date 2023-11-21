@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-21 15:07:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[业务系统日志存储选型讨论](https://www.v2ex.com/t/993983#reply8)|
+|2023-11-21 09:08:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[讨论：当前环境下程序员如何苟活或弯道超车？](https://www.v2ex.com/t/993898#reply12)|
+|2023-11-21 11:03:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安卓和 iPhone 双持。求推荐一款安卓手机](https://www.v2ex.com/t/993933#reply25)|
+|2023-11-21 02:35:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[笔记类软件，内部用 git 实现版本控制，用户会喜欢吗？](https://www.v2ex.com/t/993741#reply67)|
+|2023-11-21 06:21:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[让帮我测试发消息，确给我 oss 刷了 4.7TB 的流量😭](https://www.v2ex.com/t/993823#reply91)|
+|2023-11-21 15:45:19|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有好用的抖音爬虫推荐一下](https://www.v2ex.com/t/993988#reply0)|
+|2023-11-21 07:21:15|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[对于程序员， 1 天工作 8 小时并不合理](https://www.v2ex.com/t/993840#reply46)|
+|2023-11-21 13:13:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[vscode.cdn.azure.cn 无法下载最新版本 VS Code Insiders 安装包？](https://www.v2ex.com/t/993964#reply1)|
+|2023-11-21 14:13:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[347 万行的文本 VSCode 打开速度比自带记事本快很多](https://www.v2ex.com/t/993972#reply4)|
+|2023-11-21 13:46:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[推荐我司近期开源的一个在 K8s 中管理数据库的项目： KubeBlocks](https://www.v2ex.com/t/993967#reply4)|
+|2023-11-21 11:25:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Cloudflare 和高防 CDN 区别在哪里？](https://www.v2ex.com/t/993941#reply9)|
+|2023-11-21 08:55:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[在公司用 zerotier 被安全运维检测到了](https://www.v2ex.com/t/993893#reply21)|
+|2023-11-21 14:32:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于安卓 1Password 无法显示内容的后续](https://www.v2ex.com/t/993977#reply0)|
+|2023-11-21 16:08:40|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 想了解教员](https://www.v2ex.com/t/993989#reply2)|
+|2023-11-21 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话： 一周年“祭念日”](http://www.chuapp.com/article/289637.html)|
+|2023-11-21 12:00:00|[触乐](http://www.chuapp.com/feed)|[从游戏记者到创意总监：一个超级英雄粉丝的追梦人生](http://www.chuapp.com/article/289628.html)|
 |2023-11-21 12:29:09|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 看了好多测评麻木了，已经不知道什么音箱适合自己了](https://www.v2ex.com/t/993954#reply0)|
 |2023-11-21 12:26:09|[V2EX](http://www.v2ex.com/index.xml)|[ iOS 2023.11.21 许多 app 的开屏广告都换成了 iPhone](https://www.v2ex.com/t/993952#reply0)|
 |2023-11-21 12:22:26|[V2EX](http://www.v2ex.com/index.xml)|[ Safari 困扰多年的问题， Mac 平台 Safari 主页的图标为啥有些不能正常显示](https://www.v2ex.com/t/993951#reply0)|
