@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-11-20）
+﻿# 每日资讯（2023-11-21）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-21 00:49:11|[爱范儿](https://www.ifanr.com/feed)|[早报｜OpenAI 超 700 名员工联名逼宫董事会，不解散就跳槽微软/iPhone 16 Pro 电池曝光/小米汽车将进行第二次冬测](https://www.ifanr.com/1568589?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-11-20 06:48:00|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[桌面不再乱，桌面图标分类工具 Stardock Fences v5.0中文学习版](https://masuit.com/1583)|
 |2023-11-20 06:46:35|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Ashampoo WinOptimizer 26.0.20多语言学习版](https://masuit.com/1225)|
 |2023-11-20 20:17:15|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[.NET Conf 2023 成都会场线下活动持续招募讲师中…](https://masuit.com/p362)|
