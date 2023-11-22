@@ -2,6 +2,62 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-22 06:16:54|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[JavaScript Code Can Actually Be Written Like This](https://javascript.plainenglish.io/javascript-code-can-actually-be-written-like-this-3e404f0e6024?source=rss-c3917681a8f5------2)|
+|2023-11-22 09:44:03|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[为什么歧视苏北啊。。。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653446224&idx=1&sn=4bf8f8d28b8457166c26e2cbd0d07343)|
+|2023-11-22 16:15:59|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 分享一个优雅处理 Spring Boot 接口响应的 Java 库，提供一站式统一返回值封装、全局异常处理、自定义异常错误码等功能，求 star](https://www.v2ex.com/t/994341#reply0)|
+|2023-11-22 15:45:44|[V2EX](http://www.v2ex.com/index.xml)|[ Steam steam 秋季特卖开始了](https://www.v2ex.com/t/994340#reply1)|
+|2023-11-22 15:41:54|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 突发奇想，如果用 Mac mini+ Linux +外挂硬盘，这样的组合是否能用来当 nas？](https://www.v2ex.com/t/994339#reply1)|
+|2023-11-22 15:36:41|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有没有人分享下 Ubuntu touch 的体验？](https://www.v2ex.com/t/994338#reply0)|
+|2023-11-22 15:29:59|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 大家是怎么看待死亡的呢？](https://www.v2ex.com/t/994337#reply5)|
+|2023-11-22 15:27:44|[V2EX](http://www.v2ex.com/index.xml)|[ Flask celery 启动报错](https://www.v2ex.com/t/994336#reply0)|
+|2023-11-22 15:22:02|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 上海/北京 美团 招高级前端开发工程师](https://www.v2ex.com/t/994335#reply0)|
+|2023-11-22 15:17:33|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI 大家的 chatgpt 网页版可以使用吗？](https://www.v2ex.com/t/994334#reply2)|
+|2023-11-22 14:29:46|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 OpenWrt 配置 IPv6 wan 接口的正确做法是？](https://www.v2ex.com/t/994329#reply0)|
+|2023-11-22 14:18:22|[V2EX](http://www.v2ex.com/index.xml)|[ Docker container 内部如何 ping 通宿主机 ip？](https://www.v2ex.com/t/994325#reply3)|
+|2023-11-22 14:09:02|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有关于 invizible 的设置教程吗？](https://www.v2ex.com/t/994324#reply0)|
+|2023-11-22 14:03:39|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 《如何搭建自己的 STUN 服务器》](https://www.v2ex.com/t/994322#reply0)|
+|2023-11-22 13:48:46|[V2EX](http://www.v2ex.com/index.xml)|[ 物联网 求一款支持 Google Home 的温湿度传感器](https://www.v2ex.com/t/994321#reply7)|
+|2023-11-22 13:44:02|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 深圳 字节跳动飞书在线表格 & 幻灯片招聘，海量前端 HC](https://www.v2ex.com/t/994320#reply0)|
+|2023-11-22 13:35:42|[V2EX](http://www.v2ex.com/index.xml)|[ Python 自己一个写的使用 selenium 循环下拉爬去推特用户所有静态资源工具](https://www.v2ex.com/t/994318#reply1)|
+|2023-11-22 13:32:31|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI ChatGPT 的 prompt 好难写。](https://www.v2ex.com/t/994317#reply6)|
+|2023-11-22 13:17:40|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 悠长 求解决 iPhone Safari 浏览器问题](https://www.v2ex.com/t/994315#reply0)|
+|2023-11-22 13:12:07|[V2EX](http://www.v2ex.com/index.xml)|[ 云计算 有没有大佬会把这个脚本改成 python3.9 + ansible2.9.27 的，求 i 求了](https://www.v2ex.com/t/994314#reply3)|
+|2023-11-22 13:10:35|[V2EX](http://www.v2ex.com/index.xml)|[ 健康 种个牙要 17k,肉疼, 想拖延几年再种,不知道为此损失的牙槽骨会增加多少骨粉钱?](https://www.v2ex.com/t/994313#reply6)|
+|2023-11-22 13:02:36|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 为啥别人都是年薪几十万](https://www.v2ex.com/t/994312#reply7)|
+|2023-11-22 13:02:06|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 老家几十公里外的城市在招综合执法临时工，一个月 3600，我竟然有点想去](https://www.v2ex.com/t/994311#reply19)|
+|2023-11-22 13:01:38|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 厨房漏水，各位有好的维修方案吗？](https://www.v2ex.com/t/994310#reply3)|
+|2023-11-22 12:53:25|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 openvpn 跨网段组网问题](https://www.v2ex.com/t/994308#reply10)|
+|2023-11-22 12:52:27|[V2EX](http://www.v2ex.com/index.xml)|[ 移动开发 做 app 开发的朋友们，有 flutter 的 app 壳吗？ 可以 webview 打开网站，可以推送消息这样的。](https://www.v2ex.com/t/994307#reply1)|
+|2023-11-22 12:43:11|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 有个疑问，如果都觉得 Electron 是电子垃圾，那为啥不直接用用户的浏览器做 UI 而不是自己封一个 Chromium](https://www.v2ex.com/t/994305#reply35)|
+|2023-11-22 12:40:24|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Nas 主板坏了，换一套硬件重装系统后，原来的数据盘（LVM）还能识别吗？](https://www.v2ex.com/t/994304#reply2)|
+|2023-11-22 12:39:39|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI Sam Altman 回归 OpenAI](https://www.v2ex.com/t/994303#reply1)|
+|2023-11-22 12:38:19|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 twrp 恢复后进不去系统，急在线等](https://www.v2ex.com/t/994302#reply7)|
+|2023-11-22 12:37:29|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 申请 BidVertiser 广告联盟，为什么验证不了网站?](https://www.v2ex.com/t/994301#reply0)|
+|2023-11-22 12:33:00|[V2EX](http://www.v2ex.com/index.xml)|[ HomeKit 支持 HomeKit 的温度计](https://www.v2ex.com/t/994299#reply11)|
+|2023-11-22 12:32:29|[V2EX](http://www.v2ex.com/index.xml)|[ iDev macOS 的相册应用文件原始文件名在哪个数据库里？](https://www.v2ex.com/t/994298#reply0)|
+|2023-11-22 12:29:40|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI Chatgpt 语音安卓 app 听不到我说话](https://www.v2ex.com/t/994297#reply1)|
+|2023-11-22 12:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[新一代长焦之王！真我 GT5 Pro 引领长焦影像新拐点](https://www.photoworld.com.cn/post/175255)|
+|2023-11-22 22:00:43|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[硬盘状态检测工具 CrystalDiskInfo 9.2.1标准版](https://masuit.com/1377)|
+|2023-11-22 16:21:04|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[极客云，速鹰666的分机场，高速全隧道多节点IPLC超大国际机场，可白嫖！](https://masuit.com/p37)|
+|2023-11-22 21:58:33|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[网络流量监测控制软件NetLimiter v5.3.6多语言注册版](https://masuit.com/1817)|
+|2023-11-22 03:05:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巴菲特指定三个子女为遗嘱执行人，向家族慈善机构捐赠价值8.66亿美元股票](https://dig.chouti.com/link/40689536)|
+|2023-11-22 09:12:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【自由很贵，最近一次听说它的价格是43亿美元】在今天关于币安的喧嚣中，我最关注的不是罚款金额，也不是美国司法部给币安裁定的那些罪名，而是那张 CZ 现身美国西雅图的照片。这应该是币安成为加密巨兽后，CZ 第一次踏上北美的土地吧。对于在江苏出生，加拿大长大，上海创业的 CZ 来说，迪拜的空气还是太干燥了。](https://dig.chouti.com/link/40693726)|
+|2023-11-22 11:36:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[战狼版李子柒：东北雨姐の乡村诱惑](https://dig.chouti.com/link/40695182)|
+|2023-11-22 12:04:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【洛阳宋氏四兄弟涉黑案一审】原洛阳市公安局特警支队支队长“宋老二”宋彦海获刑25年；原民警“宋老四”宋彦洪获刑23年。宋彦海、宋彦庆、宋彦彬、宋彦洪四兄弟为首的黑社会性质组织，是以兄弟血缘为纽带，“两警两黑”为背景， 文物犯罪为主业，暴力犯罪为支撑，“伞黑”联盟为庇护，集红黑白为一体的家族犯罪组织。](https://dig.chouti.com/link/40695256)|
+|2023-11-22 10:17:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[干饭人的崩溃瞬间（虽然很惨，但是治愈我一天的坏心情……](https://dig.chouti.com/link/40694496)|
+|2023-11-22 12:05:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[荣耀独立三年官宣上市计划，原深圳市水务集团董事长吴晖将出任荣耀终端有限公司董事长，原董事长万飚改任副董事长](https://dig.chouti.com/link/40695444)|
+|2023-11-22 16:05:10|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一夜之间，“电视家”等众多电视直播软件停摆，发生了什么？](https://36kr.com/p/2528007853254151)|
+|2023-11-22 16:05:10|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[年薪百万招兵买马，拼多多杀入大模型](https://36kr.com/p/2528702335837701)|
+|2023-11-22 16:05:10|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI董事会炸裂操作曝光，投资人准备起诉，网友：GPT-4都比你们会开人](https://36kr.com/p/2528602651469321)|
+|2023-11-22 16:05:10|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[华为鸿蒙：安卓，拜拜了您呢](https://36kr.com/p/2528673035364102)|
+|2023-11-22 16:05:09|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI闹剧之后，人工智能世界将彻底分裂｜焦点分析](https://36kr.com/p/2528033612506889)|
+|2023-11-22 16:05:09|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI大戏终落幕！Sam Altman回归担任CEO，组成新董事会](https://36kr.com/p/2529094188410374)|
+|2023-11-22 16:05:09|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[优衣库平替，俘获打工人](https://36kr.com/p/2528950490801672)|
+|2023-11-22 04:03:10|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[新Model 3的冒险定位：从「公路赛车」到「移动的家」｜汽车Gallery](https://36kr.com/p/2510833018634240)|
+|2023-11-22 04:03:09|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[「轻舟能科」获数千万元A轮融资，专注分布式储能资产的智能运营 36氪首发](https://36kr.com/p/2526598337586695)|
+|2023-11-22 04:03:09|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[业绩低迷一年半，IoT收入大涨，小米重见曙光丨焦点分析](https://36kr.com/p/2526706546501385)|
+|2023-11-22 04:03:09|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[电视家被迫离场，OTT直播模式行不通？](https://36kr.com/p/2527931606786183)|
+|2023-11-22 05:40:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[14 款数字营销工具全方位对比：优劣势一览](https://w2solo.com/topics/4267)|
 |2023-11-22 11:15:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[OpenAI联合创始人兼前董事长Greg Brockman刚刚晒出一张OpenAI员工们的合照，并配文“我们终于回来了。”随后，OpenAI官方账号也转发了这张照片，并配文“没有员工的OpenAI就什么也不是。”](https://dig.chouti.com/link/40695083)|
 |2023-11-22 11:36:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[深圳二套住房最低首付款比例由普通住房70%、非普通住房80%统一调整为40%](https://dig.chouti.com/link/40695112)|
 |2023-11-22 04:05:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我迷糊中闻到自己身上臭臭的，竟然失禁了](https://dig.chouti.com/link/40690309)|
