@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-11-21）
+﻿# 每日资讯（2023-11-22）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-22 01:07:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[V 友们，有没有医疗行业的，懂 DICOM 的？](https://www.v2ex.com/t/994024#reply0)|
 |2023-11-21 12:11:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[喚醒](http://mercurychong.blogspot.com/2023/11/blog-post_21.html)|
 |2023-11-21 19:29:12|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 一个小工具，在线生成条形码和二维码](https://www.v2ex.com/t/993998#reply0)|
 |2023-11-21 19:14:17|[V2EX](https://www.v2ex.com/index.xml)|[ Go 编程语言 go 如何实现反序列提供默认值](https://www.v2ex.com/t/993997#reply1)|
