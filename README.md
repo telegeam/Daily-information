@@ -2,6 +2,40 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-23 10:41:31|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1194 苹果公司的 Objective-C 似乎已经落幕？](https://linux.cn/article-16407-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-23 04:01:18|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[Niagara Launcher：单手即可掌控的主屏，图标也能「一招鲜」](https://sspai.com/post/84498)|
+|2023-11-23 16:00:49|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[VPN 黑五優惠活動！促銷 54 美元入手終身版本，輕鬆跨區看劇、血拚、還能保障上網安全](https://applefans.today/2023-11-thanksgiving-day-offer-ivacy-vpn/)|
+|2023-11-23 10:52:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何避免變成 Google 閒置帳戶 ？透過這 7 個方式就不怕！](https://applefans.today/2023-11-google-deleting-inactive-accounts/)|
+|2023-11-23 04:30:37|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[YouTube 再出招打擊 Ad Blocker 廣告攔截：觀看廣告或付費成必選](https://applefans.today/2023-11-youtube-against-ad-blockers/)|
+|2023-11-23 16:14:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 2023 年你买到过哪些物美价廉值得分享的产品?](https://www.v2ex.com/t/994676#reply0)|
+|2023-11-23 16:00:17|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 有必要再单独注册一个 appleid 隔离么，为什么](https://www.v2ex.com/t/994675#reply0)|
+|2023-11-23 15:38:46|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 深圳 B 轮出海产品：技术总监（ Java ）， 5 年以上工作经验，海外云服务架构背景，带过小团队， 60-80W](https://www.v2ex.com/t/994673#reply0)|
+|2023-11-23 15:36:11|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 分享一个用了 3 年的小脚本用于自动申请和分发 ssl 证书到多客户端,虽然简单但是很有用](https://www.v2ex.com/t/994672#reply0)|
+|2023-11-23 15:32:30|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 记录 -在厦门的这几天](https://www.v2ex.com/t/994671#reply0)|
+|2023-11-23 15:17:23|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI GPT4 plus 找三个车友 使用开源隔离面板](https://www.v2ex.com/t/994669#reply2)|
+|2023-11-23 15:15:02|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 远程/兼职/外包 7 年 PHP 工作，寻求长期合作](https://www.v2ex.com/t/994668#reply0)|
+|2023-11-23 15:10:58|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 24 年毕业生，双非二本， CS，杭州。求指点一条学习之路](https://www.v2ex.com/t/994667#reply1)|
+|2023-11-23 14:57:20|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 分享一个自己工作/学习的保持专注度的小 tips](https://www.v2ex.com/t/994666#reply2)|
+|2023-11-23 14:53:30|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 问个 homekit 的问题，换新账号登录美区后， aqara 设备就无法导入 homekit 设备了，怎么解决](https://www.v2ex.com/t/994665#reply1)|
+|2023-11-23 14:35:32|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 求推个质量好速度快的外置 MBP 固态 移动硬盘 拯救下 8G+256G 丐版](https://www.v2ex.com/t/994663#reply3)|
+|2023-11-23 14:28:31|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 2023 黑五有购买 apple gift card 礼品卡的吗？有推荐的安全的渠道吗](https://www.v2ex.com/t/994660#reply2)|
+|2023-11-23 14:12:44|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 终于祛除了这开机广告了](https://www.v2ex.com/t/994658#reply9)|
+|2023-11-23 14:07:17|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 你们写文档吗](https://www.v2ex.com/t/994657#reply6)|
+|2023-11-23 14:00:11|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 付费问答 在写一个富文本编辑器，其中用到了带父子节点的双向链表，可无限嵌套，写了个递归一直报错，希望大佬指点指点，答案被采纳我 v 信转 120 给您（不在乎钱的也可以试一试，这十分考验算法实战能力）](https://www.v2ex.com/t/994656#reply3)|
+|2023-11-23 13:54:01|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 去海外有什么成品 NAS 推荐？](https://www.v2ex.com/t/994655#reply1)|
+|2023-11-23 13:50:27|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 tails 和 qubesOS 那个安全综合更强？](https://www.v2ex.com/t/994654#reply0)|
+|2023-11-23 13:39:19|[V2EX](https://www.v2ex.com/index.xml)|[ Android 类 原生在国内目前后台调教的最优解?](https://www.v2ex.com/t/994652#reply2)|
+|2023-11-23 13:15:00|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 tvbox 的直播源好像全跑路了](https://www.v2ex.com/t/994651#reply15)|
+|2023-11-23 13:06:04|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 电信宽带送的云电脑的玩法](https://www.v2ex.com/t/994649#reply3)|
+|2023-11-23 13:02:30|[V2EX](https://www.v2ex.com/index.xml)|[ 机械键盘 键盘求推荐 非 PBT 的！](https://www.v2ex.com/t/994648#reply4)|
+|2023-11-23 12:55:29|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有没有声明 typescript 类型的好办法以及前端样式的健壮性问题](https://www.v2ex.com/t/994647#reply2)|
+|2023-11-23 12:36:51|[V2EX](https://www.v2ex.com/index.xml)|[ AdSense 2 个月的新站，不到 2K 流量 AdSense 申请成功，我是如何做的？](https://www.v2ex.com/t/994646#reply7)|
+|2023-11-23 12:08:48|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 关于 Sonoma 桌面小组件的相关讨论](https://www.v2ex.com/t/994644#reply8)|
+|2023-11-23 11:57:02|[V2EX](https://www.v2ex.com/index.xml)|[ 天黑以后 20231123 午夜俱乐部](https://www.v2ex.com/t/994642#reply8)|
+|2023-11-23 11:16:40|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[这份《记录单》有点内涵](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892332&idx=1&sn=721de83fc64872f23b3372f9b038cc35)|
+|2023-11-23 12:08:12|[KAIX.IN](https://kaix.in/feed/)|[变坏的可能](https://kaix.in/2023/1123-possibility-of-getting-worse/)|
+|2023-11-23 02:23:25|[晚点LatePost](https://feedpress.me/wx-postlate)|[​​晚点财经｜中国进入流感高发期；巴菲特的终章预告](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247509494&idx=2&sn=3912e6881ff38159a3ebb15367b14f51)|
+|2023-11-23 02:23:24|[晚点LatePost](https://feedpress.me/wx-postlate)|[挑战三星的折叠屏手机如何炼成？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247509494&idx=1&sn=6bac9ffef3187e8066c445cd81dbee7e)|
 |2023-11-23 06:16:31|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[10 JavaScript Programming Tips](https://javascript.plainenglish.io/10-javascript-programming-tips-0f7c1ac3e75e?source=rss-c3917681a8f5------2)|
 |2023-11-23 04:17:11|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[8 Awesome JavaScript String Manipulation Tips](https://javascript.plainenglish.io/8-awesome-javascript-string-manipulation-tips-ad571000d172?source=rss-c3917681a8f5------2)|
 |2023-11-23 09:52:28|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[零食上新｜酸甜酸甜的杏脯](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653446382&idx=2&sn=ed8d38f066b4cc50b874d78fcace6f41)|
