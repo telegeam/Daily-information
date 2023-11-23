@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-23 03:00:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[和 mentor 代码习惯不一样，好头痛](https://www.v2ex.com/t/994435#reply125)|
+|2023-11-23 14:57:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[分享一个自己工作/学习的保持专注度的小 tips](https://www.v2ex.com/t/994666#reply4)|
+|2023-11-23 19:55:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[vscode 突然 OUTLINE 大纲没了](https://www.v2ex.com/t/994687#reply0)|
+|2023-11-23 18:23:43|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有无办法反向直通实体硬盘（KVM Windows）](https://www.v2ex.com/t/994683#reply2)|
+|2023-11-23 18:26:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求一个在线生成 logo/icon 文件的免费 ai 网站](https://www.v2ex.com/t/994684#reply1)|
+|2023-11-23 12:55:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有声明 typescript 类型的好办法以及前端样式的健壮性问题](https://www.v2ex.com/t/994647#reply5)|
+|2023-11-23 13:39:19|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ 类 原生在国内目前后台调教的最优解?](https://www.v2ex.com/t/994652#reply4)|
+|2023-11-23 05:52:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教一下有没有比较好的软件工程实践，比如如何梳理流程图、拆分架构之类的](https://www.v2ex.com/t/994502#reply14)|
+|2023-11-23 06:00:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大鼠标求推荐](https://www.v2ex.com/t/994503#reply68)|
+|2023-11-23 08:12:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[（2023 年）后端写前端的话怎么入门比较好？ 有没有什么教程推荐？](https://www.v2ex.com/t/994566#reply25)|
+|2023-11-23 14:12:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[终于祛除了这开机广告了](https://www.v2ex.com/t/994658#reply10)|
+|2023-11-23 08:51:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[使用 IDM 下载一个未加密的 zip 文件，多线程下载有没有文件泄漏的风险？](https://www.v2ex.com/t/994591#reply9)|
+|2023-11-23 09:39:00|[ipfans's Blog](https://www.4async.com/atom.xml)|[使用子解释器运行Python并行应用](https://www.4async.com/2023/11/python-312-sub-interpreters/)|
+|2023-11-23 03:59:26|[祝融说。](https://zhurongshuo.com/index.xml)|[过度反应会引起过度反应。](https://zhurongshuo.com/posts/2023/11/2301/)|
 |2023-11-23 10:41:31|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1194 苹果公司的 Objective-C 似乎已经落幕？](https://linux.cn/article-16407-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-23 04:01:18|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[Niagara Launcher：单手即可掌控的主屏，图标也能「一招鲜」](https://sspai.com/post/84498)|
 |2023-11-23 16:00:49|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[VPN 黑五優惠活動！促銷 54 美元入手終身版本，輕鬆跨區看劇、血拚、還能保障上網安全](https://applefans.today/2023-11-thanksgiving-day-offer-ivacy-vpn/)|
