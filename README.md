@@ -2,6 +2,60 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-24 13:55:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[技术 终端基础：在 Linux 中重命名文件和目录](https://linux.cn/article-16411-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-24 10:42:51|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1195 特斯拉开源其跑车的所有设计和工程资源](https://linux.cn/article-16410-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-24 08:42:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 Wave：即使你讨厌命令行，也会喜欢的现代新 Linux 终端](https://linux.cn/article-16409-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-24 07:11:42|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 EndeavourOS Galileo: 离开 Xfce，拥抱 KDE](https://linux.cn/article-16408-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-24 20:16:22|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 记录广州移动企业专线宽带的办理流程](https://www.v2ex.com/t/995015#reply0)|
+|2023-11-24 19:53:58|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 当前页面有影响图像拼接的效果](https://www.v2ex.com/t/995014#reply0)|
+|2023-11-24 19:34:21|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有做安全的吗？](https://www.v2ex.com/t/995012#reply0)|
+|2023-11-24 18:56:43|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 cft 整站加速怎么设置么 gpt 给我嗯答案感觉奇怪啊](https://www.v2ex.com/t/995011#reply1)|
+|2023-11-24 18:22:05|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 第一次送码 从未设想过 AI Bot 能活到今天,甚至有了收益，感谢 V 站许多人的支持](https://www.v2ex.com/t/995010#reply8)|
+|2023-11-24 18:18:46|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 开了三年会员的电视家被封了，只好自己动手写一个电视 APP 给妈妈用](https://www.v2ex.com/t/995009#reply3)|
+|2023-11-24 17:48:16|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 送码 一个 AI Bot 聚合站（函各种大语言模型 ChatGPT 等）](https://www.v2ex.com/t/995007#reply5)|
+|2023-11-24 17:30:03|[V2EX](https://www.v2ex.com/index.xml)|[ Android 求 MIUI 后台保活方法](https://www.v2ex.com/t/995006#reply0)|
+|2023-11-24 17:29:06|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 大家黑五有什么推荐的“好物”吗](https://www.v2ex.com/t/995005#reply0)|
+|2023-11-24 17:10:40|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 打算做一套有关 ChatGPT 的开源项目，缺后端、前端、客户端！](https://www.v2ex.com/t/995004#reply1)|
+|2023-11-24 17:05:23|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 做了一个自动为字幕文件匹配视频并且重命名的 CLI 小工具](https://www.v2ex.com/t/995003#reply0)|
+|2023-11-24 16:52:29|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 ProtonDrive 还是 Mega 各位帮忙打开一下丝路](https://www.v2ex.com/t/995002#reply0)|
+|2023-11-24 16:46:59|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 24 届找份实习，帮忙看看简历](https://www.v2ex.com/t/995001#reply0)|
+|2023-11-24 16:39:46|[V2EX](https://www.v2ex.com/index.xml)|[ Android 黑五 pixel8 pro 799 vs vivo x100 pro](https://www.v2ex.com/t/995000#reply7)|
+|2023-11-24 16:35:30|[V2EX](https://www.v2ex.com/index.xml)|[ YubiKey 求购一个 5c nfc](https://www.v2ex.com/t/994999#reply0)|
+|2023-11-24 16:27:54|[V2EX](https://www.v2ex.com/index.xml)|[ Google 捷径发短信导致 Google voice 被封](https://www.v2ex.com/t/994998#reply0)|
+|2023-11-24 16:21:47|[V2EX](https://www.v2ex.com/index.xml)|[ 天黑以后 20231125 午夜俱乐部](https://www.v2ex.com/t/994996#reply3)|
+|2023-11-24 15:46:45|[V2EX](https://www.v2ex.com/index.xml)|[ VPS 建站用独服还是直接搞一套洋垃圾寄过去托管？](https://www.v2ex.com/t/994995#reply3)|
+|2023-11-24 15:37:50|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iPhone 锁屏时有延迟](https://www.v2ex.com/t/994994#reply0)|
+|2023-11-24 15:36:31|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 为什么大多的 flutter 界面动画展示效果都不好，比如界面跳转等 卡卡的 很生硬](https://www.v2ex.com/t/994993#reply0)|
+|2023-11-24 15:34:11|[V2EX](https://www.v2ex.com/index.xml)|[ VPS 买了个搬瓦工的 cn2 gia 但是 rsync 速度不对劲](https://www.v2ex.com/t/994992#reply0)|
+|2023-11-24 15:31:54|[V2EX](https://www.v2ex.com/index.xml)|[ Python 生成条形码样式的问题](https://www.v2ex.com/t/994991#reply3)|
+|2023-11-24 15:28:25|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 这个配置，求推荐 Linux](https://www.v2ex.com/t/994990#reply6)|
+|2023-11-24 15:21:22|[V2EX](https://www.v2ex.com/index.xml)|[ English 外语学得越久，需要背的单词就越少吗？](https://www.v2ex.com/t/994989#reply4)|
+|2023-11-24 15:21:21|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 为什么程序员最应该学习的是运营与销售，而不是技术？](https://www.v2ex.com/t/994988#reply6)|
+|2023-11-24 15:17:04|[V2EX](https://www.v2ex.com/index.xml)|[ Android 请教读取用户正在运行的进程的方法](https://www.v2ex.com/t/994987#reply5)|
+|2023-11-24 15:12:19|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有个 nas 的问题请教下， raid 是 jbod 模式，二个硬盘是一个存储池的一个存储空间，第二个硬盘可以直接拔吗？](https://www.v2ex.com/t/994986#reply2)|
+|2023-11-24 15:11:27|[V2EX](https://www.v2ex.com/index.xml)|[ 日本語 原来微信自带的图片提取文字功能可以识别竖排日语](https://www.v2ex.com/t/994985#reply0)|
+|2023-11-24 15:04:30|[V2EX](https://www.v2ex.com/index.xml)|[ 耳机 有沒有戴上去整個世界都安靜了的耳機？](https://www.v2ex.com/t/994983#reply10)|
+|2023-11-24 14:58:41|[V2EX](https://www.v2ex.com/index.xml)|[ Linux 除了这里，还有其他的活跃的 Linux 社区吗？](https://www.v2ex.com/t/994982#reply2)|
+|2023-11-24 14:56:07|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 江苏移动终于把 ipv6 80/443 入站做掉了](https://www.v2ex.com/t/994981#reply3)|
+|2023-11-24 14:53:27|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 现国内本科计算机科班大三，想直接 run 国外工作有什么不费钱的路子吗](https://www.v2ex.com/t/994980#reply3)|
+|2023-11-24 14:37:11|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 发现通义灵码的 IDEA 插件已经很好用了，推荐下](https://www.v2ex.com/t/994978#reply5)|
+|2023-11-24 14:35:39|[V2EX](https://www.v2ex.com/index.xml)|[ 创业组队 有没有想开 网络安全 公司的？ （轻资，杭州，上海地区）](https://www.v2ex.com/t/994977#reply13)|
+|2023-11-24 14:33:18|[V2EX](https://www.v2ex.com/index.xml)|[ Go 编程语言 我正在使用 gorm，调用 Create 方式时，传递值对象和引用对象有什么区别](https://www.v2ex.com/t/994976#reply8)|
+|2023-11-24 14:17:56|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 请问如何用软件文档来训练 GPT 或其他 LLM？](https://www.v2ex.com/t/994974#reply0)|
+|2023-11-24 14:16:59|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 坏了，四川电信也开始查 pcdn 了？](https://www.v2ex.com/t/994973#reply2)|
+|2023-11-24 14:15:32|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 鼠标还是得罗技](https://www.v2ex.com/t/994972#reply12)|
+|2023-11-24 14:13:42|[V2EX](https://www.v2ex.com/index.xml)|[ 上海 紫色的上海交通卡还能在 iPhone 上新开通吗？](https://www.v2ex.com/t/994971#reply0)|
+|2023-11-24 14:10:34|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 入门级骑行护具求推荐](https://www.v2ex.com/t/994970#reply3)|
+|2023-11-24 14:08:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 安卓有什么 app 可以限制小孩手机每天只能用 30 分钟](https://www.v2ex.com/t/994969#reply1)|
+|2023-11-24 14:05:42|[V2EX](https://www.v2ex.com/index.xml)|[ C# 请教一个 sha256withecdsa 签名的问题](https://www.v2ex.com/t/994968#reply3)|
+|2023-11-24 14:04:56|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 小团队使用什么代码扫描工具呢？](https://www.v2ex.com/t/994967#reply3)|
+|2023-11-24 14:00:19|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 高通 CPU 浮点这么快吗。。。](https://www.v2ex.com/t/994966#reply32)|
+|2023-11-24 13:49:04|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 某位大神创作的可以吊打 Vue 的前端框架](https://www.v2ex.com/t/994964#reply16)|
+|2023-11-24 13:45:09|[V2EX](https://www.v2ex.com/index.xml)|[ 买买买 推荐一个清洁剂](https://www.v2ex.com/t/994963#reply3)|
+|2023-11-24 13:44:18|[V2EX](https://www.v2ex.com/index.xml)|[ MacBook Pro 选择 m1pro 16 寸 32g 512g 还是 m3pro 14 寸 18g 512g](https://www.v2ex.com/t/994962#reply5)|
+|2023-11-24 13:32:26|[V2EX](https://www.v2ex.com/index.xml)|[ MongoDB 感觉 Mongodb 的权限管理有点复杂](https://www.v2ex.com/t/994961#reply1)|
+|2023-11-24 13:32:25|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 为什么我在「问与答」中提问很少人回答甚至连个回复都没有？ 是我提的问题太无聊了吗？ 有什么提问技巧吗？比如说加什么标签之类的？](https://www.v2ex.com/t/994960#reply10)|
+|2023-11-24 13:17:33|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 预开奈飞](https://www.v2ex.com/t/994959#reply0)|
 |2023-11-24 06:04:51|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[作为独立开发者如何看待这张图的描述](https://w2solo.com/topics/4271)|
 |2023-11-24 12:31:06|[触乐](http://www.chuapp.com/feed)|[多人射击游戏中，玩家操纵的到底是不是“打枪工具人”？](http://www.chuapp.com/article/289642.html)|
 |2023-11-24 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：又来复刻版](http://www.chuapp.com/article/289644.html)|
