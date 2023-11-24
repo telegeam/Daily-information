@@ -1,7 +1,16 @@
-﻿# 每日资讯（2023-11-23）
+﻿# 每日资讯（2023-11-24）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-24 00:06:05|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/index.xml)|[科技爱好者周刊（第 279 期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)|
+|2023-11-24 01:07:04|[V2EX](https://www.v2ex.com/index.xml)|[ 互联网 没想明白微信支付 v3 里面为什么要对消息进行加密](https://www.v2ex.com/t/994703#reply0)|
+|2023-11-24 01:03:07|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 公司竟然管员工头发，男生不准留长发](https://www.v2ex.com/t/994700#reply2)|
+|2023-11-24 00:57:40|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 cyberchef 的一个转换问题（protobuf 的 octal 字符串转 hex）](https://www.v2ex.com/t/994699#reply0)|
+|2023-11-24 00:54:49|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 Svelte 要放弃 ts 了，各位 wyz 们怎么看](https://www.v2ex.com/t/994698#reply5)|
+|2023-11-24 00:46:57|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 vue 进度条加上标记位的组件有推荐的吗？](https://www.v2ex.com/t/994697#reply0)|
+|2023-11-24 00:44:41|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 微信发语音会有咻的一声提示音，找不到关闭按钮，这个设计合理吗](https://www.v2ex.com/t/994696#reply8)|
+|2023-11-24 00:28:59|[V2EX](https://www.v2ex.com/index.xml)|[ macOS App Store 意外退出及暂时解决方案](https://www.v2ex.com/t/994695#reply0)|
+|2023-11-24 00:10:45|[V2EX](https://www.v2ex.com/index.xml)|[ Surge Surge 使用 WireGuard 协议会很慢吗？](https://www.v2ex.com/t/994694#reply1)|
 |2023-11-23 03:00:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[和 mentor 代码习惯不一样，好头痛](https://www.v2ex.com/t/994435#reply125)|
 |2023-11-23 14:57:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[分享一个自己工作/学习的保持专注度的小 tips](https://www.v2ex.com/t/994666#reply4)|
 |2023-11-23 19:55:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[vscode 突然 OUTLINE 大纲没了](https://www.v2ex.com/t/994687#reply0)|
