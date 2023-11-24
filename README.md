@@ -2,6 +2,90 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-24 11:18:20|[ShineKid](https://shinekid.com/feed/)|[十四岁时听的音乐](https://shinekid.com/2023/11/music_i_listened_to_when_i_was_14/)|
+|2023-11-24 08:09:33|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[李干上新｜甜口酸口都齐活了。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653446470&idx=2&sn=69d0287161923ca0f349ada237ff0e54)|
+|2023-11-24 08:09:32|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[这个世界上没有真正快乐的人。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653446470&idx=1&sn=527071779413bbc6210a1a722b408827)|
+|2023-11-24 12:18:26|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 上海/远程 EMQ 招聘 Software Engineer Backend ](https://www.v2ex.com/t/994954#reply0)|
+|2023-11-24 12:17:24|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 洼地顺民](https://www.v2ex.com/t/994953#reply1)|
+|2023-11-24 12:11:50|[V2EX](https://www.v2ex.com/index.xml)|[ Cloudflare 使用 Cloudflare Worker 处理图片，支持缩放、剪裁、水印等功能](https://www.v2ex.com/t/994952#reply0)|
+|2023-11-24 11:55:59|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 我妈自己给自己交社保，近一周她对我说今年又交了 9000 多块，她之前在的厂从没给她交过社保。但是她自己交的这个社保很奇怪，没有医保，有次我陪她去医院问她医保的事，她说没有，只有新农合。我悲观的认为，这波亏了，当然我肯定希望我妈健康长寿。](https://www.v2ex.com/t/994951#reply7)|
+|2023-11-24 11:52:39|[V2EX](https://www.v2ex.com/index.xml)|[ Windows WSL2 有什么办法在 Windows 连接的局域网收发 UDP 广播吗](https://www.v2ex.com/t/994950#reply1)|
+|2023-11-24 11:39:24|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 Bard 提示「你所在的国家/地区目前暂不支持 Bard。敬请期待！」](https://www.v2ex.com/t/994948#reply1)|
+|2023-11-24 11:21:26|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 公司和家里如何异地组网啊？](https://www.v2ex.com/t/994945#reply1)|
+|2023-11-24 11:08:44|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 《我的书架-音视频书籍分享》](https://www.v2ex.com/t/994943#reply0)|
+|2023-11-24 11:08:43|[V2EX](https://www.v2ex.com/index.xml)|[ 小米 小米路由器里的 ipv6 防火墙对 pt 做种有影响吗](https://www.v2ex.com/t/994942#reply1)|
+|2023-11-24 10:55:29|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 你们的 MacBook Pro 都用了多少年？](https://www.v2ex.com/t/994941#reply13)|
+|2023-11-24 10:54:45|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 你们有哪些语音控制或者语音朗读的技巧？](https://www.v2ex.com/t/994940#reply0)|
+|2023-11-24 10:53:03|[V2EX](https://www.v2ex.com/index.xml)|[ PHP php8.3 更新了](https://www.v2ex.com/t/994939#reply0)|
+|2023-11-24 10:52:43|[V2EX](https://www.v2ex.com/index.xml)|[ 摄影 咨询下大家索尼 A6700 搭配镜头问题](https://www.v2ex.com/t/994938#reply3)|
+|2023-11-24 10:50:46|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 请教看剧问题](https://www.v2ex.com/t/994937#reply6)|
+|2023-11-24 10:49:09|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 web-redis-manager 一个现代化 Redis 的 Web 管理界面](https://www.v2ex.com/t/994936#reply1)|
+|2023-11-24 10:49:05|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 10w 嫌少 30w 嫌多](https://www.v2ex.com/t/994935#reply0)|
+|2023-11-24 10:45:23|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 去 4s 店砍价前怎么了解到底价啊](https://www.v2ex.com/t/994934#reply2)|
+|2023-11-24 10:30:56|[V2EX](https://www.v2ex.com/index.xml)|[ VPS RN 黑五服务器， Los Angeles DC02 机房，使用 ping 测速平均 166.7ms 正常吗？](https://www.v2ex.com/t/994933#reply2)|
+|2023-11-24 10:26:58|[V2EX](https://www.v2ex.com/index.xml)|[ iPad 拼多多上买 iPad 靠谱吗？](https://www.v2ex.com/t/994932#reply4)|
+|2023-11-24 10:24:53|[V2EX](https://www.v2ex.com/index.xml)|[ Netflix 关于智能电视使用 Netflix 的问题](https://www.v2ex.com/t/994931#reply2)|
+|2023-11-24 10:23:56|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 上海，得物， Java ，挺急的](https://www.v2ex.com/t/994930#reply0)|
+|2023-11-24 10:22:55|[V2EX](https://www.v2ex.com/index.xml)|[ 开源软件 请问如何实现对 pdf 高亮，加下划线、批注操作](https://www.v2ex.com/t/994929#reply0)|
+|2023-11-24 10:20:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 vue3 的运行时编译太强大了](https://www.v2ex.com/t/994928#reply0)|
+|2023-11-24 10:17:02|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 亚马逊上卖的 16TB 外置硬盘拆掉外壳用作 NAS 盘靠谱不](https://www.v2ex.com/t/994925#reply7)|
+|2023-11-24 10:10:21|[V2EX](https://www.v2ex.com/index.xml)|[ 北京 求问 v 友～北京西二旗租房有推荐的吗](https://www.v2ex.com/t/994924#reply1)|
+|2023-11-24 10:01:33|[V2EX](https://www.v2ex.com/index.xml)|[ 信息安全 请问黑色星期五那些网络空间测绘工具有打折活动活动、](https://www.v2ex.com/t/994922#reply2)|
+|2023-11-24 09:45:03|[V2EX](https://www.v2ex.com/index.xml)|[ macOS 出个 devutils](https://www.v2ex.com/t/994919#reply0)|
+|2023-11-24 09:42:06|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI ChatGPT PLUS 共享合租新玩法](https://www.v2ex.com/t/994918#reply1)|
+|2023-11-24 09:39:40|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 一个供需双方的撮合平台，该如何设置收费这一块的业务逻辑？](https://www.v2ex.com/t/994916#reply20)|
+|2023-11-24 09:39:38|[V2EX](https://www.v2ex.com/index.xml)|[ 互联网 你们备份邮件吗](https://www.v2ex.com/t/994915#reply0)|
+|2023-11-24 09:35:32|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 获取 Mac 和 iOS 的“查询”的记录的技术可行性。](https://www.v2ex.com/t/994914#reply3)|
+|2023-11-24 09:33:23|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 最近 Chatgpt 3.5 也可以用语音了，如何用它来学英语呢？](https://www.v2ex.com/t/994913#reply1)|
+|2023-11-24 09:32:45|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 求靠谱的注册 ChatGPT 方法](https://www.v2ex.com/t/994911#reply4)|
+|2023-11-24 09:31:05|[V2EX](https://www.v2ex.com/index.xml)|[ 耳机 大家用 macbook 的时候都用什么耳机听歌啊](https://www.v2ex.com/t/994910#reply3)|
+|2023-11-24 09:22:29|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 那些经常被阉割的名言，看来看问题还是要全面啊！](https://www.v2ex.com/t/994909#reply8)|
+|2023-11-24 09:20:47|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 成年人的生活突出一个疲劳啊](https://www.v2ex.com/t/994907#reply10)|
+|2023-11-24 09:18:52|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 我们有一个和 hashcat 和 opencl 有相关的需求，价格好商量，关键是找不到人](https://www.v2ex.com/t/994906#reply0)|
+|2023-11-24 08:53:48|[V2EX](https://www.v2ex.com/index.xml)|[ 重庆 重庆联通办理流量卡欢迎咨询](https://www.v2ex.com/t/994903#reply0)|
+|2023-11-24 08:52:50|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 中华财险的运维开发岗怎么样，有没有人了解的， base 杭州](https://www.v2ex.com/t/994902#reply0)|
+|2023-11-24 08:51:02|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 需要人来有偿维护一个 Chrome 插件，有人有兴趣接吗？](https://www.v2ex.com/t/994901#reply10)|
+|2023-11-24 08:47:48|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 最近感觉耳机的不同端切换智能了不少](https://www.v2ex.com/t/994899#reply2)|
+|2023-11-24 08:41:49|[V2EX](https://www.v2ex.com/index.xml)|[ 买买买 黑五有什么打折的优惠的虚拟物品可以买？](https://www.v2ex.com/t/994896#reply0)|
+|2023-11-24 08:39:33|[V2EX](https://www.v2ex.com/index.xml)|[ 反馈 自建 TTRSS 服务器无法订阅 V2EX RSS 源， SSL_ERROR_SYSCALL](https://www.v2ex.com/t/994895#reply2)|
+|2023-11-24 08:35:02|[V2EX](https://www.v2ex.com/index.xml)|[ Google 为什么有些搜索结果里，莫名其妙的带上了 category, city, medium, key2 这些奇怪的参数？原网址肯定不带这些。](https://www.v2ex.com/t/994893#reply1)|
+|2023-11-24 08:34:38|[V2EX](https://www.v2ex.com/index.xml)|[ macOS Mac Chrome 微博网页版 小白发问](https://www.v2ex.com/t/994892#reply1)|
+|2023-11-24 08:33:57|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 请问各位大佬，我这样跑 pt 倒是爽了，但是，这样算不算等于裸奔了，防火墙是不是没用了](https://www.v2ex.com/t/994891#reply3)|
+|2023-11-24 08:33:54|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 学习和使用 Databricks 之前，需要先掌握哪些预备知识？](https://www.v2ex.com/t/994890#reply0)|
+|2023-11-24 08:30:00|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 建行车主会的 ETC 真的有很多问题吗](https://www.v2ex.com/t/994889#reply10)|
+|2023-11-24 08:26:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 这个域名怎么样 assignment.icu](https://www.v2ex.com/t/994887#reply0)|
+|2023-11-24 08:23:44|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 想做一个软件：万物离线阅读](https://www.v2ex.com/t/994886#reply6)|
+|2023-11-24 12:20:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[调查历时2个多月，官方通报“山东莱荣高铁被举报偷工减料”：不影响运营安全，未履行设计变更手续，现场管理不到位、工程分包不规范](https://dig.chouti.com/link/40717633)|
+|2023-11-24 09:37:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中学生踩踏致死背后：课间拥挤的厕所与超大班级](https://dig.chouti.com/link/40715943)|
+|2023-11-24 04:14:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[西班牙首名AI模特月收入已高达10000欧元，而真人模特平均水平为3000欧元左右。这名粉红头发的“25岁模特”艾塔娜诞生于去年夏天。现在她每条广告可收入1000多欧元，目前在社交平台有12.3万粉丝，据称还会收到名人的私信邀请约会，对方并不了解她不是真人。](https://dig.chouti.com/link/40712841)|
+|2023-11-24 10:04:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[柯文哲登记参选，搭档台湾新光集团第三代千金吴欣盈](https://dig.chouti.com/link/40715978)|
+|2023-11-24 04:10:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[你就说稳不稳吧~](https://dig.chouti.com/link/40712717)|
+|2023-11-24 06:49:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【驳“五卅运动催生上海独立本土意识”谬论】复旦李天纲自豪地夸耀当时「犹太房地产大亨维克多·沙逊就认为自己是上海人」，却不说沙逊家族是上海也是全世界最大的鸦片商。当年林则徐虎门销烟，近一半的鸦片就是沙逊家族的，某种程度上可以说，英帝国发动鸦片战争，就是为他们家打的。](https://dig.chouti.com/link/40714059)|
+|2023-11-24 04:05:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【走出实验室，工科生去向何方？】这篇访谈的两位学子都来自国内985高校，工科生。一位在研二时突然意识到，学校的培养方向和就业所需的能力之间存在鸿沟。他为实验室里的突破而欣喜，更为自己未定的工作前途而迷茫。另一位则在一次实验室的工作中意识到自己的长处，并开始有意识地进行人生规划。](https://dig.chouti.com/link/40712649)|
+|2023-11-24 04:12:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【这不是青春叛逆，这是青少年抑郁】“小孩能有什么心事?”“小孩的心事多着呢！你真正了解过吗？！”这是上初一的女儿第一次对自己大声怒吼，来自安徽的家长李红 化名 被吓了一跳。李红那时才发现，女儿情绪不稳定已经持续了一段时间。](https://dig.chouti.com/link/40712722)|
+|2023-11-24 05:05:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[贝克汉姆自述：苦追四年，我是如何将梅西带到迈阿密的](https://dig.chouti.com/link/40713092)|
+|2023-11-24 08:04:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台湾史上最大金融诈骗案：苏有朋被骗，李登辉家族损失1.24亿元](https://dig.chouti.com/link/40714639)|
+|2023-11-24 05:15:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[生死存亡的一刻](https://dig.chouti.com/link/40713363)|
+|2023-11-24 05:16:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[历史学者用星占数术破除迷信系列︱建星与南斗：中国二十八宿的星象组成与星占内涵](https://dig.chouti.com/link/40713414)|
+|2023-11-24 06:04:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2000年前如何进行狙击作战？详解汉弩瞄准装置和远射技术](https://dig.chouti.com/link/40713560)|
+|2023-11-24 05:15:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[爱尔兰，一名阿尔及利亚移民刺伤了几名儿童，愤怒的当地民众涌向都柏林市中心，高喊“把他们赶出去”……防暴警察有点忙不过来](https://dig.chouti.com/link/40713377)|
+|2023-11-24 07:05:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[宋英宗疾病考](https://dig.chouti.com/link/40714324)|
+|2023-11-24 06:05:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[泰国移民局公布中国乞讨者调查结果：均通过正规渠道入境 部分持学生签证入境](https://dig.chouti.com/link/40713609)|
+|2023-11-24 06:05:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[法国历史学家、年鉴学派第三代代表人物、《蒙塔尤》作者勒华拉杜里去世，享年94岁](https://dig.chouti.com/link/40713816)|
+|2023-11-24 06:46:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[郭台铭宣布退选：“人退，志不退”，支持完成“政权”轮替](https://dig.chouti.com/link/40714057)|
+|2023-11-24 06:16:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【确实有癌症能传染，但可能不是你想的那样】“病毒性”“传染性”癌症成了中山二院“集体患癌”事件的又一传言，然而，细数那些与人类有关的具有“传染”性质的癌症，我们找不到事件中那三种癌症的类型。实际上，可“传染”的癌症，往往也是可预防的癌症。](https://dig.chouti.com/link/40713980)|
+|2023-11-24 04:14:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【荷兰极右翼政客赢得大选胜利：主张反移民、反欧盟、反伊斯兰教】出口民调显示，荷兰议会选举投票中，极右翼民粹主义者Geert Wilders所领导的自由党（PVV），有望取得最多选票，在众议院150个席位中获得35席。这比起其最接近的竞争对手——Frans Timmermans领导的的左翼联盟（工党和绿党）多出10席。](https://dig.chouti.com/link/40712776)|
+|2023-11-24 09:33:17|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[最高20%，新华三中高层全面主动降薪](https://www.freebuf.com/news/384829.html)|
+|2023-11-24 09:01:53|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[入侵只要1小时，米高梅幕后黑手攻击细节浮出水面](https://www.freebuf.com/news/384821.html)|
+|2023-11-24 10:30:00|[机核](https://www.gcores.com/rss)|[《最燃生活攻略頭號玩家》：解密万代收藏部](https://www.gcores.com/videos/174198)|
+|2023-11-24 10:00:57|[机核](https://www.gcores.com/rss)|[乐游不停！2P Games携多款游戏与你相约成都核聚变](https://www.gcores.com/articles/174224)|
+|2023-11-24 10:00:00|[机核](https://www.gcores.com/rss)|[被迫再就业还是完美落幕？55岁桐生一马在《如龙7外传 无名之龙》里终于告别了他的黑道生涯](https://www.gcores.com/videos/174188)|
+|2023-11-24 09:29:13|[机核](https://www.gcores.com/rss)|[万代前员工非法转卖应废弃产品，8年获益8700万日元](https://www.gcores.com/articles/174231)|
+|2023-11-24 09:00:00|[机核](https://www.gcores.com/rss)|[成都核聚变现场临时抓壮丁式极限突击采访原声大放送，录音笔 Vol.85](https://www.gcores.com/radios/174227)|
+|2023-11-24 08:00:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Photomator全面HDR支援，iPhone照片高級編輯功能](https://www.iphonetaiwan.org/2023/11/photomator-32-hdr-support.html)|
+|2023-11-24 07:29:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[傳 Apple Vision Pro 明年僅美國、加拿大和英國有賣](https://www.iphonetaiwan.org/2023/11/blog-post_643.html)|
+|2023-11-24 07:10:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[揭密科技業員工流動：蘋果員工離職多轉戰谷歌](https://www.iphonetaiwan.org/2023/11/blog-post_24.html)|
+|2023-11-24 09:49:52|[知乎每日精选](https://www.zhihu.com/rss)|[如果让你在相册里评出 2023 年有关自己的四张年度照片，每个季度各一张，你会选哪四张呢？](http://www.zhihu.com/question/631689980/answer/3301104438?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-11-24 04:36:37|[小众软件](https://www.appinn.com/feed/)|[飞傲音乐，十余年经验积累的本地音乐播放器 iOS/Android ](https://www.appinn.com/feiao-music/)|
 |2023-11-24 08:00:00|[虎嗅](https://rss.huxiu.com/)|[被嫌弃的中年男人有多难：想要玩只能“偷着乐”？](https://www.huxiu.com/article/2340030.html?f=rss)|
 |2023-11-24 07:55:00|[虎嗅](https://rss.huxiu.com/)|[量贩零食掀起大兼并浪潮？](https://www.huxiu.com/article/2339528.html?f=rss)|
