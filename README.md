@@ -2,6 +2,32 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-25 10:00:05|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Firefox浏览器120正式版绿色优化增强版_x64](https://masuit.com/146)|
+|2023-11-25 10:56:39|[土豆不好吃](https://dmesg.app/feed)|[Steam Deck 启动游戏卡 logo](https://dmesg.app/steam-deck-stuck.html)|
+|2023-11-25 12:55:05|[华山感染](https://feedpress.me/wx-hsinfect)|[保护呼吸道，安全过冬天](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247500463&idx=1&sn=23573c2b90962e3819f767fa4ccf1e53)|
+|2023-11-25 16:18:24|[V2EX](http://www.v2ex.com/index.xml)|[ 浏览器 Vivaldi 浏览器的百度搜索建议 URL](https://www.v2ex.com/t/995211#reply0)|
+|2023-11-25 16:18:18|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 晚上睡觉手机应该放在哪？](https://www.v2ex.com/t/995210#reply0)|
+|2023-11-25 16:16:40|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 想买全新 iPhone14pro](https://www.v2ex.com/t/995209#reply0)|
+|2023-11-25 16:03:08|[V2EX](http://www.v2ex.com/index.xml)|[ YouTube YouTube 账号长期没登录， 赞过的视频里出现了一堆从来没见过的视频](https://www.v2ex.com/t/995208#reply5)|
+|2023-11-25 16:00:00|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 漫游卡 5gNSA 用自动 5g 模式省电么](https://www.v2ex.com/t/995207#reply0)|
+|2023-11-25 15:55:46|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI 讯飞的星火 api 这是有什么问题还是坑吗？](https://www.v2ex.com/t/995206#reply0)|
+|2023-11-25 15:16:49|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 为 unocss 用户准备了几个小插件](https://www.v2ex.com/t/995204#reply1)|
+|2023-11-25 15:03:48|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 trojan 的灵异事件，大家帮忙分析下](https://www.v2ex.com/t/995202#reply2)|
+|2023-11-25 14:49:59|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 🎉🎉🎉 我把个人独立开发的基于 React Native 的播客客户端 PodPodium（领讲台）开源了 🔥🔥🔥](https://www.v2ex.com/t/995200#reply1)|
+|2023-11-25 14:41:07|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 这个好玩，基于 stable diffusion 的涂鸦转大作](https://www.v2ex.com/t/995199#reply0)|
+|2023-11-25 14:38:05|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有没有对汽车贴膜比较懂的朋友](https://www.v2ex.com/t/995197#reply2)|
+|2023-11-25 14:37:37|[V2EX](http://www.v2ex.com/index.xml)|[ 买买买 大家黑五买了啥硬件/软件/服务，趁周末还未结束分享一下吧](https://www.v2ex.com/t/995196#reply2)|
+|2023-11-25 14:35:47|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 油管后台播放时如何隐藏锁屏界面的迷你播放器](https://www.v2ex.com/t/995195#reply2)|
+|2023-11-25 14:30:19|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 同志们， brew 不支持 big sur 了，怎么搞](https://www.v2ex.com/t/995194#reply1)|
+|2023-11-25 13:53:20|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 大佬们，问个 proxyman 抓包 websocket 的问题，黑五入了正版的的 proxyman，抓包 websocket 傻眼了，只有消息序号，什么都看不到，是操作不对还是需要其它操作？（windows 平台）](https://www.v2ex.com/t/995191#reply0)|
+|2023-11-25 13:51:25|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 win10 22H2 注销速度明显慢于 21H2](https://www.v2ex.com/t/995190#reply0)|
+|2023-11-25 13:41:39|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 各位都把 self-host 项目 部署在什么上了](https://www.v2ex.com/t/995188#reply10)|
+|2023-11-25 13:32:38|[V2EX](http://www.v2ex.com/index.xml)|[ 骑行 想问下各位大佬小米手环可以心率广播给码表吗](https://www.v2ex.com/t/995187#reply0)|
+|2023-11-25 13:15:35|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 域名租赁是不是一个好主意？](https://www.v2ex.com/t/995183#reply13)|
+|2023-11-25 13:11:30|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 我准备从 Chrome 转向 Edge，你们做何选择？](https://www.v2ex.com/t/995182#reply40)|
+|2023-11-25 12:58:01|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 ChatGPT Web Share：共享 ChatGPT Plus 账号的解决方案，已有 2.9k star](https://www.v2ex.com/t/995180#reply2)|
+|2023-11-25 12:14:39|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 农村父母养老问题，我们可以做些什么？](https://www.v2ex.com/t/995177#reply8)|
+|2023-11-25 04:09:22|[小众软件](https://www.appinn.com/feed/)|[番茄坐姿 – 可通过 AirPods 检测坐姿的番茄钟应用，终身会员内购限免 iPhone ](https://www.appinn.com/tomato-and-sitting-position/)|
 |2023-11-25 10:49:01|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1196 定了！GIMP 3.0 计划在 2024 年 5 月发布](https://linux.cn/article-16413-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-25 12:14:39|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 农村父母养老问题，我们可以做些什么？](https://www.v2ex.com/t/995177#reply0)|
 |2023-11-25 12:11:24|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求助， iPad 更新到 17.1.1 之后锁屏通知怎么改回去？](https://www.v2ex.com/t/995176#reply0)|
