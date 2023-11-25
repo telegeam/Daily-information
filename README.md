@@ -1,7 +1,14 @@
-﻿# 每日资讯（2023-11-24）
+﻿# 每日资讯（2023-11-25）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-25 00:55:43|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Ios 有没有类似 clash 的 app](https://www.v2ex.com/t/995031#reply1)|
+|2023-11-25 00:53:48|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 不要 5G，不要拍照，有没有 1000-2000 的给家里人刷刷抖音的手机](https://www.v2ex.com/t/995030#reply1)|
+|2023-11-25 00:33:22|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 做了个免费的白噪音网站，放松、助眠、专注、奶娃神器！](https://www.v2ex.com/t/995029#reply0)|
+|2023-11-25 00:07:37|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 老哥们，我这种作息正常吗？](https://www.v2ex.com/t/995027#reply14)|
+|2023-11-25 00:04:08|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 “开屏去广告”的抓包工具用什么比较好？](https://www.v2ex.com/t/995026#reply1)|
+|2023-11-25 00:02:14|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 哪家的上网认证和日志审计系统靠谱？求推荐](https://www.v2ex.com/t/995025#reply5)|
+|2023-11-25 00:30:29|[爱范儿](https://www.ifanr.com/feed)|[早报｜淘宝回应取消双 12 活动 / 华为无人代客泊车视频曝光 / 马云或进军预制菜行业 未来周报](https://www.ifanr.com/1569030?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-11-24 13:55:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[技术 终端基础：在 Linux 中重命名文件和目录](https://linux.cn/article-16411-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-24 10:42:51|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1195 特斯拉开源其跑车的所有设计和工程资源](https://linux.cn/article-16410-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-24 08:42:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 Wave：即使你讨厌命令行，也会喜欢的现代新 Linux 终端](https://linux.cn/article-16409-1.html?utm_source=rss&utm_medium=rss)|
