@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-11-25）
+﻿# 每日资讯（2023-11-26）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-26 00:15:56|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 保持手机常年运行的方法？](https://www.v2ex.com/t/995231#reply7)|
 |2023-11-25 06:38:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[G304,GPW,Anywhere 3 鼠标选择](https://www.v2ex.com/t/995116#reply48)|
 |2023-11-25 06:41:44|[祝融说。](https://zhurongshuo.com/index.xml)|[事件是对感受的反应。](https://zhurongshuo.com/posts/2023/11/2501/)|
 |2023-11-25 15:00:00|[机核](https://www.gcores.com/rss)|[高手如云 GadioNews11.25](https://www.gcores.com/radios/173895)|
