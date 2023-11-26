@@ -2,6 +2,40 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-26 09:36:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马航这十年：两起重大空难，曾濒临破产，今年或首次扭亏为盈](https://dig.chouti.com/link/40733119)|
+|2023-11-26 18:13:46|[V2EX](http://www.v2ex.com/index.xml)|[ NAS 我误会群晖了，原来 QC 这么快！](https://www.v2ex.com/t/995395#reply7)|
+|2023-11-26 17:57:05|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 深度学习任务中要求损失函数必须是可导的吗？](https://www.v2ex.com/t/995394#reply1)|
+|2023-11-26 17:56:01|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 国内有对称型 10G-EPON 的宽带么](https://www.v2ex.com/t/995393#reply0)|
+|2023-11-26 16:40:47|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 国内 50 岁以上的 IT 程序员，现在从事着什么职位或者行业？](https://www.v2ex.com/t/995392#reply2)|
+|2023-11-26 16:40:02|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone TrollStore 支持列表更新](https://www.v2ex.com/t/995391#reply4)|
+|2023-11-26 16:35:01|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有没有类似拯救者 M7 的鼠标推荐](https://www.v2ex.com/t/995390#reply0)|
+|2023-11-26 16:34:52|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 运营商的拦截策略到底咋搞的](https://www.v2ex.com/t/995389#reply3)|
+|2023-11-26 16:23:27|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 组了个散装 NAS](https://www.v2ex.com/t/995388#reply0)|
+|2023-11-26 16:20:31|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 润出去的你们过得还好吗？](https://www.v2ex.com/t/995387#reply0)|
+|2023-11-26 16:05:11|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 有没有开发过 Windows 驱动程序的？咨询想法可行性](https://www.v2ex.com/t/995385#reply2)|
+|2023-11-26 15:56:10|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Mac mini 外接明基显示器，使用 Excel 时显示器发出电流的滋滋声](https://www.v2ex.com/t/995384#reply3)|
+|2023-11-26 15:38:39|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 一个网络掉速的问题](https://www.v2ex.com/t/995383#reply1)|
+|2023-11-26 15:33:54|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 求一个 Linux 下性能表现好的虚机 win 方案](https://www.v2ex.com/t/995382#reply11)|
+|2023-11-26 15:19:16|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 requests 为什么慢 urllib3 如此之多？](https://www.v2ex.com/t/995381#reply17)|
+|2023-11-26 16:06:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国企业，大卷美国“双十一”](https://36kr.com/p/2533558847940352)|
+|2023-11-26 16:06:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国公司全球化周报 Temu明年GMV目标300亿美元，不止翻倍 / 传TikTok考虑通过投资重返印尼电商市场](https://36kr.com/p/2533490728888072)|
+|2023-11-26 16:06:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[6个打破直觉的小窍门，让你效率翻倍](https://36kr.com/p/2496906166802309)|
+|2023-11-26 16:06:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[人均年薪100万，这个岗位火了](https://36kr.com/p/2534503812572933)|
+|2023-11-26 16:06:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[工厂爆单、渠道淘金，谁在冲锋衣里狂赚？](https://36kr.com/p/2533539340641792)|
+|2023-11-26 16:06:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[真正毁掉一个人的，是它](https://36kr.com/p/2533742356407815)|
+|2023-11-26 16:06:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[武汉最新独角兽来了，100亿](https://36kr.com/p/2533466489906689)|
+|2023-11-26 15:54:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 修复 Arch Linux 中的 “target not found” 错误](https://linux.cn/article-16419-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-26 15:39:05|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 我们真的需要另一种非开源的源代码可用许可证吗？](https://linux.cn/article-16418-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-26 15:04:39|[SHRIK3](https://shrik3.com/index.xml)|[C coding style, according to kernel document](https://shrik3.com/post/cstyle/)|
+|2023-11-26 14:15:42|[ShineKid](https://shinekid.com/feed/)|[扫兴](https://shinekid.com/2023/11/discouraging/)|
+|2023-11-26 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 167 期（2023.11.27）](https://www.ftium4.com/ux-weekly-167.html)|
+|2023-11-26 16:04:06|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/84516)|
+|2023-11-26 16:04:06|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[iPhone 加入游戏，但 USB-C 的乱纪元还没有完结](https://sspai.com/post/84508)|
+|2023-11-26 16:04:06|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[哪些 GPTs 应用让我眼前一亮？你又该如何找到它们？](https://sspai.com/post/84471)|
+|2023-11-26 16:04:05|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典](https://sspai.com/post/84538)|
+|2023-11-26 16:04:05|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[城市漫步指南：在将秋未秋时，到访一次京都](https://sspai.com/post/84446)|
+|2023-11-26 16:04:05|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[排排坐，吃果果：趣谈 Apple Store 各色座椅](https://sspai.com/post/84523)|
+|2023-11-26 14:39:20|[Bensz](https://blognas.hwb0307.com/feed/)|[前沿快讯 第45期 caspase-4非经典炎症小体可识别并加工IL-18前体等](https://blognas.hwb0307.com/medicine/5651)|
 |2023-11-26 10:12:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[电诈人员讲述如何挑选诈骗对象：“我们选择的诈骗人群通常为三四十岁或四五十岁的中年女性，头像是花花草草或者带着小孩的。不要那种（头像）很幼稚的、卡通型的，网名很‘非主流’的……”](https://dig.chouti.com/link/40733456)|
 |2023-11-26 05:00:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[解读双面以色列，右翼激进势力如何多次破坏巴以和平进程？](https://dig.chouti.com/link/40731213)|
 |2023-11-26 12:10:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[真没想到这事原来可以这么教 ↓ ↓ ↓](https://dig.chouti.com/link/40734263)|
