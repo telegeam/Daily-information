@@ -2,6 +2,72 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-27 08:21:18|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[今天夸一下这个咖啡杯，巨巨甜](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653446554&idx=1&sn=ebd077eb71cd8276832c416e605bec0a)|
+|2023-11-27 19:18:00|[plus studio](https://studyinglover.com/atom.xml)|[深入分析：GitHub Trending 项目 "multipleWindow3dScene"](https://studyinglover.com/2023/11/27/multipleWindow3dScene%E4%BB%A3%E7%A0%81%E8%A7%A3%E9%87%8A/)|
+|2023-11-27 12:24:03|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有推荐的太阳能监控么，好像都需要自己买 4G 流量，一年需要不少钱](https://www.v2ex.com/t/995716#reply0)|
+|2023-11-27 12:24:02|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 有没有感觉 15Pro 更费眼了](https://www.v2ex.com/t/995715#reply0)|
+|2023-11-27 12:23:40|[V2EX](http://www.v2ex.com/index.xml)|[ 奇思妙想 给大家一个创业的点子](https://www.v2ex.com/t/995714#reply0)|
+|2023-11-27 12:20:46|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Windows 有什么可以和 Macos 的 Raycast 一样的软件？](https://www.v2ex.com/t/995713#reply0)|
+|2023-11-27 12:15:36|[V2EX](http://www.v2ex.com/index.xml)|[ 游戏 Ubuntu 系统，国内国外均有服务器，能不能自己配一个激活 quest3 的代理？](https://www.v2ex.com/t/995712#reply0)|
+|2023-11-27 12:14:25|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 关于我对信用卡的疑问](https://www.v2ex.com/t/995710#reply2)|
+|2023-11-27 12:00:36|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 300 头戴式耳机求推荐](https://www.v2ex.com/t/995709#reply0)|
+|2023-11-27 11:57:14|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 程序员怎么“上岸”呢](https://www.v2ex.com/t/995708#reply2)|
+|2023-11-27 11:54:36|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 摆脱手机入眠和学语言的技巧](https://www.v2ex.com/t/995707#reply1)|
+|2023-11-27 11:54:12|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 上海，得物，交易， Java ！](https://www.v2ex.com/t/995706#reply0)|
+|2023-11-27 11:44:41|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 现在前端对比较实时的场景能否胜任？](https://www.v2ex.com/t/995705#reply3)|
+|2023-11-27 11:40:23|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 独立开发周记 #41：第一次被 Google Play 警告下架](https://www.v2ex.com/t/995703#reply0)|
+|2023-11-27 11:31:54|[V2EX](http://www.v2ex.com/index.xml)|[ 魅族 大家怎么看待魅族 21](https://www.v2ex.com/t/995701#reply0)|
+|2023-11-27 11:30:49|[V2EX](http://www.v2ex.com/index.xml)|[ 编程 国产编程语言 MoonBit 月兔最新动态来啦！](https://www.v2ex.com/t/995700#reply0)|
+|2023-11-27 11:25:56|[V2EX](http://www.v2ex.com/index.xml)|[ iOS 你们的 iOS17.1 有这个 bug 吗](https://www.v2ex.com/t/995699#reply0)|
+|2023-11-27 11:16:47|[V2EX](http://www.v2ex.com/index.xml)|[ 北京 北京租房直租-兴海家园日苑](https://www.v2ex.com/t/995698#reply0)|
+|2023-11-27 11:15:18|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 适合局域网玩的匿名聊天室支持 docker 部署了](https://www.v2ex.com/t/995697#reply0)|
+|2023-11-27 11:09:23|[V2EX](http://www.v2ex.com/index.xml)|[ NAS 有没有能直接在 jellyfin 上看的电视直播源？](https://www.v2ex.com/t/995696#reply3)|
+|2023-11-27 11:06:27|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 看考公大军有感](https://www.v2ex.com/t/995695#reply0)|
+|2023-11-27 11:05:53|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 校园网和公司的网络监控能监控到哪些内容？](https://www.v2ex.com/t/995694#reply2)|
+|2023-11-27 10:45:25|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 求推荐一个可以使用 BLE 低功耗蓝牙的 IOS 自定义/脚本 APP](https://www.v2ex.com/t/995692#reply0)|
+|2023-11-27 10:38:17|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 字节跳动 Web Infra 团队招人啦](https://www.v2ex.com/t/995691#reply2)|
+|2023-11-27 10:35:23|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 路由器获取 ipv6 前缀失败，获取 DNS 服务器失败](https://www.v2ex.com/t/995690#reply0)|
+|2023-11-27 10:32:36|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 可远程，短期 招聘一位 android 原生开发工程师](https://www.v2ex.com/t/995689#reply1)|
+|2023-11-27 10:32:01|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 好多软件推荐网站都会有「XX 机械硬盘」的链接是为什么](https://www.v2ex.com/t/995688#reply1)|
+|2023-11-27 10:15:55|[V2EX](http://www.v2ex.com/index.xml)|[ 上海 上海治疗颈椎、腰椎疼痛有什么比较好的医院吗](https://www.v2ex.com/t/995686#reply4)|
+|2023-11-27 10:14:45|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 你们游戏宽带最近白天正常吗？](https://www.v2ex.com/t/995685#reply3)|
+|2023-11-27 10:08:39|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 日志埋点会选择和业务完全解耦吗?](https://www.v2ex.com/t/995682#reply1)|
+|2023-11-27 09:56:12|[V2EX](http://www.v2ex.com/index.xml)|[ Go 编程语言 go module 依赖的问题](https://www.v2ex.com/t/995681#reply4)|
+|2023-11-27 09:54:46|[V2EX](http://www.v2ex.com/index.xml)|[ PlayStation 5 日版 ps5 slim 网络问题](https://www.v2ex.com/t/995680#reply0)|
+|2023-11-27 09:54:06|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro 去厦门直营店 对方门店经理跟我说 电脑 ac 要有购买凭证才给修 以前我记得都不要啊 这怎么弄？](https://www.v2ex.com/t/995679#reply1)|
+|2023-11-27 09:53:07|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 电脑重启会变流畅是为什么？](https://www.v2ex.com/t/995678#reply2)|
+|2023-11-27 09:52:05|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 接着上回说的 28 岁三种选择，我们来实现一个人生路线模拟器吧](https://www.v2ex.com/t/995677#reply1)|
+|2023-11-27 09:45:25|[V2EX](http://www.v2ex.com/index.xml)|[ Windows 在 Windows 10/11 OS 上如何使用加密 Dns（DOH 和 DOT）？](https://www.v2ex.com/t/995676#reply4)|
+|2023-11-27 09:42:53|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 需要弄个告警语音通知不知道怎么入手，请帮助](https://www.v2ex.com/t/995675#reply4)|
+|2023-11-27 09:41:30|[V2EX](http://www.v2ex.com/index.xml)|[ 投资 投资赚 1000 万 2023-11-27](https://www.v2ex.com/t/995674#reply0)|
+|2023-11-27 09:40:13|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 一个关于 ping 命令中, ttl 的疑问](https://www.v2ex.com/t/995673#reply9)|
+|2023-11-27 09:38:46|[V2EX](http://www.v2ex.com/index.xml)|[ GitHub github 现在编译空间有多大容量](https://www.v2ex.com/t/995671#reply1)|
+|2023-11-27 09:37:05|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 蝌蚪聊天室支持 docker 部署了](https://www.v2ex.com/t/995669#reply0)|
+|2023-11-27 09:36:23|[V2EX](http://www.v2ex.com/index.xml)|[ Android 问个 X 经问题，求 2023 年底适合中度折腾的手机](https://www.v2ex.com/t/995668#reply4)|
+|2023-11-27 09:35:28|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 把星星装在瓶子🫙里，程序怎么实现？](https://www.v2ex.com/t/995667#reply7)|
+|2023-11-27 09:28:46|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 曾经从事开发但无奈转行的兄弟们，你们现在咋样？](https://www.v2ex.com/t/995664#reply3)|
+|2023-11-27 09:28:33|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 为啥 Java 程序员天天意淫亿万并发](https://www.v2ex.com/t/995663#reply31)|
+|2023-11-27 09:22:09|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI 再来自荐一下我的转发站，现已支持新的模型： vision preview、dalle、tts、whisper](https://www.v2ex.com/t/995660#reply0)|
+|2023-11-27 09:16:22|[V2EX](http://www.v2ex.com/index.xml)|[ JavaScript Vant 这个地址栏彩色线条是怎么来的？](https://www.v2ex.com/t/995659#reply1)|
+|2023-11-27 09:06:44|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 苹果新机迁移数据奇怪的问题](https://www.v2ex.com/t/995656#reply3)|
+|2023-11-27 09:04:09|[V2EX](http://www.v2ex.com/index.xml)|[ Python 关于获取两张图片中人体姿态的相似度，求大佬指点](https://www.v2ex.com/t/995655#reply2)|
+|2023-11-27 09:02:55|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有使用 Fitness+ 配合 骑公路车训练的吗？](https://www.v2ex.com/t/995654#reply10)|
+|2023-11-27 08:58:13|[V2EX](http://www.v2ex.com/index.xml)|[ React 前端小白想请教下, 现在学习使用 react 的话,直接用 next.js 就可以了吧?](https://www.v2ex.com/t/995653#reply10)|
+|2023-11-27 08:57:39|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 中国三大电信运营商国际网络互联相关资料](https://www.v2ex.com/t/995652#reply10)|
+|2023-11-27 12:01:06|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[不可或缺的 iPhone 配件 LAUT ADAPTA 通用掛繩](https://applefans.today/2023-11-laut-iphone-strap/)|
+|2023-11-27 05:17:59|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[下一代 Qi2 無線充電標準 是什麼？](https://applefans.today/2023-11-what-the-qi2-standard-for-wireless-charging/)|
+|2023-11-27 01:30:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想做一个本地优先笔记，抄一下 tana 的超级标签，大家有什么建议？](https://www.v2ex.com/t/995424#reply38)|
+|2023-11-27 11:10:08|[触乐](http://www.chuapp.com/feed)|[触乐夜话：角审美](http://www.chuapp.com/article/289646.html)|
+|2023-11-27 12:10:00|[机核](https://www.gcores.com/rss)|[Between BOOOM 2023](https://www.gcores.com/articles/174288)|
+|2023-11-27 12:09:00|[机核](https://www.gcores.com/rss)|[摄影街拍练习笔记](https://www.gcores.com/articles/174285)|
+|2023-11-27 12:05:23|[机核](https://www.gcores.com/rss)|[下一站，夏威夷：世嘉公布《人中之龙8》主要区域及探索信息介绍](https://www.gcores.com/articles/174328)|
+|2023-11-27 12:05:00|[机核](https://www.gcores.com/rss)|[浅谈《街霸6》的斗气系统](https://www.gcores.com/articles/173983)|
+|2023-11-27 12:00:00|[机核](https://www.gcores.com/rss)|[摄影分享丨秋日行迹](https://www.gcores.com/articles/174298)|
+|2023-11-27 09:00:00|[机核](https://www.gcores.com/rss)|[【抽奖】四人合作冒险《舍伍德侠盗团》预购豪华版现可开始游玩](https://www.gcores.com/articles/174326)|
+|2023-11-27 09:00:00|[机核](https://www.gcores.com/rss)|[睡前听音，录音笔 Vol.86](https://www.gcores.com/radios/174325)|
+|2023-11-27 10:45:22|[晚点LatePost](https://feedpress.me/wx-postlate)|[“最后一代” 汽车发动机工程师](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247509614&idx=2&sn=7274900138390470f6ff96f839cd4b56)|
+|2023-11-27 10:45:21|[晚点LatePost](https://feedpress.me/wx-postlate)|[战争与和平：字节跳动与腾讯的六年纠葛](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247509614&idx=1&sn=feadc0d17df8b8585eb890184eb6a44a)|
+|2023-11-27 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 47/2023](https://weekly.pychina.org/pyrecap/pyrw-2347.html)|
 |2023-11-27 05:13:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[女军医在晃板上进行“蒙眼扎针”——在特制的训练装备上，模拟野战条件下救护车颠簸的环境，用生理盐水在队员间相互进行练习…](https://dig.chouti.com/link/40740562)|
 |2023-11-27 05:13:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在南极零下 76.3 度的天气，都穿些什么呢？](https://dig.chouti.com/link/40740595)|
 |2023-11-27 05:17:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[民航乘客拍到福建舰电磁弹射系统测试镜头：配重小车飞出，一大片水花](https://dig.chouti.com/link/40740616)|
