@@ -2,6 +2,34 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-28 15:00:00|[机核](https://www.gcores.com/rss)|[少跟人纠缠，多看大自然，机组闲聊Vol.27](https://www.gcores.com/radios/174219)|
+|2023-11-28 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：王座背后](https://www.gcores.com/radios/174360)|
+|2023-11-28 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：茶与威胁](https://www.gcores.com/radios/174359)|
+|2023-11-28 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：第一律法](https://www.gcores.com/radios/174358)|
+|2023-11-28 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：爱国者的职责](https://www.gcores.com/radios/174357)|
+|2023-11-28 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：伤员](https://www.gcores.com/radios/174356)|
+|2023-11-28 13:16:15|[机核](https://www.gcores.com/rss)|[译介｜程序化内容生成（PCG）视角下的谜题设计：应用综述（上）](https://www.gcores.com/articles/172985)|
+|2023-11-28 12:55:05|[机核](https://www.gcores.com/rss)|[复古风格迷你主机，AYANEO Retro Mini PC AM01今日正式发布](https://www.gcores.com/articles/174371)|
+|2023-11-28 10:41:28|[机核](https://www.gcores.com/rss)|[原创故事丨爱神（二十三）](https://www.gcores.com/articles/174367)|
+|2023-11-28 09:56:57|[机核](https://www.gcores.com/rss)|[《绝区零》：世界上最好的贪吃蛇游戏！](https://www.gcores.com/articles/174366)|
+|2023-11-28 09:14:15|[机核](https://www.gcores.com/rss)|[时尚换装社交游戏《时尚造梦》免费更新第一弹“冬季更新”，12月5日上线](https://www.gcores.com/articles/174363)|
+|2023-11-28 09:00:00|[机核](https://www.gcores.com/rss)|[小病呻吟，录音笔 Vol.87](https://www.gcores.com/radios/174364)|
+|2023-11-28 08:00:00|[机核](https://www.gcores.com/rss)|[还原小新的“光泽、Q弹、多彩”：机核网专访剧场版《蜡笔小新》制片人吉田有希](https://www.gcores.com/articles/174349)|
+|2023-11-28 06:47:17|[机核](https://www.gcores.com/rss)|[《名侦探柯南：黑铁的鱼影》宣布定档 12 月 16 日](https://www.gcores.com/articles/174361)|
+|2023-11-28 05:15:50|[机核](https://www.gcores.com/rss)|[Geoff Keighley回应《潜水员戴夫》入选年度独立游戏提名，强调由评审团决定](https://www.gcores.com/articles/174353)|
+|2023-11-28 05:14:49|[机核](https://www.gcores.com/rss)|[发售日即将公布，“《龙之信条2》ShowCase 2023”明日播出](https://www.gcores.com/articles/174355)|
+|2023-11-28 05:00:00|[机核](https://www.gcores.com/rss)|[漫威传奇肉球体验](https://www.gcores.com/videos/174048)|
+|2023-11-28 04:58:00|[机核](https://www.gcores.com/rss)|[拒绝选择困难，雷柏V300SE鼠标与雷柏V300PRO初体验](https://www.gcores.com/articles/174322)|
+|2023-11-28 04:40:02|[机核](https://www.gcores.com/rss)|[从应用的角度说“用AI来做游戏”到底是在说什么？](https://www.gcores.com/articles/174351)|
+|2023-11-28 12:05:58|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《一锤定音》：老实小伙酒驾入狱，结果不小心熬成了帮派老大，锤谁谁消音！](https://www.ximalaya.com/sound/688760926)|
+|2023-11-28 13:38:41|[触乐](http://www.chuapp.com/feed)|[仍然年轻的《地下城与勇士：创新世纪》与它的玩家](http://www.chuapp.com/article/289648.html)|
+|2023-11-28 13:37:00|[触乐](http://www.chuapp.com/feed)|[芙宁娜：一个“明星”角色的诞生](http://www.chuapp.com/article/289650.html)|
+|2023-11-28 12:09:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：并非MBTI适格者](http://www.chuapp.com/article/289652.html)|
+|2023-11-28 16:21:17|[张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/feed/)|[本地MP3封面图、时长等信息的JS读取](https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/)|
+|2023-11-28 08:38:41|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[为何基民难赚钱？公募基金业来到历史关口](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892394&idx=1&sn=6a9cea4e875a3c82168fe3f2dae92e8a)|
+|2023-11-28 01:21:38|[SHRIK3](https://shrik3.com/index.xml)|[UNDER CONSTRUCTION](https://shrik3.com/vis/wip/)|
+|2023-11-28 09:46:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 15螢幕成長16%！Pro機型71%、三星佔81%](https://www.iphonetaiwan.org/2023/11/iphone-15-screen-shipments-analysis.html)|
+|2023-11-28 08:41:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[富士康15億美元印度投資：影響蘋果供應鏈未來](https://www.iphonetaiwan.org/2023/11/blog-post_28.html)|
 |2023-11-28 12:25:31|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 最近在玩 ai 画图，想知道各位大佬用什么关键词提示 ai](https://www.v2ex.com/t/996038#reply0)|
 |2023-11-28 12:25:27|[V2EX](http://www.v2ex.com/index.xml)|[ Apple iPad Mini 6 搜了一下有点乱，怎么入比较划算？](https://www.v2ex.com/t/996037#reply0)|
 |2023-11-28 12:19:51|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 新项目规模小怎么开发 app 是最优解？](https://www.v2ex.com/t/996036#reply2)|
