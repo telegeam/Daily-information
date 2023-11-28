@@ -1,7 +1,20 @@
-﻿# 每日资讯（2023-11-27）
+﻿# 每日资讯（2023-11-28）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-28 01:08:18|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 青桔崩了](https://www.v2ex.com/t/995796#reply2)|
+|2023-11-28 01:00:32|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 滴滴怎么了](https://www.v2ex.com/t/995793#reply4)|
+|2023-11-28 00:59:08|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 《HelloGitHub》第 92 期](https://www.v2ex.com/t/995792#reply0)|
+|2023-11-28 00:55:53|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 小白请教 Jenkins、docker、kubesphere 这三个有学习顺序的要求吗？](https://www.v2ex.com/t/995791#reply2)|
+|2023-11-28 00:55:42|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 巨魔 2 出来了 我的系统是 12pro ios15.1 请问怎样才能将系统在保留手机原有资料的情况下升级到 ios16 呢（升级通道已关闭）](https://www.v2ex.com/t/995790#reply3)|
+|2023-11-28 00:48:19|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 奇怪了，最近打开 PD19 Win11 过夜没关机，第二天 MacOS 上不了网， PD 关闭立马可以上网，一打开又上不了网，只能 Mac 重启后才行。](https://www.v2ex.com/t/995787#reply1)|
+|2023-11-28 00:44:29|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 更换 dns 好像可以直连 google](https://www.v2ex.com/t/995786#reply5)|
+|2023-11-28 00:41:25|[V2EX](https://www.v2ex.com/index.xml)|[ Kubernetes cka 考试正在打折中,有需要的可以买下](https://www.v2ex.com/t/995785#reply1)|
+|2023-11-28 00:21:22|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 你们日常戴口罩了吗](https://www.v2ex.com/t/995784#reply4)|
+|2023-11-28 00:11:26|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 使用爱思助手的后遗症](https://www.v2ex.com/t/995782#reply13)|
+|2023-11-28 00:04:58|[V2EX](https://www.v2ex.com/index.xml)|[ 健康 睡不着之间有大恐怖](https://www.v2ex.com/t/995781#reply12)|
+|2023-11-28 00:28:40|[爱范儿](https://www.ifanr.com/feed)|[早报｜字节官宣收缩游戏业务 / 滴滴网约车服务恢复 / 特斯拉要求刹车失灵事件车主赔偿 500 万](https://www.ifanr.com/1569172?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-28 00:34:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[IG五週年](http://mercurychong.blogspot.com/2023/11/ig.html)|
 |2023-11-27 15:22:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 使用 mkosi 构建 RHEL 和 RHEL UBI 镜像](https://linux.cn/article-16421-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-27 13:25:31|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1198 Ubuntu Budgie 准备转而采用 Xfce](https://linux.cn/article-16420-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-27 06:14:14|[小众软件](https://www.appinn.com/feed/)|[笔灵AI写作：人人用的上的写作助手，一键解决所有写作难题](https://www.appinn.com/ibiling-ai/)|
