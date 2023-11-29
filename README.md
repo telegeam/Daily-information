@@ -2,6 +2,49 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-29 01:41:34|[精品MAC应用分享](https://xclient.info/feed)|[CheckBook Pro 2.7.27 个人理财工具](https://xclient.info/s/checkbook-pro.html)|
+|2023-11-29 01:40:48|[精品MAC应用分享](https://xclient.info/feed)|[Amadeus Pro 2.8.13 2659 多轨音频编辑器](https://xclient.info/s/amadeus-pro.html)|
+|2023-11-29 01:39:36|[精品MAC应用分享](https://xclient.info/feed)|[iCalamus 2.26 19054 版面设计](https://xclient.info/s/icalamus.html)|
+|2023-11-29 01:38:07|[精品MAC应用分享](https://xclient.info/feed)|[Lyn 2.3.6 轻量级看图软件](https://xclient.info/s/lyn.html)|
+|2023-11-29 01:22:42|[精品MAC应用分享](https://xclient.info/feed)|[Readiris Pro 17.1.9 强大的 OCR 图片文字识别工具](https://xclient.info/s/readiris-pro.html)|
+|2023-11-29 01:21:41|[精品MAC应用分享](https://xclient.info/feed)|[Jixipix Watercolor Studio Pro 1.4.17 水彩画制作软件](https://xclient.info/s/jixipix-watercolor-studio-pro.html)|
+|2023-11-29 04:01:23|[虎嗅](https://rss.huxiu.com/)|[你为何总是选择困难、优柔寡断？](https://www.huxiu.com/article/2330692.html?f=rss)|
+|2023-11-29 03:27:58|[虎嗅](https://rss.huxiu.com/)|[为啥社会观念突然转变了这么多？](https://www.huxiu.com/article/2360388.html?f=rss)|
+|2023-11-29 03:24:00|[虎嗅](https://rss.huxiu.com/)|[算力怎么就成为了数字时代的核心竞争力？](https://www.huxiu.com/article/2357192.html?f=rss)|
+|2023-11-29 03:23:14|[虎嗅](https://rss.huxiu.com/)|[一文了解爆款短剧套路](https://www.huxiu.com/article/2360429.html?f=rss)|
+|2023-11-29 03:15:00|[虎嗅](https://rss.huxiu.com/)|[孩子发烧了，家长该怎么办？](https://www.huxiu.com/article/2360430.html?f=rss)|
+|2023-11-29 03:07:05|[虎嗅](https://rss.huxiu.com/)|[一篇罕见的通报，看清决策层对金融工作的意见](https://www.huxiu.com/article/2356341.html?f=rss)|
+|2023-11-29 03:01:00|[虎嗅](https://rss.huxiu.com/)|[美国青少年，落入Facebook、Instagram的算法陷阱？](https://www.huxiu.com/article/2360977.html?f=rss)|
+|2023-11-29 03:00:28|[虎嗅](https://rss.huxiu.com/)|[日本半导体设备，为何能保持竞争力？](https://www.huxiu.com/article/2360457.html?f=rss)|
+|2023-11-29 02:33:00|[虎嗅](https://rss.huxiu.com/)|[开局一张图，生成4K大片，现在AI都这么强了？](https://www.huxiu.com/article/2357875.html?f=rss)|
+|2023-11-29 02:31:31|[虎嗅](https://rss.huxiu.com/)|[从游戏看商业的八个鲜辣视角](https://www.huxiu.com/article/2359076.html?f=rss)|
+|2023-11-29 02:13:00|[虎嗅](https://rss.huxiu.com/)|[寺庙经济，如何俘获爱“上香”的年轻人？](https://www.huxiu.com/article/2360393.html?f=rss)|
+|2023-11-29 02:12:59|[虎嗅](https://rss.huxiu.com/)|[拼多多业绩暴增，市值逼近阿里](https://www.huxiu.com/article/2360416.html?f=rss)|
+|2023-11-29 02:11:34|[虎嗅](https://rss.huxiu.com/)|[芒格突然离世，巴菲特再无副手](https://www.huxiu.com/article/2360438.html?f=rss)|
+|2023-11-29 02:00:00|[虎嗅](https://rss.huxiu.com/)|[高情商，会让年轻人活得更好吗？](https://www.huxiu.com/article/2340032.html?f=rss)|
+|2023-11-29 01:50:48|[虎嗅](https://rss.huxiu.com/)|[被“爽感”俘虏的普通人：在短剧中寻乐子，在直播间找骂](https://www.huxiu.com/article/2360383.html?f=rss)|
+|2023-11-29 01:46:28|[虎嗅](https://rss.huxiu.com/)|[搞英雄联盟战队能赚钱吗？](https://www.huxiu.com/article/2357396.html?f=rss)|
+|2023-11-29 01:33:01|[虎嗅](https://rss.huxiu.com/)|[手机租赁被玩成高利贷，有年化费率达250%](https://www.huxiu.com/article/2359084.html?f=rss)|
+|2023-11-29 01:32:00|[虎嗅](https://rss.huxiu.com/)|[东芝开发出无钴新型锂离子电池，可在5分钟内充电至80%](https://www.huxiu.com/article/2359884.html?f=rss)|
+|2023-11-29 01:22:16|[虎嗅](https://rss.huxiu.com/)|[朝夕光年崩塌前的25款自研](https://www.huxiu.com/article/2358628.html?f=rss)|
+|2023-11-29 01:19:41|[虎嗅](https://rss.huxiu.com/)|[2024年，全球经济会发生什么变化？](https://www.huxiu.com/article/2360368.html?f=rss)|
+|2023-11-29 00:52:00|[虎嗅](https://rss.huxiu.com/)|[美国最大半导体设备公司被调查，发生了啥？](https://www.huxiu.com/article/2360355.html?f=rss)|
+|2023-11-29 00:47:15|[虎嗅](https://rss.huxiu.com/)|[熬夜睡不够，会导致致命炎症风暴？](https://www.huxiu.com/article/2360351.html?f=rss)|
+|2023-11-29 00:46:24|[虎嗅](https://rss.huxiu.com/)|[官宣：贺青任上海国资委主任，上海金融圈还有更多“大消息”？](https://www.huxiu.com/article/2359083.html?f=rss)|
+|2023-11-29 00:44:23|[虎嗅](https://rss.huxiu.com/)|[呼吸道疾病今年为何如此猖獗？](https://www.huxiu.com/article/2359908.html?f=rss)|
+|2023-11-29 00:42:27|[虎嗅](https://rss.huxiu.com/)|[对话陈燕红：央行数字货币系统的风险防控与治理路径](https://www.huxiu.com/article/2358592.html?f=rss)|
+|2023-11-29 00:41:59|[虎嗅](https://rss.huxiu.com/)|[抽象的虎扑评分该如何落地？](https://www.huxiu.com/article/2359085.html?f=rss)|
+|2023-11-29 00:32:39|[虎嗅](https://rss.huxiu.com/)|[拼多多Q3业绩再超预期，美股盘前一度涨17%](https://www.huxiu.com/article/2359890.html?f=rss)|
+|2023-11-29 00:30:00|[虎嗅](https://rss.huxiu.com/)|[青年高等教育的社会地位回报变迁：“读书”真的无用吗？](https://www.huxiu.com/article/2339086.html?f=rss)|
+|2023-11-29 00:28:44|[虎嗅](https://rss.huxiu.com/)|[为什么各家海外科技大厂都在裁员？](https://www.huxiu.com/article/2358548.html?f=rss)|
+|2023-11-29 00:25:00|[虎嗅](https://rss.huxiu.com/)|[OpenAI的144个小时关乎人类未来？我们与ChatGPT聊了聊](https://www.huxiu.com/article/2358588.html?f=rss)|
+|2023-11-29 00:17:07|[虎嗅](https://rss.huxiu.com/)|[都能跟特斯拉竞争行业老大了，比亚迪估值为什么这么低？](https://www.huxiu.com/article/2358187.html?f=rss)|
+|2023-11-29 00:14:00|[虎嗅](https://rss.huxiu.com/)|[芒格如此而活，一生足矣](https://www.huxiu.com/article/2359914.html?f=rss)|
+|2023-11-29 00:04:22|[虎嗅](https://rss.huxiu.com/)|[新一轮的城市地铁大洗牌，开始了](https://www.huxiu.com/article/2358620.html?f=rss)|
+|2023-11-29 02:18:41|[爱范儿](https://www.ifanr.com/feed)|[24.98 万元起，华为智选首款轿车发布，拆分「灵魂」的华为汽车孤注一掷](https://www.ifanr.com/1569185?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-29 00:44:04|[爱范儿](https://www.ifanr.com/feed)|[早报｜投资大师芒格去世，巴菲特悼念 / 滴滴系统崩溃损失或超 4 亿 / 拼多多市值逼近阿里](https://www.ifanr.com/1569260?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-29 00:46:39|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 HandBrake 1.7 发布](https://linux.cn/article-16425-1.html?utm_source=rss&utm_medium=rss)|
+|2023-11-29 00:28:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 微软加码对 GitHub 上的公开代码搜索的限制](https://linux.cn/article-16424-1.html?utm_source=rss&utm_medium=rss)|
 |2023-11-28 13:53:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[写了一个基于 Vite 的 Repl 玩具，欢迎大家试用以及提供建议](https://w2solo.com/topics/4276)|
 |2023-11-28 20:10:25|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 将我写了两年的资源周刊同步到了 TG 频道👉欢迎订阅](https://www.v2ex.com/t/996087#reply0)|
 |2023-11-28 19:14:59|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 数字空间 v4.0 全网公测，免费送一年“无限空间”](https://www.v2ex.com/t/996086#reply1)|
