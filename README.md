@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-11-29 13:08:37|[爱范儿](https://www.ifanr.com/feed)|[Redmi K70 系列体验：3499 元起售，性能依旧强劲，外观、拍照和充电都有大升级](https://www.ifanr.com/1569297?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-29 05:53:45|[爱范儿](https://www.ifanr.com/feed)|[蔚来吉利官宣合作，换电真的要成了？](https://www.ifanr.com/1569271?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-11-29 09:12:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[盛夏的墨脱，是昆虫与植物的盛宴](https://dig.chouti.com/link/40765100)|
+|2023-11-29 09:30:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当导师真的评上了院士，你该怎么办？别只会转发朋友圈了](https://dig.chouti.com/link/40765160)|
+|2023-11-29 10:09:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国政治新闻网Politico评选年度“颠覆者”、“实干家”和“梦想家”——“年度颠覆者”是俄罗斯联邦中央银行行长纳比乌琳娜。评委称，她的货币政策成功地防止西方制裁摧毁俄罗斯经济。意大利总理梅洛尼被评为“年度实干家”。乌克兰总统泽连斯基被评为“年度梦想家”。](https://dig.chouti.com/link/40765756)|
+|2023-11-29 10:09:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[11月29日是巴萨俱乐部成立124周年纪念日。巴萨官方发布海报，庆祝俱乐部的生日，巴萨成立至今的众多男女足球星和教练登上海报](https://dig.chouti.com/link/40765769)|
+|2023-11-29 08:05:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一个婚姻美满的中年男人，把销毁婚纱照做成一门生意](https://dig.chouti.com/link/40764152)|
+|2023-11-29 12:12:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[红毯上，Margot Robbie 做出怪异举动。 她突然“扯了一下身后”，然后止不住地发笑，像是被人挠了痒痒。 记者问：“你老公刚刚是不是掐了你的屁股？！”](https://dig.chouti.com/link/40766880)|
+|2023-11-29 12:05:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[印度成“美国人的缅北”？全球90%诈骗电话从印度打出，美国人2023年或损失近千亿美元](https://dig.chouti.com/link/40766692)|
+|2023-11-29 11:13:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[悲报。。疑似横渡长江的野猪栽在了沟里被擒。。11月29日下午，一头体型健硕的野猪流窜至南京河西南湖附近，发生伤人事件后，警方出动围捕。野猪在身中多针麻醉后被擒获，送往南京红山动物园救助。据初步了解，这只野猪已经在南京多小区流窜，是一只独行野猪，攻击性极强。从行动轨迹上判断，极有可能是此前的“过江猛猪”。](https://dig.chouti.com/link/40766368)|
+|2023-11-29 08:15:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[轻断食的第一天](https://dig.chouti.com/link/40764451)|
+|2023-11-29 10:05:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[段永平宣布增持20万股腾讯：计划慢慢买，大半年前卖掉的部分买回来](https://dig.chouti.com/link/40765459)|
+|2023-11-29 16:03:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[秋冬有哪些适合职场人的木质调香水推荐？](https://www.zhihu.com/question/622957416)|
+|2023-11-29 16:03:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[秋冬治愈系护肤品里，你认为有哪些是保湿抗老的「尖子生」？](https://www.zhihu.com/question/630322830)|
+|2023-11-29 12:14:29|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：分布式系统的低成本权限校验机制](https://www.kingname.info/2023/11/29/jwt/)|
 |2023-11-29 15:40:25|[机核](https://www.gcores.com/rss)|[CDPR公布《夜城档案》第一集，介绍夜城简史](https://www.gcores.com/articles/174435)|
 |2023-11-29 13:10:29|[机核](https://www.gcores.com/rss)|[《雷顿教授与蒸汽新世界》实机演示公开：“LEVEL5 VISION 2023 II”情报汇总](https://www.gcores.com/articles/174420)|
 |2023-11-29 13:00:00|[机核](https://www.gcores.com/rss)|[《无J之谈 第二季》免费试听集](https://www.gcores.com/radios/173129)|
