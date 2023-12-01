@@ -1,7 +1,20 @@
-﻿# 每日资讯（2023-11-30）
+﻿# 每日资讯（2023-12-01）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-01 00:14:11|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 280 期）：机器点餐与宅文化](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html)|
+|2023-12-01 01:17:02|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 大佬请推荐开源的 WMS 系统，带 H5 或 app 端的，谢谢](https://www.v2ex.com/t/996709#reply0)|
+|2023-12-01 01:11:10|[V2EX](http://www.v2ex.com/index.xml)|[  WATCH 各位 2023 年十二月的每月挑战是什么，上个月的完成了吗](https://www.v2ex.com/t/996708#reply0)|
+|2023-12-01 01:02:49|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 NAS 硬盘求推荐 8TB](https://www.v2ex.com/t/996707#reply0)|
+|2023-12-01 00:57:41|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 哪位大佬有大量 GPT3.5 的 API 出售或者 azure openai 100 余额的账户](https://www.v2ex.com/t/996706#reply0)|
+|2023-12-01 00:57:24|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 你被欠过钱吗...后来咋处理的，被欠 5k 对方沉默，想起诉](https://www.v2ex.com/t/996705#reply6)|
+|2023-12-01 00:49:25|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 最近各家服务崩的此起彼伏，到底是不是跟裁员有关？](https://www.v2ex.com/t/996703#reply1)|
+|2023-12-01 00:48:17|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 透明代理用 nft 出现大量报错，小白求助！](https://www.v2ex.com/t/996702#reply0)|
+|2023-12-01 00:45:06|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 114 期）：一个简单截图 API，月收入 2 千美金](https://www.v2ex.com/t/996701#reply0)|
+|2023-12-01 00:37:34|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 请问 Dev 转 Production Support 方向好吗？](https://www.v2ex.com/t/996700#reply1)|
+|2023-12-01 00:22:52|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 12 月了，一年又见底了，大家都过得怎样呢？](https://www.v2ex.com/t/996699#reply25)|
+|2023-12-01 00:10:20|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI 超低价的 GPT-4-32K API 最高低于官方价 42 倍](https://www.v2ex.com/t/996697#reply47)|
+|2023-12-01 00:00:09|[余晟以为](https://feedpress.me/wx-yurii-says)|[普通家庭培养孩子的“贵族兴趣”，值得吗？](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009771&idx=1&sn=62f116752bd1c4712442b8db16c8a3c0)|
 |2023-11-30 16:00:00|[机核](https://www.gcores.com/rss)|[《方舟编年史》第12章 巽阳的风 （周煜） A.C 2020](https://www.gcores.com/articles/174491)|
 |2023-11-30 15:00:00|[机核](https://www.gcores.com/rss)|[小学里面有怪兽，动物器官身上凑 《死印》故事 第四话](https://www.gcores.com/radios/174220)|
 |2023-11-30 13:30:00|[机核](https://www.gcores.com/rss)|[《足球经理2024》24.2大型更新现已上线](https://www.gcores.com/articles/174468)|
@@ -43,6 +56,7 @@
 |2023-11-30 09:12:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[如果大家还没见过麋鹿为爱鼓掌能有多快→_→](https://dig.chouti.com/link/40776356)|
 |2023-11-30 16:27:55|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[二清平台哪个合适](https://w2solo.com/topics/4279)|
 |2023-11-30 10:00:00|[Anthony Fu](https://antfu.me/feed.xml)|[GitHub-style Alerts](https://antfu.me/posts/github-alerts)|
+|2023-12-01 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[CUDA Constant Memory](https://leimao.github.io/blog/CUDA-Constant-Memory/)|
 |2023-11-30 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[红色警戒 2 网页版](https://leimao.github.io/essay/%E7%BA%A2%E8%89%B2%E8%AD%A6%E6%88%922%E7%BD%91%E9%A1%B5%E7%89%88/)|
 |2023-11-30 11:17:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：是雷暴云还是飞碟，作者Edwin Wyatt](https://dig.chouti.com/link/40777681)|
 |2023-11-30 13:05:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“抗癌神药”也致癌？6款CAR-T疗法产品在美遭调查](https://dig.chouti.com/link/40778594)|
