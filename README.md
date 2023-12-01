@@ -2,6 +2,81 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-01 13:03:30|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[天府际会 .NET Conf 2023 邀你相约成都](https://masuit.com/2260)|
+|2023-12-01 10:13:40|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[强大的矢量图工具——Serif Affinity Designer 2.3.2学习版](https://masuit.com/1815)|
+|2023-12-01 10:13:30|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[专业级图像处理工具——Serif Affinity Photo 2.3.2学习版](https://masuit.com/1814)|
+|2023-12-01 12:30:49|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[AI-Chat安卓版，一款集全网AI功能的应用](https://masuit.com/p339)|
+|2023-12-01 05:55:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[电脑上面有什么能把 pdf 页面转换成类似 epub、mobi 书籍格式，从而便于阅读的软件？](https://www.v2ex.com/t/996828#reply9)|
+|2023-12-01 04:18:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[iOS 的 HotspotHelper 可以让支付宝和微信几乎实时定位用户](https://www.v2ex.com/t/996804#reply14)|
+|2023-12-01 02:32:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[彦祖，预算 3000 左右有什么手机比较值得推荐](https://www.v2ex.com/t/996744#reply25)|
+|2023-12-01 10:11:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[随便整了个网站玩](https://www.v2ex.com/t/996945#reply9)|
+|2023-12-01 08:04:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[丰厚报酬，找个调参侠帮忙制定 2d 仿真虚拟人](https://www.v2ex.com/t/996901#reply1)|
+|2023-12-01 11:34:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[寻找一个适合搭建个人网站的门户首页模版](https://www.v2ex.com/t/996961#reply5)|
+|2023-12-01 09:04:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[这个是什么编码方式有人能看出来吗](https://www.v2ex.com/t/996920#reply20)|
+|2023-12-01 10:07:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[电脑总是死机怎么排查原因？](https://www.v2ex.com/t/996944#reply4)|
+|2023-12-01 07:30:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[AWS 有没有优惠的付费方案](https://www.v2ex.com/t/996882#reply11)|
+|2023-12-01 11:39:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[vscode 如何设置提示框 dialog 出现位置？](https://www.v2ex.com/t/996963#reply0)|
+|2023-12-01 07:19:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[轻量 Jellyfin 媒体服务器挂载轻量对象存储](https://www.v2ex.com/t/996874#reply5)|
+|2023-12-01 11:18:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用 RisingWave 和 ClickHouse 实现实时数据扩充与分析](https://www.v2ex.com/t/996958#reply0)|
+|2023-12-01 10:17:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[陈随易 2023 年终回顾和 2024 年计划](https://www.v2ex.com/t/996949#reply8)|
+|2023-12-01 02:01:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 年了，在支付宝 app 中偶尔还能看到上古时期的弹窗组件，有种穿越时空的感觉。。为什么不能去改一下呢](https://www.v2ex.com/t/996728#reply53)|
+|2023-12-01 01:02:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[NAS 硬盘求推荐 8TB](https://www.v2ex.com/t/996707#reply31)|
+|2023-12-01 06:19:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[买了一个好玩的域名（niuma.dev），征集一些好玩的自建服务](https://www.v2ex.com/t/996842#reply21)|
+|2023-12-01 08:45:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位佬，有一个高德地图的需求要向各位求助一下](https://www.v2ex.com/t/996913#reply16)|
+|2023-12-01 03:50:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[vscode 怎么连接到数据库啊](https://www.v2ex.com/t/996793#reply8)|
+|2023-12-01 05:10:39|[墙外看](https://qiangwaikan.com/feed/)|[什么是VPN终止开关 Kill Switch ？它有什么用？](https://qiangwaikan.com/kill-switch/)|
+|2023-12-01 05:10:38|[墙外看](https://qiangwaikan.com/feed/)|[什么是拆分隧道 Split Tunneling 工作原理和使用场景](https://qiangwaikan.com/split-tunneling/)|
+|2023-12-01 05:10:37|[墙外看](https://qiangwaikan.com/feed/)|[2023年最好用的印度VPN推荐 获取印度IP地址](https://qiangwaikan.com/vpn-for-india/)|
+|2023-12-01 05:10:36|[墙外看](https://qiangwaikan.com/feed/)|[2023年最好用的阿根廷VPN推荐 获取阿根廷IP地址](https://qiangwaikan.com/vpn-for-argentina/)|
+|2023-12-01 05:10:35|[墙外看](https://qiangwaikan.com/feed/)|[2023年最好用的土耳其VPN推荐 土耳其IP地址](https://qiangwaikan.com/vpn-for-turkey/)|
+|2023-12-01 09:19:42|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1202 北京互联网法院裁决 AI 生成图片拥有版权](https://linux.cn/article-16432-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-01 09:52:30|[机核](https://www.gcores.com/rss)|[摄影分享丨大雾](https://www.gcores.com/articles/174532)|
+|2023-12-01 09:00:00|[机核](https://www.gcores.com/rss)|[“日语旗人”，录音笔 VOL.90](https://www.gcores.com/radios/174524)|
+|2023-12-01 08:42:18|[机核](https://www.gcores.com/rss)|[《疯狂的麦克斯：狂暴女神》公布首支预告](https://www.gcores.com/articles/174525)|
+|2023-12-01 08:42:00|[机核](https://www.gcores.com/rss)|[跨年上映，《舒克贝塔·五角飞碟》新预告公布](https://www.gcores.com/articles/174526)|
+|2023-12-01 08:30:00|[机核](https://www.gcores.com/rss)|[JOYTOY战锤40K新品公布：拦截者小队参战](https://www.gcores.com/articles/174506)|
+|2023-12-01 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图209期:什么也不想，天冷早点躺](https://www.gcores.com/articles/171549)|
+|2023-12-01 07:45:12|[机核](https://www.gcores.com/rss)|[国风独立动作游戏《平寇志》正式定档12月7日](https://www.gcores.com/articles/174522)|
+|2023-12-01 06:54:25|[机核](https://www.gcores.com/rss)|[《燧石枪：黎明之围》最新预告片：人类永不跪拜神明](https://www.gcores.com/articles/174519)|
+|2023-12-01 06:47:09|[机核](https://www.gcores.com/rss)|[全体乘客请注意！《一起开火车2：汽笛重鸣》即将发车！](https://www.gcores.com/articles/174518)|
+|2023-12-01 06:05:52|[机核](https://www.gcores.com/rss)|[《硬核机甲：勇气版》将于12月14日登陆Xbox平台，预购今日开启](https://www.gcores.com/articles/174516)|
+|2023-12-01 06:00:00|[机核](https://www.gcores.com/rss)|[想做游戏，就是现在——狼叔的成都核聚变Vlog](https://www.gcores.com/videos/174489)|
+|2023-12-01 05:30:48|[机核](https://www.gcores.com/rss)|[《冰汽时代2》先导预告公布，正式预告片即将到来](https://www.gcores.com/articles/174514)|
+|2023-12-01 05:12:59|[机核](https://www.gcores.com/rss)|[一个游戏文化写手的十一月份都读了什么书？月度读书报告大推荐](https://www.gcores.com/articles/174513)|
+|2023-12-01 05:12:59|[机核](https://www.gcores.com/rss)|[《The Grand Tour》将在2024年迎来最终季](https://www.gcores.com/articles/174508)|
+|2023-12-01 05:00:00|[机核](https://www.gcores.com/rss)|[G.I.Joe机密档案公爵体验](https://www.gcores.com/videos/174290)|
+|2023-12-01 04:00:00|[机核](https://www.gcores.com/rss)|[PS5主机变“小”了？！](https://www.gcores.com/articles/174398)|
+|2023-12-01 03:30:00|[机核](https://www.gcores.com/rss)|[挥拳燃脂 即刻开始！《有氧拳击2拳力舞动》现已正式发售](https://www.gcores.com/articles/174494)|
+|2023-12-01 02:00:00|[机核](https://www.gcores.com/rss)|[跑团战报丨《晨昏湾的宝藏》Part5](https://www.gcores.com/articles/174498)|
+|2023-12-01 01:31:08|[机核](https://www.gcores.com/rss)|[《黑帝斯2》30秒短片公布，2024年二季度推出](https://www.gcores.com/articles/174505)|
+|2023-12-01 01:30:55|[机核](https://www.gcores.com/rss)|[《矮人要塞》冒险模式宣传片公布，2024年4月上线](https://www.gcores.com/articles/174504)|
+|2023-12-01 09:04:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[上千员工涉培训考试作弊，普华永道中国内地、中国香港公司被罚700万美元](https://dig.chouti.com/link/40787304)|
+|2023-12-01 09:44:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[女子曝被医生男友下药流产，男子被警方行拘10日遭医院停职，女方拒绝和解拟申请行政复议](https://dig.chouti.com/link/40787946)|
+|2023-12-01 10:04:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《中国奇谭》人气篇章《小妖怪的夏天》动画大电影已通过拍摄申请](https://dig.chouti.com/link/40788054)|
+|2023-12-01 10:06:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国家金融监督管理总局开巨额罚单：中信银行被罚没超2.24亿元](https://dig.chouti.com/link/40788301)|
+|2023-12-01 10:31:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[暴涨4200%，3亿阿根廷“华侨”连夜回国！](https://dig.chouti.com/link/40788498)|
+|2023-12-01 06:13:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[俄罗斯最高法院：“国际LGBT社会运动”为“极端主义”，禁止其活动](https://dig.chouti.com/link/40785887)|
+|2023-12-01 06:32:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为什么是红灯区，不是黄灯区？](https://dig.chouti.com/link/40785923)|
+|2023-12-01 07:05:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[导演张纪中因曝光前妻隐私 被判公开道歉并赔偿2万元](https://dig.chouti.com/link/40786289)|
+|2023-12-01 06:13:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[以色列宣称哈马斯违反临时停火协议，以军恢复打击哈马斯，新一轮空袭已致加沙地带至少10人死亡](https://dig.chouti.com/link/40785885)|
+|2023-12-01 03:05:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国蒙大拿州地区法官作出初步裁决，阻止该州针对TikTok的禁令生效](https://dig.chouti.com/link/40783620)|
+|2023-12-01 03:14:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Cybertrucl和911比速度，后面还拖着一辆911...](https://dig.chouti.com/link/40783997)|
+|2023-12-01 04:06:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【超越化学极限的纯碳环】Nature昨天这篇，未来十有八九能拿诺贝尔化学奖 应该要和19年的另一研究共享 。2019年当牛津大学和IBM研究院的一组研究人员制造出了一个稳定的碳环。环形碳化合物，由18个碳原子组成，C18是理论上，满足热力学稳定条件的最小环碳。今天，又在2019年的基础上新合成了全新的 C10、C14 和 C16环。](https://dig.chouti.com/link/40784603)|
+|2023-12-01 04:05:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[赛季至今18胜1平，阿隆索和他的勒沃库森，有什么胜利密码？](https://dig.chouti.com/link/40784355)|
+|2023-12-01 06:15:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[00后「电商捧哏」眼里的一地鸡毛：忙活半天，一毛没挣](https://dig.chouti.com/link/40785919)|
+|2023-12-01 04:05:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[女富豪逃亡海外？起底纪晓波母亲崔丽杰，从仓管员到百亿赌场大佬](https://dig.chouti.com/link/40784352)|
+|2023-12-01 05:11:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我很尊重您的个人空间，但是这要换成某某牧羊犬，已经拽着您的裤子把光着屁股的您甩飞了。ig：teddygrammke](https://dig.chouti.com/link/40785235)|
+|2023-12-01 05:53:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当代玩家已经不想用手玩游戏了](https://dig.chouti.com/link/40785417)|
+|2023-12-01 04:41:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[记者以普通患者身份求助协调异地献血，上海卫健委：需在当地申请，求助当地医院](https://dig.chouti.com/link/40784850)|
+|2023-12-01 05:32:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[百万人争论“咪咪咕噜”，错觉正在欺骗你？](https://dig.chouti.com/link/40785342)|
+|2023-12-01 05:12:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[喵喵体内的霸王龙血脉突然觉醒](https://dig.chouti.com/link/40785295)|
+|2023-12-01 04:33:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[聊聊去西藏阿里接病人的医疗包机](https://dig.chouti.com/link/40784783)|
+|2023-12-01 05:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【爱因斯坦和庞加莱：站在物理、技术与哲学的交叉路口】爱因斯坦为什么会用火车与观察者的同步作为比喻呢？事实证明，爱因斯坦并非只是比喻，思考协调时钟这一技术性问题的也并非只有爱因斯坦一人——甚至这是19世纪末的一个产业，庞加莱就与爱因斯坦将“同时性”的概念从技术与哲学的层面带入了物理学的核心地带。](https://dig.chouti.com/link/40785279)|
+|2023-12-01 04:35:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[腾讯QQ的“小世界”将更名为“QQ短视频”](https://dig.chouti.com/link/40784811)|
+|2023-12-01 04:36:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[诗之所向，素履以往：2023浙东唐诗摩旅记录](https://dig.chouti.com/link/40784849)|
+|2023-12-01 04:05:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[冯小刚电影《非诚勿扰3》定档12月30日](https://dig.chouti.com/link/40784357)|
+|2023-12-01 02:55:27|[Tinyfool的个人网站](https://codechina.org/feed/)|[英语轻松读iOS版更新1.20版，优化UI，增加字体修改功能](https://codechina.org/2023/12/english-easy-reader-ios/)|
+|2023-12-01 05:27:04|[知乎每日精选](https://www.zhihu.com/rss)|[定制家居中，该如何抓住未来的设计趋势？](http://www.zhihu.com/question/632247478/answer/3305879571?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-12-01 09:28:25|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[技术阅读周刊第第8️⃣期](http://crossoverjie.top/2023/12/01/ob/newsletter/Newsletter08-20231201/)|
 |2023-12-01 07:30:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[AWS 有没有优惠的付费方案](https://www.v2ex.com/t/996882#reply6)|
 |2023-12-01 02:01:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 年了，在支付宝 app 中偶尔还能看到上古时期的弹窗组件，有种穿越时空的感觉。。为什么不能去改一下呢](https://www.v2ex.com/t/996728#reply45)|
