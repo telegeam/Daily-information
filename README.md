@@ -1,7 +1,18 @@
-﻿# 每日资讯（2023-12-01）
+﻿# 每日资讯（2023-12-02）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-02 01:07:49|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 申请 AS 号做 BGP 广播大概多少钱?](https://www.v2ex.com/t/997025#reply0)|
+|2023-12-02 00:59:03|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于移动数据流量访问 PS5 问题](https://www.v2ex.com/t/997024#reply0)|
+|2023-12-02 00:41:11|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 既然有车载主动降噪的概念，房载主动降噪有没有搞头？](https://www.v2ex.com/t/997021#reply4)|
+|2023-12-02 00:40:34|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 24 届应届生 offer 选择，请前辈大佬给一些建议](https://www.v2ex.com/t/997020#reply1)|
+|2023-12-02 00:30:00|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 m1 低电量模式下 拔掉能源 屏幕变暗 是否正常？](https://www.v2ex.com/t/997019#reply1)|
+|2023-12-02 00:24:27|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 问美国到中国转运 qq-ex](https://www.v2ex.com/t/997017#reply0)|
+|2023-12-02 00:23:21|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大家有买过在校门口给娃定位的装备嘛。。。](https://www.v2ex.com/t/997016#reply9)|
+|2023-12-02 00:19:53|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 HDC 已经 3 天 521 了，谁有什么消息吗？](https://www.v2ex.com/t/997015#reply0)|
+|2023-12-02 00:15:59|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 #Hiring #Japan # Java](https://www.v2ex.com/t/997014#reply3)|
+|2023-12-02 00:03:17|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 做了一个 cookies 切换插件,可以在同一浏览器上登录同一网站的多个账户,完全开源](https://www.v2ex.com/t/997013#reply6)|
+|2023-12-02 00:00:28|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 “圈 x”去广告最全面的方案是哪种？](https://www.v2ex.com/t/997012#reply1)|
 |2023-12-01 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果被孤立和讨厌怎么办？](https://www.zhihu.com/question/513558654)|
 |2023-12-01 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[准备离职了，领导问后续打算该不该说实话？](https://www.zhihu.com/question/632600873)|
 |2023-12-01 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年，哪些彩妆单品你用到了铁皮？](https://www.zhihu.com/question/632466743)|
