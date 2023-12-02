@@ -2,6 +2,30 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-02 03:05:00|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[我的 2023 Spotify Wrapped 听歌总结](https://hellodk.cn/post/1151)|
+|2023-12-02 04:05:00|[虎嗅](https://rss.huxiu.com/)|[外国人也看土嗨短剧？短剧真成财富密码了？](https://www.huxiu.com/article/2371289.html?f=rss)|
+|2023-12-02 03:54:19|[虎嗅](https://rss.huxiu.com/)|[“女儿概念股”效应：多模态或成AI应用胜负手](https://www.huxiu.com/article/2373572.html?f=rss)|
+|2023-12-02 03:37:00|[虎嗅](https://rss.huxiu.com/)|[摧毁两代心血，掏空六个钱包？谁来解决？](https://www.huxiu.com/article/2371852.html?f=rss)|
+|2023-12-02 03:24:30|[虎嗅](https://rss.huxiu.com/)|[万向信托近10亿医养项目被指“烂尾”，引爆信任危机](https://www.huxiu.com/article/2373574.html?f=rss)|
+|2023-12-02 03:07:37|[虎嗅](https://rss.huxiu.com/)|[重大突破，超薄柔性电子玻璃实现国产](https://www.huxiu.com/article/2371833.html?f=rss)|
+|2023-12-02 03:05:33|[虎嗅](https://rss.huxiu.com/)|[从5毛一包到国民零食，辣条凭什么火爆20年？](https://www.huxiu.com/article/2373581.html?f=rss)|
+|2023-12-02 02:37:00|[虎嗅](https://rss.huxiu.com/)|[美国汽车工人罢工大胜利？](https://www.huxiu.com/article/2370773.html?f=rss)|
+|2023-12-02 02:20:17|[虎嗅](https://rss.huxiu.com/)|[面试中的“我”vs“我们”，怎么表述更加分？](https://www.huxiu.com/article/2373373.html?f=rss)|
+|2023-12-02 02:13:00|[虎嗅](https://rss.huxiu.com/)|[这届喜剧的尴尬：下不了饭，逗不笑人](https://www.huxiu.com/article/2373349.html?f=rss)|
+|2023-12-02 02:06:00|[虎嗅](https://rss.huxiu.com/)|[新造车11月销量：华为凶猛，小鹏超蔚来](https://www.huxiu.com/article/2373333.html?f=rss)|
+|2023-12-02 02:00:00|[虎嗅](https://rss.huxiu.com/)|[这个视频让你自律上瘾？](https://www.huxiu.com/article/2360436.html?f=rss)|
+|2023-12-02 01:35:20|[虎嗅](https://rss.huxiu.com/)|[谁在花钱看短剧？](https://www.huxiu.com/article/2373144.html?f=rss)|
+|2023-12-02 01:32:00|[虎嗅](https://rss.huxiu.com/)|[突破外资围剿，从2元生意做到200亿](https://www.huxiu.com/article/2370734.html?f=rss)|
+|2023-12-02 01:21:00|[虎嗅](https://rss.huxiu.com/)|[试图统一物理学和生命演化的新理论，是在解决一个伪问题？](https://www.huxiu.com/article/2373322.html?f=rss)|
+|2023-12-02 00:44:00|[虎嗅](https://rss.huxiu.com/)|[一年翻三倍，这个小众品类，风口终于到了？](https://www.huxiu.com/article/2370770.html?f=rss)|
+|2023-12-02 00:38:46|[虎嗅](https://rss.huxiu.com/)|[萧统与刘勰](https://www.huxiu.com/article/2372744.html?f=rss)|
+|2023-12-02 00:26:17|[虎嗅](https://rss.huxiu.com/)|[辉瑞中国解散疫苗团队，为什么巨头都不自己卖疫苗了？](https://www.huxiu.com/article/2372415.html?f=rss)|
+|2023-12-02 00:14:00|[虎嗅](https://rss.huxiu.com/)|[拼多多和字节跳动赢在哪里？](https://www.huxiu.com/article/2372418.html?f=rss)|
+|2023-12-02 00:14:00|[虎嗅](https://rss.huxiu.com/)|[化债成功能重回牌桌？出险房企龟兔赛跑](https://www.huxiu.com/article/2372416.html?f=rss)|
+|2023-12-02 04:06:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[开发用词强迫症？](https://www.v2ex.com/t/997057#reply1)|
+|2023-12-02 03:51:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有公众号或者网站提供微信代发通知的？](https://www.v2ex.com/t/997054#reply2)|
+|2023-12-02 03:39:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[.ing 后缀正式开放了，有没有什么想法](https://www.v2ex.com/t/997053#reply10)|
+|2023-12-02 03:36:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【ChatGPT的“GPT商店”，推迟至2024年初】12月2日，OpenAI的ChatGPT团队向GPT开发者发布了一封信，“GPT商店”将推迟至2024年发布。OpenAI在公告中表示：“我们现在计划在明年初推出GPT商店。虽然我们原本打算在本月推出，但一些意想不到的事情让我们很忙！”](https://dig.chouti.com/link/40794621)|
 |2023-12-02 01:07:49|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 申请 AS 号做 BGP 广播大概多少钱?](https://www.v2ex.com/t/997025#reply0)|
 |2023-12-02 00:59:03|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于移动数据流量访问 PS5 问题](https://www.v2ex.com/t/997024#reply0)|
 |2023-12-02 00:41:11|[V2EX](https://www.v2ex.com/index.xml)|[ 奇思妙想 既然有车载主动降噪的概念，房载主动降噪有没有搞头？](https://www.v2ex.com/t/997021#reply4)|
