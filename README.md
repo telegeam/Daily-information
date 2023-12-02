@@ -2,6 +2,43 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-02 10:09:59|[机核](https://www.gcores.com/rss)|[下周节目预告 12.4~12.10](https://www.gcores.com/articles/174570)|
+|2023-12-02 10:00:00|[机核](https://www.gcores.com/rss)|[卡普空的塞尔达制造初体验！10分钟带你回顾《塞尔达传说 不可思议的果实》](https://www.gcores.com/videos/174565)|
+|2023-12-02 08:10:55|[机核](https://www.gcores.com/rss)|[时间 风 与 最后的夕阳](https://www.gcores.com/articles/174567)|
+|2023-12-02 06:06:38|[机核](https://www.gcores.com/rss)|[NOMO](https://www.gcores.com/articles/174566)|
+|2023-12-02 04:19:39|[机核](https://www.gcores.com/rss)|[【开箱】《主题医院》1997年大盒实体版](https://www.gcores.com/videos/174563)|
+|2023-12-02 03:31:45|[机核](https://www.gcores.com/rss)|[（test）白话三国第七回 郭奉孝相前献妙计](https://www.gcores.com/videos/174564)|
+|2023-12-02 07:00:00|[触乐](http://www.chuapp.com/feed)|[周末玩什么：在魔法世界和朋友联手冒险，扮演小葡萄拯救家园](http://www.chuapp.com/article/289657.html)|
+|2023-12-02 11:40:00|[虎嗅](https://rss.huxiu.com/)|[当银行和房企开完座谈会](https://www.huxiu.com/article/2374605.html?f=rss)|
+|2023-12-02 11:27:56|[虎嗅](https://rss.huxiu.com/)|[《涉海》与二次元：是误解还是互害？](https://www.huxiu.com/article/2374621.html?f=rss)|
+|2023-12-02 11:14:48|[虎嗅](https://rss.huxiu.com/)|[体制外女性的40岁现象：为何在人生最佳时期退出职场？](https://www.huxiu.com/article/2375045.html?f=rss)|
+|2023-12-02 10:59:05|[虎嗅](https://rss.huxiu.com/)|[“重现江湖”的腹膜外剖宫产，真香吗？](https://www.huxiu.com/article/2374604.html?f=rss)|
+|2023-12-02 10:53:57|[虎嗅](https://rss.huxiu.com/)|[香港大型银行美元定存跌破5%，你会考虑“上车”吗？](https://www.huxiu.com/article/2374598.html?f=rss)|
+|2023-12-02 10:25:41|[虎嗅](https://rss.huxiu.com/)|[字节跳动大收缩](https://www.huxiu.com/article/2374599.html?f=rss)|
+|2023-12-02 10:04:00|[虎嗅](https://rss.huxiu.com/)|[一省养十省，这才是黑龙江强大之处？](https://www.huxiu.com/article/2371358.html?f=rss)|
+|2023-12-02 09:33:00|[虎嗅](https://rss.huxiu.com/)|[央企氢能热：成立投资基金、频会地方政府、共竞优质标的](https://www.huxiu.com/article/2374602.html?f=rss)|
+|2023-12-02 09:30:00|[虎嗅](https://rss.huxiu.com/)|[揭秘过去十年中国经济发展的火车头：中国式PPP](https://www.huxiu.com/article/2372755.html?f=rss)|
+|2023-12-02 09:14:04|[虎嗅](https://rss.huxiu.com/)|[首批电动皮卡交付，特斯拉能称霸市场吗？](https://www.huxiu.com/article/2374455.html?f=rss)|
+|2023-12-02 08:51:15|[虎嗅](https://rss.huxiu.com/)|[“中国电商一哥”之争，价低者胜？](https://www.huxiu.com/article/2374472.html?f=rss)|
+|2023-12-02 08:49:00|[虎嗅](https://rss.huxiu.com/)|[巴西加入欧佩克+，明年油价该跌了？](https://www.huxiu.com/article/2374477.html?f=rss)|
+|2023-12-02 08:41:00|[虎嗅](https://rss.huxiu.com/)|[问题提得越好，文章写得越好？](https://www.huxiu.com/article/2371845.html?f=rss)|
+|2023-12-02 08:09:00|[虎嗅](https://rss.huxiu.com/)|[小米14好用的功能“窃不算偷”？](https://www.huxiu.com/article/2372982.html?f=rss)|
+|2023-12-02 08:04:00|[虎嗅](https://rss.huxiu.com/)|[没有课间十分钟的小学生，在厕所交朋友](https://www.huxiu.com/article/2374023.html?f=rss)|
+|2023-12-02 07:52:32|[虎嗅](https://rss.huxiu.com/)|[旭辉林中坐镇境外债重组，汝海林上任二号位](https://www.huxiu.com/article/2374454.html?f=rss)|
+|2023-12-02 07:34:01|[虎嗅](https://rss.huxiu.com/)|[OpenAI“政变”内幕揭晓：微软如何成为最大赢家？](https://www.huxiu.com/article/2374033.html?f=rss)|
+|2023-12-02 07:33:00|[虎嗅](https://rss.huxiu.com/)|[为什么还有人在研究已经消失在历史中的飞艇呢？](https://www.huxiu.com/article/2371835.html?f=rss)|
+|2023-12-02 07:28:01|[虎嗅](https://rss.huxiu.com/)|[“进展神速”的这届气候大会：没有时间留给人类了](https://www.huxiu.com/article/2373587.html?f=rss)|
+|2023-12-02 07:06:00|[虎嗅](https://rss.huxiu.com/)|[活了20多年，没见过这么大的沙暴？](https://www.huxiu.com/article/2371341.html?f=rss)|
+|2023-12-02 06:56:00|[虎嗅](https://rss.huxiu.com/)|[如何靠任务思维提高效率？](https://www.huxiu.com/article/2373625.html?f=rss)|
+|2023-12-02 06:33:00|[虎嗅](https://rss.huxiu.com/)|[鹅腿阿姨，接不住泼天的富贵](https://www.huxiu.com/article/2372373.html?f=rss)|
+|2023-12-02 06:32:01|[虎嗅](https://rss.huxiu.com/)|[麻辣小龙虾、清蒸大闸蟹，牛蛙都是生物入侵？](https://www.huxiu.com/article/2371329.html?f=rss)|
+|2023-12-02 06:05:00|[虎嗅](https://rss.huxiu.com/)|[Redmi K70 Pro 原生 2K 60 帧原神实测](https://www.huxiu.com/article/2363395.html?f=rss)|
+|2023-12-02 05:02:00|[虎嗅](https://rss.huxiu.com/)|[我国首台硼中子俘获治疗样机研制成功](https://www.huxiu.com/article/2340846.html?f=rss)|
+|2023-12-02 06:04:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[六国入境免签新政首日，相关入境人员增长12.54%](https://dig.chouti.com/link/40795556)|
+|2023-12-02 07:05:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美国发布电动汽车税收减免拟议新规则，限制中国企业】2024年开始，符合减免条件的电动车辆不得包含任何由“受关注的外国实体（FEOC）”制造或组装的电池组件，2025年开始，符合减免条件的电动车辆不得包含任何由 FEOC提取、加工或回收的关键矿物。FEOC的定义包括由中国、俄罗斯或伊朗等国拥有或受其管辖的所有公司。](https://dig.chouti.com/link/40796088)|
+|2023-12-02 09:25:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1203 巴西城市颁布由 ChatGPT 编写的法令](https://linux.cn/article-16435-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-02 04:02:04|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 如何为举办开源活动设定目标并衡量它们](https://linux.cn/article-16434-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-02 07:00:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 Pro 將配備四棱鏡相機？全方位解析](https://www.iphonetaiwan.org/2023/12/blog-post.html)|
 |2023-12-02 02:33:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[打败你的可能是 chatgpt. 我的新的想法。插件版 英语轻松读](https://www.v2ex.com/t/997043#reply12)|
 |2023-12-02 07:53:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Photos DDNS 外网无法访问](https://www.v2ex.com/t/997099#reply3)|
 |2023-12-02 04:06:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[开发用词强迫症？](https://www.v2ex.com/t/997057#reply13)|
