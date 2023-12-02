@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-02 00:30:57|[爱范儿](https://www.ifanr.com/feed)|[早报｜小米辟谣「雷军冰冷的 40 亿」/iPhone 16 或全系标配操作按钮/拼多多收盘市值首超阿里 未来周报](https://www.ifanr.com/1569501?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-02 10:00:55|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊第 29 期（摘要）](https://w2solo.com/topics/4283)|
+|2023-12-02 14:32:55|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 开源网页邮箱服务 Roundcube 加入 Nextcloud](https://linux.cn/article-16437-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-02 17:46:53|[V2EX](http://www.v2ex.com/index.xml)|[ Kubernetes 请教一下大家关于 k8s 的管理面板](https://www.v2ex.com/t/997190#reply0)|
+|2023-12-02 16:31:59|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI 使用开源的 stable diffusion 本地离线生成 ai 图片可以拿去卖吗？](https://www.v2ex.com/t/997188#reply4)|
+|2023-12-02 16:25:55|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 应该买一辆豪华品牌的车满足自己的虚荣感吗？](https://www.v2ex.com/t/997187#reply12)|
+|2023-12-02 16:16:49|[V2EX](http://www.v2ex.com/index.xml)|[ Android 简单将自己的证书添加到系统根证书，需要 root](https://www.v2ex.com/t/997185#reply3)|
+|2023-12-02 11:12:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：炭烤霸王龙堡，作者Matteo Pinazzi](https://dig.chouti.com/link/40798057)|
+|2023-12-02 11:19:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“机场判官”再曝住宿骗局：虚假定位误导消费者](https://dig.chouti.com/link/40798064)|
+|2023-12-02 14:36:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[亚马逊与SpaceX签署发射合同](https://dig.chouti.com/link/40799423)|
+|2023-12-02 12:14:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[足总杯第2轮，诺茨郡2比3告负出局，三个丢球每个都……很有意思……](https://dig.chouti.com/link/40798508)|
+|2023-12-02 09:33:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【为帝国服务的亨利·基辛格】@Jokielicious：美国主流媒体对于基辛格的批评当中，最让我无语的一点是，居然把他干的事儿统统归结于个人行为，我一边看居然一边隐隐产生了一种“基老不值得”。一个纯粹的帝国主义战士，一个完全不高尚的现实主义者，最能代表美式价值观的人物之一，居然被你们写的像是为了个人ego奔走…](https://dig.chouti.com/link/40797231)|
+|2023-12-02 17:47:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[微言小义 2023.11 ](https://www.changhai.org/articles/miscellaneous/blog/202311.php)|
 |2023-12-02 15:00:00|[机核](https://www.gcores.com/rss)|[喜剧本地化 GadioNews12.02](https://www.gcores.com/radios/174222)|
 |2023-12-02 13:36:18|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#268：《魔法日记》](https://www.gcores.com/articles/174574)|
 |2023-12-02 12:50:28|[机核](https://www.gcores.com/rss)|[2023年10月第四周手办模型情报总汇](https://www.gcores.com/articles/174292)|
