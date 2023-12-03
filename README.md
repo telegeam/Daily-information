@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-03 10:04:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[因与币安合作推广虚拟货币，C罗在美国佛罗里达州遭遇集体诉讼，被要求赔偿10亿美元](https://dig.chouti.com/link/40805561)|
+|2023-12-03 09:08:26|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[生成式 AI 应用落地小结：高估的模型能力，低估的工程实施](http://www.phodal.com/blog/genai-implementation-summary-model-overestimation-engineering-underestimation/)|
+|2023-12-03 04:05:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8家消费公司拿到新钱；新乳业出售一只酸奶牛45%股权；零食集合店门店数量突破2.2万家 创投大视野](https://36kr.com/p/2540818169243401)|
+|2023-12-03 04:05:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[3个MIT物理学家创业，超50亿融资之王，这家AI公司即将IPO](https://36kr.com/p/2542859753317897)|
+|2023-12-03 04:05:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI商业落地的持续进阶：大模型将重塑各行各业 ｜WISE 2023商业之王大会](https://36kr.com/p/2542138063103491)|
+|2023-12-03 04:05:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[汽车芯片大厂，各显神通](https://36kr.com/p/2542922984564485)|
+|2023-12-03 04:05:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一张照片生成视频，张嘴、点头、喜怒哀乐，都可以打字控制](https://36kr.com/p/2543099800561414)|
+|2023-12-03 04:05:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[德意志银行：中国股票值得逢低布局](https://36kr.com/p/2542209344087809)|
+|2023-12-03 10:59:16|[白宦成](https://www.ixiqin.com/feed/)|[为什么说投资是认知的变现？](https://www.ixiqin.com/2023/12/03/why-is-investment-a-cognitive-realization/)|
+|2023-12-03 09:27:15|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[搜索技巧与 AIGC](https://www.edony.ink/skills-of-search-and-aigc/)|
+|2023-12-03 05:39:09|[鸟窝](https://colobu.com/atom.xml)|[2023年 Go 并发库的变化综述](https://colobu.com/2023/12/03/status-og-so-sync-in-2023/)|
 |2023-12-03 08:17:48|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 用 Cloudflare works AI 搭了个网页，有什么应用场景吗](https://www.v2ex.com/t/997254#reply1)|
 |2023-12-03 08:15:22|[V2EX](https://www.v2ex.com/index.xml)|[ NAS Plex 客户端的 TrueHD 7.1 解码问题](https://www.v2ex.com/t/997253#reply0)|
 |2023-12-03 07:54:48|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 总是收到类似于菜鸟驿站的包裹短信 可是从来也没买东西](https://www.v2ex.com/t/997251#reply1)|
