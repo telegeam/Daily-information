@@ -1,7 +1,9 @@
-﻿# 每日资讯（2023-12-02）
+﻿# 每日资讯（2023-12-03）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-03 00:37:09|[V2EX](https://www.v2ex.com/index.xml)|[ Nintendo Switch 马里奥制造匹配不到人](https://www.v2ex.com/t/997195#reply0)|
+|2023-12-03 00:33:23|[V2EX](https://www.v2ex.com/index.xml)|[ Twitter 马斯克的 Grok AI 能用了吗](https://www.v2ex.com/t/997194#reply0)|
 |2023-12-02 00:30:57|[爱范儿](https://www.ifanr.com/feed)|[早报｜小米辟谣「雷军冰冷的 40 亿」/iPhone 16 或全系标配操作按钮/拼多多收盘市值首超阿里 未来周报](https://www.ifanr.com/1569501?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-02 10:00:55|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊第 29 期（摘要）](https://w2solo.com/topics/4283)|
 |2023-12-02 14:32:55|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 开源网页邮箱服务 Roundcube 加入 Nextcloud](https://linux.cn/article-16437-1.html?utm_source=rss&utm_medium=rss)|
