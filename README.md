@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-03 16:06:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[县城咖啡生存调查：仅一年，2公里内“同行”超10家](https://36kr.com/p/2544354011325959)|
+|2023-12-03 16:06:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为了“活下去”，良品铺子先朝自己“砍一刀”](https://36kr.com/p/2544327822450823)|
+|2023-12-03 16:06:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[亏损收窄的知乎，距离盈利还有多少篇付费小说？](https://36kr.com/p/2543584557360903)|
+|2023-12-03 16:06:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[从老二变老四，戴尔为何败退中国市场？](https://36kr.com/p/2543589476835462)|
+|2023-12-03 16:06:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[利用好知识漏斗：启发法、管理与战略](https://36kr.com/p/2499380659804293)|
+|2023-12-03 16:06:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[黄峥逆袭，马云、刘强东如何反杀？](https://36kr.com/p/2543584424568323)|
+|2023-12-03 16:06:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[学习的本质，就是极致重复](https://36kr.com/p/2543701610669569)|
+|2023-12-03 16:06:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[100元的冲锋衣带火了这个小县城，年产值120个亿](https://36kr.com/p/2543624013408002)|
+|2023-12-03 07:58:02|[卡瓦邦噶！](https://www.kawabangga.com/feed)|[四层负载均衡漫谈](https://www.kawabangga.com/posts/5301)|
+|2023-12-03 10:40:52|[触乐](http://www.chuapp.com/feed)|[一位明星选手的热血故事，半部CODM电竞全球化发展史](http://www.chuapp.com/article/289661.html)|
+|2023-12-03 14:15:26|[Pseudoyu](https://www.pseudoyu.com/zh/index.xml)|[周报 #52 - 自谦型人格与感情的另一个视角](https://www.pseudoyu.com/zh/2023/12/03/weekly_review_20231203/)|
 |2023-12-03 11:54:34|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[Windows 莫名重启问题解决](https://nicksxs.me/2023/12/03/Windows-%E8%8E%AB%E5%90%8D%E9%87%8D%E5%90%AF%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/)|
 |2023-12-03 09:14:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[蜂蜜成了毒品，还会致死？这种蜂蜜千万别吃](https://dig.chouti.com/link/40805362)|
 |2023-12-03 09:16:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[金卡戴珊最新自拍……这是她？怎么又“改头换面”“脱胎换股”？](https://dig.chouti.com/link/40805413)|
