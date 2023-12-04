@@ -1,7 +1,17 @@
-﻿# 每日资讯（2023-12-03）
+﻿# 每日资讯（2023-12-04）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-04 01:06:15|[虎嗅](https://rss.huxiu.com/)|[AI对电商的改变，不会止步于直播](https://www.huxiu.com/article/2378927.html?f=rss)|
+|2023-12-04 01:02:32|[虎嗅](https://rss.huxiu.com/)|[最强AI又要迟到？报道：谷歌延迟推出Gemini](https://www.huxiu.com/article/2379970.html?f=rss)|
+|2023-12-04 00:46:33|[虎嗅](https://rss.huxiu.com/)|[上市就来割韭菜？51家在审企业存在掏空式分红之嫌](https://www.huxiu.com/article/2379621.html?f=rss)|
+|2023-12-04 00:41:36|[虎嗅](https://rss.huxiu.com/)|[令人成瘾的滑雪，带火了冬天的哪些生意？](https://www.huxiu.com/article/2375432.html?f=rss)|
+|2023-12-04 00:41:19|[虎嗅](https://rss.huxiu.com/)|[金价持续走高，黄金珠宝公司加速上市步伐](https://www.huxiu.com/article/2379956.html?f=rss)|
+|2023-12-04 00:33:20|[虎嗅](https://rss.huxiu.com/)|[五月天演唱会陷假唱风波](https://www.huxiu.com/article/2378145.html?f=rss)|
+|2023-12-04 00:25:00|[虎嗅](https://rss.huxiu.com/)|[基金销售过冬](https://www.huxiu.com/article/2377146.html?f=rss)|
+|2023-12-04 00:23:00|[虎嗅](https://rss.huxiu.com/)|[深圳“外卖村”里，渴望“翻身”的人](https://www.huxiu.com/article/2378776.html?f=rss)|
+|2023-12-04 00:06:44|[虎嗅](https://rss.huxiu.com/)|[生成式AI是工具，真正的原创者还在反击](https://www.huxiu.com/article/2378759.html?f=rss)|
+|2023-12-04 00:00:01|[虎嗅](https://rss.huxiu.com/)|[一场横跨16年的诈骗案，割了全台湾的韭菜](https://www.huxiu.com/article/2373375.html?f=rss)|
 |2023-12-03 16:06:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[县城咖啡生存调查：仅一年，2公里内“同行”超10家](https://36kr.com/p/2544354011325959)|
 |2023-12-03 16:06:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为了“活下去”，良品铺子先朝自己“砍一刀”](https://36kr.com/p/2544327822450823)|
 |2023-12-03 16:06:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[亏损收窄的知乎，距离盈利还有多少篇付费小说？](https://36kr.com/p/2543584557360903)|
@@ -71,6 +81,7 @@
 |2023-12-03 10:58:45|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 记录 -2023-12-03 在玩黑森町奇谭和 DOOM](https://www.v2ex.com/t/997279#reply0)|
 |2023-12-03 10:54:50|[V2EX](http://www.v2ex.com/index.xml)|[ C 在 C 中，如何正确拷贝字符串](https://www.v2ex.com/t/997278#reply6)|
 |2023-12-03 09:04:49|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[什么是 DRM](https://www.jackpu.com/shi-yao-shi-drm/)|
+|2023-12-04 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第155期 - 东京夜景](https://weekly.tw93.fun/posts/155-%E4%B8%9C%E4%BA%AC%E5%A4%9C%E6%99%AF/)|
 |2023-12-03 07:50:28|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 905 Div. 3 ](https://blog.mauve.icu/2023/12/03/acm/codeforces/CodeforcesRound906(Div.%202)/)|
 |2023-12-03 05:56:55|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[一段奇怪的 CPP 代码](https://blog.mauve.icu/2023/12/03/cpp/cpp-list-insert/)|
 |2023-12-03 10:04:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[因与币安合作推广虚拟货币，C罗在美国佛罗里达州遭遇集体诉讼，被要求赔偿10亿美元](https://dig.chouti.com/link/40805561)|
