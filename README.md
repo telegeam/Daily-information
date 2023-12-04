@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-04 11:58:09|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1205 苹果用 15 年完成了英特尔芯片替代](https://linux.cn/article-16441-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-04 09:08:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Linux 爱好者线下沙龙：LLUG 2023·北京，相聚在这个冬日](https://linux.cn/article-16440-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-04 08:45:39|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Cinnamon 6.0 首次推出实验性 Wayland 支持！](https://linux.cn/article-16439-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-04 13:17:45|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[孔刘主演《嫌疑人》：铁汉柔情，顶级特工跨国复仇，搅得韩国天翻地覆！](https://www.ximalaya.com/sound/690575594)|
+|2023-12-04 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 48/2023](https://weekly.pychina.org/pyrecap/pyrw-2348.html)|
 |2023-12-04 16:06:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[王思聪，走向父亲的战场](https://36kr.com/p/2544979040937735)|
 |2023-12-04 16:06:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一张“纸片”卖4万，这门暴利生意，崩了？](https://36kr.com/p/2545039269586697)|
 |2023-12-04 16:06:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发丨只卖门店现制包子，「堂上堂」完成数百万元天使轮融资](https://36kr.com/p/2540091450517251)|
