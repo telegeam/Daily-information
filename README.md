@@ -2,6 +2,51 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-05 14:16:33|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[In-depth Understanding of the Use of the Second Parameter of useEffect](https://javascript.plainenglish.io/in-depth-understanding-of-the-use-of-the-second-parameter-of-useeffect-7588520d80ab?source=rss-c3917681a8f5------2)|
+|2023-12-05 12:16:54|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[Interesting hook — useWorker](https://javascript.plainenglish.io/interesting-hook-useworker-fb45b7b16696?source=rss-c3917681a8f5------2)|
+|2023-12-05 12:55:38|[鸟窝](https://colobu.com/atom.xml)|[这个限流库两个大bug存在了半年之久，没人发现？](https://colobu.com/2023/12/05/two-bugs-of-uber-ratelimit/)|
+|2023-12-05 09:54:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为何当前干部、医生、老师尤其防着被抓把柄?](https://dig.chouti.com/link/40826598)|
+|2023-12-05 04:36:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巧用开源软件，零成本实现跨平台短信同步功能](https://dig.chouti.com/link/40823492)|
+|2023-12-05 13:11:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[揭秘打折图书背后的猫腻 警方打掉特大印刷销售盗版图书犯罪团伙](https://dig.chouti.com/link/40828754)|
+|2023-12-05 11:05:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[财政部有关负责同志就穆迪下调我主权信用评级展望有关问题答记者问](https://dig.chouti.com/link/40827498)|
+|2023-12-05 05:04:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[最后的“世界大观”](https://dig.chouti.com/link/40823557)|
+|2023-12-05 09:44:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“科幻诺贝尔”雨果奖《时空画师》再引争议：实则是付费投票的科幻会员读者奖】或许我们应该对一个花钱就能投票、仅有小部分人参与的奖项祛魅，真正关注中国科幻文学创作与产业链完善。](https://dig.chouti.com/link/40826588)|
+|2023-12-05 09:55:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当一个成年男性决定坐下小便](https://dig.chouti.com/link/40826599)|
+|2023-12-05 05:29:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【出售分享种子或将判刑：资本新攻势下非洲农民的抵抗行动】私有化种子对企业而言是空前的商机，而对小农而言是空前的灾难。非洲农业工业化联盟在11个国家花费了12年时间和超过10亿美元之后，非洲的饥饿人数反而增加，而作物产量几乎没有变化。](https://dig.chouti.com/link/40824024)|
+|2023-12-05 07:39:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[和已婚女装大佬（直男）聊聊爱、性与癖](https://dig.chouti.com/link/40825281)|
+|2023-12-05 00:05:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【图集】镜头下，试管婴儿技术的一些历史瞬间](https://dig.chouti.com/link/40820680)|
+|2023-12-05 02:30:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[@祝佳音：在XHS上看到一个电源插座的产品评测，可谓跌宕起伏，劲爆迭出，看得我惊叫连连，相信你看过这个视频，也会和我有同样震撼的感受。生产和销售这玩意儿的人不该判一个吗………](https://dig.chouti.com/link/40822099)|
+|2023-12-05 04:05:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[官方：从事道路旅客运输经营等自动驾驶车应配备1名安全员，部分区域完全自动驾驶的出租汽车经批准可使用远程安全员](https://dig.chouti.com/link/40823024)|
+|2023-12-05 01:21:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[因为预告片遭到泄露，R星选择提前公开了《GTA6》的首个预告。本作将于2025年发售，PS5和Xbox Series X S平台。](https://dig.chouti.com/link/40821397)|
+|2023-12-05 04:10:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[薯门！！](https://dig.chouti.com/link/40823335)|
+|2023-12-05 19:24:43|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[七百以内预算入 2T M.2 还是 2T+ HDD?](https://www.v2ex.com/t/997929#reply1)|
+|2023-12-05 02:21:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Win11 切换回 Win10 风格 UI，浑身都带劲了](https://www.v2ex.com/t/997686#reply66)|
+|2023-12-05 13:37:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[谁有李跳跳的安装包呀？](https://www.v2ex.com/t/997895#reply9)|
+|2023-12-05 13:12:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 AI 生成遗失孩子若干年后照片](https://www.v2ex.com/t/997885#reply5)|
+|2023-12-05 11:18:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[编译 wireguard 的安卓客户端遇到点问题，开发语言是 Kotlin](https://www.v2ex.com/t/997863#reply13)|
+|2023-12-05 05:34:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[决赛圈 iqoo12/魅族 20pro/魅族 21 怎么选](https://www.v2ex.com/t/997747#reply89)|
+|2023-12-05 12:27:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[工作时间看技术文章算划水吗？](https://www.v2ex.com/t/997875#reply14)|
+|2023-12-05 17:00:00|[机核](https://www.gcores.com/rss)|[The North Remembers](https://www.gcores.com/articles/174669)|
+|2023-12-05 15:00:00|[机核](https://www.gcores.com/rss)|[轰炸机总能过去…吗？ 单口历史故事节目：历史之人 帝国的余烬 Vol.3](https://www.gcores.com/radios/174537)|
+|2023-12-05 14:20:00|[机核](https://www.gcores.com/rss)|[不想上班之歌](https://www.gcores.com/videos/174685)|
+|2023-12-05 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：序章（卷三完）](https://www.gcores.com/radios/174620)|
+|2023-12-05 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：伏笔](https://www.gcores.com/radios/174619)|
+|2023-12-05 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：所见非所得](https://www.gcores.com/radios/174618)|
+|2023-12-05 14:00:00|[机核](https://www.gcores.com/rss)|[《第一律法 卷三：最后手段》：功过是非](https://www.gcores.com/radios/174617)|
+|2023-12-05 13:55:00|[机核](https://www.gcores.com/rss)|[2024 年机核招聘开启！](https://www.gcores.com/articles/174686)|
+|2023-12-05 12:00:00|[机核](https://www.gcores.com/rss)|[十余年后，一场全新的切尔诺贝利硬核之旅 《潜行者2》开发公司GSC访谈](https://www.gcores.com/articles/174284)|
+|2023-12-05 10:51:21|[机核](https://www.gcores.com/rss)|[《GTA6》预告细节挖掘：表情动作太顶！尿啤回归、游戏内拍摄短视频？](https://www.gcores.com/videos/174684)|
+|2023-12-05 10:30:00|[机核](https://www.gcores.com/rss)|[佛罗里达精神病人：聊聊《GTA6》预告片，机浪 Vol.35](https://www.gcores.com/radios/174682)|
+|2023-12-05 10:24:29|[机核](https://www.gcores.com/rss)|[小型独立游戏社团首款作品《哲学梗模拟器》在Reddit意外爆火](https://www.gcores.com/articles/174683)|
+|2023-12-05 10:00:00|[机核](https://www.gcores.com/rss)|[译介丨《自由港故事集》：我的自由港之夜（一）](https://www.gcores.com/articles/174667)|
+|2023-12-05 09:51:04|[机核](https://www.gcores.com/rss)|[收录游戏全乐曲，《装甲核心6 境界天火》原声音乐集2024年3月20日发售](https://www.gcores.com/articles/174679)|
+|2023-12-05 09:44:39|[机核](https://www.gcores.com/rss)|[《地下城与勇士》IP衍生类魂新作正式公布，将于TGA揭晓实机演示](https://www.gcores.com/articles/174655)|
+|2023-12-05 09:40:19|[机核](https://www.gcores.com/rss)|[护眼、快充、潜望、高性能我全都要：一加12上手体验](https://www.gcores.com/articles/174670)|
+|2023-12-05 09:00:00|[机核](https://www.gcores.com/rss)|[EVE大镖客，录音笔 VOL.92](https://www.gcores.com/radios/174671)|
+|2023-12-05 09:00:00|[机核](https://www.gcores.com/rss)|[萌物肉鸽合作游戏《无敌水豚：练习生》，19元就能4人联机](https://www.gcores.com/articles/174660)|
+|2023-12-05 08:45:11|[机核](https://www.gcores.com/rss)|[雷鸟 Air 2 眼镜-——随身携带的游戏搭档~](https://www.gcores.com/articles/174675)|
+|2023-12-05 08:38:08|[机核](https://www.gcores.com/rss)|[《戴森球计划》大更新“黑雾崛起”成就列表公开](https://www.gcores.com/articles/174678)|
+|2023-12-05 12:00:00|[明明如月成长笔记](https://lmmsoft.github.io/feed.atom)|[程十发美术馆：不仅能看展，还有上海第一家书画自习室](https://lmmsoft.github.io//chengshifa_art_museum/)|
 |2023-12-05 11:27:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 Turbo Pascal 的 40 年，改变了整个 IDE 的编程恐龙](https://linux.cn/article-16444-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-05 09:38:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1206 Linus Torvalds 为假期季做准备](https://linux.cn/article-16443-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-05 08:01:44|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 在 Ubuntu 中更改键盘布局](https://linux.cn/article-16442-1.html?utm_source=rss&utm_medium=rss)|
