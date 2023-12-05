@@ -2,6 +2,93 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-05 04:01:40|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的一大册作品](https://sspai.com/post/84770)|
+|2023-12-05 04:01:40|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[诗之所向，素履以往：我的浙东摩旅记录](https://sspai.com/post/84702)|
+|2023-12-05 09:23:19|[小众软件](https://www.appinn.com/feed/)|[小日子日历 – 集日历、记事、打卡、纪念日的免费小工具 iPhone ](https://www.appinn.com/easy-day-for-ios/)|
+|2023-12-05 11:47:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[非标端口无域名权限有可能申请到证书吗？](https://www.v2ex.com/t/997871#reply3)|
+|2023-12-05 12:27:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[工作时间看技术文章算划水吗？](https://www.v2ex.com/t/997875#reply0)|
+|2023-12-05 02:51:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[MYSQL 高并发下，记录变动后余额怎么统计才能更准确？](https://www.v2ex.com/t/997702#reply48)|
+|2023-12-05 05:34:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[决赛圈 iqoo12/魅族 20pro/魅族 21 怎么选](https://www.v2ex.com/t/997747#reply78)|
+|2023-12-05 09:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国的巨额隐性债务问题已到紧要关头](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%B7%A8%E9%A2%9D%E9%9A%90%E6%80%A7%E5%80%BA%E5%8A%A1%E9%97%AE%E9%A2%98%E5%B7%B2%E5%88%B0%E7%B4%A7%E8%A6%81%E5%85%B3%E5%A4%B4-9d859475)|
+|2023-12-05 12:23:16|[虎嗅](https://rss.huxiu.com/)|[瑞幸打假泰国山寨瑞幸，国内品牌如何海外维权？](https://www.huxiu.com/article/2386378.html?f=rss)|
+|2023-12-05 12:18:26|[虎嗅](https://rss.huxiu.com/)|[魅族造车，图啥呢？](https://www.huxiu.com/article/2386620.html?f=rss)|
+|2023-12-05 12:05:00|[虎嗅](https://rss.huxiu.com/)|[不是欧洲去不起，而是哈尔滨更有性价比](https://www.huxiu.com/article/2386670.html?f=rss)|
+|2023-12-05 12:04:02|[虎嗅](https://rss.huxiu.com/)|[2023年投资圈人员流动图鉴](https://www.huxiu.com/article/2386435.html?f=rss)|
+|2023-12-05 11:55:47|[虎嗅](https://rss.huxiu.com/)|[粗暴点说，2023中国良心企业，最数这69家了！](https://www.huxiu.com/article/2367397.html?f=rss)|
+|2023-12-05 11:43:00|[虎嗅](https://rss.huxiu.com/)|[脑机接口、数字永生与人类未来](https://www.huxiu.com/article/2386611.html?f=rss)|
+|2023-12-05 11:00:00|[虎嗅](https://rss.huxiu.com/)|[国际金价创下历史纪录，谁在买入？](https://www.huxiu.com/article/2386325.html?f=rss)|
+|2023-12-05 10:59:00|[虎嗅](https://rss.huxiu.com/)|[中国电影市场票房已超500亿，分线发行能救小众片吗？](https://www.huxiu.com/article/2386377.html?f=rss)|
+|2023-12-05 10:53:00|[虎嗅](https://rss.huxiu.com/)|[VC急找招商总监，月薪7万](https://www.huxiu.com/article/2386361.html?f=rss)|
+|2023-12-05 10:20:00|[虎嗅](https://rss.huxiu.com/)|[瑞幸咖啡状告泰国瑞幸，打假失败](https://www.huxiu.com/article/2386392.html?f=rss)|
+|2023-12-05 10:19:00|[虎嗅](https://rss.huxiu.com/)|[中年货车司机之困：严重超载和疲劳驾驶](https://www.huxiu.com/article/2386356.html?f=rss)|
+|2023-12-05 10:07:54|[虎嗅](https://rss.huxiu.com/)|[有人还在打工，有人提前回家过年，你是哪一种？](https://www.huxiu.com/article/2385921.html?f=rss)|
+|2023-12-05 09:57:00|[虎嗅](https://rss.huxiu.com/)|[写给小白的芯片半导体科普](https://www.huxiu.com/article/2386366.html?f=rss)|
+|2023-12-05 09:47:00|[虎嗅](https://rss.huxiu.com/)|[人民币回升，上千家上市公司启动套保](https://www.huxiu.com/article/2386389.html?f=rss)|
+|2023-12-05 09:33:00|[虎嗅](https://rss.huxiu.com/)|[路人愤怒、粉丝维护：五月天“假唱”风波惹恼了谁？](https://www.huxiu.com/article/2386320.html?f=rss)|
+|2023-12-05 09:25:00|[虎嗅](https://rss.huxiu.com/)|[贵州宵夜王者的“锅气”，预制菜永远复制不来](https://www.huxiu.com/article/2382546.html?f=rss)|
+|2023-12-05 09:21:00|[虎嗅](https://rss.huxiu.com/)|[人生40，从年薪百万到摆摊创业](https://www.huxiu.com/article/2385903.html?f=rss)|
+|2023-12-05 09:09:53|[虎嗅](https://rss.huxiu.com/)|[一条卖2.66万元，野生大黄鱼为何那么贵？](https://www.huxiu.com/article/2382532.html?f=rss)|
+|2023-12-05 08:56:00|[虎嗅](https://rss.huxiu.com/)|[故宫神兽中的谐音梗组合](https://www.huxiu.com/article/2385939.html?f=rss)|
+|2023-12-05 08:54:00|[虎嗅](https://rss.huxiu.com/)|[中餐全球化，应该从煎饼果子还是肉夹馍开始？](https://www.huxiu.com/article/2385943.html?f=rss)|
+|2023-12-05 08:30:00|[虎嗅](https://rss.huxiu.com/)|[蚌埠，在下一盘大棋](https://www.huxiu.com/article/2385912.html?f=rss)|
+|2023-12-05 08:20:09|[虎嗅](https://rss.huxiu.com/)|[为何OPEC减产无法提振油价？](https://www.huxiu.com/article/2385919.html?f=rss)|
+|2023-12-05 08:19:00|[虎嗅](https://rss.huxiu.com/)|[欧洲青年人，在震荡中迷失](https://www.huxiu.com/article/2322398.html?f=rss)|
+|2023-12-05 08:14:00|[虎嗅](https://rss.huxiu.com/)|[“卷王”经济学](https://www.huxiu.com/article/2385928.html?f=rss)|
+|2023-12-05 08:01:00|[虎嗅](https://rss.huxiu.com/)|[魅族21外观有多好看，内部就有多难用？](https://www.huxiu.com/article/2383477.html?f=rss)|
+|2023-12-05 08:00:00|[虎嗅](https://rss.huxiu.com/)|[为啥饭店总有卫生问题？](https://www.huxiu.com/article/2385315.html?f=rss)|
+|2023-12-05 07:55:00|[虎嗅](https://rss.huxiu.com/)|[城市破产了，怎么办？](https://www.huxiu.com/article/2385920.html?f=rss)|
+|2023-12-05 07:48:22|[虎嗅](https://rss.huxiu.com/)|[Transformer的霸主地位，要被掀翻了？](https://www.huxiu.com/article/2385351.html?f=rss)|
+|2023-12-05 07:46:00|[虎嗅](https://rss.huxiu.com/)|[“性爱修炼室”里，他们的困惑与痛苦](https://www.huxiu.com/article/2385878.html?f=rss)|
+|2023-12-05 07:40:50|[虎嗅](https://rss.huxiu.com/)|[预制菜“入侵“餐厅，你的胃被驯服了吗？](https://www.huxiu.com/article/2385045.html?f=rss)|
+|2023-12-05 07:40:00|[虎嗅](https://rss.huxiu.com/)|[Mate 60 Pro+工艺对比iPhone 15 Pro Max，谁落后了？](https://www.huxiu.com/article/2378542.html?f=rss)|
+|2023-12-05 07:25:35|[虎嗅](https://rss.huxiu.com/)|[巴拿马运河大梗阻，全球航运业大患](https://www.huxiu.com/article/2385889.html?f=rss)|
+|2023-12-05 07:19:52|[虎嗅](https://rss.huxiu.com/)|[东德人民为什么不快乐？](https://www.huxiu.com/article/2382106.html?f=rss)|
+|2023-12-05 07:16:34|[虎嗅](https://rss.huxiu.com/)|[马斯克炸几个火箭算啥，这才刚开始](https://www.huxiu.com/article/2385910.html?f=rss)|
+|2023-12-05 07:09:32|[虎嗅](https://rss.huxiu.com/)|[每天吃1根烤肠，身体会发生什么变化？](https://www.huxiu.com/article/2385890.html?f=rss)|
+|2023-12-05 07:01:00|[虎嗅](https://rss.huxiu.com/)|[这种半导体材料，至今短缺无解](https://www.huxiu.com/article/2384715.html?f=rss)|
+|2023-12-05 06:53:00|[虎嗅](https://rss.huxiu.com/)|[中科院发文：起底韩国室温超导假象](https://www.huxiu.com/article/2385051.html?f=rss)|
+|2023-12-05 06:48:49|[虎嗅](https://rss.huxiu.com/)|[开业3个月就关门：一批新中式茶馆开始倒闭](https://www.huxiu.com/article/2385412.html?f=rss)|
+|2023-12-05 06:38:00|[虎嗅](https://rss.huxiu.com/)|[挣扎在县城药店的年轻人：把良心切掉，换月入三千？](https://www.huxiu.com/article/2385383.html?f=rss)|
+|2023-12-05 06:33:54|[虎嗅](https://rss.huxiu.com/)|[你要说云南，就不能只说她的风花雪月](https://www.huxiu.com/article/2385325.html?f=rss)|
+|2023-12-05 06:25:08|[虎嗅](https://rss.huxiu.com/)|[乡村女性为何“沉迷”短视频？](https://www.huxiu.com/article/2385385.html?f=rss)|
+|2023-12-05 06:17:18|[虎嗅](https://rss.huxiu.com/)|[调查涉黄手办是“谈性色变”？别让个人情绪影响正常判断](https://www.huxiu.com/article/2384984.html?f=rss)|
+|2023-12-05 06:07:46|[虎嗅](https://rss.huxiu.com/)|[2023年政府引导基金专题研究报告](https://www.huxiu.com/article/2385006.html?f=rss)|
+|2023-12-05 06:03:00|[虎嗅](https://rss.huxiu.com/)|[五月天“假唱”风波背后：“技术流”乐评与华语乐坛假唱史](https://www.huxiu.com/article/2385338.html?f=rss)|
+|2023-12-05 05:39:36|[虎嗅](https://rss.huxiu.com/)|[24小时内收不到消息就自毁的网站，迎来了终结](https://www.huxiu.com/article/2382987.html?f=rss)|
+|2023-12-05 05:04:23|[虎嗅](https://rss.huxiu.com/)|[亮亮丽君夫妇值得同情吗？](https://www.huxiu.com/article/2385018.html?f=rss)|
+|2023-12-05 04:38:00|[虎嗅](https://rss.huxiu.com/)|[药明生物的“阳谋”](https://www.huxiu.com/article/2385004.html?f=rss)|
+|2023-12-05 04:30:00|[虎嗅](https://rss.huxiu.com/)|[“霸总”出手，追更上头，短剧为何又站上了风口？](https://www.huxiu.com/article/2384688.html?f=rss)|
+|2023-12-05 04:29:46|[虎嗅](https://rss.huxiu.com/)|[都说5.5G好，它何时才能走向现实？](https://www.huxiu.com/article/2378124.html?f=rss)|
+|2023-12-05 04:17:00|[虎嗅](https://rss.huxiu.com/)|[《拿破仑》不赚钱？苹果：打招牌比票房更重要](https://www.huxiu.com/article/2384648.html?f=rss)|
+|2023-12-05 04:15:00|[虎嗅](https://rss.huxiu.com/)|[小米14背叛性价比，却成了最好的小米？](https://www.huxiu.com/article/2382516.html?f=rss)|
+|2023-12-05 03:37:27|[虎嗅](https://rss.huxiu.com/)|[大脑植入电极，可有效改善脑损伤？](https://www.huxiu.com/article/2385016.html?f=rss)|
+|2023-12-05 03:30:01|[虎嗅](https://rss.huxiu.com/)|[长痘、过敏、毛孔粗，螨虫该背哪些锅？](https://www.huxiu.com/article/2382533.html?f=rss)|
+|2023-12-05 03:28:24|[虎嗅](https://rss.huxiu.com/)|[开通付费视频被举报，普通人能从抖音赚到钱吗？](https://www.huxiu.com/article/2384598.html?f=rss)|
+|2023-12-05 03:21:18|[虎嗅](https://rss.huxiu.com/)|[投资人，卷向自媒体](https://www.huxiu.com/article/2384708.html?f=rss)|
+|2023-12-05 03:16:13|[虎嗅](https://rss.huxiu.com/)|[印度股指创新高，有望八年连涨，市值逼近四万亿美元](https://www.huxiu.com/article/2385017.html?f=rss)|
+|2023-12-05 03:00:00|[虎嗅](https://rss.huxiu.com/)|[汽车关键零部件取得突破，电子手刹控制器实现国产化](https://www.huxiu.com/article/2381508.html?f=rss)|
+|2023-12-05 03:00:00|[虎嗅](https://rss.huxiu.com/)|[为什么家人就是不让玩游戏？](https://www.huxiu.com/article/2378780.html?f=rss)|
+|2023-12-05 02:57:01|[虎嗅](https://rss.huxiu.com/)|[KKV与V.V.V法庭对峙，“学习借鉴”的边界在哪里？](https://www.huxiu.com/article/2384602.html?f=rss)|
+|2023-12-05 02:56:26|[虎嗅](https://rss.huxiu.com/)|[中国住宅的未来：从“近亲繁殖”到“城市填充”](https://www.huxiu.com/article/2375410.html?f=rss)|
+|2023-12-05 02:48:08|[虎嗅](https://rss.huxiu.com/)|[芯片，全面复苏？](https://www.huxiu.com/article/2384685.html?f=rss)|
+|2023-12-05 02:46:58|[虎嗅](https://rss.huxiu.com/)|[黄渤+周迅，拍出今年争议最大的爆款](https://www.huxiu.com/article/2384608.html?f=rss)|
+|2023-12-05 02:40:20|[虎嗅](https://rss.huxiu.com/)|[超级猪，入侵美国](https://www.huxiu.com/article/2382992.html?f=rss)|
+|2023-12-05 02:35:00|[虎嗅](https://rss.huxiu.com/)|[2300年不腐古尸有何秘密，背后又挖出了什么案件？](https://www.huxiu.com/article/2381050.html?f=rss)|
+|2023-12-05 02:30:02|[虎嗅](https://rss.huxiu.com/)|[男生的乳腺，也是乳腺](https://www.huxiu.com/article/2384257.html?f=rss)|
+|2023-12-05 02:24:41|[虎嗅](https://rss.huxiu.com/)|[阿根廷对华要疏远？米莱：我承诺不等于我兑现](https://www.huxiu.com/article/2382510.html?f=rss)|
+|2023-12-05 02:23:06|[虎嗅](https://rss.huxiu.com/)|[查理·芒格爱看的10本书，你读过几本？](https://www.huxiu.com/article/2361500.html?f=rss)|
+|2023-12-05 02:18:39|[虎嗅](https://rss.huxiu.com/)|[私募乱象，何时终结？](https://www.huxiu.com/article/2382954.html?f=rss)|
+|2023-12-05 02:16:09|[虎嗅](https://rss.huxiu.com/)|[东航的飞机还敢不敢坐了？ 从MU721谈航空安全体系](https://www.huxiu.com/article/2383760.html?f=rss)|
+|2023-12-05 01:43:00|[虎嗅](https://rss.huxiu.com/)|[魅族AR目镜启动，魅族21与前代的差别竟然在这？](https://www.huxiu.com/article/2382951.html?f=rss)|
+|2023-12-05 01:40:10|[虎嗅](https://rss.huxiu.com/)|[我们到底需要多少大学？](https://www.huxiu.com/article/2383751.html?f=rss)|
+|2023-12-05 01:35:13|[虎嗅](https://rss.huxiu.com/)|[剧变后，OpenAI现在状况如何？](https://www.huxiu.com/article/2384278.html?f=rss)|
+|2023-12-05 01:31:00|[虎嗅](https://rss.huxiu.com/)|[卢旺达要发30万颗卫星，太空圈地背后的算计与乱象](https://www.huxiu.com/article/2384612.html?f=rss)|
+|2023-12-05 01:16:46|[虎嗅](https://rss.huxiu.com/)|[日本：房屋空置，城市枯萎，人口衰退，遥遥领先](https://www.huxiu.com/article/2382950.html?f=rss)|
+|2023-12-05 01:03:34|[虎嗅](https://rss.huxiu.com/)|[“五月天被质疑假唱”，为何这届网友反应那么大？](https://www.huxiu.com/article/2383748.html?f=rss)|
+|2023-12-05 00:58:58|[虎嗅](https://rss.huxiu.com/)|[王健林，债务压顶](https://www.huxiu.com/article/2383498.html?f=rss)|
+|2023-12-05 00:50:00|[虎嗅](https://rss.huxiu.com/)|[3000万民间借贷遭遇非法集资骗局，法院为何不支持投资者述求？](https://www.huxiu.com/article/2384258.html?f=rss)|
+|2023-12-05 00:22:14|[虎嗅](https://rss.huxiu.com/)|[聊聊信息与数字技术，对于现代经济的基础意义](https://www.huxiu.com/article/2384276.html?f=rss)|
+|2023-12-05 00:20:14|[虎嗅](https://rss.huxiu.com/)|[报名人数减少36万人，考研真的降温了吗？](https://www.huxiu.com/article/2384259.html?f=rss)|
 |2023-12-05 07:21:25|[小众软件](https://www.appinn.com/feed/)|[声笔条反 – Poto 开发的声笔部首条件反射练习软件，科学、快速帮你掌握声笔部首键位](https://www.appinn.com/singbitp-poto/)|
 |2023-12-05 04:01:42|[煎蛋](http://jandan.net/feed)|[男性和女性的大脑有区别吗？](http://jandan.net/p/114983)|
 |2023-12-05 03:10:00|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[搭載 M3/ M3 Pro/M3 Max 晶片的 MacBook Pro/iMac 台灣開賣](https://applefans.today/2023-12-m3-m3-pro-m3-max-macbook-pro-taiwan-announce/)|
