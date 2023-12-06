@@ -2,6 +2,24 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-06 02:11:22|[Tinyfool的个人网站](https://codechina.org/feed/)|[我的个人成长和技术学习历程](https://codechina.org/2023/12/tech-2/)|
+|2023-12-06 05:11:52|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[冒險遊戲 Stray 現在開放 Mac 電腦也可下載 遊玩](https://applefans.today/2023-12-stray-available-now-on-macos/)|
+|2023-12-06 04:21:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[升級至 iOS 17.2 iPhone 13/14 可享 Qi2 無線充電](https://applefans.today/2023-12-ios-17-2-qi-2/)|
+|2023-12-06 16:05:11|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大厂出海小记](https://36kr.com/p/2548731367037313)|
+|2023-12-06 16:05:11|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马斯克多次失手，OpenAI 异军突起，硅谷 AI 之战十年前已经打响](https://36kr.com/p/2547689525696133)|
+|2023-12-06 16:05:11|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为什么人类无法抗拒霸总、赘婿和战神？](https://36kr.com/p/2547890078374016)|
+|2023-12-06 16:05:11|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[酒店才是亚朵的副业](https://36kr.com/p/2547803799134085)|
+|2023-12-06 16:05:11|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一个月超3万个GPTs，深扒全球Top 50 GPTs，谁是民间GPT王者？](https://36kr.com/p/2548041566427527)|
+|2023-12-06 12:16:02|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[Let's Develop More Comfortable Tailwind Skills](https://javascript.plainenglish.io/lets-develop-more-comfortable-tailwind-skills-fd0246ca75dd?source=rss-c3917681a8f5------2)|
+|2023-12-06 20:13:35|[机核](https://www.gcores.com/rss)|[《博德之门3》被 GameSpot 评为 2023 年度游戏](https://www.gcores.com/articles/174748)|
+|2023-12-06 19:03:58|[机核](https://www.gcores.com/rss)|[《吸血鬼幸存者》联动《Among Us》全新DLC “紧急会议” 将于12月18日上线](https://www.gcores.com/articles/174746)|
+|2023-12-06 18:31:48|[机核](https://www.gcores.com/rss)|[《博德之门3》五号正式补丁上线，迄今为止功能最丰富的补丁](https://www.gcores.com/articles/174745)|
+|2023-12-06 17:43:51|[机核](https://www.gcores.com/rss)|[再创佳绩！《GTA 6》最新预告片连破三项吉尼斯世界纪录](https://www.gcores.com/articles/174744)|
+|2023-12-06 17:00:00|[机核](https://www.gcores.com/rss)|[《铃兰之剑》的双模式和“新世代”](https://www.gcores.com/articles/174736)|
+|2023-12-06 16:39:22|[机核](https://www.gcores.com/rss)|[亚瑟·摩根演员“确信”《荒野大镖客：救赎 3》必将在未来问世，但他可能不会参与其中](https://www.gcores.com/articles/174743)|
+|2023-12-06 15:43:57|[机核](https://www.gcores.com/rss)|[继承与发展：从罗德兰到克拉特](https://www.gcores.com/articles/174737)|
+|2023-12-06 17:11:11|[SHRIK3](https://shrik3.com/index.xml)|[Aarch64 exceptions](https://shrik3.com/tfm/aarch64/exceptions/)|
+|2023-12-06 17:07:36|[SHRIK3](https://shrik3.com/index.xml)|[Aarch64 translation fault](https://shrik3.com/tfm/aarch64/translation_fault/)|
 |2023-12-06 08:20:49|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[零食返场 ｜吃得停不下来的脆枣](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653446986&idx=2&sn=144d2f8539bdbca6cb5b20b8539d8d28)|
 |2023-12-06 08:20:48|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[又上小红书当了，还好，吃到两个巨赞的豆腐！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653446986&idx=1&sn=a2e0205bd0f5aae31aa10249a9bde3c9)|
 |2023-12-06 09:21:47|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[UTS四子星分布式项目方案](https://wiki-mkdocs-topaz.vercel.app/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/UTS/%E9%A1%B9%E7%9B%AE/%E5%9B%9B%E5%AD%90%E6%98%9F/UTS%E5%9B%9B%E5%AD%90%E6%98%9F%E5%88%86%E5%B8%83%E5%BC%8F%E9%A1%B9%E7%9B%AE%E6%96%B9%E6%A1%88/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
