@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-07 11:27:29|[华山感染](https://feedpress.me/wx-hsinfect)|[聚焦临床诊疗最新策略！感染病与肝病论坛菁华摘录](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247500839&idx=3&sn=8504593ab1fde9191674802794a6bd85)|
+|2023-12-07 11:27:29|[华山感染](https://feedpress.me/wx-hsinfect)|[推动临床研究成果转化！“感染性疾病临床研究及转化”会议纪实](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247500839&idx=2&sn=cebec57cdb0266a6917e20b6728ac05c)|
+|2023-12-07 11:27:28|[华山感染](https://feedpress.me/wx-hsinfect)|[2023年上海市医学会感染病分会年会暨中国研究型医院学会感染病学专业委员会学术年会在沪召开](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247500839&idx=1&sn=405cafb6e9117a1ffae46e6f272b5367)|
+|2023-12-07 10:17:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1208 LVFS 已为 Linux 用户提供超过 1 亿次固件更新](https://linux.cn/article-16450-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-07 09:41:26|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[富平柿饼回归，买吧。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447030&idx=1&sn=38a38793b8e0d5e422aa6c05c2955911)|
+|2023-12-07 05:49:01|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[怎样做多数据源的混合计算](https://w2solo.com/topics/4291)|
+|2023-12-07 01:51:53|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[想问下各位归因是怎么处理的](https://w2solo.com/topics/4290)|
+|2023-12-07 04:49:00|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[2024 Apple 新品 預測！M3 MacBook Air、iPad Pro、iPad Air](https://applefans.today/2023-12-m3-mba-ipad-air-ipad-pro-2024-refresh-rumors/)|
+|2023-12-07 04:03:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪晚报｜盒马获上海“政银保担“白名单推荐资格；苹果据悉寻求在印度生产iPhone 16电池；宁德时代将落户香港设国际总部](https://36kr.com/p/2549120595777664)|
+|2023-12-07 04:03:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[PowerOn独家｜英伟达强补智驾，吴新宙开始“救火行动”](https://36kr.com/p/2547355841188992)|
+|2023-12-07 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[估值6年涨1687倍，腾讯谷歌入股，自研大模型，深圳独角兽赴港IPO](https://36kr.com/p/2549177098084485)|
+|2023-12-07 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[C 罗被赵长鹏坑了](https://36kr.com/p/2549071010224514)|
+|2023-12-07 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发丨铺设10元餐食零售全场景，「味美优品」完成3000万元A轮融资](https://36kr.com/p/2547269677798280)|
+|2023-12-07 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[背水一战狙击GPT-4，谷歌Gemini终发布，听说读写全能选手 焦点分析](https://36kr.com/p/2549920778852745)|
+|2023-12-07 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨​王健林拟转让万达投资51%股权；良品铺子起诉赵一鸣零食；苹果在韩国被判向7名用户赔偿精神损失费](https://36kr.com/p/2549950059370631)|
+|2023-12-07 09:56:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 iMessage 未受商業用戶歡迎？不構成壟斷](https://www.iphonetaiwan.org/2023/12/eu-imessage-antitrust-report-apple.html)|
+|2023-12-07 09:38:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 17.2和watchOS 10.2讓Siri查詢血糖值成為可能](https://www.iphonetaiwan.org/2023/12/siri-health-data-access-ios-watchos.html)|
+|2023-12-07 09:14:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果宣布終結 iTunes 電影與電視節目應用程式](https://www.iphonetaiwan.org/2023/12/apple-tvos-17-2-itunes-update.html)|
+|2023-12-07 08:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone SE 4 預計採用 iPhone 14 高效電池技術](https://www.iphonetaiwan.org/2023/12/iphone-se-4-iphone-14-battery.html)|
 |2023-12-07 16:06:24|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Google Chrome 120.0.6099.71 浏览器绿色优化增强版](https://masuit.com/120)|
 |2023-12-07 08:14:29|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 你倾向于哪个 Linux 桌面发行版？](https://www.v2ex.com/t/998407#reply2)|
 |2023-12-07 08:11:44|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 V2 不让发表回复怎么破？](https://www.v2ex.com/t/998406#reply2)|
