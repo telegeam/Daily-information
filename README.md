@@ -1,7 +1,15 @@
-﻿# 每日资讯（2023-12-06）
+﻿# 每日资讯（2023-12-07）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-07 01:02:21|[虎嗅](https://rss.huxiu.com/)|[跌势惨烈：美国WTI原油价格跌破70大关](https://www.huxiu.com/article/2393389.html?f=rss)|
+|2023-12-07 00:47:47|[虎嗅](https://rss.huxiu.com/)|[真新闻女主播们怎么看《新闻女王》？](https://www.huxiu.com/article/2393367.html?f=rss)|
+|2023-12-07 00:41:43|[虎嗅](https://rss.huxiu.com/)|[2024年，世界经济会怎么样？](https://www.huxiu.com/article/2392203.html?f=rss)|
+|2023-12-07 00:30:00|[虎嗅](https://rss.huxiu.com/)|[真有人会喜欢加班吗？](https://www.huxiu.com/article/2387938.html?f=rss)|
+|2023-12-07 00:27:00|[虎嗅](https://rss.huxiu.com/)|[金价并未站稳历史高点，回调是“上车”机会？](https://www.huxiu.com/article/2392023.html?f=rss)|
+|2023-12-07 00:16:36|[虎嗅](https://rss.huxiu.com/)|[新能源汽车城之争，黑马上位](https://www.huxiu.com/article/2392039.html?f=rss)|
+|2023-12-07 00:08:00|[虎嗅](https://rss.huxiu.com/)|[谷歌大杀器终于来了，最大规模Gemini模型震撼发布](https://www.huxiu.com/article/2392868.html?f=rss)|
+|2023-12-07 01:05:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[jetbrains 2023.3 发布了](https://www.v2ex.com/t/998240#reply1)|
 |2023-12-06 02:11:22|[Tinyfool的个人网站](https://codechina.org/feed/)|[我的个人成长和技术学习历程](https://codechina.org/2023/12/tech-2/)|
 |2023-12-06 05:11:52|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[冒險遊戲 Stray 現在開放 Mac 電腦也可下載 遊玩](https://applefans.today/2023-12-stray-available-now-on-macos/)|
 |2023-12-06 04:21:41|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[升級至 iOS 17.2 iPhone 13/14 可享 Qi2 無線充電](https://applefans.today/2023-12-ios-17-2-qi-2/)|
