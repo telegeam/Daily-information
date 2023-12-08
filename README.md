@@ -1,7 +1,18 @@
-﻿# 每日资讯（2023-12-07）
+﻿# 每日资讯（2023-12-08）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-08 00:10:30|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)|
+|2023-12-08 01:07:35|[虎嗅](https://rss.huxiu.com/)|[教师负担“越减越肥”的怪圈能否打破？](https://www.huxiu.com/article/2396347.html?f=rss)|
+|2023-12-08 01:00:00|[虎嗅](https://rss.huxiu.com/)|[阿根廷为什么会破产？“国家破产”到底是什么？](https://www.huxiu.com/article/2394022.html?f=rss)|
+|2023-12-08 00:47:59|[虎嗅](https://rss.huxiu.com/)|[成于特斯拉，败于丰田：松下电池启示录](https://www.huxiu.com/article/2396052.html?f=rss)|
+|2023-12-08 00:46:54|[虎嗅](https://rss.huxiu.com/)|[宝龙地产突然违约，“坚持到现在已不容易”？](https://www.huxiu.com/article/2397443.html?f=rss)|
+|2023-12-08 00:40:00|[虎嗅](https://rss.huxiu.com/)|[一个视频，带你了解支原体肺炎](https://www.huxiu.com/article/2391102.html?f=rss)|
+|2023-12-08 00:24:52|[虎嗅](https://rss.huxiu.com/)|[“杭绍甬”联手，能否成为下一个“苏锡常”?](https://www.huxiu.com/article/2396342.html?f=rss)|
+|2023-12-08 00:22:53|[虎嗅](https://rss.huxiu.com/)|[腾讯VS字节：两代互联网霸主六年的攻守较量](https://www.huxiu.com/article/2396004.html?f=rss)|
+|2023-12-08 00:14:48|[虎嗅](https://rss.huxiu.com/)|[拆解谷歌Gemini ：能力可与GPT-4“掰手腕”，目前可免费使用](https://www.huxiu.com/article/2396349.html?f=rss)|
+|2023-12-08 00:10:00|[虎嗅](https://rss.huxiu.com/)|[中年人避免翻车的自我修养](https://www.huxiu.com/article/2396290.html?f=rss)|
+|2023-12-08 00:08:50|[虎嗅](https://rss.huxiu.com/)|[重仓股“买点太准”，引发基金经理被带走传言](https://www.huxiu.com/article/2397411.html?f=rss)|
 |2023-12-07 14:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[华尔街金融机构已在削减对华投资](https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E5%B7%B2%E5%89%8A%E5%87%8F%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84-014936a5)|
 |2023-12-07 02:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国寻求缓和对华关系之际，欧洲却变强硬](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%AF%BB%E6%B1%82%E7%BC%93%E5%92%8C%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%B3%BB%E4%B9%8B%E9%99%85-%E6%AC%A7%E6%B4%B2%E5%8D%B4%E5%8F%98%E5%BC%BA%E7%A1%AC-e2db5d28)|
 |2023-12-07 08:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[曾经势不可挡的阿里巴巴如今步履蹒跚](https://cn.wsj.com/articles/%E6%9B%BE%E7%BB%8F%E5%8A%BF%E4%B8%8D%E5%8F%AF%E6%8C%A1%E7%9A%84%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%A6%82%E4%BB%8A%E6%AD%A5%E5%B1%A5%E8%B9%92%E8%B7%9A-3229f07c)|
