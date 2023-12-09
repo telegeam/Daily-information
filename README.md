@@ -1,4 +1,4 @@
-﻿# 每日资讯（2023-12-08）
+﻿# 每日资讯（2023-12-09）
 
 |时间|来源|标题|
 |---|---|---|
@@ -106,6 +106,7 @@
 |2023-12-08 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[华为宣布明年将在全国 340 多个城市和主要公路部署超 10 万个全液冷超快充充电桩，透露哪些信息？](https://www.zhihu.com/question/633878463)|
 |2023-12-08 09:28:25|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[技术阅读周刊第9️⃣期](http://crossoverjie.top/2023/12/08/ob/newsletter/Newsletter09-20231208/)|
 |2023-12-08 13:04:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[碧桂园杨惠妍：家族“砸锅卖铁”支持公司，明年交付量预计超过40万套](https://dig.chouti.com/link/40859637)|
+|2023-12-09 08:00:57|[SEO 网站优化及网站推广](https://seo.g2soft.net/atom.xml)|[审计你的网页的各项指标 - 2023](https://seo.g2soft.net/2023/12/09/audit-website-2023.html)|
 |2023-12-08 02:16:00|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位大佬给推荐个手机吧](https://www.v2ex.com/t/998577#reply27)|
 |2023-12-08 09:39:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[CNI 的性能对比](https://www.v2ex.com/t/998773#reply7)|
 |2023-12-08 09:05:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1209 开机启动显示的徽标中可隐藏恶意代码](https://linux.cn/article-16452-1.html?utm_source=rss&utm_medium=rss)|
