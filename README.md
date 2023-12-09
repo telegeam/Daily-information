@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-09 12:20:41|[小众软件](https://www.appinn.com/feed/)|[白马地图 – 高德的地图、百度的导航，腾讯在旁边看，第三方地图导航应用 Android ](https://www.appinn.com/bm-maps/)|
+|2023-12-09 13:23:29|[触乐](http://www.chuapp.com/feed)|[TGA大奖，对中国厂商有什么启发？](http://www.chuapp.com/article/289680.html)|
+|2023-12-09 15:00:00|[机核](https://www.gcores.com/rss)|[游戏春晚 GadioNews12.09](https://www.gcores.com/radios/174533)|
+|2023-12-09 12:22:52|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[Advent of Code 2023: Day5](https://scottyeung.top/2023/advent-of-code-day-5/)|
+|2023-12-09 13:27:27|[Bensz](https://blognas.hwb0307.com/feed/)|[前沿快讯 第46期 应激颗粒堵塞并稳定受损的内溶酶体膜等](https://blognas.hwb0307.com/medicine/5668)|
+|2023-12-09 05:11:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果數位車牌革新！iPhone 個性駕駛由您主導](https://www.iphonetaiwan.org/2023/12/apple-car-digital-license-plate.html)|
+|2023-12-09 05:01:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 17.2驚喜功能：AirDrop快速共享登機證、電影票](https://www.iphonetaiwan.org/2023/12/ios-17-2-update-shared-passes.html)|
+|2023-12-09 04:49:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone碳足跡揭密：專利技術透視蘋果環保使命](https://www.iphonetaiwan.org/2023/12/blog-post_09.html)|
 |2023-12-09 04:01:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[游戏史上有什么令人遗憾的半成品游戏吗？](https://www.zhihu.com/question/65103231)|
 |2023-12-09 04:01:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《原神》4.3 版本「蔷薇与铳枪」前瞻特别节目？](https://www.zhihu.com/question/633958040)|
 |2023-12-09 07:41:08|[O3noBLOG](https://feeds.feedburner.com/othree)|[源氏香 南知多](https://blog.othree.net/log/2023/12/09/genji-koh/)|
