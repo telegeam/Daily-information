@@ -2,6 +2,38 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-10 14:32:07|[小众软件](https://www.appinn.com/feed/)|[折腾的快乐：双键盘的解决方案](https://www.appinn.com/the-joy-of-dual-keyboards/)|
+|2023-12-10 18:38:44|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 ToDesk 现在做大了 基本上不鸟用户需求了](https://www.v2ex.com/t/999230#reply1)|
+|2023-12-10 18:03:57|[V2EX](http://www.v2ex.com/index.xml)|[ VPS warp 解锁 chatgpt 出错](https://www.v2ex.com/t/999229#reply1)|
+|2023-12-10 17:55:14|[V2EX](http://www.v2ex.com/index.xml)|[ 硬件 装机配置单 请大佬们指点一下](https://www.v2ex.com/t/999228#reply1)|
+|2023-12-10 17:39:51|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有没有什么适合摸鱼的工作推荐？](https://www.v2ex.com/t/999226#reply3)|
+|2023-12-10 17:19:12|[V2EX](http://www.v2ex.com/index.xml)|[ Visual Studio Code vsce package 会卡住怎么办?](https://www.v2ex.com/t/999225#reply0)|
+|2023-12-10 17:17:43|[V2EX](http://www.v2ex.com/index.xml)|[ 加密货币 请教下有没有专门讨论币的论坛或者网站推荐的](https://www.v2ex.com/t/999223#reply0)|
+|2023-12-10 17:07:09|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 vscode 上的 gitlens 订阅后无法登录](https://www.v2ex.com/t/999222#reply0)|
+|2023-12-10 17:03:15|[V2EX](http://www.v2ex.com/index.xml)|[ 杭州 杭州 29 套餐 135G+100 分钟，浙江电信 100M 包年 360 元](https://www.v2ex.com/t/999221#reply2)|
+|2023-12-10 16:43:55|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 上海 米哈游 miHoYo 2023.12 最新招聘信息](https://www.v2ex.com/t/999220#reply0)|
+|2023-12-10 16:43:38|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 继续记录我畸形的情感经历。](https://www.v2ex.com/t/999219#reply10)|
+|2023-12-10 16:42:14|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 前端问题求解（最强 AI ChatGPT 无法解决的问题）](https://www.v2ex.com/t/999218#reply1)|
+|2023-12-10 16:38:57|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 网站运营问题](https://www.v2ex.com/t/999217#reply0)|
+|2023-12-10 16:33:58|[V2EX](http://www.v2ex.com/index.xml)|[ 奇思妙想 如何实时识别小朋友吃饭的时候，手是否扶着碗了？](https://www.v2ex.com/t/999216#reply3)|
+|2023-12-10 16:17:17|[V2EX](http://www.v2ex.com/index.xml)|[ SSD 长时间不通电的固态硬盘重新通电，主控会对已有数据进行刷新吗](https://www.v2ex.com/t/999215#reply4)|
+|2023-12-10 16:05:35|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 现在比较轻量的 bi 和 etl 是什么？](https://www.v2ex.com/t/999214#reply4)|
+|2023-12-10 16:00:58|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 关于菜单权限控制,我这个思路不知道行不行,大家讨论下](https://www.v2ex.com/t/999212#reply0)|
+|2023-12-10 15:41:39|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 支持类似 expect 自动交互功能的 ssh 客户端 trzsz-ssh tssh ](https://www.v2ex.com/t/999210#reply0)|
+|2023-12-10 15:37:40|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 怎么保证文件夹名字不含特殊字符和适配多语言？](https://www.v2ex.com/t/999209#reply5)|
+|2023-12-10 15:27:57|[V2EX](http://www.v2ex.com/index.xml)|[ Microsoft Azure Azure 的 content_filter 有点迷啊](https://www.v2ex.com/t/999208#reply2)|
+|2023-12-10 15:27:54|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 天猫超市招前端 急招 ](https://www.v2ex.com/t/999207#reply0)|
+|2023-12-10 15:24:31|[V2EX](http://www.v2ex.com/index.xml)|[ 算法 请教 生活中的算法题：密码尝试次数](https://www.v2ex.com/t/999206#reply14)|
+|2023-12-10 14:46:22|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 微信支付安全疑问](https://www.v2ex.com/t/999203#reply2)|
+|2023-12-10 14:25:26|[V2EX](http://www.v2ex.com/index.xml)|[ Android 2023 年有什么安卓手机原生就支持 Google 框架的吗](https://www.v2ex.com/t/999201#reply13)|
+|2023-12-10 14:20:55|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 耐克什么系列的鞋子轻便好穿？](https://www.v2ex.com/t/999200#reply5)|
+|2023-12-10 14:10:49|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 各位，最近查看光猫的 CPU 发现使用率很高，应当申请更换新光猫吗？](https://www.v2ex.com/t/999199#reply18)|
+|2023-12-10 14:09:55|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 手机哪个浏览器支持播放 mp3 时，会显示元数据的歌词？](https://www.v2ex.com/t/999198#reply0)|
+|2023-12-10 14:09:05|[V2EX](http://www.v2ex.com/index.xml)|[ iCloud iCloud Mail 正常吗?](https://www.v2ex.com/t/999197#reply1)|
+|2023-12-10 14:05:39|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 写了一个基于 Python 的快捷键启动工具](https://www.v2ex.com/t/999196#reply0)|
+|2023-12-10 14:02:23|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 自闭了兄弟们，貌似租房被坑了](https://www.v2ex.com/t/999195#reply12)|
+|2023-12-10 13:57:19|[V2EX](http://www.v2ex.com/index.xml)|[ 前端开发 帮忙看看这个页面用什么库实现的](https://www.v2ex.com/t/999194#reply0)|
+|2023-12-10 13:38:26|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问电视 3000 尼特亮度是什么概念，伤眼睛吗](https://www.v2ex.com/t/999193#reply10)|
 |2023-12-10 03:17:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[什么是这个时代的核心竞争力？](https://www.v2ex.com/t/999095#reply54)|
 |2023-12-10 16:05:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在比较轻量的 bi 和 etl 是什么？](https://www.v2ex.com/t/999214#reply1)|
 |2023-12-10 12:57:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Google play 商店无法下载淘宝 APP（安卓新手请教原生安卓下载 app 的姿势）](https://www.v2ex.com/t/999186#reply22)|
