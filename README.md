@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-10 03:17:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[什么是这个时代的核心竞争力？](https://www.v2ex.com/t/999095#reply54)|
+|2023-12-10 16:05:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在比较轻量的 bi 和 etl 是什么？](https://www.v2ex.com/t/999214#reply1)|
+|2023-12-10 12:57:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Google play 商店无法下载淘宝 APP（安卓新手请教原生安卓下载 app 的姿势）](https://www.v2ex.com/t/999186#reply22)|
+|2023-12-10 05:17:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 年为何我还在使用 RSS](https://www.v2ex.com/t/999116#reply21)|
+|2023-12-10 13:32:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有混 reddit 的？为什么我的帖子经常被 spam？](https://www.v2ex.com/t/999192#reply3)|
+|2023-12-10 11:22:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安卓上现在有什么好用的代理软件客户端吗？](https://www.v2ex.com/t/999178#reply16)|
+|2023-12-10 14:25:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 年有什么安卓手机原生就支持 Google 框架的吗](https://www.v2ex.com/t/999201#reply8)|
+|2023-12-10 13:05:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[自己写个全栈项目但感觉没啥意思](https://www.v2ex.com/t/999191#reply7)|
+|2023-12-10 12:40:30|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[给尊贵的饱记用户提供一些双十二薅羊毛思路。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447131&idx=1&sn=14f53002d0d599e0f9c8351ecdff9f8a)|
+|2023-12-10 12:02:36|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1211 Linus Torvalds 谈 Rust 和 AI 编程](https://linux.cn/article-16458-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-10 09:40:15|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 在 Fedora Linux 上值得尝试的酷炫 Flatpak 应用（12 月）](https://linux.cn/article-16457-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-10 09:02:16|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 Zorin OS 17 正在重新定义 Linux 发行版的视觉体验](https://linux.cn/article-16456-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-10 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 169 期（2023.12.11）](https://www.ftium4.com/ux-weekly-169.html)|
 |2023-12-10 03:17:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[什么是这个时代的核心竞争力？](https://www.v2ex.com/t/999095#reply36)|
 |2023-12-10 11:22:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[安卓上现在有什么好用的代理软件客户端吗？](https://www.v2ex.com/t/999178#reply7)|
 |2023-12-10 03:40:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ 吐槽 那种第三方登录之后再次绑定手机号的登录方式到底有何意义？](https://www.v2ex.com/t/999100#reply28)|
