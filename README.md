@@ -2,6 +2,90 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-10 03:31:24|[虎嗅](https://rss.huxiu.com/)|[IPO焦虑突然就来了](https://www.huxiu.com/article/2407938.html?f=rss)|
+|2023-12-10 03:13:00|[虎嗅](https://rss.huxiu.com/)|[日本海岸惊现大量死鱼，有居民直接拿回家吃？](https://www.huxiu.com/article/2405255.html?f=rss)|
+|2023-12-10 02:22:00|[虎嗅](https://rss.huxiu.com/)|[用乐高理财？超越比特币的硬通货](https://www.huxiu.com/article/2402890.html?f=rss)|
+|2023-12-10 02:16:00|[虎嗅](https://rss.huxiu.com/)|[全球最重要的两条运河同时“阻塞”，航运业慌了](https://www.huxiu.com/article/2407934.html?f=rss)|
+|2023-12-10 01:57:29|[虎嗅](https://rss.huxiu.com/)|[工作群，“逼疯”打工人](https://www.huxiu.com/article/2402887.html?f=rss)|
+|2023-12-10 01:45:00|[虎嗅](https://rss.huxiu.com/)|[贾跃亭造车忽悠3.0：这一次盯上了中东土豪的钱包？](https://www.huxiu.com/article/2405271.html?f=rss)|
+|2023-12-10 01:12:17|[虎嗅](https://rss.huxiu.com/)|[自驾去广西，看一条河分割两个世界](https://www.huxiu.com/article/2404356.html?f=rss)|
+|2023-12-10 00:57:03|[虎嗅](https://rss.huxiu.com/)|[教培老师生存报告：个体孤独，精神疲乏，价值失序](https://www.huxiu.com/article/2341115.html?f=rss)|
+|2023-12-10 00:42:42|[虎嗅](https://rss.huxiu.com/)|[人生漫漫，如何找到自己的稳定系统？](https://www.huxiu.com/article/2406537.html?f=rss)|
+|2023-12-10 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[去年跨年夜你和谁一起度过？23 年跨年夜你又将会和谁一起度过呢？](https://www.zhihu.com/question/634015560)|
+|2023-12-10 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[智能门锁突然没电了怎么办？哪款智能门锁的电池续航长，华为智能门锁值得入吗？](https://www.zhihu.com/question/634033601)|
+|2023-12-10 04:01:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季英超曼联 0:3 伯恩茅斯，如何评价这场比赛？](https://www.zhihu.com/question/634145255)|
+|2023-12-10 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年做游戏是怎样的体验？](https://www.zhihu.com/question/633377306)|
+|2023-12-10 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[文笔挑战，「秋水碧绿映深红，___________」你会怎么接下一句？](https://www.zhihu.com/question/634056990)|
+|2023-12-10 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[清朝人还记得明朝衣冠吗？](https://www.zhihu.com/question/620734514)|
+|2023-12-10 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[要不要在农村老家建房子？](https://www.zhihu.com/question/461139420)|
+|2023-12-10 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[能看看你手机里让你感触最深的照片吗?](https://www.zhihu.com/question/627955234)|
+|2023-12-10 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[数学系的就业出路有哪些？](https://www.zhihu.com/question/627183142)|
+|2023-12-10 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[研究称 ChatGPT 不善于辩论，而是盲目地跟从人类，这一行为意味着什么？会给人类造成什么影响？](https://www.zhihu.com/question/633939469)|
+|2023-12-10 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[普京计划在 2024 年竞选新一届总统，哪些信息值得关注？](https://www.zhihu.com/question/633961720)|
+|2023-12-10 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[父母的教育方式会对小孩有多大的影响？](https://www.zhihu.com/question/632638211)|
+|2023-12-10 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[张译主演的电影《三大队》改编自真实故事，到底是怎样一个故事？](https://www.zhihu.com/question/625299640)|
+|2023-12-10 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[比亚迪回应「买船出海」传闻「首批期租滚装船明年交付，公司确实在买船」，如何看待此事？哪些信息可关注？](https://www.zhihu.com/question/633910543)|
+|2023-12-10 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国否决安理会巴以停火决议草案，多国对此表示失望。如何看待此事？巴以局势未来将如何演变？](https://www.zhihu.com/question/634072880)|
+|2023-12-10 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么有人想让芙宁娜和散兵交换人生啊？](https://www.zhihu.com/question/631784723)|
+|2023-12-10 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[特斯拉 Cybertruck 车型是否适合中国市场，会被引进销售吗？](https://www.zhihu.com/question/633852217)|
+|2023-12-10 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[以中国足球目前的水平，到底是抓冲击世界杯重要还是抓梯队建设重要？](https://www.zhihu.com/question/631284775)|
+|2023-12-10 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年，你觉得自己最大的遗憾是什么？](https://www.zhihu.com/question/633907634)|
+|2023-12-10 04:01:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么单片机上的程序不怎么使用 malloc，而 PC 上经常使用？](https://www.zhihu.com/question/633497178)|
+|2023-12-10 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[玩摄影的最终都是玩定焦吗?](https://www.zhihu.com/question/323354326)|
+|2023-12-10 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在 2023 年，你还有哪本书没有读完？](https://www.zhihu.com/question/634181821)|
+|2023-12-10 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[电被发明以前，电鳗叫什么呢？](https://www.zhihu.com/question/602539991)|
+|2023-12-10 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[卧冰求鲤为什么不用火，冰变薄不怕掉水里吗？](https://www.zhihu.com/question/609352523)|
+|2023-12-10 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么超市黄瓜是直的，自己家种的是弯曲的？](https://www.zhihu.com/question/613590216)|
+|2023-12-10 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[公司想逼我主动离职，单独要求我写日报、周报汇报工作，怎么应对？](https://www.zhihu.com/question/633139062)|
+|2023-12-10 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么说玻璃是液体？](https://www.zhihu.com/question/265519460)|
+|2023-12-10 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[摩托车销量下滑，进口大牌从二十多万元跌到十二三万，有人 11 个月亏掉两年利润 ，年轻人的大玩具不好卖了？](https://www.zhihu.com/question/634057111)|
+|2023-12-10 04:01:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[同样是出自岛国，为什么英国菜在国际上要比日本菜受欢迎？](https://www.zhihu.com/question/633976111)|
+|2023-12-10 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[院方回应「男子 CT 报告单出现子宫检查结果」，称「他名字像女士，会惩处失误医生」，反映出哪些问题？](https://www.zhihu.com/question/633879783)|
+|2023-12-10 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[OpenAI 承认 GPT-4 变懒，称暂时无法修复，这意味着什么？为何会出现这一状况？](https://www.zhihu.com/question/634074112)|
+|2023-12-10 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季英超阿斯顿维拉 1:0 阿森纳，如何评价这场比赛？](https://www.zhihu.com/question/634162134)|
+|2023-12-10 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季德甲法兰克福 5:1 拜仁慕尼黑，如何评价这场比赛？](https://www.zhihu.com/question/634138724)|
+|2023-12-10 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[若宇宙大爆炸从来没发生过，那宇宙从何而来？](https://www.zhihu.com/question/633719594)|
+|2023-12-10 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《流浪地球 2》中，550w 这么快，为什么不用来解码全球核武器，而是要派人去手工引爆呢？](https://www.zhihu.com/question/597418932)|
+|2023-12-10 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么有人身处打压式家庭里还能自信起来?](https://www.zhihu.com/question/620407074)|
+|2023-12-10 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[蓝箭航天发布朱雀三号可重复使用液氧甲烷运载火箭，这对我国航天业意味着什么？](https://www.zhihu.com/question/634080827)|
+|2023-12-10 04:01:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国家疾控局发布预防呼吸道传染病公众佩戴口罩指引通知，哪些信息值得关注？具有哪些意义？](https://www.zhihu.com/question/634102806)|
+|2023-12-10 04:01:41|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[苹果人事巨震，iPhone 、 AppleWatch 产品设计主管将离职，公司最关键产品线或重组，有何影响？](https://www.zhihu.com/question/634062180)|
+|2023-12-10 04:00:00|[机核](https://www.gcores.com/rss)|[中年人的傻“哔——”状态！与重轻老师、麦教授的对谈](https://www.gcores.com/videos/154845)|
+|2023-12-10 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[适合的才是最好的，我的 EDC 好物分享](https://sspai.com/post/84762)|
+|2023-12-10 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[以 GRE 为例：如何背多背好英语单词](https://sspai.com/post/84835)|
+|2023-12-10 04:11:09|[V2EX](http://www.v2ex.com/index.xml)|[ Surge Surge Mac v5 License 还有两个车位， 12 月 7 日购入](https://www.v2ex.com/t/999110#reply0)|
+|2023-12-10 04:02:43|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 你都读哪几分互联网周刊](https://www.v2ex.com/t/999109#reply0)|
+|2023-12-10 04:01:57|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 离开了浪浪山，简直不要太爽。](https://www.v2ex.com/t/999108#reply0)|
+|2023-12-10 03:59:45|[V2EX](http://www.v2ex.com/index.xml)|[ 游戏 这里有没有 11 平台的人？](https://www.v2ex.com/t/999107#reply1)|
+|2023-12-10 03:49:36|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 求一个老人手机 2000 左右，信号好的](https://www.v2ex.com/t/999105#reply1)|
+|2023-12-10 03:48:52|[V2EX](http://www.v2ex.com/index.xml)|[ 摄影 2023 年了，有什么手机摄影 App 推荐的吗？](https://www.v2ex.com/t/999104#reply0)|
+|2023-12-10 03:46:04|[V2EX](http://www.v2ex.com/index.xml)|[ 阅读 有适合读书交流想法的地方吗？](https://www.v2ex.com/t/999103#reply2)|
+|2023-12-10 03:44:03|[V2EX](http://www.v2ex.com/index.xml)|[ Google Play Google pay 土耳其付款的问题。](https://www.v2ex.com/t/999102#reply8)|
+|2023-12-10 03:41:04|[V2EX](http://www.v2ex.com/index.xml)|[ Cloudflare 用户在国内，使用 Cloudflare 做 CDN，源站放在哪个地区国内访问最快呢？](https://www.v2ex.com/t/999101#reply4)|
+|2023-12-10 03:40:42|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 吐槽 那种第三方登录之后再次绑定手机号的登录方式到底有何意义？](https://www.v2ex.com/t/999100#reply5)|
+|2023-12-10 03:33:46|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 校招生选择 Offer！大家觉得应该如何选](https://www.v2ex.com/t/999099#reply0)|
+|2023-12-10 03:31:09|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 快被 IPV6 逼疯了](https://www.v2ex.com/t/999098#reply10)|
+|2023-12-10 03:28:23|[V2EX](http://www.v2ex.com/index.xml)|[ 游戏开发 求助 android 看广告掉线](https://www.v2ex.com/t/999097#reply0)|
+|2023-12-10 03:26:00|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 广东电信 100M 单宽带 360 元包年](https://www.v2ex.com/t/999096#reply3)|
+|2023-12-10 03:17:57|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 什么是这个时代的核心竞争力？](https://www.v2ex.com/t/999095#reply12)|
+|2023-12-10 03:13:00|[V2EX](http://www.v2ex.com/index.xml)|[ 健康 流感后咳嗽不停怎么办](https://www.v2ex.com/t/999093#reply5)|
+|2023-12-10 03:11:09|[V2EX](http://www.v2ex.com/index.xml)|[ 奇思妙想 时间维度中城市交通拥堵的可视化](https://www.v2ex.com/t/999092#reply3)|
+|2023-12-10 03:10:53|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有什么网页中的视频在线翻译字幕的工具吗？](https://www.v2ex.com/t/999091#reply0)|
+|2023-12-10 02:58:20|[V2EX](http://www.v2ex.com/index.xml)|[ macOS clash 总是搞乱 dns](https://www.v2ex.com/t/999090#reply11)|
+|2023-12-10 02:56:56|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 开发了一个免费的文生图网站，模型为 SDXL turbo](https://www.v2ex.com/t/999089#reply0)|
+|2023-12-10 02:52:43|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 各种输入框输入数字声音提示 bug](https://www.v2ex.com/t/999087#reply0)|
+|2023-12-10 02:49:16|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 耗时三年开发的 H5 商城，推荐给大家](https://www.v2ex.com/t/999086#reply1)|
+|2023-12-10 02:42:32|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 耗时三年开源的 H5 商城，强烈推荐](https://www.v2ex.com/t/999085#reply6)|
+|2023-12-10 01:58:58|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 我发现 MagSafe 出来这么久了，也没啥有趣的配件啊，翻来覆去就是电池/支架/指环扣？](https://www.v2ex.com/t/999080#reply11)|
+|2023-12-10 01:53:27|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Midjourney 设计出来的页面，有什么方法转成 PSD 和 figma 的文件吗或直接能出切图提供给前端使用？](https://www.v2ex.com/t/999078#reply3)|
+|2023-12-10 01:42:50|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 练手之作， 基于 WebRTC 的文件飞传工具](https://www.v2ex.com/t/999077#reply3)|
+|2023-12-10 01:41:18|[V2EX](http://www.v2ex.com/index.xml)|[ 云修电脑 Lenovo T460p 鼠标自己动咋回事](https://www.v2ex.com/t/999076#reply6)|
+|2023-12-10 01:23:45|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro 看到一个帖子 M1 pro 先给电脑充满电 再外部充电宝 供电 效率更高？](https://www.v2ex.com/t/999074#reply4)|
+|2023-12-10 01:15:00|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 简单免费的 spam 检测 API？](https://www.v2ex.com/t/999073#reply2)|
+|2023-12-10 01:13:08|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 玩过 stable diffusion 作图的大佬们，可以分享下你们的心得吗](https://www.v2ex.com/t/999072#reply4)|
+|2023-12-10 01:11:39|[V2EX](http://www.v2ex.com/index.xml)|[ 站长 个人网站遭受 ddos，报警有用吗](https://www.v2ex.com/t/999071#reply10)|
+|2023-12-10 01:03:38|[V2EX](http://www.v2ex.com/index.xml)|[ Android 小米 14 闲鱼上 300 秒解 bl 锁可信不？](https://www.v2ex.com/t/999070#reply27)|
+|2023-12-10 00:43:58|[V2EX](http://www.v2ex.com/index.xml)|[ 硬件 老手机黑莓 Passport 和 Palm one 还能怎么发挥余热?](https://www.v2ex.com/t/999068#reply5)|
 |2023-12-09 17:10:08|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[推荐自己开发的网页版扫雷游戏，手机交互友好](https://w2solo.com/topics/4297)|
 |2023-12-09 18:45:30|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro Mac CPU 偶尔会出现未知原因的高占用，求解？](https://www.v2ex.com/t/999062#reply0)|
 |2023-12-09 18:26:28|[V2EX](http://www.v2ex.com/index.xml)|[ iOS 往 SwiftData 的 context 里面塞东西的时候该怎么正确处理 relationship 的关系？](https://www.v2ex.com/t/999061#reply0)|
