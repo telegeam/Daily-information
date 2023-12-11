@@ -1,7 +1,18 @@
-﻿# 每日资讯（2023-12-10）
+﻿# 每日资讯（2023-12-11）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-11 01:09:37|[V2EX](http://www.v2ex.com/index.xml)|[ Android 有没有什么办法能关闭屏幕听 tiktok 的视频？](https://www.v2ex.com/t/999247#reply0)|
+|2023-12-11 01:08:21|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 自从升级了 Sonoma 14.1.2](https://www.v2ex.com/t/999246#reply0)|
+|2023-12-11 01:05:11|[V2EX](http://www.v2ex.com/index.xml)|[ 音乐 你们第一次是从哪里听到这首音乐的（之二）？](https://www.v2ex.com/t/999245#reply0)|
+|2023-12-11 01:03:23|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有没有查重图片相识度的软件？](https://www.v2ex.com/t/999244#reply2)|
+|2023-12-11 00:43:44|[V2EX](http://www.v2ex.com/index.xml)|[ 跑步 新手小白，有没有冬天跑步的装备推荐，坐标北京](https://www.v2ex.com/t/999238#reply2)|
+|2023-12-11 00:39:11|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有没有匿名临时文件分享的网盘](https://www.v2ex.com/t/999237#reply4)|
+|2023-12-11 00:19:40|[V2EX](http://www.v2ex.com/index.xml)|[ 汽车 差点真的买不到了](https://www.v2ex.com/t/999234#reply6)|
+|2023-12-11 00:11:51|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问服务器 522？](https://www.v2ex.com/t/999233#reply0)|
+|2023-12-11 00:21:45|[爱范儿](https://www.ifanr.com/feed)|[早报｜iPhone 产品设计负责人将离职/余承东称华为明年将推出颠覆性产品/小米汽车发布会定档？知情人士回应](https://www.ifanr.com/1570270?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-11 00:30:00|[Frank's Weblog](https://nyan.im/feed)|[Project Miata – Shifter Rebuild](https://nyan.im/p/miata-shifter-rebuild)|
+|2023-12-11 00:29:00|[Frank's Weblog](https://nyan.im/feed)|[Project Miata – 换挡杆维护](https://nyan.im/p/project-miata-shifter-rebuild-zh)|
 |2023-12-10 14:32:07|[小众软件](https://www.appinn.com/feed/)|[折腾的快乐：双键盘的解决方案](https://www.appinn.com/the-joy-of-dual-keyboards/)|
 |2023-12-10 18:38:44|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 ToDesk 现在做大了 基本上不鸟用户需求了](https://www.v2ex.com/t/999230#reply1)|
 |2023-12-10 18:03:57|[V2EX](http://www.v2ex.com/index.xml)|[ VPS warp 解锁 chatgpt 出错](https://www.v2ex.com/t/999229#reply1)|
