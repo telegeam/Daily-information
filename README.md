@@ -2,6 +2,23 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-11 05:08:25|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[2024 年 Apple 將推出一款大螢幕 12.9 吋 的 iPad Air](https://applefans.today/2023-12-12-9-ipad-air-rumors/)|
+|2023-12-11 12:17:18|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[JavaScript Objects: Do we really need to mock classes?](https://javascript.plainenglish.io/javascript-objects-do-we-really-need-to-mock-classes-82cfe9bc5bd3?source=rss-c3917681a8f5------2)|
+|2023-12-11 11:28:03|[白宦成](https://www.ixiqin.com/feed/)|[我喜欢的歌手](https://www.ixiqin.com/2023/12/11/my-favorite-singer/)|
+|2023-12-11 02:05:27|[13 報](https://ethanhuang13.substack.com/feed/)|[開發者週報 #212 Stray](https://www.ethanhuang13.com/p/212)|
+|2023-12-11 08:38:27|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[如何编写一个 Pulsar Broker Interceptor 插件](http://crossoverjie.top/2023/12/11/ob/Pulsar-Broker-Interceptor/)|
+|2023-12-11 08:10:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【阿里云的多事之秋】短短一个月里，阿里云出现了两次大规模故障，这在整个云计算行业中都是罕见的。实际上，近日阿里云还有另外两次小规模局部故障，一次在11月28日，12月5日也有一次异常，持续时间都很短，很快就被解决。](https://dig.chouti.com/link/40880745)|
+|2023-12-11 09:14:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[总算看见荧光海了！浙江花鸟岛的海滨生物集合](https://dig.chouti.com/link/40881268)|
+|2023-12-11 09:18:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【陈志朋疑似偷税漏税内幕】陈志朋这两年主要靠直播带货获得收入，“小帅豹”透露，在他任职期间帮陈志朋赚了2000万元人民币，据他估算，陈志朋的补税金额约1100万元人民币。](https://dig.chouti.com/link/40881309)|
+|2023-12-11 09:13:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国家抓饭地理](https://dig.chouti.com/link/40881253)|
+|2023-12-11 06:05:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[结婚彩礼能否返还？最高法：共同生活时间长短应是重要考量](https://dig.chouti.com/link/40879642)|
+|2023-12-11 04:31:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[拯救老字号：285岁“中华老字号”临江寺豆瓣再度停产，非遗传承人盼复产](https://dig.chouti.com/link/40878819)|
+|2023-12-11 16:07:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[华为、小米新车定档，是时候给车圈一点小震撼了......](https://36kr.com/p/2555064159328392)|
+|2023-12-11 16:07:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微软急了？Windows 12发布进程提速](https://36kr.com/p/2555801615278215)|
+|2023-12-11 16:07:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[平替来了，大牌死了？](https://36kr.com/p/2555772772227459)|
+|2023-12-11 16:07:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[在欧洲推出二手服装平台，SHEIN与ZARA再刚上｜焦点分析](https://36kr.com/p/2536115487303172)|
+|2023-12-11 16:07:18|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[美机构：立即停止使用C和C++](https://36kr.com/p/2555664187824516)|
+|2023-12-11 16:07:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一线城市房租跳水：年轻人躺了，房东急了](https://36kr.com/p/2555603781163395)|
 |2023-12-11 10:27:31|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1212 Go 程序员大多使用 Linux 或 MacOS](https://linux.cn/article-16461-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-11 08:21:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 PeerTube 发布第 6 版，获得比 YouTube 更好的功能](https://linux.cn/article-16460-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-11 08:03:52|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立产品灵感周刊 DecoHack #056 - 周刊品牌升级了](https://w2solo.com/topics/4301)|
