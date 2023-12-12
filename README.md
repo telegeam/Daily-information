@@ -1,4 +1,4 @@
-﻿# 每日资讯（2023-12-11）
+﻿# 每日资讯（2023-12-12）
 
 |时间|来源|标题|
 |---|---|---|
@@ -292,6 +292,7 @@
 |2023-12-11 02:06:10|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI Setapp: AI apps 可免费使用 GPT-4-Turbo-128k](https://www.v2ex.com/t/999269#reply3)|
 |2023-12-11 02:01:03|[V2EX](http://www.v2ex.com/index.xml)|[ iCloud iCloud 明明有剩余空间，为什么还提示空间不足？](https://www.v2ex.com/t/999268#reply12)|
 |2023-12-11 02:01:00|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI Google Gemini Pro 深度体验，离 GPT4 还有些差距](https://www.v2ex.com/t/999267#reply17)|
+|2023-12-12 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 49/2023](https://weekly.pychina.org/pyrecap/pyrw-2349.html)|
 |2023-12-11 01:09:37|[V2EX](http://www.v2ex.com/index.xml)|[ Android 有没有什么办法能关闭屏幕听 tiktok 的视频？](https://www.v2ex.com/t/999247#reply0)|
 |2023-12-11 01:08:21|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 自从升级了 Sonoma 14.1.2](https://www.v2ex.com/t/999246#reply0)|
 |2023-12-11 01:05:11|[V2EX](http://www.v2ex.com/index.xml)|[ 音乐 你们第一次是从哪里听到这首音乐的（之二）？](https://www.v2ex.com/t/999245#reply0)|
