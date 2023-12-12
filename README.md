@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-12 05:59:21|[Tinyfool的个人网站](https://codechina.org/feed/)|[突破成本思维的局限：不要让成本思维害了你，没有收益，谈降低成本也没有价值](https://codechina.org/2023/12/cost/)|
+|2023-12-12 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：为什么要参加游戏测试？](http://www.chuapp.com/article/289685.html)|
+|2023-12-12 12:00:00|[触乐](http://www.chuapp.com/feed)|[为梦起航：《Last Sentinel》与光子的新十年](http://www.chuapp.com/article/289683.html)|
+|2023-12-12 05:07:32|[竹林里有冰的博客](https://zhul.in/rss.xml)|[【翻译】使用 PHP 构建简单的 REST API](https://zhul.in/2023/12/12/php-simple-rest-api/)|
 |2023-12-12 07:12:33|[煎蛋](http://jandan.net/feed)|[电碗：使用这种碗盛食物，不放盐也有咸味](http://jandan.net/p/115049)|
 |2023-12-12 06:24:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[人生就是一个不断破圈的过程](https://www.v2ex.com/t/999690#reply29)|
 |2023-12-12 03:47:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[你们电视会买电视会员吗？](https://www.v2ex.com/t/999643#reply45)|
