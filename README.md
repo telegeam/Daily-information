@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-12 08:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国公司发现与“中国制造”脱钩并非易事](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%8F%91%E7%8E%B0%E4%B8%8E-%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0-%E8%84%B1%E9%92%A9%E5%B9%B6%E9%9D%9E%E6%98%93%E4%BA%8B-dd542a21)|
+|2023-12-12 09:52:24|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[双十二最后6小时，我出道了。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447177&idx=1&sn=f92278ff5c0fadc3113d2761e988a154)|
+|2023-12-12 08:05:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【子女入学，靠家长献血积分？】除了武义县，多个地方在制定新市民积分管理办法时，都做出了类似的规定。](https://dig.chouti.com/link/40889925)|
+|2023-12-12 16:08:15|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[TikTok电商重返印尼，但更重要的战场已出现 焦点分析](https://36kr.com/p/2556231256496256)|
+|2023-12-12 16:08:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马云“坐不住”了，刘强东也“急”了](https://36kr.com/p/2557107853320066)|
+|2023-12-12 16:08:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一碗30元，网红面馆卖不动了](https://36kr.com/p/2557229244078721)|
+|2023-12-12 16:08:14|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI招聘平台「HelloBoss」获数百万美元Pre-A轮融资，BOSS直聘前首席科学家薛延波加入｜36氪首发](https://36kr.com/p/2555998190491780)|
+|2023-12-12 04:03:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米汽车回应12月28日发布，展车进门店，全国招销售](https://36kr.com/p/2555944797116553)|
+|2023-12-12 04:03:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[王健林不下牌桌](https://36kr.com/p/2556929935006601)|
+|2023-12-12 04:03:17|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[iPad的产品线，是时候改变了](https://36kr.com/p/2556385967595650)|
+|2023-12-12 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2023年底，一些商业观点的转变](https://36kr.com/p/2556227281967490)|
+|2023-12-12 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2023，没有一个打工人逃得过AI](https://36kr.com/p/2556198864492673)|
+|2023-12-12 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨律师称杨丞琳演唱会机构或被罚款；李斌否认蔚来与合肥对赌1200亿；苹果计划2024年彻底改革iPad产品线](https://36kr.com/p/2557015822588546)|
+|2023-12-12 04:03:16|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大模型「混乱期」：谨慎如腾讯，激进如字节](https://36kr.com/p/2555801625319560)|
 |2023-12-12 15:59:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[下一部买什么？ iPhone 还是 一加 or 其他，比如 vivo？](https://www.v2ex.com/t/999856#reply5)|
 |2023-12-12 15:59:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 开发招聘](https://www.v2ex.com/t/999857#reply0)|
 |2023-12-12 15:42:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[学习新东西总是遗忘怎么办呢？面试时候又耗费大量时间准备](https://www.v2ex.com/t/999853#reply1)|
