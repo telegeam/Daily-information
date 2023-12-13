@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-13 11:33:52|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[在Rust中处理整数溢出](https://jasonkayzk.github.io/2023/12/13/%E5%9C%A8Rust%E4%B8%AD%E5%A4%84%E7%90%86%E6%95%B4%E6%95%B0%E6%BA%A2%E5%87%BA/)|
+|2023-12-13 00:46:29|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[Rust中的向下转型](https://jasonkayzk.github.io/2023/12/13/Rust%E4%B8%AD%E7%9A%84%E5%90%91%E4%B8%8B%E8%BD%AC%E5%9E%8B/)|
+|2023-12-13 08:13:13|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[什么样的富人社区，才养得起这种面馆？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447228&idx=1&sn=3aadde3a9e4052458334c32d72d6cce4)|
+|2023-12-13 10:50:00|[爱范儿](https://www.ifanr.com/feed)|[特斯拉人形机器人二代来了！手捏鸡蛋，深蹲蹦迪，更像真人了](https://www.ifanr.com/1570428?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-13 07:04:39|[爱范儿](https://www.ifanr.com/feed)|[库克都帮忙宣发的新歌，背后有什么魔力？](https://www.ifanr.com/1570406?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-13 03:39:22|[爱范儿](https://www.ifanr.com/feed)|[华为余承东怒怼懂车帝，「坑人」的冬测有什么猫腻？](https://www.ifanr.com/1570383?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-13 00:36:40|[爱范儿](https://www.ifanr.com/feed)|[早报｜小米指责余承东抹黑同行误导公众/苹果 Vision Pro 可年产 100 万台/微信短剧小程序开始收取保证金](https://www.ifanr.com/1570397?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-13 09:31:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[𝑂𝑝𝑒𝑛𝐴𝐼 𝐴𝑃𝐼 𝑃𝑟𝑜𝑥y 愚公代理](https://w2solo.com/topics/4308)|
 |2023-12-13 03:32:52|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[开源工具站，演示：https://tools.ranblogs.com/](https://w2solo.com/topics/4307)|
 |2023-12-13 03:30:10|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[如何用手机免费制作一张漂亮的电子贺卡？](https://w2solo.com/topics/4306)|
 |2023-12-13 03:16:19|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我是怎么解决 tiktok 直播时的网络问题](https://w2solo.com/topics/4305)|
