@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-12-12）
+﻿# 每日资讯（2023-12-13）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-13 00:54:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有适合个人开发者的数据库推荐](https://www.v2ex.com/t/999887#reply7)|
 |2023-12-12 08:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国公司发现与“中国制造”脱钩并非易事](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%8F%91%E7%8E%B0%E4%B8%8E-%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0-%E8%84%B1%E9%92%A9%E5%B9%B6%E9%9D%9E%E6%98%93%E4%BA%8B-dd542a21)|
 |2023-12-12 09:52:24|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[双十二最后6小时，我出道了。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447177&idx=1&sn=f92278ff5c0fadc3113d2761e988a154)|
 |2023-12-12 08:05:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【子女入学，靠家长献血积分？】除了武义县，多个地方在制定新市民积分管理办法时，都做出了类似的规定。](https://dig.chouti.com/link/40889925)|
