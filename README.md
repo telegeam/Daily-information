@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-14 09:34:27|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[欲尝海上鲜，莫惜腰间钱。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447263&idx=1&sn=4cd931d4f11421d0f2636cc297632a75)|
+|2023-12-14 15:23:54|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[系统运维 Linux 用户的 7 个 sudo 技巧和改进](https://linux.cn/article-16472-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-14 16:05:00|[虎嗅](https://rss.huxiu.com/)|[历史学者段志强：去崇明乡野，过具体微小的日子](https://www.huxiu.com/article/2421041.html?f=rss)|
+|2023-12-14 12:08:09|[晚点LatePost](https://feedpress.me/wx-postlate)|[见面会丨「晚点聊 LateTalk」两周年，不定期更新 50 期后的第一次线下相遇](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247510492&idx=2&sn=71f6431c7a33843a2a57fdc855ceab6c)|
+|2023-12-14 12:08:08|[晚点LatePost](https://feedpress.me/wx-postlate)|[拆解腾讯游戏魔方工作室群：聚光灯外的突围](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247510492&idx=1&sn=4da46df19f67148c218a6608b0d3546c)|
+|2023-12-14 14:04:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《蜘蛛夫人》二代蜘蛛女演员在片场被蜘蛛咬伤](https://dig.chouti.com/link/40911948)|
+|2023-12-14 23:15:00|[plus studio](https://studyinglover.com/atom.xml)|[google gemini api使用](https://studyinglover.com/2023/12/14/google%20gemini%20api%E4%BD%BF%E7%94%A8/)|
+|2023-12-14 22:40:00|[plus studio](https://studyinglover.com/atom.xml)|[google gemini api申请](https://studyinglover.com/2023/12/14/google%20gemini%20api%E7%94%B3%E8%AF%B7/)|
+|2023-12-14 09:43:54|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[小心，知识正走向阶层固化](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892587&idx=1&sn=156e6b38a220475410c47cc68af1da4f)|
 |2023-12-14 07:22:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Joplin 和 Obsidian 作为笔记软件哪个更好](https://www.v2ex.com/t/1000378#reply59)|
 |2023-12-14 13:03:43|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[直连 cloudflare pages 被劫持到黄网 持续时间 17 点 45 到 20 点 49 ](https://www.v2ex.com/t/1000483#reply4)|
 |2023-12-14 05:21:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[感觉 C# 在蚕食 Python 的生态](https://www.v2ex.com/t/1000331#reply68)|
