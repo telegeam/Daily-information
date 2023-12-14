@@ -2,6 +2,74 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-14 05:28:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在哈尔滨待了两周，去了游客不去的地方，发现很多有趣小细节](https://dig.chouti.com/link/40907655)|
+|2023-12-14 06:04:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[俞敏洪向董宇辉致歉：官微小编做法缺乏职业精神，公司管理有很大漏洞](https://dig.chouti.com/link/40907758)|
+|2023-12-14 04:40:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从缅北高地买来的新娘：一个女人逃离的一生](https://dig.chouti.com/link/40907284)|
+|2023-12-14 05:04:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[对美国教育体系不满，马斯克打算自己办学校，已捐1亿美元](https://dig.chouti.com/link/40907356)|
+|2023-12-14 03:36:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[香烟改成“蟑螂”，漫画读者快被保护得小脑萎缩了](https://dig.chouti.com/link/40906600)|
+|2023-12-14 03:45:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从周一围“被洗白”说起：“内疚粉”是如何产生的​？](https://dig.chouti.com/link/40906676)|
+|2023-12-14 04:06:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我在上海地铁上遇到的书和人](https://dig.chouti.com/link/40907034)|
+|2023-12-14 01:05:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[房产中介改卖手打柠檬茶：提前消费成习惯 卖LV皮带还债](https://dig.chouti.com/link/40905253)|
+|2023-12-14 04:33:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【制造币安：极致效率与简陋工具】现在这家全球最大的分布式公司，7-8千名员工几乎全靠线上交流办公。他们是如何做到的？](https://dig.chouti.com/link/40907221)|
+|2023-12-14 04:05:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[104岁著名演员苏菲逝世，系红军卫生部顾问马海德的夫人](https://dig.chouti.com/link/40906912)|
+|2023-12-14 04:06:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《沙丘2》宣布确认引进中国内地，档期未定，北美此前定档2024年3月1日](https://dig.chouti.com/link/40907123)|
+|2023-12-14 04:08:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【《恋恋红尘》这工业糖精，真的恶心到我了】说实话，与其翻来覆去还在这研究糖精的千层套路。不如大家把视野再放开阔一点。除了谈恋爱，还有很多事情可以做的，可以拍的。别因为偷懒，就给大家抬上如此歹毒的东西吧...](https://dig.chouti.com/link/40907127)|
+|2023-12-14 02:04:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[NBA官方无限期禁赛勇士队球员“追梦”格林，本赛季已多次恶意犯规](https://dig.chouti.com/link/40905575)|
+|2023-12-14 02:05:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[12月13日港股收盘，网易市值5425亿港元，反超美团的5133亿，成为中国市值第四的互联网公司，前三依次为腾讯、拼多多和阿里巴巴](https://dig.chouti.com/link/40905654)|
+|2023-12-14 00:05:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【学霸猫星球，投机情绪价值】在前星友赵子岚的了解中，学霸猫本人并不购入超过她财力外的物品。她富裕的钱不是“扩张”消费得来的，而是她卖课、开社群得来的，她自己没有提前消费，却会鼓励星友大额消费。](https://dig.chouti.com/link/40904912)|
+|2023-12-14 07:20:09|[V2EX](http://www.v2ex.com/index.xml)|[ CDN 国内一欠费就会停机的 CDN](https://www.v2ex.com/t/1000377#reply0)|
+|2023-12-14 07:19:23|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 预算 2w 想组装台电脑玩游戏，分体水冷，有大佬能给个配置单吗](https://www.v2ex.com/t/1000376#reply0)|
+|2023-12-14 07:17:57|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 刚才在开源中国发帖吐槽 gitee 刷星，直接被删帖，哈哈哈哈](https://www.v2ex.com/t/1000375#reply0)|
+|2023-12-14 07:12:11|[V2EX](http://www.v2ex.com/index.xml)|[ 视频技术 我街拍录制视频的时候，右下角有个地图，随时告诉观众我在哪里，这个需求有办法实现吗？](https://www.v2ex.com/t/1000374#reply0)|
+|2023-12-14 07:11:49|[V2EX](http://www.v2ex.com/index.xml)|[ Android Android 开发 推荐一个专属 Android 端 AOP 切面框架，没有 AspectJ，只需一个注解就可以请求权限、切换线程、禁止多点、监测生命周期等等，甚至可以切入三方库](https://www.v2ex.com/t/1000373#reply0)|
+|2023-12-14 07:09:04|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 未来会不会出现一种专门针对高制程 cpu 的手机病毒 or 木马？](https://www.v2ex.com/t/1000372#reply3)|
+|2023-12-14 07:03:55|[V2EX](http://www.v2ex.com/index.xml)|[ Python Flask 取得的 API 消耗时间不准确](https://www.v2ex.com/t/1000371#reply0)|
+|2023-12-14 06:59:49|[V2EX](http://www.v2ex.com/index.xml)|[ 编程 这种嵌套的继承关系该如何实现?](https://www.v2ex.com/t/1000369#reply0)|
+|2023-12-14 06:59:38|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 求推荐流量卡，要求： 19 元月租 + 能用一年 + 不给第三方个人信息](https://www.v2ex.com/t/1000368#reply1)|
+|2023-12-14 06:59:37|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 人手一个的学习网站](https://www.v2ex.com/t/1000367#reply0)|
+|2023-12-14 06:54:45|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 是否应该辞职？不成熟的想法恳请前辈们指点](https://www.v2ex.com/t/1000366#reply3)|
+|2023-12-14 06:51:53|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 家里电信移动千兆各一条， TP5480 一个，怎么最大化网络资源](https://www.v2ex.com/t/1000364#reply0)|
+|2023-12-14 06:48:14|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 chrome 标签字体发虚](https://www.v2ex.com/t/1000363#reply1)|
+|2023-12-14 06:46:04|[V2EX](http://www.v2ex.com/index.xml)|[ 投资 我来宣传下自己的公众号](https://www.v2ex.com/t/1000362#reply0)|
+|2023-12-14 06:43:07|[V2EX](http://www.v2ex.com/index.xml)|[ Chrome chrome 怎么禁用更新？这两年的更新，我没看到有任何对我有帮助的功能。](https://www.v2ex.com/t/1000361#reply2)|
+|2023-12-14 06:37:27|[V2EX](http://www.v2ex.com/index.xml)|[ 服务器 独立应用开发，阿里云的 sae 会比直接购买 ecs 划算吗](https://www.v2ex.com/t/1000360#reply4)|
+|2023-12-14 06:31:37|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Google 地图边界覆盖范围 行政区划 的数据有办法拿到吗？](https://www.v2ex.com/t/1000359#reply0)|
+|2023-12-14 06:31:09|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 pnpm install 提示网络问题（error ETIMEDOUT . Will retry in 10 seconds. 2 retries left.），有人遇到过吗？](https://www.v2ex.com/t/1000358#reply0)|
+|2023-12-14 06:29:43|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 安卓换苹果手机，想找两个平替的功能，有解决方案没 ？](https://www.v2ex.com/t/1000357#reply1)|
+|2023-12-14 06:28:44|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 安卓与 PC/Mac 互传文件有啥方便路子，求安利](https://www.v2ex.com/t/1000356#reply6)|
+|2023-12-14 06:24:44|[V2EX](http://www.v2ex.com/index.xml)|[ Node.js fastify/jwt 怎么方便的对路由加上认真](https://www.v2ex.com/t/1000354#reply0)|
+|2023-12-14 06:21:58|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 收到华为云合作伙伴的关联短信](https://www.v2ex.com/t/1000352#reply0)|
+|2023-12-14 06:21:14|[V2EX](http://www.v2ex.com/index.xml)|[ NAS 求教移动硬盘自动转移数据的方案](https://www.v2ex.com/t/1000351#reply5)|
+|2023-12-14 06:19:25|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 室内设计软件那家强](https://www.v2ex.com/t/1000350#reply1)|
+|2023-12-14 06:19:21|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 关于谈一个医护行业的女朋友](https://www.v2ex.com/t/1000349#reply21)|
+|2023-12-14 06:18:17|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 为什么申请软著时掏钱找代理就能加速，不都是要到官方申请么，官方有加速服务？](https://www.v2ex.com/t/1000348#reply6)|
+|2023-12-14 06:02:10|[V2EX](http://www.v2ex.com/index.xml)|[ macOS MacBook 应用图标全部从文件夹蹦出来了](https://www.v2ex.com/t/1000346#reply5)|
+|2023-12-14 06:01:38|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 求哥哥们给推荐个显示器](https://www.v2ex.com/t/1000345#reply1)|
+|2023-12-14 05:54:09|[V2EX](http://www.v2ex.com/index.xml)|[ Edge Edge 扩展栏、书签栏的图标间距能调小吗？地址栏“大声朗读”按钮能关闭吗？](https://www.v2ex.com/t/1000343#reply0)|
+|2023-12-14 05:52:44|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 虚拟服装试穿](https://www.v2ex.com/t/1000342#reply0)|
+|2023-12-14 05:52:18|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 福州宽度有什么推荐](https://www.v2ex.com/t/1000341#reply1)|
+|2023-12-14 05:50:07|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 家里老人热衷于“听课”该怎么办呢](https://www.v2ex.com/t/1000340#reply9)|
+|2023-12-14 05:43:44|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI gemini 测试](https://www.v2ex.com/t/1000338#reply0)|
+|2023-12-14 05:43:28|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 Base 东京 急需招聘 servicenow/salesforce/c++/ Java 技术方向的有经验大佬，有考虑转职的快来找我！](https://www.v2ex.com/t/1000337#reply0)|
+|2023-12-14 05:42:55|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 好奇周边年入百万的人都在做什么工作](https://www.v2ex.com/t/1000336#reply11)|
+|2023-12-14 05:38:38|[V2EX](http://www.v2ex.com/index.xml)|[ Java 曾经我以为 Java21 的虚拟线程是银弹...](https://www.v2ex.com/t/1000335#reply8)|
+|2023-12-14 05:30:06|[V2EX](http://www.v2ex.com/index.xml)|[ 健康 有人注意过自己的身体状态吗？三十岁，最近痛风了？](https://www.v2ex.com/t/1000334#reply41)|
+|2023-12-14 05:28:00|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Google 相册无法压缩微单照片](https://www.v2ex.com/t/1000333#reply0)|
+|2023-12-14 05:25:29|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 简单分享一下 Warp 终端 blocks feature（分块）的实现原理](https://www.v2ex.com/t/1000332#reply3)|
+|2023-12-14 05:21:49|[V2EX](http://www.v2ex.com/index.xml)|[ Python 感觉 C# 在蚕食 Python 的生态](https://www.v2ex.com/t/1000331#reply20)|
+|2023-12-14 05:08:37|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 分享个刚发布的纯粹跑在浏览器里的 MMORPG，画面相当可以！](https://www.v2ex.com/t/1000328#reply0)|
+|2023-12-14 05:05:31|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 有没有人知道 https://trow.cc/ 上面的这个图片效果是怎么做出来的，或者有没有什么参考](https://www.v2ex.com/t/1000327#reply2)|
+|2023-12-14 05:03:12|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 Delta Chat 推出 Chatmail - 面向所有人的可复制、快速和安全的聊天基础设施](https://www.v2ex.com/t/1000326#reply0)|
+|2023-12-14 05:02:04|[V2EX](http://www.v2ex.com/index.xml)|[ macOS 关于用向日葵远程控制 MAC 端控制 WIN11 端会出现的各种问题](https://www.v2ex.com/t/1000325#reply7)|
+|2023-12-14 04:56:04|[V2EX](http://www.v2ex.com/index.xml)|[ 路由器 搞来搞去，还是发现硬路由稳定](https://www.v2ex.com/t/1000324#reply13)|
+|2023-12-14 04:51:56|[V2EX](http://www.v2ex.com/index.xml)|[ Java 部署在 Linux 的 web 应用和 windows 域账号集成的单点登录实现](https://www.v2ex.com/t/1000323#reply0)|
+|2023-12-14 04:44:29|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 分享你的 Action button 主要用途和用法呀](https://www.v2ex.com/t/1000322#reply2)|
+|2023-12-14 04:44:14|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 chrome 多个窗口怎么设置默认打开窗口](https://www.v2ex.com/t/1000321#reply0)|
+|2023-12-14 04:40:30|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 踢出共享家庭的 member 依然可以从 owner 绑定的支付方式扣款](https://www.v2ex.com/t/1000320#reply0)|
+|2023-12-14 04:37:43|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 Devv AI 是如何构建高效的 RAG 系统的](https://www.v2ex.com/t/1000319#reply4)|
+|2023-12-14 07:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[拜登、习近平接连到访，为何人人都想拉拢越南？](https://cn.wsj.com/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8B%9C%E7%99%BB%E7%BA%B7%E7%BA%B7%E5%88%B0%E8%AE%BF-%E4%B8%BA%E4%BD%95%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%83%B3%E6%88%90%E4%B8%BA%E8%B6%8A%E5%8D%97%E7%9A%84%E6%9C%8B%E5%8F%8B-a61dd8c6)|
+|2023-12-14 03:45:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[台湾外长将在大选后卸任，自称这可能是世界上最难当的外交部长](https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E5%90%B4%E9%92%8A%E7%87%AE%E5%B0%86%E5%9C%A8%E6%9C%AA%E6%9D%A5%E5%87%A0%E4%B8%AA%E6%9C%88%E5%8D%B8%E4%BB%BB-e8c89257)|
+|2023-12-14 07:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国领导人誓言加大对疲弱经济的支持力度](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%AA%93%E8%A8%80%E5%8A%A0%E5%A4%A7%E5%AF%B9%E7%96%B2%E5%BC%B1%E7%BB%8F%E6%B5%8E%E7%9A%84%E6%94%AF%E6%8C%81%E5%8A%9B%E5%BA%A6-457fb877)|
 |2023-12-14 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国 11 月社会融资规模增量 2.45 万亿元，比上年同期多 4556 亿元，哪些信息值得关注？](https://www.zhihu.com/question/634668669)|
 |2023-12-14 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[职场上哪些行为会凸显自己的工作能力？](https://www.zhihu.com/question/487011364)|
 |2023-12-14 04:01:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[市面上五花八门的颗粒板、生态板以及多层板，普通人在定制家居时到底该如何选材？](https://www.zhihu.com/question/631483326)|
