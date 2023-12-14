@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-14 01:08:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 Jami：一款多功能开源分布式通讯应用](https://linux.cn/article-16471-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-14 00:34:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1215 1/4 的 Java 应用程序仍受 Log4Shell 影响](https://linux.cn/article-16470-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-14 00:46:09|[爱范儿](https://www.ifanr.com/feed)|[早报｜iPhone 16 或调整相机岛设计/消息称字节跳动计划取消 PICO 5/联想回应总部 LOGO 被涂鸦成华为](https://www.ifanr.com/1570467?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-14 11:51:00|[RSS feed of superl...](https://raw.githubusercontent.com/superleeyom/blog/master/feed.xml)|[Postman如何配置动态端口和IP](https://github.com/superleeyom/blog/issues/56)|
 |2023-12-14 05:21:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[感觉 C# 在蚕食 Python 的生态](https://www.v2ex.com/t/1000331#reply33)|
 |2023-12-14 07:25:11|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最近经常上热搜的董宇辉小作文内容是什么？怎么全网都搜不到？](https://www.v2ex.com/t/1000380#reply10)|
 |2023-12-14 07:22:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Joplin 和 Obsidian 作为笔记软件哪个更好](https://www.v2ex.com/t/1000378#reply21)|
