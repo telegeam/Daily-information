@@ -2,6 +2,23 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-15 04:56:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Netflix 訂閱者也能回味經典遊戲 一起等待 俠盜獵車手 6 推出](https://applefans.today/2023-12-netflix-grand-theft-auto-vi/)|
+|2023-12-15 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：E3取消了，我会怀念它](http://www.chuapp.com/article/289695.html)|
+|2023-12-15 09:56:26|[触乐](http://www.chuapp.com/feed)|[《2023年中国游戏产业报告》正式发布](http://www.chuapp.com/article/289692.html)|
+|2023-12-15 09:55:20|[触乐](http://www.chuapp.com/feed)|[中宣部出版局杨芳在中国游戏产业年会上的致辞](http://www.chuapp.com/article/289694.html)|
+|2023-12-15 09:53:00|[触乐](http://www.chuapp.com/feed)|[中国音数协孙寿山：勇担文化使命，弘扬时代精神](http://www.chuapp.com/article/289693.html)|
+|2023-12-15 07:00:23|[小众软件](https://www.appinn.com/feed/)|[WeChatMsg 留痕 – 支持语音聊天，微信聊天记录导出工具 Windows ](https://www.appinn.com/wechatmsg/)|
+|2023-12-15 02:37:03|[小众软件](https://www.appinn.com/feed/)|[OMP – 可自托管的开源 OneDrive 媒体播放器 Web ](https://www.appinn.com/onedrive-media-player-on-the-web/)|
+|2023-12-15 12:27:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[独立开发提高产品定位成功率：找到 3 个对标产品](https://www.v2ex.com/t/1000796#reply0)|
+|2023-12-15 04:53:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[k8s 微服务这种环境，最佳的开发调试方案是什么](https://www.v2ex.com/t/1000654#reply27)|
+|2023-12-15 01:50:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[需要帮助，我做了一个音频剪辑工具，我应该去哪里找到潜在客户呢？](https://www.v2ex.com/t/1000564#reply66)|
+|2023-12-15 11:16:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Java 值得读源码的开源项目](https://www.v2ex.com/t/1000781#reply3)|
+|2023-12-15 12:15:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[还有人开车拼 gpt4 吗](https://www.v2ex.com/t/1000793#reply0)|
+|2023-12-15 11:18:42|[爱范儿](https://www.ifanr.com/feed)|[让余承东和小米吵起来的手机零部件，到底有多重要？](https://www.ifanr.com/1570609?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-15 08:36:14|[爱范儿](https://www.ifanr.com/feed)|[英特尔 AI PC 国内正式落地，联想发布小新 Pro 16 2024 酷睿 Ultra 版](https://www.ifanr.com/1570597?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-15 08:21:46|[爱范儿](https://www.ifanr.com/feed)|[英特尔第一代酷睿 Ultra 正式发布，筑基 AI PC，能无网跑 AI 大模型](https://www.ifanr.com/1570507?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-15 05:08:03|[爱范儿](https://www.ifanr.com/feed)|[当我们用手机拍照时，我们到底在拍些什么](https://www.ifanr.com/1570506?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-15 00:49:26|[爱范儿](https://www.ifanr.com/feed)|[早报｜ChatGPT 入选《自然》年度十大人物/问界 M9 官宣 12 月 26 日发布/俞敏洪向董宇辉致歉](https://www.ifanr.com/1570493?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-15 04:53:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[k8s 微服务这种环境，最佳的开发调试方案是什么](https://www.v2ex.com/t/1000654#reply15)|
 |2023-12-15 08:08:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家好，能帮忙看看这个自动生成文档的想法有前途吗](https://www.v2ex.com/t/1000721#reply2)|
 |2023-12-15 01:31:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[小米 14 除了小直屏还有比 vivo x100 好的地方吗？](https://www.v2ex.com/t/1000557#reply44)|
