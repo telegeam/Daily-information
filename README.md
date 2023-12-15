@@ -2,6 +2,42 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-15 08:11:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[目前世界上跑最快的狗](https://dig.chouti.com/link/40921831)|
+|2023-12-15 09:04:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[传字节取消PICO 5发布，裁员千人内幕曝出，秘密项目“天鹅”对标苹果Vision Pro](https://dig.chouti.com/link/40922118)|
+|2023-12-15 12:13:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据说这是北方人才会懂的恐怖照片](https://dig.chouti.com/link/40924246)|
+|2023-12-15 14:12:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[宫崎骏新电影《男孩与苍鹭》遭立陶宛影院集体抵制，“发行商与俄罗斯有联系”](https://dig.chouti.com/link/40925379)|
+|2023-12-15 13:12:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[都说了东北冬天的铁不能舔吧](https://dig.chouti.com/link/40924811)|
+|2023-12-15 09:05:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[寻猫启示｜猫物语](https://dig.chouti.com/link/40922223)|
+|2023-12-15 12:13:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[吃蚂蚁的角蜥，中间一只老是吃不到很郁闷 //那只可能是裁判](https://dig.chouti.com/link/40924270)|
+|2023-12-15 09:06:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[西二旗风雪夜归人丨一个网络最发达的地区发生了现实交通的卡顿，这些公司的员工克服风雪，又开始了第二天的工作。](https://dig.chouti.com/link/40922415)|
+|2023-12-15 09:06:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[离岸人民币兑美元时隔6个月首次升破7.10](https://dig.chouti.com/link/40922389)|
+|2023-12-15 04:05:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[汉代海昏侯国遗址国家考古遗址公园“墎墩苑-海昏藏宝”全面开放](https://dig.chouti.com/link/40916692)|
+|2023-12-15 04:06:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【博士生、阶层旅行与象牙塔的忧郁】这些学习优胜者为何忧郁？在长距离的阶层流动中，他们的心灵经历了什么？](https://dig.chouti.com/link/40916900)|
+|2023-12-15 10:06:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[罗永浩谈董宇辉：真没必要再浪费生命去打工，如果想创业我愿意支持](https://dig.chouti.com/link/40923122)|
+|2023-12-15 05:15:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩知名女团T-ara前成员雅凛突然宣布离婚，同时公开了再婚对象，更令吃瓜群众惊呆的是…她的新男友被网友曝出是性暴力和诈骗前科犯…](https://dig.chouti.com/link/40919107)|
+|2023-12-15 05:18:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[谁让你摊上个手巧的老婆呢](https://dig.chouti.com/link/40919638)|
+|2023-12-15 05:20:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[几十年一贯制生产一种战斗机：1970年代中期的麦道圣路易斯工厂 vs 2023年的波音圣路易斯工厂](https://dig.chouti.com/link/40919732)|
+|2023-12-15 05:20:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在美国，每当一名亚洲学生进入了某个学区时，就有1.5名白人小孩搬走。亚洲小孩把白人小孩都卷跑了……](https://dig.chouti.com/link/40919770)|
+|2023-12-15 05:20:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[原来从古至今人类的精神状态都一样](https://dig.chouti.com/link/40919733)|
+|2023-12-15 07:25:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【北京地铁昌平线事故公布初步调查结果】事故原因为雪天轨滑导致前车信号降级，紧急制动停车，后车因所在区段位于下坡地段，雪天导致列车滑行，未能有效制动，造成与前车追尾。追尾事故共有515人送医院检查，其中骨折102人，无人员死亡。截至15日6时，423人已离院，25人留观，67人住院治疗。](https://dig.chouti.com/link/40921193)|
+|2023-12-15 07:06:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Moderna和默沙东宣布肿瘤疫苗新突破：可降低黑色素瘤一半复发风险](https://dig.chouti.com/link/40920972)|
+|2023-12-15 07:05:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“上海老人将房产送给水果摊主案”落槌：涉案房屋归水果摊主](https://dig.chouti.com/link/40920783)|
+|2023-12-15 05:12:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[成立24年，看不到广告：“美容美发之王”永琪如何发展250万会员](https://dig.chouti.com/link/40918542)|
+|2023-12-15 05:16:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“穆罕默德”蝉联英国新生儿男婴最受欢迎名字】女孩名前五是奥莉维亚（Olivia）、阿米莉亚（Amelia）、艾拉（Isla）、莉莉（Lily）和艾娃（Ava）；男孩名前五则是穆罕默德（Muhammad）、诺亚（Noah）、西奥（Theo）、利奥（Leo）和奥利弗（Oliver）。](https://dig.chouti.com/link/40919303)|
+|2023-12-15 07:37:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“鼠头鸭脖”涉事方行政处罚书公布：食堂多次吃出虫鼠异物，江西中快后勤服务有限公司及责任人被罚706万元](https://dig.chouti.com/link/40921263)|
+|2023-12-15 05:18:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[乌鸦吞掉一只老鼠](https://dig.chouti.com/link/40919534)|
+|2023-12-15 05:18:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[飞行表演队的苏-35给图-95护航，远东的空天军是没有战斗机可用了？](https://dig.chouti.com/link/40919557)|
+|2023-12-15 16:09:10|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[美团曾密切考察中东市场，出海仍在观望中｜36氪独家](https://36kr.com/p/2558857363430790)|
+|2023-12-15 16:09:10|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[看完2023年度锐词，汗流浃背了](https://36kr.com/p/2561257784417410)|
+|2023-12-15 16:09:10|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[月入3万的中产，“霸占”了小学门口的脏摊](https://36kr.com/p/2561382204317063)|
+|2023-12-15 16:09:10|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[轮到俞敏洪救东方甄选了](https://36kr.com/p/2561305855794561)|
+|2023-12-15 16:09:09|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[别太为难孟羽童](https://36kr.com/p/2560620052634755)|
+|2023-12-15 16:09:09|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[《蛋仔派对》惊醒了腾讯](https://36kr.com/p/2560589882350729)|
+|2023-12-15 16:09:09|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨东方甄选称正调查“小作文”事件；盒马总部IP地址疑似被山姆App屏蔽；碧桂园退出万达商管](https://36kr.com/p/2561263278677376)|
+|2023-12-15 08:18:54|[一个工匠](https://www.yigegongjiang.com/atom.xml)|[通过 Swift Package 制作二进制库](https://www.yigegongjiang.com/2023/swiftPackageFramework/)|
+|2023-12-15 11:10:49|[晚点LatePost](https://feedpress.me/wx-postlate)|[​​晚点财经｜京沪降低买房门槛；多国收紧移民政策](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247510514&idx=2&sn=794693670fe5dd47a0dcf28a58f61b0f)|
+|2023-12-15 11:10:49|[晚点LatePost](https://feedpress.me/wx-postlate)|[在抖音，谁在推动创作者与商家更高效地匹配？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247510514&idx=1&sn=93b4f665841fa2a94f2cf8a91808b261)|
+|2023-12-15 22:39:00|[plus studio](https://studyinglover.com/atom.xml)|[poe的gemini pro或是百度开发](https://studyinglover.com/2023/12/15/poe%E7%9A%84gemini%20pro%E6%88%96%E6%98%AF%E7%99%BE%E5%BA%A6%E5%BC%80%E5%8F%91/)|
 |2023-12-15 10:46:53|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[开源论坛想找人开发 App 推荐 rn 还是 Flutter?](https://www.v2ex.com/t/1000776#reply28)|
 |2023-12-15 13:33:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最拥有生产力的 Linux 发行版本推荐](https://www.v2ex.com/t/1000810#reply24)|
 |2023-12-15 14:59:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[win 上最佳安卓方案是哪个？](https://www.v2ex.com/t/1000820#reply1)|
