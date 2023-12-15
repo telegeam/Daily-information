@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-12-14）
+﻿# 每日资讯（2023-12-15）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-15 00:15:00|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)|
 |2023-12-14 09:34:27|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[欲尝海上鲜，莫惜腰间钱。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447263&idx=1&sn=4cd931d4f11421d0f2636cc297632a75)|
 |2023-12-14 15:23:54|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[系统运维 Linux 用户的 7 个 sudo 技巧和改进](https://linux.cn/article-16472-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-14 16:05:00|[虎嗅](https://rss.huxiu.com/)|[历史学者段志强：去崇明乡野，过具体微小的日子](https://www.huxiu.com/article/2421041.html?f=rss)|
