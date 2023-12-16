@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-16 04:43:03|[爱范儿](https://www.ifanr.com/feed)|[打赏收入破 100 亿美元，TikTok 为什么像《王者荣耀》一样吸金？](https://www.ifanr.com/1570668?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-16 07:20:00|[触乐](http://www.chuapp.com/feed)|[周末玩什么：风格明艳的侦探小品、复古恐怖选择题，还能在音游里“健身”](http://www.chuapp.com/article/289690.html)|
+|2023-12-16 19:49:29|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[火绒自定义规则分享——对抗流氓软件全家桶，对抗QQ微信等瞎读取硬盘文件+SoftCnKiller 2.81+ Malware-Patch 2.15](https://masuit.com/2101)|
+|2023-12-16 10:48:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[谷歌 Gemini pro 部分中文训练语料可能来自百度](https://www.v2ex.com/t/1000963#reply4)|
+|2023-12-16 12:09:24|[V2EX](http://www.v2ex.com/index.xml)|[ iCloud 相册 iCloud 最近删除也会同步，有没有办法真的不同步某些照片视频。](https://www.v2ex.com/t/1000971#reply4)|
+|2023-12-16 11:58:41|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 师傅们，内推几个网络安全相关的 hc：](https://www.v2ex.com/t/1000970#reply1)|
+|2023-12-16 11:35:00|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 qq 邮箱这么不受待见么，给 everything 开发者发个反馈邮件直接就被退信了](https://www.v2ex.com/t/1000968#reply0)|
+|2023-12-16 11:32:19|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 腾讯黄国平博士离职了？](https://www.v2ex.com/t/1000967#reply2)|
+|2023-12-16 11:19:33|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 捡漏了一个 128M 内存的 vps，可以怎么利用起来？](https://www.v2ex.com/t/1000966#reply12)|
+|2023-12-16 10:51:31|[V2EX](http://www.v2ex.com/index.xml)|[ Apple iMac 彩色拆机键盘](https://www.v2ex.com/t/1000964#reply2)|
 |2023-12-16 07:09:00|[forecho's Blog](http://blog.forecho.com/atom.xml)|[期权要学会滚仓](https://blog.forecho.com/options-roll-up.html)|
 |2023-12-16 06:32:45|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[改变你的 tab 页浏览方式:精简、聚焦专注和分屏管理等体验](https://w2solo.com/topics/4314)|
 |2023-12-16 08:08:45|[虎嗅](https://rss.huxiu.com/)|[蜱虫，隐秘而致命的“吸血鬼”？](https://www.huxiu.com/article/2429454.html?f=rss)|
