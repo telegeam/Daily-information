@@ -2,6 +2,48 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-16 06:13:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美太空军上将：中美几乎同时发射可重复使用的试验航天器，可能并非巧合】美太空军作战部部长萨尔茨曼说，“中国人对我们的航天飞机非常感兴趣，这并不奇怪。我们对他们的也非常感兴趣。因此，它们是在轨道上运行时最受关注的两个物体。他们试图在时间和顺序上与我们保持一致，这可能并非巧合。”](https://dig.chouti.com/link/40930832)|
+|2023-12-16 19:52:30|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 openwrt 有什么插件可以实现类似圈 X 的“重写”功能吗？](https://www.v2ex.com/t/1001017#reply0)|
+|2023-12-16 18:47:08|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 继续 Java 开发 or 半导体设备工程师](https://www.v2ex.com/t/1001016#reply0)|
+|2023-12-16 17:30:52|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 凹语言在 KCD 深圳 2023](https://www.v2ex.com/t/1001014#reply0)|
+|2023-12-16 17:11:51|[V2EX](http://www.v2ex.com/index.xml)|[ 香港 从上海高铁去香港旅游，有住宿酒店的建议和极客式旅游的建议吗？ 送感谢](https://www.v2ex.com/t/1001013#reply3)|
+|2023-12-16 16:54:44|[V2EX](http://www.v2ex.com/index.xml)|[ 微信 微信公众号回复文本如何插入快捷回复的链接？](https://www.v2ex.com/t/1001012#reply1)|
+|2023-12-16 16:53:55|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 成都电信 9998 及以下端口被封了](https://www.v2ex.com/t/1001011#reply2)|
+|2023-12-16 16:35:34|[V2EX](http://www.v2ex.com/index.xml)|[ Apple mac 高刷下切换桌面动画变慢](https://www.v2ex.com/t/1001010#reply1)|
+|2023-12-16 16:34:28|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone iPhone 如何设置快捷指令，解锁手机启动 shadowracket，锁屏关闭 shadowracket？](https://www.v2ex.com/t/1001009#reply2)|
+|2023-12-16 16:31:34|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 如何修改邮箱地址？](https://www.v2ex.com/t/1001008#reply1)|
+|2023-12-16 16:12:53|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone QX 规则不同也会影响节点延迟测试结果吗？](https://www.v2ex.com/t/1001007#reply0)|
+|2023-12-16 16:10:39|[V2EX](http://www.v2ex.com/index.xml)|[ Mac mini 新入手 Macmini M2 type-c 转 DP 无信号](https://www.v2ex.com/t/1001006#reply0)|
+|2023-12-16 16:04:35|[V2EX](http://www.v2ex.com/index.xml)|[ 前端开发 这个 vite 插件让 console.log 究极进化](https://www.v2ex.com/t/1001004#reply2)|
+|2023-12-16 15:58:10|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 买了本 Python 书籍入门](https://www.v2ex.com/t/1001003#reply1)|
+|2023-12-16 15:41:11|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 netbird 很火，有没有详细看过他代码的，大佬们来唠唠嗑](https://www.v2ex.com/t/1001002#reply2)|
+|2023-12-16 15:39:44|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 有人 iPhone 会出现视频突然变亮，其他其他地方变暗的情况吗？](https://www.v2ex.com/t/1001001#reply9)|
+|2023-12-16 15:19:10|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 关于 ios 低电量模式浏览器如何自动播放<video>](https://www.v2ex.com/t/1000999#reply0)|
+|2023-12-16 15:17:30|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 对于有 Home 键的 iPhone ，更新到 iOS 17.2 后，在各种需要指纹识别的地方，比如登入银行 App 等，短暂的识别过程中总会出现一次『重试触控 ID』的提示，尽管最终能识别成功](https://www.v2ex.com/t/1000998#reply1)|
+|2023-12-16 15:09:38|[V2EX](http://www.v2ex.com/index.xml)|[ YouTube 打算写个 React Native iOS 自用，用来下载油管视频，求指点思路](https://www.v2ex.com/t/1000997#reply4)|
+|2023-12-16 15:01:36|[V2EX](http://www.v2ex.com/index.xml)|[ 奇思妙想 关于旅行证件（护照）的一些想法](https://www.v2ex.com/t/1000996#reply5)|
+|2023-12-16 14:54:39|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 换了个交换机有两个模式，想问问各位大神一般家庭用哪个模式比较好](https://www.v2ex.com/t/1000994#reply1)|
+|2023-12-16 14:52:54|[V2EX](http://www.v2ex.com/index.xml)|[ macOS Mac 的声音里设备多了 GneAudioDevice](https://www.v2ex.com/t/1000993#reply2)|
+|2023-12-16 14:33:43|[V2EX](http://www.v2ex.com/index.xml)|[ Linux 大佬们 Arch Linux 用国内源老是缺依赖怎么办？ docker 安装了但是启动不起来，我换官方源速度很慢，但是一切正常](https://www.v2ex.com/t/1000992#reply9)|
+|2023-12-16 14:31:38|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI 能执行 Python 代码并提供文件上传下载能力的自定义 GPT 是如何实现的？](https://www.v2ex.com/t/1000991#reply0)|
+|2023-12-16 14:22:10|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI 有无第三方 ios App 支持 Azure OpenAI 和 Latex 的？](https://www.v2ex.com/t/1000990#reply0)|
+|2023-12-16 14:20:34|[V2EX](http://www.v2ex.com/index.xml)|[ macOS OrbStack 的内存占用问题](https://www.v2ex.com/t/1000989#reply1)|
+|2023-12-16 14:20:28|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 开源可重现的 Homelab for DevOps，全站 HTTPS - homeinfra.org](https://www.v2ex.com/t/1000988#reply5)|
+|2023-12-16 14:16:08|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 远程办公 金融科技公司招聘若干岗位](https://www.v2ex.com/t/1000987#reply5)|
+|2023-12-16 13:39:45|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 阿里云盘不限速？](https://www.v2ex.com/t/1000984#reply10)|
+|2023-12-16 13:36:43|[V2EX](http://www.v2ex.com/index.xml)|[ Android 为什么现在的第三方 android rom 越来越少了](https://www.v2ex.com/t/1000983#reply22)|
+|2023-12-16 13:31:19|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 训练微型的 chatgpt，](https://www.v2ex.com/t/1000982#reply5)|
+|2023-12-16 13:29:27|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 使用 Quantumult X 时 FaceTime 总是连接中连不上, 关闭 圈 x 就能秒连](https://www.v2ex.com/t/1000981#reply3)|
+|2023-12-16 13:17:12|[V2EX](http://www.v2ex.com/index.xml)|[ Linux 求对 N 卡最友好的发行版](https://www.v2ex.com/t/1000980#reply11)|
+|2023-12-16 13:06:51|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 求职 Android 应用方向](https://www.v2ex.com/t/1000978#reply0)|
+|2023-12-16 13:02:56|[V2EX](http://www.v2ex.com/index.xml)|[ 编程 建了个独立开发者技术交流群，欢迎大佬加入](https://www.v2ex.com/t/1000977#reply0)|
+|2023-12-16 13:02:51|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 免费浏览器扩展的出路只有被收购吗？](https://www.v2ex.com/t/1000976#reply28)|
+|2023-12-16 12:49:42|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 浏览器诡异事件，请求大家一起来分析](https://www.v2ex.com/t/1000974#reply7)|
+|2023-12-16 12:32:51|[V2EX](http://www.v2ex.com/index.xml)|[ MacBook Pro 21 年 14 寸的 mbp，一直在家插着电是不是容易电池鼓包](https://www.v2ex.com/t/1000973#reply17)|
+|2023-12-16 12:28:37|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 过冬装备](https://www.v2ex.com/t/1000972#reply7)|
+|2023-12-16 08:08:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 17.2 保護您的 iPhone 不受 Flipper Zero 攻擊威脅](https://www.iphonetaiwan.org/2023/12/ios-17-2-update-defends-against-flipper-zero-attacks.html)|
+|2023-12-16 07:58:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果支付巨額和解金：了結家人共享集體訴訟](https://www.iphonetaiwan.org/2023/12/apple-settlement-family-sharing-lawsuit.html)|
+|2023-12-16 07:46:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果神經網路演算法 DeepPCR：訓練速度翻倍提升](https://www.iphonetaiwan.org/2023/12/blog-post_16.html)|
 |2023-12-16 14:43:02|[触乐](http://www.chuapp.com/feed)|[一款真正的合家欢派对游戏，《元梦之星》是怎样做到的？](http://www.chuapp.com/article/289697.html)|
 |2023-12-16 11:34:44|[小众软件](https://www.appinn.com/feed/)|[图片对比 – 横向或纵向对比两张照片 Windows ](https://www.appinn.com/compare-image/)|
 |2023-12-16 06:59:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[离开字节游戏的人们](https://dig.chouti.com/link/40930971)|
