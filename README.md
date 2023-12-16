@@ -1,7 +1,9 @@
-﻿# 每日资讯（2023-12-15）
+﻿# 每日资讯（2023-12-16）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-16 00:30:14|[爱范儿](https://www.ifanr.com/feed)|[早报｜罗永浩称愿意支持董宇辉创业/iPad 和 MacBook 将改用 OLED 屏幕/孟羽童回应被董明珠怒斥](https://www.ifanr.com/1570660?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-16 00:30:00|[机核](https://www.gcores.com/rss)|[人机博弈续：国、中、围三棋人机巅峰战](https://www.gcores.com/articles/175153)|
 |2023-12-15 08:11:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[目前世界上跑最快的狗](https://dig.chouti.com/link/40921831)|
 |2023-12-15 09:04:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[传字节取消PICO 5发布，裁员千人内幕曝出，秘密项目“天鹅”对标苹果Vision Pro](https://dig.chouti.com/link/40922118)|
 |2023-12-15 12:13:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据说这是北方人才会懂的恐怖照片](https://dig.chouti.com/link/40924246)|
