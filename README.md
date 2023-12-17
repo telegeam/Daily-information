@@ -2,6 +2,35 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-17 14:00:00|[Jason](https://atjason.com/atom.xml)|[1217 - 少年宫报名小工具](https://atjason.com/daily/2023-12-17.html)|
+|2023-12-17 08:24:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[作为一名大龄土木专科转行的 Java 后端开发，第二个三年想问问大家该怎么继续提升自己](https://www.v2ex.com/t/1001099#reply24)|
+|2023-12-17 15:56:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Mac Safari 的 Youtube 怎么去广告？](https://www.v2ex.com/t/1001175#reply1)|
+|2023-12-17 15:31:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[怎么释放 Win11 的虚拟内存？因为虚拟内存满了导致各种 OOM 报错好多次了](https://www.v2ex.com/t/1001170#reply3)|
+|2023-12-17 15:00:00|[机核](https://www.gcores.com/rss)|[灵异山庄有缘由，大师看了都摇头 摩登怪谈录Vol.1](https://www.gcores.com/radios/175147)|
+|2023-12-17 14:48:51|[机核](https://www.gcores.com/rss)|[下周节目预告 12.18~12.24](https://www.gcores.com/articles/175197)|
+|2023-12-17 13:33:56|[机核](https://www.gcores.com/rss)|[让二追三:AzureRay战队赢得《Dota2》ESLONE吉隆坡站总冠军](https://www.gcores.com/articles/175194)|
+|2023-12-17 11:20:30|[机核](https://www.gcores.com/rss)|[《超自然武装当哒当》2024年10月播出：“JumpFesta2024”信息汇总](https://www.gcores.com/articles/175189)|
+|2023-12-17 11:17:36|[机核](https://www.gcores.com/rss)|[从零开始的9天 Bevy Jam 回顾](https://www.gcores.com/articles/175186)|
+|2023-12-17 11:16:00|[机核](https://www.gcores.com/rss)|[WITSTUDIO制作，《海贼王》完全重制动画新作《THE ONE PIECE》正式公布](https://www.gcores.com/articles/175188)|
+|2023-12-17 11:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#273：《魔岩山传说》](https://www.gcores.com/articles/175176)|
+|2023-12-17 10:08:49|[机核](https://www.gcores.com/rss)|[《链锯人》剧场版动画《链锯人 蕾塞篇》确定制作，先导PV公开](https://www.gcores.com/articles/175187)|
+|2023-12-17 03:26:40|[机核](https://www.gcores.com/rss)|[译介丨“普罗透斯效应”：游戏中玩家的形象变化对玩家行为的影响](https://www.gcores.com/articles/175160)|
+|2023-12-17 02:00:00|[机核](https://www.gcores.com/rss)|[如阳光依旧的那个下午](https://www.gcores.com/articles/175179)|
+|2023-12-17 02:38:17|[空城记](https://shinekid.com/feed/)|[尊重但不认同](https://shinekid.com/2023/12/respect-but-disagree/)|
+|2023-12-17 15:06:38|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2023-12-17 记一次 Golang 因镜像源配置导致的构建失败](https://blog.cmyr.ltd/archives/9a8bee73.html)|
+|2023-12-17 12:24:00|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[使用jenv管理jdk版本](https://jasonkayzk.github.io/2023/12/17/%E4%BD%BF%E7%94%A8jenv%E7%AE%A1%E7%90%86jdk%E7%89%88%E6%9C%AC/)|
+|2023-12-17 16:05:08|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[开播2分钟超10万人涌入！刚刚，董宇辉直播回应一切！俞敏洪：孙东旭被免与董宇辉无关](https://36kr.com/p/2563492648543620)|
+|2023-12-17 16:05:08|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[活在当下，赋予生活以意义的13条路径](https://36kr.com/p/2342330134353414)|
+|2023-12-17 16:05:08|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[考研上岸的人太多，宿舍不够分了](https://36kr.com/p/2564149643060614)|
+|2023-12-17 16:05:08|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[​中国将咖啡馆开到全球第一，泡沫将破还是厚积薄发？](https://36kr.com/p/2564134803301760)|
+|2023-12-17 16:05:07|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[纪念科学家汤晓鸥：黑羊远去](https://36kr.com/p/2563453108233859)|
+|2023-12-17 16:05:07|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[美国可控核聚变4次点火成功，刷新纪录登Nature！首席女科学家入选年度十大人物](https://36kr.com/p/2562969541305993)|
+|2023-12-17 16:05:07|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[开掉9名高管，裁1/4员工，明星无人车敲警钟](https://36kr.com/p/2563554206000513)|
+|2023-12-17 16:05:07|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[俞敏洪赢了，东方甄选输了](https://36kr.com/p/2563444551067270)|
+|2023-12-17 04:03:05|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[用GPT-2监督GPT-4，防止AI毁灭人类? OpenAI Ilya超级对齐团队首篇论文出炉](https://36kr.com/p/2561960642927748)|
+|2023-12-17 04:03:05|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[游戏业务调整之后，B站商业化的路该怎么走？](https://36kr.com/p/2562114038769288)|
+|2023-12-17 04:03:05|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[宫崎骏“收官作”席卷北美](https://36kr.com/p/2562102641452417)|
+|2023-12-17 04:03:05|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一条街6家卖自助盒饭，“盒饭效应”席卷餐饮业](https://36kr.com/p/2562001157823873)|
 |2023-12-17 12:18:12|[触乐](http://www.chuapp.com/feed)|[写在《穿越火线》手游八周年：乘着快乐浪潮回家](http://www.chuapp.com/article/289696.html)|
 |2023-12-17 09:37:12|[鸟窝](https://colobu.com/atom.xml)|[每个Go程序员必犯之错](https://colobu.com/2023/12/17/Less-Error-Prone-Loop-Variable-Scopin/)|
 |2023-12-17 00:39:45|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 重温过去：DG/UX UNIX 操作系统](https://linux.cn/article-16481-1.html?utm_source=rss&utm_medium=rss)|
