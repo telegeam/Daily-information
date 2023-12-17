@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-12-16）
+﻿# 每日资讯（2023-12-17）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-17 01:05:32|[太隐](https://wangyurui.com/feed.xml)|[谈《实践论》](https://wangyurui.com/posts/du-shi-jian-lun-f4ad8089)|
 |2023-12-16 06:13:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美太空军上将：中美几乎同时发射可重复使用的试验航天器，可能并非巧合】美太空军作战部部长萨尔茨曼说，“中国人对我们的航天飞机非常感兴趣，这并不奇怪。我们对他们的也非常感兴趣。因此，它们是在轨道上运行时最受关注的两个物体。他们试图在时间和顺序上与我们保持一致，这可能并非巧合。”](https://dig.chouti.com/link/40930832)|
 |2023-12-16 19:52:30|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 openwrt 有什么插件可以实现类似圈 X 的“重写”功能吗？](https://www.v2ex.com/t/1001017#reply0)|
 |2023-12-16 18:47:08|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 继续 Java 开发 or 半导体设备工程师](https://www.v2ex.com/t/1001016#reply0)|
