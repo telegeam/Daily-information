@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-17 12:18:12|[触乐](http://www.chuapp.com/feed)|[写在《穿越火线》手游八周年：乘着快乐浪潮回家](http://www.chuapp.com/article/289696.html)|
+|2023-12-17 09:37:12|[鸟窝](https://colobu.com/atom.xml)|[每个Go程序员必犯之错](https://colobu.com/2023/12/17/Less-Error-Prone-Loop-Variable-Scopin/)|
 |2023-12-17 00:39:45|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 重温过去：DG/UX UNIX 操作系统](https://linux.cn/article-16481-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-17 00:11:49|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1218 谷歌即将对 1% 的 Chrome 用户关闭第三方追踪](https://linux.cn/article-16480-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-17 08:01:13|[虎嗅](https://rss.huxiu.com/)|[商汤创始人汤晓鸥去世，他的三重 AI 人生](https://www.huxiu.com/article/2434942.html?f=rss)|
