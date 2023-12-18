@@ -1,8 +1,14 @@
-﻿# 每日资讯（2023-12-17）
+﻿# 每日资讯（2023-12-18）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-18 00:06:42|[余晟以为](https://feedpress.me/wx-yurii-says)|[坚持了两年之后，小朋友突然不想去打冰球了…](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009788&idx=1&sn=0eec43c01395b537ea0cc63521d1eb0f)|
+|2023-12-18 01:00:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么有的 app 禁止了 AD 服务还是会显示广告条？](https://www.v2ex.com/t/1001201#reply3)|
+|2023-12-18 00:56:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 年马上就过去了，今年的目标都实现多少了？副业都赚多少了？](https://www.v2ex.com/t/1001199#reply10)|
+|2023-12-18 01:08:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[非国行 ROM，如何快速批量安装更新应用。](https://www.v2ex.com/t/1001206#reply0)|
+|2023-12-18 00:58:18|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[寻找 AI 生成 app 图标方案](https://www.v2ex.com/t/1001200#reply0)|
 |2023-12-17 19:28:53|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[7 Advanced Tips For ES6](https://levelup.gitconnected.com/7-advanced-tips-for-es6-e245d7090806?source=rss-c3917681a8f5------2)|
+|2023-12-18 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第157期 - 引力剧场](https://weekly.tw93.fun/posts/157-%E5%BC%95%E5%8A%9B%E5%89%A7%E5%9C%BA/)|
 |2023-12-17 11:17:52|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[Tomcat 系列篇十二-番外介绍下 Tomcat 的上传文件限制](https://nicksxs.me/2023/12/17/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E5%8D%81%E4%BA%8C-%E7%95%AA%E5%A4%96%E4%BB%8B%E7%BB%8D%E4%B8%8B-Tomcat-%E7%9A%84%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E9%99%90%E5%88%B6/)|
 |2023-12-17 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 170 期（2023.12.18）](https://www.ftium4.com/ux-weekly-170.html)|
 |2023-12-17 14:00:00|[Jason](https://atjason.com/atom.xml)|[1217 - 少年宫报名小工具](https://atjason.com/daily/2023-12-17.html)|
