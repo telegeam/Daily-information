@@ -2,6 +2,54 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-18 16:14:07|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1220 OpenAI 探索用较低级的 AI 来监管更高级的 AI](https://linux.cn/article-16488-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-18 15:58:26|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 PWA：浏览器的新范式](https://linux.cn/article-16487-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-18 11:35:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本流行色协会公布 2024 年度色，希望以治愈的蓝色对抗全球性的焦虑](https://dig.chouti.com/link/40951668)|
+|2023-12-18 13:04:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【《狗神》：值得走进影院的商业电影】如果将本作看作认真的人物肖像片，缺点很多，但如果仅看作商业片，吕克·贝松又让人觉得“你大爷还是你大爷”，他对商业类型片的熟悉和掌控能力，实在让人感叹：真是好久没在国内院线看到一部完成度这么高的商业电影了。从这个角度来讲，《狗神》依然值得你走进电影院。](https://dig.chouti.com/link/40952318)|
+|2023-12-18 14:05:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[媒体调查：“代孕套餐”包性别和出生证，报价88万元](https://dig.chouti.com/link/40952994)|
+|2023-12-18 13:13:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[聋哑人打字语气很可能只是“看起来”生硬，望周知](https://dig.chouti.com/link/40952729)|
+|2023-12-18 12:36:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[欧盟宣布对社交媒体公司“X”提起诉讼，理由是该公司涉嫌违反打击非法内容和虚假信息的义务](https://dig.chouti.com/link/40952236)|
+|2023-12-18 12:14:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Alexandra Daddario](https://dig.chouti.com/link/40952172)|
+|2023-12-18 03:52:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[欧美为何警惕中国彩电“下乡”非洲农村? 一个民企实例的冲击](https://dig.chouti.com/link/40946865)|
+|2023-12-18 05:05:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[诺亚34亿理财骗局揭秘](https://dig.chouti.com/link/40947714)|
+|2023-12-18 05:04:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【电影《三大队》背后的故事】《请报告局长，三大队任务完成了》这个非虚构故事开篇即为电影《三大队》结尾的缉凶时刻：2013年9月的一天下午，贵州省某地级市一住宅小区内，一名中年送水工毫无缘由地与一位路过水站的业主发生冲突。送水工将那位男性业主放倒在地，业主拼命挣扎……](https://dig.chouti.com/link/40947615)|
+|2023-12-18 06:12:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[DomoAI：将你的照片和视频动漫化——只需要上传照片和视频，选择提示词和指定动漫风格，即可将你的照片和视频动漫化。支持：- 文字转图片：超过10种模型，专注于动漫和写实风格。- 图像转图像：图片转动漫、动漫转现实图片。- 图像到视频：从图片生成短动画。- 视频到视频：将视频转换成动漫风格](https://dig.chouti.com/link/40948515)|
+|2023-12-18 06:33:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[对话小猫：调侃掩护下，找到真实表达的可能](https://dig.chouti.com/link/40948561)|
+|2023-12-18 06:37:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[寻找川西北狼群①｜揭秘全国首次大面积狼专项调查监测：历时一年多，万人草原寻狼](https://dig.chouti.com/link/40948635)|
+|2023-12-18 07:00:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[最近我特意去了一趟雄安新区](https://dig.chouti.com/link/40948649)|
+|2023-12-18 07:04:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[微软承认必应Copilot存在严重“幻觉”漏洞，询问“即时内容”有1/3概率回复错误答案](https://dig.chouti.com/link/40948708)|
+|2023-12-18 07:05:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[仅13天就被特斯拉反超，比特币跌出全球市值前十大资产](https://dig.chouti.com/link/40948808)|
+|2023-12-18 07:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[鱼额已冻结](https://dig.chouti.com/link/40949114)|
+|2023-12-18 07:36:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩方认定，LK-99室温超导无法证明，国内团队：延伸材料有神奇特性](https://dig.chouti.com/link/40949219)|
+|2023-12-18 08:00:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[贾雷德·戴蒙德与他的十万个为什么](https://dig.chouti.com/link/40949229)|
+|2023-12-18 08:08:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[有感于周华健唱《刀剑如梦》纪念周海媚，于是我就写了一篇杨佩佩精装大戏歌曲全记录](https://dig.chouti.com/link/40949651)|
+|2023-12-18 07:05:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【深圳拟放宽车牌申请条件】深圳市交通运输局近日发布《深圳市小汽车增量调控管理实施细则（征求意见稿）》，据其内容，深圳将适当放宽普通小汽车增量指标申请对象范围和条件，并新增专项增量指标，采用阶梯摇号方式配置。这意味着摇号中签率有望提高。](https://dig.chouti.com/link/40948813)|
+|2023-12-18 05:06:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[泰国计划对绕开马六甲海峡的“陆桥”项目开展全球招标](https://dig.chouti.com/link/40947809)|
+|2023-12-18 06:12:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[哪一瞬间让你感觉网文作者文化很低](https://dig.chouti.com/link/40948556)|
+|2023-12-18 06:05:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[朱丹被骗案涉事好友回应：朱丹陈述与真相不符，已委托律师对朱丹提起诉讼](https://dig.chouti.com/link/40948277)|
+|2023-12-18 07:00:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【每年的“好天气”不到1/3？】报告显示，2022年，大多数中国城市的“舒适日”只有70到140天。也就是说，一年中只有1/5到1/3时光是“好天气”。我国气象灾害全民预警的覆盖率已达97.7%，但气象带来的健康导向关注尚不足。比如高温会带来致命的热射病，寒潮会导致脑卒中（俗称中风）等心脑血管疾病发生率增加。](https://dig.chouti.com/link/40948650)|
+|2023-12-18 05:18:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2023 年度 IPA 国际摄影奖获奖作品](https://dig.chouti.com/link/40948017)|
+|2023-12-18 16:59:10|[摄影世界](https://feedx.net/rss/photoworld.xml)|[兴山这十年——绿水青山带笑颜（2）](https://www.photoworld.com.cn/post/175476)|
+|2023-12-18 16:59:10|[摄影世界](https://feedx.net/rss/photoworld.xml)|[兴山这十年——绿水青山带笑颜（3）](https://www.photoworld.com.cn/post/175507)|
+|2023-12-18 21:42:27|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[CyberLink PowerDVD v22.0.3530极致蓝光直装学习版](https://masuit.com/33)|
+|2023-12-18 21:31:12|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[Listary Pro v6.3.0.63简体中文学习版](https://masuit.com/1573)|
+|2023-12-18 20:15:39|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[PDF Expert 3 限时直降 269 元！老用户升级再减百元](https://masuit.com/p365)|
+|2023-12-18 21:02:08|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[MongoDB 7.0.4 Enterprise Server下载](https://masuit.com/1284)|
+|2023-12-18 20:13:40|[V2EX](http://www.v2ex.com/index.xml)|[ 云修电脑 有高人能分析下蓝屏原因吗？](https://www.v2ex.com/t/1001509#reply0)|
+|2023-12-18 17:58:06|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 美区 app store 有 0.01 美元的软件吗？](https://www.v2ex.com/t/1001507#reply0)|
+|2023-12-18 17:56:54|[V2EX](http://www.v2ex.com/index.xml)|[ 游戏 有没有那种写实风格的武侠或者历史类 rpg 游戏？](https://www.v2ex.com/t/1001506#reply0)|
+|2023-12-18 16:51:52|[V2EX](http://www.v2ex.com/index.xml)|[ 全球工单系统 已经存在很多年的垃圾邮件套路网易邮箱没有识别到呀](https://www.v2ex.com/t/1001504#reply0)|
+|2023-12-18 16:46:18|[V2EX](http://www.v2ex.com/index.xml)|[ Linux 刷抖音看到个挺好看的终端配色](https://www.v2ex.com/t/1001503#reply0)|
+|2023-12-18 16:30:37|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 小程序备案会审查主体以前提交的网站域名备案吗？](https://www.v2ex.com/t/1001502#reply5)|
+|2023-12-18 15:56:40|[V2EX](http://www.v2ex.com/index.xml)|[ Android 小米 BL 解锁答题真的是在抽象的道路上越走越远](https://www.v2ex.com/t/1001500#reply8)|
+|2023-12-18 15:54:08|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 分享自己的跨平台剪切板同步方案](https://www.v2ex.com/t/1001499#reply8)|
+|2023-12-18 15:47:48|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 关于游戏服务器被 D](https://www.v2ex.com/t/1001498#reply12)|
+|2023-12-18 14:30:29|[触乐](http://www.chuapp.com/feed)|[全民“元梦”，《元梦之星》成为新一代社交潮流](http://www.chuapp.com/article/289702.html)|
+|2023-12-18 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：《去月球》和2023年](http://www.chuapp.com/article/289701.html)|
+|2023-12-18 09:42:33|[触乐](http://www.chuapp.com/feed)|[2023年度中国电竞产业年会电竞表演赛明日开赛](http://www.chuapp.com/article/289699.html)|
+|2023-12-18 09:40:59|[触乐](http://www.chuapp.com/feed)|[2023年度中国电竞产业年会电竞体验展明日开展](http://www.chuapp.com/article/289700.html)|
+|2023-12-18 09:39:09|[触乐](http://www.chuapp.com/feed)|[2023年度中国电竞产业年会议程一览](http://www.chuapp.com/article/289698.html)|
+|2023-12-18 15:50:31|[晚点LatePost](https://feedpress.me/wx-postlate)|[低价、极致低价与拼多多](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247510572&idx=1&sn=bdcc0697dc994a43ca19ce3608fee13a)|
 |2023-12-18 15:56:40|[V2EX](http://www.v2ex.com/index.xml)|[ Android 小米 BL 解锁答题真的是在抽象的道路上越走越远](https://www.v2ex.com/t/1001500#reply3)|
 |2023-12-18 15:54:08|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 分享自己的跨平台剪切板同步方案](https://www.v2ex.com/t/1001499#reply2)|
 |2023-12-18 15:47:48|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 关于游戏服务器被 D](https://www.v2ex.com/t/1001498#reply0)|
