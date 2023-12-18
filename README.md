@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-18 03:56:09|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中国留学生“禁令”？佛州新法律引发困惑与争议](https://cn.nytimes.com/usa/20231218/florida-law-chills-chinese-student-recruitment/?utm_source=RSS)|
+|2023-12-18 02:26:46|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[应对中国威胁和台湾战争可能性，美军“重返丛林”](https://cn.nytimes.com/asia-pacific/20231218/us-military-jungle-training/?utm_source=RSS)|
+|2023-12-18 02:59:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“班宇等多名青年作家考编”为何被嘲？](https://dig.chouti.com/link/40946175)|
+|2023-12-18 03:06:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[因为气质独特，Onlyfans女博主成了恐怖游戏主角](https://dig.chouti.com/link/40946516)|
+|2023-12-18 03:24:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[罪犯劳荣枝被执行死刑](https://dig.chouti.com/link/40946766)|
+|2023-12-18 02:51:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【罪名】我和包丽（就是“北大包丽案”的包丽，更准确的说法或许是“牟林翰虐待案”）出生在同一年，就读于同一所大学。这所学校里有过无数我们的轨迹曾经交叠的痕迹。今年6月宣判后，我联系到了她的母亲、律师、好友、同学，还原了从案发当天开始，一直到整个案子尘埃落定的完整过程。](https://dig.chouti.com/link/40946171)|
+|2023-12-18 00:05:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[京沪新政落地首个周末：有二手房置换客买大20平米，新楼盘到访量提升50%](https://dig.chouti.com/link/40944880)|
+|2023-12-18 00:11:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【AI生图】当哈利波特的角色穿越到《实习医生格蕾》](https://dig.chouti.com/link/40944990)|
+|2023-12-18 01:14:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当霉霉看到她的体育生男友在比赛中被推到，整个人起身暴怒！](https://dig.chouti.com/link/40945393)|
+|2023-12-18 01:15:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[红毯摔倒见多了，第一次见流鼻血的](https://dig.chouti.com/link/40945422)|
+|2023-12-18 01:05:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[谁是“佩塞利诺”？发现被遮蔽的文艺复兴明星](https://dig.chouti.com/link/40945275)|
+|2023-12-18 01:05:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国庆假期后，一款名为“普乐电商”的APP崩盘，揭开了一场针对全职妈妈、中老年人的精准骗局，“一分钱不押，适合宝妈，宝奶奶们空余时间做，没有交期，不耽误做家务，还能有零花钱”。类似话术几乎覆盖了大多数受骗女性的生活现状：日常时间被家务和孩子分割；有人临近或已到退休年龄，依然面临着照顾家人和和工作的压力。](https://dig.chouti.com/link/40945263)|
+|2023-12-18 01:08:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[非国行 ROM，如何快速批量安装更新应用。](https://www.v2ex.com/t/1001206#reply11)|
+|2023-12-18 00:38:05|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[关于 LRU map 的一些灵感](https://blog.mauve.icu/2023/12/18/thoughts/lru-map/)|
 |2023-12-18 00:06:42|[余晟以为](https://feedpress.me/wx-yurii-says)|[坚持了两年之后，小朋友突然不想去打冰球了…](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009788&idx=1&sn=0eec43c01395b537ea0cc63521d1eb0f)|
 |2023-12-18 01:00:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么有的 app 禁止了 AD 服务还是会显示广告条？](https://www.v2ex.com/t/1001201#reply3)|
 |2023-12-18 00:56:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 年马上就过去了，今年的目标都实现多少了？副业都赚多少了？](https://www.v2ex.com/t/1001199#reply10)|
