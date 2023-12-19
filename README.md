@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-12-18）
+﻿# 每日资讯（2023-12-19）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-19 06:37:09|[Mokeyjay's Blog - ...](https://www.mokeyjay.com/feed)|[博客的船新版本正式上线啦！](https://mok.moe/p/new-blog)|
 |2023-12-18 16:14:07|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1220 OpenAI 探索用较低级的 AI 来监管更高级的 AI](https://linux.cn/article-16488-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-18 15:58:26|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 PWA：浏览器的新范式](https://linux.cn/article-16487-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-18 11:35:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本流行色协会公布 2024 年度色，希望以治愈的蓝色对抗全球性的焦虑](https://dig.chouti.com/link/40951668)|
