@@ -2,6 +2,49 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-19 12:06:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[吐槽下钉钉，下了定位软件不用也会被上报](https://www.v2ex.com/t/1001755#reply23)|
+|2023-12-19 08:57:37|[小众软件](https://www.appinn.com/feed/)|[Document_TagExplorer 2024 发布，为文件和文件夹加标签、写备注 Windows 7 及以上 ](https://www.appinn.com/document-tagexplorer-2024/)|
+|2023-12-19 02:30:55|[小众软件](https://www.appinn.com/feed/)|[群晖 DSM 6.2 将于 2024 年 10 月 1 日终止支持服务｜10年内购买的机型无需担心此问题](https://www.appinn.com/eol-dsm62/)|
+|2023-12-19 10:17:09|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[MAGEASY Apple Watch 錶帶錶殻推薦：讓你的 Apple Watch 風格多變 更具保護力](https://applefans.today/2023-12-mageasy-apple-watch-bands-reviews/)|
+|2023-12-19 02:01:02|[rxliuli blog](https://blog.rxliuli.com/atom.xml)|[週報 2023-12-17](https://blog.rxliuli.com/p/a76702c5a20b4cd9a5781f0e65be8935/)|
+|2023-12-19 08:23:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一个简单快捷的短链接转换服务 支持程序化对接 ](https://w2solo.com/topics/4320)|
+|2023-12-19 14:29:42|[触乐](http://www.chuapp.com/feed)|[IP界的“爽文主角”，正在打造自己的世界](http://www.chuapp.com/article/289704.html)|
+|2023-12-19 08:00:00|[web.dev: Blog](https://web.dev/feed.xml)|[New to the web platform in December](https://web.dev/blog/web-platform-12-2023?hl=en)|
+|2023-12-19 16:02:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你有没有什么忠告给现在的考公人？](https://www.zhihu.com/question/542681824)|
+|2023-12-19 16:02:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[多家企业驰援甘肃，新东方及东方甄选捐款 1000 万，鸿星尔克捐 2000 万物资，哪些信息值得关注？](https://www.zhihu.com/question/635598498)|
+|2023-12-19 16:02:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[苹果本周将停止在美销售 Apple Watch Series 9 及 Ultra 2，有哪些影响？](https://www.zhihu.com/question/635508925)|
+|2023-12-19 03:09:00|[oldj's blog](https://oldj.net/feed)|[增加新的柜员后会发生什么？](https://oldj.net/article/2023/12/19/what-happens-when-you-add-a-new-teller/)|
+|2023-12-19 15:59:54|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 玩摄影多年，按微单思路做了一个 App：相机 001](https://www.v2ex.com/t/1001798#reply1)|
+|2023-12-19 15:45:16|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 养老金个人账户, 每年利息 8 个点左右](https://www.v2ex.com/t/1001796#reply0)|
+|2023-12-19 15:44:06|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 可以推荐一些 Windows 可以用的软件/组件/设置/技巧吗？](https://www.v2ex.com/t/1001795#reply1)|
+|2023-12-19 15:17:58|[V2EX](http://www.v2ex.com/index.xml)|[ 机器学习 睿慕课的会员或者课程有大佬共享嘛](https://www.v2ex.com/t/1001794#reply0)|
+|2023-12-19 15:09:27|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 谷歌的中文搜索结果被污染, 是只有我这样, 还是大家都一样?](https://www.v2ex.com/t/1001793#reply9)|
+|2023-12-19 15:05:08|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 iPhone 使用 realVNC 无法连接 iMac](https://www.v2ex.com/t/1001792#reply0)|
+|2023-12-19 15:03:09|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 求助：云服务器中的 html 文件中引用的互联网静态资源突然无法访问](https://www.v2ex.com/t/1001791#reply4)|
+|2023-12-19 14:59:25|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 威联通双网口 nas 双软路由上网方案](https://www.v2ex.com/t/1001790#reply0)|
+|2023-12-19 14:55:18|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 独享顺风车跟快车有什么区别？](https://www.v2ex.com/t/1001789#reply4)|
+|2023-12-19 14:32:18|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 记得有个小哥哥？小姐姐？说不知道该敲个啥 app，我建议先敲个猫叫翻译吧](https://www.v2ex.com/t/1001787#reply0)|
+|2023-12-19 14:23:48|[V2EX](http://www.v2ex.com/index.xml)|[ MySQL 表单系统里的文本和多行文本在数据库里是什么结构类型](https://www.v2ex.com/t/1001786#reply0)|
+|2023-12-19 14:11:03|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请教一个自动计算库存的问题](https://www.v2ex.com/t/1001783#reply4)|
+|2023-12-19 14:05:32|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 有大佬听说过广州联通云商套餐吗？](https://www.v2ex.com/t/1001782#reply1)|
+|2023-12-19 13:54:14|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 外包被裁，在我即将三十岁生日的时候，在我即将当爸爸的时候](https://www.v2ex.com/t/1001781#reply5)|
+|2023-12-19 13:53:10|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 郑州数字马力，求指教](https://www.v2ex.com/t/1001780#reply2)|
+|2023-12-19 13:52:33|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 学了机器学习/深度学习/语言模型，可以自己干点什么（变现）？](https://www.v2ex.com/t/1001779#reply2)|
+|2023-12-19 13:48:18|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 为前端程序员准备的收藏神器，轻松重构任意站点全部或部分 UI，得到可维护性高的 html/css，支持转 tailwind css。](https://www.v2ex.com/t/1001777#reply5)|
+|2023-12-19 13:47:18|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 晴天霹雳， M2 MacBook Air 居然只可以连接一台外接显示器？](https://www.v2ex.com/t/1001776#reply9)|
+|2023-12-19 13:46:36|[V2EX](http://www.v2ex.com/index.xml)|[ Telegram 问下大家 用实体卡注册 telegram 会封嘛](https://www.v2ex.com/t/1001775#reply8)|
+|2023-12-19 13:15:07|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI Claude 是不是变笨了！](https://www.v2ex.com/t/1001774#reply8)|
+|2023-12-19 13:07:01|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 win 迷你 pc 连着电视充当播放源，电视关的时候如何同步把 pc 待机](https://www.v2ex.com/t/1001772#reply4)|
+|2023-12-19 13:05:36|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 突然想起来在前司因为两个领导内斗拉拢人引起的搞笑事，心生感慨，来扯下淡](https://www.v2ex.com/t/1001770#reply4)|
+|2023-12-19 12:43:25|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有没有会搞 neo4j 前端的朋友？](https://www.v2ex.com/t/1001767#reply0)|
+|2023-12-19 12:41:29|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 微信读书排行榜中的赞有的人为啥这么多？](https://www.v2ex.com/t/1001766#reply0)|
+|2023-12-19 12:34:23|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 这个小程序是谁家的？ sass?好多都长这一个样](https://www.v2ex.com/t/1001765#reply4)|
+|2023-12-19 12:30:36|[V2EX](http://www.v2ex.com/index.xml)|[ 旅行 大理菌子火锅](https://www.v2ex.com/t/1001763#reply1)|
+|2023-12-19 12:26:49|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 求教: 如何基于 LLM 构建一个代码协助助手？](https://www.v2ex.com/t/1001762#reply4)|
+|2023-12-19 12:20:08|[V2EX](http://www.v2ex.com/index.xml)|[ Android 一加是目前国产里解锁， root 和刷机最容易的吗？](https://www.v2ex.com/t/1001761#reply11)|
+|2023-12-19 12:17:21|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 机器人创业公司-香港科技大学 广州 培养 全栈开发实习生](https://www.v2ex.com/t/1001759#reply1)|
+|2023-12-19 12:13:55|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 谁家的企业宽带比较便宜？地点北京](https://www.v2ex.com/t/1001758#reply0)|
+|2023-12-19 12:10:27|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 怎么减肥最容易？](https://www.v2ex.com/t/1001757#reply27)|
 |2023-12-19 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：又下雪了](http://www.chuapp.com/article/289703.html)|
 |2023-12-19 06:19:21|[爱范儿](https://www.ifanr.com/feed)|[华为要造百万级豪车，「中国迈巴赫」能成吗？](https://www.ifanr.com/1570841?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-19 05:39:22|[爱范儿](https://www.ifanr.com/feed)|[续航突破 1000 公里！李斌实测蔚来 150 度电池包，却被喷上热搜？](https://www.ifanr.com/1570763?utm_source=rss&utm_medium=rss&utm_campaign=)|
