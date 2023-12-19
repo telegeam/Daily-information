@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-19 16:04:04|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马云放不下田园牧歌：新农业品牌亮相，首日天猫卖了不到100单](https://36kr.com/p/2567071302624900)|
+|2023-12-19 16:04:04|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2023，中国消费大变局](https://36kr.com/p/2566245573404292)|
+|2023-12-19 16:04:03|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[李斌，操刀今年最大一笔融资](https://36kr.com/p/2567109277640068)|
+|2023-12-19 16:04:03|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[传音畅销的高端机型，这配置在国内得破产](https://36kr.com/p/2566370197267842)|
+|2023-12-19 14:05:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“原油宝”第一案始末公布：中行全赔投资者穿仓损失，外加20%本金损失](https://dig.chouti.com/link/40964270)|
+|2023-12-19 14:36:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“涩谷系”文化运动的30年】“涩谷系”风潮和意识存在于90年代年轻人的心中，这种影响力可能比涩谷系音乐本身更深远。](https://dig.chouti.com/link/40964653)|
+|2023-12-19 11:14:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[万能创可贴](https://dig.chouti.com/link/40962826)|
+|2023-12-19 13:11:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[诶嘿！真特么有意思～](https://dig.chouti.com/link/40963938)|
+|2023-12-19 12:40:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ofo戴威二次创业败走美国，连锁咖啡馆仅剩一家](https://dig.chouti.com/link/40963432)|
+|2023-12-19 12:11:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【对话被骗至缅甸中科院博士】安徽合肥，张垚（化名）是中国科学院地球环境研究所博士，全国仅有500人的冷门专业从业者。 一年前，为筹集家人手术费，他被骗子以新加坡高薪工作诱骗至缅甸妙瓦底。没有“开单”，被打，关禁闭时默写《长恨歌》度日。引爆舆论后，他被解救回国，努力将生活和科研拉回正轨。](https://dig.chouti.com/link/40963266)|
+|2023-12-19 11:52:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[母亲进城做保洁：来自大厂女儿的记录](https://dig.chouti.com/link/40962920)|
+|2023-12-19 10:04:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据美国印太司令部司令表示，自从上个月“习拜会”以来，中方已经减少了对美国军机的所谓“危险拦截”行动](https://dig.chouti.com/link/40961725)|
+|2023-12-19 07:12:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[变形记](https://dig.chouti.com/link/40960259)|
+|2023-12-19 15:04:10|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 哇！微软的 Windows AI Studio 需要依赖 Linux 才能运行](https://linux.cn/article-16489-1.html?utm_source=rss&utm_medium=rss)|
 |2023-12-19 12:06:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[吐槽下钉钉，下了定位软件不用也会被上报](https://www.v2ex.com/t/1001755#reply23)|
 |2023-12-19 08:57:37|[小众软件](https://www.appinn.com/feed/)|[Document_TagExplorer 2024 发布，为文件和文件夹加标签、写备注 Windows 7 及以上 ](https://www.appinn.com/document-tagexplorer-2024/)|
 |2023-12-19 02:30:55|[小众软件](https://www.appinn.com/feed/)|[群晖 DSM 6.2 将于 2024 年 10 月 1 日终止支持服务｜10年内购买的机型无需担心此问题](https://www.appinn.com/eol-dsm62/)|
