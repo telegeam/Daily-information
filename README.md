@@ -1,7 +1,14 @@
-﻿# 每日资讯（2023-12-19）
+﻿# 每日资讯（2023-12-20）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-20 00:56:45|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 求推荐安卓平板给小孩字看教学视频](https://www.v2ex.com/t/1001824#reply0)|
+|2023-12-20 00:52:33|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Google 账号无法登陆 v 站](https://www.v2ex.com/t/1001823#reply0)|
+|2023-12-20 00:49:20|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 零下十度有什麼穿起來不臃腫的男裝衣服褲子推薦](https://www.v2ex.com/t/1001822#reply0)|
+|2023-12-20 00:38:46|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 在女生面前装高冷不咋回复信息，半夜偷看她朋友圈美照拍了拍她并夸她很漂亮](https://www.v2ex.com/t/1001821#reply7)|
+|2023-12-20 00:35:06|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 金融公司录入信息用的 pad 有推荐吗？](https://www.v2ex.com/t/1001819#reply1)|
+|2023-12-20 00:17:52|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 伸手党了，问个代理问题](https://www.v2ex.com/t/1001818#reply3)|
+|2023-12-20 00:14:58|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 Google pixel 有地震预警功能吗。](https://www.v2ex.com/t/1001817#reply3)|
 |2023-12-19 16:04:04|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马云放不下田园牧歌：新农业品牌亮相，首日天猫卖了不到100单](https://36kr.com/p/2567071302624900)|
 |2023-12-19 16:04:04|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2023，中国消费大变局](https://36kr.com/p/2566245573404292)|
 |2023-12-19 16:04:03|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[李斌，操刀今年最大一笔融资](https://36kr.com/p/2567109277640068)|
