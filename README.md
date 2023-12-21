@@ -1,7 +1,14 @@
-﻿# 每日资讯（2023-12-20）
+﻿# 每日资讯（2023-12-21）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-21 01:08:39|[精品MAC应用分享](https://xclient.info/feed)|[MWeb 4.5.3 专业的Markdown写作、记笔记、静态博客生成软件](https://xclient.info/s/mweb.html)|
+|2023-12-21 01:07:56|[精品MAC应用分享](https://xclient.info/feed)|[GoodTask 7.6.5 日历提醒工具](https://xclient.info/s/goodtask.html)|
+|2023-12-21 01:06:48|[精品MAC应用分享](https://xclient.info/feed)|[Bookends 14.2.7 文献书籍管理工具](https://xclient.info/s/bookends.html)|
+|2023-12-21 01:05:18|[精品MAC应用分享](https://xclient.info/feed)|[Infuse Pro 7.6.5 全能视频播放器](https://xclient.info/s/infuse-pro.html)|
+|2023-12-21 01:04:25|[精品MAC应用分享](https://xclient.info/feed)|[EazyDraw 11.4.0 矢量绘图](https://xclient.info/s/eazydraw.html)|
+|2023-12-21 01:03:27|[精品MAC应用分享](https://xclient.info/feed)|[The Clock 4.9.1 精美的世界时钟](https://xclient.info/s/the-clock.html)|
+|2023-12-21 01:01:48|[精品MAC应用分享](https://xclient.info/feed)|[Trickster 3.9.2 快速访问经常使用的文件](https://xclient.info/s/trickster.html)|
 |2023-12-20 12:12:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2024年法国网球公开赛海报发布，艺术家保罗·鲁斯托将罗兰·加洛斯带到了塞纳河畔，网球化作日落倒映出红土赛场](https://dig.chouti.com/link/40975133)|
 |2023-12-20 14:13:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[12月20日，甘肃积石山，地震救援现场，一位消防员两口就吃掉几乎一碗牛肉面](https://dig.chouti.com/link/40976125)|
 |2023-12-20 12:36:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[字节跳动2023年营收被曝达1100亿美元，赶超腾讯逼近Meta](https://dig.chouti.com/link/40975214)|
