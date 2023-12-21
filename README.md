@@ -2,6 +2,26 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-21 16:00:54|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[年底最後一波 VPN 「終身」優惠價 只要 54 美元 跨區解鎖 Netflix、Disney+ 影音串流平台](https://applefans.today/2023-12-ivacy-vpn-special-offer/)|
+|2023-12-21 13:49:33|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 和 Apple Watch 都可以用的 匯率換算 app 《匯率計算機》](https://applefans.today/currency-converter-app/)|
+|2023-12-21 12:16:36|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[用 iPhone 查詢航班狀況的方式](https://applefans.today/how-to-use-ios-flight-finder/)|
+|2023-12-21 04:16:35|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[下一代 CarPlay 系統 將從 Aston Martin 和 Porsche 開啟新頁？！](https://applefans.today/2023-12-apple-next-carplay-porsche-aston-martin/)|
+|2023-12-21 05:34:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[搞独立开发的看过来， 2023 年你们赚了多少钱？](https://www.v2ex.com/t/1002240#reply46)|
+|2023-12-21 16:26:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Windows 打游戏的方案是什么？](https://www.v2ex.com/t/1002463#reply8)|
+|2023-12-21 12:22:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用 rdp 远程 win10 的时候，能不能做到被远程的桌面不退出登录？](https://www.v2ex.com/t/1002409#reply28)|
+|2023-12-21 10:44:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[问一下客户端和前端同学跨平台方案， flutter 现在还活着吗](https://www.v2ex.com/t/1002389#reply12)|
+|2023-12-21 16:58:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么还有很多人不愿意放弃 mysql5.7](https://www.v2ex.com/t/1002467#reply18)|
+|2023-12-21 01:30:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2023 Pixel8 vs 三星 S23+](https://www.v2ex.com/t/1002143#reply36)|
+|2023-12-21 11:14:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[威联通用 entware 安装的 syncthing 似乎出了问题](https://www.v2ex.com/t/1002394#reply8)|
+|2023-12-21 07:41:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一个做了 6 年的小程序，只赚了 180 多块钱，结果微信竟然还要我认证，认证费 300](https://www.v2ex.com/t/1002311#reply46)|
+|2023-12-21 04:41:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大龄程序员的出路难道是开滴滴送外卖吗](https://www.v2ex.com/t/1002227#reply87)|
+|2023-12-21 15:20:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[微信电脑版聊天记录有办法破解吗](https://www.v2ex.com/t/1002451#reply4)|
+|2023-12-21 09:20:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[傳Apple Watch X採全新設計：不相容所有舊款錶帶](https://www.iphonetaiwan.org/2023/12/apple-watch-x-2024-new-design.html)|
+|2023-12-21 08:46:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果Vision Pro：2月發售，Micro OLED驚艷登場](https://www.iphonetaiwan.org/2023/12/apple-vision-pro-february-release.html)|
+|2023-12-21 08:25:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Card儲蓄年利率：從4.15%增加至4.25%](https://www.iphonetaiwan.org/2023/12/apple-savings-apy-increase-4-25.html)|
+|2023-12-21 08:06:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18代碼透露！A18晶片與四款iPhone 16新型號](https://www.iphonetaiwan.org/2023/12/iphone-16-a18-chip-revealed.html)|
+|2023-12-21 11:10:19|[知乎每日精选](https://www.zhihu.com/rss)|[金庸中带数字的名号能从一排到十吗？](http://www.zhihu.com/question/346262327/answer/3333040365?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2023-12-21 03:20:17|[知乎每日精选](https://www.zhihu.com/rss)|[《三国演义》全篇一共使用了多少计?](http://www.zhihu.com/question/607523853/answer/3085904282?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-12-21 13:36:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[找个 go 开发，全力临时搞个 demo 赚个小钱哈，关于 webrtc ice 的不会的勿扰](https://www.v2ex.com/t/1002425#reply7)|
 |2023-12-21 12:22:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[用 rdp 远程 win10 的时候，能不能做到被远程的桌面不退出登录？](https://www.v2ex.com/t/1002409#reply24)|
 |2023-12-21 02:23:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[jetbrains AI Assistant 无法使用](https://www.v2ex.com/t/1002167#reply51)|
