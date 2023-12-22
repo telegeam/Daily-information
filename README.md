@@ -2,6 +2,37 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-22 08:16:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本女记者奔赴甘肃灾区报道灾区现状，目前最大的问题就是冷冷冷。](https://dig.chouti.com/link/40992510)|
+|2023-12-22 08:43:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【演转导的3.0时代：腰部演员的转型与突破】当下伴随影视寒冬诞生的3.0时代，呈现出与前两代明显不同特征：中腰部演员居多，受市场环境和自身角色定型影响而选择执导，将导演作为自己职业转型或实现自我表达的一种方式。](https://dig.chouti.com/link/40992639)|
+|2023-12-22 04:11:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这不给红牌？ 本轮西甲，皇家社会0-0战平加的斯。比赛第85分钟，加的斯中场阿尔卡拉斯拉住久保健英，将其360度旋转后摔飞，主裁判仅向阿尔卡拉斯出示黄牌……](https://dig.chouti.com/link/40990241)|
+|2023-12-22 05:04:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[浙大教授发明超保暖人造纤维：模仿北极熊毛结构，厚度仅羽绒服五分之一，但更保暖](https://dig.chouti.com/link/40990475)|
+|2023-12-22 05:15:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[金雕和喜鹊的尺寸对比](https://dig.chouti.com/link/40990852)|
+|2023-12-22 05:15:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[入侵地球的外星人们开会： 「有一个好消息和一个坏消息。」 「哦。先说好消息吧。」 「我们已经占领了地球30%的面积。」 「这是个好消息。那坏消息是什么？」 「日本人和中国人发现我们是能吃的了。 」](https://dig.chouti.com/link/40990826)|
+|2023-12-22 06:05:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“数学天才”柳智宇宣布结婚，曾在龙泉寺出家8年后还俗】据柳智宇介绍，女朋友也是一位修行者，他还在“出家”的时候已认识对方，但相互没说过什么话。还俗之后随着相互了解加深，他感觉两人性格相投、三观匹配，就向对方告白。](https://dig.chouti.com/link/40991112)|
+|2023-12-22 07:06:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【多名美国作家起诉人工智能公司OpenAI】这些作家向法庭表示，OpenAI在未经许可的情况下，从互联网上批量复制了他们的作品，并将这些作品纳入ChatGPT的训练数据里，侵犯了他们的作品版权。作家们向法院提出了金额不详的赔偿要求，并要求法院下令这些公司停止侵犯版权。](https://dig.chouti.com/link/40991831)|
+|2023-12-22 07:37:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被骗80万后，我妈依然怀念骗子的关爱](https://dig.chouti.com/link/40992049)|
+|2023-12-22 06:12:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[岛国网友在CoCo壱番屋咖喱店里，点了一巨份咖喱（米饭600g，咖喱酱2.7kg）+所有的配菜。 ※总共花了13990日元（702人民币）](https://dig.chouti.com/link/40991297)|
+|2023-12-22 07:36:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[特斯拉Cybertruck限产之谜：电池不够or饥饿营销？](https://dig.chouti.com/link/40992008)|
+|2023-12-22 05:05:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【福布斯女运动员收入发榜：谷爱凌第二】排名第一的是国际女子网球协会（WTA）世界第一斯维亚泰克，她在2023年总收入为2390万美元，其中场内990万美元，场外收入1400万美元。谷爱凌以2210万美元紧随斯维亚泰克之后，而谷爱凌的收入当中，仅有10万美元来自赛场，2200万美元来自场外代言。](https://dig.chouti.com/link/40990741)|
+|2023-12-22 06:36:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[谷歌VideoPoet大模型上线，生成长达10秒视频，还可自动配音](https://dig.chouti.com/link/40991401)|
+|2023-12-22 04:56:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台上“不干预”，台下又如何？——揭密台“选举”背后的中美角力：双方都有哪些“超前部署”](https://dig.chouti.com/link/40990411)|
+|2023-12-22 06:56:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【年轻人涌入2元面包店】对于2元面包，人们有着许多疑问——它能吃吗？好吃吗？真的能赚钱吗？它又是如何出现的？多位2元面包店的经营者讲述了自己的经营故事。](https://dig.chouti.com/link/40991443)|
+|2023-12-22 06:12:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[瓢虫的起飞过程](https://dig.chouti.com/link/40991321)|
+|2023-12-22 06:05:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【范·迪塞尔否认性侵前助理指控】12月22日，范·迪塞尔通过律师Bryan Freedmal否认性侵指控：“我们明确表态，范·迪塞尔断然否认这一说法的全部内容。这是他第一次听说这个超过13年之久指控中所描述的说法，而且它出自一名据称仅工作了9天的员工。我们有明确的证据来完全驳斥这些离谱荒谬的指控。”](https://dig.chouti.com/link/40991024)|
+|2023-12-22 05:11:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[午饭](https://dig.chouti.com/link/40990757)|
+|2023-12-22 01:14:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[12月22日早晨，山东文登积雪74厘米，大幅刷新我国关内城镇国家站的雪深纪录（原纪录1961年2月16日 浙江天台62厘米）](https://dig.chouti.com/link/40988409)|
+|2023-12-22 08:25:24|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1223 Mozilla 认为 “可信类型” 是一项值得信赖的安全功能](https://linux.cn/article-16497-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-22 06:49:30|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 支持苹果芯片的 Fedora Asahi Remix 39 发布](https://linux.cn/article-16496-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-22 03:53:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 活动资料下载 ｜ LLUG 北京场成功举办](https://linux.cn/article-16495-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-22 08:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[《华尔街日报》讲述的2023年大新闻](https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5-%E8%AE%B2%E8%BF%B0%E7%9A%842023%E5%B9%B4%E5%A4%A7%E6%96%B0%E9%97%BB-eefd0a82)|
+|2023-12-22 12:10:00|[机核](https://www.gcores.com/rss)|[【抽NS港服兑换码】《距离8点还有3分钟》今日已登陆主机与移动端](https://www.gcores.com/articles/175421)|
+|2023-12-22 11:59:22|[机核](https://www.gcores.com/rss)|[PS3及Xbox 360版《黑暗之魂2》与《装甲核心：判决日》服务器将于2024年3月31日关闭](https://www.gcores.com/articles/175431)|
+|2023-12-22 11:30:00|[机核](https://www.gcores.com/rss)|[【抽NS港服兑换码】舒适的策略游戏《繁荣之初》登陆任天堂平台](https://www.gcores.com/articles/175419)|
+|2023-12-22 11:26:52|[机核](https://www.gcores.com/rss)|[《少女前线2：追放》：经典战棋，美术顶级](https://www.gcores.com/articles/175390)|
+|2023-12-22 10:00:00|[机核](https://www.gcores.com/rss)|[把史莱姆滴入眼睛！试试乐敦劲Z史莱姆眼药水](https://www.gcores.com/videos/175423)|
+|2023-12-22 10:00:00|[机核](https://www.gcores.com/rss)|[海王真的是搞笑角色吗？一点关于海王的形象变化唠嗑](https://www.gcores.com/videos/175387)|
+|2023-12-22 09:30:00|[机核](https://www.gcores.com/rss)|[真人跑团丨这对CP 给我锁死！](https://www.gcores.com/videos/175384)|
+|2023-12-22 09:00:00|[机核](https://www.gcores.com/rss)|[在历史的河岸上，录音笔 VOL.105](https://www.gcores.com/radios/175418)|
 |2023-12-22 05:56:58|[爱范儿](https://www.ifanr.com/feed)|[⭕️ 制糖工厂推出多彩贴贴线，为生活注入数字多巴胺](https://www.ifanr.com/1571251?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-22 04:09:28|[爱范儿](https://www.ifanr.com/feed)|[朋友圈刷屏的 emo 大叔，怎么成了年轻人的嘴替](https://www.ifanr.com/1571180?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2023-12-22 00:52:35|[爱范儿](https://www.ifanr.com/feed)|[早报 苹果新款 Apple Watch 在美停止线上销售 /周杰伦发布新歌/何小鹏称如果想害朋友就让他造车](https://www.ifanr.com/1571207?utm_source=rss&utm_medium=rss&utm_campaign=)|
