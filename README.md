@@ -1,7 +1,10 @@
-﻿# 每日资讯（2023-12-22）
+﻿# 每日资讯（2023-12-23）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-23 01:00:01|[虎嗅](https://rss.huxiu.com/)|[万亿巨雷之后，聊聊那些奇葩的风控措施](https://www.huxiu.com/article/2456034.html?f=rss)|
+|2023-12-23 00:52:26|[虎嗅](https://rss.huxiu.com/)|[厌蠢情绪背后的“傲慢与偏见”](https://www.huxiu.com/article/2459024.html?f=rss)|
+|2023-12-23 00:01:42|[虎嗅](https://rss.huxiu.com/)|[经济第一大省，为何要画五个“圈”？](https://www.huxiu.com/article/2459033.html?f=rss)|
 |2023-12-22 01:25:53|[精品MAC应用分享](https://xclient.info/feed)|[Vanilla 2.1.1 菜单栏图标管理工具](https://xclient.info/s/vanilla.html)|
 |2023-12-22 01:22:58|[精品MAC应用分享](https://xclient.info/feed)|[OmniOutliner Pro 5.12.0 日常工作想法记录](https://xclient.info/s/omnioutliner.html)|
 |2023-12-22 01:21:27|[精品MAC应用分享](https://xclient.info/feed)|[OmniPlan Pro 4.6.0 最NB的项目管理流程软件](https://xclient.info/s/omni-plan.html)|
