@@ -2,6 +2,23 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-23 12:04:46|[太隐](https://wangyurui.com/feed.xml)|[《元史》 危素 大梓](https://wangyurui.com/posts/da-zi-b0136688)|
+|2023-12-23 08:51:05|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1224 微软准备放弃其 Windows VR 平台](https://linux.cn/article-16500-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-23 07:20:54|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 Geekbench ML Benchmark 应用添加了 Linux 桌面支持](https://linux.cn/article-16499-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-23 12:17:12|[虎嗅](https://rss.huxiu.com/)|[历史的邮差总按两遍铃](https://www.huxiu.com/article/2461497.html?f=rss)|
+|2023-12-23 11:55:00|[虎嗅](https://rss.huxiu.com/)|[保安大爷，是认定豪车的唯一标准？](https://www.huxiu.com/article/2457729.html?f=rss)|
+|2023-12-23 11:17:18|[虎嗅](https://rss.huxiu.com/)|[冰雪大世界“退票”事件后：排队依然凶猛](https://www.huxiu.com/article/2461948.html?f=rss)|
+|2023-12-23 11:04:23|[虎嗅](https://rss.huxiu.com/)|[180亿独角兽破产：共享滑板车集体梦碎](https://www.huxiu.com/article/2461480.html?f=rss)|
+|2023-12-23 10:11:00|[虎嗅](https://rss.huxiu.com/)|[储能业务比卖车更好赚，特斯拉花2亿拿地](https://www.huxiu.com/article/2461225.html?f=rss)|
+|2023-12-23 10:10:00|[虎嗅](https://rss.huxiu.com/)|[周亚夫如何平定七王之乱，又为何结局凄惨？](https://www.huxiu.com/article/2458502.html?f=rss)|
+|2023-12-23 09:59:21|[虎嗅](https://rss.huxiu.com/)|[15年投资一朝清仓，同方系将在国都证券“谢幕”](https://www.huxiu.com/article/2461226.html?f=rss)|
+|2023-12-23 09:58:03|[虎嗅](https://rss.huxiu.com/)|[摄影师饭碗难保？Midjourney下一步将生成视频](https://www.huxiu.com/article/2461237.html?f=rss)|
+|2023-12-23 09:53:00|[虎嗅](https://rss.huxiu.com/)|[2nm，贵得吓人](https://www.huxiu.com/article/2460795.html?f=rss)|
+|2023-12-23 09:25:00|[虎嗅](https://rss.huxiu.com/)|[创业者如何不被假投资人坑？](https://www.huxiu.com/article/2458004.html?f=rss)|
+|2023-12-23 09:12:40|[虎嗅](https://rss.huxiu.com/)|[戴珊筹备资管公司背后：阿里一级市场投资收缩，美、港股密集减持套现](https://www.huxiu.com/article/2461227.html?f=rss)|
+|2023-12-23 08:31:50|[虎嗅](https://rss.huxiu.com/)|[朱令离世，留下为她奔走半生的父母](https://www.huxiu.com/article/2461216.html?f=rss)|
+|2023-12-23 01:02:07|[爱范儿](https://www.ifanr.com/feed)|[网游新规征求意见，腾讯网易市值蒸发 4500 亿/ChatGPT 语音功能实现全面开放/淘宝天猫核心管理层大换血](https://www.ifanr.com/1571335?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-23 03:25:00|[小众软件](https://www.appinn.com/feed/)|[76 款国产软件 5 折起，国货之光优惠庆典现已开启](https://www.appinn.com/76-apps-cn-better/)|
 |2023-12-23 04:01:33|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[社区速递 025 刘海工具、百元耳机以及千奇百怪的放松姿势](https://sspai.com/post/85179)|
 |2023-12-23 03:49:02|[煎蛋](http://jandan.net/feed)|[小学堂：原来子弹也可以打水漂](http://jandan.net/p/115159)|
 |2023-12-23 02:02:58|[晚点LatePost](https://feedpress.me/wx-postlate)|[​​晚点财经｜腾讯网易一天损失 4500 亿元市值；英特尔收到圣诞包裹，很贵](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247510892&idx=2&sn=b57f907da15e9fcb26e24119c5a96fb2)|
