@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-24 04:01:23|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[一日一技 妙用终端清理 macOS 启动台顽固图标](https://sspai.com/post/85136)|
+|2023-12-24 20:00:00|[Bright LGM's Blog](https://brightliao.com/atom.xml)|[每日一思](http://brightliao.com/2023/12/24/daily-thoughts/)|
 |2023-12-24 04:11:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[VR飞鸟模拟器](https://dig.chouti.com/link/41008564)|
 |2023-12-24 05:05:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[法国制药巨头被判“过失杀人罪”，降糖药超适应症乱象何时休？](https://dig.chouti.com/link/41008798)|
 |2023-12-24 04:29:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【2023 年，人们不再看杂志，但这些杂志变得更好了】在“变得更好看了”这个意义上，更得益于长期订阅、长达一年的真实阅读和对比，我们为你评选出 2023 年度最不应该被错过的 12 本杂志。](https://dig.chouti.com/link/41008644)|
