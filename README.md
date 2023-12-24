@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-24 12:48:08|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[阿里云 rds 主从延迟排查](https://nicksxs.me/2023/12/24/%E9%98%BF%E9%87%8C%E4%BA%91-rds-%E4%B8%BB%E4%BB%8E%E5%BB%B6%E8%BF%9F%E6%8E%92%E6%9F%A5/)|
+|2023-12-24 12:20:45|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1225 微软终止支持 Windows 10 将带来 4.8 亿公斤电子垃圾](https://linux.cn/article-16502-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-24 03:17:45|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《夜行者》：底层混混打工日记，只要你脸皮厚胆子大，三个月就可以翻身！](https://www.ximalaya.com/sound/695415259)|
+|2023-12-24 12:11:37|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[“用调评” 一体化：生成上下文数据集，改善 AI 测试生成质量](http://www.phodal.com/blog/use-finetune-eval-unique/)|
+|2023-12-24 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 171 期（2023.12.25）](https://www.ftium4.com/ux-weekly-171.html)|
+|2023-12-24 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[卖磁力过滤设备给宁德时代，大专夫妻北交所闯关成功｜专精快报](https://36kr.com/p/2574090521962120)|
+|2023-12-24 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[WATTMAN瓦特曼获数亿元B系列融资，深耕传统重工业的人工智能化｜硬氪首发](https://36kr.com/p/2574085077280133)|
+|2023-12-24 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[不愿去餐厅吃饭的年轻人，爱上了商超餐饮区](https://36kr.com/p/2573305522234752)|
+|2023-12-24 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024，活出确定性，比什么都重要](https://36kr.com/p/2573378223089288)|
+|2023-12-24 16:05:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国公司全球化周报 传字节今年营收达1100亿美元，逼近Meta / 比亚迪追平特斯拉，有望成为全球纯电汽车销冠](https://36kr.com/p/2573183146321288)|
+|2023-12-24 16:05:19|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[拉上亲家闯关IPO失败，比亚迪投资也不吃香了｜专精快报](https://36kr.com/p/2574092620490115)|
+|2023-12-24 16:05:19|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[闻神火了，但不是普通人的胜利](https://36kr.com/p/2573968321701512)|
+|2023-12-24 16:05:19|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一家180亿独角兽宣布破产](https://36kr.com/p/2573090979194498)|
+|2023-12-24 15:10:45|[触乐](http://www.chuapp.com/feed)|[在社媒流量C位上，坐稳一年](http://www.chuapp.com/article/289713.html)|
+|2023-12-24 12:03:06|[晚点LatePost](https://feedpress.me/wx-postlate)|[为什么黑塞永远是年轻人的朋友，即使 100 多年过去？丨晚点周末](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247510893&idx=1&sn=87ac6222e69edbc1cd9adb5acc87ce5b)|
 |2023-12-24 04:01:23|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[一日一技 妙用终端清理 macOS 启动台顽固图标](https://sspai.com/post/85136)|
 |2023-12-24 20:00:00|[Bright LGM's Blog](https://brightliao.com/atom.xml)|[每日一思](http://brightliao.com/2023/12/24/daily-thoughts/)|
 |2023-12-24 04:11:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[VR飞鸟模拟器](https://dig.chouti.com/link/41008564)|
