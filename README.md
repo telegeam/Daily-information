@@ -1,7 +1,9 @@
-﻿# 每日资讯（2023-12-23）
+﻿# 每日资讯（2023-12-24）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-24 00:43:04|[V2EX](http://www.v2ex.com/index.xml)|[ 硬件 罗技 M590 为啥停产，有无线静音四向滚轮的鼠标推荐吗？](https://www.v2ex.com/t/1002947#reply0)|
+|2023-12-24 00:37:28|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 理性讨论，中外的医疗水平差距有多大？](https://www.v2ex.com/t/1002946#reply13)|
 |2023-12-23 08:18:00|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Pensieve: 2312](https://xiaket.github.io/2023/pensieve-2312.html)|
 |2023-12-23 18:52:46|[V2EX](http://www.v2ex.com/index.xml)|[ OpenWrt passwall2 一直开启后无法上网](https://www.v2ex.com/t/1002942#reply1)|
 |2023-12-23 18:13:58|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 自用轻量云有哪些线路较好的选择？](https://www.v2ex.com/t/1002940#reply2)|
@@ -23,6 +25,7 @@
 |2023-12-23 14:17:41|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 群晖✖️百度网盘 套件发布，百度 nas 会员 79/年](https://www.v2ex.com/t/1002921#reply3)|
 |2023-12-23 14:13:26|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 免费可用的谷歌 Gemini Pro 尝鲜版来啦！实测与 GPT3.5 不相上下，接近 GPT4 水平](https://www.v2ex.com/t/1002920#reply3)|
 |2023-12-23 07:04:41|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Flash Copilot 闪记 —— 浏览器超级助手，效率 x10 倍，IT 人必备神器](https://w2solo.com/topics/4324)|
+|2023-12-24 00:05:00|[瓦解的生活记事](https://hin.cool/atom.xml)|[老 刘](https://hin.cool/posts/laoliu.html)|
 |2023-12-23 07:45:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求教 23 年 12 月买 1000-1500 左右备用机](https://www.v2ex.com/t/1002868#reply12)|
 |2023-12-23 08:36:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[知情人士：电商业务暴涨，小红书今年有望盈利5亿美元，远超年初预计的不到5000万美元](https://dig.chouti.com/link/41002138)|
 |2023-12-23 14:02:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[威联通 Container Station 里面装的 FreshRSS 怎么支持 SSL？](https://www.v2ex.com/t/1002919#reply1)|
