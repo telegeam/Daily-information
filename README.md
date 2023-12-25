@@ -1,7 +1,8 @@
-﻿# 每日资讯（2023-12-24）
+﻿# 每日资讯（2023-12-25）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-25 00:59:42|[Decohack](https://www.decohack.com/feed)|[轻松阅读英文内容-终极翻译工具和插件推荐](https://www.decohack.com/Post/1513)|
 |2023-12-24 13:47:59|[张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/feed/)|[使用JS提取视频中的音频资源](https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/)|
 |2023-12-24 14:47:57|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[2023（上篇）](https://www.edony.ink/2023/)|
 |2023-12-24 10:40:25|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[傲梅分区助手AOMEI Partition Assistant 10.2.2中文绿色版](https://masuit.com/1443)|
