@@ -2,6 +2,28 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-25 12:33:46|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[韩国高分惊悚片《殴打诱发者》：阴暗人性的最终考验，太可怕了！](https://www.ximalaya.com/sound/695720146)|
+|2023-12-25 05:05:52|[Steve Sun](https://www.sund.site/index.xml)|[2023 年终个人总结](https://sund.site/posts/2023/2023-year-summary/)|
+|2023-12-25 15:00:00|[机核](https://www.gcores.com/rss)|[《从0到1做游戏》：充满不确定的大生产阶段——项目管理](https://www.gcores.com/radios/175376)|
+|2023-12-25 13:00:00|[机核](https://www.gcores.com/rss)|[三军美食家Vol.4丨韩信和方便面](https://www.gcores.com/radios/174473)|
+|2023-12-25 13:00:00|[机核](https://www.gcores.com/rss)|[三军美食家Vol.3丨白起能吃白切牛肉吗？](https://www.gcores.com/radios/173136)|
+|2023-12-25 11:17:05|[机核](https://www.gcores.com/rss)|[译介丨机甲勇士二版规则书相关：装备篇（7）](https://www.gcores.com/articles/175522)|
+|2023-12-25 10:03:44|[机核](https://www.gcores.com/rss)|[类“掘地求升”游戏《一款关于攀岩的困难游戏》上线Steam商城页](https://www.gcores.com/articles/175523)|
+|2023-12-25 10:00:00|[机核](https://www.gcores.com/rss)|[《OD》里岛哥哥可能玩点什么花样？评论区里的大神给出有趣的观点！](https://www.gcores.com/videos/175517)|
+|2023-12-25 09:00:00|[机核](https://www.gcores.com/rss)|[买了百龄坛和《刀塔2》联名的酒，录音笔 VOL.106](https://www.gcores.com/radios/175518)|
+|2023-12-25 07:07:49|[机核](https://www.gcores.com/rss)|[一场出乎意料的冒险！与《指环王》扮演者们一起玩《博德之门3》](https://www.gcores.com/articles/175513)|
+|2023-12-25 06:13:11|[机核](https://www.gcores.com/rss)|[《浩劫前夕》将于1月22日停服，已购买用户均将自动退款](https://www.gcores.com/articles/175509)|
+|2023-12-25 05:17:30|[机核](https://www.gcores.com/rss)|[《致命公司》位居榜首：Steamdb公布2023年游戏口碑榜](https://www.gcores.com/articles/175504)|
+|2023-12-25 04:40:15|[机核](https://www.gcores.com/rss)|[《碧蓝幻想Relink》确定推出体验版，2024年1月上架](https://www.gcores.com/articles/175501)|
+|2023-12-25 03:45:00|[机核](https://www.gcores.com/rss)|[【福利】Solarain原创少女角色「魔法巡礼Bunny」，12月26日20点开启预售](https://www.gcores.com/articles/175500)|
+|2023-12-25 03:43:57|[机核](https://www.gcores.com/rss)|[开放世界武侠单机RPG《古龙风云录》定档2024年2月1日上推出](https://www.gcores.com/articles/175502)|
+|2023-12-25 03:12:28|[机核](https://www.gcores.com/rss)|[《Baba Is You》开发者新作《Mobile Suit Baba》12月28日6点前可免费领取](https://www.gcores.com/articles/175499)|
+|2023-12-25 03:00:00|[机核](https://www.gcores.com/rss)|[摄影分享丨你好2024](https://www.gcores.com/articles/174904)|
+|2023-12-25 02:59:26|[机核](https://www.gcores.com/rss)|[涅克洛蒙达：钢铁家族奥洛克（二）](https://www.gcores.com/articles/175496)|
+|2023-12-25 02:05:48|[机核](https://www.gcores.com/rss)|[TV动画《葬送的芙莉莲》新章PV公开，2024年1月5日开播](https://www.gcores.com/articles/175498)|
+|2023-12-25 01:51:31|[机核](https://www.gcores.com/rss)|[《奇巧计程车》新企划：真人日剧《RoOT》2024年4月播出](https://www.gcores.com/articles/175494)|
+|2023-12-25 01:47:09|[机核](https://www.gcores.com/rss)|[Epic假日送好礼：239元《幽灵线:东京》免费领](https://www.gcores.com/articles/175495)|
+|2023-12-25 01:31:36|[机核](https://www.gcores.com/rss)|[《辐射4》大型MOD《辐射：伦敦》将于2024年4月23日推出](https://www.gcores.com/articles/175493)|
 |2023-12-25 10:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国失业青年：他们从官方数据中消失，出现在图书馆里](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%B1%E4%B8%9A%E8%80%85%E5%B9%B6%E4%B8%8D%E6%80%BB%E6%98%AF%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%95%B0%E6%8D%AE%E4%B8%AD-%E4%BD%86%E4%BC%9A%E5%9C%A8%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B8%AD-0ae966d9)|
 |2023-12-25 06:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国称中国正在窃取AI机密以加强间谍活动](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%9C%A8%E7%AA%83%E5%8F%96ai%E6%9C%BA%E5%AF%86%E4%BB%A5%E5%8A%A0%E5%BC%BA%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8-cdb9a5b5)|
 |2023-12-25 07:15:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国发布网游新规草案后，腾讯市值蒸发460亿美元](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E7%BD%91%E6%B8%B8%E6%96%B0%E8%A7%84%E8%8D%89%E6%A1%88%E5%90%8E-%E8%85%BE%E8%AE%AF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91460%E4%BA%BF%E7%BE%8E%E5%85%83-85cedfaf)|
