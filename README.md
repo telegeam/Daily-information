@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-25 01:09:11|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[富士康工人反抗一周年纪念与访谈](https://fed.laborinfocn3.com/foxcon-worker-1year/)|
+|2023-12-25 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待有企业使用 AI 写代码，6 个月研发提效超 20％，未来 AI 对程序员会有多大影响?](https://www.zhihu.com/question/636089523)|
+|2023-12-25 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[世界上最公平的事情是什么？](https://www.zhihu.com/question/630774354)|
+|2023-12-25 04:01:55|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价秦昊、李乃文、陈明昊、马吟吟主演的电视剧《三大队》？](https://www.zhihu.com/question/635966899)|
+|2023-12-25 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 Karsa 加盟 CFO 战队？他的 LPL 职业生涯真的要结束了吗？](https://www.zhihu.com/question/636062747)|
+|2023-12-25 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[考研初试结束后的时间怎么安排？](https://www.zhihu.com/question/630072743)|
 |2023-12-25 00:59:42|[Decohack](https://www.decohack.com/feed)|[轻松阅读英文内容-终极翻译工具和插件推荐](https://www.decohack.com/Post/1513)|
 |2023-12-24 13:47:59|[张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/feed/)|[使用JS提取视频中的音频资源](https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/)|
 |2023-12-24 14:47:57|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[2023（上篇）](https://www.edony.ink/2023/)|
