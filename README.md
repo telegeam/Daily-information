@@ -2,6 +2,57 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-26 08:59:20|[小众软件](https://www.appinn.com/feed/)|[小鱼短信 – 自动化拦截垃圾短信应用，基于机器学习 Core ML 开发 iPhone 限免 ](https://www.appinn.com/xiaoyu-sms/)|
+|2023-12-26 07:00:55|[小众软件](https://www.appinn.com/feed/)|[AOMEI Partition Assistant Pro 限免：傲梅分区助手国际版｜区别不大，可以不领。](https://www.appinn.com/aomei-partition-assistant-pro/)|
+|2023-12-26 12:09:00|[虎嗅](https://rss.huxiu.com/)|[C罗中国行，被疯狂吸金](https://www.huxiu.com/article/2473210.html?f=rss)|
+|2023-12-26 12:00:14|[虎嗅](https://rss.huxiu.com/)|[去开网约车，还是中年人的退路吗？](https://www.huxiu.com/article/2473213.html?f=rss)|
+|2023-12-26 11:53:00|[虎嗅](https://rss.huxiu.com/)|[“停车难、停车乱”怎么解？](https://www.huxiu.com/article/2473628.html?f=rss)|
+|2023-12-26 11:44:38|[虎嗅](https://rss.huxiu.com/)|[黄金年内涨超13%，明年还会涨？](https://www.huxiu.com/article/2473209.html?f=rss)|
+|2023-12-26 11:41:00|[虎嗅](https://rss.huxiu.com/)|[芒格访谈：人能做的最好的事，是助另一个人多知多智（上）](https://www.huxiu.com/article/2472866.html?f=rss)|
+|2023-12-26 11:22:00|[虎嗅](https://rss.huxiu.com/)|[游艇科普：让你比99%的人更懂游艇](https://www.huxiu.com/article/2472847.html?f=rss)|
+|2023-12-26 11:03:00|[虎嗅](https://rss.huxiu.com/)|[中国游戏产业三十年，经历了哪些重要时刻？](https://www.huxiu.com/article/2473159.html?f=rss)|
+|2023-12-26 11:00:00|[虎嗅](https://rss.huxiu.com/)|[微博热搜，还有什么不能卖？](https://www.huxiu.com/article/2473156.html?f=rss)|
+|2023-12-26 11:00:00|[虎嗅](https://rss.huxiu.com/)|[全球最富百岁老人，永不破产的巨人](https://www.huxiu.com/article/2472370.html?f=rss)|
+|2023-12-26 10:50:00|[虎嗅](https://rss.huxiu.com/)|[航运“碳税”将至，船东集体戴上紧箍咒](https://www.huxiu.com/article/2473208.html?f=rss)|
+|2023-12-26 10:46:00|[虎嗅](https://rss.huxiu.com/)|[伊朗彻底打响反击战了？](https://www.huxiu.com/article/2472860.html?f=rss)|
+|2023-12-26 10:36:35|[虎嗅](https://rss.huxiu.com/)|[金辉：濒临极限，勇于突破](https://www.huxiu.com/article/2473623.html?f=rss)|
+|2023-12-26 10:33:10|[虎嗅](https://rss.huxiu.com/)|[看秦淮绝色花魁——李香君的一生](https://www.huxiu.com/article/2472858.html?f=rss)|
+|2023-12-26 10:27:00|[虎嗅](https://rss.huxiu.com/)|[企业数据权益的三重误区](https://www.huxiu.com/article/2473179.html?f=rss)|
+|2023-12-26 10:25:25|[虎嗅](https://rss.huxiu.com/)|[稻花香集团创始人去世：从白手起家到80亿元身家](https://www.huxiu.com/article/2473204.html?f=rss)|
+|2023-12-26 10:02:26|[虎嗅](https://rss.huxiu.com/)|[人类假扮卧底，骗AI泄露代码拯救世界？](https://www.huxiu.com/article/2472829.html?f=rss)|
+|2023-12-26 10:00:17|[虎嗅](https://rss.huxiu.com/)|[一个狠招，治好你的焦虑和恐惧](https://www.huxiu.com/article/2448344.html?f=rss)|
+|2023-12-26 09:38:00|[虎嗅](https://rss.huxiu.com/)|[“阶级跨越”从来都不是由一代人完成的](https://www.huxiu.com/article/2472862.html?f=rss)|
+|2023-12-26 09:25:14|[虎嗅](https://rss.huxiu.com/)|[工业赶超：英国造纸业是怎么输给美国的？](https://www.huxiu.com/article/2473125.html?f=rss)|
+|2023-12-26 09:05:23|[虎嗅](https://rss.huxiu.com/)|[为什么相机能拍下红眼，但平时人眼看不到？](https://www.huxiu.com/article/2473128.html?f=rss)|
+|2023-12-26 09:05:01|[虎嗅](https://rss.huxiu.com/)|[去美国请人喝咖啡，1600万人还在排队退押金？](https://www.huxiu.com/article/2468958.html?f=rss)|
+|2023-12-26 09:00:00|[虎嗅](https://rss.huxiu.com/)|[2023年科技界热度之王：AI大模型的崛起与影响](https://www.huxiu.com/article/2472832.html?f=rss)|
+|2023-12-26 08:41:50|[虎嗅](https://rss.huxiu.com/)|[频繁调整组织架构，快手慌了?](https://www.huxiu.com/article/2472817.html?f=rss)|
+|2023-12-26 08:30:01|[虎嗅](https://rss.huxiu.com/)|[不起眼的小县城，竟是千亿眼镜产业的最大赢家？](https://www.huxiu.com/article/2472796.html?f=rss)|
+|2023-12-26 08:29:55|[虎嗅](https://rss.huxiu.com/)|[“今年嘴最硬的投资人”](https://www.huxiu.com/article/2472857.html?f=rss)|
+|2023-12-26 08:18:59|[虎嗅](https://rss.huxiu.com/)|[别拿AI换脸当玩笑](https://www.huxiu.com/article/2471918.html?f=rss)|
+|2023-12-26 10:17:11|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1227 谷歌因影响营收拒绝改变 Play 商店收费模式](https://linux.cn/article-16508-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-26 08:01:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 微软 Visual Basic 之兴衰](https://linux.cn/article-16507-1.html?utm_source=rss&utm_medium=rss)|
+|2023-12-26 12:27:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[GNOME 下大家用什么中文字体](https://www.v2ex.com/t/1003624#reply0)|
+|2023-12-26 08:11:39|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[咨询一个关于 springboot 集成 mybatis-plus 的查询返回问题？](https://www.v2ex.com/t/1003549#reply13)|
+|2023-12-26 06:46:19|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[多线程怎么入门？](https://www.v2ex.com/t/1003517#reply21)|
+|2023-12-26 08:29:53|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[相同的 for 循环 为什么 Java 比 c 的速度快？](https://www.v2ex.com/t/1003556#reply14)|
+|2023-12-26 10:02:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[今年你们年终奖还有吗？](https://www.v2ex.com/t/1003591#reply11)|
+|2023-12-26 08:27:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[写了个独立开发的专栏](https://www.v2ex.com/t/1003555#reply4)|
+|2023-12-26 07:57:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一个疑问，现在是人均一台开发机了？](https://www.v2ex.com/t/1003543#reply46)|
+|2023-12-26 07:12:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[买了一个新硬盘，怎么把电脑上的文件快速拷贝到这个新硬盘？ 2 个 T 的图片。](https://www.v2ex.com/t/1003524#reply20)|
+|2023-12-26 12:00:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一款颜值在线的 React 后台模板-- Slash Admin](https://www.v2ex.com/t/1003619#reply0)|
+|2023-12-26 07:54:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[花两周写了一个后端脚手架](https://www.v2ex.com/t/1003541#reply8)|
+|2023-12-26 00:12:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教各位老哥， Windows 下 Release 程序崩溃，应该如何定位问题？](https://www.v2ex.com/t/1003397#reply48)|
+|2023-12-26 07:49:53|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有一个云推流沙盒的构想](https://www.v2ex.com/t/1003538#reply8)|
+|2023-12-26 04:23:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[今天公司发了通告，年终奖没了](https://www.v2ex.com/t/1003467#reply84)|
+|2023-12-26 06:28:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教下不同系统间的硬中断响应时间](https://www.v2ex.com/t/1003505#reply3)|
+|2023-12-26 10:01:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[初入 Nas 2 个盘 1. 要做 RAID 吗？ 2. 2.5G 网口能带来啥提升呀？ 3. 买了希捷银河 16T， 不知道正常能不能用个 3 年 5 年？](https://www.v2ex.com/t/1003590#reply10)|
+|2023-12-26 10:36:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有黑群晖的推荐配置](https://www.v2ex.com/t/1003607#reply4)|
+|2023-12-26 09:09:43|[Luckydesigner](https://www.luckydesigner.space/feed)|[GPTs 对比：如何挑选最适合的，找到适合自己的 GPTs](https://www.luckydesigner.space/gpts-vs-gpts-vs-gpts-which-is-best-for-you/)|
+|2023-12-26 07:19:08|[Luckydesigner](https://www.luckydesigner.space/feed)|[如何高效解析影印版 PDF 与 ChatGPT 畅聊](https://www.luckydesigner.space/chat-with-photocopied-version-of-a-pdf/)|
+|2023-12-26 07:31:38|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[赛尔笔记 面向表格数据的大模型推理综述](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812062&idx=1&sn=abdb0f98adcef69ee368231571d8fc45)|
+|2023-12-26 15:06:44|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[23年11月郑房新软考高级信息系统项目管理师视频教程](https://masuit.com/2072)|
+|2023-12-26 07:11:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Watch 新款官網停售！美國唯一庫存在這裡](https://www.iphonetaiwan.org/2023/12/apple-watch-series-9-ultra-2-us-sales-stopped.html)|
 |2023-12-26 06:17:22|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[5 knowledge points to make Vue3 development smoother](https://javascript.plainenglish.io/5-knowledge-points-to-make-vue3-development-smoother-ccfe60f26201?source=rss-c3917681a8f5------2)|
 |2023-12-26 05:17:22|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[How to Determine Whether the Object Itself Is Empty in JS? Many People Are Wrong~](https://javascript.plainenglish.io/how-to-determine-whether-the-object-itself-is-empty-in-js-many-people-are-wrong-5d9514f4ae86?source=rss-c3917681a8f5------2)|
 |2023-12-26 07:00:02|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 darktable 4.6 发布：提高了性能并添加了一些漂亮的新功能](https://linux.cn/article-16506-1.html?utm_source=rss&utm_medium=rss)|
