@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-27 08:50:00|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[水果上新｜老广最爱的老树神橘，泉水般清甜](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447639&idx=2&sn=cebf91a3e052cfd1e46b17780f331703)|
+|2023-12-27 08:49:59|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[破店，点评 3.3，上海富人的老牌花胶鸡火锅](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447639&idx=1&sn=ec1247e1fae72c57aea211d4e623b89e)|
+|2023-12-27 14:09:00|[竹林里有冰的博客](https://zhul.in/rss.xml)|[vuejs、php、caddy 与 docker —— web 期末大作业上云部署](https://zhul.in/2023/12/27/php-and-vuejs-project-deploy-on-caddy/)|
+|2023-12-27 13:38:22|[触乐](http://www.chuapp.com/feed)|[面对变化，重要的是重获信任](http://www.chuapp.com/article/289721.html)|
+|2023-12-27 14:47:58|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[订婚强奸案，婚姻摇摇晃晃](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892752&idx=1&sn=ca26e341af18c4551a4436565dd90b05)|
+|2023-12-27 11:48:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经｜淘宝继续学拼多多？中概股又被要求披露更多内容](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511017&idx=2&sn=699cb19a9f5d26be655447fec17cdc8d)|
+|2023-12-27 11:48:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[东方甄选冲突由来：失衡的关系、不同的目标](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511017&idx=1&sn=41265199330b98063c1c89dffb2215b5)|
+|2023-12-27 13:59:23|[知乎每日精选](https://www.zhihu.com/rss)|[在电视剧创作的过程中，导演和编剧之间是什么样的关系？谁更重要？](http://www.zhihu.com/question/636534424/answer/3340828045?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2023-12-27 13:59:06|[知乎每日精选](https://www.zhihu.com/rss)|[国产都市剧中应该如何体现「生活」？如果完全贴近生活会枯燥吗？](http://www.zhihu.com/question/636483458/answer/3340817609?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2023-12-27 12:11:17|[知乎每日精选](https://www.zhihu.com/rss)|[在如今的社会环境中，我们需要什么样的女性角色？](http://www.zhihu.com/question/636497861/answer/3340731170?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2023-12-27 11:25:45|[知乎每日精选](https://www.zhihu.com/rss)|[AGI 会不会消解影视作品的意义？还是只是取代了导演？](http://www.zhihu.com/question/635942442/answer/3340677671?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2023-12-27 07:06:21|[知乎每日精选](https://www.zhihu.com/rss)|[知乎 2023 个人年度报告一共有多少种画像，你的画像是什么？](http://www.zhihu.com/question/636727314/answer/3339439811?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|2023-12-27 02:04:51|[知乎每日精选](https://www.zhihu.com/rss)|[2023 年度职场洞察报告 独家解读职场年度 9 大趋势](http://zhuanlan.zhihu.com/p/674208627?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-12-27 09:17:00|[小众软件](https://www.appinn.com/feed/)|[画历 – 一款每日精选好图与创意设计的艺术日历，屏幕小组件 iPhone/iPad ](https://www.appinn.com/huali-for-ios/)|
 |2023-12-27 06:57:54|[小众软件](https://www.appinn.com/feed/)|[饭碗警告 – 将邮件/WebHook 转发至电话、短信、IM 通知](https://www.appinn.com/fwalert/)|
 |2023-12-27 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：有瑕疵的美好幻想](http://www.chuapp.com/article/289720.html)|
