@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-27 09:17:00|[小众软件](https://www.appinn.com/feed/)|[画历 – 一款每日精选好图与创意设计的艺术日历，屏幕小组件 iPhone/iPad ](https://www.appinn.com/huali-for-ios/)|
+|2023-12-27 06:57:54|[小众软件](https://www.appinn.com/feed/)|[饭碗警告 – 将邮件/WebHook 转发至电话、短信、IM 通知](https://www.appinn.com/fwalert/)|
+|2023-12-27 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：有瑕疵的美好幻想](http://www.chuapp.com/article/289720.html)|
+|2023-12-27 02:07:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[好爸爸](http://mercurychong.blogspot.com/2023/12/blog-post_26.html)|
 |2023-12-27 08:09:52|[虎嗅](https://rss.huxiu.com/)|[今年5大创业风口，跟多数人关系不大](https://www.huxiu.com/article/2477720.html?f=rss)|
 |2023-12-27 08:00:14|[虎嗅](https://rss.huxiu.com/)|[淘宝：从质疑多多，到理解多多，到成为多多？](https://www.huxiu.com/article/2473624.html?f=rss)|
 |2023-12-27 07:56:26|[虎嗅](https://rss.huxiu.com/)|[谷歌，3万员工的饭碗可能被AI抢走？](https://www.huxiu.com/article/2472379.html?f=rss)|
