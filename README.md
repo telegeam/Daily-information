@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-28 06:16:55|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[8 Advanced Uses Of Promises You Should Know](https://javascript.plainenglish.io/8-advanced-uses-of-promises-you-should-know-64a4f2341651?source=rss-c3917681a8f5------2)|
+|2023-12-28 14:12:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【日本性同意APP Kiroku发布正式版】该软件旨在帮助用户防止“以为对方同意，但事后对方宣称不同意”的情况。用户登录软件后，需确认10项内容，包括本次性行为没有涉及暴力或言语威胁、性行为人没有身心障碍、没有饮酒或睡眠不足影响判断力、没有受虐待、没有金钱影响等，然后开启位置分享，互相扫二维码确认同意。](https://dig.chouti.com/link/41057105)|
+|2023-12-28 14:13:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【乱港分子向英媒“大吐苦水”：英国拒绝庇护我们，理由花样百出】报道列举的申请被拒案例中，一名女申请人因担心港府律政司上诉，决定离港“逃”英。英国内政部认为，既然她已获批取回护照，鉴于中国“高度复杂的监控手法及有效的情报部门”，如果政府部门真对她“感兴趣”，她就不会被发还护照，于是拒绝了她的庇护申请。](https://dig.chouti.com/link/41057160)|
+|2023-12-28 13:12:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[浪漫死亡旋转 Instagram：sam.funny（Gia Đình Ngộ）](https://dig.chouti.com/link/41056585)|
+|2023-12-28 09:04:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【三十年前的上海滩，炒股有多疯】近日，《繁花》开播，剧中人人炒股的一幕令人印象深刻。这股疯劲儿，不禁让人想起1994年内地和香港合拍的电影《股疯》。](https://dig.chouti.com/link/41053934)|
+|2023-12-28 10:02:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[耳帝：2023华语地区年度100首最佳歌曲](https://dig.chouti.com/link/41054491)|
+|2023-12-28 08:04:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【汪小菲，一个逃避现实的商人】比起商人，在很长一段时间里，汪小菲更像个娱乐人物。与前妻徐熙媛的争执，曾牵扯出无数传闻、嘲讽、谜团。一条又一条社交平台的舌战，惹得张兰、大S母亲、狗仔纷纷发声，你方唱罢我登场，把热搜演成戏台。至于他的创业进展如何、餐馆经营状况怎样，作为“企业家”的汪小菲已经鲜有人关心。](https://dig.chouti.com/link/41053123)|
+|2023-12-28 11:05:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国建议G7成员探讨如何没收俄罗斯3000亿美元资产](https://dig.chouti.com/link/41055444)|
+|2023-12-28 12:12:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[AI创作：超人大战雷神！血量管够！](https://dig.chouti.com/link/41056108)|
+|2023-12-28 14:28:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一个基于 Python 的 ChatGPT Telegram Bot 无限 Token （代码已开源）支持 Docker 快速搭建](https://www.v2ex.com/t/1004245#reply2)|
+|2023-12-28 14:53:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Gitee 打不开了 502 报错·](https://www.v2ex.com/t/1004248#reply13)|
+|2023-12-28 07:32:26|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[google ai 感觉有点堪用了，](https://www.v2ex.com/t/1004130#reply6)|
+|2023-12-28 15:53:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Linux 可以实现这种功能吗](https://www.v2ex.com/t/1004256#reply0)|
+|2023-12-28 10:35:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[怎么感觉 v2 这里很少有 ai 或大模型开发相关得讨论啊](https://www.v2ex.com/t/1004201#reply14)|
+|2023-12-28 15:01:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[211 本，选广州公务员还是 C++制造业？](https://www.v2ex.com/t/1004249#reply8)|
+|2023-12-28 15:27:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[base 二次解密问题](https://www.v2ex.com/t/1004252#reply1)|
+|2023-12-28 08:06:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我发现，即时历史再来一次，我也抓不住机会](https://www.v2ex.com/t/1004148#reply51)|
+|2023-12-28 05:03:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求推荐手机，不限预算（就算过万都能接受）](https://www.v2ex.com/t/1004072#reply23)|
+|2023-12-28 01:14:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位大佬有没有副业能规避离职的风险](https://www.v2ex.com/t/1003997#reply46)|
+|2023-12-28 15:01:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[RabbitMq 连接失败，查看 mq 日志显示连接成功但是又立马关闭了](https://www.v2ex.com/t/1004250#reply2)|
+|2023-12-28 10:43:18|[知乎每日精选](https://www.zhihu.com/rss)|[如何看待李泓在《洞见对谈》里称「2030 年固态电池有望量产上车」？](http://www.zhihu.com/question/636100697/answer/3341851626?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2023-12-28 06:25:28|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[3 折卖 app 了，最后几天！](https://w2solo.com/topics/4330)|
 |2023-12-28 12:12:01|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有什么比较好用的 teams 开会用的耳机](https://www.v2ex.com/t/1004223#reply0)|
 |2023-12-28 11:58:42|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 单字符域名做个短链接不错](https://www.v2ex.com/t/1004220#reply0)|
