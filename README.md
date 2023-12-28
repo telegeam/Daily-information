@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-28 04:18:22|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[还愿](https://www.justzht.com/bai-fo/)|
+|2023-12-28 00:57:34|[爱范儿](https://www.ifanr.com/feed)|[iPhone 设计负责人或联手 OpenAI 开发硬件/淘宝京东将支持仅退款/麦当劳中国部分产品涨价](https://www.ifanr.com/1571836?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2023-12-28 03:22:03|[机核](https://www.gcores.com/rss)|[《心灵杀手2》公布年终感谢视频，未来将推出更多内容](https://www.gcores.com/articles/175618)|
+|2023-12-28 02:22:00|[机核](https://www.gcores.com/rss)|[剧场版动画《赛马娘 新时代之门》特报公开，2024年5月24日上映](https://www.gcores.com/articles/175612)|
+|2023-12-28 02:01:29|[机核](https://www.gcores.com/rss)|[《合成大西瓜》名列第1：任天堂公布2023年Switch游戏下载榜](https://www.gcores.com/articles/175614)|
+|2023-12-28 02:00:00|[机核](https://www.gcores.com/rss)|[译介丨流派选择：格斗游戏中的卡波耶拉](https://www.gcores.com/videos/175600)|
+|2023-12-28 01:51:36|[机核](https://www.gcores.com/rss)|[V社公布年度最热榜单，《GTA5》榜上有名](https://www.gcores.com/articles/175611)|
+|2023-12-28 01:16:36|[机核](https://www.gcores.com/rss)|[Epic假日送好礼：冒险游戏《诅咒高尔夫》免费领](https://www.gcores.com/articles/175610)|
+|2023-12-28 01:03:26|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中国会放宽拟议中的网游新规吗](https://cn.nytimes.com/business/20231228/china-video-gaming-tencent-netease/?utm_source=RSS)|
 |2023-12-28 00:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国如何管理人民币？其政策影响几何？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BA%BA%E6%B0%91%E5%B8%81-%E5%85%B6%E6%94%BF%E7%AD%96%E5%BD%B1%E5%93%8D%E5%87%A0%E4%BD%95-8f2a83cd)|
 |2023-12-28 00:45:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[霸道总裁和吸血鬼狼人：中国短剧应用如何征服美国主妇](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E5%BA%94%E7%94%A8%E9%A3%8E%E9%9D%A1%E7%BE%8E%E5%9B%BD-%E8%A8%80%E6%83%85-%E5%90%B8%E8%A1%80%E9%AC%BC%E5%89%A7%E5%BE%81%E6%9C%8D%E7%BE%8E%E5%9B%BD%E4%B8%BB%E5%A6%87-6b851d15)|
 |2023-12-28 00:53:10|[精品MAC应用分享](https://xclient.info/feed)|[Chain Timer 10.0 链式倒计时](https://xclient.info/s/chain-timer.html)|
