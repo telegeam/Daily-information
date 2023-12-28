@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-28 12:12:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：二战德国秘密武器，作者Nimo Ben](https://dig.chouti.com/link/41056123)|
+|2023-12-28 13:48:38|[触乐](http://www.chuapp.com/feed)|[又干又脆的饼干IP，来到中国却“潮”了](http://www.chuapp.com/article/289724.html)|
+|2023-12-28 15:00:00|[机核](https://www.gcores.com/rss)|[世纪初的网吧](https://www.gcores.com/radios/175375)|
+|2023-12-28 10:26:18|[机核](https://www.gcores.com/rss)|[新实机画面展示！《卡库远古封印》12月开发日志](https://www.gcores.com/articles/175628)|
 |2023-12-28 06:16:55|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[8 Advanced Uses Of Promises You Should Know](https://javascript.plainenglish.io/8-advanced-uses-of-promises-you-should-know-64a4f2341651?source=rss-c3917681a8f5------2)|
 |2023-12-28 14:12:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【日本性同意APP Kiroku发布正式版】该软件旨在帮助用户防止“以为对方同意，但事后对方宣称不同意”的情况。用户登录软件后，需确认10项内容，包括本次性行为没有涉及暴力或言语威胁、性行为人没有身心障碍、没有饮酒或睡眠不足影响判断力、没有受虐待、没有金钱影响等，然后开启位置分享，互相扫二维码确认同意。](https://dig.chouti.com/link/41057105)|
 |2023-12-28 14:13:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【乱港分子向英媒“大吐苦水”：英国拒绝庇护我们，理由花样百出】报道列举的申请被拒案例中，一名女申请人因担心港府律政司上诉，决定离港“逃”英。英国内政部认为，既然她已获批取回护照，鉴于中国“高度复杂的监控手法及有效的情报部门”，如果政府部门真对她“感兴趣”，她就不会被发还护照，于是拒绝了她的庇护申请。](https://dig.chouti.com/link/41057160)|
