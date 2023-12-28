@@ -1,7 +1,17 @@
-﻿# 每日资讯（2023-12-27）
+﻿# 每日资讯（2023-12-28）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-28 00:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国如何管理人民币？其政策影响几何？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BA%BA%E6%B0%91%E5%B8%81-%E5%85%B6%E6%94%BF%E7%AD%96%E5%BD%B1%E5%93%8D%E5%87%A0%E4%BD%95-8f2a83cd)|
+|2023-12-28 00:45:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[霸道总裁和吸血鬼狼人：中国短剧应用如何征服美国主妇](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E5%BA%94%E7%94%A8%E9%A3%8E%E9%9D%A1%E7%BE%8E%E5%9B%BD-%E8%A8%80%E6%83%85-%E5%90%B8%E8%A1%80%E9%AC%BC%E5%89%A7%E5%BE%81%E6%9C%8D%E7%BE%8E%E5%9B%BD%E4%B8%BB%E5%A6%87-6b851d15)|
+|2023-12-28 00:53:10|[精品MAC应用分享](https://xclient.info/feed)|[Chain Timer 10.0 链式倒计时](https://xclient.info/s/chain-timer.html)|
+|2023-12-28 00:46:06|[精品MAC应用分享](https://xclient.info/feed)|[App Cleaner &amp; Uninstaller Pro 8.2.5 软件卸载工具](https://xclient.info/s/app-cleaner-uninstaller-pro.html)|
+|2023-12-28 00:44:06|[精品MAC应用分享](https://xclient.info/feed)|[Photomator 3.2.2 照片编辑器](https://xclient.info/s/photomator.html)|
+|2023-12-28 01:06:55|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 同一个 hysteria2 服务器，同家运营商网络，却是不同的命运](https://www.v2ex.com/t/1003996#reply0)|
+|2023-12-28 00:57:14|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有什么办法能跨设备接收长辈手机上的短信吗？](https://www.v2ex.com/t/1003995#reply5)|
+|2023-12-28 00:56:54|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 快捷指令能不能在连接蓝牙耳机的时候调整外放音量，或者在蓝牙耳机断开时设置媒体音量](https://www.v2ex.com/t/1003994#reply0)|
+|2023-12-28 00:41:17|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 求推荐电视盒子，主看国内爱优腾，支持 AirPlay？](https://www.v2ex.com/t/1003993#reply5)|
+|2023-12-28 00:05:55|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 2023，程序员佛系减肥在路上](https://www.v2ex.com/t/1003992#reply4)|
 |2023-12-27 14:44:43|[机核](https://www.gcores.com/rss)|[Mark Hansen & Myron Krueger 设计身体与虚拟现实](https://www.gcores.com/articles/175605)|
 |2023-12-27 13:00:00|[机核](https://www.gcores.com/rss)|[Kira的超现实步行模拟《Versilius》](https://www.gcores.com/videos/175589)|
 |2023-12-27 13:00:00|[机核](https://www.gcores.com/rss)|[无J之谈Vol.7丨《地球上最聪明的小子》：用图像写作的漫画狂人——克里斯·韦尔（上）](https://www.gcores.com/radios/173131)|
