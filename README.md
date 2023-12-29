@@ -2,6 +2,39 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-29 02:05:43|[Luckydesigner](https://www.luckydesigner.space/feed)|[速特生活，一款支持磁力搜索并在线解析播放，几千万资源库](https://www.luckydesigner.space/sute-to-play-magnet-videos/)|
+|2023-12-29 02:04:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[腾讯宣布深圳前海新总部建成后将向公众开放](https://dig.chouti.com/link/41060477)|
+|2023-12-29 02:48:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【闻神日入千万，泼天富贵还是德不配位？到底是谁在关注？】闻会军的走红实在太“抽象”了。而在2023 年，闻会军并不是个例。今年的现象级网红黄老师、于文亮都是素人，前者好歹还有个爆梗“挖呀挖呀挖”，后者走红甚至无法总结原因。当此类素人网红批量出现，用户们开始对这种故事脱敏，取而代之的是对短视频造星的审视。](https://dig.chouti.com/link/41061094)|
+|2023-12-29 03:59:10|[虎嗅](https://rss.huxiu.com/)|[我国首次从煤层气中提取到氦气，纯度99.9999%以上](https://www.huxiu.com/article/2482618.html?f=rss)|
+|2023-12-29 03:40:00|[虎嗅](https://rss.huxiu.com/)|[电影院的2023：在复苏中探索新场景](https://www.huxiu.com/article/2485080.html?f=rss)|
+|2023-12-29 03:38:45|[虎嗅](https://rss.huxiu.com/)|[为什么今年发达国家都在大举吸纳移民？](https://www.huxiu.com/article/2485097.html?f=rss)|
+|2023-12-29 03:34:30|[虎嗅](https://rss.huxiu.com/)|[再写if-else，就把你消灭](https://www.huxiu.com/article/2485049.html?f=rss)|
+|2023-12-29 03:31:14|[虎嗅](https://rss.huxiu.com/)|[白手起家的亿万富豪，是如何做投资的？](https://www.huxiu.com/article/2485061.html?f=rss)|
+|2023-12-29 03:01:05|[虎嗅](https://rss.huxiu.com/)|[前脚收钱后脚闭店，美吉姆“收割”新手父母](https://www.huxiu.com/article/2484688.html?f=rss)|
+|2023-12-29 02:36:58|[虎嗅](https://rss.huxiu.com/)|[旅游餐饮，为生存大打价格战？](https://www.huxiu.com/article/2482662.html?f=rss)|
+|2023-12-29 02:35:36|[虎嗅](https://rss.huxiu.com/)|[传奇投资者：时机成熟时将做空美股“科技七巨头”](https://www.huxiu.com/article/2484783.html?f=rss)|
+|2023-12-29 02:34:20|[虎嗅](https://rss.huxiu.com/)|[2024年，水价、电价怎么变？](https://www.huxiu.com/article/2483652.html?f=rss)|
+|2023-12-29 02:32:16|[虎嗅](https://rss.huxiu.com/)|[阿里云再调整：削减定制项目和硬件集成业务](https://www.huxiu.com/article/2483432.html?f=rss)|
+|2023-12-29 02:19:49|[虎嗅](https://rss.huxiu.com/)|[负债率持续创新高，近一半韩国公司付不起利息了](https://www.huxiu.com/article/2484778.html?f=rss)|
+|2023-12-29 02:16:59|[虎嗅](https://rss.huxiu.com/)|[全球“去美元化”加速](https://www.huxiu.com/article/2484768.html?f=rss)|
+|2023-12-29 02:01:31|[虎嗅](https://rss.huxiu.com/)|[李开复：大模型即将“洗牌”，估计活下来的不多](https://www.huxiu.com/article/2484756.html?f=rss)|
+|2023-12-29 02:00:53|[虎嗅](https://rss.huxiu.com/)|[一杯清茶能品出烟火人生吗？](https://www.huxiu.com/article/2484733.html?f=rss)|
+|2023-12-29 01:53:00|[虎嗅](https://rss.huxiu.com/)|[2024年的九大“黑天鹅”](https://www.huxiu.com/article/2484734.html?f=rss)|
+|2023-12-29 01:52:51|[虎嗅](https://rss.huxiu.com/)|[一位返乡青年精英的“乡村改造”记](https://www.huxiu.com/article/2484719.html?f=rss)|
+|2023-12-29 01:14:25|[虎嗅](https://rss.huxiu.com/)|[阿根廷总统拟消除政府干预，推动石油市场自由化](https://www.huxiu.com/article/2484749.html?f=rss)|
+|2023-12-29 01:12:41|[虎嗅](https://rss.huxiu.com/)|[穷人只配在网上活着，富人才能享受现实](https://www.huxiu.com/article/2484735.html?f=rss)|
+|2023-12-29 01:10:00|[虎嗅](https://rss.huxiu.com/)|[美国是如何立法“保护”零元购的？](https://www.huxiu.com/article/2481524.html?f=rss)|
+|2023-12-29 01:00:00|[虎嗅](https://rss.huxiu.com/)|[成为中产的第一年，被装修队骗到深夜落泪](https://www.huxiu.com/article/2480691.html?f=rss)|
+|2023-12-29 00:54:39|[虎嗅](https://rss.huxiu.com/)|[2024生成式AI十大展望](https://www.huxiu.com/article/2483651.html?f=rss)|
+|2023-12-29 00:53:41|[虎嗅](https://rss.huxiu.com/)|[波音737 Max又曝出安全问题，股价下跌1.4%](https://www.huxiu.com/article/2484716.html?f=rss)|
+|2023-12-29 00:45:40|[虎嗅](https://rss.huxiu.com/)|[真正的爱，从放弃“对的人”开始](https://www.huxiu.com/article/2483381.html?f=rss)|
+|2023-12-29 00:35:58|[虎嗅](https://rss.huxiu.com/)|[北上广们的转移支付还远远不够](https://www.huxiu.com/article/2484476.html?f=rss)|
+|2023-12-29 00:31:47|[虎嗅](https://rss.huxiu.com/)|[招商银行：追索扣回绩效薪酬的5824万，走完流程了？](https://www.huxiu.com/article/2484471.html?f=rss)|
+|2023-12-29 00:15:39|[虎嗅](https://rss.huxiu.com/)|[小米造车，雷军超级大押注](https://www.huxiu.com/article/2484030.html?f=rss)|
+|2023-12-29 00:11:57|[虎嗅](https://rss.huxiu.com/)|[新年至烟花销售起，上市公司谁能分羹？](https://www.huxiu.com/article/2484470.html?f=rss)|
+|2023-12-29 00:05:00|[虎嗅](https://rss.huxiu.com/)|[OpenAI风波后，AI安全发展与监管何去何从？](https://www.huxiu.com/article/2483642.html?f=rss)|
+|2023-12-29 00:02:00|[虎嗅](https://rss.huxiu.com/)|[俄乌冲突大背景下，一批新富豪正在俄罗斯崛起](https://www.huxiu.com/article/2484472.html?f=rss)|
+|2023-12-29 00:00:28|[虎嗅](https://rss.huxiu.com/)|[汽车、高铁的车窗有一圈黑边，干嘛用的？](https://www.huxiu.com/article/2482850.html?f=rss)|
 |2023-12-29 00:58:35|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 在公司不爱说话是什么体验](https://www.v2ex.com/t/1004274#reply0)|
 |2023-12-29 00:53:15|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 firefox 有个开源的本地大模型 https://future.mozilla.org/blog/introducing-llamafile/，什么样的机器能跑动](https://www.v2ex.com/t/1004272#reply0)|
 |2023-12-29 00:52:45|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 0757 家宽公网 ip 被割接,还刚吗?](https://www.v2ex.com/t/1004271#reply0)|
