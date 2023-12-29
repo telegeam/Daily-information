@@ -1,7 +1,17 @@
-﻿# 每日资讯（2023-12-28）
+﻿# 每日资讯（2023-12-29）
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-29 00:58:35|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 在公司不爱说话是什么体验](https://www.v2ex.com/t/1004274#reply0)|
+|2023-12-29 00:53:15|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 firefox 有个开源的本地大模型 https://future.mozilla.org/blog/introducing-llamafile/，什么样的机器能跑动](https://www.v2ex.com/t/1004272#reply0)|
+|2023-12-29 00:52:45|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 0757 家宽公网 ip 被割接,还刚吗?](https://www.v2ex.com/t/1004271#reply0)|
+|2023-12-29 00:50:47|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 买二手房需要注意什么？](https://www.v2ex.com/t/1004270#reply2)|
+|2023-12-29 00:35:53|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 元旦准备返乡参加堂妹的婚礼，却在今天发现她把我老婆微信好友都删掉了](https://www.v2ex.com/t/1004269#reply24)|
+|2023-12-29 00:35:08|[V2EX](http://www.v2ex.com/index.xml)|[ Amazon z.cn 海外购改版通知](https://www.v2ex.com/t/1004268#reply0)|
+|2023-12-29 00:34:40|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 ps5 还是 switch](https://www.v2ex.com/t/1004267#reply15)|
+|2023-12-29 00:32:18|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 win11 系统 重启电脑显示网络速度比直接开机慢是什么原因？](https://www.v2ex.com/t/1004266#reply5)|
+|2023-12-29 00:27:08|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 虚拟产品——爱因斯坦的脑子，几乎 0 成本赚钱](https://www.v2ex.com/t/1004265#reply5)|
+|2023-12-29 00:11:07|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)|
 |2023-12-28 12:12:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：二战德国秘密武器，作者Nimo Ben](https://dig.chouti.com/link/41056123)|
 |2023-12-28 13:48:38|[触乐](http://www.chuapp.com/feed)|[又干又脆的饼干IP，来到中国却“潮”了](http://www.chuapp.com/article/289724.html)|
 |2023-12-28 15:00:00|[机核](https://www.gcores.com/rss)|[世纪初的网吧](https://www.gcores.com/radios/175375)|
