@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-30 18:39:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[web3/钱包/链上交易这些程序员一般都去哪些论坛？](https://www.v2ex.com/t/1004736#reply1)|
+|2023-12-30 12:24:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[那些天天很累的程序员，能活到 40 么？](https://www.v2ex.com/t/1004679#reply27)|
+|2023-12-30 11:53:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在中国移动的套路怎么跟电信诈骗一样了](https://www.v2ex.com/t/1004675#reply11)|
+|2023-12-30 16:53:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[怎么用反向代理拉取 git lfs 的内容?](https://www.v2ex.com/t/1004728#reply3)|
+|2023-12-30 16:45:32|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有失业的 go，闲着没事的，一起合作搞 saas 项目](https://www.v2ex.com/t/1004727#reply2)|
+|2023-12-30 14:17:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[swap 突然耗尽死机](https://www.v2ex.com/t/1004700#reply1)|
+|2023-12-30 04:36:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Linux 下有 json 的文本查看编辑工具推荐吗？](https://www.v2ex.com/t/1004597#reply17)|
+|2023-12-30 13:31:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有什么方法能在网络不好的情况下保证支付和业务的一致性](https://www.v2ex.com/t/1004689#reply20)|
+|2023-12-30 19:52:17|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教批处理编写问题，大佬请进。](https://www.v2ex.com/t/1004738#reply1)|
+|2023-12-30 11:01:47|[触乐](http://www.chuapp.com/feed)|[年轻人的“新一代跨年方式”，在《蛋仔派对》里](http://www.chuapp.com/article/289728.html)|
+|2023-12-30 07:41:38|[触乐](http://www.chuapp.com/feed)|[元旦假期玩什么：RPG、策略、恋爱、恐怖……都要来一点](http://www.chuapp.com/article/289726.html)|
+|2023-12-30 14:57:57|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[大家怎么看注册资本必须在五年内实缴？](https://w2solo.com/topics/4336)|
+|2023-12-30 10:04:24|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊第 33 期（摘要）](https://w2solo.com/topics/4335)|
+|2023-12-30 01:39:09|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[2023年，劳动者直面经济危机的一年（回顾、行业访谈、事件整理）](https://fed.laborinfocn3.com/2023-review/)|
+|2023-12-30 04:03:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[周大福年销售额超爱马仕！中国人为何更偏爱珠宝类奢侈品？黄金为什么能成为「头号玩家」？](https://www.zhihu.com/question/637277889)|
+|2023-12-30 15:52:59|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[为什么不选李植呢？](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892772&idx=1&sn=411bc51eee4085a3c96f60ad6c24a26f)|
 |2023-12-30 12:40:33|[KAIX.IN](https://kaix.in/feed/)|[元旦晚会](https://kaix.in/2023/1230-new-year-party/)|
 |2023-12-30 12:24:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[那些天天很累的程序员，能活到 40 么？](https://www.v2ex.com/t/1004679#reply26)|
 |2023-12-30 04:36:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Linux 下有 json 的文本查看编辑工具推荐吗？](https://www.v2ex.com/t/1004597#reply16)|
