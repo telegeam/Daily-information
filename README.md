@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-30 12:40:33|[KAIX.IN](https://kaix.in/feed/)|[元旦晚会](https://kaix.in/2023/1230-new-year-party/)|
+|2023-12-30 12:24:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[那些天天很累的程序员，能活到 40 么？](https://www.v2ex.com/t/1004679#reply26)|
+|2023-12-30 04:36:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Linux 下有 json 的文本查看编辑工具推荐吗？](https://www.v2ex.com/t/1004597#reply16)|
+|2023-12-30 13:31:46|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有没有什么方法能在网络不好的情况下保证支付和业务的一致性](https://www.v2ex.com/t/1004689#reply19)|
+|2023-12-30 15:22:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[找一个开发写一个域名批量查询的应用](https://www.v2ex.com/t/1004722#reply0)|
+|2023-12-30 15:17:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Android 开发好难啊，现在应该怎么学习](https://www.v2ex.com/t/1004720#reply2)|
+|2023-12-30 09:38:25|[小众软件](https://www.appinn.com/feed/)|[Claunahk 小工具 – AHK 用户的 Quicker 平替，简单但不简陋](https://www.appinn.com/claunahk/)|
+|2023-12-30 14:02:40|[煎蛋](http://jandan.net/feed)|[冷血杀手竟能识婴儿哭声？鳄鱼区分人类情绪比人还准](http://jandan.net/p/115232)|
+|2023-12-30 13:58:24|[煎蛋](http://jandan.net/feed)|[灿若繁星：活着的细胞数量比天上的星星还要多](http://jandan.net/p/115231)|
+|2023-12-30 22:40:00|[瓦解的生活记事](https://hin.cool/atom.xml)|[Openwrt实现ipv6远程管理和ssh爆破](https://hin.cool/posts/opandssh.html)|
+|2023-12-30 15:00:00|[机核](https://www.gcores.com/rss)|[兜兜转转还是它 GadioNews12.30](https://www.gcores.com/radios/175373)|
+|2023-12-30 11:30:00|[机核](https://www.gcores.com/rss)|[半年了，我们游戏到底咋样了？](https://www.gcores.com/videos/175704)|
+|2023-12-30 10:35:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#274：《阿玛拉王国：惩罚》](https://www.gcores.com/articles/175705)|
+|2023-12-30 04:44:59|[机核](https://www.gcores.com/rss)|[2023年-下半年-照片杂记](https://www.gcores.com/articles/175691)|
+|2023-12-30 13:47:06|[61’s life](https://61.life/feed.xml)|[📖2023 阅读记录](http://61.life/2023/1230)|
 |2023-12-30 01:14:05|[靜風說](http://www.jingfengshuo.com/feed)|[2023年总结](https://www.jingfengshuo.com/archives/2716.html)|
 |2023-12-30 02:53:55|[空城记](https://shinekid.com/feed/)|[雾霾天](https://shinekid.com/2023/12/haze-days/)|
 |2023-12-30 10:44:05|[虎嗅](https://rss.huxiu.com/)|[刘丽娟：城市，是什么？](https://www.huxiu.com/article/2490340.html?f=rss)|
