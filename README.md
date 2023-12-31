@@ -2,6 +2,48 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-31 14:05:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[拘留一周后，印度法院下令：释放两名vivo高管](https://dig.chouti.com/link/41085164)|
+|2023-12-31 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么有些阿斯塔特不愿意进无畏？](https://www.zhihu.com/question/636407561)|
+|2023-12-31 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[什么时候发现猫咪越长大越懂事了？](https://www.zhihu.com/question/634661139)|
+|2023-12-31 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么说古龙之前无新派？传统武侠和新派武侠又有什么本质的区别。古龙「武」「侠」到底有什么特点？](https://www.zhihu.com/question/571786209)|
+|2023-12-31 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 独行侠 132:122 勇士，如何评价这场比赛？](https://www.zhihu.com/question/637452059)|
+|2023-12-31 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[关羽自己在酒馆里暴露了自己杀人的事实，那为什么周围的人无动于衷？](https://www.zhihu.com/question/634570168)|
+|2023-12-31 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年美股收官，纳指全年涨超 43%，英伟达涨 240%，Meta 涨 194%，哪些信息值得关注？](https://www.zhihu.com/question/637389231)|
+|2023-12-31 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在《我们把一本相册，留在了 2023》视频中哪个故事或照片打动了你？有哪些感受？](https://www.zhihu.com/question/637424730)|
+|2023-12-31 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[机票燃油附加费将迎新年首降，哪些信息值得关注？](https://www.zhihu.com/question/637451589)|
+|2023-12-31 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季英超诺丁汉森林 2:1 曼联，如何评价这场比赛？](https://www.zhihu.com/question/637431310)|
+|2023-12-31 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在电视剧创作的过程中，导演和编剧之间是什么样的关系？谁更重要？](https://www.zhihu.com/question/636534424)|
+|2023-12-31 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果选一款游戏陪你度过跨年夜，你会选哪个游戏？](https://www.zhihu.com/question/635608072)|
+|2023-12-31 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 湖人 106:108 森林狼，如何评价这场比赛？](https://www.zhihu.com/question/637451411)|
+|2023-12-31 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[怎么读才能防止 B 和 D 听起来像？](https://www.zhihu.com/question/637411127)|
+|2023-12-31 16:03:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 年，国产大模型的竞争格局预计如何？](https://www.zhihu.com/question/636100562)|
+|2023-12-31 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[十部门要求加快建设紧密型县域医共体，哪些信息值得关注？](https://www.zhihu.com/question/637451465)|
+|2023-12-31 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果选一个游戏角色陪你跨年，你希望是谁？](https://www.zhihu.com/question/635607711)|
+|2023-12-31 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待张小北在《洞见对谈》里称「科幻从不负责预言未来，它让我们相信一种未来」？](https://www.zhihu.com/question/636101295)|
+|2023-12-31 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年，你最喜欢的 AI 绘画工具是哪个？2024 年，你对 AI 绘画有什么期待？](https://www.zhihu.com/question/636440314)|
+|2023-12-31 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[薛宝钗为什么不定亲?](https://www.zhihu.com/question/637152832)|
+|2023-12-31 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[错怪孩子需要给孩子道歉吗？](https://www.zhihu.com/question/632778421)|
+|2023-12-31 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果让你选一张照片定义为你的 2023 年最佳「饭照」，你会选择哪张？吃的什么食物，有什么故事？](https://www.zhihu.com/question/632156200)|
+|2023-12-31 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[影版《一闪一闪亮星星》和剧版《一闪一闪亮星星》相比如何？](https://www.zhihu.com/question/637142144)|
+|2023-12-31 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《繁花》中王家卫的镜头美学？](https://www.zhihu.com/question/637291409)|
+|2023-12-31 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[用 C/C++ 实现游戏服务器，由于没有反射，服务器收到消息后该怎么快速地将消息转交给对应的处理函数呢？](https://www.zhihu.com/question/636120604)|
+|2023-12-31 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[报道称「有孩童在什刹海非冰场区域落水，已被送往医院」， 冬季滑冰有哪些安全事项需注意？](https://www.zhihu.com/question/637470071)|
+|2023-12-31 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何理解「道可道，非常道，名可名，非常名」这句话？](https://www.zhihu.com/question/633030114)|
+|2023-12-31 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[这一年，你有没有进化出「遇事心里不慌」的能力？回看这一年，什么是你生活中的「定心剂」？](https://www.zhihu.com/question/632637546)|
+|2023-12-31 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[超 70 % 以民众希望内塔尼亚胡辞职，他回应「不会辞职」，以色列内部分裂会如何影响巴以局势？](https://www.zhihu.com/question/637457196)|
+|2023-12-31 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国全年汽车出口超越日本已成定局，将首登世界第一，导致汽车行业竞争格局变化的原因是什么？](https://www.zhihu.com/question/637226339)|
+|2023-12-31 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[长沙世界之窗取消跨年烟花燃放，称「空气污染严重，园区增加了放气球活动」，如何看待此事？](https://www.zhihu.com/question/637459863)|
+|2023-12-31 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[这一年，你兑现了哪些承诺？](https://www.zhihu.com/question/632637495)|
+|2023-12-31 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价星穹铁道 1.6 更新的黄金与机械模拟宇宙 DLC?](https://www.zhihu.com/question/637142083)|
+|2023-12-31 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[俄罗斯副外长称美国打算在外高加索开辟「对俄第二战场」，如何解读？](https://www.zhihu.com/question/637457477)|
+|2023-12-31 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[文笔挑战，「我与春风皆过客」，_____________ 你会怎么接下一句?](https://www.zhihu.com/question/637467744)|
+|2023-12-31 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[茅台集团 2023 年度营收达 1639 亿元，利润总额首破千亿元，哪些信息值得关注？](https://www.zhihu.com/question/637460025)|
+|2023-12-31 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[俄罗斯别尔哥罗德市遭乌军袭击，致至少 20 死 111 伤，哪些信息值得关注？](https://www.zhihu.com/question/637459680)|
+|2023-12-31 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果你的超能力是将指定的超过 99% 几率发生的一件事情的概率变为 100%，会有什么用？](https://www.zhihu.com/question/549227920)|
+|2023-12-31 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[小米首款汽车 SU7 搭载的核心部件及技术是否先进？有哪些值得关注的点？](https://www.zhihu.com/question/637238460)|
+|2023-12-31 16:03:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价央视 2024 年跨年晚会？](https://www.zhihu.com/question/637475115)|
+|2023-12-31 16:03:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[今年你吃过哪些让你念念不忘的路边摊？可以留下照片吗？](https://www.zhihu.com/question/634495938)|
+|2023-12-31 06:48:51|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[2023 节点：追着变化的计划](http://www.phodal.com/blog/node-2023/)|
 |2023-12-31 12:38:48|[kok的笔记本](https://wocai.de/index.xml/)|[2023 读书推荐](https://wocai.de/post/2023/12/2023-%E8%AF%BB%E4%B9%A6%E6%8E%A8%E8%8D%90/)|
 |2023-12-31 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果押注的这个新技术，可能改变你听歌的方式](https://36kr.com/p/2584141128754820)|
 |2023-12-31 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[互联网大厂的2023年，似乎都不再有攻击性了](https://36kr.com/p/2583069728466561)|
