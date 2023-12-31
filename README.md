@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2023-12-31 02:04:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[17岁中国留学生在美国被“强行掳走”？父母收到索要赎金的信息](https://dig.chouti.com/link/41079977)|
+|2023-12-31 02:11:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国版“我爸是李刚”……大学女生参加趴体完醉驾被抓，要求警察给她爹打电话，因为她爹是是警长。 爹赶过来以后说：孩子，你该抓，去吧！](https://dig.chouti.com/link/41080278)|
+|2023-12-31 03:44:27|[Diff客旅日记](https://diff.im/blog/?feed=rss2)|[2023 感恩题目](https://diff.im/blog/?p=1679)|
 |2023-12-30 18:39:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[web3/钱包/链上交易这些程序员一般都去哪些论坛？](https://www.v2ex.com/t/1004736#reply1)|
 |2023-12-30 12:24:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[那些天天很累的程序员，能活到 40 么？](https://www.v2ex.com/t/1004679#reply27)|
 |2023-12-30 11:53:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在中国移动的套路怎么跟电信诈骗一样了](https://www.v2ex.com/t/1004675#reply11)|
