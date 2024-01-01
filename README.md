@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-01 06:41:33|[Tinyfool的个人网站](https://codechina.org/feed/)|[在Mac上用FFMpeg做youtube上传视频的预处理](https://codechina.org/2024/01/mac-ffmpeg-youtube/)|
+|2024-01-01 06:46:28|[Mokeyjay's Blog - ...](https://www.mokeyjay.com/feed)|[2023 年度总结](https://mok.moe/p/2023-summary)|
+|2024-01-01 11:33:19|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 #46：2023 年终总结](https://w2solo.com/topics/4340)|
+|2024-01-01 10:09:12|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[如果你也面临艰难的人生抉择，我建议你看一眼我的这篇年终总结。](https://w2solo.com/topics/4339)|
+|2024-01-01 12:00:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[丁胖子为何被封杀？这个回答说的比较深入。](https://dig.chouti.com/link/41092672)|
+|2024-01-01 09:11:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[赵少康。。。](https://dig.chouti.com/link/41091653)|
+|2024-01-01 10:05:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“爱泼斯坦案”数百份密封文件将公布，克林顿代号“无名氏36”】ABC根据法庭记录了解到，克林顿被定名为“John Doe 36”（意为无名氏36，John Doe泛指男性无名氏，Jane Doe泛指女性无名氏），在50多份经过编辑的文件中被提及。](https://dig.chouti.com/link/41092045)|
+|2024-01-01 01:05:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[卖一台少一台，桑塔纳产线停产：2023年11月仅销1台，4月份曾月销6000多台](https://dig.chouti.com/link/41087805)|
+|2024-01-01 04:16:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[布拉格街头煤气路灯的点亮方式](https://dig.chouti.com/link/41089390)|
+|2024-01-01 06:12:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[长杆手绘](https://dig.chouti.com/link/41090428)|
+|2024-01-01 04:15:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[12月31日，嘉兴市总工会公众号“嘉兴工会”推送了这篇题为《领导让我写篇新年献词，怎么办》的文章](https://dig.chouti.com/link/41089324)|
+|2024-01-01 09:31:54|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.1.1](https://www.justzht.com/2024-1-1/)|
+|2024-01-01 07:29:31|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Educational Codeforces Round 157 Rated for Div. 2 ](https://blog.mauve.icu/2024/01/01/acm/codeforces/EducationalCodeforcesRound157(Div.%202)/)|
 |2024-01-01 08:14:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【日本石川县能登半岛当天发生7.4级地震，地震引发5米海啸】 日本本州西岸近海7.8级左右地震 新华社快讯：据日本气象厅1月1日消息，日本石川县能登半岛当天发生7.4级地震，地震引发5米海啸。 另据@国家海洋预报台 ：自然资源部海啸预警中心根据初步地震参数判断，地震可能会在震源周围引 ...](https://dig.chouti.com/link/41091255)|
 |2024-01-01 05:04:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[校园开放再进一步：清华北大宣布今日起两校师生实现畅行互通](https://dig.chouti.com/link/41089569)|
 |2024-01-01 06:12:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《2024年的第一个洋相》](https://dig.chouti.com/link/41090420)|
