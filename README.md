@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-01 04:03:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一位硅谷VC眼中的硅谷：2/3生成式AI机遇属于巨头](https://36kr.com/p/2582797683156357)|
+|2024-01-01 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国公司全球化周报 今年中国汽车出口量将超日本，首登世界第一 / 阿里国际站预测2024年数字外贸八大蓝海赛道](https://36kr.com/p/2583915262387840)|
+|2024-01-01 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一份来自比尔·盖茨的“年末安利”](https://36kr.com/p/2582778792813955)|
+|2024-01-01 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[6888元！售罄！你为跨年仪式感花了多少钱？](https://36kr.com/p/2583937781687944)|
+|2024-01-01 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[安卓版Copilot上线，无限免费用GPT-4，微软开抢移动端用户 最前线](https://36kr.com/p/2583360226911625)|
+|2024-01-01 04:03:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[1秒摄入蔬菜、AI生成饮料配方，千款2023新品里的5大食品饮料新机会](https://36kr.com/p/2583954153940610)|
+|2024-01-01 03:37:51|[61’s life](https://61.life/feed.xml)|[谜底 2023](http://61.life/2024/0101)|
+|2024-01-01 02:20:00|[ddadaal.me](https://ddadaal.me/rss.xml)|[博客集成AI文章总结功能](https://ddadaal.me/articles/ai-article-summary/cn)|
 |2023-12-31 14:05:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[拘留一周后，印度法院下令：释放两名vivo高管](https://dig.chouti.com/link/41085164)|
 |2023-12-31 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么有些阿斯塔特不愿意进无畏？](https://www.zhihu.com/question/636407561)|
 |2023-12-31 16:03:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[什么时候发现猫咪越长大越懂事了？](https://www.zhihu.com/question/634661139)|
