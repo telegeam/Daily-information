@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-01 00:31:57|[观人看世界](https://feedpress.me/wx-iwatch1024)|[本周鸽了，给大家看看女友拍的香港（最后一张是彩蛋哦）](http://mp.weixin.qq.com/s?__biz=MzI5NDI2NTAxMA%3D%3D&mid=2247489387&idx=1&sn=5dbcd3623abda8751bc089b8da8ff89d)|
+|2024-01-01 11:54:46|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[2023（下篇）](https://www.edony.ink/2023_2/)|
+|2024-01-01 01:07:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2024 了，又长了一岁，大厂干不下去了，要润吗？](https://www.v2ex.com/t/1004896#reply123)|
+|2024-01-01 19:20:29|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请教下， docker 怎么部署多个同类容器？](https://www.v2ex.com/t/1005023#reply0)|
+|2024-01-01 03:36:11|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如果在 vivo X100 Pro 和 OPPO 一加 12 之间进行选择，你会选择哪一款？](https://www.v2ex.com/t/1004916#reply53)|
+|2024-01-01 14:54:53|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如果你也面临艰难的人生抉择，我建议你看一眼我的这篇年终总结。](https://www.v2ex.com/t/1005007#reply9)|
+|2024-01-01 16:11:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[以小搏大：灵活运用这 9 个 Python 内置的装饰器，可显著优化你的代码](https://www.v2ex.com/t/1005015#reply0)|
+|2024-01-01 12:52:22|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2024 了，对生活规划一下，好用的记录工具](https://www.v2ex.com/t/1004986#reply3)|
+|2024-01-01 20:58:12|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[最强人类木吉的归♂来！](https://masuit.com/1740)|
+|2024-01-01 20:55:57|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[.NET控件库——DevExpress Universal 23.2.3全家桶学习版](https://masuit.com/1849)|
+|2024-01-01 10:53:01|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1233 基于源代码的 Gentoo Linux 也将提供二进制](https://linux.cn/article-16525-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-01 08:20:03|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 专访开源先锋 Bruce Perens：后开源、许可证、AI](https://linux.cn/article-16524-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-01 07:28:43|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 在 Fedora ostree 系统上搜索软件包](https://linux.cn/article-16523-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-01 20:12:04|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 想咨询下微信小游戏上架的事的流程。。](https://www.v2ex.com/t/1005025#reply0)|
+|2024-01-01 19:58:39|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 官网买的 Iphone15 Pro 双卡信号问题](https://www.v2ex.com/t/1005024#reply0)|
+|2024-01-01 06:53:30|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[再见2023，你好2024](https://www.kingname.info/2024/01/01/2023-2024/)|
 |2024-01-01 11:12:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[全球首次反舰弹道导弹实战，居然被一支地方性武装抢了先？](https://dig.chouti.com/link/41092612)|
 |2024-01-01 13:57:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【这是GPT-4变笨的新解释——变笨的本质是知识没进脑子？】在最近的一篇论文中，加州大学圣克鲁斯分校研究者的新发现或可解释 GPT-4 性能下降的深层原因：LLM在「见过的」任务上表现出色，而在新任务上则表现糟糕。这意味着，LLM只是基于近似检索的模仿智能方法，主要是记忆东西，而没有任何程度的理解。](https://dig.chouti.com/link/41093527)|
 |2024-01-01 13:58:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[俄罗斯的山海关？普京为何说，乌克兰的敖德萨是俄罗斯城市？](https://dig.chouti.com/link/41093528)|
