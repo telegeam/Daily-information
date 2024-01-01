@@ -2,6 +2,23 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-01 11:12:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[全球首次反舰弹道导弹实战，居然被一支地方性武装抢了先？](https://dig.chouti.com/link/41092612)|
+|2024-01-01 13:57:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【这是GPT-4变笨的新解释——变笨的本质是知识没进脑子？】在最近的一篇论文中，加州大学圣克鲁斯分校研究者的新发现或可解释 GPT-4 性能下降的深层原因：LLM在「见过的」任务上表现出色，而在新任务上则表现糟糕。这意味着，LLM只是基于近似检索的模仿智能方法，主要是记忆东西，而没有任何程度的理解。](https://dig.chouti.com/link/41093527)|
+|2024-01-01 13:58:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[俄罗斯的山海关？普京为何说，乌克兰的敖德萨是俄罗斯城市？](https://dig.chouti.com/link/41093528)|
+|2024-01-01 12:11:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[也许就是我那令人智熄的2024：](https://dig.chouti.com/link/41092919)|
+|2024-01-01 11:36:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【百度关联方Moon终止YY收购协议】Moon曾于2020年11月16日与欢聚集团就YY在国内视频娱乐直播业务签署股权收购协议。截至2023年12月31日即协议最终截止日，股份购买协议规定的交割前提条件未能全部满足。接下来，Moon会就终止股权收购协议后交易未来安排寻求与欢聚集团进行协商，探讨合理解决方案。](https://dig.chouti.com/link/41092633)|
+|2024-01-01 05:13:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[34台运动相机打造“时间暂停”](https://dig.chouti.com/link/41089944)|
+|2024-01-01 10:04:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[有限开闸：中国转基因粮食作物正式迈入商业化](https://dig.chouti.com/link/41091867)|
+|2024-01-01 02:49:00|[触乐](http://www.chuapp.com/feed)|[2023年，触乐最值得阅读的10篇文章](http://www.chuapp.com/article/289731.html)|
+|2024-01-01 17:53:22|[Macin](https://www.macin.org/atom.xml)|[2024：寒冬良夜，纵情向前](https://macin.org/2024/01/01/2023-zong-jie/)|
+|2024-01-01 14:41:47|[白宦成](https://www.ixiqin.com/feed/)|[《客户的游艇在哪里》书摘](https://www.ixiqin.com/2024/01/01/book-excerpt-from-where-are-customers-yachts/)|
+|2024-01-01 09:14:42|[小众软件](https://www.appinn.com/feed/)|[Qwerty Learner – 目的不纯的在线打字练习工具：英语、日语、德语，Phthon、C++、AI、Go、Java](https://www.appinn.com/qwerty-learner/)|
+|2024-01-01 04:18:50|[爱范儿](https://www.ifanr.com/feed)|[从今天开始，迪士尼这只米老鼠终于「自由」了](https://www.ifanr.com/1572135?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-01 04:01:33|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[新玩意 168｜少数派的编辑们最近买了啥？](https://sspai.com/post/85424)|
+|2024-01-01 04:01:33|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[回首过去，展望未来：聊聊我用 Arc 浏览器的这一年](https://sspai.com/post/84931)|
+|2024-01-01 13:19:58|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 猫的 2023 年终回顾](https://w2solo.com/topics/4341)|
+|2024-01-01 07:48:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果揭露針對記者的駭客行為：遭到印度的強烈施壓](https://www.iphonetaiwan.org/2024/01/apple-reveals-india-pegasus-hack.html)|
+|2024-01-01 07:13:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果大膽融合 AI 技術！iPhone 面臨重大變革](https://www.iphonetaiwan.org/2024/01/apple-ai-iphone-revolution.html)|
 |2024-01-01 06:41:33|[Tinyfool的个人网站](https://codechina.org/feed/)|[在Mac上用FFMpeg做youtube上传视频的预处理](https://codechina.org/2024/01/mac-ffmpeg-youtube/)|
 |2024-01-01 06:46:28|[Mokeyjay's Blog - ...](https://www.mokeyjay.com/feed)|[2023 年度总结](https://mok.moe/p/2023-summary)|
 |2024-01-01 11:33:19|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 #46：2023 年终总结](https://w2solo.com/topics/4340)|
