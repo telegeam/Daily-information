@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-02 10:00:00|[机核](https://www.gcores.com/rss)|[看看2023游戏界发生的大事，所以2024会更好对吗？](https://www.gcores.com/videos/175791)|
+|2024-01-02 09:00:00|[机核](https://www.gcores.com/rss)|[机核因扎吉，录音笔Vol.112](https://www.gcores.com/radios/175792)|
+|2024-01-02 08:54:55|[机核](https://www.gcores.com/rss)|[PlayStation Plus 1月会免游戏：《瘟疫传说：安魂曲》、《暗邪西部》、《无名小卒救世界》](https://www.gcores.com/articles/175795)|
+|2024-01-02 08:45:00|[机核](https://www.gcores.com/rss)|[《战神 诸神黄昏》 游戏摄影集](https://www.gcores.com/articles/175785)|
+|2024-01-02 08:32:14|[机核](https://www.gcores.com/rss)|[暴雪老将开发：即时战略游戏《风暴之门》公布开发进度蒙太奇](https://www.gcores.com/articles/175793)|
+|2024-01-02 04:01:37|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客](https://sspai.com/post/85141)|
+|2024-01-02 12:00:00|[触乐](http://www.chuapp.com/feed)|[《美国阿卡迪亚》：自媒体时代的寓言](http://www.chuapp.com/article/289734.html)|
+|2024-01-02 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：墙倒众人推](http://www.chuapp.com/article/289733.html)|
+|2024-01-02 05:22:18|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[修复 WSL2 镜像网络模式下无法连接 Docker 的问题](https://www.sulinehk.com/post/fix-docker-connection-issues-in-wsl2-mirrored-networking-mode/)|
+|2024-01-02 07:48:01|[小众软件](https://www.appinn.com/feed/)|[Stitch Photos – 长截图自动拼接工具｜全景照片自动拼接工具 Android 限免 ](https://www.appinn.com/stitch-photos/)|
 |2024-01-02 07:15:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“水泄不通的掌声”](https://dig.chouti.com/link/41100407)|
 |2024-01-02 04:37:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[青岛保安刺死外卖员：小区门口的冲突与杀害](https://dig.chouti.com/link/41098856)|
 |2024-01-02 06:31:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“月曜中国采访”第四弹——天津篇！①第三弹四川篇经典回顾；②北京街头行人对全国的“刻板印象”调查；③细数天津的月曜粉丝团；④经典企划：过于精神头十足的天津老年人；⑤引领潮流的风骚十足的天津文化；⑥天津平民社区趣闻；⑦天津广场趣闻。](https://dig.chouti.com/link/41099861)|
