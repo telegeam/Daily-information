@@ -2,6 +2,36 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-02 03:25:14|[Mokeyjay's Blog - ...](https://www.mokeyjay.com/feed)|[2023 年度十大照片](https://mok.moe/p/2023-photos)|
+|2024-01-02 16:19:00|[机核](https://www.gcores.com/rss)|[外媒PushSquare评选：2023年度最佳 PS5/PS4 开发商](https://www.gcores.com/articles/175796)|
+|2024-01-02 15:00:00|[机核](https://www.gcores.com/rss)|[80岁的理想主义老战士 与谭楷老师聊他的科幻生涯](https://www.gcores.com/radios/175696)|
+|2024-01-02 14:11:16|[机核](https://www.gcores.com/rss)|[旅程分享 丨寻梦“任天堂”](https://www.gcores.com/articles/175802)|
+|2024-01-02 13:44:28|[机核](https://www.gcores.com/rss)|[译介丨涉入一场梦的泥沼——《大刀开发史话》：第一部分 梦设计](https://www.gcores.com/articles/175798)|
+|2024-01-02 13:08:06|[机核](https://www.gcores.com/rss)|[【CIPA调查局&片尾曲】ED 预览版 SOMETHING IN THE WAY【涅槃/Nirvana】](https://www.gcores.com/videos/175800)|
+|2024-01-02 12:37:06|[机核](https://www.gcores.com/rss)|[出去走走│防城港与望州顶](https://www.gcores.com/articles/175787)|
+|2024-01-02 09:37:10|[爱范儿](https://www.ifanr.com/feed)|[小鹏 X9 正式发布，35.98 万起，剑指 MPV 第一名！](https://www.ifanr.com/1572193?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-02 09:29:28|[爱范儿](https://www.ifanr.com/feed)|[小鹏开打「晋级赛」，X9 拿下「第一滴血」](https://www.ifanr.com/1572240?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-02 10:16:51|[煎蛋](http://jandan.net/feed)|[电气化水泥可以将房屋和道路变成超大电池](http://jandan.net/p/115256)|
+|2024-01-02 10:14:36|[煎蛋](http://jandan.net/feed)|[AI会有意识吗？我们迫切需要答案](http://jandan.net/p/115255)|
+|2024-01-02 02:12:27|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[日本发生7.6级强震，官方警告强余震风险](https://cn.nytimes.com/asia-pacific/20240102/japan-earthquake/?utm_source=RSS)|
+|2024-01-02 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发丨「冻品在线」完成亿元级C轮融资，聚焦牛肉和炸物调理品类](https://36kr.com/p/2585973431739778)|
+|2024-01-02 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[刘强东努力一年，京东跌更深](https://36kr.com/p/2582027380481920)|
+|2024-01-02 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[新造车2023成绩单：销冠易主，内卷升级](https://36kr.com/p/2586773116102277)|
+|2024-01-02 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大快人心，百万粉丝网红被判刑](https://36kr.com/p/2584761039447683)|
+|2024-01-02 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[《GTA6》横空出世，一场游戏艺术的资本派对｜氪金 · 互联网](https://36kr.com/p/2584286622197126)|
+|2024-01-02 15:38:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《非诚勿扰3》的失利与冯小刚的“脱轨”](https://dig.chouti.com/link/41105132)|
+|2024-01-02 15:05:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【埃克森美孚退出伊拉克，中石油正式成为西古尔纳-1油田牵头合同者】当一个油田项目非常重要且复杂时，一般会有几个石油公司作为联合体共同参与。联合体中会有一位领头者，即牵头合同者，当有重要事宜需要表态或者重大决策需要投票时，牵头合同者与招标人签订合同的行为，等同于联合体各方共同与招标人签订合同。](https://dig.chouti.com/link/41104948)|
+|2024-01-02 11:13:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[饼叔：从东北横跨黑龙江，赶俄罗斯早市，中俄边境一江之隔的城市什么样？](https://dig.chouti.com/link/41102996)|
+|2024-01-02 12:14:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当地时间1月2日下午的航拍画面：日本石川县珠洲市金泽大学的一个停车场内，用折叠椅等物品拼成的“SOS”字样](https://dig.chouti.com/link/41103464)|
+|2024-01-02 12:13:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[新闻联播：偷拍是吧，我直接给你来个大的](https://dig.chouti.com/link/41103430)|
+|2024-01-02 12:36:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[发“日本地震是报应？”海南广播电视总台：一主持人发布不当言论，暂停其工作](https://dig.chouti.com/link/41103536)|
+|2024-01-02 08:34:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果服務收入2024：法規風暴如何影響850億美元業務](https://www.iphonetaiwan.org/2024/01/blog-post.html)|
+|2024-01-02 08:05:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Masimo：起訴Apple Watch侵權是為了讓蘋果變得更好](https://www.iphonetaiwan.org/2024/01/masimo-sues-apple-patent-dispute.html)|
+|2024-01-02 07:34:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[你準備好體驗蘋果 Vision Pro 頭顯的未來嗎](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-headset-future-tech.html)|
+|2024-01-02 06:54:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果破天荒！為何 2023 年整年不推新 iPad？](https://www.iphonetaiwan.org/2024/01/apple-ipad-2023-strategy-shift.html)|
+|2024-01-02 04:03:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone地震通知開啟教學，跟著做3步驟就完成！](https://www.iphonetaiwan.org/2024/01/apple-iphone-earthquake-notification.html)|
+|2024-01-02 11:41:59|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1234 流量分析显示，6G 标准该准备了](https://linux.cn/article-16527-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-02 08:18:02|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 人工智能教程（五）：Anaconda 以及更多概率论](https://linux.cn/article-16526-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-02 10:00:00|[机核](https://www.gcores.com/rss)|[看看2023游戏界发生的大事，所以2024会更好对吗？](https://www.gcores.com/videos/175791)|
 |2024-01-02 09:00:00|[机核](https://www.gcores.com/rss)|[机核因扎吉，录音笔Vol.112](https://www.gcores.com/radios/175792)|
 |2024-01-02 08:54:55|[机核](https://www.gcores.com/rss)|[PlayStation Plus 1月会免游戏：《瘟疫传说：安魂曲》、《暗邪西部》、《无名小卒救世界》](https://www.gcores.com/articles/175795)|
