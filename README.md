@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-02 04:00:01|[爱范儿](https://www.ifanr.com/feed)|[AI 普惠，vivo 为先](https://www.ifanr.com/1572008?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-02 09:17:48|[Macin](https://www.macin.org/atom.xml)|[平潭岛：风吹来的冬日海边](https://macin.org/2024/01/02/ping-tan-dao/)|
+|2024-01-02 04:03:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[当蚂蚁不再姓“马”](https://36kr.com/p/2586735877793154)|
+|2024-01-02 04:03:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[旗舰手机乱战2023：国产品牌与iPhone上演群架模式](https://36kr.com/p/2585481789316999)|
+|2024-01-02 04:03:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果汽车，还会有吗？](https://36kr.com/p/2583355004315271)|
+|2024-01-02 04:03:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年最重要的趋势，可能影响你的工作](https://36kr.com/p/2585382868362629)|
+|2024-01-02 04:03:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨董宇辉官宣2024年1月9日开播；百度关联方Moon终止YY收购协议；马斯克再次成世界首富](https://36kr.com/p/2586748271699331)|
+|2024-01-02 04:00:00|[虎嗅](https://rss.huxiu.com/)|[AI创业有啥机会？](https://www.huxiu.com/article/2497036.html?f=rss)|
+|2024-01-02 03:42:36|[虎嗅](https://rss.huxiu.com/)|[A股2023年终总结：花非花，雾非雾](https://www.huxiu.com/article/2500079.html?f=rss)|
+|2024-01-02 03:32:00|[虎嗅](https://rss.huxiu.com/)|[国潮遇冷、市值暴跌、疯狂打折，李宁究竟怎么了？](https://www.huxiu.com/article/2500613.html?f=rss)|
+|2024-01-02 03:19:55|[虎嗅](https://rss.huxiu.com/)|[逼到新款Apple Watch差点停售，谁在和苹果死磕？](https://www.huxiu.com/article/2500071.html?f=rss)|
+|2024-01-02 03:14:17|[虎嗅](https://rss.huxiu.com/)|[听说犹太人想继承耶路撒冷？得先问问洪秀全](https://www.huxiu.com/article/2498368.html?f=rss)|
+|2024-01-02 03:08:28|[虎嗅](https://rss.huxiu.com/)|[中文系的使命、困境与出路](https://www.huxiu.com/article/2500083.html?f=rss)|
+|2024-01-02 02:53:00|[虎嗅](https://rss.huxiu.com/)|[下一个PD-1药物，为什么不是CAR-T？](https://www.huxiu.com/article/2500096.html?f=rss)|
+|2024-01-02 02:48:54|[虎嗅](https://rss.huxiu.com/)|[一个朋友圈思想家与AI的 2023](https://www.huxiu.com/article/2500047.html?f=rss)|
+|2024-01-02 02:38:58|[虎嗅](https://rss.huxiu.com/)|[自动驾驶是不是谋财害命？](https://www.huxiu.com/article/2497956.html?f=rss)|
+|2024-01-02 02:09:00|[虎嗅](https://rss.huxiu.com/)|[高血压不能献血，科学依据是否充分？](https://www.huxiu.com/article/2500073.html?f=rss)|
+|2024-01-02 02:00:27|[虎嗅](https://rss.huxiu.com/)|[一个罕见的“幸运病例”，为预防阿尔茨海默病提供了新线索](https://www.huxiu.com/article/2500028.html?f=rss)|
+|2024-01-02 01:56:06|[虎嗅](https://rss.huxiu.com/)|[你经常吃的汉堡，是如何定价的？](https://www.huxiu.com/article/2500093.html?f=rss)|
+|2024-01-02 01:51:09|[虎嗅](https://rss.huxiu.com/)|[从高尔夫、美食和机场聊聊中西理念的冲突](https://www.huxiu.com/article/2496516.html?f=rss)|
+|2024-01-02 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 52/2023](https://weekly.pychina.org/pyrecap/pyrw-2352.html)|
 |2024-01-02 00:42:39|[虎嗅](https://rss.huxiu.com/)|[内卷中谋新生：2023年210起食品饮料投融资观察](https://www.huxiu.com/article/2499684.html?f=rss)|
 |2024-01-02 00:33:00|[虎嗅](https://rss.huxiu.com/)|[大厂人，连恋爱都在“计算”](https://www.huxiu.com/article/2500019.html?f=rss)|
 |2024-01-02 00:27:00|[虎嗅](https://rss.huxiu.com/)|[新势力“交卷”2023：理想排名第一，今年年销目标80万辆](https://www.huxiu.com/article/2499669.html?f=rss)|
