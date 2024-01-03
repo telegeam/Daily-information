@@ -2,6 +2,51 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-03 15:53:04|[SHRIK3](https://shrik3.com/index.xml)|[C syntax is bad for regex](https://shrik3.com/post/c_syntax_bad_regex/)|
+|2024-01-03 16:05:00|[虎嗅](https://rss.huxiu.com/)|[中国单身汉，涌向尼泊尔找老婆](https://www.huxiu.com/article/2506561.html?f=rss)|
+|2024-01-03 14:45:37|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[系统运维 如何在 Ubuntu 上安装 Docker](https://linux.cn/article-16531-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-03 11:32:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1235 虽然 Firefox 市场份额继续下滑，但其 CEO 在涨薪](https://linux.cn/article-16530-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-03 07:33:45|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 你可能错过的 2023 年 9 个值得关注的 Linux 发行版](https://linux.cn/article-16529-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-03 03:30:49|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[哈佛校长在争议中辞职，一场保守派的胜利？](https://cn.nytimes.com/usa/20240103/harvard-president-claudine-gay-resignation-conservatives-hamas-israel-free-speech/?utm_source=RSS)|
+|2024-01-03 12:00:00|[触乐](http://www.chuapp.com/feed)|[游戏的人，此身无拘](http://www.chuapp.com/article/289736.html)|
+|2024-01-03 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：《神域5》的教诲](http://www.chuapp.com/article/289735.html)|
+|2024-01-03 11:19:35|[煎蛋](http://jandan.net/feed)|[绘制人类免疫多样性图谱](http://jandan.net/p/115265)|
+|2024-01-03 11:16:41|[煎蛋](http://jandan.net/feed)|[人工智能与量子计算融合会给科学带来革命性的变化吗？](http://jandan.net/p/115264)|
+|2024-01-03 09:07:29|[煎蛋](http://jandan.net/feed)|[发霉啦：今天，我去拔智齿](http://jandan.net/p/115263)|
+|2024-01-03 01:15:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大象 vs 大树](https://dig.chouti.com/link/41108007)|
+|2024-01-03 14:05:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[数字货币周三大跳水，机构：比特币ETF在1月获批希望渺茫，可能迟至第二季度](https://dig.chouti.com/link/41115830)|
+|2024-01-03 14:04:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[伊朗南部城市发生连环爆炸 至少73人死亡](https://dig.chouti.com/link/41115652)|
+|2024-01-03 13:25:51|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[有项目，求安卓队友](https://w2solo.com/topics/4345)|
+|2024-01-03 12:47:15|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[MarkBox-网页收集工具，一键收集网页，标签轻松管理](https://w2solo.com/topics/4344)|
+|2024-01-03 03:30:07|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[PHP 转 Java ，上千张表需要 CRUD](https://www.v2ex.com/t/1005420#reply53)|
+|2024-01-03 02:04:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[你们是怎么部署 nodejs 的？](https://www.v2ex.com/t/1005371#reply102)|
+|2024-01-03 04:50:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家的工作中会有 Code Review 吗？](https://www.v2ex.com/t/1005441#reply71)|
+|2024-01-03 13:38:55|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为何谷歌不学中国厂商所统一推送服务？](https://www.v2ex.com/t/1005622#reply13)|
+|2024-01-03 16:09:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[v 站我没挂代理啊，这速度怎么嗖嗖的](https://www.v2ex.com/t/1005643#reply0)|
+|2024-01-03 05:07:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[兄弟们，你们是怎么扩大自己的社交圈的](https://www.v2ex.com/t/1005446#reply44)|
+|2024-01-03 15:26:15|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[shc 对 arm 设备不兼容，如何解决？](https://www.v2ex.com/t/1005637#reply2)|
+|2024-01-03 07:38:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如果我开发一款聊天 APP 能自定义信息提示音，能否超越微信?](https://www.v2ex.com/t/1005514#reply68)|
+|2024-01-03 09:57:47|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如何低成本拥有一张外国手机卡，平时流量需求也有，不过流量需求不是很大，手持三星 s21 ultra，估计要实体卡了。](https://www.v2ex.com/t/1005575#reply16)|
+|2024-01-03 02:41:31|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[又是被 mysql 加字段搞郁闷的一天](https://www.v2ex.com/t/1005389#reply40)|
+|2024-01-03 10:46:16|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最节省成本抵御网络攻击（ddos、cc 等）的手段是？](https://www.v2ex.com/t/1005595#reply17)|
+|2024-01-03 12:43:04|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[RunJS Collect 重构升级，收藏效果拉满~](https://www.v2ex.com/t/1005612#reply0)|
+|2024-01-03 10:03:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[云游戏是如何实现的](https://www.v2ex.com/t/1005578#reply7)|
+|2024-01-03 08:28:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[如果又要防 CC 攻击、又要保障用户使用 CDN 加速， CDN 到底是应该配置在 WAF 前面好还是配置在 WAF 后面好？](https://www.v2ex.com/t/1005537#reply20)|
+|2024-01-03 08:25:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[这为什么会死锁呢，为什么换 duplicate key update 就不报错了，有沒有 dba 大哥说说](https://www.v2ex.com/t/1005536#reply2)|
+|2024-01-03 07:16:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[免费华为云服务器新活动](https://www.v2ex.com/t/1005506#reply6)|
+|2024-01-03 03:44:10|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[一位普通程序员的 2023 年终总结和 2024 展望](https://www.v2ex.com/t/1005427#reply13)|
+|2024-01-03 10:54:13|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我的 2023 命令行年度总结](https://www.v2ex.com/t/1005596#reply2)|
+|2024-01-03 08:05:25|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[4090 阉割版即将上线， 12999 起](https://www.v2ex.com/t/1005525#reply12)|
+|2024-01-03 03:25:05|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[开源项目被收购，为什么有些任这么酸？](https://www.v2ex.com/t/1005418#reply19)|
+|2024-01-03 08:20:28|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[使用 ChatGPT 突破能力边界 之 前端小白实现沉浸式翻译的核心功能](https://www.v2ex.com/t/1005534#reply6)|
+|2024-01-03 09:36:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[C#里有没有类似独角数卡的软件？](https://www.v2ex.com/t/1005570#reply3)|
+|2024-01-03 06:17:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[实现一个企业内部知识库的问答机器人](https://www.v2ex.com/t/1005478#reply7)|
+|2024-01-03 08:05:50|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[zerotier 不能用了？](https://www.v2ex.com/t/1005526#reply6)|
+|2024-01-03 07:03:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[gRpc 有无方法可以手动发送一个 error？](https://www.v2ex.com/t/1005500#reply3)|
+|2024-01-03 15:14:51|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 908 Div. 2 ](https://blog.mauve.icu/2024/01/03/acm/codeforces/CodeforcesRound908(Div.%202)/)|
+|2024-01-03 09:11:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Vision Pro 外螢幕可顯示跑馬燈、天氣等圖示](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-external-display.html)|
+|2024-01-03 08:44:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果「家人共享」訴訟和解：每人最高獲得50美元](https://www.iphonetaiwan.org/2024/01/apple-family-sharing-lawsuit-settlement.html)|
+|2024-01-03 08:28:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16系列將於2024年改變尺寸！最新更新](https://www.iphonetaiwan.org/2024/01/apple-iphone-16-size-change-2024.html)|
 |2024-01-03 06:27:26|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[建了一个 Product Hunt 打榜互助群](https://w2solo.com/topics/4343)|
 |2024-01-03 07:05:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[传深圳多所初中取消晚自习，有家长呼吁恢复初三晚辅课迎中考](https://dig.chouti.com/link/41111749)|
 |2024-01-03 07:05:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《Euphoria》男星Colman Domingo有望取代Jonathan Majors接演「征服者康」](https://dig.chouti.com/link/41111797)|
