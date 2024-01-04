@@ -2,6 +2,29 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-04 01:47:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[冷眼《決戰股市終極方案》的提醒](http://mercurychong.blogspot.com/2024/01/blog-post.html)|
+|2024-01-04 11:06:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[「老头乐」被禁了，但开它的人还在](https://dig.chouti.com/link/41125186)|
+|2024-01-04 03:36:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“大剩娶亲”之翻越喜马拉雅版——中国单身汉，涌向尼泊尔找老婆？】中国的社交媒体上，尼泊尔被盛情描述为一个“好多妹子”的“女儿国”，物价低，娶妻成本低。“尼泊尔新娘”更是一个“不贪图物质”“不要彩礼”“任劳任怨”的贤妻良母型群体。尼泊尔——继越南之后，会成为中国单身男性的“脱单圣地”吗？](https://dig.chouti.com/link/41120561)|
+|2024-01-04 13:13:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【部分图片中的内容可能会引起不适】 AI 生成 - 中世纪奇幻电影《黑暗之魂》 （Reddit：WarPack23）](https://dig.chouti.com/link/41126403)|
+|2024-01-04 14:05:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[比特币ETF难获批？前花旗高管计划发行无需SEC批准的比特币存托凭证](https://dig.chouti.com/link/41126758)|
+|2024-01-04 14:05:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【劳工改革被叫停，阿根廷“休克疗法”问题在哪？】当地时间1月3日，阿根廷国家劳工上诉法庭发布禁令，宣布暂停总统米莱“休克疗法”中关于劳工改革的相关措施，包括将工作试用期从3个月延长到8个月、削减遣散赔偿费以及允许企业解雇参与抗议活动的员工等。阿根廷最大的劳工组织劳工总联合会认为这些措施损害了工人权利。](https://dig.chouti.com/link/41126769)|
+|2024-01-04 01:05:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【我瞒着父亲把他送进临终病房】妈妈癌症去世之后，2023年年初，独生女Erika不得不接受一个残酷的现实——同时患两种原发癌症的父亲，可能只有半年的生存期。她做了一个主治医生的经验里，也不常见的决定——瞒着父亲，把他送到安宁病房，放弃治疗，希望在最后的日子里最大程度减少他的痛苦。](https://dig.chouti.com/link/41118885)|
+|2024-01-04 13:36:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1994年以来首次改变：微软在PC键盘中添加了AI键](https://dig.chouti.com/link/41126460)|
+|2024-01-04 13:16:07|[爱范儿](https://www.ifanr.com/feed)|[总是「慢人一步」的比亚迪，为什么总喜欢藏着掖着？](https://www.ifanr.com/1572446?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-04 10:49:44|[爱范儿](https://www.ifanr.com/feed)|[「老头乐」被禁了，但开它的人还在](https://www.ifanr.com/1572435?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-04 09:49:38|[爱范儿](https://www.ifanr.com/feed)|[一加 Ace 3 体验：定价 2599 起，电池储存大升级，加量之后也降价](https://www.ifanr.com/1572378?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-04 15:16:27|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[Go 中的时间操作](https://wiki-mkdocs-topaz.vercel.app/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/UTS/%E9%80%9A%E7%94%A8%E8%AE%B0%E5%BD%95/Go%E8%87%AA%E5%B8%A6%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2024-01-04 15:16:27|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[Rob Pike谈Google Go](https://wiki-mkdocs-topaz.vercel.app/%E5%B7%A5%E4%BD%9C%E7%AC%94%E8%AE%B0/UTS/%E9%80%9A%E7%94%A8%E8%AE%B0%E5%BD%95/Rob%20Pike%E8%B0%88Google%20Go/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2024-01-04 15:16:27|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[LCR 11. 盛最多水的容器](https://wiki-mkdocs-topaz.vercel.app/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%BC%96%E7%A8%8B/leetcode/LCR%2011.%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2024-01-04 13:49:27|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[LCR 15. 三数之和](https://wiki-mkdocs-topaz.vercel.app/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%BC%96%E7%A8%8B/leetcode/LCR%2015.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2024-01-04 13:49:27|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[LCR 283. 移动零](https://wiki-mkdocs-topaz.vercel.app/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%BC%96%E7%A8%8B/leetcode/LCR%20283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2024-01-04 13:49:27|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[LCR 42. 接雨水](https://wiki-mkdocs-topaz.vercel.app/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%BC%96%E7%A8%8B/leetcode/LCR%2042.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2024-01-04 13:35:11|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[技术文档写作规范](https://wiki-mkdocs-topaz.vercel.app/%E6%95%88%E7%8E%87%26%E7%94%9F%E6%B4%BB/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2024-01-04 13:35:11|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[第4章数据定义](https://wiki-mkdocs-topaz.vercel.app/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%BC%96%E7%A8%8B/clickhouse/clickhouse%E7%AC%94%E8%AE%B0/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2024-01-04 13:35:11|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[go mod包管理工具](https://wiki-mkdocs-topaz.vercel.app/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%BC%96%E7%A8%8B/go/go%20mod%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2024-01-04 16:09:37|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 这些剪贴板管理器使得 Linux 下的复制粘贴更上一层楼](https://linux.cn/article-16534-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-04 12:31:09|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1236 已知最古老的 MS-DOS 前身版本](https://linux.cn/article-16533-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-04 14:24:17|[木鸟杂记](https://www.qtmuniao.com/atom.xml)|[2023 年终总结——穷则思变](https://www.qtmuniao.com/2024/01/04/2023-summary/)|
 |2024-01-04 16:00:00|[虎嗅](https://rss.huxiu.com/)|[2024，如何过得好一点？](https://www.huxiu.com/article/2511028.html?f=rss)|
 |2024-01-04 15:00:00|[机核](https://www.gcores.com/rss)|[宝可梦礼宾部，岛上环境挺羡慕 天天ACG 1.4](https://www.gcores.com/radios/175697)|
 |2024-01-04 11:22:58|[机核](https://www.gcores.com/rss)|[无痛养花完全指南（上）](https://www.gcores.com/articles/175872)|
