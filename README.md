@@ -2,6 +2,36 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-04 09:40:43|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[你们要的 2024 零食榜来了（不是](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653447964&idx=1&sn=4685ca2f41c7e40e3a9dd937708d2821)|
+|2024-01-04 05:00:11|[小众软件](https://www.appinn.com/feed/)|[Chrono Power Action – 浏览器效率启动器：快速搜索：标签页、收藏、下载、历史记录，快捷访问、计算器、管理插件、骰子、投硬币、随机数等 Chrome ](https://www.appinn.com/chrono-power-action/)|
+|2024-01-04 11:30:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[为什么 vim 里面要将 J 设置为向下 K 为向上而不是更符合直觉的 HJKL 被左上下右映射呢？](https://www.v2ex.com/t/1005924#reply8)|
+|2024-01-04 12:13:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[社工手机号查一个人，查出我一年前给他买过票，有我的信息， 12306 信息泄露到什么程度？](https://www.v2ex.com/t/1005936#reply2)|
+|2024-01-04 02:27:42|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[小米好像不支持 H264/H265 硬件编码,怎么破?](https://www.v2ex.com/t/1005704#reply72)|
+|2024-01-04 06:00:53|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请问各位 V 友，现在哪个部署本地的 LLM 比较好？](https://www.v2ex.com/t/1005792#reply15)|
+|2024-01-04 12:20:53|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[nc 命令发送文件使用 udp 可以设置包不分片吗？](https://www.v2ex.com/t/1005938#reply1)|
+|2024-01-04 12:24:51|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[前端一年多建议跳槽吗](https://www.v2ex.com/t/1005939#reply0)|
+|2024-01-04 09:52:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Windows 下开发小应用 GUI，真的很难选方案](https://www.v2ex.com/t/1005903#reply55)|
+|2024-01-04 05:45:36|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[自建 p2p VPN 如何突破运营商的 UDP 限制](https://www.v2ex.com/t/1005783#reply9)|
+|2024-01-04 01:14:12|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[各位大佬已经开始用 Podman 了吗](https://www.v2ex.com/t/1005667#reply40)|
+|2024-01-04 07:34:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[graalvm 拯救了 Java 的启动速度，但没法拯救 Java 的内存占用](https://www.v2ex.com/t/1005841#reply85)|
+|2024-01-04 07:04:03|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Postman 的 MacOS 端平替， RapidAPI（原名 Paw），问题越来越多了……难道接口请求就没有好用的工具吗？](https://www.v2ex.com/t/1005826#reply45)|
+|2024-01-04 01:43:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[打算给老妈买台手机,求巨佬们建议](https://www.v2ex.com/t/1005683#reply118)|
+|2024-01-04 11:01:09|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[mac 安装 mdm 描述文件是否安全](https://www.v2ex.com/t/1005916#reply4)|
+|2024-01-04 03:57:35|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[iOS 的路只会越走越窄，大龄 iOS 转 Java ，是不是能续命到 40 岁到 45 岁](https://www.v2ex.com/t/1005743#reply40)|
+|2024-01-04 04:00:45|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[做个框架选择小调研](https://www.v2ex.com/t/1005745#reply33)|
+|2024-01-04 08:16:44|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[微信输入法的跨平台剪贴板无视密码管理器的“Clipboard Viewer Ignore”选项，存在密码泄露风险](https://www.v2ex.com/t/1005859#reply15)|
+|2024-01-04 11:08:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[同为程序员， 2023 年你还好吗？总结我的 2023](https://www.v2ex.com/t/1005919#reply0)|
+|2024-01-04 02:37:08|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在 flutter 的桌面端都这么成熟了吗？](https://www.v2ex.com/t/1005711#reply63)|
+|2024-01-04 04:06:56|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2024 了，三星 Galaxy Note20 Ultra 5G 还值得购买吗](https://www.v2ex.com/t/1005751#reply24)|
+|2024-01-04 10:08:30|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 2023 年崭露头角的 7 款不为人知的 Linux 发行版](https://linux.cn/article-16532-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-04 03:18:12|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经｜阿里、腾讯合计回购超千亿元；黄仁勋，在任时间最长的科技 CEO](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511194&idx=2&sn=25af0a1fb71a86651f8a91c6e7b152eb)|
+|2024-01-04 03:18:12|[晚点LatePost](https://feedpress.me/wx-postlate)|[古茗、蜜雪冰城将上市，15 个点看下沉新王的异同](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511194&idx=1&sn=aa6cd6e65d54c8fa3fac1c968d6f93a1)|
+|2024-01-04 08:58:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[英國政府擬擴大網路監控權力：蘋果帶頭反對](https://www.iphonetaiwan.org/2024/01/blog-post_861.html)|
+|2024-01-04 08:36:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[傳蘋果今年收購全球最大健身器材公司Peloton](https://www.iphonetaiwan.org/2024/01/apple-acquires-peloton-fitness-industry-shakeup.html)|
+|2024-01-04 08:21:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone稱霸高階智慧手機市場：2023市占高達71%](https://www.iphonetaiwan.org/2024/01/blog-post_04.html)|
+|2024-01-04 08:04:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[法官駁回蘋果要求：無法製裁專利流氓律師](https://www.iphonetaiwan.org/2024/01/apple-vs-arendi-court-decision-denied.html)|
+|2024-01-04 07:42:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iTunes 禮品卡騙局訴訟：達成和解背後的真相](https://www.iphonetaiwan.org/2024/01/apple-itunes-gift-card-fraud-settlement.html)|
+|2024-01-04 06:29:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[日本旅遊手機必裝「Safety tips」- 提供地震海嘯預警](https://www.iphonetaiwan.org/2024/01/safety-tips-app-japan-travel.html)|
 |2024-01-04 00:47:21|[爱范儿](https://www.ifanr.com/feed)|[小米回应网传汽车售价/鸿蒙 OS 或成为中国第二大手机操作系统/网易推出第二代教育大模型](https://www.ifanr.com/1572368?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-04 04:03:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[年轻人开店倒闭潮，二手回收商躺赚](https://36kr.com/p/2589062317963909)|
 |2024-01-04 04:03:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“中东土豪”签了400亿合作协议，它却被曝停工、停产？](https://36kr.com/p/2588371814759297)|
