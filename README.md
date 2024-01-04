@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-01-03）
+﻿# 每日资讯（2024-01-04）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-04 00:39:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[本站电子书购买链接更新](https://www.changhai.org/articles/introduction/ebooks.php)|
+|2024-01-04 00:10:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[使用斯坦福的ALOHA机械臂做菜——这段视频演示的是滑蛋虾仁，干贝烧鸡和蚝油生菜三道广东料理……（后半段有NG画面流出）via tonyzzhao](https://dig.chouti.com/link/41118620)|
 |2024-01-03 13:13:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[航拍照片显示羽田机场相撞事件中两架飞机的位置](https://dig.chouti.com/link/41115544)|
 |2024-01-03 14:34:33|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[修复使用 GPG 密钥时 git commit 卡住的问题](https://www.sulinehk.com/post/fix-git-commit-stuck-with-gpg-keys/)|
 |2024-01-03 04:39:31|[ryank231231.blog](https://ryank231231.top/feed/)|[2024, 你好](https://ryank231231.top/archives/hello-2014-1.html)|
