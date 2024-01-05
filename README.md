@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-01-04）
+﻿# 每日资讯（2024-01-05）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-05 01:00:00|[机核](https://www.gcores.com/rss)|[Fujifilm X100V，相机领域的「大师之剑」](https://www.gcores.com/articles/173596)|
+|2024-01-05 00:14:33|[阮一峰的网络日志](https://feeds.feedburner.com/ruanyifeng)|[科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)|
+|2024-01-05 00:46:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 119 期）：一个自学开发者创建一个月收入 12.5 万美元的软件公司](https://w2solo.com/topics/4346)|
 |2024-01-04 01:47:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[冷眼《決戰股市終極方案》的提醒](http://mercurychong.blogspot.com/2024/01/blog-post.html)|
 |2024-01-04 11:06:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[「老头乐」被禁了，但开它的人还在](https://dig.chouti.com/link/41125186)|
 |2024-01-04 03:36:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“大剩娶亲”之翻越喜马拉雅版——中国单身汉，涌向尼泊尔找老婆？】中国的社交媒体上，尼泊尔被盛情描述为一个“好多妹子”的“女儿国”，物价低，娶妻成本低。“尼泊尔新娘”更是一个“不贪图物质”“不要彩礼”“任劳任怨”的贤妻良母型群体。尼泊尔——继越南之后，会成为中国单身男性的“脱单圣地”吗？](https://dig.chouti.com/link/41120561)|
