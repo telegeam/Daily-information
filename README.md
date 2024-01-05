@@ -2,6 +2,51 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-05 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：16Bit的失望](http://www.chuapp.com/article/289741.html)|
+|2024-01-05 07:32:24|[卡瓦邦噶！](https://www.kawabangga.com/feed)|[2023 年总结](https://www.kawabangga.com/posts/5616)|
+|2024-01-05 10:44:34|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1237 Ubuntu 考虑停止提供源代码 ISO](https://linux.cn/article-16537-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-05 08:59:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 2024 开年，LLUG 和你相约在武汉](https://linux.cn/article-16536-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-05 08:28:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 2023 年开源和 Linux 世界的 8 个决定性时刻](https://linux.cn/article-16535-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-05 10:14:21|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经｜新一轮汽车价格战，可能无关库存；疫情前、疫情后，中概股市值大排名](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511270&idx=3&sn=5b20d761b97580caa685ac8b1007c1a5)|
+|2024-01-05 10:14:21|[晚点LatePost](https://feedpress.me/wx-postlate)|[专访币安新 CEO：全球洗钱只有极小部分通过加密货币](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511270&idx=2&sn=b2af77406d520a9eefa24d08ef6f4b7b)|
+|2024-01-05 10:14:20|[晚点LatePost](https://feedpress.me/wx-postlate)|[中国定位咨询 20 年，走上神坛又经历质疑](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511270&idx=1&sn=f5cb17162fb62b9c7bde3d6bf0aff097)|
+|2024-01-05 07:02:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中介称可“捡漏”法拍房，消费者支付2万“调查费”钱房两空](https://dig.chouti.com/link/41133374)|
+|2024-01-05 07:07:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[尾喷管差动……什么弔图都有](https://dig.chouti.com/link/41133589)|
+|2024-01-05 08:01:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被抑郁症折磨的人生，西班牙“金童”卢比奥挥别赛场](https://dig.chouti.com/link/41133801)|
+|2024-01-05 05:24:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【网暴如杂草，他们负责挥起锄头】陈子豪是抖音反网暴项目组的一员。工作2年，他和他的伙伴们审批了不良评论数亿条，对疑似网暴他人的账号教育提醒85.8万次，对受严重网暴的受害者进行了电话外呼891次。但经常地，陈子豪还会被沮丧和无力感破防。反网暴是一场没有尽头的斗争，除非断网，人永远不可能断绝这来自键盘的恐吓。](https://dig.chouti.com/link/41132476)|
+|2024-01-05 08:01:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[广西崇左：所有A级景区向东北三省“老铁”免费开放一个月](https://dig.chouti.com/link/41133910)|
+|2024-01-05 07:07:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本硬币平衡大师新作 Twi：た ぬ](https://dig.chouti.com/link/41133552)|
+|2024-01-05 07:24:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一个秃顶的法国国王，让整个欧洲男性都戴上假发](https://dig.chouti.com/link/41133660)|
+|2024-01-05 08:15:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[复旦大学美国校友会：确认纽约街头流浪男子是该校校友](https://dig.chouti.com/link/41134291)|
+|2024-01-05 05:01:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美军一架B-1B轰炸机坠毁机组弹射逃生，上月同机型迫降日本基地】事故发生时，B-1正在执行训练任务。气象记录显示，坠机事故发生时环境能见度很低，有薄雾和低云。](https://dig.chouti.com/link/41132164)|
+|2024-01-05 07:02:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[英媒：白俄罗斯总统卢卡申科签署新法律：赋予自己全家终身豁免权](https://dig.chouti.com/link/41133408)|
+|2024-01-05 11:48:53|[虎嗅](https://rss.huxiu.com/)|[悬崖边缘的天际汽车，股权再遭冻结](https://www.huxiu.com/article/2514667.html?f=rss)|
+|2024-01-05 11:47:27|[虎嗅](https://rss.huxiu.com/)|[喜提五连板后，神马电力突遭跌停](https://www.huxiu.com/article/2514665.html?f=rss)|
+|2024-01-05 11:32:20|[虎嗅](https://rss.huxiu.com/)|[一个无视规则的社会，根本谈不上“自由”](https://www.huxiu.com/article/2514743.html?f=rss)|
+|2024-01-05 11:23:08|[虎嗅](https://rss.huxiu.com/)|[AI PC元年来了？](https://www.huxiu.com/article/2514655.html?f=rss)|
+|2024-01-05 11:22:43|[虎嗅](https://rss.huxiu.com/)|[2023年，超10万家烘焙店倒下了](https://www.huxiu.com/article/2514185.html?f=rss)|
+|2024-01-05 11:00:00|[虎嗅](https://rss.huxiu.com/)|[这段黄河，怎么还戴了个小小的“帽子”？](https://www.huxiu.com/article/2513240.html?f=rss)|
+|2024-01-05 10:35:28|[虎嗅](https://rss.huxiu.com/)|[一到冬天就后悔没买四驱，四驱车到底好在哪？](https://www.huxiu.com/article/2514936.html?f=rss)|
+|2024-01-05 10:30:28|[虎嗅](https://rss.huxiu.com/)|[抑郁症孩子父母：如何将孩子拉出泥潭？](https://www.huxiu.com/article/2474107.html?f=rss)|
+|2024-01-05 10:30:00|[虎嗅](https://rss.huxiu.com/)|[大龄考研，到底图啥？](https://www.huxiu.com/article/2514679.html?f=rss)|
+|2024-01-05 10:21:19|[虎嗅](https://rss.huxiu.com/)|[看生活赢家——李渔的一生](https://www.huxiu.com/article/2514231.html?f=rss)|
+|2024-01-05 10:18:59|[虎嗅](https://rss.huxiu.com/)|[毛戈平IPO又暂停，7年上市未果](https://www.huxiu.com/article/2514660.html?f=rss)|
+|2024-01-05 10:09:00|[虎嗅](https://rss.huxiu.com/)|[“社畜精神爽片”《年会不能停》是年末的最强喜剧？](https://www.huxiu.com/article/2514631.html?f=rss)|
+|2024-01-05 10:08:17|[虎嗅](https://rss.huxiu.com/)|[这一波AI浪潮，投资人怎么看？](https://www.huxiu.com/article/2513622.html?f=rss)|
+|2024-01-05 10:06:26|[虎嗅](https://rss.huxiu.com/)|[后内卷时代，出路在哪里？](https://www.huxiu.com/article/2510961.html?f=rss)|
+|2024-01-05 09:45:00|[虎嗅](https://rss.huxiu.com/)|[上海东华大学发明超强蛛丝，比防弹背心纤维坚韧6倍](https://www.huxiu.com/article/2510408.html?f=rss)|
+|2024-01-05 09:44:14|[虎嗅](https://rss.huxiu.com/)|[“血王”炒股巨亏，被海尔125亿收了](https://www.huxiu.com/article/2514217.html?f=rss)|
+|2024-01-05 09:25:00|[虎嗅](https://rss.huxiu.com/)|[日本经验，我们“过河的石头”？](https://www.huxiu.com/article/2514627.html?f=rss)|
+|2024-01-05 09:22:44|[虎嗅](https://rss.huxiu.com/)|[日式快餐，走下神坛？](https://www.huxiu.com/article/2514248.html?f=rss)|
+|2024-01-05 09:10:00|[虎嗅](https://rss.huxiu.com/)|[贝索斯的110条思考](https://www.huxiu.com/article/2513193.html?f=rss)|
+|2024-01-05 09:00:01|[虎嗅](https://rss.huxiu.com/)|[阿根廷国家崩溃报告：三块钱买猪头](https://www.huxiu.com/article/2509492.html?f=rss)|
+|2024-01-05 08:43:54|[虎嗅](https://rss.huxiu.com/)|[中国市场调研后2.0时代的困境与机会](https://www.huxiu.com/article/2514233.html?f=rss)|
+|2024-01-05 08:42:33|[虎嗅](https://rss.huxiu.com/)|[2024年，新能源车会越卖越贵吗？](https://www.huxiu.com/article/2514241.html?f=rss)|
+|2024-01-05 08:40:13|[虎嗅](https://rss.huxiu.com/)|[看不懂《繁花》，怪观众还是王家卫？](https://www.huxiu.com/article/2512703.html?f=rss)|
+|2024-01-05 08:36:05|[虎嗅](https://rss.huxiu.com/)|[《繁花》中的A股历史，原型是怎样的？](https://www.huxiu.com/article/2514232.html?f=rss)|
+|2024-01-05 08:29:28|[虎嗅](https://rss.huxiu.com/)|[国产CMOS崛起？沉寂十年的豪威究竟何方神圣？](https://www.huxiu.com/article/2458033.html?f=rss)|
+|2024-01-05 08:23:00|[虎嗅](https://rss.huxiu.com/)|[昔日的亚洲经济奇迹，到底还能走多远呢？](https://www.huxiu.com/article/2512726.html?f=rss)|
+|2024-01-05 09:33:04|[知乎每日精选](https://www.zhihu.com/rss)|[小米汽车的动力电池有哪些技术创新？很安全吗？](http://www.zhihu.com/question/637086345/answer/3351086477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-01-05 05:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国国防机构高层“大换血”引发对军队备战能力的质疑](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%98%B2%E6%9C%BA%E6%9E%84%E9%AB%98%E5%B1%82-%E5%A4%A7%E6%8D%A2%E8%A1%80-%E5%BC%95%E5%8F%91%E5%AF%B9%E5%86%9B%E9%98%9F%E5%A4%87%E6%88%98%E8%83%BD%E5%8A%9B%E7%9A%84%E8%B4%A8%E7%96%91-9d3e0f81)|
 |2024-01-05 06:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[2024年应该如何抄底中国股市？](https://cn.wsj.com/articles/2024%E5%B9%B4%E5%BA%94%E8%AF%A5%E5%A6%82%E4%BD%95%E6%8A%84%E5%BA%95%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82-9a4315cf)|
 |2024-01-05 07:38:19|[小众软件](https://www.appinn.com/feed/)|[GoMusic – 导出网易云音乐、QQ 音乐歌单｜可导入Apple Music、Youtube Music、Spotify](https://www.appinn.com/bistutu-gomusic/)|
