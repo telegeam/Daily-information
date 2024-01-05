@@ -2,6 +2,18 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-05 03:50:41|[机核](https://www.gcores.com/rss)|[TV动画《福星小子》第2季公开新PV，1月11日开播](https://www.gcores.com/articles/175901)|
+|2024-01-05 03:00:00|[机核](https://www.gcores.com/rss)|[译介丨《自由港故事集》：异潮（一）](https://www.gcores.com/articles/175874)|
+|2024-01-05 02:55:12|[机核](https://www.gcores.com/rss)|[《女神异闻录3 Reload》开场动画公开](https://www.gcores.com/articles/175898)|
+|2024-01-05 01:59:26|[机核](https://www.gcores.com/rss)|[《赛博朋克 2077》资料片“往日之影”销量突破500万份](https://www.gcores.com/articles/175895)|
+|2024-01-05 01:40:10|[机核](https://www.gcores.com/rss)|[《炉石传说》将于4月删除对决模式](https://www.gcores.com/articles/175893)|
+|2024-01-05 01:29:44|[机核](https://www.gcores.com/rss)|[《Apex英雄》X《最终幻想VII 重生》联动详情公布，将于1月9日实装](https://www.gcores.com/articles/175892)|
+|2024-01-05 01:07:59|[机核](https://www.gcores.com/rss)|[Epic持续送好礼：原价359元《漫威银河护卫队》免费领](https://www.gcores.com/articles/175891)|
+|2024-01-05 03:44:51|[Tinyfool的个人网站](https://codechina.org/feed/)|[我会做游戏了！！！](https://codechina.org/2024/01/make-game/)|
+|2024-01-05 00:49:30|[爱范儿](https://www.ifanr.com/feed)|[OpenAI 或下周推出 GPT 商店/Windows 电脑键盘将迎 30 年来首次重大变化/苹果 Vision Pro 上网体验视频泄露](https://www.ifanr.com/1572484?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-05 02:47:03|[白宦成](https://www.ixiqin.com/feed/)|[《大国大城》书摘](https://www.ixiqin.com/2024/01/05/book-excerpt-from-great-powers-and-cities/)|
+|2024-01-05 03:29:05|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[台湾大选前台海上空中国气球激增](https://cn.nytimes.com/asia-pacific/20240104/taiwan-china-balloons/?utm_source=RSS)|
+|2024-01-05 02:12:48|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[韩国称金正恩爱女是“最可能的接班人”](https://cn.nytimes.com/asia-pacific/20240105/kim-jong-un-daughter-north-korea/?utm_source=RSS)|
 |2024-01-05 01:00:00|[机核](https://www.gcores.com/rss)|[Fujifilm X100V，相机领域的「大师之剑」](https://www.gcores.com/articles/173596)|
 |2024-01-05 00:14:33|[阮一峰的网络日志](https://feeds.feedburner.com/ruanyifeng)|[科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)|
 |2024-01-05 00:46:59|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 119 期）：一个自学开发者创建一个月收入 12.5 万美元的软件公司](https://w2solo.com/topics/4346)|
