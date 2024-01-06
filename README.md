@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-06 14:20:39|[煎蛋](http://jandan.net/feed)|[研究证实最新的畅销减肥药与自杀念头无关](http://jandan.net/p/115299)|
+|2024-01-06 14:16:36|[煎蛋](http://jandan.net/feed)|[用蝙蝠接触新冠病毒评估疫情风险](http://jandan.net/p/115298)|
+|2024-01-06 14:13:31|[煎蛋](http://jandan.net/feed)|[强效迷幻药或可消除创伤后应激障碍](http://jandan.net/p/115297)|
+|2024-01-06 08:48:56|[煎蛋](http://jandan.net/feed)|[公有领域动画片《蒸汽船威利》仍陷版权斗争](http://jandan.net/p/115290)|
+|2024-01-06 15:00:00|[机核](https://www.gcores.com/rss)|[新年有盼头 GadioNews01.06](https://www.gcores.com/radios/175699)|
+|2024-01-06 12:52:15|[机核](https://www.gcores.com/rss)|[《全职猎人》格斗游戏先导PV公开：武士道多部新游公布新消息](https://www.gcores.com/articles/175952)|
+|2024-01-06 12:28:45|[机核](https://www.gcores.com/rss)|[视觉小说《少女☆歌剧Revue Starlight 舞台奏像剧 遥远的黄金乡》8月8日发售](https://www.gcores.com/articles/175949)|
+|2024-01-06 12:12:10|[机核](https://www.gcores.com/rss)|[TV动画《BanG Dream! Ave Mujica》确定2025年1月播出](https://www.gcores.com/articles/175948)|
+|2024-01-06 10:30:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#276：《妖兽与人类》](https://www.gcores.com/articles/175943)|
+|2024-01-06 10:21:24|[机核](https://www.gcores.com/rss)|[天渊沙士](https://www.gcores.com/articles/175945)|
+|2024-01-06 10:20:15|[机核](https://www.gcores.com/rss)|[聊聊《致命公司》：把玩家音频交互设计到极致](https://www.gcores.com/videos/175941)|
+|2024-01-06 09:45:00|[机核](https://www.gcores.com/rss)|[译介丨人格测试的迷思 （The Cult of Personality Testing）2 MMPI与TAT](https://www.gcores.com/articles/175832)|
+|2024-01-06 09:39:42|[机核](https://www.gcores.com/rss)|[【多图】《街霸5》与八极拳——卡琳和晶的八极对决](https://www.gcores.com/articles/175939)|
+|2024-01-06 09:30:00|[机核](https://www.gcores.com/rss)|[CDPR没能实现的赛博朋克世界——《ChromeBook1》住宅篇](https://www.gcores.com/articles/175930)|
+|2024-01-06 14:57:10|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 假如 Windows XP 有 2024 版](https://linux.cn/article-16539-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-06 15:07:55|[土木坛子](https://tumutanzi.com/feed)|[VCard万事达实体卡取现体验：费率太高](https://tumutanzi.com/archives/17184)|
 |2024-01-06 09:47:06|[61’s life](https://61.life/feed.xml)|[我的 2023](http://61.life/2024/0106)|
 |2024-01-06 08:19:31|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1238 就连 Linus Torvalds 都觉得电子邮件补丁模式需要改变](https://linux.cn/article-16538-1.html?utm_source=rss&utm_medium=rss)|
