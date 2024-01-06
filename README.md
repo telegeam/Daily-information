@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-01-05）
+﻿# 每日资讯（2024-01-06）
 
 |时间|来源|标题|
 |---|---|---|
@@ -64,6 +64,7 @@
 |2024-01-05 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图214期:早点吃饭，说干就干](https://www.gcores.com/articles/172330)|
 |2024-01-05 12:48:55|[触乐](http://www.chuapp.com/feed)|[与《王者荣耀》一起制造回忆](http://www.chuapp.com/article/289740.html)|
 |2024-01-05 03:56:28|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发前线 - 独立开发者的成长指南](https://w2solo.com/topics/4347)|
+|2024-01-06 11:22:55|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[AI 基础设施之 Nydus 懒加载镜像配置与实践](https://www.chenshaowen.com/blog/ai-infrastructure-nydus-configuration-and-practice.html)|
 |2024-01-05 12:00:00|[触乐](http://www.chuapp.com/feed)|[触乐夜话：16Bit的失望](http://www.chuapp.com/article/289741.html)|
 |2024-01-05 07:32:24|[卡瓦邦噶！](https://www.kawabangga.com/feed)|[2023 年总结](https://www.kawabangga.com/posts/5616)|
 |2024-01-05 10:44:34|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1237 Ubuntu 考虑停止提供源代码 ISO](https://linux.cn/article-16537-1.html?utm_source=rss&utm_medium=rss)|
