@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-06 15:07:55|[土木坛子](https://tumutanzi.com/feed)|[VCard万事达实体卡取现体验：费率太高](https://tumutanzi.com/archives/17184)|
+|2024-01-06 09:47:06|[61’s life](https://61.life/feed.xml)|[我的 2023](http://61.life/2024/0106)|
 |2024-01-06 08:19:31|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1238 就连 Linus Torvalds 都觉得电子邮件补丁模式需要改变](https://linux.cn/article-16538-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-06 09:20:47|[太隐](https://wangyurui.com/feed.xml)|[瓦尔登湖畔](https://wangyurui.com/posts/wa-er-deng-hu-pan-35b631b2)|
 |2024-01-06 05:24:20|[太隐](https://wangyurui.com/feed.xml)|[四明狂客](https://wangyurui.com/posts/si-ming-kuang-ke-5432da12)|
