@@ -2,6 +2,30 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-07 13:56:08|[唐巧的博客](https://blog.devtang.com/atom.xml)|[将 Hexo 升级到 V7.0](https://blog.devtang.com/2024/01/07/upgrade-hexo-to-v7-0/)|
+|2024-01-07 16:03:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果能回到高三，你最想对那个时候的自己说什么?](https://www.zhihu.com/question/633489774)|
+|2024-01-07 16:03:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[清华北大延长开放时间、扩大开放范围，如何看待名校研学热潮？会对孩子教育有哪些影响？](https://www.zhihu.com/question/638487076)|
+|2024-01-07 16:03:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大家是在想通了什么关键点以后，写作水平就蹭蹭蹭的往上涨？](https://www.zhihu.com/question/633733382)|
+|2024-01-07 16:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中基协一周发布 27 张纪律处分，竟有私募挪用基金财产出国旅游、报商学院，如何看待此事？](https://www.zhihu.com/question/638295330)|
+|2024-01-07 16:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 德玛西亚杯总决赛 BLG 3:0 击败 JDG 夺得冠军，如何评价这场比赛？](https://www.zhihu.com/question/638363682)|
+|2024-01-07 16:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些「看起来平平无奇，但实际很好吃」的糕点 / 点心？](https://www.zhihu.com/question/637189126)|
+|2024-01-07 16:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美军一架 B-1 轰炸机试图降落时坠毁，事发时正执行训练任务，具体情况如何？](https://www.zhihu.com/question/638173238)|
+|2024-01-07 16:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人社部将面向农民工群体开展大规模、多形式的职业技能培训，此举将带来哪些影响？](https://www.zhihu.com/question/638177848)|
+|2024-01-07 16:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[教育部辟谣「网传义务教育教学改革实验区缩短学制、取消中考等说法不实」，有哪些信息值得关注？](https://www.zhihu.com/question/638477842)|
+|2024-01-07 16:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[去年 12 月有 7 只新基金有效认购户数为 1 户，去年全年这样的基金有 25 只，透露哪些信息？](https://www.zhihu.com/question/638467771)|
+|2024-01-07 16:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[去年 12 月末外储规模上升 662 亿美元，升幅为 2.1%，外储规模「两连增」，哪些信息值得关注？](https://www.zhihu.com/question/638486191)|
+|2024-01-07 16:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《三体》里面最浪漫的一句话是什么？](https://www.zhihu.com/question/38386444)|
+|2024-01-07 16:03:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待「WTT 多哈男子总决赛」樊振东 0：4 不敌王楚钦?](https://www.zhihu.com/question/638267561)|
+|2024-01-07 16:03:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么在罗马帝国时期，高卢等农业条件优异的地区没有得到充分的开发？](https://www.zhihu.com/question/637991308)|
+|2024-01-07 16:03:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「新能源车」时代引导的「智能化」汽车浪潮是否卷错了方向？](https://www.zhihu.com/question/638470275)|
+|2024-01-07 16:03:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中小银行密集跟降存款利率，2024 年存款利率还会降吗？](https://www.zhihu.com/question/638128672)|
+|2024-01-07 16:03:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[自媒体博主说 HR 让她不要对工作有期待，期待是毒药，你认为打工人到底应不应该在工作当中追逐意义感？](https://www.zhihu.com/question/638262931)|
+|2024-01-07 16:03:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国阿拉斯加航空公司宣布暂时停飞 65 架波音 737 MAX 9 飞机，哪些信息值得关注？](https://www.zhihu.com/question/638357366)|
+|2024-01-07 16:03:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你遇到过的最难的积分题目是什么？](https://www.zhihu.com/question/332524499)|
+|2024-01-07 15:55:00|[ddadaal.me](https://ddadaal.me/rss.xml)|[增加自制博客点击量统计](https://ddadaal.me/articles/added-blog-page-click-monitoring/cn)|
+|2024-01-07 10:35:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1239 DeepMind 制定 “机器人宪法”](https://linux.cn/article-16541-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-07 06:37:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[新闻 Archcraft：定制的轻量级 Linux 发行版](https://linux.cn/article-16540-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-07 01:58:17|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 909 Div. 3 ](https://blog.mauve.icu/2024/01/07/acm/codeforces/CodeforcesRound909(Div.%203)/)|
 |2024-01-07 10:01:20|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#277：《守护者冒险：遗忘山谷》](https://www.gcores.com/articles/175944)|
 |2024-01-07 09:30:00|[机核](https://www.gcores.com/rss)|[我为何要不自量力地“发掘”中国的史前聚落](https://www.gcores.com/articles/175571)|
 |2024-01-07 06:11:57|[机核](https://www.gcores.com/rss)|[新职业“PICTOMANCER”公开！《最终幻想14》东京粉丝节新情报汇总](https://www.gcores.com/articles/175968)|
