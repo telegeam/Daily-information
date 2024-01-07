@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-07 10:01:20|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#277：《守护者冒险：遗忘山谷》](https://www.gcores.com/articles/175944)|
+|2024-01-07 09:30:00|[机核](https://www.gcores.com/rss)|[我为何要不自量力地“发掘”中国的史前聚落](https://www.gcores.com/articles/175571)|
+|2024-01-07 06:11:57|[机核](https://www.gcores.com/rss)|[新职业“PICTOMANCER”公开！《最终幻想14》东京粉丝节新情报汇总](https://www.gcores.com/articles/175968)|
+|2024-01-07 05:28:42|[机核](https://www.gcores.com/rss)|[下周节目预告 1.8~1.14](https://www.gcores.com/articles/175967)|
+|2024-01-07 02:50:48|[机核](https://www.gcores.com/rss)|[ 灵异诡画 《白色高跟鞋》&《镜子》](https://www.gcores.com/articles/175961)|
+|2024-01-07 01:30:41|[机核](https://www.gcores.com/rss)|[2001 网络漫游：ARG 的拂晓时分（上）](https://www.gcores.com/articles/175959)|
+|2024-01-07 12:19:49|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[redme note 11 刷什么系统比较好](https://www.v2ex.com/t/1006609#reply2)|
+|2024-01-07 07:30:02|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[不算不知道，一算吓一跳，每个月的订阅制支出竟高达 1000+](https://www.v2ex.com/t/1006566#reply64)|
+|2024-01-07 09:34:23|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2024 前端图标趋势：在 TailwindCSS 中使用 SVG 图标](https://www.v2ex.com/t/1006579#reply3)|
+|2024-01-07 11:35:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[实际项目中如何使用线程池](https://www.v2ex.com/t/1006600#reply1)|
+|2024-01-07 10:33:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[需要一个 html 代码生成工具](https://www.v2ex.com/t/1006587#reply3)|
+|2024-01-07 09:40:24|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想将 mysql 数据每 10 条合并成 1 条，请问 sql 语句怎么写？有办法吗？谢谢](https://www.v2ex.com/t/1006581#reply3)|
+|2024-01-07 10:36:33|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[开源 im 客户端探索结果](https://www.v2ex.com/t/1006590#reply0)|
+|2024-01-07 07:31:21|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[TIOBE 2023 年度语言： C#！](https://www.v2ex.com/t/1006567#reply8)|
+|2024-01-07 11:31:37|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[从零开始手把手教你学编程 Java](https://www.v2ex.com/t/1006599#reply8)|
+|2024-01-07 12:25:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ 可有偿 京东淘宝营销活动低代码技术咨询](https://www.v2ex.com/t/1006611#reply0)|
+|2024-01-07 06:45:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想找一个 js 逆向的学习交流的组织](https://www.v2ex.com/t/1006558#reply3)|
+|2024-01-07 06:14:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[VSCode + Copilot + OneDrive + mdNice 写日志](https://www.v2ex.com/t/1006548#reply1)|
+|2024-01-07 09:56:57|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[都啥年代了, 还在炒啥前端, 都给我学 AI](https://www.v2ex.com/t/1006584#reply0)|
 |2024-01-07 02:34:52|[白宦成](https://www.ixiqin.com/feed/)|[《奇妙的盘算社团》书摘](https://www.ixiqin.com/2024/01/07/book-excerpt-from-wonderful-calculation-society/)|
 |2024-01-07 04:01:36|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[提示词或许需要工程，但提问一定需要智慧](https://sspai.com/post/85484)|
 |2024-01-07 04:01:36|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[如何入门硬件开发？一个软件开发者的边学边做手记](https://sspai.com/post/85507)|
