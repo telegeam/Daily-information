@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-08 17:18:58|[机核](https://www.gcores.com/rss)|[英伟达正式发布GeForce RTX 4080 Super、RTX 4070 Ti Super和RTX 4070 Super三款显卡](https://www.gcores.com/articles/176017)|
+|2024-01-08 16:52:41|[机核](https://www.gcores.com/rss)|[Apple Vision Pro将于美国时间1月19日开启预购，2月2日正式上市](https://www.gcores.com/articles/176019)|
+|2024-01-08 13:00:00|[机核](https://www.gcores.com/rss)|[三军美食家Vol.6丨美食使者班超](https://www.gcores.com/radios/174474)|
+|2024-01-08 13:00:00|[机核](https://www.gcores.com/rss)|[三军美食家Vol.5丨霍去病真的不用吃饭吗？](https://www.gcores.com/radios/173137)|
+|2024-01-08 13:08:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[著名玩机软件 LSPosed 现已停更](https://www.v2ex.com/t/1006950#reply27)|
+|2024-01-08 13:07:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[兄弟们，破防啦，公司要装监控软件，强制要求统一使用公司的华为电脑](https://www.v2ex.com/t/1006948#reply31)|
+|2024-01-08 15:42:27|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[数字密码不允许有重复的数字是个好的设计吗？](https://www.v2ex.com/t/1006986#reply8)|
+|2024-01-08 15:17:59|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[创业互助小组疯狂升级版开始了，欢迎对创业感兴趣的小伙伴加入](https://www.v2ex.com/t/1006978#reply2)|
+|2024-01-08 16:14:14|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[行行好吧，不要给开发者喂💩了](https://www.v2ex.com/t/1006994#reply2)|
+|2024-01-08 15:51:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我做了一个尽可能让开发者用起来更舒服的的低代码平台](https://www.v2ex.com/t/1006989#reply2)|
+|2024-01-08 15:34:41|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[caddy 的内存占用异常高](https://www.v2ex.com/t/1006985#reply3)|
+|2024-01-08 11:10:58|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我领悟了，这个世界没有 Helm 会更好](https://www.v2ex.com/t/1006909#reply13)|
+|2024-01-08 01:39:09|[RSS feed of superl...](https://raw.githubusercontent.com/superleeyom/blog/master/feed.xml)|[2024年个人周报](https://github.com/superleeyom/blog/issues/57)|
+|2024-01-08 12:44:42|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 #47：极简时钟日活新纪录](https://w2solo.com/topics/4350)|
+|2024-01-08 00:00:45|[13 報](https://ethanhuang13.substack.com/feed/)|[開發者週報 #214 M3 Max 太香了我沒忍住](https://www.ethanhuang13.com/p/214)|
+|2024-01-08 07:05:22|[小众软件](https://www.appinn.com/feed/)|[符号包裹 – Excel 都能干的活：为文字列表批量添加/删除序号、书名号，分隔文字 Windows ](https://www.appinn.com/fuhaobaoguo/)|
+|2024-01-08 10:27:39|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《惩罚者》：男人全家十八口一夜被灭，连自己都死了但没死干净，终成复仇女神！](https://www.ximalaya.com/sound/698589895)|
+|2024-01-08 17:38:00|[白宦成](https://www.ixiqin.com/feed/)|[你是「小土豆」么？](https://www.ixiqin.com/2024/01/09/are-you-a-little-potato/)|
+|2024-01-08 13:16:17|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家｜字节、腾讯商谈游戏项目出售，加强游戏合作](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511298&idx=1&sn=5949fa8bfd8e9589105d56b6ab129fd8)|
 |2024-01-08 16:05:30|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么小时候那么穷，还是很多人都想回到小时候?](https://www.zhihu.com/question/632711676)|
 |2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[再见，NBA！33 岁的卢比奥，生涯能否谈得上成功？](https://www.zhihu.com/question/638128977)|
 |2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果未来教师过剩，会不会考虑设置专职班主任岗位，减轻班主任既当任课老师又当班主任的负担？](https://www.zhihu.com/question/638062138)|
