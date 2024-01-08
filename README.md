@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-08 11:17:19|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[@所有艾格的朋友，这周末来线下面基！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448105&idx=1&sn=42ec1994ebea134f4389694e6516385d)|
+|2024-01-08 10:30:00|[机核](https://www.gcores.com/rss)|[石川贤与《盖塔机器人》（二）：融合](https://www.gcores.com/videos/175880)|
+|2024-01-08 09:39:00|[机核](https://www.gcores.com/rss)|[现已开启PC抢先测试：《七日世界》“触摸异常”展望会消息汇总](https://www.gcores.com/articles/176005)|
+|2024-01-08 09:00:00|[机核](https://www.gcores.com/rss)|[听牌佬胡言乱语，录音笔 VOL.116](https://www.gcores.com/radios/176006)|
+|2024-01-08 08:41:36|[机核](https://www.gcores.com/rss)|[隔音麦克风Mutalk 2代在CES2024上正式公布](https://www.gcores.com/articles/176004)|
+|2024-01-08 08:23:50|[机核](https://www.gcores.com/rss)|[《王权：三国》PC及NS版定档1月12日，支持简体中文](https://www.gcores.com/articles/176007)|
+|2024-01-08 06:32:31|[机核](https://www.gcores.com/rss)|[混沌武士音乐流媒体今日解禁](https://www.gcores.com/articles/176001)|
+|2024-01-08 05:56:04|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[快手联合哈工大开源Agents系统、模型、数据](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812197&idx=2&sn=824ecc79dba198e2b395abeb45ff0922)|
+|2024-01-08 05:56:03|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[快手联合哈工大开源Agents系统、模型、数据！](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812197&idx=1&sn=b0f8ac725d9ff30e86c9608c27b1be02)|
+|2024-01-08 19:39:22|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[科研绘图工具 Graphpad Prism v10.1.2学习版 Windows+MacOS ](https://masuit.com/1669)|
+|2024-01-08 04:01:41|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[新玩意 169｜少数派的编辑们最近买了啥？](https://sspai.com/post/85572)|
+|2024-01-08 04:01:41|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[Find N3「全景虚拟屏」浅析：谈到大屏适配，我们究竟在谈些什么？](https://sspai.com/post/84641)|
+|2024-01-08 05:29:50|[大白最黑のHome2.1](https://dabaizuihei.github.io/atom.xml)|[大白最黑的小窝，堂堂复活！](https://dabaizuihei.github.io/2024/01/08/%E5%A4%A7%E7%99%BD%E6%9C%80%E9%BB%91%E7%9A%84%E5%B0%8F%E7%AA%9D%EF%BC%8C%E5%A0%82%E5%A0%82%E5%A4%8D%E6%B4%BB%EF%BC%81/)|
+|2024-01-08 10:16:47|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[How do Parent Components Call Methods Inside Child Components in React and Vue3?](https://javascript.plainenglish.io/how-do-parent-components-call-methods-inside-child-components-in-react-and-vue3-87ec8edf17bd?source=rss-c3917681a8f5------2)|
 |2024-01-08 03:25:46|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[🎯「值得一读技术博客」新增 RSS 订阅功能，已坚持分享 130 天，当前累计分享 426 篇技术文章](https://w2solo.com/topics/4349)|
 |2024-01-08 05:31:21|[祝融说。](https://zhurongshuo.com/index.xml)|[人无信不立，事无信不成。](https://zhurongshuo.com/posts/2024/01/0801/)|
 |2024-01-08 05:16:32|[机核](https://www.gcores.com/rss)|[回望2023中国游戏行业：消失的非零和博弈](https://www.gcores.com/articles/175999)|
