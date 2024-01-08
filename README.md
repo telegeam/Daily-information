@@ -2,6 +2,34 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-08 16:05:30|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么小时候那么穷，还是很多人都想回到小时候?](https://www.zhihu.com/question/632711676)|
+|2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[再见，NBA！33 岁的卢比奥，生涯能否谈得上成功？](https://www.zhihu.com/question/638128977)|
+|2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果未来教师过剩，会不会考虑设置专职班主任岗位，减轻班主任既当任课老师又当班主任的负担？](https://www.zhihu.com/question/638062138)|
+|2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[日本能登半岛地震导致部分海域变成陆地，如何从科学角度进行解释？会带来哪些影响？](https://www.zhihu.com/question/638496523)|
+|2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[乌全境拉响防空警报，俄罗斯对乌西部等地区发动导弹袭击，哪些信息值得关注？](https://www.zhihu.com/question/638575923)|
+|2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[马斯克发文否认「吸毒」，称按 NASA 要求进行为期 3 年的随机药物测试，哪些信息值得关注？](https://www.zhihu.com/question/638536435)|
+|2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[安徽武校投毒案一审宣判，被告人付泽阶、朱祖林死刑，如何从法律角度解读？](https://www.zhihu.com/question/638587246)|
+|2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[关于马航 MH370，专家称「飞行员或全程手动控制飞机，新研究指向未经搜索的区域」，哪些信息值得关注？](https://www.zhihu.com/question/638536441)|
+|2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价韩剧《死期将至》？](https://www.zhihu.com/question/634996821)|
+|2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[余华英拐卖儿童案发回重审，公安机关又发现其他拐卖儿童犯罪事实，哪些信息值得关注？如何从法律角度解读？](https://www.zhihu.com/question/638531311)|
+|2024-01-08 16:05:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[扎克伯格近两个月每个交易日都在出售其 Meta 的持股，套现逾 4 亿美元，哪些信息值得关注？](https://www.zhihu.com/question/638494053)|
+|2024-01-08 16:05:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[深圳欢乐谷过山车碰撞事故调查报告发布，系设备维护不善等原因导致，该事件带来哪些警示？](https://www.zhihu.com/question/638544717)|
+|2024-01-08 16:05:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你认为《莲花楼》是一部合格的武侠剧吗，为什么？](https://www.zhihu.com/question/619312834)|
+|2024-01-08 16:05:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国家安全机关破获一起英国秘密情报局（MI6）间谍案，有哪些信息值得关注？](https://www.zhihu.com/question/638533923)|
+|2024-01-08 16:05:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待荣耀「巨犀玻璃」的硬核实测，并将会落地荣耀 Magic6 标准版？](https://www.zhihu.com/question/638547929)|
+|2024-01-08 16:05:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我的 RTX 4090 显卡有哪些具体的生产力应用场景？](https://www.zhihu.com/question/636906694)|
+|2024-01-08 16:05:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 年春节，有哪些好物可以轻松「搞定」年底大扫除？](https://www.zhihu.com/question/637098781)|
+|2024-01-08 16:05:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么很多人觉得四代雷影很强？](https://www.zhihu.com/question/621467918)|
+|2024-01-08 16:05:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023/2024 赛季英格兰足总杯第三轮，阿森纳 0:2 利物浦，各项赛事三连败，如何评价这场比赛？](https://www.zhihu.com/question/638516240)|
+|2024-01-08 16:05:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么跑量如此高的跑步爱好者，膝盖并没有出现伤病？](https://www.zhihu.com/question/636731924)|
+|2024-01-08 16:05:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果在 F1 比赛中，车手可以看到赛车游戏里的那种动态辅助线，那么他们的圈速会有多大的提升？](https://www.zhihu.com/question/638408187)|
+|2024-01-08 16:05:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 2024 年 1 月 8 日 A 股市场?](https://www.zhihu.com/question/638538513)|
+|2024-01-08 16:05:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 年，手机上的大模型都有什么好用的功能，让你相见恨晚？](https://www.zhihu.com/question/638561728)|
+|2024-01-08 16:05:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[黄金储备实现「十四连增」，去年 12 月黄金储备环比上升 29 万盎司，哪些信息值得关注？](https://www.zhihu.com/question/638486210)|
+|2024-01-08 16:05:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[怎么样才能有效减肥，并且不反弹?](https://www.zhihu.com/question/637243722)|
+|2024-01-08 09:48:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[AirTag 2不急著推出？蘋果延遲新追蹤器上市原因](https://www.iphonetaiwan.org/2024/01/apple-airtag-2-delayed-2025-insights.html)|
+|2024-01-08 09:08:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 的保固政策、維修條件是什麼？](https://www.iphonetaiwan.org/2024/01/blog-post_08.html)|
+|2024-01-08 08:16:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 隱私與安全，和 Android 有何不同？](https://www.iphonetaiwan.org/2024/01/iphone-vs-android-privacy-security.html)|
 |2024-01-08 11:17:19|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[@所有艾格的朋友，这周末来线下面基！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448105&idx=1&sn=42ec1994ebea134f4389694e6516385d)|
 |2024-01-08 10:30:00|[机核](https://www.gcores.com/rss)|[石川贤与《盖塔机器人》（二）：融合](https://www.gcores.com/videos/175880)|
 |2024-01-08 09:39:00|[机核](https://www.gcores.com/rss)|[现已开启PC抢先测试：《七日世界》“触摸异常”展望会消息汇总](https://www.gcores.com/articles/176005)|
