@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-09 14:07:10|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2024-01-09 如何迁移 Newsletter 到 phplist](https://blog.cmyr.ltd/archives/92ad8b7d.html)|
+|2024-01-09 10:23:34|[Conge](https://conge.github.io/feed.xml)|[折返点 2401 - 触地时间](https://conge.livingwithfcs.org/2024/01/09/ReturnPoint-ground-contact-time/)|
+|2024-01-09 12:01:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[借由数字人民币、虚拟货币交易“洗白”非法资金，10人获刑](https://dig.chouti.com/link/41175864)|
 |2024-01-09 16:19:40|[机核](https://www.gcores.com/rss)|[灵刃系列大更新、HD触觉反馈座椅发布：雷蛇在CES2024发布多款新品](https://www.gcores.com/articles/176062)|
 |2024-01-09 16:00:00|[机核](https://www.gcores.com/rss)|[摄影分享丨海](https://www.gcores.com/articles/175934)|
 |2024-01-09 15:44:27|[机核](https://www.gcores.com/rss)|[微软将于1月19日举行最新一期Xbox开发者直面会](https://www.gcores.com/articles/176064)|
