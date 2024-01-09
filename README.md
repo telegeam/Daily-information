@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-01-08）
+﻿# 每日资讯（2024-01-09）
 
 |时间|来源|标题|
 |---|---|---|
@@ -21,6 +21,7 @@
 |2024-01-08 10:27:39|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《惩罚者》：男人全家十八口一夜被灭，连自己都死了但没死干净，终成复仇女神！](https://www.ximalaya.com/sound/698589895)|
 |2024-01-08 17:38:00|[白宦成](https://www.ixiqin.com/feed/)|[你是「小土豆」么？](https://www.ixiqin.com/2024/01/09/are-you-a-little-potato/)|
 |2024-01-08 13:16:17|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家｜字节、腾讯商谈游戏项目出售，加强游戏合作](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511298&idx=1&sn=5949fa8bfd8e9589105d56b6ab129fd8)|
+|2024-01-09 15:04:58|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[请注意，你的 Pulsar 集群可能有删除数据的风险](http://crossoverjie.top/2024/01/09/ob/Pulsar-Delete-Topic/)|
 |2024-01-08 16:05:30|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么小时候那么穷，还是很多人都想回到小时候?](https://www.zhihu.com/question/632711676)|
 |2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[再见，NBA！33 岁的卢比奥，生涯能否谈得上成功？](https://www.zhihu.com/question/638128977)|
 |2024-01-08 16:05:29|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果未来教师过剩，会不会考虑设置专职班主任岗位，减轻班主任既当任课老师又当班主任的负担？](https://www.zhihu.com/question/638062138)|
