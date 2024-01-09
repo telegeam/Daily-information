@@ -2,6 +2,41 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-09 10:16:45|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[React Advanced Concepts Ref](https://javascript.plainenglish.io/react-advanced-concepts-ref-619bbc94e24e?source=rss-c3917681a8f5------2)|
+|2024-01-09 10:10:28|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[終於等到你！ Apple Vision Pro 開賣 /預購時間出爐](https://applefans.today/2024-01-apple-vision-pro-launch/)|
+|2024-01-09 09:24:01|[小众软件](https://www.appinn.com/feed/)|[电闹播放器 – 魔改自电梓播放器，威力加强版第三方 B站音乐播放器 Chrome/Android ](https://www.appinn.com/azusa-player/)|
+|2024-01-09 18:38:03|[Macin](https://www.macin.org/atom.xml)|[泸县：假装在南宋看石刻](https://macin.org/2024/01/09/lu-xian-shi-ke/)|
+|2024-01-09 10:41:19|[爱范儿](https://www.ifanr.com/feed)|[吉利的对手是谁？是小米，是特斯拉，是比亚迪，是丰田本田，也是自己](https://www.ifanr.com/1572892?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-09 06:29:31|[爱范儿](https://www.ifanr.com/feed)|[大模型 App Store 时刻前夕，拥有 7 亿用户的钉钉要「干掉」应用](https://www.ifanr.com/1572869?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-09 06:01:11|[爱范儿](https://www.ifanr.com/feed)|[vivo S18 Pro 体验：人像手机就是这个时代的拍立得](https://www.ifanr.com/1572774?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-09 03:55:30|[爱范儿](https://www.ifanr.com/feed)|[蔚来手机，得先是一台合格的「手机」](https://www.ifanr.com/1572832?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-09 00:38:28|[爱范儿](https://www.ifanr.com/feed)|[早报 苹果官宣 Vision Pro 发售日期/小米称暂无 Redmi 汽车计划/英伟达发布新显卡](https://www.ifanr.com/1572846?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-09 09:31:45|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1241 OpenAI 称不用版权材料训练不出来 ChatGPT](https://linux.cn/article-16545-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-09 12:28:35|[虎嗅](https://rss.huxiu.com/)|[我眼中九十年代的繁花上海](https://www.huxiu.com/article/2530616.html?f=rss)|
+|2024-01-09 12:25:49|[虎嗅](https://rss.huxiu.com/)|[米歇尔·福柯的多重面孔](https://www.huxiu.com/article/2530043.html?f=rss)|
+|2024-01-09 12:20:12|[虎嗅](https://rss.huxiu.com/)|[英伟达、AMD多款芯片1月上市，AI PC元年开启](https://www.huxiu.com/article/2530047.html?f=rss)|
+|2024-01-09 12:13:00|[虎嗅](https://rss.huxiu.com/)|[四维图新诉百度侵权案终审结果公布](https://www.huxiu.com/article/2530588.html?f=rss)|
+|2024-01-09 11:58:24|[虎嗅](https://rss.huxiu.com/)|[苹果Vision Pro，库克的豪赌](https://www.huxiu.com/article/2530596.html?f=rss)|
+|2024-01-09 11:54:02|[虎嗅](https://rss.huxiu.com/)|[OpenAI反驳《纽约时报》起诉的声明，站得住脚吗？](https://www.huxiu.com/article/2530581.html?f=rss)|
+|2024-01-09 11:27:18|[虎嗅](https://rss.huxiu.com/)|[抠门省钱真的快乐吗？对金钱的态度，反映你的心态](https://www.huxiu.com/article/2521323.html?f=rss)|
+|2024-01-09 11:14:00|[虎嗅](https://rss.huxiu.com/)|[美国禁毒为啥这么难？](https://www.huxiu.com/article/2530508.html?f=rss)|
+|2024-01-09 11:00:01|[虎嗅](https://rss.huxiu.com/)|[绿色金融如何赋能技术，让绿色技术引领低碳发展新格局？](https://www.huxiu.com/article/2530077.html?f=rss)|
+|2024-01-09 11:00:00|[虎嗅](https://rss.huxiu.com/)|[中国第一批外贸业务员，比《繁花》里的汪小姐更飒](https://www.huxiu.com/article/2529984.html?f=rss)|
+|2024-01-09 10:46:00|[虎嗅](https://rss.huxiu.com/)|[支付宝背后的架构博弈：马云清空6家港股公司权益](https://www.huxiu.com/article/2530046.html?f=rss)|
+|2024-01-09 10:41:58|[虎嗅](https://rss.huxiu.com/)|[一家“硬科技”VC，关门了](https://www.huxiu.com/article/2529968.html?f=rss)|
+|2024-01-09 10:23:00|[虎嗅](https://rss.huxiu.com/)|[看清代学者祖师爷——顾炎武的一生](https://www.huxiu.com/article/2529527.html?f=rss)|
+|2024-01-09 10:22:04|[虎嗅](https://rss.huxiu.com/)|[婴儿爽身粉致癌？美国商业巨头将支付50亿元和解](https://www.huxiu.com/article/2530021.html?f=rss)|
+|2024-01-09 10:05:04|[虎嗅](https://rss.huxiu.com/)|[贝肯鲍尔去世，世间再无“足球皇帝”](https://www.huxiu.com/article/2530031.html?f=rss)|
+|2024-01-09 10:00:48|[虎嗅](https://rss.huxiu.com/)|[中老年人开始“统治”直播间](https://www.huxiu.com/article/2530004.html?f=rss)|
+|2024-01-09 10:00:00|[虎嗅](https://rss.huxiu.com/)|[“尔滨”爆火背后，半部东北辛酸史](https://www.huxiu.com/article/2528735.html?f=rss)|
+|2024-01-09 09:58:06|[虎嗅](https://rss.huxiu.com/)|[“火神”火箭首飞成功，但前景难料？](https://www.huxiu.com/article/2529993.html?f=rss)|
+|2024-01-09 09:35:01|[虎嗅](https://rss.huxiu.com/)|[广州、深圳带头，中国楼市第二次去库存来了？](https://www.huxiu.com/article/2526487.html?f=rss)|
+|2024-01-09 09:35:00|[虎嗅](https://rss.huxiu.com/)|[10个月赔光60万？开家“不带颜色”的私人影院有多难？](https://www.huxiu.com/article/2530000.html?f=rss)|
+|2024-01-09 09:25:23|[虎嗅](https://rss.huxiu.com/)|[造车如同做人，不是轨道而是旷野](https://www.huxiu.com/article/2529532.html?f=rss)|
+|2024-01-09 09:17:32|[虎嗅](https://rss.huxiu.com/)|[汕头滋味养成史](https://www.huxiu.com/article/2529525.html?f=rss)|
+|2024-01-09 09:13:17|[虎嗅](https://rss.huxiu.com/)|[如何理解A股和美股的差异？](https://www.huxiu.com/article/2529042.html?f=rss)|
+|2024-01-09 08:51:28|[虎嗅](https://rss.huxiu.com/)|[困住外卖员、快递员的，不止算法](https://www.huxiu.com/article/2529551.html?f=rss)|
+|2024-01-09 08:43:00|[虎嗅](https://rss.huxiu.com/)|[锂金属电池重大突破：10分钟完成充电，可循环至少6000次](https://www.huxiu.com/article/2529980.html?f=rss)|
 |2024-01-09 16:05:38|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[《如果早知道男生也会被性侵》杰哥不要原版1080P@60fps重制版在线观看](https://masuit.com/2076)|
 |2024-01-09 06:57:13|[小众软件](https://www.appinn.com/feed/)|[键谱 – 记不住快捷键怎么办？自己做一张，打印出来放桌上](https://www.appinn.com/jianpu-for-shortcuts/)|
 |2024-01-09 08:18:40|[虎嗅](https://rss.huxiu.com/)|[股市绿，丝袜红](https://www.huxiu.com/article/2529547.html?f=rss)|
