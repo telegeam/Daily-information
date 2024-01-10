@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-10 09:08:49|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone eSIM 設定 教學：輕鬆出遊 走遍世界不迷路](https://applefans.today/2024-how-to-setting-iphone-esim/)|
+|2024-01-10 14:33:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[挪威成为全球第一个开放商业深海采矿的国家](https://dig.chouti.com/link/41188796)|
+|2024-01-10 12:10:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[龙年大吉大利～](https://dig.chouti.com/link/41187546)|
+|2024-01-10 12:01:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[两年前曾直言：铁子品质就俩字“正直”，刘建宏回应：后来的李铁变了](https://dig.chouti.com/link/41187402)|
+|2024-01-10 13:32:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[也门胡塞武装发表声明证实袭击美国军舰](https://dig.chouti.com/link/41188295)|
+|2024-01-10 02:10:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[极限自行车](https://dig.chouti.com/link/41181289)|
+|2024-01-10 06:07:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[有位法国的养蜂人发现，他的蜜蜂会生产蓝色的蜂蜜。养蜂人百思不得其解，跟踪后才发现是这群小蜜蜂一直在偷吃隔壁MM豆工厂的糖果。](https://dig.chouti.com/link/41183777)|
+|2024-01-10 06:32:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[动视暴雪被57岁离职员工指控“歧视老年白人男性”](https://dig.chouti.com/link/41183938)|
+|2024-01-10 00:32:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[设计出“拉链式”纸箱的包装公司破产了](https://dig.chouti.com/link/41180292)|
+|2024-01-10 07:01:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美、德、法、日、韩，为什么世界各国都要在自己的土地上建造芯片厂？](https://dig.chouti.com/link/41184126)|
+|2024-01-10 08:54:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[7000字长文预警，说尽《繁花》中的台湾流行歌曲](https://dig.chouti.com/link/41185344)|
+|2024-01-10 09:24:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【航司今起下调机票退改费，换机型也可免费退】调低了机票退改签手续费的比例，并扩大了客票免费退改范围和适用场景，比如机型变动、机票买贵都可在一定时间内免费退改，放宽了因病旅客退改规则。](https://dig.chouti.com/link/41185976)|
+|2024-01-10 09:32:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[翻车，才是斯坦福炒菜机器人学习人类的常态](https://dig.chouti.com/link/41186052)|
+|2024-01-10 06:02:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩国70岁以上高龄人口首超20多岁年龄段](https://dig.chouti.com/link/41183711)|
+|2024-01-10 11:20:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【母亲去世后，68岁的父亲找了个女友】两年多前，瞥见父亲在看中老年相亲节目，李晗甚至开玩笑：“你要找，我不拒绝，我不阻止你。”说者没有一点当真的意味。如今，李德昌提起他在抖音上认识一位四川女性。话说出口还没几句，女儿就激动地朝李德昌吼。这是妻子去世后，两人第一次吵架。](https://dig.chouti.com/link/41187118)|
+|2024-01-10 06:32:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从《漫长的季节》到《繁花》：港商，一个抹不去的时代印记](https://dig.chouti.com/link/41183953)|
+|2024-01-10 06:11:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[分享2个手机壁纸](https://dig.chouti.com/link/41183818)|
+|2024-01-10 06:01:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【向卖书告别：书店的边界在哪里】2023年实洋同比增长率为-7.04%，和码洋的正向增长形成了鲜明对比，这一差距背后直接指向折扣的变化，2023年零售折扣从2022年的6.6折，下降至6.1折。](https://dig.chouti.com/link/41183427)|
+|2024-01-10 06:40:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[每条河流都有自己的指纹](https://dig.chouti.com/link/41183999)|
+|2024-01-10 07:01:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[央视《法治在线》首度披露洗米华、陈荣炼案作案手法：涉案“赌资”超3000亿](https://dig.chouti.com/link/41184153)|
+|2024-01-10 13:13:10|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[“为夫喊冤”，宽容、鼓励还是打击？](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892941&idx=1&sn=8b38b27ff2b97709af0c65554e2ab8c5)|
 |2024-01-10 12:23:34|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于开发脚本软件引起的一场巨额官司](https://www.v2ex.com/t/1007616#reply3)|
 |2024-01-10 04:42:01|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[支付宝小程序可以在 Google 浏览器打开吗](https://www.v2ex.com/t/1007456#reply10)|
 |2024-01-10 03:42:20|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[国内最好用的 Docker 源是哪个 各位](https://www.v2ex.com/t/1007439#reply30)|
