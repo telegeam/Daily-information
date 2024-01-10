@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-10 16:23:07|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我开发了一个独立开发者都会需要的应用](https://w2solo.com/topics/4352)|
+|2024-01-10 14:32:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我真是服了 Play 审核的一帮老 6 了](https://w2solo.com/topics/4351)|
+|2024-01-10 14:03:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[毕业返贫：从零花3000到月薪3000](https://dig.chouti.com/link/41188620)|
+|2024-01-10 13:26:49|[小众软件](https://www.appinn.com/feed/)|[Star Order – GitHub Stars 星标管理工具 Mac/iOS ](https://www.appinn.com/star-order/)|
+|2024-01-10 08:53:47|[小众软件](https://www.appinn.com/feed/)|[movie-web – 从前端到后端完全开源的在线电影、电视剧搜索与播放工具](https://www.appinn.com/movie-web/)|
+|2024-01-10 06:59:08|[小众软件](https://www.appinn.com/feed/)|[在 Windows 11 中禁用圆角](https://www.appinn.com/disable-rounded-corners-in-windows-11/)|
+|2024-01-10 06:26:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果手錶SOS功能：拯救學生一氧化碳中毒危機](https://www.iphonetaiwan.org/2024/01/apple-watch-sos-student-rescue-story.html)|
+|2024-01-10 06:05:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果再支付9,500萬美元！和解AppleCare維修訴訟](https://www.iphonetaiwan.org/2024/01/apple-9500-million-settlement-update.html)|
 |2024-01-10 09:08:49|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone eSIM 設定 教學：輕鬆出遊 走遍世界不迷路](https://applefans.today/2024-how-to-setting-iphone-esim/)|
 |2024-01-10 14:33:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[挪威成为全球第一个开放商业深海采矿的国家](https://dig.chouti.com/link/41188796)|
 |2024-01-10 12:10:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[龙年大吉大利～](https://dig.chouti.com/link/41187546)|
