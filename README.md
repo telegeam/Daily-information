@@ -2,6 +2,56 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-11 16:01:00|[虎嗅](https://rss.huxiu.com/)|[好孩子进了精神科，谁病了？](https://www.huxiu.com/article/2538626.html?f=rss)|
+|2024-01-11 13:10:12|[est の 输入输出](http://feeds.feedburner.com/initiative)|[如何摆脱霉运](https://blog.est.im/2024/stdin-01)|
+|2024-01-11 03:10:12|[白宦成](https://www.ixiqin.com/feed/)|[「杭州菲住布渴酒店」简评](https://www.ixiqin.com/2024/01/11/a-brief-review-of-hangzhou-feizhu-buke-hotel/)|
+|2024-01-11 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么公司更倾向于重新招人而不是留住老员工？](https://www.zhihu.com/question/635550954)|
+|2024-01-11 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[北方人为什么很爱吃大白菜？](https://www.zhihu.com/question/630253138)|
+|2024-01-11 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[李铁案细节曝光，上市公司华夏幸福卷入其中，足球教练为何与上市房企扯上关系？涉事房企发展现状如何？](https://www.zhihu.com/question/639018112)|
+|2024-01-11 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[OpenAI 推出 ChatGPT Team，将会对企业发展带来哪些影响？](https://www.zhihu.com/question/639001273)|
+|2024-01-11 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果河北给哈尔滨回礼该回啥？](https://www.zhihu.com/question/638614316)|
+|2024-01-11 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[全球最大固体运载火箭，引力一号首飞成功，我国商业运载取得了哪些进展？还有哪些信息值得关注？](https://www.zhihu.com/question/639062802)|
+|2024-01-11 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[GPT Store 正式上线，开发者可通过构建 GPT 获得收入，这对开发者有哪些影响？](https://www.zhihu.com/question/639010122)|
+|2024-01-11 16:03:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[铲屎官是在表扬它还是批评它，猫咪能听得懂吗？](https://www.zhihu.com/question/638705355)|
+|2024-01-11 16:03:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[报道称「联合国一直升机在索马里遭劫持，已有 1 人死亡 2 人失踪」，哪些信息值得关注？](https://www.zhihu.com/question/639047119)|
+|2024-01-11 16:03:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国家移民管理局推出多项新措施，进一步便利外籍人员来华，有哪些信息值得关注？](https://www.zhihu.com/question/639014885)|
+|2024-01-11 16:03:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[张小凡为什么不找道玄报仇？](https://www.zhihu.com/question/54126285)|
+|2024-01-11 16:03:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价由臧溪川执导，陈建斌、胡军、邓家佳领衔刑侦剧《黑土无言》？](https://www.zhihu.com/question/638924177)|
+|2024-01-11 16:03:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 年购买新能源汽车是优先选择新势力造车，还是优先选择传统车企新能源汽车？](https://www.zhihu.com/question/638044475)|
+|2024-01-11 16:03:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[电视剧《繁花》爆红的背后逻辑是什么？](https://www.zhihu.com/question/638515079)|
+|2024-01-11 16:03:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[广西一 120 急救车被小车挡路 10 分钟，患者去世，如何从法律角度解读？车主是否应该担责？](https://www.zhihu.com/question/639003746)|
+|2024-01-11 16:03:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[孩子长大了，开始藏事了，作为家长怎么办？](https://www.zhihu.com/question/637511284)|
+|2024-01-11 16:03:27|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 猛龙 120:126 快船，如何评价这场比赛？](https://www.zhihu.com/question/639023364)|
+|2024-01-11 16:03:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[怎么看待 2024 年 1 月 11 日 A 股市场走势？](https://www.zhihu.com/question/639010298)|
+|2024-01-11 16:03:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么越来越多年轻人喜欢回老家过年? 龙年走亲戚给长辈送什么比较合适？](https://www.zhihu.com/question/638948011)|
+|2024-01-11 16:03:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么我天天盯孩子学习，他依然学不好?](https://www.zhihu.com/question/638692856)|
+|2024-01-11 16:03:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大连有在 2024 突然爆火的可能吗？](https://www.zhihu.com/question/637862627)|
+|2024-01-11 16:03:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[浙江杭州一男子带 12 瓶茅台让摊主灌 107 斤香肠，如何评价该男子的行为？](https://www.zhihu.com/question/638855111)|
+|2024-01-11 16:03:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[商汤发布的大模型辅助编程助手「代码小浣熊 Raccoon」怎么样？](https://www.zhihu.com/question/636497646)|
+|2024-01-11 16:03:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「人工智能」的到来，会给「新能源车」带来哪些有趣的功能？](https://www.zhihu.com/question/639020659)|
+|2024-01-11 16:03:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么现在的手机都要配手机壳？](https://www.zhihu.com/question/638479757)|
+|2024-01-11 16:03:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「人未到礼先至」，有哪些心意满满的年礼可以提前置办？](https://www.zhihu.com/question/637095707)|
+|2024-01-11 16:03:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[瓦工月入 2.5 万没人干，传统技术工种高薪仍难招聘现象何解？](https://www.zhihu.com/question/638915195)|
+|2024-01-11 16:03:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[歼 20 首飞 13 周年，恰逢军迷节，大家觉得军迷对歼 20 的助攻有哪些？](https://www.zhihu.com/question/639010717)|
+|2024-01-11 16:03:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[冬季坚持用「油」护肤一个月，皮肤会发生哪些变化？](https://www.zhihu.com/question/638584673)|
+|2024-01-11 16:03:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国首颗综合性太阳探测卫星「夸父一号」成功发射一年多了，它有什么重要意义？ 目前都有哪些发现？](https://www.zhihu.com/question/558276752)|
+|2024-01-11 16:03:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么显卡不用大小核，毕竟现在手机，平板，电脑，CPU 都是大小核结构了？](https://www.zhihu.com/question/638490268)|
+|2024-01-11 16:03:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[高盛表示今年沪深 300 回报率或达 19%，维持「高配」中国 A 股，哪些信息值得关注？](https://www.zhihu.com/question/639023358)|
+|2024-01-11 16:03:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《英雄联盟》S14 赛季的海量更新？](https://www.zhihu.com/question/638952242)|
+|2024-01-11 16:03:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[贾玲导演的《热辣滚烫》定档 2024 大年初一，对此你有哪些期待？](https://www.zhihu.com/question/639013693)|
+|2024-01-11 16:03:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[女朋友生日应该送什么礼物好？口红可以吗？](https://www.zhihu.com/question/439091288)|
+|2024-01-11 16:03:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[新一年你有哪些旅行计划，第一站目的地是哪里？](https://www.zhihu.com/question/637991599)|
+|2024-01-11 16:03:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么军队一旦中了埋伏，就必然会大败？](https://www.zhihu.com/question/638959905)|
+|2024-01-11 16:03:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待越来越多本科生回炉读职校？回炉学一门技能有必要吗？](https://www.zhihu.com/question/639010928)|
+|2024-01-11 16:03:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么菩提祖师对孙悟空说「日后惹出祸来，不把师父说出来就行了」？](https://www.zhihu.com/question/420346826)|
+|2024-01-11 16:03:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价荣耀 Magic V2 RSR，首款折叠屏保时捷设计手机有哪些亮点？](https://www.zhihu.com/question/639076890)|
+|2024-01-11 17:01:00|[机核](https://www.gcores.com/rss)|[《波斯王子：失落的王冠》：融入系列特色的高品质类银河城游戏](https://www.gcores.com/articles/176087)|
+|2024-01-11 17:00:00|[机核](https://www.gcores.com/rss)|[《波斯王子：失落的王冠》体验：没想到这游戏变成了这个样子](https://www.gcores.com/videos/176152)|
+|2024-01-11 15:00:00|[机核](https://www.gcores.com/rss)|[前女友是跟踪狂，潜行跟踪很擅长 摩登怪谈Vol.2](https://www.gcores.com/radios/175924)|
+|2024-01-11 12:56:37|[机核](https://www.gcores.com/rss)|[与桃子浅聊布袋戏](https://www.gcores.com/videos/176144)|
+|2024-01-11 06:33:55|[素生](http://z.arlmy.me/atom.xml)|[2023 观影（下）](http://z.arlmy.me/posts/YearlyMovies/YearlyMovies_2023_2/)|
+|2024-01-11 05:41:05|[素生](http://z.arlmy.me/atom.xml)|[2023 阅读](http://z.arlmy.me/posts/YearlyBooks/YearlyBooks_2023/)|
+|2024-01-11 08:35:53|[煎蛋](http://jandan.net/feed)|[AI发现指纹可能并非独一无二](http://jandan.net/p/115337)|
 |2024-01-11 06:16:46|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[Deeply explore the implementation principle of useState](https://javascript.plainenglish.io/deeply-explore-the-implementation-principle-of-usestate-e9ad468a36b2?source=rss-c3917681a8f5------2)|
 |2024-01-11 15:52:35|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[有后端/全栈大佬吗？求合作](https://w2solo.com/topics/4354)|
 |2024-01-11 13:49:16|[双绞麻痹](https://numb.tech/atom.xml)|[回答](https://numb.tech/2024/01/11/longtime/)|
