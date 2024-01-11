@@ -2,6 +2,18 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-11 03:50:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国提出“旧金山愿景”，含蓄告诫美国不要破坏现状](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%8F%90%E5%87%BA-%E6%97%A7%E9%87%91%E5%B1%B1%E6%84%BF%E6%99%AF-%E5%90%AB%E8%93%84%E5%91%8A%E8%AF%AB%E7%BE%8E%E5%9B%BD%E4%B8%8D%E8%A6%81%E7%A0%B4%E5%9D%8F%E7%8E%B0%E7%8A%B6-346eac37)|
+|2024-01-11 01:25:46|[靜風說](http://www.jingfengshuo.com/feed)|[王小波《黑铁时代》读后感](https://www.jingfengshuo.com/archives/2722.html)|
+|2024-01-11 04:01:42|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[智能家居的网关新形态：Aqara 方舟智慧中枢 M3 体验](https://sspai.com/post/85621)|
+|2024-01-11 02:42:58|[爱范儿](https://www.ifanr.com/feed)|[早报 小米汽车暂不会推出增程车型/OpenAI 正式上线 GPT Store/理想汽车周销量被问界反超](https://www.ifanr.com/1573069?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-11 02:54:16|[空城记](https://shinekid.com/feed/)|[网文作者年入百万？](https://shinekid.com/2024/01/cyberspace-writers-earns-millions-a-year/)|
+|2024-01-11 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[CES 2024开幕，36氪带你云看展](https://36kr.com/p/2598596563614345)|
+|2024-01-11 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[程前的朋友圈，容不下一个周鸿祎](https://36kr.com/p/2599541837970048)|
+|2024-01-11 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马斯克的星辰大海背后，是“有毒”的工作文化](https://36kr.com/p/2598725377358727)|
+|2024-01-11 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[谁在买7000元的羽绒服？](https://36kr.com/p/2598727311276931)|
+|2024-01-11 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国倒爷俄罗斯卖车，富贵险中求](https://36kr.com/p/2598708767800196)|
+|2024-01-11 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜董宇辉新号首播带货超1亿元；OpenAI推出在线商店GPT Store；1月10日龙年茅台生肖酒跌至4100元一瓶](https://36kr.com/p/2599502990375816)|
+|2024-01-11 03:19:41|[知乎每日精选](https://www.zhihu.com/rss)|[未来海平面上升 70 米会对全球产生什么影响？](http://www.zhihu.com/question/595400867/answer/3345603175?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |2024-01-11 00:49:02|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[咖啡师的手｜工劳小报 #34](https://feed.laborinfozh.com/issue34/)|
 |2024-01-10 16:23:07|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我开发了一个独立开发者都会需要的应用](https://w2solo.com/topics/4352)|
 |2024-01-10 14:32:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我真是服了 Play 审核的一帮老 6 了](https://w2solo.com/topics/4351)|
