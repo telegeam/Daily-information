@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-10）
+﻿# 每日资讯（2024-01-11）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-11 00:49:02|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[咖啡师的手｜工劳小报 #34](https://feed.laborinfozh.com/issue34/)|
 |2024-01-10 16:23:07|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我开发了一个独立开发者都会需要的应用](https://w2solo.com/topics/4352)|
 |2024-01-10 14:32:38|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我真是服了 Play 审核的一帮老 6 了](https://w2solo.com/topics/4351)|
 |2024-01-10 14:03:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[毕业返贫：从零花3000到月薪3000](https://dig.chouti.com/link/41188620)|
