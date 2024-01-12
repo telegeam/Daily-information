@@ -2,6 +2,24 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-12 09:49:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【我不理解：国产剧改名备忘录】看了一本讲韩剧的书《韩剧如何讲故事》。书中说，剧名很重要，普通的名字改一个瞩目的能引发观众关注度的，不泯然众剧的名字，效果就完全不一样。](https://dig.chouti.com/link/41208449)|
+|2024-01-12 10:02:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[德帕迪约性侵疑云又现“反陈情书”，苏菲·玛索指其“粗鲁”](https://dig.chouti.com/link/41208771)|
+|2024-01-12 13:07:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中断一年半后，美国恢复购买俄罗斯石油，价格还高于自己制定的上限】美国统计局最新数据显示，2023年10月，美国从俄罗斯进口了一批近3.7万桶的石油，这是自一年半前以来的首次石油交易。11月美国再次购买约1万桶俄罗斯石油。购入价格分别为每桶74美元和76美元，均高于美国制定的每桶60美元的价格上限。](https://dig.chouti.com/link/41210492)|
+|2024-01-12 14:12:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[过年回家相亲现状](https://dig.chouti.com/link/41211024)|
+|2024-01-12 08:32:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[东北搓澡，一辈子能搓出多少斤泥？](https://dig.chouti.com/link/41207784)|
+|2024-01-12 08:13:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[以“卖水”为例解释常见的一些互联网黑话↓↓](https://dig.chouti.com/link/41207562)|
+|2024-01-12 05:12:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“过劳”的小学教师，成了相亲鄙视链的底端】一个小学班主任如此形容自己的日常：每周负责4节早课、5节午读、10个课间操、8节课后服务，以及15节正课，课余时间要处理学生的纠纷，回复家长信息、必要时再叫家长到学校沟通。下班后还要准备评比资料、批改作业、筹备公开课、写听课日记。](https://dig.chouti.com/link/41205762)|
+|2024-01-12 11:02:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[外媒报道称中国拟在近地轨道建立由2.6万颗卫星组成的低轨卫星通信网](https://dig.chouti.com/link/41209310)|
+|2024-01-12 12:01:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[OpenAI CEO 阿尔特曼做客比尔盖茨访谈节目：ChatGPT 将能够生成视频](https://dig.chouti.com/link/41209748)|
+|2024-01-12 12:32:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[揭秘抄底上海20栋别墅的钢铁大佬：隐现80后“创三代”，多元产业曾年入超千亿](https://dig.chouti.com/link/41210130)|
+|2024-01-12 04:08:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[水结冰的可视化：随着温度降低，水分子的动能逐渐降低。 通常当温度降低到0摄氏度左右，水分子动能降低到不足以摆脱原子或分子之间的吸引力（氢键）时，液态的水就会冻结为固态的水。](https://dig.chouti.com/link/41205181)|
+|2024-01-12 07:01:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[文科博主起诉张雪峰未获法院受理：“舔”言论未指向特定个人](https://dig.chouti.com/link/41206635)|
+|2024-01-12 11:23:59|[Conge](https://conge.github.io/feed.xml)|[2024，我的读书展望](https://conge.livingwithfcs.org/2024/01/12/2024-reading-goals/)|
+|2024-01-12 15:40:32|[SHRIK3](https://shrik3.com/index.xml)|[reflections on how ChatGPT HAS changed things](https://shrik3.com/post/chatgpt/)|
+|2024-01-12 16:08:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[罗永浩指责荣耀“任意门”功能抄袭｜最前线](https://36kr.com/p/2601050838219649)|
+|2024-01-12 16:08:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年最确定的赛道](https://36kr.com/p/2600855113579400)|
+|2024-01-12 16:08:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[特斯拉打响今年价格战第一枪：Model 3/Y齐降价，最多优惠2万](https://36kr.com/p/2601105652398720)|
+|2024-01-12 16:08:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[高铁一等座，为什么总有人打掼蛋？](https://36kr.com/p/2600897577826945)|
 |2024-01-12 16:00:00|[虎嗅](https://rss.huxiu.com/)|[无所事事地过一生，这不就是我的人生目标吗？](https://www.huxiu.com/article/2541022.html?f=rss)|
 |2024-01-12 15:30:00|[机核](https://www.gcores.com/rss)|[今晚读什么：机核文章推荐与导读（12.30-1.12）](https://www.gcores.com/articles/176179)|
 |2024-01-12 15:00:00|[机核](https://www.gcores.com/rss)|[2023年，你都喝了点什么？ 核市奇谭 x 将进酒 特别节目](https://www.gcores.com/radios/175925)|
