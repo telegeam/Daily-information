@@ -1,7 +1,21 @@
-﻿# 每日资讯（2024-01-11）
+﻿# 每日资讯（2024-01-12）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-12 01:09:20|[虎嗅](https://rss.huxiu.com/)|[高铁一等座，为什么总有人打掼蛋？](https://www.huxiu.com/article/2540787.html?f=rss)|
+|2024-01-12 01:02:49|[虎嗅](https://rss.huxiu.com/)|[盲池基金难募资](https://www.huxiu.com/article/2540805.html?f=rss)|
+|2024-01-12 01:00:01|[虎嗅](https://rss.huxiu.com/)|[约了1年的梦中情屋，拥有300m²绝美房子，她却不爱待在家](https://www.huxiu.com/article/2537417.html?f=rss)|
+|2024-01-12 01:00:00|[虎嗅](https://rss.huxiu.com/)|[打工人的噩梦：老板为什么爱办年会？](https://www.huxiu.com/article/2537394.html?f=rss)|
+|2024-01-12 00:57:23|[虎嗅](https://rss.huxiu.com/)|[一种常见的“抑郁型思维”，大多数人都有](https://www.huxiu.com/article/2539483.html?f=rss)|
+|2024-01-12 00:49:59|[虎嗅](https://rss.huxiu.com/)|[新能源车“狂飙”：三家车企“兑现承诺”，比亚迪拿下“销冠”](https://www.huxiu.com/article/2540247.html?f=rss)|
+|2024-01-12 00:32:00|[虎嗅](https://rss.huxiu.com/)|[A股再现天价离婚](https://www.huxiu.com/article/2540245.html?f=rss)|
+|2024-01-12 00:30:00|[虎嗅](https://rss.huxiu.com/)|[OpenAI治理危机对中国组织治理构架设计的启示](https://www.huxiu.com/article/2539502.html?f=rss)|
+|2024-01-12 00:08:54|[虎嗅](https://rss.huxiu.com/)|[“中部外贸第一省”要易主了？](https://www.huxiu.com/article/2539562.html?f=rss)|
+|2024-01-12 00:00:01|[虎嗅](https://rss.huxiu.com/)|[喀什滋味养成史](https://www.huxiu.com/article/2537999.html?f=rss)|
+|2024-01-12 00:31:42|[阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)|[科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html)|
+|2024-01-12 00:51:22|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 120 期）：帮助 App 监测竞争对手，每月盈利 8000 美元](https://w2solo.com/topics/4356)|
+|2024-01-12 00:43:15|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Java 应用内存不断增长](https://www.v2ex.com/t/1007983#reply7)|
+|2024-01-12 01:05:38|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[远程串流方案](https://www.v2ex.com/t/1007989#reply3)|
 |2024-01-11 16:01:00|[虎嗅](https://rss.huxiu.com/)|[好孩子进了精神科，谁病了？](https://www.huxiu.com/article/2538626.html?f=rss)|
 |2024-01-11 13:10:12|[est の 输入输出](http://feeds.feedburner.com/initiative)|[如何摆脱霉运](https://blog.est.im/2024/stdin-01)|
 |2024-01-11 03:10:12|[白宦成](https://www.ixiqin.com/feed/)|[「杭州菲住布渴酒店」简评](https://www.ixiqin.com/2024/01/11/a-brief-review-of-hangzhou-feizhu-buke-hotel/)|
@@ -205,6 +219,7 @@
 |2024-01-11 08:01:29|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[Query](https://wiki-mkdocs-topaz.vercel.app/%E5%91%A8%E6%9C%9F%E6%80%A7%E7%AC%94%E8%AE%B0/%E6%97%A5%E8%AE%B0/query/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
 |2024-01-11 07:49:15|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[Delete](https://wiki-mkdocs-topaz.vercel.app/%E5%91%A8%E6%9C%9F%E6%80%A7%E7%AC%94%E8%AE%B0/%E6%97%A5%E8%AE%B0/delete/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
 |2024-01-11 07:39:18|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[日记模板](https://wiki-mkdocs-topaz.vercel.app/%E5%91%A8%E6%9C%9F%E6%80%A7%E7%AC%94%E8%AE%B0/%E6%97%A5%E8%AE%B0/%E6%97%A5%E8%AE%B0%E6%A8%A1%E6%9D%BF/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
+|2024-01-12 09:28:25|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[技术阅读周刊第十四期：Golang 作者 Rob Pike 在 GopherConAU 上的分享](http://crossoverjie.top/2024/01/12/ob/newsletter/Newsletter12-202401012/)|
 |2024-01-11 09:06:51|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新人报道，摸爬滚打滚打终于做出了一款 2FA iOS app](https://w2solo.com/topics/4353)|
 |2024-01-11 09:16:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[印度封殺九大加密貨幣交易所應用：從App Store下架](https://www.iphonetaiwan.org/2024/01/apple-india-crypto-apps-ban.html)|
 |2024-01-11 08:07:49|[小众软件](https://www.appinn.com/feed/)|[WeOCR – 可离线使用的开源在线文字识别 OCR 工具](https://www.appinn.com/weocr/)|
