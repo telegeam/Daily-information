@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-13 15:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[赖清德当选台湾新总统，选民意志击败北京意图](https://cn.wsj.com/articles/%E8%B5%96%E6%B8%85%E5%BE%B7%E5%BD%93%E9%80%89%E5%8F%B0%E6%B9%BE%E6%96%B0%E6%80%BB%E7%BB%9F-%E9%80%89%E6%B0%91%E6%84%8F%E5%BF%97%E5%87%BB%E8%B4%A5%E5%8C%97%E4%BA%AC%E6%84%8F%E5%9B%BE-e501a0f7)|
+|2024-01-13 15:01:50|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[桌面应用 在 Linux 上提升游戏体验的 7 个有效建议及工具](https://linux.cn/article-16555-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-13 09:25:32|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1245 OpenAI 悄然删除禁止将 ChatGPT 用于 “军事和战争” 的禁令](https://linux.cn/article-16554-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-13 03:20:02|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 13 款最佳开源 ChatGPT 替代品](https://linux.cn/article-16553-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-13 15:32:08|[白宦成](https://www.ixiqin.com/feed/)|[《人生十二法则2》书摘](https://www.ixiqin.com/2024/01/13/book-excerpt-from-twelve-laws-of-life-2/)|
 |2024-01-13 14:45:53|[est の 输入输出](http://feeds.feedburner.com/initiative)|[碎碎念一下《年会不能停》，微剧透](https://blog.est.im/2024/stderr-02)|
 |2024-01-13 15:43:13|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[Stop using display: contents](https://javascript.plainenglish.io/stop-using-display-contents-fce8c3bf8b00?source=rss-c3917681a8f5------2)|
 |2024-01-13 01:55:13|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[简讯：赖清德赢得台湾大选，民进党继续执政](https://cn.nytimes.com/asia-pacific/20240113/taiwan-election-2024/?utm_source=RSS)|
