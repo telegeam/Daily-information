@@ -2,6 +2,24 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-13 14:45:53|[est の 输入输出](http://feeds.feedburner.com/initiative)|[碎碎念一下《年会不能停》，微剧透](https://blog.est.im/2024/stderr-02)|
+|2024-01-13 15:43:13|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[Stop using display: contents](https://javascript.plainenglish.io/stop-using-display-contents-fce8c3bf8b00?source=rss-c3917681a8f5------2)|
+|2024-01-13 01:55:13|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[简讯：赖清德赢得台湾大选，民进党继续执政](https://cn.nytimes.com/asia-pacific/20240113/taiwan-election-2024/?utm_source=RSS)|
+|2024-01-13 00:34:39|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[联合国警告全球近四分之一人口面临干旱危机](https://cn.nytimes.com/climate/20240112/global-drought-food-hunger/?utm_source=RSS)|
+|2024-01-13 08:43:34|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独乐乐不如众乐乐，寻求兼职创业小伙伴](https://w2solo.com/topics/4358)|
+|2024-01-13 01:22:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[有没有用 Firebase/Supabase+shadcn-ui/AntDesign 搭网站的独立开发者，寻远程合作](https://w2solo.com/topics/4357)|
+|2024-01-13 15:00:00|[机核](https://www.gcores.com/rss)|[狂聊硬件，任天堂的设计为何那么与众不同？ GadioNews01.13](https://www.gcores.com/radios/175926)|
+|2024-01-13 13:13:46|[机核](https://www.gcores.com/rss)|[轻漫画丨救世儿嬉 ：章节24 爱情不是万能的](https://www.gcores.com/articles/176212)|
+|2024-01-13 12:06:57|[机核](https://www.gcores.com/rss)|[画个逗号丨2023年度影视混剪](https://www.gcores.com/videos/176208)|
+|2024-01-13 13:54:04|[依云's Blog](https://blog.lilydjwg.me/feed)|[使用 atuin 管理 shell 命令历史](https://blog.lilydjwg.me/posts/216770.html)|
+|2024-01-13 14:33:53|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《橡胶轮胎杀人事件》我灵魂穿越到轮胎，从此女孩遭殃男孩遭殃！最终成就一方魔主！](https://www.ximalaya.com/sound/699653183)|
+|2024-01-13 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[CES 2024丨国产机器人爆火，连微软CEO纳德拉都来参观](https://36kr.com/p/2601201855167110)|
+|2024-01-13 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[传奇落幕，智慧永存：查理·芒格的十条人生底层洞见](https://36kr.com/p/2560317414759556)|
+|2024-01-13 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[年轻创业者，难逃被教育](https://36kr.com/p/2602369328102023)|
+|2024-01-13 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[美团为什么难出海？](https://36kr.com/p/2601599035652744)|
+|2024-01-13 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[特斯拉又降价，真成国产车“平替”了？](https://36kr.com/p/2602367501007490)|
+|2024-01-13 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[9点1氪丨多家航司调整规则，机票买贵24小时内符合条件可免费退；A股现天价离婚案；董宇辉新号粉丝突破1000万](https://36kr.com/p/2601842335398787)|
+|2024-01-13 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2023最惨基金公司，一年缩水500亿](https://36kr.com/p/2601606674086793)|
 |2024-01-13 11:04:42|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#278：《暗黑破坏神 3》](https://www.gcores.com/articles/176209)|
 |2024-01-13 10:45:00|[机核](https://www.gcores.com/rss)|[文明6宣传片里面提到了人类历史上的那些高光时刻？](https://www.gcores.com/videos/176206)|
 |2024-01-13 09:01:31|[机核](https://www.gcores.com/rss)|[《大雨》：心中有爱，就抵得住大雨么？](https://www.gcores.com/articles/176207)|
