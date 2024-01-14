@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-14 09:21:08|[鸟窝](https://colobu.com/atom.xml)|[Linux 6.8 网络优化, 大量并发连接的TCP性能提高40%左右](https://colobu.com/2024/01/14/Linux-6-8-Networking/)|
+|2024-01-14 03:45:47|[鸟窝](https://colobu.com/atom.xml)|[高效I/O并发处理：双缓冲和Exchanger](https://colobu.com/2024/01/14/double-buffering-and-Exchanger/)|
+|2024-01-14 12:10:10|[小众软件](https://www.appinn.com/feed/)|[Tree.FM – 收听世界各地的森林之音｜39 座森林的真实录音](https://www.appinn.com/tree-fm/)|
+|2024-01-14 09:56:51|[小众软件](https://www.appinn.com/feed/)|[Xterminal – 跨平台开发工具：SSH 客户端，不止是终端，还支持 CPU、内存、网络监控，快捷动作等](https://www.appinn.com/xterminal/)|
+|2024-01-14 14:47:11|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[175根钢针、75个苹果](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652892987&idx=1&sn=b55af0bfef58dbf3025784b5e84b1f58)|
+|2024-01-14 16:05:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[为啥贾玲能瘦100斤，你不行？](https://36kr.com/p/2604071998978944)|
+|2024-01-14 16:05:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[对打工人最大的恶意，是说他们“装什么装”](https://36kr.com/p/2604141687094152)|
+|2024-01-14 16:05:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[占星术：一种提升领导力的古老认知方法](https://36kr.com/p/2558599647845504)|
+|2024-01-14 16:05:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[被挤爆的山姆，香港人正排队送钱](https://36kr.com/p/2604089668221827)|
+|2024-01-14 16:05:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国公司全球化周报 消息称SHEIN 2023年收入已超300亿美元 / 阿里发布2024年中国及海外电商市场三大预测](https://36kr.com/p/2603270008880001)|
+|2024-01-14 16:05:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[周鸿祎用一场演讲回击不体面](https://36kr.com/p/2602676265696136)|
+|2024-01-14 16:05:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[人生开挂：21世纪好习惯清单，让你终身受益](https://36kr.com/p/2531786594379522)|
+|2024-01-14 12:40:15|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1246 OpenWrt 项目准备推出开放路由器](https://linux.cn/article-16556-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-14 12:14:25|[找生活](https://zhaolife.com/atom.xml)|[2024年目标达成？](http://zhaolife.com/2024/01/14/2024goals/)|
 |2024-01-14 01:01:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[印度年轻人涌进农村：进厂不如种田，“印度制造”靠谁？](https://dig.chouti.com/link/41222158)|
 |2024-01-14 01:09:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[荷兰极右翼人士在街头公开焚烧《古兰经》，穆斯林信众试图阻拦，又被荷兰警方拿下……](https://dig.chouti.com/link/41222324)|
 |2024-01-14 02:09:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Hesja大神2023年摄影佳作欣赏：米格-29](https://dig.chouti.com/link/41222774)|
