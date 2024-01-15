@@ -1,7 +1,11 @@
-﻿# 每日资讯（2024-01-14）
+﻿# 每日资讯（2024-01-15）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-15 00:53:00|[虎嗅](https://rss.huxiu.com/)|[东门直播街网红图鉴：新人月入上万，辣舞主播入不敷出](https://www.huxiu.com/article/2550457.html?f=rss)|
+|2024-01-15 00:31:00|[虎嗅](https://rss.huxiu.com/)|[操纵股价，3人被罚没6.6亿](https://www.huxiu.com/article/2551014.html?f=rss)|
+|2024-01-15 00:12:53|[虎嗅](https://rss.huxiu.com/)|[微软市值超越苹果，意味着什么？](https://www.huxiu.com/article/2550464.html?f=rss)|
+|2024-01-15 00:03:16|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[分享一个我写的开源工具——Web 联调平台 Linker](https://w2solo.com/topics/4360)|
 |2024-01-14 16:06:55|[草梅友仁的博客](https://blog.cmyr.ltd/atom.xml)|[2024-01-15 如何解决 Android 模拟器与 Docker Desktop 关于 Hyper-V 的冲突](https://blog.cmyr.ltd/archives/3d4783a0.html)|
 |2024-01-14 09:21:08|[鸟窝](https://colobu.com/atom.xml)|[Linux 6.8 网络优化, 大量并发连接的TCP性能提高40%左右](https://colobu.com/2024/01/14/Linux-6-8-Networking/)|
 |2024-01-14 03:45:47|[鸟窝](https://colobu.com/atom.xml)|[高效I/O并发处理：双缓冲和Exchanger](https://colobu.com/2024/01/14/double-buffering-and-Exchanger/)|
