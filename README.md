@@ -2,6 +2,26 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-15 14:38:23|[机核](https://www.gcores.com/rss)|[译介丨Upiroy（波兰民俗吸血鬼）是有血肉的人](https://www.gcores.com/articles/176285)|
+|2024-01-15 13:25:50|[机核](https://www.gcores.com/rss)|[够了，我不想庆祝失败！](https://www.gcores.com/articles/176286)|
+|2024-01-15 13:00:00|[机核](https://www.gcores.com/rss)|[游戏阅读 Vol.4丨颠覆传统游戏善恶观的异质设计——《尼尔》系列文本细读](https://www.gcores.com/radios/173188)|
+|2024-01-15 12:11:52|[机核](https://www.gcores.com/rss)|[体验象棋职业生涯：《棋弈无限：中国象棋》现已在Steam发售](https://www.gcores.com/articles/176282)|
+|2024-01-15 10:16:50|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[Interviewer: Please handwrite a publish-subscribe model](https://javascript.plainenglish.io/interviewer-please-handwrite-a-publish-subscribe-model-54ecfe12b0a0?source=rss-c3917681a8f5------2)|
+|2024-01-15 08:16:47|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[4 Practical JavaScript skills Vue Source Code Learning](https://javascript.plainenglish.io/4-practical-javascript-skills-vue-source-code-learning-c51c60aed1d4?source=rss-c3917681a8f5------2)|
+|2024-01-15 10:00:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1247 Git 项目考虑使用 Rust 代码开发](https://linux.cn/article-16559-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-15 08:07:49|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 App Fleet：在 Linux 上实现工作空间自动化的开源应用](https://linux.cn/article-16558-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-15 03:04:38|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[软件开发 Textual：为 Python 增加漂亮的文本用户界面（TUI）](https://linux.cn/article-16557-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-15 10:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[台湾大选民进党三连胜，中国将如何应对？](https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89%E6%B0%91%E8%BF%9B%E5%85%9A%E4%B8%89%E8%BF%9E%E8%83%9C-%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9-33832d25)|
+|2024-01-15 00:37:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国证监会释放讯号，将完善中国企业赴境外上市机制](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E9%87%8A%E6%94%BE%E8%AE%AF%E5%8F%B7-%E5%B0%86%E5%AE%8C%E5%96%84%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E8%B5%B4%E5%A2%83%E5%A4%96%E4%B8%8A%E5%B8%82%E6%9C%BA%E5%88%B6-be2bf309)|
+|2024-01-15 16:05:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[贾玲减掉的100斤，每斤至少值200万](https://36kr.com/p/2605631409683333)|
+|2024-01-15 16:05:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[字节需要新的“大力”](https://36kr.com/p/2603185077149824)|
+|2024-01-15 16:05:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年手机大战：谁吃肉？谁喝汤？](https://36kr.com/p/2605165353253510)|
+|2024-01-15 16:05:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年市场10个猜想](https://36kr.com/p/2605128978824067)|
+|2024-01-15 16:05:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[阿里腾讯京东没做成的事，让这家公司做成了｜产品观察](https://36kr.com/p/2604520625060487)|
+|2024-01-15 16:05:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发｜餐饮供应链走向成熟，「鲜沐」完成新一轮融资](https://36kr.com/p/2604577570470784)|
+|2024-01-15 16:05:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年的上海，至真园的生意都是被谁抢走的？ 商业Friday](https://36kr.com/p/2600891350448777)|
+|2024-01-15 04:03:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[4部大片空降春节档，今年稳不稳？](https://36kr.com/p/2602482260130688)|
+|2024-01-15 04:03:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨7195名投资者获赔2.8亿开始到账；饿了么否认与字节跳动接洽收购；微软超苹果成为市值最高公司](https://36kr.com/p/2605155125869442)|
 |2024-01-15 11:45:58|[SHRIK3](https://shrik3.com/index.xml)|[The media exploits ADHD WIP // DRAFT ](https://shrik3.com/post/adhd/)|
 |2024-01-15 11:20:59|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[白话 Pulsar Bookkeeper 的存储模型](http://crossoverjie.top/2024/01/15/ob/Bookkeeper-storage/)|
 |2024-01-15 16:03:58|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[猫咪明明看着熟睡中，叫一声又会动一下耳朵，这种情况到底是睡着了还是没睡着？](https://www.zhihu.com/question/639207672)|
