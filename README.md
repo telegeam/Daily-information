@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-15 06:48:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[M3 晶片 iPad Pro 要來了？！傳聞中的升級重點](https://applefans.today/2024-01-m3-chip-ipad-pro-rumors/)|
+|2024-01-15 04:55:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[尋找 app 追蹤個人物品 變成 32 個 ！](https://applefans.today/2024-01-airtag-upgrade-32/)|
+|2024-01-15 08:06:29|[空城记](https://shinekid.com/feed/)|[从妥协到谄媚](https://shinekid.com/2024/01/from-compromise-to-flattery/)|
+|2024-01-15 01:20:07|[JustZht's EchoCham...](https://www.justzht.com/rss/)|[2024.1.14](https://www.justzht.com/2024-1-14/)|
+|2024-01-15 10:16:51|[爱范儿](https://www.ifanr.com/feed)|[对于联想而言，AI 是产品也是服务](https://www.ifanr.com/1573371?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-15 10:27:14|[晚点LatePost](https://feedpress.me/wx-postlate)|[大模型进手机，新战事与新机会](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511593&idx=1&sn=888dca49e2896bfbbf659bc6971a65d3)|
 |2024-01-15 08:12:44|[虎嗅](https://rss.huxiu.com/)|[一周干3天，月入50万：日本为什么还是没人开出租车？](https://www.huxiu.com/article/2552632.html?f=rss)|
 |2024-01-15 08:00:58|[虎嗅](https://rss.huxiu.com/)|[不要教一个AI学坏，因为它不会再学好](https://www.huxiu.com/article/2552270.html?f=rss)|
 |2024-01-15 08:00:01|[虎嗅](https://rss.huxiu.com/)|[一到冬天，电车续航就减半？](https://www.huxiu.com/article/2546266.html?f=rss)|
