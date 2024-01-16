@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-16 10:19:03|[Macin](https://www.macin.org/atom.xml)|[泸县：玉蟾龙头 “福兽”绵延](https://macin.org/2024/01/16/long-nao-qiao/)|
+|2024-01-16 14:02:02|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《绝境求生》：流落沙漠求生，资源有限狒狒包围，只有一个女人！](https://www.ximalaya.com/sound/700259537)|
+|2024-01-16 09:22:54|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[这家为什么还没变成世界知名酒店集团啊。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448533&idx=1&sn=96a9c64d96dc86da1f6c1d27f44ee2ce)|
+|2024-01-16 15:17:00|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[2023 年 12 月 Spotify 彻底被墙，我在比亚迪车机上安装 surfboard 挂代理听歌](https://hellodk.cn/post/1156)|
+|2024-01-16 08:49:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1248 AI 女友涌入 OpenAI 的 GPT 商店](https://linux.cn/article-16562-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-16 07:33:21|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 连可怜的记事本都没躲过微软的 AI 魔爪](https://linux.cn/article-16561-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-16 10:44:10|[空城记](https://shinekid.com/feed/)|[其实，我们才是怪物……](https://shinekid.com/2024/01/we-are-the-monster/)|
+|2024-01-16 08:36:32|[小众软件](https://www.appinn.com/feed/)|[DDColor – 黑白图像上色，为老照片添加生动、自然的色彩](https://www.appinn.com/ddcolor-model/)|
 |2024-01-16 12:02:59|[机核](https://www.gcores.com/rss)|[轻科幻 太空，暗物质生命，与我们人类的未来](https://www.gcores.com/articles/176274)|
 |2024-01-16 10:11:46|[机核](https://www.gcores.com/rss)|[2023国庆返湘Vlog](https://www.gcores.com/videos/176326)|
 |2024-01-16 10:00:00|[机核](https://www.gcores.com/rss)|[不为难人是莫莫多拉最后的温柔！《莫莫多拉：月下告别》通关赏析](https://www.gcores.com/videos/176284)|
