@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-15）
+﻿# 每日资讯（2024-01-16）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-16 00:39:13|[爱范儿](https://www.ifanr.com/feed)|[苹果官网罕见大降价/理想 L6 首次亮相/12306 扩大改签范围](https://www.ifanr.com/1573431?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-15 14:38:23|[机核](https://www.gcores.com/rss)|[译介丨Upiroy（波兰民俗吸血鬼）是有血肉的人](https://www.gcores.com/articles/176285)|
 |2024-01-15 13:25:50|[机核](https://www.gcores.com/rss)|[够了，我不想庆祝失败！](https://www.gcores.com/articles/176286)|
 |2024-01-15 13:00:00|[机核](https://www.gcores.com/rss)|[游戏阅读 Vol.4丨颠覆传统游戏善恶观的异质设计——《尼尔》系列文本细读](https://www.gcores.com/radios/173188)|
