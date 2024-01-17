@@ -2,6 +2,36 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-17 12:05:55|[观人看世界](https://feedpress.me/wx-iwatch1024)|[分享一下今年观人的数据，感谢各位一直陪伴](http://mp.weixin.qq.com/s?__biz=MzI5NDI2NTAxMA%3D%3D&mid=2247489411&idx=1&sn=062dbdf212b9f1e19ebc4f1038d4b687)|
+|2024-01-17 14:24:19|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[建议吕台长冷静](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652893025&idx=1&sn=3a0c1998be335383eebb97d6b6509720)|
+|2024-01-17 15:02:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【性，谎言和大模型】想象一下，一个人将一串提示词输入大模型，大模型为他生成了一张穿着暴露的少女图片；他将这张图喂给了视频生成大模型，于是得到了一个该少女跳舞的视频。随后，他将该视频上传到了成人色情网站上，获得了超高的点击量和超额收益。如果没有足够的AI对齐，上述场景正在成为现实。](https://dig.chouti.com/link/41262270)|
+|2024-01-17 09:36:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一个理漂眼中的大理酒摊小史](https://dig.chouti.com/link/41258946)|
+|2024-01-17 14:03:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国将给予爱尔兰单方面免签待遇](https://dig.chouti.com/link/41261714)|
+|2024-01-17 09:01:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【性、死亡和秘密光盘——爱泼斯坦的名单】爱泼斯坦牵出了很多如雷贯耳的名字，但他自己的墓碑没有名字。2019年9月5日，他被安葬在佛州棕榈滩某公墓，在他父母墓旁一个没有标记的墓中。为了防止被人破坏，他父母的名字也被从墓碑上铲除。](https://dig.chouti.com/link/41258291)|
+|2024-01-17 13:11:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[原来孔雀是这样打包的。。。](https://dig.chouti.com/link/41261259)|
+|2024-01-17 09:14:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[*创意match*](https://dig.chouti.com/link/41258827)|
+|2024-01-17 10:02:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[QQ音乐电视端即将单独收费：尚处灰度测试，未来逐步普及](https://dig.chouti.com/link/41259197)|
+|2024-01-17 10:09:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“送去大学的外卖基本没有差评”](https://dig.chouti.com/link/41259416)|
+|2024-01-17 10:09:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[法国农民抗议的保留节目→_→朝政府大楼洒粪！1月16日，法国图卢兹，近千名农民驾驶数百辆拖拉机集会，抗议政府提高农业相关税率致收入下降。农民将粪便、腐烂水果和干草倾倒在政府大楼外。农民称燃料和动物饲料成本上涨后，政府仍要增加税收及其他费用，导致他们的生活愈加困难。](https://dig.chouti.com/link/41259448)|
+|2024-01-17 09:38:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[做为《最后生还者》的片头设计师，我登上了艾美奖的领奖舞台](https://dig.chouti.com/link/41258947)|
+|2024-01-17 12:10:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[亚洲杯A组第2轮，中国男足vs黎巴嫩。比赛第14分钟，戴伟浚拼抢中被哈利勒-哈米斯一脚踹到了脸上！本次进攻裁判吹的国足球员越位在先。随后VAR检查是否是红牌动作，最终韩国籍主裁检查完毕，没有红牌 ...](https://dig.chouti.com/link/41260586)|
+|2024-01-17 05:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[请开声音观看：）](https://dig.chouti.com/link/41256149)|
+|2024-01-17 06:02:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【冲向北交所】种种成绩不止轰动了二级市场，一级市场也多有瞩目。“2024年，退出端的重点工作之一就是研究北交所。”VC们的态度正在发生改变。](https://dig.chouti.com/link/41256498)|
+|2024-01-17 07:28:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[成都崇州“狗咬人”事件中出手相助的环卫工，被授予“见义勇为”称号](https://dig.chouti.com/link/41257409)|
+|2024-01-17 11:40:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【我们活在不一样的中国】也许你常设想润出去的可能，计算成本、规划未来，但可能很少注意到，中国也是一些外国人的移居目的地。和我们一样，他们也要计算成本、规划未来。美国人沈恺伟2005年至今一直在中国生活，他这篇文章会从所有人都要经历的四大人生关头“生、老、病、死”讲起，呈现在华外籍人士的真实生活。](https://dig.chouti.com/link/41260182)|
+|2024-01-17 10:01:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马德兴：中国足球的外交溃败 不只是内部腐烂了](https://dig.chouti.com/link/41259058)|
+|2024-01-17 12:16:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大妈不知特斯拉有全景监控……](https://dig.chouti.com/link/41260686)|
+|2024-01-17 10:09:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[路透社称，中国人口已连续两年下降，提到经济上年轻人成家困难和新冠导致的死亡率升高是主要原因。](https://dig.chouti.com/link/41259459)|
+|2024-01-17 10:36:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【是什么成就了“配角上桌”？】刚过去的2023年被称为“配角上桌元年”。开年的《狂飙》火了张颂文和高叶，就连随后的偶像剧也有配角异军突起，强势“上桌”。其实影视剧中配角比主角出彩不是新鲜事。角色的出圈与本身的人设吸引力密切相关，尤其是当下观众掌握了话语权和选择权后，可以依据自己的解读，赋予角色更多内涵。](https://dig.chouti.com/link/41259639)|
+|2024-01-17 10:39:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美团跌破发行价，创四年来新低，市值较巅峰蒸发80%](https://dig.chouti.com/link/41259640)|
+|2024-01-17 10:09:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[梯子：气冷抖，愿天堂没有坦克！](https://dig.chouti.com/link/41259417)|
+|2024-01-17 08:02:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【OpenAI CEO阿尔特曼回应被《纽约时报》起诉：不希望使用《纽约时报》的数据进行训练】阿尔特曼表示，OpenAI的很多研究都是如何从少量、高质的数据中学习到更多东西。“有些人认为，你需要我所有的数据进行训练，我的数据非常有价值。事实上，情况一般并非如此，例如我们并不想利用《纽约时报》的数据进行训练。”](https://dig.chouti.com/link/41257789)|
+|2024-01-17 09:02:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Vision Pro首发在即：媒体提前体验，戴不了半个小时？](https://dig.chouti.com/link/41258569)|
+|2024-01-17 02:13:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[上帝老爷子，忙里偷闲，您可太不酷了！by Emily Catalano](https://dig.chouti.com/link/41254114)|
+|2024-01-17 08:56:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【泽连斯基公开威胁、诅咒普京及其家人，但乌克兰官方稿没提……】泽连斯基在达沃斯论坛上表示，“今生和来世，普京都不会得到安息，他的孩子不会，他的孙子也不会”，在“刑事审判”后，普京和家人将在监狱里度过一个“漫长的、多年之久的假期”。他虽然声称乌克兰没有参与恐怖活动，但也承认，一旦有机会，他会暗杀普京。](https://dig.chouti.com/link/41258210)|
+|2024-01-17 17:10:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果App Store已支援外部支付：仍要抽成12~27%](https://www.iphonetaiwan.org/2024/01/apple-app-store-revolution-payment-fees.html)|
+|2024-01-17 16:48:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果宣布iOS 17.3發布日期：Unity Bloom桌布同一天](https://www.iphonetaiwan.org/2024/01/blog-post_18.html)|
+|2024-01-17 16:30:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Epic Games為何須支付蘋果7,300萬美元律師費](https://www.iphonetaiwan.org/2024/01/epic-games-apple-legal-battle-7300-million-settlement.html)|
 |2024-01-17 04:16:16|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[10 Commonly-Used Combined APIs in Vue3](https://javascript.plainenglish.io/10-commonly-used-combined-apis-in-vue3-e05965e5eadc?source=rss-c3917681a8f5------2)|
 |2024-01-17 04:01:00|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[修复一块 18 年 12 月买的二手 4TB 机械硬盘](https://hellodk.cn/post/1158)|
 |2024-01-17 03:02:42|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[iCloud 在 Windows 下很流氓，用 taskkill 干掉它](https://hellodk.cn/post/1157)|
