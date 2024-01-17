@@ -1,7 +1,19 @@
-﻿# 每日资讯（2024-01-16）
+﻿# 每日资讯（2024-01-17）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-17 00:47:33|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[李强称中国2023年经济增长5.2%](https://cn.nytimes.com/business/20240117/chinese-premier-li-qiang-2023-gdp/?utm_source=RSS)|
+|2024-01-17 00:09:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2012年空客刊登在航空周刊上的一则广告，反击波音称其客机更有优势的说法](https://dig.chouti.com/link/41252902)|
+|2024-01-17 01:04:54|[虎嗅](https://rss.huxiu.com/)|[厦门，不只靠老天爷赏饭吃](https://www.huxiu.com/article/2558183.html?f=rss)|
+|2024-01-17 01:03:29|[虎嗅](https://rss.huxiu.com/)|[惩治腐败犯罪，“紧箍咒”更严更紧了](https://www.huxiu.com/article/2557975.html?f=rss)|
+|2024-01-17 01:00:01|[虎嗅](https://rss.huxiu.com/)|[俄罗斯没有能力吃下远东](https://www.huxiu.com/article/2557015.html?f=rss)|
+|2024-01-17 00:59:33|[虎嗅](https://rss.huxiu.com/)|[波音，脱落的舱门](https://www.huxiu.com/article/2558760.html?f=rss)|
+|2024-01-17 00:57:46|[虎嗅](https://rss.huxiu.com/)|[百万年薪金融男失业后，被嫌弃的一年](https://www.huxiu.com/article/2556991.html?f=rss)|
+|2024-01-17 00:40:00|[虎嗅](https://rss.huxiu.com/)|[企业困难时，《劳动法》更应找到各方利益平衡点](https://www.huxiu.com/article/2557981.html?f=rss)|
+|2024-01-17 00:34:00|[虎嗅](https://rss.huxiu.com/)|[日经ETF疯狂背后：谁在追高，谁早有布局](https://www.huxiu.com/article/2557978.html?f=rss)|
+|2024-01-17 00:06:00|[虎嗅](https://rss.huxiu.com/)|[这个苹果年度AI应用，为什么活不过一年？](https://www.huxiu.com/article/2557805.html?f=rss)|
+|2024-01-17 00:04:26|[虎嗅](https://rss.huxiu.com/)|[和父亲的关系，决定了女孩的婚恋结局？](https://www.huxiu.com/article/2558737.html?f=rss)|
+|2024-01-17 00:02:00|[虎嗅](https://rss.huxiu.com/)|[精英模板的认领和背离](https://www.huxiu.com/article/2553579.html?f=rss)|
 |2024-01-16 08:06:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[深圳欢乐谷正式开园，“碰撞事故”过山车等12个项目未开放](https://dig.chouti.com/link/41246279)|
 |2024-01-16 13:07:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【汪海林：很多电影人拍了一辈子电影，仍不知道观众喜欢什么】《战狼2》出来时整个电影界是失语的，无法分析这部片子，不能理解吴京这样一个运动员出身的人为什么能拍出票房这么高的电影。《战狼》《流浪地球》《红海行动》这些电影都赚了钱，他们开始把这解释为“原来贩卖民族主义可以赚钱”，但这是非常浅薄的一种理解。](https://dig.chouti.com/link/41249384)|
 |2024-01-16 14:08:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[第一次这么直观的感受到知识的力量～](https://dig.chouti.com/link/41249960)|
