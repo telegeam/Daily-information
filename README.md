@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-17 10:18:37|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[都说了外面买不到，怎么还有人不信邪啊。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448584&idx=1&sn=f4c297cdcb97d7a4230608022118ccc4)|
+|2024-01-17 06:55:39|[爱范儿](https://www.ifanr.com/feed)|[比亚迪摊牌了！AI 大模型上车，城市领航 Q1 推送，还推出了他们的「iMessage」](https://www.ifanr.com/1573503?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-17 09:53:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[放眼未來：蘋果Vision Pro應用商店震撼上線](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-app-store-unveiled.html)|
+|2024-01-17 09:37:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[不是只有美國！全球等待的 Vision Pro 發佈計畫曝光](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-global-launch-insights.html)|
 |2024-01-17 15:31:27|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[鸿门♂宴](https://masuit.com/2057)|
 |2024-01-17 00:00:01|[Josherich’s Blog](https://www.josherich.me/feed.xml)|[First Christianity in Korea](https://josherich.me/short/korean-christian)|
 |2024-01-17 08:11:15|[机核](https://www.gcores.com/rss)|[SE新作泡沫对战射击游戏《FOAMSTARS》将于2024年2月6日发售](https://www.gcores.com/articles/176377)|
