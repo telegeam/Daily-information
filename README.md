@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-17 04:16:16|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[10 Commonly-Used Combined APIs in Vue3](https://javascript.plainenglish.io/10-commonly-used-combined-apis-in-vue3-e05965e5eadc?source=rss-c3917681a8f5------2)|
+|2024-01-17 04:01:00|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[修复一块 18 年 12 月买的二手 4TB 机械硬盘](https://hellodk.cn/post/1158)|
+|2024-01-17 03:02:42|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[iCloud 在 Windows 下很流氓，用 taskkill 干掉它](https://hellodk.cn/post/1157)|
+|2024-01-17 11:22:30|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[分享 Parch Linux：一个简洁易用的基于 Arch 的发行版](https://linux.cn/article-16565-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-17 07:12:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1249 LG 洗衣机每天上传近 4GB 的数据？](https://linux.cn/article-16564-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-17 13:28:12|[小众软件](https://www.appinn.com/feed/)|[简约翻译 – 自带网页规则的双语对照翻译、字幕翻译、划词翻译、自动翻译插件 Chrome/Firefox/油猴脚本 ](https://www.appinn.com/kiss-translator/)|
+|2024-01-17 07:24:02|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[Ant Engine 开源](https://blog.codingnow.com/2024/01/ant_engine_open_source.html)|
+|2024-01-17 16:04:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[潜望长焦镜头真的是高端手机的发展趋势吗？](https://www.zhihu.com/question/630932088)|
+|2024-01-17 16:04:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[去年全球智能手机出货量同比下降 3.2%，苹果出货量首次超越三星成为全球第一，哪些信息值得关注？](https://www.zhihu.com/question/639838086)|
+|2024-01-17 16:04:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[1 月 17 日晚油价迎新年首跌，加满一箱 92 号汽油将少花 2 元，如何看待此轮油价调整？](https://www.zhihu.com/question/639759779)|
+|2024-01-17 16:04:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有什么「看起来超有仪式感，实则做法很简单」的团圆年菜？](https://www.zhihu.com/question/638174901)|
+|2024-01-17 16:04:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[热播剧《繁花》男主感染的甲肝，曾于上海爆发 30 万病例感染，甲肝是一种怎样的传染病？](https://www.zhihu.com/question/639802072)|
+|2024-01-17 16:04:05|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国台办回应大陆是否会全面终止 ECFA，称正研究进一步采取「中止部分产品关税减让」等措施，意味着什么？](https://www.zhihu.com/question/639906586)|
 |2024-01-17 10:18:37|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[都说了外面买不到，怎么还有人不信邪啊。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448584&idx=1&sn=f4c297cdcb97d7a4230608022118ccc4)|
 |2024-01-17 06:55:39|[爱范儿](https://www.ifanr.com/feed)|[比亚迪摊牌了！AI 大模型上车，城市领航 Q1 推送，还推出了他们的「iMessage」](https://www.ifanr.com/1573503?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-17 09:53:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[放眼未來：蘋果Vision Pro應用商店震撼上線](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-app-store-unveiled.html)|
