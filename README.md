@@ -2,6 +2,36 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-18 09:57:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[远征墨西哥的中国工厂：在抢劫、偷盗、内斗中寻找希望](https://dig.chouti.com/link/41270931)|
+|2024-01-18 10:08:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一些4chan绘图楼（drawthread）的混搭和玩梗图](https://dig.chouti.com/link/41271290)|
+|2024-01-18 10:01:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网易诉暴雪案今日开庭取消，法院：系原告撤诉](https://dig.chouti.com/link/41271059)|
+|2024-01-18 09:08:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[弟弟说在床底放一条LED灯带看起来会很潮，于是我试了一下，结果看起来像极了小火慢炖。](https://dig.chouti.com/link/41270648)|
+|2024-01-18 09:08:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[狗好大只](https://dig.chouti.com/link/41270696)|
+|2024-01-18 08:13:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[感受一下：同款衣服的上身效果对比](https://dig.chouti.com/link/41269951)|
+|2024-01-18 05:03:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[实探兑付暴风眼中的鼎益丰：诱导投资者转签“数字期权”合同，“三个月后都是上亿身家”](https://dig.chouti.com/link/41267721)|
+|2024-01-18 06:09:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[侃爷Kanye West展示自己新做的钛合金牙套，花了85万美元…](https://dig.chouti.com/link/41268527)|
+|2024-01-18 07:02:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【冰雪游“搓澡热”背后的洗浴行业：搓澡师傅断档，招工困难】兴旺的东北沐浴业，正面临搓澡技师断层现状。“整体上，年轻人干这个的越来越少，基本上都是40岁往上，50多甚至60的都有…搓澡工年龄断层现象全国都很普遍，在扬州也一样。”很多搓澡工表示，年轻人不愿意入行，更愿意选择快递、外卖及短视频等自由度高的行业。](https://dig.chouti.com/link/41269048)|
+|2024-01-18 02:32:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[世界上最优秀的“游戏速通犬”，只比人类纪录慢50秒](https://dig.chouti.com/link/41265985)|
+|2024-01-18 03:01:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[四川雅江探获锂资源近百万吨：亚洲迄今探明最大规模伟晶岩型单体锂矿](https://dig.chouti.com/link/41266181)|
+|2024-01-18 04:12:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我们如何对待动物，AI就如何对待我们？](https://dig.chouti.com/link/41267366)|
+|2024-01-18 05:11:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【巴基斯坦对伊朗境内的恐怖分子营地进行打击】据当地媒体18日报道，巴基斯坦对伊朗境内靠近巴伊边境的俾路支解放军（BLA）和俾路支解放阵线（BLF）营地发动无人机和导弹袭击。此前当地时间1月16日，伊朗军方使用导弹和无人机打击了恐怖组织“正义军”在巴基斯坦境内的两处关键据点。1月17日，巴基斯坦宣布召回驻伊朗大使。](https://dig.chouti.com/link/41267837)|
+|2024-01-18 05:11:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[好的，这边给您发2500的](https://dig.chouti.com/link/41267848)|
+|2024-01-18 03:01:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“90后泥瓦工一家三口15天工期收入4万”，业内公司发声：属于正常现象，但一年最多干九个月](https://dig.chouti.com/link/41266268)|
+|2024-01-18 04:31:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国女子监狱的性侵问题，比男子监狱还要高4倍](https://dig.chouti.com/link/41267437)|
+|2024-01-18 03:02:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国人民银行上海市分行：暂停2024年贺岁纪念币、纪念钞余量兑换工作](https://dig.chouti.com/link/41266366)|
+|2024-01-18 05:17:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【大连人俱乐部，没了】因历史债务无法化解，俱乐部无法正常运营，大连人只能解散。](https://dig.chouti.com/link/41267943)|
+|2024-01-18 03:02:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【疍家人？六祖慧能身世新说】本文依据六祖《坛经》的自述，辅以《南史》《陈书》记载，初步认定六祖慧能为萧梁时期新州刺史卢安兴的后代。六祖“不识文字”，是其先世谋反遭到镇压，为逃避追捕，六祖先世曾以船为家，变身“疍家人”，常年生活在水上。](https://dig.chouti.com/link/41266417)|
+|2024-01-18 03:08:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[留学生的全绿套餐](https://dig.chouti.com/link/41266532)|
+|2024-01-18 03:08:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[蒋劲夫家暴传闻致电视剧无法播出，A股上市公司起诉被驳回，合同显示2017年蒋劲夫一部剧片酬6915万](https://dig.chouti.com/link/41266588)|
+|2024-01-18 03:13:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[卧——槽！！！](https://dig.chouti.com/link/41266677)|
+|2024-01-18 03:12:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【重返月球为何这么难？过度依赖商业航天，NASA正在承受“便宜”的代价】“游隼”号任务失败意味着美国的重返月球计划阶段性受阻，整体计划进程被迫推迟。与阿波罗计划不同，本次登月计划将主要依靠商业力量实现登月，美国官方机构则承担发包方的角色。而此次受挫，凸显出将重返计划全部押注在商业公司上的潜在风险。](https://dig.chouti.com/link/41266636)|
+|2024-01-18 02:02:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一桩源于“柑橘”的死亡事件](https://dig.chouti.com/link/41265618)|
+|2024-01-18 02:02:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【隐藏在西安城中村的白领】徐家庄是西安知名的“白领村”，距地铁三号线仅100米，紧邻高等院校和高新区，周边办公楼林立。低廉的租金，十几块钱就能吃饱的沿街餐馆，吸引了许多上班族入住其中。有人把这里当成“躺平圣地”，有人把它当作在这个城市里的生存起点。](https://dig.chouti.com/link/41265612)|
+|2024-01-18 07:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国全力发展绿色产业，以刺激疲软的经济](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%85%A8%E5%8A%9B%E5%8F%91%E5%B1%95%E7%BB%BF%E8%89%B2%E4%BA%A7%E4%B8%9A-%E4%BB%A5%E5%88%BA%E6%BF%80%E7%96%B2%E8%BD%AF%E7%9A%84%E7%BB%8F%E6%B5%8E-a3a248d1)|
+|2024-01-18 06:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[赖清德称将保持两岸现状，但他的过往令中美都紧张](https://cn.wsj.com/articles/%E8%B5%96%E6%B8%85%E5%BE%B7%E7%A7%B0%E5%B0%86%E4%BF%9D%E6%8C%81%E4%B8%A4%E5%B2%B8%E7%8E%B0%E7%8A%B6-%E4%BD%86%E4%BB%96%E7%9A%84%E8%BF%87%E5%BE%80%E4%BB%A4%E4%B8%AD%E7%BE%8E%E9%83%BD%E7%B4%A7%E5%BC%A0-3972f298)|
+|2024-01-18 01:30:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国实验室绘制出新冠图谱两周后，北京才向世界公布](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%BB%98%E5%88%B6%E5%87%BA%E6%96%B0%E5%86%A0%E5%9B%BE%E8%B0%B1%E4%B8%A4%E5%91%A8%E5%90%8E-%E5%8C%97%E4%BA%AC%E6%89%8D%E5%90%91%E4%B8%96%E7%95%8C%E5%85%AC%E5%B8%83-49f37d5e)|
+|2024-01-18 08:17:52|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[这货是山姆的好还是奥乐齐的好？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653448626&idx=1&sn=183dea6be857da7ec2ac275f0398a2e3)|
+|2024-01-18 06:17:33|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[One picture to understand the synchronization update logic in React source code](https://javascript.plainenglish.io/one-picture-to-understand-the-synchronization-update-logic-in-react-source-code-9ab4bd0859ac?source=rss-c3917681a8f5------2)|
 |2024-01-18 04:39:58|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[观点 博通还没完成对 VMware 客户的“斩除”行动](https://linux.cn/article-16566-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-18 06:44:12|[est の 输入输出](http://feeds.feedburner.com/initiative)|[FastAPI/Starlette 长连接感知断开](https://blog.est.im/2024/stdout-01)|
 |2024-01-18 06:12:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[人走茶涼的收工宴](http://mercurychong.blogspot.com/2024/01/blog-post_17.html)|
