@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-18 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[迈进 Galaxy AI 新时代，三星 Galaxy S24 系列正式发布](https://www.photoworld.com.cn/post/175976)|
+|2024-01-18 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[“DPReview 2023 年度读者选择奖” 结果揭晓，尼康在读者臻选六大奖项中斩获五奖](https://www.photoworld.com.cn/post/175986)|
+|2024-01-18 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[2024 年索尼电影摄影机系列固件升级计划抢先看](https://www.photoworld.com.cn/post/175997)|
+|2024-01-18 13:59:10|[谢乾坤 Kingname](http://www.kingname.info/atom.xml)|[一日一技：next.js如何正确处理跨域问题？](https://www.kingname.info/2024/01/18/nextjs-cors/)|
+|2024-01-18 22:34:48|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[个人信息管理软件 Essential PIM Pro v11.8.1多语言学习版](https://masuit.com/1586)|
+|2024-01-18 16:07:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[全球PC市场终于止跌，AI PC成了“全场的希望”？](https://36kr.com/p/2609613642932100)|
+|2024-01-18 16:07:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[翻到日本网友对比亚迪的评论，我都感觉有些不好意思了](https://36kr.com/p/2609449678173696)|
+|2024-01-18 16:07:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[抖音打快手，腾讯当“奶妈”](https://36kr.com/p/2609836809204994)|
+|2024-01-18 16:07:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2.5 万元的苹果头显值不值？首批测评来了：戴 20 分钟就头疼、虚拟键盘难上手、但确实很“沉浸”](https://36kr.com/p/2608954484290825)|
+|2024-01-18 16:07:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[智氪 日本收复「失落的三十年」，大牛市还能走多久？](https://36kr.com/p/2609601348138243)|
+|2024-01-18 16:07:20|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[这些宣告“跨界储能”的企业，没能跨进2024年 焦点分析](https://36kr.com/p/2601099988990600)|
+|2024-01-18 12:03:10|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《当怪物来敲门》：成年人的黑暗童话，千年树精吞噬小男孩，一部奇幻的治愈之旅！](https://www.ximalaya.com/sound/700640964)|
+|2024-01-18 10:31:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1250 苹果公司首次在全球智能手机市场占据首位](https://linux.cn/article-16567-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-18 09:57:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[远征墨西哥的中国工厂：在抢劫、偷盗、内斗中寻找希望](https://dig.chouti.com/link/41270931)|
 |2024-01-18 10:08:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一些4chan绘图楼（drawthread）的混搭和玩梗图](https://dig.chouti.com/link/41271290)|
 |2024-01-18 10:01:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网易诉暴雪案今日开庭取消，法院：系原告撤诉](https://dig.chouti.com/link/41271059)|
