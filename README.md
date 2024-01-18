@@ -2,6 +2,47 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-18 13:46:34|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ 悬浮捷径 SoftCircle 安卓利器，一键打开万物](https://w2solo.com/topics/4371)|
+|2024-01-18 09:06:33|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[俄罗斯的独立开发者还能通过 Admob 获取收益吗 ？](https://w2solo.com/topics/4370)|
+|2024-01-18 01:39:17|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一个月从开发设计上线的 App 被 App Store 推荐](https://w2solo.com/topics/4367)|
+|2024-01-18 13:48:26|[机核](https://www.gcores.com/rss)|[OMEN暗影精灵10 SLIM 14等新品发布，惠普10代游戏家族新品发布会今日举行](https://www.gcores.com/articles/176443)|
+|2024-01-18 11:17:15|[机核](https://www.gcores.com/rss)|[背包管理自走棋游戏《背包乱斗》将于3月8日发售抢先体验版](https://www.gcores.com/articles/176440)|
+|2024-01-18 11:09:47|[机核](https://www.gcores.com/rss)|[原告撤诉：网易诉暴雪案今日开庭取消](https://www.gcores.com/articles/176441)|
+|2024-01-18 11:00:00|[机核](https://www.gcores.com/rss)|[经典重制RPG《赵云传：云汉腾龙》正式发售Steam，首周68.4元](https://www.gcores.com/articles/176400)|
+|2024-01-18 10:25:13|[机核](https://www.gcores.com/rss)|[用三款酒，踏遍威士忌世界](https://www.gcores.com/articles/176422)|
+|2024-01-18 10:18:34|[机核](https://www.gcores.com/rss)|[《圣兽之王》公布新角色、丰富兵种及培养方法等新情报](https://www.gcores.com/articles/176436)|
+|2024-01-18 10:16:51|[机核](https://www.gcores.com/rss)|[不思凡新作《大雨》解读](https://www.gcores.com/videos/176438)|
+|2024-01-18 09:33:12|[机核](https://www.gcores.com/rss)|[《物语》系列再启动：“Off Season·Monster Season”宣布动画化](https://www.gcores.com/articles/176435)|
+|2024-01-18 09:00:00|[机核](https://www.gcores.com/rss)|[Win掌机到底是给谁玩的？录音笔 VOL.124](https://www.gcores.com/radios/176425)|
+|2024-01-18 08:46:56|[机核](https://www.gcores.com/rss)|[运牛，我亲爱的德式桌游大爹](https://www.gcores.com/articles/176329)|
+|2024-01-18 08:40:52|[机核](https://www.gcores.com/rss)|[2023年国产游戏年度混剪](https://www.gcores.com/videos/176432)|
+|2024-01-18 16:05:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你是从什么时候开始 get 到了运动的快乐？](https://www.zhihu.com/question/640062624)|
+|2024-01-18 16:05:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[1 月 17 日天舟七号货运飞船发射任务取得圆满成功，此次发射将完成哪些任务？](https://www.zhihu.com/question/639935069)|
+|2024-01-18 16:05:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[北约秘书长声称「中国与北约核心原则相悖，正逼近我们」，该言论有哪些可笑之处？如何评价不断扩张的北约？](https://www.zhihu.com/question/640043270)|
+|2024-01-18 16:05:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[HarmonyOS NEXT 鸿蒙星河版亮相，将在 2024 年四季度正式商用，该系统有哪些亮点？](https://www.zhihu.com/question/640082968)|
+|2024-01-18 16:05:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么跑步对缓解焦虑和压力有好处？](https://www.zhihu.com/question/636922827)|
+|2024-01-18 16:05:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么滑雪服要选择亮色？你的雪服是什么颜色的？](https://www.zhihu.com/question/638921488)|
+|2024-01-18 16:05:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[俄方称将在所有领域与朝鲜发展关系，包括「敏感领域」，如何解读？对于当今世界格局将有何影响？](https://www.zhihu.com/question/640045203)|
+|2024-01-18 16:05:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[小孩子想坐大的公交车，但是大的公交车回不了家，给他解释他又听不懂，该怎么办？](https://www.zhihu.com/question/630661777)|
+|2024-01-18 16:05:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[国足 vs 黎巴嫩评分：武磊 6.2 分连续两场全场最低，张琳芃全队最高，如果是你会如何打分？](https://www.zhihu.com/question/639977680)|
+|2024-01-18 16:05:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2 岁女童送医后死亡，身上多处淤青「有遭殴打史」，其父被刑拘，如何评价此事？监护人需承担哪些法律后果？](https://www.zhihu.com/question/640044713)|
+|2024-01-18 16:05:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[被美再列为「恐怖组织」后，也门胡塞武装称对美国货轮发动导弹袭击并命中目标，哪些信息值得关注？](https://www.zhihu.com/question/640035552)|
+|2024-01-18 16:05:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[想让脸上的皮肤跟手一样白，有哪些温和美白的护肤品？](https://www.zhihu.com/question/639595117)|
+|2024-01-18 16:05:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美国国务卿布林肯所乘飞机遭遇「严重故障」，据悉事故飞机为波音 737，哪些信息值得关注？](https://www.zhihu.com/question/640036517)|
+|2024-01-18 16:05:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[正常要求加薪不成，领导给我支招，让我假装要离职提申请，威胁公司，这可行吗？](https://www.zhihu.com/question/639164787)|
+|2024-01-18 16:05:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[云南白药表示「已退出全部二级市场证券投资，今年不再开展相关业务」，哪些信息值得关注？](https://www.zhihu.com/question/639984572)|
+|2024-01-18 16:05:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价比亚迪与大疆合作发布的车载无人机技术？你觉得实用性如何？](https://www.zhihu.com/question/639863820)|
+|2024-01-18 16:05:46|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[抢票「林俊杰」付款变「林子祥」，消费者质疑平台「跳票」，平台否认系统问题并同意退票，哪些信息值得关注？](https://www.zhihu.com/question/640036300)|
+|2024-01-18 13:29:15|[鸟窝](https://colobu.com/atom.xml)|[遍历函数？Go 1.22中隐藏的功能](https://colobu.com/2024/01/18/range-over-func/)|
+|2024-01-18 12:02:04|[小众软件](https://www.appinn.com/feed/)|[最离谱的敲木鱼：没有最扯，只有更扯｜真的可以敲木鱼了](https://www.appinn.com/wooden-fish/)|
+|2024-01-18 09:30:49|[爱范儿](https://www.ifanr.com/feed)|[中国智造的繁花，正在盛开](https://www.ifanr.com/1573598?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-18 16:16:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[傳iPhone 16標配8GB大記憶體、Wi-Fi 6E全面支援](https://www.iphonetaiwan.org/2024/01/iphone-16-upgrades-8gb-wifi-6e-tech.html)|
+|2024-01-18 16:00:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[全新 Apple Watch Black Unity 運動型錶帶 - 團結花開](https://www.iphonetaiwan.org/2024/01/apple-watch-black-unity-fashion.html)|
+|2024-01-18 15:43:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 7「音頻門」集體訴訟和解：最高獲賠349美元](https://www.iphonetaiwan.org/2024/01/iphone-7-audio-issue-settlement.html)|
+|2024-01-18 10:03:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果Vision Pro顛覆你對遊戲的想像！不再受限傳統操作](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-game-revolution.html)|
+|2024-01-18 09:07:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[想換手機又怕損失？iPhone 15 保值率高達全球第一](https://www.iphonetaiwan.org/2024/01/iphone-15-second-hand-market-insights.html)|
+|2024-01-18 08:23:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果修復「LeftoverLocals」GPU漏洞 - 保障數據安全](https://www.iphonetaiwan.org/2024/01/apple-gpu-vulnerability-fix.html)|
+|2024-01-18 03:31:25|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[HIT-SCIR发布首个中文扩词表增量预训练混合专家模型Chinese-Mixtral-8x7B](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812270&idx=1&sn=2b01fb890672094353e5c4785ba685ad)|
 |2024-01-18 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[迈进 Galaxy AI 新时代，三星 Galaxy S24 系列正式发布](https://www.photoworld.com.cn/post/175976)|
 |2024-01-18 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[“DPReview 2023 年度读者选择奖” 结果揭晓，尼康在读者臻选六大奖项中斩获五奖](https://www.photoworld.com.cn/post/175986)|
 |2024-01-18 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[2024 年索尼电影摄影机系列固件升级计划抢先看](https://www.photoworld.com.cn/post/175997)|
