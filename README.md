@@ -1,7 +1,11 @@
-﻿# 每日资讯（2024-01-17）
+﻿# 每日资讯（2024-01-18）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-18 00:59:05|[摄影世界](https://feedx.net/rss/photoworld.xml)|[2024 年 “体育大拜年” 同心县第二届 “鑫月驾校杯” 篮球争霸赛胜利闭幕](https://www.photoworld.com.cn/post/175965)|
+|2024-01-18 01:02:00|[虎嗅](https://rss.huxiu.com/)|[年轻人不爱用信用卡了？](https://www.huxiu.com/article/2561505.html?f=rss)|
+|2024-01-18 00:46:23|[虎嗅](https://rss.huxiu.com/)|[网约车市场有序竞争需突破流量卡口](https://www.huxiu.com/article/2562005.html?f=rss)|
+|2024-01-18 00:21:00|[虎嗅](https://rss.huxiu.com/)|[当重刑或许带不来正义，法律该如何是好？](https://www.huxiu.com/article/2562008.html?f=rss)|
 |2024-01-17 12:05:55|[观人看世界](https://feedpress.me/wx-iwatch1024)|[分享一下今年观人的数据，感谢各位一直陪伴](http://mp.weixin.qq.com/s?__biz=MzI5NDI2NTAxMA%3D%3D&mid=2247489411&idx=1&sn=062dbdf212b9f1e19ebc4f1038d4b687)|
 |2024-01-17 14:24:19|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[建议吕台长冷静](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652893025&idx=1&sn=3a0c1998be335383eebb97d6b6509720)|
 |2024-01-17 15:02:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【性，谎言和大模型】想象一下，一个人将一串提示词输入大模型，大模型为他生成了一张穿着暴露的少女图片；他将这张图喂给了视频生成大模型，于是得到了一个该少女跳舞的视频。随后，他将该视频上传到了成人色情网站上，获得了超高的点击量和超额收益。如果没有足够的AI对齐，上述场景正在成为现实。](https://dig.chouti.com/link/41262270)|
