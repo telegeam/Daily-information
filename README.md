@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-19 04:00:00|[机核](https://www.gcores.com/rss)|[拯救者掌机Legion Go，拯救了些啥？](https://www.gcores.com/articles/176414)|
+|2024-01-19 03:54:06|[机核](https://www.gcores.com/rss)|[《街头霸王6》新追加角色「爱德」“环球游历”片段公布，2024年2月加入游戏](https://www.gcores.com/articles/176458)|
+|2024-01-19 03:11:42|[机核](https://www.gcores.com/rss)|[B站游戏区年度榜单直播节目单公布，《完蛋！我被美女包围了！》DLC预告今日放出](https://www.gcores.com/articles/176456)|
+|2024-01-19 02:59:00|[机核](https://www.gcores.com/rss)|[SE出品，ARPG《圣剑传说 VISIONS of MANA》2024年夏季发售](https://www.gcores.com/articles/176455)|
+|2024-01-19 02:15:00|[机核](https://www.gcores.com/rss)|[《地狱之刃2》定于5月21日发售：Xbox开发者直面会消息汇总](https://www.gcores.com/articles/176454)|
+|2024-01-19 01:56:09|[机核](https://www.gcores.com/rss)|[微软公布首个《夺宝奇兵：古老之圈》实机游玩演示，首发加入XGP](https://www.gcores.com/articles/176453)|
+|2024-01-19 01:33:52|[机核](https://www.gcores.com/rss)|[《上古卷轴OL：黄金大道》现已开启预购，国区售价199元起](https://www.gcores.com/articles/176452)|
+|2024-01-19 02:35:51|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[“超级星期二”临近，特朗普力求早日“铲除”党内初选对手](https://cn.nytimes.com/usa/20240119/trump-haley-super-tuesday/?utm_source=RSS)|
+|2024-01-19 02:33:38|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[特朗普在艾奥瓦州党内初选中赢得压倒性胜利](https://cn.nytimes.com/usa/20240116/trump-wins-iowa/?utm_source=RSS)|
+|2024-01-19 02:53:37|[爱范儿](https://www.ifanr.com/feed)|[「蔚小理问」杀疯了！中国车市的新一轮混战 3 月打响](https://www.ifanr.com/1573716?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-01-19 00:20:37|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/index.xml)|[科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html)|
 |2024-01-18 13:46:34|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ 悬浮捷径 SoftCircle 安卓利器，一键打开万物](https://w2solo.com/topics/4371)|
 |2024-01-18 09:06:33|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[俄罗斯的独立开发者还能通过 Admob 获取收益吗 ？](https://w2solo.com/topics/4370)|
