@@ -2,6 +2,73 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-19 15:00:00|[机核](https://www.gcores.com/rss)|[热点掩盖依然不容错过的遗珠游戏，游戏茶话会Vol.61](https://www.gcores.com/radios/176229)|
+|2024-01-19 12:35:17|[机核](https://www.gcores.com/rss)|[《龙之信条2》中字预告公布！2023 B站游戏区年度榜单发布会游戏内容汇总](https://www.gcores.com/articles/176491)|
+|2024-01-19 11:51:19|[机核](https://www.gcores.com/rss)|[横版动作冒险游戏《笠鬼》正式公开，Steam体验版今日开放](https://www.gcores.com/articles/176497)|
+|2024-01-19 11:32:30|[机核](https://www.gcores.com/rss)|[《潜行者 2: 切尔诺贝利之心》将于2024年9月 5日发售](https://www.gcores.com/articles/176493)|
+|2024-01-19 11:32:17|[机核](https://www.gcores.com/rss)|[《偏差者》PV首曝，确认参加Steam新品节](https://www.gcores.com/articles/176492)|
+|2024-01-19 11:32:17|[机核](https://www.gcores.com/rss)|[废土科幻动作游戏《无限机兵》公布预告片，Steam页面上线](https://www.gcores.com/articles/176490)|
+|2024-01-19 11:19:30|[机核](https://www.gcores.com/rss)|[硬核武侠动作游戏《乂闻录：轮回》公布首个预告，现已上线Steam商城页](https://www.gcores.com/articles/176494)|
+|2024-01-19 11:15:56|[机核](https://www.gcores.com/rss)|[《卧龙》制作人视频讲解“完全版”内容，Steam国区定价公布](https://www.gcores.com/articles/176489)|
+|2024-01-19 10:22:49|[机核](https://www.gcores.com/rss)|[Todd Howard:构思《夺宝奇兵》游戏十年有余，本次新作是梦想成真](https://www.gcores.com/articles/176482)|
+|2024-01-19 09:25:09|[机核](https://www.gcores.com/rss)|[《装甲核心》系列的OP动画品鉴（上）](https://www.gcores.com/articles/176099)|
+|2024-01-19 09:00:00|[机核](https://www.gcores.com/rss)|[老ASS都爱《铁血联盟》，录音笔 VOL.125](https://www.gcores.com/radios/176434)|
+|2024-01-19 08:49:41|[机核](https://www.gcores.com/rss)|[历史向战棋游戏《领主争锋》正式发售，折后售价64.6元](https://www.gcores.com/articles/176474)|
+|2024-01-19 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图216期:打起精神，准备出门](https://www.gcores.com/articles/172759)|
+|2024-01-19 07:40:25|[机核](https://www.gcores.com/rss)|[光荣特库摩将在上海开设官方周边店](https://www.gcores.com/articles/176475)|
+|2024-01-19 06:43:39|[机核](https://www.gcores.com/rss)|[末日来临，科幻城建题材《耀斑纪元》今日发售](https://www.gcores.com/articles/176470)|
+|2024-01-19 06:32:52|[机核](https://www.gcores.com/rss)|[大明历史题材解谜AVG游戏《锦鱼图》PC端今日推出](https://www.gcores.com/articles/176469)|
+|2024-01-19 06:25:32|[机核](https://www.gcores.com/rss)|[水墨风动作肉鸽《墨境》现已在Steam平台推出试玩Demo](https://www.gcores.com/articles/176468)|
+|2024-01-19 06:19:59|[机核](https://www.gcores.com/rss)|[《海狸浮生记》推出第五弹更新，新的挑战「恶水」来袭](https://www.gcores.com/articles/176466)|
+|2024-01-19 05:42:27|[机核](https://www.gcores.com/rss)|[与游戏本体同天发售：《女神异闻录3 Reload》公布DLC内容](https://www.gcores.com/articles/176465)|
+|2024-01-19 05:00:00|[机核](https://www.gcores.com/rss)|[BNGD《铁拳7》三岛平八体验](https://www.gcores.com/videos/172820)|
+|2024-01-19 16:05:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[拼多多不得不克制](https://36kr.com/p/2610768127007105)|
+|2024-01-19 16:05:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[1TB手机白菜价，安迪·比尔定律再次被验证了？](https://36kr.com/p/2610138077175938)|
+|2024-01-19 16:05:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[对不起，我不买保时捷了](https://36kr.com/p/2611034448910466)|
+|2024-01-19 16:05:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国工厂远征墨西哥，在抢劫、偷盗、内斗中寻找希望｜深氪](https://36kr.com/p/2609512265741825)|
+|2024-01-19 16:05:44|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“蔚小理问”杀疯了，中国车市的新一轮混战 3 月打响](https://36kr.com/p/2611021702617224)|
+|2024-01-19 07:12:15|[Dawner](https://dawner.top/atom.xml)|[两种图片压缩方案](https://dawner.top/posts/two-image-compression-solutions/)|
+|2024-01-19 16:04:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[文笔挑战:「 生命是一场盛大的腐烂，……」。你如何接下一句?](https://www.zhihu.com/question/640074013)|
+|2024-01-19 16:04:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[给长辈选什么新年礼物，实用又讨喜还能直接送到心坎儿里？](https://www.zhihu.com/question/634394543)|
+|2024-01-19 16:04:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[30 个中国汽车品牌蜂拥入俄，中国车企拿下俄罗斯近半市场份额，哪些信息值得关注？](https://www.zhihu.com/question/640093660)|
+|2024-01-19 16:04:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[投资人透露被「鼎益丰」业务员套路细节，有人抵押几套房产投入千万，有哪些信息值得关注？](https://www.zhihu.com/question/640179617)|
+|2024-01-19 16:04:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[千元内的独立显卡是不是被逐步放弃了？](https://www.zhihu.com/question/639675476)|
+|2024-01-19 16:04:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么历史上中国境内许多大学要去掉「国立」二字？](https://www.zhihu.com/question/639713074)|
+|2024-01-19 16:04:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我国发现新矿物「倪培石」，具有怎样的科学价值？未来可应用于哪些领域？](https://www.zhihu.com/question/640190521)|
+|2024-01-19 16:04:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[职场中面对领导的批评和指责可以辩解吗？无条件的服从领导真的是一条职场中不能打破的潜规则吗？](https://www.zhihu.com/question/640071295)|
+|2024-01-19 16:04:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[乌外长称将安排中乌领导人通话，外交部回应「没有可提供的信息」，乌方近来频繁提及中国，哪些信息值得关注？](https://www.zhihu.com/question/640244746)|
+|2024-01-19 16:04:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[调研报告剖析为何年轻人不愿意种地，指出「种粮一年收入不如外出打工一月」，反映出哪些问题？](https://www.zhihu.com/question/640194768)|
+|2024-01-19 16:04:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「国家工程师奖」表彰大会举行，81 名个人 50 个团队获表彰，哪些信息值得关注？](https://www.zhihu.com/question/640190367)|
+|2024-01-19 16:04:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[永奥集团 80 多家汽车 4S 店爆雷，店内存车被拖走，交钱没提车的准车主怎么办？](https://www.zhihu.com/question/640066227)|
+|2024-01-19 16:04:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[卡塔尔亚洲杯，国足最后一轮对阵卡塔尔，如果你是主教练，面对取胜就出线的形势，你会如何排兵布阵？](https://www.zhihu.com/question/640084819)|
+|2024-01-19 16:04:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[报道称朝鲜进行了水下核武器系统试验，有哪些信息值得关注？](https://www.zhihu.com/question/640188646)|
+|2024-01-19 16:04:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[下属是能力重要还是人品重要？](https://www.zhihu.com/question/640071307)|
+|2024-01-19 16:04:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我国在四川雅江探获锂资源近百万吨，是亚洲迄今探明最大规模伟晶岩型单体锂矿，将带来哪些影响？](https://www.zhihu.com/question/640088983)|
+|2024-01-19 16:04:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[过年不在家一个多月如何安置小猫咪呢？](https://www.zhihu.com/question/639334248)|
+|2024-01-19 16:04:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在职场中该如何区分「PUA」和「真心为我好」？](https://www.zhihu.com/question/640071290)|
+|2024-01-19 16:04:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[骑自行车的好处之一是可以实现代步和运动，但这种运动量是不是很有限？](https://www.zhihu.com/question/638758502)|
+|2024-01-19 16:04:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《崩坏：星穹铁道》千星纪游 PV：「永火一夜：第 33 场」？](https://www.zhihu.com/question/640199550)|
+|2024-01-19 16:04:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[宁夏银川发布通告，「春节特定时段可有序燃放烟花爆竹」，哪些信息值得关注？](https://www.zhihu.com/question/640211033)|
+|2024-01-19 16:04:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果你是管理者，你能接受比你能力强的下属吗？](https://www.zhihu.com/question/640072275)|
+|2024-01-19 16:04:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 年还能等得到 LCD 屏的旗舰机吗？](https://www.zhihu.com/question/635721784)|
+|2024-01-19 16:04:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[北约将举行数十年来最大规模演习，约 9 万名士兵将参加，释放出什么信号？会产生哪些影响？](https://www.zhihu.com/question/640178681)|
+|2024-01-19 16:04:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[安徽春晚小品跳「科目三」引争议，导演回应「老梗新梗，用得恰当就是好梗」，如何评价此事？](https://www.zhihu.com/question/640181559)|
+|2024-01-19 16:04:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[减肥是在家里运动减肥还是应该去健身房系统减肥呢？](https://www.zhihu.com/question/639962678)|
+|2024-01-19 16:04:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《繁花》中雪芝为什么最后对阿宝撒谎说自己有人了？](https://www.zhihu.com/question/638916590)|
+|2024-01-19 16:04:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些你过了很久之后才真正明白的道理？](https://www.zhihu.com/question/479342111)|
+|2024-01-19 16:04:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么说游泳是一项孤独的运动，大家游泳时脑子里会想啥呢？](https://www.zhihu.com/question/639912695)|
+|2024-01-19 16:04:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[年货节适合买家电吗？有没有推荐？](https://www.zhihu.com/question/640086533)|
+|2024-01-19 16:04:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[职场中，「老实」是个缺点吗？](https://www.zhihu.com/question/640071294)|
+|2024-01-19 16:04:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何分辨一个人是情绪稳定还是情感冷漠？](https://www.zhihu.com/question/615326700)|
+|2024-01-19 16:04:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你心目中的体验 top1 机场是哪家？为什么？](https://www.zhihu.com/question/640078978)|
+|2024-01-19 16:04:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 2024 年 1 月米哈游《原神》4.4 前瞻直播？](https://www.zhihu.com/question/640202299)|
+|2024-01-19 16:04:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[因「改过自新可能性很低」，日本首例特定未成年人被判死刑，如何评价？对我国未成年人犯罪有何借鉴意义？](https://www.zhihu.com/question/640220817)|
+|2024-01-19 16:04:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《知否》明兰拼死送血诏立了大功，为什么顾廷烨在皇帝面前对此却只字未提？](https://www.zhihu.com/question/640000296)|
+|2024-01-19 16:04:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[胡塞武装高官称「中俄等国船只可安全通过红海，不会受威胁」，哪些信息值得关注？](https://www.zhihu.com/question/640218017)|
+|2024-01-19 16:04:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何理解心理学教授蔺秀云分享的「淡化原生家庭负面影响，可以多尝试『认知行为疗法』」？](https://www.zhihu.com/question/639789038)|
+|2024-01-19 16:04:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价郭富城新片《临时劫案》？](https://www.zhihu.com/question/508412540)|
+|2024-01-19 16:04:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你们觉得一个人最大的底气是什么？](https://www.zhihu.com/question/639990689)|
+|2024-01-19 10:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[为何说印度很难成为下一个中国？](https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E8%AF%B4%E5%8D%B0%E5%BA%A6%E5%BE%88%E9%9A%BE%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD-4264820c)|
 |2024-01-19 14:15:30|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[技术 free 命令示例](https://linux.cn/article-16570-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-19 11:56:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1251 ChatGPT 几乎没有提升必应搜索市场份额](https://linux.cn/article-16569-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-19 09:54:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 Ubuntu 24.04 LTS 将获得长达 12 年的更新支持](https://linux.cn/article-16568-1.html?utm_source=rss&utm_medium=rss)|
