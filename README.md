@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-01-18）
+﻿# 每日资讯（2024-01-19）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-19 00:20:37|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/index.xml)|[科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html)|
 |2024-01-18 13:46:34|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ 悬浮捷径 SoftCircle 安卓利器，一键打开万物](https://w2solo.com/topics/4371)|
 |2024-01-18 09:06:33|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[俄罗斯的独立开发者还能通过 Admob 获取收益吗 ？](https://w2solo.com/topics/4370)|
 |2024-01-18 01:39:17|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一个月从开发设计上线的 App 被 App Store 推荐](https://w2solo.com/topics/4367)|
