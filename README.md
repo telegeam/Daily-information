@@ -1,7 +1,14 @@
-﻿# 每日资讯（2024-01-19）
+﻿# 每日资讯（2024-01-20）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-20 01:00:58|[爱范儿](https://www.ifanr.com/feed)|[iPhone16 将新增拍照按钮/支付宝发布新 logo/网易被曝大规模裁员，内部人士回应](https://www.ifanr.com/1573845?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-20 01:00:00|[虎嗅](https://rss.huxiu.com/)|[哈尔滨营销过度？从课本到网红，中国城市营销发展史](https://www.huxiu.com/article/2567713.html?f=rss)|
+|2024-01-20 00:45:00|[虎嗅](https://rss.huxiu.com/)|[985学子升学率涨势喜人](https://www.huxiu.com/article/2569467.html?f=rss)|
+|2024-01-20 00:36:59|[虎嗅](https://rss.huxiu.com/)|[中国正式步入中度老龄社会，专家：发展银发经济需抓住“两大引擎”](https://www.huxiu.com/article/2569469.html?f=rss)|
+|2024-01-20 00:35:30|[虎嗅](https://rss.huxiu.com/)|[防止薄弱地区教师流失，不能仅靠禁令](https://www.huxiu.com/article/2569464.html?f=rss)|
+|2024-01-20 00:22:00|[虎嗅](https://rss.huxiu.com/)|[王健林已经卖掉了10座万达广场，还在卖](https://www.huxiu.com/article/2569451.html?f=rss)|
+|2024-01-20 00:01:57|[虎嗅](https://rss.huxiu.com/)|[刘邦与项羽：不以成败论英雄](https://www.huxiu.com/article/2570025.html?f=rss)|
 |2024-01-19 15:00:00|[机核](https://www.gcores.com/rss)|[热点掩盖依然不容错过的遗珠游戏，游戏茶话会Vol.61](https://www.gcores.com/radios/176229)|
 |2024-01-19 12:35:17|[机核](https://www.gcores.com/rss)|[《龙之信条2》中字预告公布！2023 B站游戏区年度榜单发布会游戏内容汇总](https://www.gcores.com/articles/176491)|
 |2024-01-19 11:51:19|[机核](https://www.gcores.com/rss)|[横版动作冒险游戏《笠鬼》正式公开，Steam体验版今日开放](https://www.gcores.com/articles/176497)|
