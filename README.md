@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-20 10:55:39|[小众软件](https://www.appinn.com/feed/)|[刮削是什么？](https://www.appinn.com/what-is-scraper/)|
 |2024-01-20 05:34:37|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[Interface type assertion fails due to a Golang Pointer Receiver](https://www.edony.ink/en/pointer-receiver-related-interface-type-assertion-failure/)|
 |2024-01-20 02:18:20|[whyes 的博客](https://whyes.org/feed.xml)|[局部晚期肝癌：TACE 基础上联合度伐利尤单抗+贝伐珠单抗推迟肿瘤进展 #GI24](http://whyes.org/2024/emerald-1-hcc-tace-durvalumab-bevacizumab)|
 |2024-01-20 10:31:38|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[What exactly is javascript:void 0 used for?](https://javascript.plainenglish.io/what-exactly-is-javascript-void-0-used-for-9f69dfabd23c?source=rss-c3917681a8f5------2)|
