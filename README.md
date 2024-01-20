@@ -2,6 +2,54 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-20 11:53:38|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1252 扎克伯格的新目标是创造人工通用智能](https://linux.cn/article-16571-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-20 13:13:31|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[11 Common Interview Knowledge Points About WebSocket](https://javascript.plainenglish.io/11-common-interview-knowledge-points-about-websocket-b90f68aacd7e?source=rss-c3917681a8f5------2)|
+|2024-01-20 16:03:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[坦白地讲，你去哪里旅行后对这个地方「祛魅」了？](https://www.zhihu.com/question/640054839)|
+|2024-01-20 16:03:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[布莱泽奥特曼大结局了，大家有没有什么想说的？](https://www.zhihu.com/question/640373918)|
+|2024-01-20 16:03:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何用「哈基米」、「i 人」、「多巴胺」、「遥遥领先」造句？](https://www.zhihu.com/question/636134311)|
+|2024-01-20 16:03:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[又到一年春节送礼， 有没有什么年货推荐？](https://www.zhihu.com/question/438127656)|
+|2024-01-20 16:03:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在香港旅行的真实体验是什么？](https://www.zhihu.com/question/638918742)|
+|2024-01-20 16:03:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[出差跟领导一起住是什么样的体验？](https://www.zhihu.com/question/55490206)|
+|2024-01-20 16:03:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 Fly 离开重庆狼队？](https://www.zhihu.com/question/640202224)|
+|2024-01-20 16:03:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[冰糖的配料是白砂糖，为什么家里人都说冰糖比白糖好呢？](https://www.zhihu.com/question/574955927)|
+|2024-01-20 16:03:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[错怪孩子需要道歉吗?](https://www.zhihu.com/question/639749626)|
+|2024-01-20 16:03:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[证监会表示「坚决防止『一退了之』，即使退市也要坚决追责」，将起到哪些警示作用？还有哪些信息值得关注？](https://www.zhihu.com/question/640259821)|
+|2024-01-20 16:03:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 掘金 102:100 凯尔特人，如何评价这场比赛？](https://www.zhihu.com/question/640357098)|
+|2024-01-20 16:03:20|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么 pH 不用 dB 作为单位？](https://www.zhihu.com/question/639579283)|
+|2024-01-20 16:03:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价综艺《声生不息·家年华》第八期？](https://www.zhihu.com/question/640373192)|
+|2024-01-20 16:03:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你觉得怎样的教育对孩子最重要？](https://www.zhihu.com/question/606344109)|
+|2024-01-20 16:03:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价游戏《幻兽帕鲁》?](https://www.zhihu.com/question/640146006)|
+|2024-01-20 16:03:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[鸿蒙生态迎「关键一战」，多家头部企业宣布「启动鸿蒙原生应用开发」，你看好鸿蒙系统走向「独立」吗？](https://www.zhihu.com/question/639562245)|
+|2024-01-20 16:03:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[是什么让你突然有了学习的欲望？](https://www.zhihu.com/question/369033564)|
+|2024-01-20 16:03:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[广州市小客车指标调控「放宽申请条件，提高『久摇不中』群体中签率」，如何评价这一举措？](https://www.zhihu.com/question/640252038)|
+|2024-01-20 16:03:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价综艺《快乐老友记》第十二期？](https://www.zhihu.com/question/640220565)|
+|2024-01-20 16:03:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 年首场寒潮强势来袭，1 月 21 日起南方多地或开启「暴雪模式」，此次强度如何？应如何防御？](https://www.zhihu.com/question/640445858)|
+|2024-01-20 16:03:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[听说有一门技术叫 Windows 批处理（bat），请问它有什么现实用途？](https://www.zhihu.com/question/333433046)|
+|2024-01-20 16:03:19|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[可以看看大家的猫儿，在家平时都是什么样子的吗？](https://www.zhihu.com/question/611324104)|
+|2024-01-20 16:03:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你平常的快乐来源是什么？可以分享一下特别快乐的经历吗？](https://www.zhihu.com/question/640365817)|
+|2024-01-20 16:03:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[毕业以后你的观察，人与人的成长速度，是如何拉开差距的？](https://www.zhihu.com/question/638891401)|
+|2024-01-20 16:03:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[欧盟外长称「为分裂巴勒斯坦人，以色列曾资助哈马斯」，博雷利为何有此公开言论？表露了什么？](https://www.zhihu.com/question/640401954)|
+|2024-01-20 16:03:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[嘉兴一新能源车充电时爆燃，车辆烧成空壳，现场无人员伤亡，事故原因可能是什么？新能源车充电有何注意事项？](https://www.zhihu.com/question/640425893)|
+|2024-01-20 16:03:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[官方「支持高校参照本科生 4 人间、研究生 2 人间、博士生 1 人间建宿舍」，你觉得这种规划如何？](https://www.zhihu.com/question/640181986)|
+|2024-01-20 16:03:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[江苏武进一企业因粉尘爆炸致 8 死 8 伤，哪些信息值得关注？](https://www.zhihu.com/question/640383620)|
+|2024-01-20 16:03:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[瑞幸将联手茅台将再推新品，用户会继续买单吗？如何从商业角度解读这次合作？](https://www.zhihu.com/question/640307717)|
+|2024-01-20 16:03:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么学完《曹刿论战》后我感觉春秋战国打仗很简单?](https://www.zhihu.com/question/638629725)|
+|2024-01-20 16:03:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2023 年全国十大自然灾害发布，其中哪些信息值得关注？](https://www.zhihu.com/question/640370852)|
+|2024-01-20 16:03:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[怎么才能让自己不内耗呢？](https://www.zhihu.com/question/640157006)|
+|2024-01-20 16:03:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[旅途中你有没有专程去打卡过一个「仅对自己有特殊意义」的地点？](https://www.zhihu.com/question/640078878)|
+|2024-01-20 16:03:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[卡塔尔亚洲杯约旦 2:2 韩国，孙兴慜造点 + 勺子点球，双方互送乌龙，如何评价这场比赛？](https://www.zhihu.com/question/640466594)|
+|2024-01-20 16:03:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价杨紫、范丞丞主演的电视剧《要久久爱》？](https://www.zhihu.com/question/640447972)|
+|2024-01-20 16:03:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有什么超级好看的漫画推荐！？](https://www.zhihu.com/question/355871685)|
+|2024-01-20 16:03:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[春运火车票加大优惠力度，普速最低两折，动车最低三折，将带来哪些影响？](https://www.zhihu.com/question/640203470)|
+|2024-01-20 16:03:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[1 月 19 日晚苹果 Vision Pro 开启预售，售价约 2.5 万元，该产品使用体验如何？你会买吗？](https://www.zhihu.com/question/640322086)|
+|2024-01-20 16:03:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[网红辛巴称最应该给孩子吃预制菜，如何评价这一言论？什么是预制菜？对健康有什么影响？](https://www.zhihu.com/question/640407265)|
+|2024-01-20 16:03:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[知名打假人王海举报小杨哥带货假五常大米「以次充好」，具体情况如何？](https://www.zhihu.com/question/640356946)|
+|2024-01-20 10:09:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[介绍说他是机关堂的时候我还在等他介绍脚上的机关](https://dig.chouti.com/link/41292053)|
+|2024-01-20 11:08:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[俄罗斯海军北风之神级弹道导弹核潜艇的船员们在北极附近庆祝耶稣的洗礼。官兵们纷纷脱掉衣服，在冰冷的海水中侵泡一下。](https://dig.chouti.com/link/41292380)|
+|2024-01-20 12:01:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[NTP（网络时间协议）发明人大卫・米尔斯逝世：享年85岁，为数十亿台设备管理时间](https://dig.chouti.com/link/41292617)|
+|2024-01-20 12:01:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[科学家制成迄今最轻快全功能机器人：以昆虫为模型，轻至8毫克](https://dig.chouti.com/link/41292712)|
+|2024-01-20 12:10:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[岛国推主zoukeijyoshi和女儿玩捉迷藏时发现了伪装成花朵的女儿](https://dig.chouti.com/link/41292892)|
+|2024-01-20 13:09:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[兵库县姬路中央公园里的小水豚宝宝，傻乎乎的被敲了好多次脑袋还倔强地站在那里。 twi:yu](https://dig.chouti.com/link/41293165)|
 |2024-01-20 10:55:39|[小众软件](https://www.appinn.com/feed/)|[刮削是什么？](https://www.appinn.com/what-is-scraper/)|
 |2024-01-20 05:34:37|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[Interface type assertion fails due to a Golang Pointer Receiver](https://www.edony.ink/en/pointer-receiver-related-interface-type-assertion-failure/)|
 |2024-01-20 02:18:20|[whyes 的博客](https://whyes.org/feed.xml)|[局部晚期肝癌：TACE 基础上联合度伐利尤单抗+贝伐珠单抗推迟肿瘤进展 #GI24](http://whyes.org/2024/emerald-1-hcc-tace-durvalumab-bevacizumab)|
