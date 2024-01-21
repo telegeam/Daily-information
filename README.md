@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-21 12:42:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1253 海尔要求开发者下架开源的家庭助理插件](https://linux.cn/article-16573-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-21 10:47:00|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[软件开发 Git 提交是差异、快照还是历史记录？](https://linux.cn/article-16572-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-21 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 175 期（2024.01.22）](https://www.ftium4.com/ux-weekly-175.html)|
+|2024-01-21 12:57:44|[白宦成](https://www.ixiqin.com/feed/)|[《非线性成长》书摘](https://www.ixiqin.com/2024/01/21/recommendation-language/)|
+|2024-01-21 15:29:28|[机核](https://www.gcores.com/rss)|[夏之禹《YOUNG FRESH CHIN2》——2010年以后最好的中文说唱专辑](https://www.gcores.com/articles/176551)|
+|2024-01-21 15:00:00|[机核](https://www.gcores.com/rss)|[银河与城Vol.1](https://www.gcores.com/radios/176483)|
+|2024-01-21 09:25:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Vision Pro 能從美國購買帶回台灣使用嗎？](https://www.iphonetaiwan.org/2024/01/buy-apple-vision-pro-taiwan-guide.html)|
+|2024-01-21 08:50:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Vision Pro技術規格：M2/1TB/16GB/100Hz和藍牙5.3](https://www.iphonetaiwan.org/2024/01/apple-vision-pro-revolutionary-headset.html)|
+|2024-01-21 08:27:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果和亞馬遜是企業債務最高的科技公司](https://www.iphonetaiwan.org/2024/01/amazon-apple-tech-debt-showdown.html)|
+|2024-01-21 07:56:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果韓國弘大店盛大開業！探索最新科技體驗之旅](https://www.iphonetaiwan.org/2024/01/apple-hongdae-grand-opening-and-education-deals.html)|
 |2024-01-21 07:09:47|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[Leetcode 25 Reverse Nodes in k-Group 题解分析-再解分析](https://nicksxs.me/2024/01/21/Leetcode-25-Reverse-Nodes-in-k-Group-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/)|
 |2024-01-21 02:52:44|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[聊一下 Java 的日志系列三](https://nicksxs.me/2024/01/21/%E8%81%8A%E4%B8%80%E4%B8%8B-Java-%E7%9A%84%E6%97%A5%E5%BF%97%E7%B3%BB%E5%88%97%E4%B8%89/)|
 |2024-01-21 11:14:40|[空城记](https://shinekid.com/feed/)|[排除某个指定域名不走Clash of Windows代理](https://shinekid.com/2024/01/setting-of-clash-for-windows/)|
