@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-21 03:30:00|[机核](https://www.gcores.com/rss)|[在大学里，用最低成本翻拍gta6预告片](https://www.gcores.com/videos/176531)|
+|2024-01-21 10:26:00|[plus studio](https://studyinglover.com/atom.xml)|[fastapi集成google auth登录](https://studyinglover.com/2024/01/21/fastapi%E9%9B%86%E6%88%90google%20auth%E7%99%BB%E5%BD%95/)|
 |2024-01-21 01:12:57|[虎嗅](https://rss.huxiu.com/)|[江西，疯狂加速“散装式发展”](https://www.huxiu.com/article/2574944.html?f=rss)|
 |2024-01-21 00:01:38|[虎嗅](https://rss.huxiu.com/)|[3.5分餐厅被年轻人挤爆，失真的评分系统正在被“抛弃”？](https://www.huxiu.com/article/2574491.html?f=rss)|
 |2024-01-20 11:53:38|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1252 扎克伯格的新目标是创造人工通用智能](https://linux.cn/article-16571-1.html?utm_source=rss&utm_medium=rss)|
