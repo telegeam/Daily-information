@@ -2,6 +2,14 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-21 07:09:47|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[Leetcode 25 Reverse Nodes in k-Group 题解分析-再解分析](https://nicksxs.me/2024/01/21/Leetcode-25-Reverse-Nodes-in-k-Group-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/)|
+|2024-01-21 02:52:44|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[聊一下 Java 的日志系列三](https://nicksxs.me/2024/01/21/%E8%81%8A%E4%B8%80%E4%B8%8B-Java-%E7%9A%84%E6%97%A5%E5%BF%97%E7%B3%BB%E5%88%97%E4%B8%89/)|
+|2024-01-21 11:14:40|[空城记](https://shinekid.com/feed/)|[排除某个指定域名不走Clash of Windows代理](https://shinekid.com/2024/01/setting-of-clash-for-windows/)|
+|2024-01-21 10:10:56|[机核](https://www.gcores.com/rss)|[下周节目预告 1.22~1.28](https://www.gcores.com/articles/176546)|
+|2024-01-21 10:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#281：《暗影狂奔：归来》](https://www.gcores.com/articles/176524)|
+|2024-01-21 08:34:56|[机核](https://www.gcores.com/rss)|[天天卡牌创始人刘欣宇 全身瘫痪B站百大up主](https://www.gcores.com/videos/176541)|
+|2024-01-21 06:51:14|[太隐](https://wangyurui.com/feed.xml)|[棱镜通讯 No.106 Daniel Bell](https://wangyurui.com/posts/leng-jing-tong-xun-no-106-daniel-bell-2d32b370)|
+|2024-01-21 06:09:00|[太隐](https://wangyurui.com/feed.xml)|[我思故我在](https://wangyurui.com/posts/wo-si-gu-wo-zai-9f4374ba)|
 |2024-01-21 06:51:16|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[利用 Cloudflare Worker 搭建自定义的 Memos WebHook Service](https://www.edony.ink/customize-memos-webhook-service-with-cf-worker/)|
 |2024-01-21 08:11:41|[小众软件](https://www.appinn.com/feed/)|[Spotube – 开源、跨平台 Spotify 客户端，无需 Premium 账号，也没有使用 Electron](https://www.appinn.com/spotube/)|
 |2024-01-21 14:43:34|[程序员的喵](https://catcoding.me/atom.xml)|[Copilot，最好的编程助手](http://catcoding.me/p/copilot-for-programming/)|
