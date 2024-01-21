@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-01-20）
+﻿# 每日资讯（2024-01-21）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-21 01:12:57|[虎嗅](https://rss.huxiu.com/)|[江西，疯狂加速“散装式发展”](https://www.huxiu.com/article/2574944.html?f=rss)|
+|2024-01-21 00:01:38|[虎嗅](https://rss.huxiu.com/)|[3.5分餐厅被年轻人挤爆，失真的评分系统正在被“抛弃”？](https://www.huxiu.com/article/2574491.html?f=rss)|
 |2024-01-20 11:53:38|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1252 扎克伯格的新目标是创造人工通用智能](https://linux.cn/article-16571-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-20 13:13:31|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[11 Common Interview Knowledge Points About WebSocket](https://javascript.plainenglish.io/11-common-interview-knowledge-points-about-websocket-b90f68aacd7e?source=rss-c3917681a8f5------2)|
 |2024-01-20 16:03:21|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[坦白地讲，你去哪里旅行后对这个地方「祛魅」了？](https://www.zhihu.com/question/640054839)|
