@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-22 08:46:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1254 得益于人工智能驱动的狂热，标普 500 指数创历史新高](https://linux.cn/article-16576-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-22 06:45:54|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 曾经，Lotus Notes 几乎能满足公司的一切需求](https://linux.cn/article-16575-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-22 10:36:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ 开源 ChatAir：使用 Telegram 修改的 OpenAI 和 Gemini 的 Android 原生客户端](https://w2solo.com/topics/4382)|
+|2024-01-22 08:38:45|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【独立开发前线】Vol.003 如何找到好的独立开发创意](https://w2solo.com/topics/4381)|
+|2024-01-22 06:54:03|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Agile Query 数据分析实践](https://w2solo.com/topics/4380)|
+|2024-01-22 10:13:12|[机核](https://www.gcores.com/rss)|[无论未来成功与否，《幻兽帕鲁》都已留下浓墨重彩的一笔](https://www.gcores.com/articles/176578)|
 |2024-01-22 03:40:31|[王登科-DK博客](https://greatdk.com/feed)|[哄哄模拟器的完整复盘，火了，但一度让我很发愁](https://greatdk.com/1962.html)|
 |2024-01-22 07:15:09|[小众软件](https://www.appinn.com/feed/)|[7+ Taskbar Numberer – 为 Windows 任务栏添加数字快捷键，适合语音识别与快捷键用户](https://www.appinn.com/7-taskbar-numberer/)|
 |2024-01-22 04:01:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[哪两句毫不相干的诗句但拼接在一起却天衣无缝?](https://www.zhihu.com/question/639537531)|
