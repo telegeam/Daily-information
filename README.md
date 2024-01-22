@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-22 04:04:00|[机核](https://www.gcores.com/rss)|[TIGGER×Ado，乐天巧克力60周年纪念广告公开](https://www.gcores.com/articles/176563)|
+|2024-01-22 02:03:01|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[桌面应用 使用 Kate 编写文档](https://linux.cn/article-16574-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-22 04:03:45|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[炒到 10 万元一台，苹果 Vision Pro 到底牛在哪里？](https://36kr.com/p/2613935785744515)|
+|2024-01-22 04:03:45|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[败走中国多年，三星实现谷底反弹为何这么难？](https://36kr.com/p/2613000413257865)|
+|2024-01-22 04:03:45|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国公司全球化周报 ​字节跳动加速将TikTok员工迁至海外 / 比亚迪进军印尼，投资13亿美元建设产能15万辆汽车的工厂](https://36kr.com/p/2611528237602951)|
+|2024-01-22 04:03:45|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[本周硅谷发生了什么？｜Llama3训练中；三星首款AI系列手机发布；智谱推出大模型GLM-4](https://36kr.com/p/2614153999653251)|
+|2024-01-22 04:03:45|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[巴斯夫湛江一体化基地新装置投产，2025年将实现100%绿电供应｜最前线](https://36kr.com/p/2613215024421253)|
+|2024-01-22 00:51:09|[爱范儿](https://www.ifanr.com/feed)|[早报 雷军称小米汽车性能媲美百万级豪车/苹果 Vision Pro 被炒到 9 万，仍面临挑战/《王者荣耀》抖音直播已全面开放](https://www.ifanr.com/1573957?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-01-22 03:21:00|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[第二十三届中国计算语言学大会（CCL 2024）征稿启事](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812341&idx=1&sn=27cc74874099f65523b1733c915bb486)|
+|2024-01-22 03:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/3](https://weekly.pychina.org/pyrecap/pyrw-2403.html)|
 |2024-01-22 01:00:00|[虎嗅](https://rss.huxiu.com/)|[退休的中国中产，在美国当按摩师](https://www.huxiu.com/article/2576438.html?f=rss)|
 |2024-01-22 00:49:03|[虎嗅](https://rss.huxiu.com/)|[薇娅不再隐身](https://www.huxiu.com/article/2577784.html?f=rss)|
 |2024-01-22 00:44:49|[虎嗅](https://rss.huxiu.com/)|[那些失业的影视人，都去干什么了？](https://www.huxiu.com/article/2577369.html?f=rss)|
