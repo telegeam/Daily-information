@@ -1,7 +1,16 @@
-﻿# 每日资讯（2024-01-21）
+﻿# 每日资讯（2024-01-22）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-22 01:00:00|[虎嗅](https://rss.huxiu.com/)|[退休的中国中产，在美国当按摩师](https://www.huxiu.com/article/2576438.html?f=rss)|
+|2024-01-22 00:49:03|[虎嗅](https://rss.huxiu.com/)|[薇娅不再隐身](https://www.huxiu.com/article/2577784.html?f=rss)|
+|2024-01-22 00:44:49|[虎嗅](https://rss.huxiu.com/)|[那些失业的影视人，都去干什么了？](https://www.huxiu.com/article/2577369.html?f=rss)|
+|2024-01-22 00:31:01|[虎嗅](https://rss.huxiu.com/)|[炒到9万元，用户对苹果Vision Pro有什么期待？](https://www.huxiu.com/article/2577788.html?f=rss)|
+|2024-01-22 00:30:45|[虎嗅](https://rss.huxiu.com/)|[多家上市公司踏上“狂热”炒股路，云南白药豪赚41亿](https://www.huxiu.com/article/2577758.html?f=rss)|
+|2024-01-22 00:28:43|[虎嗅](https://rss.huxiu.com/)|[日本核污水排海：全球环境治理危机与出路](https://www.huxiu.com/article/2564014.html?f=rss)|
+|2024-01-22 00:26:38|[虎嗅](https://rss.huxiu.com/)|[2024年楼市如何发展？](https://www.huxiu.com/article/2577371.html?f=rss)|
+|2024-01-22 00:23:32|[虎嗅](https://rss.huxiu.com/)|[景德镇的里与外](https://www.huxiu.com/article/2577769.html?f=rss)|
+|2024-01-22 00:06:53|[虎嗅](https://rss.huxiu.com/)|[全球化“旧时代”落幕，新赢家都有谁？](https://www.huxiu.com/article/2575339.html?f=rss)|
 |2024-01-21 13:07:06|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[基于Git版本控制的关系型数据库Dolt](https://jasonkayzk.github.io/2024/01/21/%E5%9F%BA%E4%BA%8EGit%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93Dolt/)|
 |2024-01-21 13:08:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当女朋友知道我有强迫症后](https://dig.chouti.com/link/41301099)|
 |2024-01-21 13:54:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【演唱会最疯的一年，哪个歌手最赚钱？】借票务平台摩天轮CEO刘斅的话，2023年演出市场的真实情况是“总量增长，局部火爆，部分走低”，赚到钱的还是头部歌手，对于大部分从业者，热潮过后，或许是更严酷的寒冬。](https://dig.chouti.com/link/41301199)|
