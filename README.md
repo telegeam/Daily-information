@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-22 13:28:48|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[踢车牛重磅回归：用“论心理建设的重要性”，向物质世界发起第一次冲锋！](https://www.ximalaya.com/sound/701422725)|
+|2024-01-22 13:30:10|[机核](https://www.gcores.com/rss)|[《何为人类》 一次学校要求青年教师的读书分享](https://www.gcores.com/articles/176587)|
+|2024-01-22 13:00:00|[机核](https://www.gcores.com/rss)|[三军美食家Vol.8丨曹操是“水果忍者”吗？](https://www.gcores.com/radios/174475)|
+|2024-01-22 13:00:00|[机核](https://www.gcores.com/rss)|[三军美食家Vol.7丨李靖实现肉食自由了吗](https://www.gcores.com/radios/173138)|
+|2024-01-22 12:24:35|[机核](https://www.gcores.com/rss)|[全职工作，但是一年玩70款游戏？我如何安排时间与节奏？](https://www.gcores.com/videos/176580)|
+|2024-01-22 11:02:23|[机核](https://www.gcores.com/rss)|[记录.首次虚幻室内摄影](https://www.gcores.com/videos/176583)|
+|2024-01-22 14:28:32|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发&生活半月刊 #4 金橘记账以及 HeaFit 更新](https://w2solo.com/topics/4385)|
+|2024-01-22 13:54:36|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 #49：塞翁失马，焉知非福](https://w2solo.com/topics/4384)|
+|2024-01-22 13:21:30|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我做了一份双语 Newsletter「Apptisan」，希望通过跟 App 创造者交流，让优秀的产品被更多的用户看见](https://w2solo.com/topics/4383)|
+|2024-01-22 06:57:13|[Stories by Xiuer O...](https://xiuer.medium.com/feed)|[Prettier + ESLint + Rust = ?? Fast, so fast!](https://javascript.plainenglish.io/prettier-eslint-rust-fast-so-fast-181164681385?source=rss-c3917681a8f5------2)|
 |2024-01-22 08:46:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1254 得益于人工智能驱动的狂热，标普 500 指数创历史新高](https://linux.cn/article-16576-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-22 06:45:54|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[观点 曾经，Lotus Notes 几乎能满足公司的一切需求](https://linux.cn/article-16575-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-22 10:36:44|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[ 开源 ChatAir：使用 Telegram 修改的 OpenAI 和 Gemini 的 Android 原生客户端](https://w2solo.com/topics/4382)|
