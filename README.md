@@ -2,6 +2,50 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-23 16:04:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[卡塔尔亚洲杯，武磊出场 171 分钟，零进球仅两射正，他的国家队生涯是否应该结束了？](https://www.zhihu.com/question/640761755)|
+|2024-01-23 16:04:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[家里现在用的油烟机日常用有一点跑烟，吸力不够，趁年前赶紧换个吸力猛的，有推荐吗？](https://www.zhihu.com/question/640653681)|
+|2024-01-23 16:04:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《甄嬛传》中浣碧为啥不惜连累果郡王府，也要把采蘋送进宫?](https://www.zhihu.com/question/631838182)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么去医院看病医生总让先查血常规？有必要吗？](https://www.zhihu.com/question/639560004)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[员工下班后回复工作消息「隐形加班」，公司被判赔 3 万元加班费创全国首例，如何从法律角度看待此事？](https://www.zhihu.com/question/640804999)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[碧桂园拟转让广州多处资产，合计拟转让价格 38.18 亿元，哪些信息值得关注？](https://www.zhihu.com/question/640782399)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[因低温雨雪冰冻天气，浙江多地宣布停课一天，当地居民需做好哪些防护？](https://www.zhihu.com/question/640820829)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大三甲正高感叹「没有爱好的人，才适合当医生」，你对此有何感触？身为医疗从业者的日常是怎样的？](https://www.zhihu.com/question/640710513)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[今年上海 GDP 增长目标为 5% 左右，去年 GDP 达 4.72 万亿元，哪些信息值得关注？](https://www.zhihu.com/question/640812833)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[新疆阿克苏地区乌什县 7.1 级地震已造成 3 人遇难 5 人受伤，目前救援进展如何？](https://www.zhihu.com/question/640843125)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[云南镇雄山体滑坡灾害已致 31 人遇难，当前救援存在哪些难点？](https://www.zhihu.com/question/640781088)|
+|2024-01-23 16:04:25|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[新疆克孜勒苏州阿合奇县发生 4.6 级地震，震源深度 10 千米，目前当地状况如何？](https://www.zhihu.com/question/640834353)|
+|2024-01-23 16:04:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美英再次空袭也门胡塞武装目标，具体情况如何？将对红海局势带来哪些影响？](https://www.zhihu.com/question/640784074)|
+|2024-01-23 16:04:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[极度自律的人，内心会痛苦吗？](https://www.zhihu.com/question/640085675)|
+|2024-01-23 16:04:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果小米汽车最低配定价超过 19.9 万元，销量会受影响吗？](https://www.zhihu.com/question/640547388)|
+|2024-01-23 16:04:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 年的第一本书，你计划读什么？](https://www.zhihu.com/question/637328514)|
+|2024-01-23 16:04:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[卡塔尔亚洲杯国足三战两平一负，零进球仅丢一球，扬科维奇的带队成绩应该下课吗？](https://www.zhihu.com/question/640761698)|
+|2024-01-23 16:04:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[1 月 23 日创业板指涨 1.24%，上海自贸、金融板块涨幅居前，如何看待今日行情？](https://www.zhihu.com/question/640787610)|
+|2024-01-23 16:04:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 马刺 123:133 负 76 人，恩比德狂轰 70+18，文班 33，如何评价这场比赛？](https://www.zhihu.com/question/640781178)|
+|2024-01-23 16:04:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[从 02 年韩日世界杯零进球，到卡塔尔亚洲杯一球难进，20 多年国足经历了什么？](https://www.zhihu.com/question/640761951)|
+|2024-01-23 16:04:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[以色列提议停火 60 天换所有 130 名人质，如何看待这一举动？以巴能否达成长期停火？](https://www.zhihu.com/question/640802755)|
+|2024-01-23 16:04:24|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有人说，两块钱的维生素 C 大多都是右旋，这是真的吗？](https://www.zhihu.com/question/632333865)|
+|2024-01-23 16:04:23|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么人类历史上没有出现过接取任务的冒险者协会，冒险者酒馆这一类东西？](https://www.zhihu.com/question/634309634)|
+|2024-01-23 16:04:23|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[贝莱德回应打七折出售上海写字楼，表示「与贝莱德基金、贝莱德建信理财无关」，哪些信息值得关注？](https://www.zhihu.com/question/640782306)|
+|2024-01-23 16:04:23|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你觉得 2023 年最接近完美的笔记本电脑是哪一台？](https://www.zhihu.com/question/639903696)|
+|2024-01-23 16:04:23|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《原神》4.4 前瞻中「为了感谢旅行者一年的陪伴」这句话？](https://www.zhihu.com/question/640502634)|
+|2024-01-23 16:04:23|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[极右翼政党「驱逐移民」计划引全德愤怒，超百万人走上街头称「决不能重蹈纳粹覆辙」，如何解读？](https://www.zhihu.com/question/640657748)|
+|2024-01-23 16:04:23|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[3 年期存款利率跌破 2%，普通人该怎么给自己存养老钱？](https://www.zhihu.com/question/640675497)|
+|2024-01-23 16:04:23|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[小米汽车称不会与第三方合作推智选车，该言论透露了小米接下来的哪些行业规划？](https://www.zhihu.com/question/638858122)|
+|2024-01-23 16:04:23|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些护肤好习惯，坚持下来皮肤一定会变好？](https://www.zhihu.com/question/639595101)|
+|2024-01-23 16:04:23|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人过三十才开始「努力上进」，还有意义吗？](https://www.zhihu.com/question/640085707)|
+|2024-01-23 16:04:22|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[ETF 融券火爆，有券商透露「500ETF 、 1000ETF 已无券可借」，哪些信息值得关注？](https://www.zhihu.com/question/640840756)|
+|2024-01-23 16:04:22|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[1 月 23 日新疆阿克苏地区乌什县发生 7.1 级地震，应急管理部启动地震三级应急响应，目前情况如何？](https://www.zhihu.com/question/640763089)|
+|2024-01-23 16:04:22|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么年轻人喜欢把旧手机给父母呢?](https://www.zhihu.com/question/640014851)|
+|2024-01-23 16:04:22|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[茅台与瑞幸再出新品，开卖首日未现排队场面，专家称「没有持续火爆很正常」，如何看待此事？](https://www.zhihu.com/question/640782312)|
+|2024-01-23 16:04:22|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[乌克兰政府拟禁止与俄罗斯交通联系 50 年，这一举措会给当前俄乌造成哪些影响？](https://www.zhihu.com/question/640798056)|
+|2024-01-23 16:04:22|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 年春节，有什么好吃的零食推荐么？](https://www.zhihu.com/question/638297513)|
+|2024-01-23 16:04:22|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[领导跟我说公司裁员将二选一，偏向于留下我，但被裁同事的工作都会让我接手，我该怎么回复呢？](https://www.zhihu.com/question/640546143)|
+|2024-01-23 16:04:22|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[C 罗因伤无法出场，利雅得胜利中国行比赛延期，哪些信息值得关注？](https://www.zhihu.com/question/640824157)|
+|2024-01-23 16:04:22|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 7940HX 处理器的华硕天选 5 Pro 游戏本？](https://www.zhihu.com/question/640839954)|
+|2024-01-23 14:27:07|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发了一个在线 SQL 学习网站](https://w2solo.com/topics/4389)|
+|2024-01-23 10:24:14|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[藏趣云书签管理 - 阅读模式，聚合搜索重磅来袭发布](https://w2solo.com/topics/4388)|
+|2024-01-23 08:32:54|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[还在用 JS？过来看看 GS](https://w2solo.com/topics/4386)|
+|2024-01-23 06:31:05|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[赛尔原创@Findings of EMNLP 2023 基于时间相关文档的多视图时态图增强时态推理](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812343&idx=1&sn=404ae190decb44abc66f225e7fc638da)|
 |2024-01-23 07:03:25|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[人工智能图片无损放大软件Topaz AI Gigapixel 7.0.1_x64学习版 Windows+MacOS ](https://masuit.com/1576)|
 |2024-01-23 12:50:57|[whyes 的博客](https://whyes.org/feed.xml)|[FGFR2 融合/重排的胆管癌适合跳过化疗直接靶向治疗吗？ #GI24](http://whyes.org/2024/proof-301-btc-fgfr2-infigratinib)|
 |2024-01-23 05:50:00|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[Golang 1.21 语言规范改动](https://www.sulinehk.com/post/language-specification-changes-in-golang-1.21/)|
