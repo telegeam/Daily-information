@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-25 12:19:18|[小众软件](https://www.appinn.com/feed/)|[播客录播助手 – 25+ 直播平台自动录屏工具（YY、虎牙、斗鱼、B站等），高清直播录屏、开播检测自动后台录制工具](https://www.appinn.com/bklivedown-2/)|
+|2024-01-25 10:03:48|[小众软件](https://www.appinn.com/feed/)|[Penc – 用 Mac 触控板快速移动窗口、调整窗口大小](https://www.appinn.com/penc-for-macos/)|
+|2024-01-25 09:27:33|[小众软件](https://www.appinn.com/feed/)|[TextPal – 在 macOS 英文输入法状态下，快速输入 Emoji 表情](https://www.appinn.com/textpal/)|
+|2024-01-25 10:14:03|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1257 Mozilla 指责谷歌、微软、苹果妨碍公平竞争](https://linux.cn/article-16584-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-25 07:57:20|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[桌面应用 掌握 Linux 桌面中的 Nautilus 文件搜索](https://linux.cn/article-16583-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-25 07:12:06|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[分享 Floorp 浏览器：这是最先进的跨平台 Firefox 衍生品吗？](https://linux.cn/article-16582-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-25 15:34:31|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[一点闲话](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652893108&idx=1&sn=f4c4d27895d8cbd1ba0d656f7dd2b05b)|
+|2024-01-25 13:11:49|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[少了海鲜的年夜饭，是不完整的。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449022&idx=1&sn=db56c06cf0086d67f2b08fc546798358)|
+|2024-01-25 15:09:17|[机核](https://www.gcores.com/rss)|[暴雪总裁Mike Ybarra宣布离职，动视暴雪迎来大裁员](https://www.gcores.com/articles/176765)|
+|2024-01-25 15:00:00|[机核](https://www.gcores.com/rss)|[真人快打故事 Vol.10 烧伤卡巴重返纽约小试身手 机械零度洗心革面大显神威](https://www.gcores.com/radios/176485)|
+|2024-01-25 13:14:25|[机核](https://www.gcores.com/rss)|[广播剧录制文字AVG游戏《纯爱声放送》参展台北电玩展](https://www.gcores.com/articles/176760)|
+|2024-01-25 13:06:47|[机核](https://www.gcores.com/rss)|[即时路径规划RPG《七键骑士》将参加2024年台北游戏展](https://www.gcores.com/articles/176759)|
+|2024-01-25 12:51:30|[机核](https://www.gcores.com/rss)|[抢鲜体验《如龙8》：游戏里都有哪些新鲜玩意](https://www.gcores.com/videos/176758)|
+|2024-01-25 12:17:40|[机核](https://www.gcores.com/rss)|[2001 网络漫游：ARG 的拂晓时分（中）](https://www.gcores.com/articles/176756)|
+|2024-01-25 14:59:55|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨中石油涨停意味着什么；特斯拉利润率被中国同行连续超过](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511900&idx=2&sn=500b267ad119f323fe5c483b61fb8695)|
+|2024-01-25 14:59:55|[晚点LatePost](https://feedpress.me/wx-postlate)|[互联网公司的中等规模陷阱](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247511900&idx=1&sn=d0f2441b34faae9a5f716548ef6480b2)|
 |2024-01-25 07:59:15|[樸論清言](https://plausistory.blog/feed/)|[ 转载 戴逸教授讣告](https://plausistory.blog/2024/01/25/in_memory_of_daiyi/)|
 |2024-01-25 07:11:13|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[赛尔原创@AAAI 2024 MolTailor：通过文本提示定制化学分子表征以适应特定任务的方法](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812352&idx=1&sn=f3fcaa73412934ed2568be09ad6a62ba)|
 |2024-01-25 12:26:00|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[申辦渣打心幸福數位帳戶 送 AirTag](https://applefans.today/2024-01-money101-standard-chartered-campaign-airtag/)|
