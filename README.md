@@ -2,6 +2,23 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-27 13:02:20|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[和河南残联谈谈心](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652893156&idx=1&sn=578d10f357d61642fa899cc0f793f6d7)|
+|2024-01-27 15:43:26|[DGideas' Blog](https://dgideas.net/feed/)|[在每个人的世界中——我的二零二三年](https://dgideas.net/2024/in-everyones-world-my-2023/)|
+|2024-01-27 13:36:54|[DGideas' Blog](https://dgideas.net/feed/)|[为什么比特币网络中会有空区块](https://dgideas.net/2024/%e4%b8%ba%e4%bb%80%e4%b9%88%e6%af%94%e7%89%b9%e5%b8%81%e7%bd%91%e7%bb%9c%e4%b8%ad%e4%bc%9a%e6%9c%89%e7%a9%ba%e5%8c%ba%e5%9d%97/)|
+|2024-01-27 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[当ESG成为靶心，一场本末倒置的口水战｜焦点分析](https://36kr.com/p/2620841400129669)|
+|2024-01-27 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[人均37元的贵价早餐，没人买单了](https://36kr.com/p/2622189028661383)|
+|2024-01-27 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[开放侧载，苹果苦日子要来了？](https://36kr.com/p/2621570567084419)|
+|2024-01-27 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[ChatGPT惊艳更新，一个@让三百万GPTs为你打工](https://36kr.com/p/2622402136922246)|
+|2024-01-27 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[互联网大佬强势复出](https://36kr.com/p/2622316531407236)|
+|2024-01-27 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[雪球爆仓，收割了谁？](https://36kr.com/p/2621433733568899)|
+|2024-01-27 16:06:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[两个人，估值1000亿](https://36kr.com/p/2622398030600576)|
+|2024-01-27 04:03:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微软破3万亿美元，全球市值第一「巨无霸」碾压苹果，官宣裁员近2000人](https://36kr.com/p/2621227911862404)|
+|2024-01-27 04:03:23|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[ChatGPT救不了必应](https://36kr.com/p/2620965449767300)|
+|2024-01-27 04:03:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[又有14国产AI大模型备案获批，更多垂直厂商入局 最前线](https://36kr.com/p/2621227318139272)|
+|2024-01-27 04:03:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[9点1氪｜曹德旺一个月内投资90亿；马斯克称愿向中国车企授权技术；微信优化存储空间](https://36kr.com/p/2622176352754057)|
+|2024-01-27 04:03:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[美团携程吃到嘴的肥肉，被抖音抢了](https://36kr.com/p/2620989091158400)|
+|2024-01-27 04:03:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果新iPad Pro再曝光，Face ID有大改进](https://36kr.com/p/2621387436923273)|
+|2024-01-27 13:40:42|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《绿头苍蝇》：韩国底层混混的真实人生，让人窒息的绝望，看不懂的人很幸福！](https://www.ximalaya.com/sound/702443721)|
 |2024-01-27 07:28:48|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1259 苹果公司将允许第三方浏览器引擎，但 Firefox 非常失望](https://linux.cn/article-16589-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-27 09:29:12|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AI 如何解决复杂软件开发问题？从 AutoCRUD 到 AutoPage、 AutoSQL 的设计](http://www.phodal.com/blog/design-framework-for-ai-tool/)|
 |2024-01-27 08:10:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Pencil 3 不再怕遺失！支援定位「尋找」功能](https://www.iphonetaiwan.org/2024/01/ipados-17-4-apple-pencil-3-find-feature.html)|
