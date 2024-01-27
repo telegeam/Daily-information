@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-27 07:28:48|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1259 苹果公司将允许第三方浏览器引擎，但 Firefox 非常失望](https://linux.cn/article-16589-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-27 09:29:12|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AI 如何解决复杂软件开发问题？从 AutoCRUD 到 AutoPage、 AutoSQL 的设计](http://www.phodal.com/blog/design-framework-for-ai-tool/)|
+|2024-01-27 08:10:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Pencil 3 不再怕遺失！支援定位「尋找」功能](https://www.iphonetaiwan.org/2024/01/ipados-17-4-apple-pencil-3-find-feature.html)|
+|2024-01-27 07:55:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 17.4獨家Podcast文字稿功能，聽播客更方便](https://www.iphonetaiwan.org/2024/01/ios-17-4-podcast-transcripts.html)|
+|2024-01-27 07:34:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone、Apple Watch超音波溫度感測震撼來襲](https://www.iphonetaiwan.org/2024/01/apple-ultrasonic-temperature-sensor-patent.html)|
+|2024-01-27 06:58:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[員工創造收入排名：網飛第一、蘋果第二](https://www.iphonetaiwan.org/2024/01/apple-vs-netflix-tech-revenue-ranking.html)|
+|2024-01-27 06:27:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[歐盟 DMA 法規：蘋果 App Store 盈利變革解析](https://www.iphonetaiwan.org/2024/01/apple-app-store-eu-regulation-impact-analysis.html)|
+|2024-01-27 04:49:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果不再封閉！iPhone 軟硬體功能大開放](https://www.iphonetaiwan.org/2024/01/apple-developer-access-unlock.html)|
+|2024-01-27 03:49:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Netflix：蘋果Vision Pro規模太小！暫不開發應用](https://www.iphonetaiwan.org/2024/01/netflix-vision-pro-limitations-and-insights.html)|
 |2024-01-27 02:06:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【被滥用的右美沙芬】首都医科大学附属北京安定医院成瘾医学科的副主任医师邢笑萌接触过大量药物成瘾的孩子，过量服用右美沙芬将会对人的大脑造成难以挽回的伤害，而戒除药瘾，又是异常地艰难。](https://dig.chouti.com/link/41361317)|
 |2024-01-27 06:10:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[麦当娜，由摄影师Steven Meisel拍摄于1995年](https://dig.chouti.com/link/41363206)|
 |2024-01-27 05:01:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[湖南暴雪一日](https://dig.chouti.com/link/41362526)|
