@@ -1,7 +1,12 @@
-﻿# 每日资讯（2024-01-26）
+﻿# 每日资讯（2024-01-27）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-27 00:54:23|[虎嗅](https://rss.huxiu.com/)|[受让方有16家投资主体：大族激光19亿出售子公司引投资者质疑](https://www.huxiu.com/article/2598806.html?f=rss)|
+|2024-01-27 00:32:00|[虎嗅](https://rss.huxiu.com/)|[个人养老金账户收益仍待提高](https://www.huxiu.com/article/2598805.html?f=rss)|
+|2024-01-27 00:29:58|[虎嗅](https://rss.huxiu.com/)|[小镇做题家，越来越难](https://www.huxiu.com/article/2599730.html?f=rss)|
+|2024-01-27 00:10:57|[虎嗅](https://rss.huxiu.com/)|[专访中国科学院院士陈润生：中国90%的大模型该被淘汰](https://www.huxiu.com/article/2598810.html?f=rss)|
+|2024-01-27 00:08:00|[虎嗅](https://rss.huxiu.com/)|[多省份严控政府投资项目，引发市场关注](https://www.huxiu.com/article/2598809.html?f=rss)|
 |2024-01-26 02:18:29|[子来园](https://wanghuibin0.github.io/index.xml)|[利用ssh reverse tunnel从远程向本机复制文本](https://simplecoding.fun/posts/2024/01/copy-remote-text-to-local/)|
 |2024-01-26 14:02:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被斗鱼索赔的女大学生仲裁无效申请被法院驳回，将面临600万元索赔仲裁](https://dig.chouti.com/link/41357722)|
 |2024-01-26 13:58:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[师父：那我教你篡改数据，伪造记录，编造论文，弄权夺势，压榨学生，欺上瞒下，拉帮结派，送礼跑官，你看怎么样？学生：弟子愿学，愿学！](https://dig.chouti.com/link/41357575)|
