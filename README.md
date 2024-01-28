@@ -2,6 +2,50 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价一些角色形象固化的演员的演技？](https://www.zhihu.com/question/33770050)|
+|2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[时隔 15 年，美国计划重新在英国部署核武器，这会对地区安全局势造成什么影响？](https://www.zhihu.com/question/641523230)|
+|2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[王毅同沙利文会晤，指出中美关系的最大挑战是「台独」，如何理解？还有哪些信息值得关注？](https://www.zhihu.com/question/641548277)|
+|2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[江苏发布检察工作报告，称「发布女性隐私视频被认定侮辱罪，保护女性权益」，具有哪些意义？](https://www.zhihu.com/question/641626120)|
+|2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[三家跨国汽车零部件巨头宣布裁员，博世、采埃孚、法雷奥合计拟裁员超 1.4 万人，透露哪些信息？](https://www.zhihu.com/question/641430166)|
+|2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《幻兽帕鲁》之前，为什么外国很少有类宝可梦游戏？](https://www.zhihu.com/question/641246212)|
+|2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待「不要陷入自证陷阱」这句话？「自证」一定是陷阱吗？](https://www.zhihu.com/question/641332004)|
+|2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[收视率排行榜《要久久爱》排在倒数，第一收视高达 2.066% ，其中有哪些看点值得评价？](https://www.zhihu.com/question/641160274)|
+|2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我军在强 5 攻击机全部退役后，是否还需要一型类似美军 A-10 的专用对地攻击机？](https://www.zhihu.com/question/639900960)|
+|2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待中国与新加坡互免签证？](https://www.zhihu.com/question/641155861)|
+|2024-01-28 16:04:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何提高一个人的执行力？](https://www.zhihu.com/question/19979300)|
+|2024-01-28 16:04:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[哈尔滨去年接待游客 1.35 亿人次，增近 146%，旅游收入超 1692 亿，增超 239%，哪些信息值得关注？](https://www.zhihu.com/question/641349289)|
+|2024-01-28 16:04:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[姆巴佩现在这么年轻为什么不选择去英超西甲这样级别的联赛历练？](https://www.zhihu.com/question/637319547)|
+|2024-01-28 16:04:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[最让中国人有认同感的歌曲是什么？](https://www.zhihu.com/question/59912134)|
+|2024-01-28 16:04:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[iPhone 15pro 和 15pro Max 怎么选？](https://www.zhihu.com/question/637938852)|
+|2024-01-28 16:04:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[证监会进一步加强融券业务监管，全面暂停限售股出借，将产生哪些影响？](https://www.zhihu.com/question/641674623)|
+|2024-01-28 16:04:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[滴滴与宁德时代宣布成立换电合资公司，如何看待此举？](https://www.zhihu.com/question/641673929)|
+|2024-01-28 16:04:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[说出你在 steam 游玩时间最长的三个游戏?](https://www.zhihu.com/question/634392977)|
+|2024-01-28 16:04:33|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[米格 29k 和苏 33 谁更适合当下俄罗斯海军?](https://www.zhihu.com/question/641460412)|
+|2024-01-28 16:04:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA76 人 105:111 掘金，如何评价这场比赛？](https://www.zhihu.com/question/641616124)|
+|2024-01-28 16:04:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 快船 115:96 凯尔特人，如何评价这场比赛？](https://www.zhihu.com/question/641623278)|
+|2024-01-28 16:04:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[数据称中国股票基金过去一周流入资金 119 亿美元，系 2015 年 7 月来最大，如何看待这一数据？](https://www.zhihu.com/question/641348125)|
+|2024-01-28 16:04:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 湖人双加时 145:144 勇士，詹姆斯 36+20，库里空砍 46，如何评价这场比赛？](https://www.zhihu.com/question/641624970)|
+|2024-01-28 16:04:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[分享一下，相册里有哪些关于雪的照片或视频呢？](https://www.zhihu.com/question/640680722)|
+|2024-01-28 16:04:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[短短 12 天，穆里尼奥、克洛普、哈维相继卸任主教练，他们的离任有何区别？](https://www.zhihu.com/question/641649398)|
+|2024-01-28 16:04:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[英特尔财报惨淡，股价跌近 12%，创三年半来最大日跌幅，市值一夜蒸发 249 亿美元，哪些信息值得关注？](https://www.zhihu.com/question/641430171)|
+|2024-01-28 16:04:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国与泰国签署互免签证协定，将对双方带来哪些利好？](https://www.zhihu.com/question/641664843)|
+|2024-01-28 16:04:32|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《来自星尘》定价 68 元？](https://www.zhihu.com/question/641296676)|
+|2024-01-28 16:04:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[拜登演讲时突然胡言乱语，演讲内容「令人费解」，美国网友称听起来像在说另一种语言，发生了什么？](https://www.zhihu.com/question/641518848)|
+|2024-01-28 16:04:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[河南发现大油田，原油资源量或达 1.07 亿吨，哪些信息值得关注？](https://www.zhihu.com/question/641702095)|
+|2024-01-28 16:04:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么同为渐冻症，霍金活到 76 岁，而蔡磊却已呼吸衰竭？](https://www.zhihu.com/question/641422453)|
+|2024-01-28 16:04:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中央气象台预报「春节前大范围持续性强雨雪天气来袭，豫鲁鄂降雪具有极端性」，会对春运造成哪些影响？](https://www.zhihu.com/question/641689822)|
+|2024-01-28 16:04:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国地质大学回应公示拟聘任处长之子，「不是拼爹而是接受监督」，如何评价？关系公开是否有利于招聘公平？](https://www.zhihu.com/question/641650662)|
+|2024-01-28 16:04:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[文笔挑战「玫瑰留在了盛夏，___ 」下一句该怎么接？](https://www.zhihu.com/question/641686509)|
+|2024-01-28 16:04:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[口服司美格鲁肽在华获批上市，用于治疗 2 型糖尿病，哪些信息值得关注？](https://www.zhihu.com/question/641345958)|
+|2024-01-28 16:04:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[媒体称谷爱凌计划继续代表中国征战 2026 冬奥会，哪些信息值得关注？](https://www.zhihu.com/question/641651391)|
+|2024-01-28 16:04:31|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[泰勒·斯威夫特 AI「不雅照」疯传，人工智能滥用引担忧，如何看待此事？该如何解决？](https://www.zhihu.com/question/641532903)|
+|2024-01-28 16:04:30|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[银行拒不配合法院冻结存款，被罚款 100 万，负责人被拘留 15 日并罚款 10 万，如何看待此事？](https://www.zhihu.com/question/641247945)|
+|2024-01-28 16:04:30|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[得州与美联邦政府武装对峙，特朗普称「我全面支持得州」，具体情况如何？哪些信息值得关注？](https://www.zhihu.com/question/641703368)|
+|2024-01-28 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[昆明动物园针对猴群与猫共栖再次发布说明 ，「决定采用诱捕方式将猫移出猴山」，如何看待此事？](https://www.zhihu.com/question/641469488)|
+|2024-01-28 12:09:46|[小众软件](https://www.appinn.com/feed/)|[Deep Tab Search – 全文搜索已打开 Chrome 标签页内容，支持中文](https://www.appinn.com/deep-tab-search/)|
+|2024-01-28 11:13:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1953年，在床上吃早餐的梦露，由Andre de Dienes拍摄。](https://dig.chouti.com/link/41373923)|
+|2024-01-28 15:59:00|[六个周](https://blog.liugezhou.online/atom.xml)|[每周小结 *103 :开启新博客纪录](https://blog.liugezhou.online/202404-No103/)|
+|2024-01-28 12:02:26|[晚点LatePost](https://feedpress.me/wx-postlate)|[不是谁都能在跳海当一名打酒师丨晚点周末](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512040&idx=1&sn=e8a2f506b516e6627f425bd42e5a9015)|
 |2024-01-28 08:21:41|[鸟窝](https://colobu.com/atom.xml)|[从慢速到SIMG: 一个Go优化的故事](https://colobu.com/2024/01/28/slow-to-simd/)|
 |2024-01-28 15:00:00|[机核](https://www.gcores.com/rss)|[三部电影 Vol.10 我的老板很爱《年会不能停！》，可我却不太喜欢](https://www.gcores.com/radios/176817)|
 |2024-01-28 14:05:54|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#282：《超次元游戏海王星：重生》](https://www.gcores.com/articles/176876)|
