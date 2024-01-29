@@ -1,7 +1,14 @@
-﻿# 每日资讯（2024-01-28）
+﻿# 每日资讯（2024-01-29）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-29 00:50:00|[虎嗅](https://rss.huxiu.com/)|[禁止云计算厂商为中国训练AI大模型，美国图啥？](https://www.huxiu.com/article/2605713.html?f=rss)|
+|2024-01-29 00:45:51|[虎嗅](https://rss.huxiu.com/)|[“等待厌恶”，是一种提前焦虑](https://www.huxiu.com/article/2607925.html?f=rss)|
+|2024-01-29 00:43:52|[虎嗅](https://rss.huxiu.com/)|[关于一轮牛市确立的基本条件](https://www.huxiu.com/article/2606378.html?f=rss)|
+|2024-01-29 00:17:00|[虎嗅](https://rss.huxiu.com/)|[海外中国大盘股ETF期权多头骤增，什么信号？](https://www.huxiu.com/article/2607912.html?f=rss)|
+|2024-01-29 00:14:23|[虎嗅](https://rss.huxiu.com/)|[财力有限，如何修好一条路？](https://www.huxiu.com/article/2607924.html?f=rss)|
+|2024-01-29 00:14:00|[虎嗅](https://rss.huxiu.com/)|[得州边境问题，让拜登进退两难](https://www.huxiu.com/article/2607913.html?f=rss)|
+|2024-01-29 00:10:28|[虎嗅](https://rss.huxiu.com/)|[“垃圾女王”究竟有多卷？](https://www.huxiu.com/article/2605722.html?f=rss)|
 |2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价一些角色形象固化的演员的演技？](https://www.zhihu.com/question/33770050)|
 |2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[时隔 15 年，美国计划重新在英国部署核武器，这会对地区安全局势造成什么影响？](https://www.zhihu.com/question/641523230)|
 |2024-01-28 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[王毅同沙利文会晤，指出中美关系的最大挑战是「台独」，如何理解？还有哪些信息值得关注？](https://www.zhihu.com/question/641548277)|
@@ -60,6 +67,7 @@
 |2024-01-28 13:28:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[Latest post on Threads：2024.1.28](https://www.changhai.org/articles/miscellaneous/eblog/202401.php#latest)|
 |2024-01-28 10:52:07|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1260 苹果公司的第三方应用商店招致广泛批评](https://linux.cn/article-16591-1.html?utm_source=rss&utm_medium=rss)|
 |2024-01-28 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 176 期（2024.01.29）](https://www.ftium4.com/ux-weekly-176.html)|
+|2024-01-29 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第163期 - 买了麻将](https://weekly.tw93.fun/posts/163-%E4%B9%B0%E4%BA%86%E9%BA%BB%E5%B0%86/)|
 |2024-01-28 14:11:07|[呦呦鹿鸣](https://feedpress.me/wx-youyouluming)|[再为残疾人说句话](http://mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA%3D%3D&mid=2652893178&idx=1&sn=9628f12fdf23c79da9e5e4ed81523e6f)|
 |2024-01-28 15:11:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中泰互免签证协定详情公布：单次停留不超过30日】中方持公务普通护照、普通护照人员和泰方持普通护照人员，可免签入境对方国家单次停留不超过30日（每180日累计停留不超过90日）。入境对方国家从事工作、学习、新闻报道、定居等须事先批准的活动以及拟在对方国家停留超过30日的，须在入境对方国家前办妥相应签证。](https://dig.chouti.com/link/41375425)|
 |2024-01-28 15:12:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被打成“幻视”。。。足总杯第4轮西布朗vs狼队的比赛，看台多片区域爆发严重冲突，有球迷被打得头破血流，由安保控制后带离](https://dig.chouti.com/link/41375451)|
