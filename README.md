@@ -2,6 +2,28 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-29 10:32:45|[SHRIK3](https://shrik3.com/index.xml)|[How much Page Tables / PTEs are needed for xyz amount of memory?](https://shrik3.com/post/paging/)|
+|2024-01-29 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你选择跑步的原因是什么？是为了锻炼身体还是减肥？](https://www.zhihu.com/question/639562060)|
+|2024-01-29 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[恒大回应被清盘「将稳步推进保交楼」，清盘会对购房者造成影响吗？对行业又影响几何？](https://www.zhihu.com/question/641807778)|
+|2024-01-29 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[龙年新年，可以给孩子准备哪些「新春氛围感」穿搭？](https://www.zhihu.com/question/638737498)|
+|2024-01-29 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[手机日常使用 8gen2 和 8gen3 差别大吗？](https://www.zhihu.com/question/631379463)|
+|2024-01-29 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[新年想给自己买一瓶香水，有哪些推荐？](https://www.zhihu.com/question/633760591)|
+|2024-01-29 16:03:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国信达、中国东方和中国长城三大 AMC 公司将并入中投，「中国华融」标牌已更换，哪些信息值得关注？](https://www.zhihu.com/question/641767257)|
+|2024-01-29 16:03:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[百川智能发布超千亿大模型 Baichuan 3，技术能力如何？](https://www.zhihu.com/question/641806600)|
+|2024-01-29 16:03:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么母猫的坐姿会比公猫更文雅?](https://www.zhihu.com/question/639914315)|
+|2024-01-29 16:03:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[春节买车回老家，求推荐有面儿又靠谱的二手车 ？](https://www.zhihu.com/question/641772901)|
+|2024-01-29 16:03:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[哪些影音家电能让过年宅家时光更松弛？](https://www.zhihu.com/question/638553560)|
+|2024-01-29 16:03:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人未到礼先至，2024 年货节有哪些值得给家里添置的家电？](https://www.zhihu.com/question/637089989)|
+|2024-01-29 16:03:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[普京正式登记为俄罗斯下届总统候选人，哪些信息值得关注？](https://www.zhihu.com/question/641825112)|
+|2024-01-29 16:03:43|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你见过最人性化的设计是什么？](https://www.zhihu.com/question/31524027)|
+|2024-01-29 16:03:42|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[求推荐拼多多上值得买的年货，自用或者送礼有哪些？](https://www.zhihu.com/question/641768356)|
+|2024-01-29 10:16:00|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[桌面应用 如何通过 VLC 使用字幕](https://linux.cn/article-16594-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-29 07:24:13|[Linux 中国◆开源社区](https://linux.cn/rss.xml)|[硬核观察 硬核观察 #1261 X 计划在奥斯汀建立内容审核总部](https://linux.cn/article-16593-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-29 16:05:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马化腾2023年年会演讲：点评业务板块，重点提到了信心](https://36kr.com/p/2625512069372033)|
+|2024-01-29 16:05:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[刚刚，A股诞生今年最大并购案](https://36kr.com/p/2625128413518214)|
+|2024-01-29 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[又一个许家印的好朋友，出事了](https://36kr.com/p/2621425580300417)|
+|2024-01-29 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[ChatGPT创作小说获顶级文学奖，33岁女作家用AI写《东京共鸣塔》，评委无一人辨认](https://36kr.com/p/2624831886563463)|
+|2024-01-29 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[2024年，游戏搞钱的路子变了](https://36kr.com/p/2624978347104386)|
 |2024-01-29 08:26:04|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[生成式 AI 辅助遗留系统改造：工具设计篇](http://www.phodal.com/blog/ai-for-legacy-system-migration/)|
 |2024-01-29 00:03:03|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[访问台湾后，我最担心的不是中国，而是美国](https://cn.nytimes.com/opinion/20240129/china-taiwan-war/?utm_source=RSS)|
 |2024-01-29 08:36:44|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 17.4 Beta 發現 Apple Podcast 提供逐字稿功能](https://applefans.today/2024-01-apple-podcasts-offers-auto-generated-transcripts-in-ios-17-4/)|
