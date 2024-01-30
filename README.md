@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-30 01:39:00|[卡瓦邦噶！](https://www.kawabangga.com/feed)|[去远航](https://www.kawabangga.com/posts/5662)|
 |2024-01-29 14:00:28|[唐巧的博客](http://blog.devtang.com/atom.xml)|[上下同欲的几种情况](https://blog.devtang.com/2024/01/29/target-mapping-situations/)|
 |2024-01-29 10:32:45|[SHRIK3](https://shrik3.com/index.xml)|[How much Page Tables / PTEs are needed for xyz amount of memory?](https://shrik3.com/post/paging/)|
 |2024-01-29 16:03:44|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你选择跑步的原因是什么？是为了锻炼身体还是减肥？](https://www.zhihu.com/question/639562060)|
