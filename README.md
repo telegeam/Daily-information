@@ -2,6 +2,26 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-01-30 14:40:26|[鸟窝](https://colobu.com/atom.xml)|[十亿行的挑战](https://colobu.com/2024/01/30/one-billion-row-challenge/)|
+|2024-01-30 16:07:27|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[在商场，如何把车卖给来吃饭的中年人？](https://36kr.com/p/2626591343984896)|
+|2024-01-30 16:07:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪独家 AR独角兽「XREAL」获6000万美元战略融资，预计2025年实现年200万台产能](https://36kr.com/p/2589817237928835)|
+|2024-01-30 16:07:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果今年曝出来的瓜，真的有点大](https://36kr.com/p/2626271479823493)|
+|2024-01-30 16:07:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[刚刚，投资人找我买A货了](https://36kr.com/p/2626572119231748)|
+|2024-01-30 16:07:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马斯克宣布人类首次植入脑机接口芯片，用意念操作手机只是开始](https://36kr.com/p/2626504421458178)|
+|2024-01-30 16:07:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[淘宝京东该戒掉“工厂直供”PTSD了](https://36kr.com/p/2625823113444481)|
+|2024-01-30 04:03:22|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[连周杰伦都救不了的29年老品牌，曾经的首富就行吗？](https://36kr.com/p/2625280696065927)|
+|2024-01-30 04:03:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[国内AI绘画哪家强？十大免费工具横评，BAT参战，但不是最强](https://36kr.com/p/2625215735077000)|
+|2024-01-30 04:03:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国留给大众的时间不多了](https://36kr.com/p/2625179414256005)|
+|2024-01-30 04:03:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[过紧日子的中产，在闲鱼上卖二手优衣库](https://36kr.com/p/2625180123076994)|
+|2024-01-30 04:03:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[大模型学会写万字长文，AI企业「波形智能」完成千万元Pre-A轮融资 36氪首发](https://36kr.com/p/2625346420889987)|
+|2024-01-30 04:03:21|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜恒大集团执行总裁回应中国恒大被颁令清盘；劳力士在二手市场价格跳水；苹果安卓或实现WiFi消息传递](https://36kr.com/p/2626387862027395)|
+|2024-01-30 16:14:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPad不屬歐盟DMA規管：只有iPhone開放第三方商店](https://www.iphonetaiwan.org/2024/01/apple-ipad-ios-restrictions-unveiled.html)|
+|2024-01-30 15:54:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Zoom攜手蘋果Vision Pro！帶你進入虛擬會議新紀元](https://www.iphonetaiwan.org/2024/01/zoom-apple-vision-pro-virtual-meetings.html)|
+|2024-01-30 11:19:49|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[硬核观察 硬核观察 #1262 网络上最古老的软件存档库之一即将关闭](https://linux.cn/article-16597-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-30 07:47:31|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[系统运维 如何在 RHEL 上通过绑定配置 VLAN 标记](https://linux.cn/article-16596-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-30 06:59:36|[Linux 中国◆开源社区](https://plink.anyfeeder.com/linux.cn)|[新闻 Linux Matrix 消息应用 Fractal 6 发布](https://linux.cn/article-16595-1.html?utm_source=rss&utm_medium=rss)|
+|2024-01-30 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的 9 部作品](https://sspai.com/post/86118)|
+|2024-01-30 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[为 Steam Deck 装载更多可能性：Decky Loader 插件推荐](https://sspai.com/post/85809)|
 |2024-01-30 16:06:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[丰田再曝发动机测试存在违规，10 种车型停供，高管鞠躬道歉，哪些信息值得关注？](https://www.zhihu.com/question/641941515)|
 |2024-01-30 16:06:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[马斯克称人类首次植入脑机接口芯片，植入者恢复良好，其脑机接口公司估值已超 350 亿，哪些信息值得关注？](https://www.zhihu.com/question/641938842)|
 |2024-01-30 16:06:03|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[多地限制教师非正常流动，杭州年底前将对西部山区教师出政策，如何看待此举？将产生哪些影响？](https://www.zhihu.com/question/641937606)|
