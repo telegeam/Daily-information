@@ -1,7 +1,13 @@
-﻿# 每日资讯（2024-01-31）
+﻿# 每日资讯（2024-02-01）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-01 01:01:09|[虎嗅](https://rss.huxiu.com/)|[只会做“缝合”游戏的公司，是如何做到5天销量破亿的？](https://www.huxiu.com/article/2617561.html?f=rss)|
+|2024-02-01 00:59:16|[虎嗅](https://rss.huxiu.com/)|[助你“内核稳定”的12个小方法](https://www.huxiu.com/article/2614322.html?f=rss)|
+|2024-02-01 00:55:38|[虎嗅](https://rss.huxiu.com/)|[为钱吵架的伴侣，究竟在吵什么](https://www.huxiu.com/article/2619622.html?f=rss)|
+|2024-02-01 00:43:46|[虎嗅](https://rss.huxiu.com/)|[老手败给趋势，新手败给常识](https://www.huxiu.com/article/2617547.html?f=rss)|
+|2024-02-01 00:37:24|[虎嗅](https://rss.huxiu.com/)|[海普瑞披露了自己被诈骗9000多万元的全过程](https://www.huxiu.com/article/2617962.html?f=rss)|
+|2024-02-01 00:25:10|[虎嗅](https://rss.huxiu.com/)|[从“去羞耻”到“低欲望”，这届年轻人的情爱观怎么了？](https://www.huxiu.com/article/2617543.html?f=rss)|
 |2024-01-31 13:14:21|[小众软件](https://www.appinn.com/feed/)|[Agr Reader – 一个简单的安卓 RSS 阅读器，Material Design 3 风格](https://www.appinn.com/agr-reader/)|
 |2024-01-31 16:00:01|[竹林里有冰的博客](https://zhul.in/rss.xml)|[备份 umami 数据库，并使用 TG Bot 保存 dump 文件](https://zhul.in/2024/02/01/backup-umami-database-and-send-it-by-tg-bot/)|
 |2024-01-31 16:41:06|[机核](https://www.gcores.com/rss)|[书生学拳](https://www.gcores.com/articles/177061)|
