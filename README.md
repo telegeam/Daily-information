@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-02 11:08:40|[Dennis](https://www.domon.cn/rss/)|[2024年1月阅读书摘](https://www.domon.cn/2024-1yue-yue-du-shu-zhai/)|
+|2024-02-02 17:35:58|[机核](https://www.gcores.com/rss)|[【福利】机核独家专访《深空梦里人》开发者Gareth Damian Martin](https://www.gcores.com/articles/177213)|
+|2024-02-02 16:30:29|[机核](https://www.gcores.com/rss)|[《亡灵巫师2》参加Steam新品节，3月27日正式发售](https://www.gcores.com/articles/177211)|
+|2024-02-02 15:00:00|[机核](https://www.gcores.com/rss)|[年会抽奖，你爽没爽？ 天天ACG 2.2](https://www.gcores.com/radios/176820)|
+|2024-02-02 13:06:59|[机核](https://www.gcores.com/rss)|[致敬经典之作：《国王之墓》宣布发行日期及参加Steam新品节](https://www.gcores.com/articles/177209)|
+|2024-02-02 12:57:47|[机核](https://www.gcores.com/rss)|[战锤40K基因原体的名字有哪些起源、含义和隐藏信息](https://www.gcores.com/videos/177240)|
+|2024-02-02 11:50:28|[机核](https://www.gcores.com/rss)|[多人联机生存合作《血清》免费试玩版亮相Steam新品节](https://www.gcores.com/articles/177239)|
+|2024-02-02 11:44:00|[机核](https://www.gcores.com/rss)|[Steam 94%特别好评游戏《深空梦里人》现已支持简体中文](https://www.gcores.com/articles/177237)|
+|2024-02-02 10:31:43|[机核](https://www.gcores.com/rss)|[当信任消失 ：《少女前线2》走入深渊](https://www.gcores.com/articles/177218)|
+|2024-02-02 10:01:00|[机核](https://www.gcores.com/rss)|[胖布丁叙事解谜新游首次公开，《窗台上的蝴蝶》现已公开商店页](https://www.gcores.com/articles/177207)|
+|2024-02-02 10:00:00|[机核](https://www.gcores.com/rss)|[《如龙8》通关体验：全方位的升级，目标是成为系列最佳](https://www.gcores.com/videos/177210)|
+|2024-02-02 09:13:40|[机核](https://www.gcores.com/rss)|[《人中之龙8》太鼓岛的红绿怪物和两位姐姐是什么来头](https://www.gcores.com/articles/177080)|
+|2024-02-02 09:00:00|[机核](https://www.gcores.com/rss)|[“搓玻璃”，录音笔 VOL.135](https://www.gcores.com/radios/177208)|
+|2024-02-02 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图218期:准备回家，嘻嘻哈哈](https://www.gcores.com/articles/173760)|
+|2024-02-02 08:08:52|[机核](https://www.gcores.com/rss)|[边逛边聊：今年年宵花买点啥](https://www.gcores.com/articles/177206)|
+|2024-02-02 07:56:36|[鸟窝](https://colobu.com/atom.xml)|[Go语言中的Pinner.Pin](https://colobu.com/2024/02/02/Pinner-Pin/)|
 |2024-02-02 05:10:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1936年，大萧条时期，居住在田纳西河附近的九口之家，由摄影师Carl Mydans拍摄](https://dig.chouti.com/link/41424723)|
 |2024-02-02 14:13:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【为啥英语里没有“爱国贼”这个说法？】美国是没有狂热的极端民族主义者吗？当然有，甚至比中国严重。只不过美国人不把这种行为和爱国主义这个词绑定到一起，而是称之为仇恨犯罪。美国的爱国者运动已经被种族主义和法西斯主义所污染。但美国舆论场没有污名化爱国主义和爱国者，也没有发明“爱国贼”之类的词来指代这些人。](https://dig.chouti.com/link/41429620)|
 |2024-02-02 14:33:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马化腾反腐记：腾讯一年辞退百余人，近20人被移送公安机关，人数创新高](https://dig.chouti.com/link/41429702)|
