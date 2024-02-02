@@ -2,6 +2,30 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-02 05:10:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1936年，大萧条时期，居住在田纳西河附近的九口之家，由摄影师Carl Mydans拍摄](https://dig.chouti.com/link/41424723)|
+|2024-02-02 14:13:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【为啥英语里没有“爱国贼”这个说法？】美国是没有狂热的极端民族主义者吗？当然有，甚至比中国严重。只不过美国人不把这种行为和爱国主义这个词绑定到一起，而是称之为仇恨犯罪。美国的爱国者运动已经被种族主义和法西斯主义所污染。但美国舆论场没有污名化爱国主义和爱国者，也没有发明“爱国贼”之类的词来指代这些人。](https://dig.chouti.com/link/41429620)|
+|2024-02-02 14:33:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马化腾反腐记：腾讯一年辞退百余人，近20人被移送公安机关，人数创新高](https://dig.chouti.com/link/41429702)|
+|2024-02-02 08:01:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[布拉德·皮特确认加入昆汀·塔伦蒂诺生涯最终执导电影《影评人》](https://dig.chouti.com/link/41426019)|
+|2024-02-02 05:09:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国成为世界上第三个实现嵌套式霍尔电推进技术突破的国家】配图为嵌套式霍尔推力器点火图像（左：内环工作，中：外环工作，右：双环同时工作）。中国航天科技集团六院801所供图。大功率霍尔电推进具有推力大、比冲高、系统简单可靠等综合优势，是目前最接近太空应用的国际主流大功率电推进技术路线。](https://dig.chouti.com/link/41424663)|
+|2024-02-02 07:40:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[苦禅洞“孙悟空”活在现实中](https://dig.chouti.com/link/41425979)|
+|2024-02-02 11:12:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[٩ ๑´0`๑ ۶](https://dig.chouti.com/link/41428306)|
+|2024-02-02 12:09:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【宁波体校回应奥运冠军教练讨要奖金：与事实不符】虞利华作为启蒙教练员，对其个人按教练员团队总奖金的60%进行奖励。但虞利华要求其个人须100%全额领取奖金，该要求与政策不符。学校多次联系虞利华，告知其办理奖励领取手续。2023年12月4日，校领导前往虞利华家中进行了详细解释说明。2024年2月1日，学校书面函告其本人。](https://dig.chouti.com/link/41428704)|
+|2024-02-02 09:33:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[年龄两岁，教龄一年半：婴儿AI训练师登上Science](https://dig.chouti.com/link/41427216)|
+|2024-02-02 10:02:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“微额”诈骗案：每人骗29.9元，5万余人上当，嫌犯是70多岁的老太太和两名无业人员](https://dig.chouti.com/link/41427368)|
+|2024-02-02 07:13:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为了包养男公关，日本女生已经下海拍片了](https://dig.chouti.com/link/41425812)|
+|2024-02-02 10:09:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阿根廷，示威持续，抗议政府力推的经济改革措施……](https://dig.chouti.com/link/41427641)|
+|2024-02-02 05:04:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[走进“淡学”：明白什么是“淡淡的”你就悟了](https://dig.chouti.com/link/41424653)|
+|2024-02-02 05:01:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美国中情局“史上最大泄密案”宣判：前雇员被判入狱40年】根据法庭文件和此前报道，舒尔特在2012年到2016年期间为CIA精英黑客小组工作，因为“他针对工作环境的投诉未受重视”，决定报复，偷取、泄露CIA的黑客工具库“宝库7号”（Vault 7）多达8761份相关文件，并在辞职后将其发送给维基揭秘网站。](https://dig.chouti.com/link/41424334)|
+|2024-02-02 05:03:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[早晚用得上的生活指南：我的第一次拔牙经历分享](https://dig.chouti.com/link/41424652)|
+|2024-02-02 07:52:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【建造房屋的理由】两年前，本文作者把母亲带去北京打工。母亲说，梦想就是有套自己的房子。两年后的现在，女儿带着母亲回到了湖北恩施农村，真的建造了一栋房子。](https://dig.chouti.com/link/41425983)|
+|2024-02-02 09:02:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[退休四年后，中石油原党组书记、董事长王宜林被查](https://dig.chouti.com/link/41426809)|
+|2024-02-02 08:08:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当一个有心事的年轻人，决定过年时“离家出走”](https://dig.chouti.com/link/41426343)|
+|2024-02-02 08:11:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国CIA局长透露投入更多资源用于对华情报收集分析和行动，中国外交部：感谢提醒，中方会做好防范工作](https://dig.chouti.com/link/41426393)|
+|2024-02-02 08:28:14|[u3blog](https://u3blog.xyz/feed.php)|[ChatGPT是怎么帮我写ios代码的](https://u3blog.xyz/?id=705)|
+|2024-02-02 08:44:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 17.4讓你秒變時間管理大師！動態島即時掌握](https://www.iphonetaiwan.org/2024/02/blog-post.html)|
+|2024-02-02 07:55:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Music為何設定「共同編輯播放列表」年齡限制](https://www.iphonetaiwan.org/2024/02/apple-music-coop-playlist-restriction-age-update.html)|
+|2024-02-02 07:28:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Setapp立志成為：歐洲首個蘋果第三方應用程式商店](https://www.iphonetaiwan.org/2024/02/setapp-europe-appstore.html)|
+|2024-02-02 06:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[派傑投資預測分析：三月蘋果iPhone將面臨挑戰](https://www.iphonetaiwan.org/2024/02/apple-challenges-sandlers-predictions2024.html)|
 |2024-02-02 04:59:25|[小众软件](https://www.appinn.com/feed/)|[Telegram 为每个联系人新增「已保存」选项卡，可看到所有转发到「已保存信息」中的任何信息](https://www.appinn.com/telegram-saved-in-chat/)|
 |2024-02-02 03:55:30|[小众软件](https://www.appinn.com/feed/)|[Gemini Pro 多语言版已上线 Bard，支持中文（简体/繁体）](https://www.appinn.com/gemini-pro-for-bard/)|
 |2024-02-02 12:20:17|[虎嗅](https://rss.huxiu.com/)|[揭开职业背债人的暴利生意经](https://www.huxiu.com/article/2626934.html?f=rss)|
