@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-03 08:05:48|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[容器下在 Triton Server 中使用 TensorRT-LLM 进行推理](https://www.chenshaowen.com/blog/using-tensorrt-llm-backend-in-triton-server-under-container.html)|
 |2024-02-02 11:08:40|[Dennis](https://www.domon.cn/rss/)|[2024年1月阅读书摘](https://www.domon.cn/2024-1yue-yue-du-shu-zhai/)|
 |2024-02-02 17:35:58|[机核](https://www.gcores.com/rss)|[【福利】机核独家专访《深空梦里人》开发者Gareth Damian Martin](https://www.gcores.com/articles/177213)|
 |2024-02-02 16:30:29|[机核](https://www.gcores.com/rss)|[《亡灵巫师2》参加Steam新品节，3月27日正式发售](https://www.gcores.com/articles/177211)|
