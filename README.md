@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-03 04:30:34|[小众软件](https://www.appinn.com/feed/)|[PinWin – Win 11 可用，置顶任何窗口](https://www.appinn.com/pinwin-for-win/)|
+|2024-02-03 08:40:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 無法開機？如何重新啟動手機](https://www.iphonetaiwan.org/2024/02/blog-post_184.html)|
+|2024-02-03 08:02:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 充電速度慢？如何加快手機充電](https://www.iphonetaiwan.org/2024/02/optimize-iphone-charging-speed.html)|
+|2024-02-03 06:45:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[如何在 iPhone 上恢復出廠設置？清空手機資料](https://www.iphonetaiwan.org/2024/02/iphone-factory-reset-guide.html)|
+|2024-02-03 06:06:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Vision Pro 正式開賣！歡迎來到空間計算時代](https://www.iphonetaiwan.org/2024/02/blog-post_03.html)|
 |2024-02-03 03:12:47|[Ethan's Wiki](https://wiki-mkdocs-topaz.vercel.app/feed_rss_updated.xml)|[第27章 学习怎样学习：如何自我教育](https://wiki-mkdocs-topaz.vercel.app/2.%E9%A2%86%E5%9F%9F/%E8%AE%A4%E7%9F%A5%E6%8F%90%E5%8D%87/%E8%BD%AF%E6%8A%80%E8%83%BD/%E7%AC%AC27%E7%AB%A0%20%E5%AD%A6%E4%B9%A0%E6%80%8E%E6%A0%B7%E5%AD%A6%E4%B9%A0%EF%BC%9A%E5%A6%82%E4%BD%95%E8%87%AA%E6%88%91%E6%95%99%E8%82%B2/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)|
 |2024-02-03 04:03:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[被曝光的天玑9400，成了联发科冲击高端的临门一脚](https://36kr.com/p/2631275325541890)|
 |2024-02-03 04:03:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Meta第二代自研AI芯投产，摆脱英伟达依赖，为买H100小扎狂砸数百亿美元](https://36kr.com/p/2631286979608839)|
