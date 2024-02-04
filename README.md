@@ -1,7 +1,15 @@
-﻿# 每日资讯（2024-02-03）
+﻿# 每日资讯（2024-02-04）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-04 01:00:00|[虎嗅](https://rss.huxiu.com/)|[奥斯卡的救命剧本，难道真的要直接动手？](https://www.huxiu.com/article/2626308.html?f=rss)|
+|2024-02-04 00:59:01|[虎嗅](https://rss.huxiu.com/)|[一批餐饮大牌重仓“卫星店”，2024年餐饮最大的模式机遇？](https://www.huxiu.com/article/2631723.html?f=rss)|
+|2024-02-04 00:45:37|[虎嗅](https://rss.huxiu.com/)|[明明可以靠颜职，为何偏偏要靠才华？](https://www.huxiu.com/article/2631054.html?f=rss)|
+|2024-02-04 00:41:27|[虎嗅](https://rss.huxiu.com/)|[整顿酒局的00后，不喝逆来顺受的酒](https://www.huxiu.com/article/2630278.html?f=rss)|
+|2024-02-04 00:34:51|[虎嗅](https://rss.huxiu.com/)|[特斯拉掉队，谁来替补美股“科技七姐妹”？](https://www.huxiu.com/article/2631269.html?f=rss)|
+|2024-02-04 00:19:17|[虎嗅](https://rss.huxiu.com/)|[苹果Vision Pro上手：这玩意卖两万多，真的合适吗？](https://www.huxiu.com/article/2631057.html?f=rss)|
+|2024-02-04 00:17:20|[虎嗅](https://rss.huxiu.com/)|[年轻人不租房了，中年人却冲进租房市场？](https://www.huxiu.com/article/2631264.html?f=rss)|
+|2024-02-04 00:14:00|[虎嗅](https://rss.huxiu.com/)|[极致北欧：浪漫与冷峻并存](https://www.huxiu.com/article/2629664.html?f=rss)|
 |2024-02-03 16:03:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[警方通报协警铐走实习律师「对两名辅警予以辞退」，如何从法律角度解读？](https://www.zhihu.com/question/642669158)|
 |2024-02-03 16:03:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你在生活中见过哪些「强者从不抱怨环境」的例子？](https://www.zhihu.com/question/642430193)|
 |2024-02-03 16:03:57|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在职场中「降维打击」是一种什么体验？](https://www.zhihu.com/question/640820795)|
