@@ -2,6 +2,52 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-04 07:33:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“休克疗法”遇边疆大吏激烈反抗：阿根廷一州对抗米莱，自发“准货币”给公务员涨薪](https://dig.chouti.com/link/41443811)|
+|2024-02-04 04:02:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[脱亚入欧？一遇强硬身体对抗就露怯，亚洲杯揭开日本足球伤疤](https://dig.chouti.com/link/41441884)|
+|2024-02-04 11:32:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Apple Vision Pro发售后北美社媒上热度比较高的视频有些是恶搞或者虚拟演绎。这是Deepfake的恶搞视频。](https://dig.chouti.com/link/41446048)|
+|2024-02-04 05:03:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【九毛九宣布将开放加盟业务】自2024年2月1日起，逐步开放旗下太二酸菜鱼和山的山外面酸汤火锅的加盟与合作业务。太二酸菜鱼开放中国新疆、西藏、台湾等省份，国内机场高铁等交通枢纽，以及澳大利亚、新西兰的加盟业务。山的山外面酸汤火锅则开放指定商场合作业务，并于2025年2月3日开放加盟。](https://dig.chouti.com/link/41442613)|
+|2024-02-04 08:02:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[全球首个：埃塞俄比亚宣布禁止进口非电动汽车，当地高官称无力进口汽油](https://dig.chouti.com/link/41444128)|
+|2024-02-04 10:02:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[著名演员李如平病逝，享年83岁，曾多次出演高力士](https://dig.chouti.com/link/41445245)|
+|2024-02-04 09:09:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这是复活赛啊！杨波：你们看到这条微博时我应该已经往生了…不久又发朋友圈：头孢喝酒死不了，我没事儿](https://dig.chouti.com/link/41444897)|
+|2024-02-04 04:10:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[达科塔·约翰逊最新出席活动的钻石蛛网造型，为3月的电影《蜘蛛夫人》造势](https://dig.chouti.com/link/41442202)|
+|2024-02-04 07:33:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Vision Pro 版 ChatGPT 推出，界面与移动端接近](https://dig.chouti.com/link/41443876)|
+|2024-02-04 07:03:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【武大性骚扰事件涉事男方首度发声：系隔裤挠痒，已就网暴起诉】“武大图书馆性骚扰”举报事件发生3个月后，涉事男生肖某某母亲首次公开发声：“不是什么‘打飞机’，更不存在‘性骚扰’！我的孩子从小患有特应性皮炎，当时赶上天热腿上湿疹复发，就是隔着衣服在抓痒，这些年医院的就诊病历都有。”](https://dig.chouti.com/link/41443561)|
+|2024-02-04 04:10:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[武汉暴雪……这是汤姆干的？](https://dig.chouti.com/link/41442210)|
+|2024-02-04 04:32:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[让机器与人有共同价值观，这个“人机对齐”问题恐怕是个伪命题](https://dig.chouti.com/link/41442286)|
+|2024-02-04 06:12:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Arina Grabovskaya为电影《大师与玛格丽特》创作的概念图，制作团队想要用后结构主义建筑打造一个梦幻般的莫斯科，其中的灵感来自于20世纪30年代的城市规划和从未建成的建筑图纸 （Artstation：grabovski）](https://dig.chouti.com/link/41443179)|
+|2024-02-04 06:32:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这位麻醉大夫再也没有醒来](https://dig.chouti.com/link/41443225)|
+|2024-02-04 06:41:03|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[一个格式化文本信息版面的小玩意](https://blog.codingnow.com/2024/02/textcell.html)|
+|2024-02-04 04:01:59|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[过年聚会总免不了饮酒，有哪些方法能尽可能减小饮酒对身体的伤害？你有什么隐藏解酒小妙招？](https://www.zhihu.com/question/640704151)|
+|2024-02-04 19:38:24|[Macin](https://www.macin.org/atom.xml)|[中坝岛：领取你的归园田居体验卡](https://macin.org/2024/02/04/zhong-ba-dao/)|
+|2024-02-04 12:22:23|[虎嗅](https://rss.huxiu.com/)|[AI 硬件，只剩故事与脑洞？](https://www.huxiu.com/article/2633404.html?f=rss)|
+|2024-02-04 12:17:00|[虎嗅](https://rss.huxiu.com/)|[“AI芯片第一股”市值神话破灭](https://www.huxiu.com/article/2633386.html?f=rss)|
+|2024-02-04 11:31:00|[虎嗅](https://rss.huxiu.com/)|[万亿消费的实力，还得靠长三角](https://www.huxiu.com/article/2633181.html?f=rss)|
+|2024-02-04 11:18:00|[虎嗅](https://rss.huxiu.com/)|[不给定位就不让点外卖？餐饮小程序强制获取位置信息](https://www.huxiu.com/article/2633215.html?f=rss)|
+|2024-02-04 11:11:37|[虎嗅](https://rss.huxiu.com/)|[融券新规将遏制做空势力？对高频量化策略影响明显](https://www.huxiu.com/article/2633203.html?f=rss)|
+|2024-02-04 11:00:00|[虎嗅](https://rss.huxiu.com/)|[深度体验小鹏X9，这次方向卷对了吗？](https://www.huxiu.com/article/2632754.html?f=rss)|
+|2024-02-04 10:57:17|[虎嗅](https://rss.huxiu.com/)|[春节假期停更通知](https://www.huxiu.com/article/2633154.html?f=rss)|
+|2024-02-04 10:48:53|[虎嗅](https://rss.huxiu.com/)|[当我们谈论分手时，我们在谈论什么？](https://www.huxiu.com/article/2633207.html?f=rss)|
+|2024-02-04 10:42:01|[虎嗅](https://rss.huxiu.com/)|[班级社会网络如何影响农村留守儿童的心理健康？](https://www.huxiu.com/article/2632752.html?f=rss)|
+|2024-02-04 10:19:45|[虎嗅](https://rss.huxiu.com/)|[我在春节走市场：一个大区经理的思考](https://www.huxiu.com/article/2633161.html?f=rss)|
+|2024-02-04 10:17:49|[虎嗅](https://rss.huxiu.com/)|[浦东机场恢复的不是网约车，而是消费者的“选择权”](https://www.huxiu.com/article/2633148.html?f=rss)|
+|2024-02-04 10:07:10|[虎嗅](https://rss.huxiu.com/)|[酒后吐真言真的可信吗？](https://www.huxiu.com/article/2633143.html?f=rss)|
+|2024-02-04 10:05:56|[虎嗅](https://rss.huxiu.com/)|[全面暂停限售股出借，到底啥意思？](https://www.huxiu.com/article/2609082.html?f=rss)|
+|2024-02-04 10:00:01|[虎嗅](https://rss.huxiu.com/)|[字节跳动：中国互联网最极致的“人才工厂”](https://www.huxiu.com/article/2632705.html?f=rss)|
+|2024-02-04 09:34:22|[虎嗅](https://rss.huxiu.com/)|[一个视频带你了解我国的直辖市设立情况](https://www.huxiu.com/article/2630075.html?f=rss)|
+|2024-02-04 09:30:00|[虎嗅](https://rss.huxiu.com/)|[养老金双轨制依然存在？这两个趋势值得细品](https://www.huxiu.com/article/2632721.html?f=rss)|
+|2024-02-04 09:15:16|[虎嗅](https://rss.huxiu.com/)|[19.9元再现，春节档低票价把失去的观众拉回来](https://www.huxiu.com/article/2633136.html?f=rss)|
+|2024-02-04 09:12:54|[虎嗅](https://rss.huxiu.com/)|[一期一会，寒尽春来](https://www.huxiu.com/article/2633158.html?f=rss)|
+|2024-02-04 09:04:33|[虎嗅](https://rss.huxiu.com/)|[自热锅，不嗨了](https://www.huxiu.com/article/2632758.html?f=rss)|
+|2024-02-04 09:00:01|[虎嗅](https://rss.huxiu.com/)|[素质教育下的陷阱：哈佛女孩刘亦婷的求学真相](https://www.huxiu.com/article/2626909.html?f=rss)|
+|2024-02-04 08:53:20|[虎嗅](https://rss.huxiu.com/)|[低调的SDK服务商，侵犯消费者个人信息的执法焦点](https://www.huxiu.com/article/2633144.html?f=rss)|
+|2024-02-04 08:50:00|[虎嗅](https://rss.huxiu.com/)|[多款“天然矿泉水”被曝欺诈丑闻，知名品牌牵涉其中](https://www.huxiu.com/article/2632753.html?f=rss)|
+|2024-02-04 08:47:07|[虎嗅](https://rss.huxiu.com/)|[大办国际赛事的卡塔尔，最热爱的运动是猎隼](https://www.huxiu.com/article/2630269.html?f=rss)|
+|2024-02-04 08:45:00|[虎嗅](https://rss.huxiu.com/)|[“村落终结”的下一站，一定是城镇化吗？](https://www.huxiu.com/article/2632727.html?f=rss)|
+|2024-02-04 08:30:00|[虎嗅](https://rss.huxiu.com/)|[20%收益 VS 100%亏损？“雪球”的不平等赌局](https://www.huxiu.com/article/2632325.html?f=rss)|
+|2024-02-04 08:24:28|[虎嗅](https://rss.huxiu.com/)|[出征与内卷，当代青年的“新西游记”](https://www.huxiu.com/article/2632702.html?f=rss)|
+|2024-02-04 05:56:57|[小众软件](https://www.appinn.com/feed/)|[Apk.1 安装器 – 特色安卓应用：无需改名，直接安装 QQ、微信收到的 apk.1 文件](https://www.appinn.com/apk-1-installer/)|
+|2024-02-04 00:52:13|[爱范儿](https://www.ifanr.com/feed)|[早报｜卢伟冰将接替雷军主讲小米手机发布会/上海恢复浦东机场网约车/Meta 市值暴涨近 2000 亿美元](https://www.ifanr.com/1574944?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-04 08:52:48|[晚点LatePost](https://feedpress.me/wx-postlate)|[美团启动上市以来最大调整：整合到家到店，集中御敌](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512390&idx=1&sn=e5e4de87f46d96ec4bdcc10759ecf328)|
 |2024-02-04 10:13:45|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[27寸新大金刚电竞显示器，2k/240Hz/gsync，M270DTN02.7，外星人同款面板完美屏！](https://masuit.com/1977)|
 |2024-02-04 08:00:00|[虎嗅](https://rss.huxiu.com/)|[揭秘爱马仕配货销售潜规则，奢侈品不坑穷人？](https://www.huxiu.com/article/2625945.html?f=rss)|
 |2024-02-04 07:52:34|[虎嗅](https://rss.huxiu.com/)|[超豪华汽车品牌集体遇冷，宾利在华销量跌幅最大](https://www.huxiu.com/article/2632699.html?f=rss)|
