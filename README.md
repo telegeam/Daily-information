@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-05 09:02:00|[子来园](https://wanghuibin0.github.io/index.xml)|[LLVM目标无关代码生成器（上）（译）](https://simplecoding.fun/posts/2024/02/llvm-code-generator-0/)|
+|2024-02-05 11:09:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【香港车手黄桂华涉毒被捕后死亡】 香港媒体曝光著名车手黄桂华涉上亿毒品案，驾车逃跑被捕后昏迷死亡。 黄国华从事赛车运动超过20年，多年来活跃于CTCC（中国房车锦标赛）、TCR等国内知名赛事。](https://dig.chouti.com/link/41456137)|
+|2024-02-05 09:05:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国“钢琴魔女”斩获格莱美】此前，王羽佳就曾四次被提名，今年终于成功抱回金喇叭，成为该奖项设立以来第一位获此殊荣的中国钢琴家。](https://dig.chouti.com/link/41454871)|
+|2024-02-05 10:03:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[招商银行原党委书记、行长田惠宇一审被判处死缓](https://dig.chouti.com/link/41455361)|
+|2024-02-05 10:11:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[走线润美报道2/5/2024……马斯克在X上发了一段《60分钟》节目报道中国走线情况的节目视频。记者问他们在哪学到走线攻略穿过边境栅栏进入加州的，走线者纷纷回答：“抖音！抖音！”](https://dig.chouti.com/link/41455588)|
+|2024-02-05 04:52:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1元1包的奥特曼卡牌，一年卖了40亿元——你相信光吗？那是金钱的闪闪发光](https://dig.chouti.com/link/41452323)|
+|2024-02-05 09:02:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《人到中年》作者谌容去世，享年88岁，系梁左、梁天和梁欢母亲](https://dig.chouti.com/link/41454533)|
+|2024-02-05 05:08:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[你就说吃坏身体算不算工伤吧](https://dig.chouti.com/link/41452645)|
+|2024-02-05 06:02:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国博士小哥打败女友的AI男友，7页论文让LLM降智，训出「负分男友」成功挽回](https://dig.chouti.com/link/41452897)|
+|2024-02-05 06:03:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[2023年中国汽车进口量创十余年来新低](https://dig.chouti.com/link/41453105)|
+|2024-02-05 06:02:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[长沙爱之心养老公寓“爆雷”案清退公告：应退5.5亿，本次退赔2492万](https://dig.chouti.com/link/41453015)|
+|2024-02-05 07:47:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[沒有零風險的路](http://mercurychong.blogspot.com/2024/02/blog-post.html)|
+|2024-02-05 06:17:22|[云风的 BLOG](http://blog.codingnow.com/atom.xml)|[为 log 实现的无锁 Ringbuffer](https://blog.codingnow.com/2024/02/log_ringbuffer.html)|
 |2024-02-05 05:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[恒大垮台前，债券持有人和中资银行一度博弈](https://cn.wsj.com/articles/%E6%81%92%E5%A4%A7%E5%80%BA%E5%88%B8%E6%8C%81%E6%9C%89%E4%BA%BA%E5%92%8C%E4%B8%AD%E8%B5%84%E9%93%B6%E8%A1%8C%E5%8D%9A%E5%BC%88%E7%BB%93%E6%9E%9C%E5%AF%BC%E8%87%B4%E6%81%92%E5%A4%A7%E6%B8%85%E7%AE%97-75a9fbea)|
 |2024-02-05 06:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国如何扭转熊市？让国家队入场](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E6%89%AD%E8%BD%AC%E7%86%8A%E5%B8%82-%E8%AE%A9%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%85%A5%E5%9C%BA-d3940d29)|
 |2024-02-05 04:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国判处澳大利亚籍作家杨恒均死缓](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%88%A4%E5%A4%84%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%B1%8D%E4%BD%9C%E5%AE%B6%E6%9D%A8%E6%81%92%E5%9D%87%E6%AD%BB%E7%BC%93-23b2af22)|
