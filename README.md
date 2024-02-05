@@ -2,6 +2,38 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-05 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[固态电池，薛定谔的颠覆者｜PowerOn未见](https://36kr.com/p/2625552223754631)|
+|2024-02-05 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[独家丨蔚来资本新募超30亿元](https://36kr.com/p/2635253575401732)|
+|2024-02-05 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[年轻人挤爆打金店：商家月赚90万，取货排队12小时](https://36kr.com/p/2634869562736903)|
+|2024-02-05 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[香港最大AI诈骗案：Deepfake换脸「英国CFO」，直接骗走公司2亿港币](https://36kr.com/p/2635183729508613)|
+|2024-02-05 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[拆飞机赛道悄然崛起，远比开飞机还赚钱｜硬氪分析](https://36kr.com/p/2634989616726272)|
+|2024-02-05 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[辜朝明：日本的真教训，中国的真问题](https://36kr.com/p/2635061078981760)|
+|2024-02-05 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[外媒爆料：马斯克与特斯拉董事吸毒，部分人因“不想失去社交资本”](https://36kr.com/p/2635076410834056)|
+|2024-02-05 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Vision Pro开卖炸出各种显眼包，开车/健身/过马路操作秀翻天，AI大牛Karpathy发千字亲测体验](https://36kr.com/p/2633766186482817)|
+|2024-02-05 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[唐彬森发内部信：2023年元气森林“稳中有升”，“问题”被提及十次](https://36kr.com/p/2633897352085768)|
+|2024-02-05 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[打造AI跨境招聘平台，Brix获2000万元天使轮融资｜36氪首发](https://36kr.com/p/2633931630361736)|
+|2024-02-05 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[英伟达对华专供H20开订，售价11万低于华为昇腾，4090在亚洲多地遭疯抢](https://36kr.com/p/2634081683882243)|
+|2024-02-05 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[BBA在中国：降价可耻但有用](https://36kr.com/p/2634040877022341)|
+|2024-02-05 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[如何尽快实现目标？“吃青蛙”方法最实用](https://36kr.com/p/2576062879622790)|
+|2024-02-05 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[开源AI拯救Meta一夜飙升1960亿刀，39岁小扎爬出元宇宙深坑，年分红7个亿，靠Llama赢麻了](https://36kr.com/p/2633766556155016)|
+|2024-02-05 04:03:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜专家称调休假装上班不如真实放假；华为重夺中国手机市场销量第一宝座；美邦服饰创始人回应女儿7年亏损32亿](https://36kr.com/p/2634884340251778)|
+|2024-02-05 07:03:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[比OpenAI官方提示词指南更全，这26条黄金准则让LLM性能飙升50%以上](https://dig.chouti.com/link/41453652)|
+|2024-02-05 07:10:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[来自飞鱼的攻击](https://dig.chouti.com/link/41453722)|
+|2024-02-05 08:30:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【谁能上春晚】一代人有一代人的春晚。当初蹲守白云黑土的人，现在连看到沈腾马丽都觉得弥足珍贵。当初蹲守三小只的人，如今已在为十个勤天呐喊。群众永远嫌弃春晚的排兵布将，却永远口嫌体正直地讨论围观。无他，唯习惯尔。](https://dig.chouti.com/link/41454417)|
+|2024-02-05 09:12:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【北爱尔兰领导人：将就与爱尔兰统一举行公投】英国北爱尔兰领导人米歇尔·奥尼尔在4日播出的采访中说，北爱尔兰已经开始了“机遇十年”，其间将就与爱尔兰的统一举行投票。奥尼尔是民族主义政党新芬党副主席，3日当选北爱尔兰首席部长。](https://dig.chouti.com/link/41454938)|
+|2024-02-05 09:12:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“每小时18欧元”，巴黎全民公投过半赞成提高SUV停车费](https://dig.chouti.com/link/41454995)|
+|2024-02-05 10:02:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[搜索引擎Yandex荷兰母公司宣布以4750亿卢布出售俄罗斯资产，现金款项将以离岸人民币支付](https://dig.chouti.com/link/41455261)|
+|2024-02-05 10:02:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[香港最大AI诈骗案：Deepfake换脸「英国CFO」，直接骗走公司2亿港币](https://dig.chouti.com/link/41455347)|
+|2024-02-05 10:33:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[夹缝中的英伟达中国](https://dig.chouti.com/link/41455674)|
+|2024-02-05 10:33:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[去了一次闽南，才知道烧香拼的是网速](https://dig.chouti.com/link/41455736)|
+|2024-02-05 11:02:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从月球尘埃到月球土壤：人类首次在月壤中种植食物](https://dig.chouti.com/link/41455954)|
+|2024-02-05 12:02:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日媒：被评为“日本小姐”的乌克兰裔模特承认当“小三”，放弃桂冠](https://dig.chouti.com/link/41456318)|
+|2024-02-05 11:02:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[CNN刊登以军“左翼分子”文章：为自己不支持的政府而战，痛心加沙平民的死亡](https://dig.chouti.com/link/41455966)|
+|2024-02-05 12:54:02|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[龍年龍行！ 2024 STUDIO A 春節 重磅加碼](https://applefans.today/2024-02-studio-a-cny-campaign/)|
+|2024-02-05 12:35:45|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果內建的「地圖」 有哪些實用功能呢？](https://applefans.today/2024-01-reasons-to-use-apple-maps/)|
+|2024-02-05 05:20:40|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨拆解 Vision Pro；政府挑起了 4000 亿美元芯片竞赛](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512439&idx=3&sn=8e9c1d88864ddd69c02fdd3826a4c5b6)|
+|2024-02-05 05:20:39|[晚点LatePost](https://feedpress.me/wx-postlate)|[哲库解散半年后，芯片人才流向了哪儿？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512439&idx=2&sn=00ca566d528b73d5e562bc0bc88708c9)|
+|2024-02-05 05:20:39|[晚点LatePost](https://feedpress.me/wx-postlate)|[和心理学家许燕一起，回顾我们这一年的精神状态](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512439&idx=1&sn=1e4f6e046442ded17fcd6c41af43f493)|
 |2024-02-05 09:02:00|[子来园](https://wanghuibin0.github.io/index.xml)|[LLVM目标无关代码生成器（上）（译）](https://simplecoding.fun/posts/2024/02/llvm-code-generator-0/)|
 |2024-02-05 11:09:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【香港车手黄桂华涉毒被捕后死亡】 香港媒体曝光著名车手黄桂华涉上亿毒品案，驾车逃跑被捕后昏迷死亡。 黄国华从事赛车运动超过20年，多年来活跃于CTCC（中国房车锦标赛）、TCR等国内知名赛事。](https://dig.chouti.com/link/41456137)|
 |2024-02-05 09:05:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国“钢琴魔女”斩获格莱美】此前，王羽佳就曾四次被提名，今年终于成功抱回金喇叭，成为该奖项设立以来第一位获此殊荣的中国钢琴家。](https://dig.chouti.com/link/41454871)|
