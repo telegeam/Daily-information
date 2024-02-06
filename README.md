@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-06 10:35:26|[小众软件](https://www.appinn.com/feed/)|[Smoothrase – 图片去水印、照片去路人，白描开发者新作：用 ChatGPT 开发的完整的 iPhone、iPad 应用](https://www.appinn.com/smoothrase/)|
+|2024-02-06 04:53:39|[小众软件](https://www.appinn.com/feed/)|[在线麻将接龙 – 经典配对游戏，龙年主题上线](https://www.appinn.com/mahjongg-mentor/)|
+|2024-02-06 01:44:10|[Dawner](https://dawner.top/atom.xml)|[獨飲](https://dawner.top/posts/drink-alone/)|
+|2024-02-06 06:46:57|[煎蛋](http://jandan.net/feed)|[发霉啦：今天，我弟想要我手机打游戏](http://jandan.net/p/115567)|
+|2024-02-06 00:47:43|[爱范儿](https://www.ifanr.com/feed)|[早报｜马斯克被曝与特斯拉董事一起吸毒/李想回应巨额年终奖/消息称华为正研发三折叠屏手机](https://www.ifanr.com/1575050?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-06 09:17:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPadOS 17 數據揭密裝機率飆升！iPad 用戶熱情澎湃](https://www.iphonetaiwan.org/2024/02/apple-ipados-17-installation-insights-and-optimization.html)|
+|2024-02-06 08:40:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 17.4 正式版3月上線！但iOS 17.3.1會先登場](https://www.iphonetaiwan.org/2024/02/apple-ios-17-4-update-features.html)|
+|2024-02-06 08:07:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone安全風險大增？蘋果揭示第三方應用商店威脅](https://www.iphonetaiwan.org/2024/02/iphone-security-risks-and-third-party-stores-threats.html)|
+|2024-02-06 07:44:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[一支iPhone奪得全球手機半壁江山：50%銷售、90%利潤](https://www.iphonetaiwan.org/2024/02/global-smartphone-market-2023-apple-dominance.html)|
+|2024-02-06 07:18:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[2023 年微博熱搜品牌 Apple 第一、iPhone 15 第一](https://www.iphonetaiwan.org/2024/02/weibo-hot-trends-apple-iphone15-2023.html)|
+|2024-02-06 06:56:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[想在3D空間中與ChatGPT對話嗎？Vision Pro版登場](https://www.iphonetaiwan.org/2024/02/apple-vision-pro-3d-chatgpt.html)|
+|2024-02-06 06:25:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[面對歐盟數位市場法 - 蘋果開發者專屬諮詢啟動](https://www.iphonetaiwan.org/2024/02/apple-eu-app-ecosystem-eu.html)|
+|2024-02-06 06:05:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果Vision Pro何時在中國推出？提姆·庫克：很快](https://www.iphonetaiwan.org/2024/02/apple-vision-pro-china-launch.html)|
 |2024-02-06 01:30:00|[卡瓦邦噶！](https://www.kawabangga.com/feed)|[Python 复用装饰器代码](https://www.kawabangga.com/posts/5757)|
 |2024-02-06 07:01:14|[机核](https://www.gcores.com/rss)|[【传言】腾讯正开发《艾尔登法环》手游，采取免费内购制](https://www.gcores.com/articles/177394)|
 |2024-02-06 06:09:08|[机核](https://www.gcores.com/rss)|[可换装、可钓鱼：《星刃》公布更多游戏细节](https://www.gcores.com/articles/177390)|
