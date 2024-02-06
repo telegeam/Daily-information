@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-02-05）
+﻿# 每日资讯（2024-02-06）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-06 01:00:00|[机核](https://www.gcores.com/rss)|[【福利】「Solarain Toys」《LoveLive!Superstar!! 》「玫花绮梦ver. 一期生5人Set版」登场！](https://www.gcores.com/articles/177350)|
 |2024-02-05 12:49:46|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[国内引进的第一部国外科幻片，《西部世界》电影版，50年前的惊人想象力！](https://www.ximalaya.com/sound/704616377)|
 |2024-02-05 07:03:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[对话“华强北Vision Pro”老板：低价不丢人，计划今年出货50万台](https://dig.chouti.com/link/41453594)|
 |2024-02-05 16:04:26|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季 NBA 快船 103:95 热火，如何评价这场比赛？](https://www.zhihu.com/question/642988422)|
@@ -148,6 +149,7 @@
 |2024-02-05 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[今年过年回家你有特别想见到的人吗？](https://www.zhihu.com/question/642364909)|
 |2024-02-05 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[不说地名，一人说一道年夜饭、分享下图片，证明你是哪个地方的人？](https://www.zhihu.com/question/639791368)|
 |2024-02-05 04:01:45|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[网曝 G1265 次列车 100 多人有票无座，青岛站致歉称车型变更减少席位 97 个，哪些信息值得关注?](https://www.zhihu.com/question/642527801)|
+|2024-02-06 00:00:00|[陈少文的网站](https://www.chenshaowen.com/atom.xml)|[使用 TensorRT 加速模型推理](https://www.chenshaowen.com/blog/speeding-up-model-inference-with-tensorrt.html)|
 |2024-02-05 02:50:44|[机核](https://www.gcores.com/rss)|[《哈罗德·哈利巴》现已在Steam新品节公开首个Demo](https://www.gcores.com/articles/177315)|
 |2024-02-05 01:48:36|[机核](https://www.gcores.com/rss)|[《幸福工厂》将于年内脱离抢先体验并正式发售](https://www.gcores.com/articles/177314)|
 |2024-02-05 01:39:37|[机核](https://www.gcores.com/rss)|[《消逝的光芒 2》庆祝二周年生日，未来三年将持续提供更新](https://www.gcores.com/articles/177312)|
