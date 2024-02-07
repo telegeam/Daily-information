@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-02-06）
+﻿# 每日资讯（2024-02-07）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-07 00:24:00|[虎嗅](https://rss.huxiu.com/)|[年会降级和取消的深圳人：年终奖变刮刮乐，但保住份工更重要](https://www.huxiu.com/article/2642187.html?f=rss)|
+|2024-02-07 00:12:01|[虎嗅](https://rss.huxiu.com/)|[“万亿俱乐部”集体交卷，这些城市被反超了](https://www.huxiu.com/article/2642229.html?f=rss)|
 |2024-02-06 12:21:12|[木鸟杂记](https://www.qtmuniao.com/atom.xml)|[MemGraph 背后论文《基于内存和MVCC 的高速可串行化》详细解析（一）](https://www.qtmuniao.com/2024/02/06/memory-mvcc-serial/)|
 |2024-02-06 22:56:07|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[van♂乙己](https://masuit.com/2015)|
 |2024-02-06 16:08:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[梅西在板凳席坐了90分钟，以后谁还会再相信“球王赛”？](https://36kr.com/p/2636427866668161)|
