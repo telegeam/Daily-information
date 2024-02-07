@@ -2,6 +2,43 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-07 10:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国宣布调整证监会主要领导，易会满被免职，吴清接任](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%B0%83%E6%95%B4%E8%AF%81%E7%9B%91%E4%BC%9A%E4%B8%BB%E8%A6%81%E9%A2%86%E5%AF%BC-%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%85%8D%E8%81%8C-%E5%90%B4%E6%B8%85%E6%8E%A5%E4%BB%BB-64fabcf7)|
+|2024-02-07 06:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国政府将提供支持，以加速本土电动车企全球扩张](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%8F%90%E4%BE%9B%E6%94%AF%E6%8C%81-%E5%8A%A0%E9%80%9F%E6%9C%AC%E5%9C%9F%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%BC%81%E5%85%A8%E7%90%83%E6%89%A9%E5%BC%A0-338b50cb)|
+|2024-02-07 01:00:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[台积电将在日本建设第二家芯片厂，总投资扩大至200多亿美元](https://cn.wsj.com/articles/%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%B0%86%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%BB%BA%E8%AE%BE%E7%AC%AC%E4%BA%8C%E5%AE%B6%E8%8A%AF%E7%89%87%E5%8E%82-86a5fb04)|
+|2024-02-07 09:35:57|[晴雀堂](https://hehysh.github.io/atom.xml)|[聊聊粥铺](https://blog.nbplus.eu.org/posts/404.html)|
+|2024-02-07 07:52:42|[晴雀堂](https://hehysh.github.io/atom.xml)|[迁移hexo博客至mac避坑指北](https://blog.nbplus.eu.org/posts/34459.html)|
+|2024-02-07 16:07:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[字节终于放大招了](https://36kr.com/p/2638173075471495)|
+|2024-02-07 16:07:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[超百万人已和AI亲戚过招！"决战拜年之巅"爆火，对话类游戏迎小高峰 产品观察](https://36kr.com/p/2638090286121219)|
+|2024-02-07 16:07:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[这是一种21世纪新出现的情绪，你可能也会有](https://36kr.com/p/2636520610185480)|
+|2024-02-07 16:07:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[春节最惨一幕：安徽人回老家，把全国人民急坏了](https://36kr.com/p/2636601753271424)|
+|2024-02-07 16:07:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[这个春节，腾讯和网易拼了](https://36kr.com/p/2637800228621826)|
+|2024-02-07 16:07:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[这俩洋和尚，让整个中国零售业都傻眼了](https://36kr.com/p/2637708759367938)|
+|2024-02-07 16:07:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[90后，卷向义乌](https://36kr.com/p/2637699999662344)|
+|2024-02-07 04:01:48|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[年度数码科技大盘点：我们眼中的最佳与最差都是啥？](https://sspai.com/post/86281)|
+|2024-02-07 09:35:27|[小众软件](https://www.appinn.com/feed/)|[过年了，如何记录、直观展示人际关系？Obsidian 又立一功](https://www.appinn.com/obsidian-personal-manage/)|
+|2024-02-07 01:02:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“2009年以来最复杂的春运天气”——列车停运、航班大范围晚点甚至取消，高速公路严重拥堵，难以计数的人们至今仍被困在回乡路上。房车女孩，大卡车司机，南北不同城市的人向我们讲述了他们的返乡遭遇，除了对抗寒冷天气，缺水、缺食物，交通事故频发也是普遍遭遇，而即便身处困境，他们中很多人也不忘向周围施以援手。](https://dig.chouti.com/link/41471492)|
+|2024-02-07 11:33:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[智利驻华大使介绍，车厘子已经成为智利第二大出口商品，截至目前，智利当季出口车厘子的92%销往对中国，上季为88%](https://dig.chouti.com/link/41477386)|
+|2024-02-07 04:02:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【《曼达洛人》演员卡拉诺起诉迪士尼，马斯克提供资金支持】2020年，卡拉诺因在社交媒体上发布煽动性和反犹太主义言论，被迪士尼解雇。卡拉诺选择现在提起诉讼是因为去年8月，马斯克发帖称："如果你因在这个平台上发布或点赞某些内容而遭到雇主的不公平对待，我们会资助你的法律费用。"](https://dig.chouti.com/link/41473151)|
+|2024-02-07 12:10:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1979年，21岁的麦当娜，由她当时的男朋友Dan Gilroy拍摄](https://dig.chouti.com/link/41477748)|
+|2024-02-07 09:33:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【Meta将在其社交平台上标注AI生成图像】Meta全球事务总裁Nick Clegg在一篇博客文章中写道，公司将对发布在Facebook、Instagram和Threads服务上的任何带有标记的内容应用这些标签，以向用户表明，这些图像在很多情况下类似于真实照片，实际上是数字创作。](https://dig.chouti.com/link/41476354)|
+|2024-02-07 13:03:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[世上唯一一幅The Beatles全员共同创作绘画以170万美元成交](https://dig.chouti.com/link/41478036)|
+|2024-02-07 07:12:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[广西北海，2024基石·渝皓杯全国青少年冬训邀请赛，在一场U10比赛中，沈阳奥飒启星主教练吴高俊（前中超辽宁队球员）在0:6落后时，指挥场上小球员踢人：“踢不着球能踢着人不？”“他再过你你就踢他！”“谁过你你就踢谁，踢他！”“再进球就照人踢！”](https://dig.chouti.com/link/41475145)|
+|2024-02-07 07:12:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这回是张大大，属于是老年机爆改iPhone了](https://dig.chouti.com/link/41475158)|
+|2024-02-07 07:01:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【学者调研：农民现在的医保负担超过了过去农业税】基层干部感叹，2006年全面取消农业税，过去是农业税和“三提五统”收缴难，现在则变成了医保收缴更难。在不考虑农民收入增加的情况下，按照380元的个人缴纳标准，农民承担的医保缴纳金额超过了过去的农业税费负担。一个家庭算下来，人口多的需要支付两三千元。](https://dig.chouti.com/link/41474692)|
+|2024-02-07 06:13:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马儿骑着骑着开始交配繁殖](https://dig.chouti.com/link/41474613)|
+|2024-02-07 06:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不买房喊人家小土豆，买了房喊人家小金豆](https://dig.chouti.com/link/41474627)|
+|2024-02-07 12:47:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阿根廷总统米莱领导的“自由前进党”宣布，将从议会撤回其全面改革法案……米莱的首次重大立法尝试回到原点](https://dig.chouti.com/link/41477839)|
+|2024-02-07 06:12:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[河尾滩边防连的最高巡逻点位海拔5700米，比珠峰大本营还要高出500米，零下二三十度的低温，七八级的大风，含氧量不足平原的40%，光是站立就相当于平原负重50斤，爬坡则更为艰难，记者跟随巡逻队伍大约20分钟后，在攀登108级台阶时，由于缺氧，呼吸困难，头痛欲裂，身体承受达到极限，不得不停止拍摄.](https://dig.chouti.com/link/41474555)|
+|2024-02-07 11:09:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：恐龙骑士，作者Jim Lenahan](https://dig.chouti.com/link/41477327)|
+|2024-02-07 11:33:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本失去的三十年：去杠杆用了14年](https://dig.chouti.com/link/41477379)|
+|2024-02-07 08:12:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【当Rachel忘记Ross……】今年超级碗Uber Eats的创意广告，要想记住UE上除了吃的还可以点很多东西，就必须忘记一些事。于是安妮斯顿与大卫·修蒙在片场偶遇，却忘记了这位共事十年的老搭档。贝克汉姆和维多利亚怎么都想不起辣妹组合的团名。Usher忘记了自己就是今年中场秀表演嘉宾……记住UE不光能点食物的代价还挺大。](https://dig.chouti.com/link/41475711)|
+|2024-02-07 08:02:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[女孩遭强奸死亡案一审未宣判：父母寻女13年才知女儿早已遇害](https://dig.chouti.com/link/41475446)|
+|2024-02-07 09:10:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[白炽燃气罩如何发光](https://dig.chouti.com/link/41476267)|
+|2024-02-07 07:12:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【国家安全部微信公众号披露细节：留学生被境外策反回国从事间谍活动】2月7日， 国家安全部刊文《真实案例丨赴外留学要增强反间防谍意识》，文中提到，张某，某境外高校毕业生，因在境外学习期间被境外间谍情报机关拉拢策反，从事间谍活动，被依法处理。](https://dig.chouti.com/link/41475134)|
+|2024-02-07 05:05:48|[卡瓦邦噶！](https://www.kawabangga.com/feed)|[CVE-2024-21626 从容器内逃逸到宿主机文件系统](https://www.kawabangga.com/posts/5785)|
+|2024-02-07 01:47:07|[卡瓦邦噶！](https://www.kawabangga.com/feed)|[推荐新加坡的餐厅：Ma Maison](https://www.kawabangga.com/posts/5705)|
+|2024-02-07 14:24:34|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨​证监会密集调整政策；TikTok 和印尼大选](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512590&idx=2&sn=78f472c8937209301a86d3f10d0f70a7)|
+|2024-02-07 14:24:34|[晚点LatePost](https://feedpress.me/wx-postlate)|[抖音集团完成高层大调整](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512590&idx=1&sn=4005057d968aec574b10eca8fdde3711)|
 |2024-02-07 10:02:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[多家台湾媒体报道，台当局要求旅行社停招赴大陆旅行团](https://dig.chouti.com/link/41476501)|
 |2024-02-07 10:35:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[新任证监会主席吴清拥有丰富一线监管经验，作风强硬，曾被证券界称为“问题券商终结者”](https://dig.chouti.com/link/41476944)|
 |2024-02-07 08:40:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【考上余华的博士，我不敢自称作家】去年八月，史玥琦成为了余华的学生——创意写作博士。他全然科班出身的履历引人好奇：研究生就读于复旦创意写作专业，跟着王安忆、张怡微等作家学写作；毕业后，作品发表在国内顶尖的文学杂志上。从“学生”到“青年作家”，史玥琦经常被问的问题是，“你认为高校是可以培养作家的吗？”](https://dig.chouti.com/link/41475855)|
