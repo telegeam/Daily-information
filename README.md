@@ -2,6 +2,26 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-07 14:10:00|[机核](https://www.gcores.com/rss)|[马伯庸《太白金星有点烦》发刊词](https://www.gcores.com/radios/177077)|
+|2024-02-07 14:00:00|[机核](https://www.gcores.com/rss)|[春节期间有声书上线计划](https://www.gcores.com/articles/177203)|
+|2024-02-07 14:00:00|[机核](https://www.gcores.com/rss)|[免费试听：第一集 配合护法](https://www.gcores.com/radios/177093)|
+|2024-02-07 14:00:00|[机核](https://www.gcores.com/rss)|[张腾岳《太白金星有点烦》发刊词](https://www.gcores.com/radios/167723)|
+|2024-02-07 13:00:00|[机核](https://www.gcores.com/rss)|[新中国科幻口述史 Vol.1丨从万物勃发到万马齐喑：前十七年间科幻文学的发展（1949-1966）](https://www.gcores.com/radios/170733)|
+|2024-02-07 13:00:00|[机核](https://www.gcores.com/rss)|[《新中国科幻口述史》免费试听集](https://www.gcores.com/radios/170732)|
+|2024-02-07 12:30:00|[机核](https://www.gcores.com/rss)|[导演的月常2024年夜饭，2月9日晚18点，不见不散！](https://www.gcores.com/videos/177452)|
+|2024-02-07 12:23:30|[机核](https://www.gcores.com/rss)|[48小时做个春晚游戏](https://www.gcores.com/videos/177457)|
+|2024-02-07 10:50:00|[机核](https://www.gcores.com/rss)|[《佩妮大逃脱》体验：我与悠悠球合体，堪比体术杂技大师](https://www.gcores.com/articles/177458)|
+|2024-02-07 10:30:00|[机核](https://www.gcores.com/rss)|[摄影分享｜香港](https://www.gcores.com/articles/177440)|
+|2024-02-07 10:20:35|[机核](https://www.gcores.com/rss)|[《背包乱斗》参与2月5日Steam新品节，开发者感谢中国玩家](https://www.gcores.com/articles/177426)|
+|2024-02-07 10:12:25|[机核](https://www.gcores.com/rss)|[二十一世纪不宜写诗](https://www.gcores.com/articles/177453)|
+|2024-02-07 10:00:00|[机核](https://www.gcores.com/rss)|[开放世界的《FF7》是什么样子的？《最终幻想7 Rebirth》试玩录像](https://www.gcores.com/videos/177449)|
+|2024-02-07 09:49:14|[机核](https://www.gcores.com/rss)|[《生化危机3》重制版即将入库:微软公布2月XGP游戏阵容](https://www.gcores.com/articles/177451)|
+|2024-02-07 09:00:00|[机核](https://www.gcores.com/rss)|[如何在录音室优雅的打开手机游戏，录音笔 VOL.138](https://www.gcores.com/radios/177421)|
+|2024-02-07 08:00:00|[机核](https://www.gcores.com/rss)|[译介丨深陷梦想：《大刀》的故事（7）](https://www.gcores.com/articles/176880)|
+|2024-02-07 07:49:25|[机核](https://www.gcores.com/rss)|[88rising未发行专辑抢先在NBA®2K24推出](https://www.gcores.com/articles/177439)|
+|2024-02-07 07:49:20|[机核](https://www.gcores.com/rss)|[抱着“超越玩家期待”的目标：《最终幻想 7 重生》制作人采访](https://www.gcores.com/articles/177438)|
+|2024-02-07 06:54:50|[机核](https://www.gcores.com/rss)|[《卧龙：苍天陨落 完全版》今日发布，免费试玩现已登陆Steam](https://www.gcores.com/articles/177442)|
+|2024-02-07 06:37:44|[机核](https://www.gcores.com/rss)|[如何用一个简单的系统让我放弃一款游戏——粗浅的“蓝乐活”计算与抱怨](https://www.gcores.com/articles/177437)|
 |2024-02-07 10:20:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国宣布调整证监会主要领导，易会满被免职，吴清接任](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%B0%83%E6%95%B4%E8%AF%81%E7%9B%91%E4%BC%9A%E4%B8%BB%E8%A6%81%E9%A2%86%E5%AF%BC-%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%85%8D%E8%81%8C-%E5%90%B4%E6%B8%85%E6%8E%A5%E4%BB%BB-64fabcf7)|
 |2024-02-07 06:55:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国政府将提供支持，以加速本土电动车企全球扩张](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%8F%90%E4%BE%9B%E6%94%AF%E6%8C%81-%E5%8A%A0%E9%80%9F%E6%9C%AC%E5%9C%9F%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%BC%81%E5%85%A8%E7%90%83%E6%89%A9%E5%BC%A0-338b50cb)|
 |2024-02-07 01:00:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[台积电将在日本建设第二家芯片厂，总投资扩大至200多亿美元](https://cn.wsj.com/articles/%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%B0%86%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%BB%BA%E8%AE%BE%E7%AC%AC%E4%BA%8C%E5%AE%B6%E8%8A%AF%E7%89%87%E5%8E%82-86a5fb04)|
