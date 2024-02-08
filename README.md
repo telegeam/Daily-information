@@ -2,6 +2,30 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-08 23:51:14|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[新春主题高清壁纸分享——女神陪你过大年 235Vol/26250P ](https://masuit.com/1444)|
+|2024-02-08 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[过年吃什么馅儿的饺子最养生？](https://www.zhihu.com/question/643371548)|
+|2024-02-08 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[应届生刚毕业究竟选择国企还是私企？](https://www.zhihu.com/question/406803023)|
+|2024-02-08 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《崩坏：星穹铁道》动画短片「太平临新岁」？](https://www.zhihu.com/question/643549692)|
+|2024-02-08 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[欧盟委员会副主席博雷利称「乌弹药已耗尽，但我无能为力」，哪些信息值得关注？](https://www.zhihu.com/question/643596956)|
+|2024-02-08 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[南京放宽积分落户申请条件，取消社保缴纳不少于 12 个月限制，哪些信息值得关注？](https://www.zhihu.com/question/643549627)|
+|2024-02-08 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[禁止哪项技术后可将人类文明锁死在中世纪？](https://www.zhihu.com/question/642683269)|
+|2024-02-08 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[减肥可以隔一天吃一次放纵餐吗？](https://www.zhihu.com/question/638449743)|
+|2024-02-08 15:00:00|[机核](https://www.gcores.com/rss)|[银河与城Vol.2丨《超级银河战士》设计赏析](https://www.gcores.com/radios/177221)|
+|2024-02-08 12:40:37|[机核](https://www.gcores.com/rss)|[死亡就在每个角落:《橡心镇惊魂记》将于 2 月 27 日发售](https://www.gcores.com/articles/177493)|
+|2024-02-08 12:34:28|[机核](https://www.gcores.com/rss)|[在虚拟世界完成二次镜像——角色代入感的构建](https://www.gcores.com/articles/177495)|
+|2024-02-08 12:15:31|[机核](https://www.gcores.com/rss)|[【春晚小品模拟器】照着评论意见改的！](https://www.gcores.com/videos/177499)|
+|2024-02-08 10:03:28|[机核](https://www.gcores.com/rss)|[从在厨房开发游戏到创造爆火的《绝地潜兵》，这个开发组的故事真有意思](https://www.gcores.com/videos/177491)|
+|2024-02-08 10:00:00|[机核](https://www.gcores.com/rss)|[最清新独特治愈身心的塞尔达！20分钟带你回顾《塞尔达传说：风之杖》](https://www.gcores.com/videos/177431)|
+|2024-02-08 09:00:00|[机核](https://www.gcores.com/rss)|[我在机核书架上看到了徐锦江，录音笔Vol.139](https://www.gcores.com/radios/177490)|
+|2024-02-08 09:00:00|[机核](https://www.gcores.com/rss)|[守望译事：圣诞灵娥与歌乐天鹅](https://www.gcores.com/articles/177482)|
+|2024-02-08 06:56:49|[机核](https://www.gcores.com/rss)|[译介丨推进与牵引 —— 建立并传达关卡的语言](https://www.gcores.com/articles/177370)|
+|2024-02-08 16:54:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果加入！美國商務部人工智慧安全研究所聯盟](https://www.iphonetaiwan.org/2024/02/apple-joins-aisic-ai-security-alliance.html)|
+|2024-02-08 16:39:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Music 超級盃廣告：由提姆·庫克、亞瑟小子主演](https://www.iphonetaiwan.org/2024/02/apple-music-super-bowl-usher.html)|
+|2024-02-08 16:21:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 17.4 新功能讓你告別視訊時尷尬：手勢反應自主掌控](https://www.iphonetaiwan.org/2024/02/ios-17-4-video-calling-enhancements.html)|
+|2024-02-08 16:00:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[西班牙反壟斷案：蘋果和亞馬遜提出上訴挑戰](https://www.iphonetaiwan.org/2024/02/apple-amazon-spain-antitrust-appeal.html)|
+|2024-02-08 15:44:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果前CEO：Vision Pro 和 iPhone 一樣是革命性產品](https://www.iphonetaiwan.org/2024/02/apple-vision-pro-revolutionary-tech.html)|
+|2024-02-08 15:25:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[馬斯克：試用 Apple Vision Pro 後並沒有讓我震驚](https://www.iphonetaiwan.org/2024/02/elon-musk-apple-vision-pro-review.html)|
+|2024-02-08 08:35:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果霸氣併購 32 家 AI 新創公司，人工智慧領域震撼進軍](https://www.iphonetaiwan.org/2024/02/apple-ai-expansion-32-acquisitions.html)|
 |2024-02-08 16:04:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[如何在2024年成为一个全职自由职业者？](https://36kr.com/p/2601583505422985)|
 |2024-02-08 16:04:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[张楠卸任抖音集团CEO，权力向梁汝波集中](https://36kr.com/p/2638722432778497)|
 |2024-02-08 16:04:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[极简过年后，我终于不焦虑了](https://36kr.com/p/2639149994163336)|
