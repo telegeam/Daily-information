@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-02-07）
+﻿# 每日资讯（2024-02-08）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-08 00:30:51|[爱范儿](https://www.ifanr.com/feed)|[早报｜曝苹果正开发可折叠翻盖式 iPhone / 马斯克评价 Vision Pro / 张楠辞任抖音集团 CEO](https://www.ifanr.com/1575260?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-02-07 14:10:00|[机核](https://www.gcores.com/rss)|[马伯庸《太白金星有点烦》发刊词](https://www.gcores.com/radios/177077)|
 |2024-02-07 14:00:00|[机核](https://www.gcores.com/rss)|[春节期间有声书上线计划](https://www.gcores.com/articles/177203)|
 |2024-02-07 14:00:00|[机核](https://www.gcores.com/rss)|[免费试听：第一集 配合护法](https://www.gcores.com/radios/177093)|
