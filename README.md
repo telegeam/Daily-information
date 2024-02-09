@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-02-08）
+﻿# 每日资讯（2024-02-09）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-09 01:00:00|[机核](https://www.gcores.com/rss)|[《神笔谈兵》1.0正式版将于2月22日推出](https://www.gcores.com/articles/177488)|
 |2024-02-08 23:51:14|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[新春主题高清壁纸分享——女神陪你过大年 235Vol/26250P ](https://masuit.com/1444)|
 |2024-02-08 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[过年吃什么馅儿的饺子最养生？](https://www.zhihu.com/question/643371548)|
 |2024-02-08 16:03:28|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[应届生刚毕业究竟选择国企还是私企？](https://www.zhihu.com/question/406803023)|
