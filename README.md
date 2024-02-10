@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-02-09）
+﻿# 每日资讯（2024-02-10）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-10 00:45:46|[虎嗅](https://rss.huxiu.com/)|[拜年里的秘密：五福、吉星都是啥？](https://www.huxiu.com/article/2654310.html?f=rss)|
+|2024-02-10 00:40:05|[虎嗅](https://rss.huxiu.com/)|[免费、SOTA、中文，微软卷出了新高度](https://www.huxiu.com/article/2650382.html?f=rss)|
+|2024-02-10 00:13:41|[虎嗅](https://rss.huxiu.com/)|[回到老家才知道，乡下杀年猪都开始卷了](https://www.huxiu.com/article/2655103.html?f=rss)|
 |2024-02-09 09:09:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[以小扛大](https://dig.chouti.com/link/41494294)|
 |2024-02-09 16:28:48|[机核](https://www.gcores.com/rss)|[忆我在B站的二三事 05](https://www.gcores.com/articles/167770)|
 |2024-02-09 16:52:07|[鸟窝](https://colobu.com/atom.xml)|[一些笔记工具工具以及memos介绍](https://colobu.com/2024/02/10/some-note-taking-tools-and-memos/)|
