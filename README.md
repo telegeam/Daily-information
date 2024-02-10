@@ -2,6 +2,15 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-10 06:45:27|[小众软件](https://www.appinn.com/feed/)|[小众软件 2023 年度精选.1](https://www.appinn.com/appinn-2023-top-15-list-1/)|
+|2024-02-10 03:41:00|[Cat in Chinese](http://chinese.catchen.me/feeds/posts/default)|[Vision Pro 使用体验（Part 1）](http://chinese.catchen.me/2024/02/vision-pro-review-part-1.html)|
+|2024-02-10 10:00:49|[爱范儿](https://www.ifanr.com/feed)|[体验 Vision Pro 两周，我们发现了空间计算的杀手级应用](https://www.ifanr.com/1575284?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-10 10:36:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[傳 iOS 18 採用 visionOS 設計元素：半透明選單](https://www.iphonetaiwan.org/2024/02/apple-ios-18-revolutionary-update.html)|
+|2024-02-10 10:24:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[「零件配對」是維修自由還是風險？蘋果為何反對](https://www.iphonetaiwan.org/2024/02/apple-vs-oregon-law-parts-restriction-dispute.html)|
+|2024-02-10 10:01:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[watchOS 10.3.1 開放更新！修復蘋果手錶漏洞提升性能](https://www.iphonetaiwan.org/2024/02/apple-watchos-10-3-1-update-enhancements.html)|
+|2024-02-10 09:31:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 17.4 歐洲 PWA 應用大變革！用戶體驗是否被削弱](https://www.iphonetaiwan.org/2024/02/ios-17-4-impact-on-european-pwa-apps.html)|
+|2024-02-10 09:08:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[2023全球最熱賣手機！iPhone 7款霸冠軍，三星拼3席](https://www.iphonetaiwan.org/2024/02/global-best-selling-phones-2023.html)|
+|2024-02-10 08:23:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[傳蘋果 iPhone SE 4 拋棄瀏海：改用動態島設計](https://www.iphonetaiwan.org/2024/02/iphone-se-4-face-id.html)|
 |2024-02-10 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[阿里遭遇“中年阵痛”](https://36kr.com/p/2640594423500040)|
 |2024-02-10 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[春晚呀，其实看动画片的我们不想长大](https://36kr.com/p/2641580587565317)|
 |2024-02-10 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[春节租车市场红火，多平台订单暴涨](https://36kr.com/p/2639630318797064)|
